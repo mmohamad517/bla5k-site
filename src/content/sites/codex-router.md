@@ -14,9 +14,10 @@ featured: true
 affiliate: false
 updated: 2026-07-30
 metaTitle: How to Use Claude AI Skills on iPhone & iOS
-metaDescription: Master Claude AI skills on iOS with our complete 2026 guide.
-  Learn setup tips, powerful features, AI workflows, and smart productivity
-  methods to get more from Claude on mobile.
+metaDescription: "Codex Router is an open-source API proxy. It intelligently
+  routes AI coding requests to the best Large Language Model. It picks the right
+  model based on cost, speed, and task complexity. This helps developers save
+  money "
 faqs:
   - q: " What is Codex Router?"
     a: >
