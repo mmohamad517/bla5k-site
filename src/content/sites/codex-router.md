@@ -13,7 +13,7 @@ tags:
 featured: true
 affiliate: false
 updated: 2026-07-30
-metaTitle: "Codex Router: Run Kimi & Grok in Codex (Official Open-Source Guide)"
+metaTitle: How to Use Claude AI Skills on iPhone & iOS
 metaDescription: Install Codex Router to seamlessly integrate Kimi K3, Grok 4.5,
   and Anthropic models into Codex CLI. Free, local, credential-isolating AI
   router.
