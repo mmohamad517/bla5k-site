@@ -1,0 +1,143 @@
+---
+import { getCollection } from 'astro:content';
+import { categories } from '../data/categories';
+const sites = await getCollection('sites');
+const siteCount = sites.length;
+const catCount = categories.length;
+---
+<section class="hero" id="top">
+  <!-- Ambient background -->
+  <div class="orb orb-a" aria-hidden="true"></div>
+  <div class="orb orb-b" aria-hidden="true"></div>
+  <div class="grid-bg" aria-hidden="true"></div>
+
+  <div class="container hero-inner">
+    <!-- Animated brand logo centerpiece -->
+    <div class="logo-stage">
+      <span class="ring ring-1" aria-hidden="true"></span>
+      <span class="ring ring-2" aria-hidden="true"></span>
+      <h1 class="logo" aria-label="bla5k">
+        <span class="logo-bla">bla</span><span class="logo-5k">5k</span>
+        <span class="sweep" aria-hidden="true"></span>
+      </h1>
+    </div>
+
+    <p class="tagline reveal d1">The professional directory of the internet’s best tools</p>
+
+    <div class="hero-actions reveal d2">
+      <a href="#directory" class="btn btn-primary">
+        Browse the Directory
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </a>
+      <a href="/advertise/" class="btn btn-ghost">Advertise with us</a>
+    </div>
+
+    <ul class="hero-stats reveal d3" aria-label="Directory at a glance">
+      <li><strong class="grad">{siteCount}+</strong><span>curated entries</span></li>
+      <li><strong class="grad">{catCount}</strong><span>categories</span></li>
+      <li><strong class="grad">100%</strong><span>hand-picked</span></li>
+    </ul>
+  </div>
+</section>
+
+<style>
+  .hero {
+    position: relative; overflow: hidden;
+    padding-block: clamp(3rem, 12vw, 6rem) clamp(2rem, 7vw, 3.5rem);
+    display: grid; place-items: center;
+  }
+  .hero-inner { position: relative; z-index: 3; text-align: center; max-width: 800px; }
+
+  /* ---- Logo stage ---- */
+  .logo-stage {
+    position: relative; display: grid; place-items: center;
+    padding-block: clamp(1rem, 4vw, 2rem);
+    animation: rise .9s cubic-bezier(.2,.7,.3,1) both;
+  }
+  @keyframes rise { from { opacity: 0; transform: translateY(24px) scale(.96); } to { opacity: 1; transform: none; } }
+
+  .logo {
+    position: relative; z-index: 2;
+    font-family: var(--font-head); font-weight: 800; letter-spacing: -0.03em;
+    font-size: clamp(4rem, 4rem + 14vw, 12rem); line-height: 0.9;
+    display: inline-flex; isolation: isolate;
+  }
+  .logo-bla { color: var(--text); text-shadow: 0 2px 30px rgba(234,240,255,.15); }
+
+  /* The glowing "5k" — the star of the show */
+  .logo-5k {
+    background: linear-gradient(100deg, var(--cyan) 0%, var(--cyan-soft) 35%, var(--purple) 75%, var(--orange) 110%);
+    background-size: 220% 100%;
+    -webkit-background-clip: text; background-clip: text;
+    -webkit-text-fill-color: transparent; color: transparent;
+    animation: flow 6s ease-in-out infinite, glow 3.2s ease-in-out infinite;
+    will-change: filter, background-position;
+  }
+  @keyframes flow {
+    0%, 100% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+  }
+  @keyframes glow {
+    0%, 100% { filter: drop-shadow(0 0 10px rgba(0,240,255,.55)) drop-shadow(0 0 26px rgba(0,240,255,.25)); }
+    50%      { filter: drop-shadow(0 0 18px rgba(181,55,255,.75)) drop-shadow(0 0 44px rgba(181,55,255,.4)); }
+  }
+
+  /* Light sweep across the whole wordmark */
+  .sweep {
+    position: absolute; inset: 0; z-index: 3; pointer-events: none; border-radius: 12px;
+    background: linear-gradient(105deg, transparent 38%, rgba(255,255,255,.55) 50%, transparent 62%);
+    background-size: 250% 100%;
+    mix-blend-mode: overlay;
+    animation: shine 5.5s ease-in-out 1.2s infinite;
+  }
+  @keyframes shine {
+    0% { background-position: 180% 0; }
+    30%, 100% { background-position: -80% 0; }
+  }
+
+  /* Orbiting rings behind the logo */
+  .ring { position: absolute; border-radius: 50%; z-index: 1; pointer-events: none; }
+  .ring-1 {
+    width: min(120%, 560px); aspect-ratio: 1; border: 1px solid transparent;
+    border-top-color: rgba(0,240,255,.45); border-right-color: rgba(0,240,255,.08);
+    animation: spin 16s linear infinite;
+  }
+  .ring-2 {
+    width: min(88%, 400px); aspect-ratio: 1; border: 1px dashed transparent;
+    border-bottom-color: rgba(181,55,255,.4); border-left-color: rgba(181,55,255,.08);
+    animation: spin 22s linear infinite reverse;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  .tagline {
+    color: var(--text-dim); font-size: clamp(1.02rem, 0.98rem + 0.6vw, 1.3rem);
+    max-width: 46ch; margin: 0.6rem auto 0;
+  }
+
+  .hero-actions { display: flex; flex-wrap: wrap; gap: 0.8rem; justify-content: center; margin-top: 2rem; }
+  .hero-actions .btn { flex: 1 1 auto; justify-content: center; }
+
+  .hero-stats { display: flex; justify-content: center; gap: clamp(1.3rem, 6vw, 3rem); list-style: none; margin-top: 2.4rem; }
+  .hero-stats li { display: flex; flex-direction: column; }
+  .hero-stats strong { font-family: var(--font-head); font-size: clamp(1.5rem, 1.2rem + 2vw, 2.1rem); font-weight: 800; line-height: 1; }
+  .hero-stats span { color: var(--text-faint); font-size: 0.8rem; margin-top: 0.35rem; }
+
+  /* Ambient */
+  .orb { position: absolute; border-radius: 50%; filter: blur(70px); z-index: 0; pointer-events: none; animation: float 12s ease-in-out infinite; }
+  .orb-a { width: 46vw; height: 46vw; max-width: 420px; max-height: 420px; top: 2%; left: -10%; background: radial-gradient(circle, rgba(181,55,255,.32), transparent 70%); }
+  .orb-b { width: 50vw; height: 50vw; max-width: 460px; max-height: 460px; top: 0; right: -12%; background: radial-gradient(circle, rgba(0,240,255,.28), transparent 70%); animation-delay: -6s; }
+  @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-18px); } }
+  .grid-bg {
+    position: absolute; inset: 0; z-index: 0; pointer-events: none; opacity: .5;
+    background-image: linear-gradient(rgba(112,243,255,.05) 1px, transparent 1px), linear-gradient(90deg, rgba(112,243,255,.05) 1px, transparent 1px);
+    background-size: 46px 46px;
+    mask-image: radial-gradient(circle at 50% 35%, #000, transparent 70%);
+    -webkit-mask-image: radial-gradient(circle at 50% 35%, #000, transparent 70%);
+  }
+
+  @media (min-width: 620px) { .hero-actions .btn { flex: 0 0 auto; } }
+  @media (prefers-reduced-motion: reduce) {
+    .logo-5k, .sweep, .ring, .orb { animation: none !important; }
+    .logo-5k { filter: drop-shadow(0 0 14px rgba(0,240,255,.5)); }
+  }
+</style>

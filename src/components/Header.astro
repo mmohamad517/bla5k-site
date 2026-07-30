@@ -1,0 +1,34 @@
+---
+---
+<header class="site-header">
+  <div class="container bar">
+    <a href="/" class="brand" aria-label="bla5k home">
+      <span class="brand-mark" aria-hidden="true">◆</span>
+      <span class="brand-name">bla<span class="grad">5k</span></span>
+    </a>
+    <nav class="nav" aria-label="Primary">
+      <a href="/advertise/">Advertise</a>
+      <a href="/#directory" class="btn btn-ghost nav-cta">Search</a>
+    </nav>
+  </div>
+</header>
+
+<style>
+  .site-header {
+    position: sticky; top: 0; z-index: 50;
+    background: rgba(18, 22, 41, 0.75);
+    backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid rgba(112, 243, 255, 0.1);
+  }
+  .bar { display: flex; align-items: center; justify-content: space-between; height: 60px; }
+  .brand { display: inline-flex; align-items: center; gap: 0.5rem; font-family: var(--font-head); font-weight: 700; font-size: 1.28rem; }
+  .brand-mark { color: var(--cyan); text-shadow: var(--glow-cyan); font-size: 0.9rem; }
+  .nav { display: flex; align-items: center; gap: clamp(0.8rem, 3vw, 1.6rem); }
+  .nav a { color: var(--text-dim); font-weight: 500; font-size: 0.96rem; transition: color .2s; }
+  .nav a:hover { color: var(--text); }
+  .nav-cta { padding: 0.45rem 1.05rem; font-size: 0.9rem; }
+  .nav-cta:hover { color: var(--text); }
+  @media (max-width: 520px) {
+    .nav a:not(.nav-cta) { display: none; }
+  }
+</style>

@@ -1,0 +1,46 @@
+---
+import Page from '../layouts/Page.astro';
+// Email is base64-encoded at build time so the plain address never appears in the
+// page HTML. It's assembled in the browser for real visitors, hiding it from scrapers/bots.
+const email = 'mmohamad517@gmail.com';
+const emailB64 = Buffer.from(email).toString('base64');
+---
+<Page
+  title="Contact"
+  heading="Contact us"
+  description="Get in touch with the bla5k team."
+>
+  <p>
+    We’d love to hear from you — whether you want to suggest a tool for the directory,
+    report a broken link, or ask about advertising and partnerships.
+  </p>
+
+  <h2>Email</h2>
+  <p>
+    Reach us by email — click below to reveal it:
+  </p>
+  <p>
+    <a id="cemail" class="reveal-email" href="#" data-e={emailB64}>Show email address</a>
+  </p>
+
+  <h2>Suggest a tool</h2>
+  <p>
+    Know a website, tool, or forum that deserves a spot? Reach out with the link and a line
+    about why it’s great, and we’ll take a look.
+  </p>
+
+  <h2>Advertising</h2>
+  <p>
+    Want to promote your product? See our <a href="/advertise/">advertising packages</a> to
+    get featured on bla5k.
+  </p>
+
+  <script>
+    const el = document.getElementById('cemail');
+    if (el) {
+      const e = atob(el.getAttribute('data-e') || '');
+      el.setAttribute('href', 'mailto:' + e);
+      el.textContent = e;
+    }
+  </script>
+</Page>

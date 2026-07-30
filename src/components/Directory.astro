@@ -1,0 +1,247 @@
+---
+import { getCollection } from 'astro:content';
+import { categories, subcategoriesOf, SHOW_EMPTY_CATEGORIES } from '../data/categories';
+import { outboundRel } from '../lib/links';
+
+const allSites = await getCollection('sites');
+
+// Group: category -> subcategory -> sites, keeping only non-empty branches.
+const sitesBySub = new Map<string, typeof allSites>();
+for (const s of allSites) {
+  const key = s.data.subcategory;
+  if (!sitesBySub.has(key)) sitesBySub.set(key, []);
+  sitesBySub.get(key)!.push(s);
+}
+for (const list of sitesBySub.values()) {
+  list.sort((a, b) => Number(b.data.featured) - Number(a.data.featured) || a.data.name.localeCompare(b.data.name));
+}
+
+const tree = categories
+  .map((cat) => {
+    const subs = subcategoriesOf(cat.slug)
+      .map((sub) => ({ sub, sites: sitesBySub.get(sub.slug) ?? [] }))
+      .filter((x) => x.sites.length > 0);
+    const count = subs.reduce((n, x) => n + x.sites.length, 0);
+    return { cat, subs, count };
+  })
+  .filter((x) => SHOW_EMPTY_CATEGORIES || x.count > 0);
+
+// Open the first populated category by default.
+const firstPopulated = tree.findIndex((x) => x.count > 0);
+---
+
+<section class="directory-wrap section" id="directory">
+  <div class="container">
+    <div class="dir-head">
+      <span class="eyebrow"><span class="dot"></span> The Directory</span>
+      <h2 class="section-title">Browse every <span class="grad">tool &amp; site</span></h2>
+      <p class="section-lead">Tap a category to expand it. Search to jump straight to what you need.</p>
+    </div>
+
+    <!-- Instant search (progressive: works only as a filter; all content is in the HTML) -->
+    <div class="search glass">
+      <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2"/><path d="m20 20-3.2-3.2" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      <input id="dir-search" type="search" inputmode="search" autocomplete="off"
+             placeholder="Search tools, sites, forums…" aria-label="Search the directory" />
+      <button id="dir-clear" type="button" aria-label="Clear search" hidden>&times;</button>
+    </div>
+    <p class="search-status" id="dir-status" role="status" aria-live="polite" hidden></p>
+
+    <div class="directory" id="dir-list">
+      {tree.map(({ cat, subs, count }, ci) => (
+        <details class:list={['cat', { empty: count === 0 }]} data-cat={cat.slug} data-empty={count === 0 ? '1' : undefined} open={ci === firstPopulated}>
+          <summary class="cat-sum">
+            <span class="cat-icon" aria-hidden="true">{cat.icon}</span>
+            <span class="cat-name">{cat.name}</span>
+            <span class="cat-count">{count === 0 ? 'soon' : count}</span>
+            <svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="m6 9 6 6 6-6" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </summary>
+          <div class="cat-body">
+            {count === 0 && <p class="soon-note">🚧 Coming soon — great {cat.name.toLowerCase()} are on the way.</p>}
+            {subs.map(({ sub, sites }) => (
+              <details class="sub" data-sub={sub.slug} open>
+                <summary class="sub-sum">
+                  <span class="sub-icon" aria-hidden="true">{sub.icon}</span>
+                  <span class="sub-name">{sub.name}</span>
+                  <span class="sub-count">{sites.length}</span>
+                  <svg class="chev sm" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="m6 9 6 6 6-6" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                </summary>
+                <ul class="sites" role="list">
+                  {sites.map((site) => (
+                    <li class="site-row" data-search={`${site.data.name} ${site.data.tagline} ${site.data.tags.join(' ')} ${cat.name} ${sub.name}`.toLowerCase()}>
+                      <div class="site-main">
+                        <a class="site-title" href={`/tools/${site.id}/`}>
+                          {site.data.name}
+                          {site.data.featured && <span class="pick" title="Editor’s pick">★</span>}
+                        </a>
+                        <p class="site-tag">{site.data.tagline}</p>
+                      </div>
+                      <a class="site-visit" href={site.data.url} target="_blank" rel={outboundRel(site.data.url, site.data.affiliate)} aria-label={`Visit ${site.data.name}`}>
+                        Visit
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </details>
+            ))}
+          </div>
+        </details>
+      ))}
+    </div>
+
+    <p class="no-results" id="dir-empty" hidden>No matches. Try a different word.</p>
+  </div>
+</section>
+
+<style>
+  /* Trim the big empty gap between the hero and the directory */
+  .directory-wrap { padding-top: clamp(1.5rem, 4vw, 2.75rem); }
+  .dir-head { max-width: 640px; margin-bottom: 1.6rem; }
+
+  /* ---- Search ---- */
+  .search { display: flex; align-items: center; gap: 0.6rem; padding: 0.55rem 0.9rem; margin-bottom: 0.5rem; }
+  .search-icon { color: var(--text-faint); flex: none; }
+  #dir-search { flex: 1; background: none; border: none; outline: none; color: var(--text); font: inherit; font-size: 1rem; padding: 0.45rem 0; min-width: 0; }
+  #dir-search::-webkit-search-cancel-button, #dir-search::-webkit-search-decoration { -webkit-appearance: none; appearance: none; }
+  #dir-search::placeholder { color: var(--text-faint); }
+  #dir-clear { background: none; border: none; color: var(--text-dim); font-size: 1.4rem; line-height: 1; cursor: pointer; padding: 0 0.3rem; }
+  .search-status { color: var(--text-faint); font-size: 0.85rem; margin: 0.4rem 0.2rem 0.8rem; }
+
+  /* ---- Accordion (mobile-first) ---- */
+  .directory { display: grid; gap: 0.8rem; margin-top: 1rem; }
+  .cat {
+    background: var(--glass-bg); border: 1px solid var(--glass-border);
+    border-radius: var(--radius); overflow: hidden;
+    backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+  }
+  .cat[open] { border-color: var(--glass-border-strong); box-shadow: 0 0 26px -10px rgba(0,240,255,.35); }
+
+  summary { cursor: pointer; list-style: none; -webkit-tap-highlight-color: transparent; }
+  summary::-webkit-details-marker { display: none; }
+
+  .cat-sum { display: flex; align-items: center; gap: 0.75rem; padding: 1rem 1.1rem; min-height: 56px; }
+  .cat-icon { font-size: 1.35rem; line-height: 1; flex: none; }
+  .cat-name { font-family: var(--font-head); font-weight: 700; font-size: 1.12rem; flex: 1; }
+  .cat-count { font-size: 0.78rem; font-weight: 700; color: var(--cyan-soft); background: rgba(0,240,255,.08); border: 1px solid var(--glass-border); padding: 0.15rem 0.6rem; border-radius: 999px; }
+  .chev { color: var(--text-dim); transition: transform .28s ease; flex: none; }
+  .cat[open] > .cat-sum .chev { transform: rotate(180deg); }
+  .cat-sum:hover { background: rgba(112,243,255,.04); }
+
+  .cat-body { padding: 0 0.7rem 0.7rem; display: grid; gap: 0.45rem; }
+
+  /* Empty ("coming soon") categories */
+  .cat.empty { opacity: 0.7; }
+  .cat.empty .cat-count { color: var(--text-faint); background: rgba(255,255,255,.04); border-color: rgba(255,255,255,.08); }
+  .soon-note { color: var(--text-faint); font-size: 0.9rem; padding: 0.3rem 0.6rem 0.9rem; }
+
+  /* ---- Subcategory ---- */
+  .sub { border-radius: 14px; background: rgba(18,22,41,.4); border: 1px solid rgba(112,243,255,.08); }
+  .sub-sum { display: flex; align-items: center; gap: 0.6rem; padding: 0.7rem 0.85rem; min-height: 48px; }
+  .sub-icon { font-size: 1rem; flex: none; }
+  .sub-name { font-family: var(--font-head); font-weight: 600; font-size: 0.98rem; flex: 1; color: var(--text); }
+  .sub-count { font-size: 0.72rem; font-weight: 600; color: var(--text-faint); }
+  .chev.sm { transition: transform .28s ease; }
+  .sub[open] > .sub-sum .chev.sm { transform: rotate(180deg); }
+  .sub-sum:hover { background: rgba(112,243,255,.03); }
+
+  /* ---- Site rows ---- */
+  .sites { list-style: none; display: grid; gap: 0.4rem; padding: 0 0.5rem 0.6rem; }
+  .site-row {
+    display: flex; align-items: center; gap: 0.6rem; justify-content: space-between;
+    padding: 0.7rem 0.75rem; border-radius: 12px;
+    background: rgba(30,36,66,.5); border: 1px solid transparent;
+    transition: border-color .2s, background .2s, transform .2s;
+  }
+  .site-row:hover { border-color: var(--glass-border-strong); background: rgba(30,36,66,.85); }
+  .site-main { min-width: 0; }
+  .site-title { font-family: var(--font-head); font-weight: 600; font-size: 1rem; color: var(--text); display: inline-flex; align-items: center; gap: 0.35rem; }
+  .site-title:hover { color: var(--cyan-soft); }
+  .pick { color: var(--orange); font-size: 0.8rem; }
+  .site-tag { color: var(--text-dim); font-size: 0.86rem; margin-top: 0.15rem; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+  .site-visit {
+    flex: none; display: inline-flex; align-items: center; gap: 0.3rem;
+    font-family: var(--font-head); font-weight: 600; font-size: 0.82rem; color: var(--cyan-soft);
+    padding: 0.45rem 0.8rem; border-radius: 999px;
+    background: rgba(0,240,255,.06); border: 1px solid var(--glass-border);
+    transition: background .2s, box-shadow .2s, transform .2s;
+  }
+  .site-visit:hover { background: rgba(0,240,255,.13); box-shadow: var(--glow-cyan); transform: translateY(-1px); }
+
+  .no-results { text-align: center; color: var(--text-dim); padding: 2rem 0; }
+
+  /* Search hides */
+  .cat.hide, .sub.hide, .site-row.hide { display: none; }
+
+  /* ---- Larger screens ---- */
+  @media (min-width: 720px) {
+    .cat-sum { padding: 1.15rem 1.4rem; }
+    .cat-name { font-size: 1.25rem; }
+    .cat-body { padding: 0 1rem 1rem; }
+    .sites { grid-template-columns: 1fr 1fr; }
+    .search { padding: 0.7rem 1.1rem; }
+  }
+  @media (min-width: 1040px) {
+    .sites { grid-template-columns: 1fr 1fr 1fr; }
+  }
+</style>
+
+<script>
+  const input = document.getElementById('dir-search') as HTMLInputElement | null;
+  const clearBtn = document.getElementById('dir-clear') as HTMLButtonElement | null;
+  const status = document.getElementById('dir-status');
+  const empty = document.getElementById('dir-empty');
+  const list = document.getElementById('dir-list');
+  if (input && list) {
+    const cats = Array.from(list.querySelectorAll<HTMLDetailsElement>('.cat'));
+    const rows = Array.from(list.querySelectorAll<HTMLElement>('.site-row'));
+
+    // Remember each category's default open state to restore after search.
+    const defaults = new WeakMap<HTMLDetailsElement, boolean>();
+    cats.forEach((c) => defaults.set(c, c.open));
+
+    let t: number | undefined;
+    const run = (raw: string) => {
+      const q = raw.trim().toLowerCase();
+      if (clearBtn) clearBtn.hidden = q.length === 0;
+
+      if (!q) {
+        rows.forEach((r) => r.classList.remove('hide'));
+        list.querySelectorAll('.sub, .cat').forEach((el) => el.classList.remove('hide'));
+        cats.forEach((c) => (c.open = defaults.get(c) ?? false));
+        list.querySelectorAll<HTMLDetailsElement>('.sub').forEach((s) => (s.open = true));
+        if (status) status.hidden = true;
+        if (empty) empty.hidden = true;
+        return;
+      }
+
+      let visible = 0;
+      rows.forEach((r) => {
+        const match = (r.dataset.search ?? '').includes(q);
+        r.classList.toggle('hide', !match);
+        if (match) visible++;
+      });
+
+      // Show/open only branches that still contain matches.
+      list.querySelectorAll<HTMLDetailsElement>('.sub').forEach((sub) => {
+        const has = sub.querySelector('.site-row:not(.hide)');
+        sub.classList.toggle('hide', !has);
+        if (has) sub.open = true;
+      });
+      cats.forEach((cat) => {
+        const has = cat.querySelector('.site-row:not(.hide)');
+        cat.classList.toggle('hide', !has);
+        cat.open = !!has;
+      });
+
+      if (status) { status.hidden = false; status.textContent = `${visible} result${visible === 1 ? '' : 's'}`; }
+      if (empty) empty.hidden = visible !== 0;
+    };
+
+    input.addEventListener('input', () => {
+      window.clearTimeout(t);
+      t = window.setTimeout(() => run(input.value), 90);
+    });
+    clearBtn?.addEventListener('click', () => { input.value = ''; run(''); input.focus(); });
+  }
+</script>

@@ -1,0 +1,56 @@
+---
+import { categories } from '../data/categories';
+const year = new Date().getFullYear();
+const topCats = categories.slice(0, 6);
+---
+<footer class="site-footer">
+  <div class="container foot">
+    <div class="foot-brand">
+      <span class="brand"><span class="mark">◆</span> bla<span class="grad">5k</span></span>
+      <p>Your professional directory to the internet’s best tools, sites, and communities.</p>
+    </div>
+
+    <nav class="foot-col" aria-label="Categories">
+      <h3>Categories</h3>
+      {topCats.map((c) => <a href={`/category/${c.slug}/`}>{c.name}</a>)}
+    </nav>
+
+    <nav class="foot-col" aria-label="Site">
+      <h3>bla5k</h3>
+      <a href="/#directory">Directory</a>
+      <a href="/guides/">Guides</a>
+      <a href="/faq/">FAQ</a>
+      <a href="/about/">About</a>
+      <a href="/advertise/">Advertise</a>
+      <a href="/contact/">Contact</a>
+    </nav>
+
+    <nav class="foot-col" aria-label="Legal">
+      <h3>Legal</h3>
+      <a href="/privacy/">Privacy Policy</a>
+      <a href="/terms/">Terms of Use</a>
+      <a href="/disclosure/">Disclosure</a>
+    </nav>
+  </div>
+
+  <div class="container foot-bottom">
+    <span>© {year} bla5k. All rights reserved.</span>
+    <span class="disc">Some links on this site may be affiliate links.</span>
+  </div>
+</footer>
+
+<style>
+  .site-footer { border-top: 1px solid rgba(112,243,255,.1); margin-top: 2rem; padding-block: 2.4rem 1.5rem; background: rgba(18,22,41,.5); }
+  .foot { display: grid; grid-template-columns: 1fr; gap: 1.8rem; }
+  .foot-brand .brand { font-family: var(--font-head); font-weight: 700; font-size: 1.3rem; }
+  .foot-brand .mark { color: var(--cyan); }
+  .foot-brand p { color: var(--text-faint); margin-top: 0.5rem; max-width: 40ch; font-size: 0.92rem; }
+  .foot-col { display: flex; flex-direction: column; gap: 0.5rem; }
+  .foot-col h3 { font-family: var(--font-head); font-size: 0.82rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text); margin-bottom: 0.2rem; }
+  .foot-col a { color: var(--text-dim); font-size: 0.92rem; transition: color .2s; }
+  .foot-col a:hover { color: var(--cyan-soft); }
+  .foot-bottom { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0.5rem; margin-top: 2rem; padding-top: 1.3rem; border-top: 1px solid rgba(112,243,255,.07); color: var(--text-faint); font-size: 0.82rem; }
+  .disc { opacity: 0.8; }
+
+  @media (min-width: 640px) { .foot { grid-template-columns: 2fr 1fr 1fr 1fr; gap: 2rem; } }
+</style>

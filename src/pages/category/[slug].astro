@@ -1,0 +1,121 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { getCollection } from 'astro:content';
+import { categories, subcategoriesOf } from '../../data/categories';
+import { outboundRel } from '../../lib/links';
+
+export async function getStaticPaths() {
+  const sites = await getCollection('sites');
+  return categories
+    .map((cat) => {
+      const subs = subcategoriesOf(cat.slug)
+        .map((sub) => ({
+          sub,
+          sites: sites
+            .filter((s) => s.data.subcategory === sub.slug)
+            .sort((a, b) => Number(b.data.featured) - Number(a.data.featured) || a.data.name.localeCompare(b.data.name)),
+        }))
+        .filter((x) => x.sites.length > 0);
+      const count = subs.reduce((n, x) => n + x.sites.length, 0);
+      return { params: { slug: cat.slug }, props: { cat, subs, count } };
+    })
+    .filter((p) => p.props.count > 0);
+}
+
+const { cat, subs, count } = Astro.props;
+const site = 'https://bla5k.com';
+const noun = count === 1 ? 'Tool' : 'Tools';
+const title = `${cat.name} — ${count} Best ${noun} & Sites | bla5k`;
+const description = `${cat.blurb} A hand-picked directory of ${count} ${count === 1 ? 'tool' : 'tools'} and websites for ${cat.name.toLowerCase()}.`;
+
+const schema = [
+  {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: `${site}/` },
+      { '@type': 'ListItem', position: 2, name: cat.name, item: `${site}/category/${cat.slug}/` },
+    ],
+  },
+  {
+    '@type': 'ItemList',
+    name: cat.name,
+    numberOfItems: count,
+    itemListElement: subs.flatMap((x) => x.sites).map((s, i) => ({
+      '@type': 'ListItem', position: i + 1, url: `${site}/tools/${s.id}/`, name: s.data.name,
+    })),
+  },
+];
+---
+<Layout title={title} description={description} schema={schema}>
+  <Header />
+  <main>
+    <section class="section cat-hero">
+      <div class="container">
+        <nav class="crumbs" aria-label="Breadcrumb">
+          <a href="/">Home</a> <span aria-hidden="true">/</span> <span>{cat.name}</span>
+        </nav>
+        <span class="cat-emoji" aria-hidden="true">{cat.icon}</span>
+        <h1 class="cat-title">{cat.name}</h1>
+        <p class="cat-blurb">{cat.blurb}</p>
+        <span class="cat-count">{count} curated {count === 1 ? 'entry' : 'entries'}</span>
+      </div>
+    </section>
+
+    <section class="section pt0">
+      <div class="container groups">
+        {subs.map(({ sub, sites }) => (
+          <div class="group">
+            <h2 class="group-title"><span aria-hidden="true">{sub.icon}</span> {sub.name}</h2>
+            <ul class="cards" role="list">
+              {sites.map((s) => (
+                <li class="card glass">
+                  <div class="card-head">
+                    <a class="card-name" href={`/tools/${s.id}/`}>{s.data.name}{s.data.featured && <span class="pick" title="Editor’s pick">★</span>}</a>
+                  </div>
+                  <p class="card-tag">{s.data.tagline}</p>
+                  <div class="card-foot">
+                    <a class="more" href={`/tools/${s.id}/`}>Read more</a>
+                    <a class="visit" href={s.data.url} target="_blank" rel={outboundRel(s.data.url, s.data.affiliate)}>Visit ↗</a>
+                  </div>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </div>
+    </section>
+  </main>
+  <Footer />
+</Layout>
+
+<style>
+  .cat-hero { padding-block: clamp(2rem, 7vw, 3.5rem) 1rem; }
+  .crumbs { font-size: 0.85rem; color: var(--text-faint); margin-bottom: 1.2rem; }
+  .crumbs a { color: var(--cyan-soft); }
+  .crumbs span { margin-inline: 0.35rem; }
+  .cat-emoji { font-size: 2.4rem; }
+  .cat-title { font-size: clamp(2rem, 1.4rem + 4vw, 3.2rem); margin-block: 0.5rem 0.6rem; }
+  .cat-blurb { color: var(--text-dim); max-width: 60ch; font-size: 1.08rem; }
+  .cat-count { display: inline-block; margin-top: 1rem; font-family: var(--font-head); font-weight: 600; font-size: 0.85rem; color: var(--cyan-soft); background: rgba(0,240,255,.08); border: 1px solid var(--glass-border); padding: 0.3rem 0.85rem; border-radius: 999px; }
+
+  .pt0 { padding-top: 0; }
+  .groups { display: grid; gap: 2.4rem; }
+  .group-title { font-size: 1.35rem; display: flex; align-items: center; gap: 0.5rem; margin-bottom: 1rem; padding-bottom: 0.6rem; border-bottom: 1px solid var(--glass-border); }
+  .cards { list-style: none; display: grid; gap: 0.9rem; grid-template-columns: 1fr; }
+  .card { padding: 1.2rem 1.25rem; display: flex; flex-direction: column; transition: transform .24s, border-color .24s, box-shadow .24s; }
+  .card:hover { transform: translateY(-4px); border-color: var(--glass-border-strong); box-shadow: var(--shadow-card), var(--glow-cyan); }
+  .card-name { font-family: var(--font-head); font-weight: 700; font-size: 1.15rem; display: inline-flex; align-items: center; gap: 0.35rem; }
+  .card-name:hover { color: var(--cyan-soft); }
+  .pick { color: var(--orange); font-size: 0.85rem; }
+  .card-tag { color: var(--text-dim); font-size: 0.92rem; margin-top: 0.4rem; flex: 1; }
+  .card-foot { display: flex; align-items: center; justify-content: space-between; margin-top: 1rem; }
+  .more { font-family: var(--font-head); font-weight: 600; font-size: 0.88rem; color: var(--text); }
+  .more:hover { color: var(--cyan-soft); }
+  .visit { font-family: var(--font-head); font-weight: 600; font-size: 0.85rem; color: var(--cyan-soft); padding: 0.4rem 0.85rem; border-radius: 999px; background: rgba(0,240,255,.06); border: 1px solid var(--glass-border); transition: background .2s, box-shadow .2s; }
+  .visit:hover { background: rgba(0,240,255,.13); box-shadow: var(--glow-cyan); }
+
+  @media (min-width: 620px) { .cards { grid-template-columns: 1fr 1fr; } }
+  @media (min-width: 1000px) { .cards { grid-template-columns: 1fr 1fr 1fr; } }
+</style>

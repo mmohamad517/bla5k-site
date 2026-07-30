@@ -1,0 +1,109 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+const faqs = [
+  {
+    q: 'What is bla5k?',
+    a: 'bla5k is a professional, hand-organized directory of the internet’s best tools, websites, apps, and communities. Everything is sorted into clear categories with an instant search, so you can quickly find the right resource for any task.',
+  },
+  {
+    q: 'Is bla5k free to use?',
+    a: 'Yes. Browsing the directory, reading our guides, and using the search are completely free. Some listings link to third-party tools that may have their own paid plans, but bla5k itself costs you nothing.',
+  },
+  {
+    q: 'How are tools chosen for the directory?',
+    a: 'Every listing earns its place on usefulness alone. We open and review each site, write an honest description, and only add resources we would genuinely recommend. We do not add sites that distribute pirated or copyright-infringing content.',
+  },
+  {
+    q: 'How can I suggest a tool or website?',
+    a: 'We would love that. Head to our Contact page and send us the link along with a line about why it is great, and we will take a look for a future update.',
+  },
+  {
+    q: 'How can I advertise my product on bla5k?',
+    a: 'Visit our Advertise page to see the available packages. You can promote your app, website, tool, or project to a curious, high-intent audience, and every request is reviewed personally.',
+  },
+  {
+    q: 'Does bla5k use affiliate links?',
+    a: 'Some outbound links may be affiliate links, which means we might earn a small commission at no extra cost to you. This never affects where or how a tool is ranked. See our Disclosure page for details.',
+  },
+  {
+    q: 'How often is the directory updated?',
+    a: 'Regularly. We add new tools and publish new guides on an ongoing basis, and existing entries are refreshed as tools change. The directory grows continually.',
+  },
+  {
+    q: 'Who is behind bla5k?',
+    a: 'bla5k is an independent project dedicated to cutting through the noise of the internet with a clean, trustworthy directory. You can learn more on our About page.',
+  },
+];
+
+const schema = [
+  {
+    '@type': 'FAQPage',
+    mainEntity: faqs.map((f) => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  },
+  {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://bla5k.com/' },
+      { '@type': 'ListItem', position: 2, name: 'FAQ', item: 'https://bla5k.com/faq/' },
+    ],
+  },
+];
+---
+<Layout
+  title="Frequently Asked Questions | bla5k"
+  description="Answers to common questions about bla5k — what it is, how tools are chosen, advertising, affiliate links, and how to suggest a website."
+  schema={schema}
+>
+  <Header />
+  <main>
+    <article class="page">
+      <div class="container">
+        <h1 class="page-title">Frequently Asked <span class="grad">Questions</span></h1>
+        <p class="page-lead">Everything you might want to know about bla5k, in one place.</p>
+
+        <div class="faq-list">
+          {faqs.map((f, i) => (
+            <details class="faq" open={i === 0}>
+              <summary>
+                <span class="q">{f.q}</span>
+                <svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="m6 9 6 6 6-6" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              </summary>
+              <p class="a">{f.a}</p>
+            </details>
+          ))}
+        </div>
+
+        <p class="back"><a href="/">← Back to home</a></p>
+      </div>
+    </article>
+  </main>
+  <Footer />
+</Layout>
+
+<style>
+  .page { padding-block: clamp(2rem, 6vw, 3.5rem); }
+  .container { max-width: 780px; }
+  .page-title { font-size: clamp(1.9rem, 1.4rem + 3vw, 2.8rem); }
+  .page-lead { color: var(--text-dim); margin-top: 0.6rem; font-size: 1.1rem; }
+
+  .faq-list { display: grid; gap: 0.7rem; margin-top: 2rem; }
+  .faq { background: var(--glass-bg); border: 1px solid var(--glass-border); border-radius: 14px; overflow: hidden; backdrop-filter: blur(12px); }
+  .faq[open] { border-color: var(--glass-border-strong); }
+  summary { cursor: pointer; list-style: none; display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: 1.1rem 1.2rem; min-height: 56px; }
+  summary::-webkit-details-marker { display: none; }
+  .q { font-family: var(--font-head); font-weight: 600; font-size: 1.05rem; color: var(--text); }
+  .chev { color: var(--text-dim); flex: none; transition: transform .28s ease; }
+  .faq[open] .chev { transform: rotate(180deg); }
+  summary:hover { background: rgba(112,243,255,.04); }
+  .a { color: var(--text-dim); padding: 0 1.2rem 1.2rem; margin: 0; }
+
+  .back { margin-top: 2.4rem; }
+  .back a { color: var(--cyan-soft); font-weight: 600; }
+</style>

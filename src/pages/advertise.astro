@@ -1,0 +1,160 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+/*
+  💳 Beacons checkout links — one per package. Paste the 5k plus link where
+  marked below and redeploy to make its button live.
+*/
+const packages = [
+  {
+    id: 'regular',
+    name: 'Regular',
+    price: '29',
+    tagline: 'Get listed where people are looking.',
+    features: [
+      'Listed in the right category in the directory',
+      'A professionally written article + your own page',
+      'Appears in search & browse',
+      'Your logo, description & link',
+    ],
+    premium: false,
+    link: 'https://shop.beacons.ai/newbook.00/a92fc954-e9e1-4eeb-9e8e-6fd74da3c661',
+  },
+  {
+    id: '5kplus',
+    name: '5k plus',
+    price: '499',
+    tagline: 'Top of the site, right next to the bla5k name.',
+    features: [
+      'Featured at the very top, next to “bla5k”',
+      'Animated square card in the header carousel',
+      'Seen instantly by every visitor — no search needed',
+      'Only 3 exclusive slots (they rotate)',
+      'Maximum exposure on the whole site',
+    ],
+    premium: true,
+    link: 'https://shop.beacons.ai/newbook.00/3cd1c4ba-0acc-4841-9a86-1623a2c98e6f',
+  },
+];
+
+const schema = [
+  {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://bla5k.com/' },
+      { '@type': 'ListItem', position: 2, name: 'Advertise', item: 'https://bla5k.com/advertise/' },
+    ],
+  },
+];
+---
+<Layout
+  title="Advertise on bla5k — Feature Your Tool, App or Project"
+  description="Promote your app, website, tool, or project on bla5k. Two simple monthly packages — a Regular directory listing, or the premium 5k plus spot at the top of the site."
+  schema={schema}
+>
+  <Header />
+  <main>
+    <section class="section adv-hero">
+      <div class="container">
+        <span class="eyebrow reveal"><span class="dot"></span> Partner with bla5k</span>
+        <h1 class="adv-title reveal d1">Put your product in front of<br /><span class="grad">people hunting for tools</span></h1>
+        <p class="adv-lead reveal d2">
+          Two simple monthly packages. Pick one, pay securely, and get featured — no
+          long contracts, cancel anytime.
+        </p>
+        <a href="#packages" class="btn btn-primary reveal d3">See packages</a>
+      </div>
+    </section>
+
+    <section class="section pt0" id="packages">
+      <div class="container">
+        <ul class="pkg-grid" role="list">
+          {packages.map((p) => (
+            <li class={`pkg glass ${p.premium ? 'plus' : ''}`}>
+              {p.premium && <span class="plus-tag">✦ 5k plus</span>}
+              <h2 class="pkg-name">{p.name}</h2>
+              <p class="pkg-price"><span class="cur">$</span>{p.price}<span class="per">/month</span></p>
+              <p class="pkg-tagline">{p.tagline}</p>
+              <ul class="pkg-feats" role="list">
+                {p.features.map((f) => <li>{f}</li>)}
+              </ul>
+              <div class="pkg-pay">
+                {p.link === '#'
+                  ? <span class="btn btn-ghost pay soon" aria-disabled="true">Coming soon</span>
+                  : <a class={`btn ${p.premium ? 'btn-primary' : 'btn-ghost'} pay`} href={p.link} target="_blank" rel="noopener noreferrer">Get Started — ${p.price}/mo</a>}
+              </div>
+            </li>
+          ))}
+        </ul>
+        <p class="pkg-note">🔒 Secure checkout via Beacons — accepts Visa &amp; major cards. Every placement is reviewed and clearly marked.</p>
+      </div>
+    </section>
+
+    <section class="section pt0">
+      <div class="container">
+        <div class="how glass">
+          <h2 class="section-title">How <span class="grad">5k plus</span> works</h2>
+          <ul role="list">
+            <li>Your product appears as an <strong>animated card in a carousel next to the bla5k logo</strong>, at the very top of the site.</li>
+            <li>Every visitor sees it <strong>the moment they arrive</strong> — no searching, no scrolling.</li>
+            <li>Only <strong>3 slots</strong> exist; if more than one advertiser is active, they <strong>rotate automatically</strong>.</li>
+            <li>Includes your name, a clear description, and your link.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+  </main>
+  <Footer />
+</Layout>
+
+<style>
+  .adv-hero { padding-block: clamp(2.2rem, 7vw, 3.8rem) 1.5rem; text-align: center; }
+  .adv-title { font-size: clamp(1.9rem, 1.3rem + 4vw, 3.2rem); margin-block: 1rem 0.9rem; }
+  .adv-lead { color: var(--text-dim); max-width: 58ch; margin: 0 auto 1.6rem; font-size: 1.1rem; }
+  .pt0 { padding-top: 0; }
+
+  .pkg-grid { list-style: none; display: grid; gap: 1.2rem; grid-template-columns: 1fr; max-width: 820px; margin-inline: auto; }
+  .pkg { display: flex; flex-direction: column; padding: 1.8rem 1.6rem; position: relative; overflow: hidden; }
+  .pkg-name { font-size: 1.35rem; font-weight: 800; }
+  .pkg-price { font-family: var(--font-head); font-weight: 800; font-size: 2.8rem; line-height: 1; margin: 0.5rem 0 0.2rem; }
+  .pkg-price .cur { font-size: 1.3rem; vertical-align: super; color: var(--cyan-soft); }
+  .pkg-price .per { font-size: 0.9rem; font-weight: 500; color: var(--text-faint); }
+  .pkg-tagline { color: var(--cyan-soft); font-size: 0.98rem; margin-bottom: 1rem; }
+  .pkg-feats { list-style: none; display: grid; gap: 0.55rem; margin-bottom: 1.4rem; flex: 1; }
+  .pkg-feats li { position: relative; padding-left: 1.6rem; color: var(--text-dim); font-size: 0.96rem; }
+  .pkg-feats li::before { content: '✓'; position: absolute; left: 0; color: var(--cyan); font-weight: 700; }
+  .pkg-pay { display: flex; gap: 0.6rem; flex-wrap: wrap; }
+  .pkg-pay .pay { flex: 1; justify-content: center; min-width: 120px; }
+  .pkg-pay .soon { opacity: 0.5; cursor: not-allowed; }
+
+  /* Premium 5k plus card — animated waving-color border + tag */
+  .pkg.plus { background: linear-gradient(135deg, rgba(0,240,255,.08), rgba(181,55,255,.10)); }
+  .pkg.plus::before {
+    content: ''; position: absolute; inset: 0; border-radius: var(--radius); padding: 1.6px; z-index: 0;
+    background: linear-gradient(120deg, var(--cyan), var(--purple), var(--orange), var(--cyan));
+    background-size: 300% 300%; animation: border 5s linear infinite;
+    -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+    -webkit-mask-composite: xor; mask-composite: exclude;
+  }
+  @keyframes border { 0% { background-position: 0 0; } 100% { background-position: 300% 0; } }
+  .pkg.plus > * { position: relative; z-index: 1; }
+  .plus-tag {
+    align-self: flex-start; font-weight: 800; font-size: 0.72rem; color: #06121a; border-radius: 999px;
+    padding: 0.25rem 0.7rem; margin-bottom: 0.7rem;
+    background: linear-gradient(100deg, var(--cyan), var(--purple), var(--orange), var(--cyan));
+    background-size: 300% 100%; animation: wave 3.5s linear infinite;
+  }
+  @keyframes wave { 0% { background-position: 0 50%; } 100% { background-position: 300% 50%; } }
+
+  .pkg-note { text-align: center; color: var(--text-faint); font-size: 0.9rem; margin-top: 1.3rem; }
+
+  .how { padding: clamp(1.5rem, 5vw, 2.4rem); max-width: 820px; margin-inline: auto; }
+  .how ul { list-style: none; display: grid; gap: 0.8rem; margin-top: 1rem; }
+  .how li { color: var(--text-dim); padding-left: 1.6rem; position: relative; }
+  .how li::before { content: '✦'; position: absolute; left: 0; color: var(--cyan); text-shadow: var(--glow-cyan); }
+  .how strong { color: var(--text); }
+
+  @media (min-width: 720px) { .pkg-grid { grid-template-columns: 1fr 1fr; } }
+</style>

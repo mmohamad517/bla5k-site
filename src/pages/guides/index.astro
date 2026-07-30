@@ -1,0 +1,85 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { getCollection } from 'astro:content';
+
+const guides = (await getCollection('guides')).sort(
+  (a, b) => b.data.published.valueOf() - a.data.published.valueOf()
+);
+const fmt = (d: Date) => d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+
+const schema = [
+  {
+    '@type': 'CollectionPage',
+    name: 'Guides & Articles',
+    description: 'In-depth guides to the best tools, apps, and websites on the internet.',
+    isPartOf: { '@id': 'https://bla5k.com/#website' },
+  },
+];
+---
+<Layout
+  title="Guides & Articles — In-Depth Tool Roundups | bla5k"
+  description="In-depth, hand-researched guides to the best tools, apps, and websites — from AI and design to productivity and more."
+  schema={schema}
+>
+  <Header />
+  <main>
+    <section class="section g-hero">
+      <div class="container">
+        <span class="eyebrow reveal"><span class="dot"></span> Guides &amp; Articles</span>
+        <h1 class="g-title reveal d1">Deep dives into the <span class="grad">web’s best tools</span></h1>
+        <p class="g-lead reveal d2">
+          Hand-researched roundups and how-tos that go beyond the directory — comparisons,
+          recommendations, and practical advice you can actually use.
+        </p>
+      </div>
+    </section>
+
+    <section class="section pt0">
+      <div class="container">
+        {guides.length === 0 ? (
+          <p class="empty glass">✍️ The first guides are being written. Check back very soon.</p>
+        ) : (
+          <ul class="g-grid" role="list">
+            {guides.map((g, i) => (
+              <li class={`reveal d${(i % 3) + 1}`}>
+                <a class="g-card glass" href={`/guides/${g.id}/`}>
+                  {g.data.featured && <span class="g-badge">Featured</span>}
+                  <h2 class="g-card-title">{g.data.title}</h2>
+                  <p class="g-card-desc">{g.data.description}</p>
+                  <div class="g-meta">
+                    <time datetime={g.data.published.toISOString()}>{fmt(g.data.published)}</time>
+                    <span class="g-read">Read →</span>
+                  </div>
+                </a>
+              </li>
+            ))}
+          </ul>
+        )}
+      </div>
+    </section>
+  </main>
+  <Footer />
+</Layout>
+
+<style>
+  .g-hero { padding-block: clamp(2.2rem, 7vw, 3.6rem) 1rem; text-align: center; }
+  .g-title { font-size: clamp(1.9rem, 1.3rem + 4vw, 3.2rem); margin-block: 1rem 0.8rem; }
+  .g-lead { color: var(--text-dim); max-width: 60ch; margin: 0 auto; font-size: 1.1rem; }
+  .pt0 { padding-top: 0; }
+
+  .empty { display: block; text-align: center; padding: 2.5rem 1.5rem; color: var(--text-dim); }
+
+  .g-grid { list-style: none; display: grid; gap: 1.1rem; grid-template-columns: 1fr; }
+  .g-card { position: relative; display: flex; flex-direction: column; height: 100%; padding: 1.5rem; transition: transform .26s, border-color .26s, box-shadow .26s; }
+  .g-card:hover { transform: translateY(-5px); border-color: var(--glass-border-strong); box-shadow: var(--shadow-card), var(--glow-cyan); }
+  .g-badge { align-self: flex-start; font-size: 0.7rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--orange); border: 1px solid rgba(255,140,66,.4); padding: 0.2rem 0.6rem; border-radius: 999px; margin-bottom: 0.8rem; }
+  .g-card-title { font-size: 1.3rem; line-height: 1.25; }
+  .g-card-desc { color: var(--text-dim); font-size: 0.96rem; margin-top: 0.6rem; flex: 1; }
+  .g-meta { display: flex; align-items: center; justify-content: space-between; margin-top: 1.2rem; color: var(--text-faint); font-size: 0.85rem; }
+  .g-read { font-family: var(--font-head); font-weight: 600; color: var(--cyan-soft); }
+
+  @media (min-width: 640px) { .g-grid { grid-template-columns: 1fr 1fr; } }
+  @media (min-width: 1000px) { .g-grid { grid-template-columns: 1fr 1fr 1fr; } }
+</style>

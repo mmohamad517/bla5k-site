@@ -1,0 +1,39 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import Hero from '../components/Hero.astro';
+import Directory from '../components/Directory.astro';
+import Footer from '../components/Footer.astro';
+import { getCollection } from 'astro:content';
+import { subcategoryBySlug, categoryBySlug } from '../data/categories';
+
+// ItemList structured data for the full directory
+const sites = await getCollection('sites');
+const schema = [
+  {
+    '@type': 'CollectionPage',
+    '@id': 'https://bla5k.com/#directory',
+    name: 'The bla5k Directory',
+    description: 'A curated directory of the internet’s best tools, websites, and communities.',
+    isPartOf: { '@id': 'https://bla5k.com/#website' },
+  },
+  {
+    '@type': 'ItemList',
+    numberOfItems: sites.length,
+    itemListElement: sites.map((s, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      url: `https://bla5k.com/tools/${s.id}/`,
+      name: s.data.name,
+    })),
+  },
+];
+---
+<Layout schema={schema}>
+  <Header />
+  <main>
+    <Hero />
+    <Directory />
+  </main>
+  <Footer />
+</Layout>
