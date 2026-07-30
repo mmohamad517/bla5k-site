@@ -14,9 +14,9 @@ featured: true
 affiliate: false
 updated: 2026-07-30
 metaTitle: How to Use Claude AI Skills on iPhone & iOS
-metaDescription: Master Claude AI skills on your iPhone and iPad. Explore
-  powerful features, seamless integrations, and actionable guides to boost your
-  mobile productivity.
+metaDescription: Master Claude AI skills on iOS with our complete guide.
+  Discover setup tips, top features, and smart daily workflows to maximize your
+  mobile productivity today.
 faqs:
   - q: " What is Codex Router?"
     a: >
