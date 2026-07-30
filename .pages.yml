@@ -1,0 +1,184 @@
+##
+# Pages CMS config for bla5k
+# https://pagescms.org
+#
+# This file tells Pages CMS what forms to show you in the admin dashboard.
+# It is NOT visible to visitors — nothing links to it, and the /admin lives
+# on pagescms.org (external), not on bla5k.com.
+##
+
+media:
+  input: public/media
+  output: /media
+
+content:
+  # ─────────────────── Tools / Sites ───────────────────
+  - name: sites
+    label: "🛠 Tools & Sites"
+    path: src/content/sites
+    type: collection
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+    view:
+      fields: [name, subcategory, featured, updated]
+      sort:   [updated, name]
+      default:
+        sort: updated
+        order: desc
+    fields:
+      - { name: name,            label: "Name",            type: string,  required: true }
+      - { name: url,             label: "Official URL",    type: string,  required: true, pattern: "^https?://.+" }
+      - { name: subcategory,     label: "Subcategory",     type: select,  required: true, options: { values: [
+            { value: ai-writing,       label: "AI Tools · Content Writing" },
+            { value: ai-image,         label: "AI Tools · Image Generation" },
+            { value: ai-video-audio,   label: "AI Tools · Video & Audio" },
+            { value: ai-chat,          label: "AI Tools · Chatbots & Assistants" },
+            { value: ai-productivity,  label: "AI Tools · AI Productivity" },
+            { value: design-ui,        label: "Design · UI / UX Design" },
+            { value: design-inspo,     label: "Design · Inspiration Galleries" },
+            { value: design-color,     label: "Design · Color & Palettes" },
+            { value: design-graphics,  label: "Design · Graphics & Editing" },
+            { value: design-3d,        label: "Design · 3D & Home Design" },
+            { value: dev-code,         label: "Developer · Code & Hosting" },
+            { value: dev-docs,         label: "Developer · Docs & Reference" },
+            { value: dev-play,         label: "Developer · Playgrounds" },
+            { value: dev-ai-agents,    label: "Developer · AI Agents & Frameworks" },
+            { value: prod-notes,       label: "Productivity · Notes & Docs" },
+            { value: prod-tasks,       label: "Productivity · Tasks & Projects" },
+            { value: prod-data,        label: "Productivity · Databases & Sheets" },
+            { value: disc-launches,    label: "Discovery · New Launches" },
+            { value: disc-alternatives,label: "Discovery · Alternatives & Compare" },
+            { value: disc-news,        label: "Discovery · Tech News" },
+            { value: learn-code,       label: "Learning · Learn to Code" },
+            { value: learn-courses,    label: "Learning · Online Courses" },
+            { value: learn-free,       label: "Learning · Free University" },
+            { value: comm-forums,      label: "Community · Forums & Q&A" },
+            { value: comm-makers,      label: "Community · Makers & Founders" },
+            { value: comm-dev,         label: "Community · Developer Circles" },
+            { value: media-photos,     label: "Media · Stock Photos" },
+            { value: media-icons,      label: "Media · Icons" },
+            { value: media-graphics,   label: "Media · Graphics & Vectors" },
+            { value: media-fonts,      label: "Media · Fonts" },
+            { value: nc-builders,      label: "No-Code · App & Site Builders" },
+            { value: nc-automation,    label: "No-Code · Automation" },
+            { value: util-images,      label: "Utilities · Image Tools" },
+            { value: util-files,       label: "Utilities · Files & PDF" },
+            { value: sec-vpn,          label: "Security · VPNs" },
+            { value: sec-passwords,    label: "Security · Password Managers" },
+            { value: sec-antivirus,    label: "Security · Antivirus & Malware" },
+            { value: host-hosting,     label: "Hosting · Web Hosting" },
+            { value: host-domains,     label: "Hosting · Domains" },
+            { value: host-builders,    label: "Hosting · Site Builders" },
+            { value: mkt-seo,          label: "Marketing · SEO Tools" },
+            { value: mkt-email,        label: "Marketing · Email Marketing" },
+            { value: mkt-social,       label: "Marketing · Social Media" },
+            { value: mkt-analytics,    label: "Marketing · Analytics" },
+            { value: fin-accounting,   label: "Finance · Accounting & Invoicing" },
+            { value: fin-budgeting,    label: "Finance · Budgeting" },
+            { value: fin-fintech,      label: "Finance · Banking & Fintech" },
+            { value: fin-investing,    label: "Finance · Investing" },
+            { value: shop-marketplaces,label: "Shopping · Marketplaces" },
+            { value: shop-coupons,     label: "Shopping · Coupons & Deals" },
+            { value: shop-software-deals, label: "Shopping · Software Deals" },
+            { value: shop-price,       label: "Shopping · Price Trackers" },
+            { value: va-video-edit,    label: "Video/Audio · Video Editing" },
+            { value: va-screen,        label: "Video/Audio · Screen Recording" },
+            { value: va-streaming,     label: "Video/Audio · Streaming" },
+            { value: va-podcast,       label: "Video/Audio · Podcasting" },
+            { value: write-grammar,    label: "Writing · Grammar & Style" },
+            { value: write-blogging,   label: "Writing · Blogging" },
+            { value: write-newsletters,label: "Writing · Newsletters" },
+            { value: write-ebooks,     label: "Writing · eBooks" },
+            { value: store-cloud,      label: "Storage · Cloud Storage" },
+            { value: store-sharing,    label: "Storage · File Sharing" },
+            { value: store-backup,     label: "Storage · Backup" },
+            { value: career-freelance, label: "Careers · Freelance Marketplaces" },
+            { value: career-jobs,      label: "Careers · Remote Jobs" },
+            { value: career-resume,    label: "Careers · Résumé & Portfolio" },
+            { value: social-platforms, label: "Social · Platforms" },
+            { value: social-bio,       label: "Social · Link-in-Bio" },
+            { value: social-community, label: "Social · Community Tools" },
+            { value: news-news,        label: "News · News" },
+            { value: news-rss,         label: "News · RSS & Read-Later" },
+            { value: news-reference,   label: "News · Reference" },
+            { value: ent-streaming,    label: "Entertainment · Streaming" },
+            { value: ent-gaming,       label: "Entertainment · Gaming" },
+            { value: ent-travel,       label: "Entertainment · Travel" },
+            { value: ent-health,       label: "Entertainment · Health & Fitness" },
+            { value: ent-watch,        label: "Entertainment · What to Watch" },
+            { value: ios-productivity, label: "iOS Apps · Productivity" },
+            { value: ios-photo-video,  label: "iOS Apps · Photo & Video" },
+            { value: ios-games,        label: "iOS Apps · Games" },
+            { value: ios-utilities,    label: "iOS Apps · Utilities" },
+            { value: and-productivity, label: "Android · Productivity" },
+            { value: and-photo-video,  label: "Android · Photo & Video" },
+            { value: and-games,        label: "Android · Games" },
+            { value: and-utilities,    label: "Android · Utilities" }
+          ] } }
+      - { name: tagline,         label: "Tagline (one line)", type: string,  required: true }
+      - { name: tags,            label: "Tags",            type: string,  list: true }
+      - { name: featured,        label: "Featured (★)",    type: boolean, default: false }
+      - { name: affiliate,       label: "Force affiliate?", type: boolean, description: "Leave OFF for auto-detection from URL." }
+      - { name: updated,         label: "Updated on",      type: date }
+      - { name: metaTitle,       label: "SEO title (optional)",       type: string }
+      - { name: metaDescription, label: "SEO description (optional)", type: text }
+      - { name: faqs,            label: "FAQs (for Position Zero)", type: object, list: true, fields: [
+            { name: q, label: "Question", type: string },
+            { name: a, label: "Answer",   type: text }
+          ] }
+      - { name: body,            label: "Article (Markdown)", type: text }
+
+  # ─────────────────── Guides / Articles ───────────────────
+  - name: guides
+    label: "📝 Guides & Articles"
+    path: src/content/guides
+    type: collection
+    format: yaml-frontmatter
+    filename: "{primary}.md"
+    view:
+      fields: [title, category, published, featured]
+      sort:   [published, title]
+      default:
+        sort: published
+        order: desc
+    fields:
+      - { name: title,       label: "Title",       type: string, required: true }
+      - { name: description, label: "Description (meta)", type: text, required: true }
+      - { name: keyword,     label: "Primary keyword", type: string }
+      - { name: tags,        label: "Tags", type: string, list: true }
+      - { name: category,    label: "Related category (optional)", type: select, options: { values: [
+            { value: ai-tools, label: "AI Tools" },
+            { value: design, label: "Design & Creative" },
+            { value: developer, label: "Developer Tools" },
+            { value: productivity, label: "Productivity" },
+            { value: discovery, label: "Discovery & Launches" },
+            { value: learning, label: "Learning & Courses" },
+            { value: communities, label: "Communities & Forums" },
+            { value: media, label: "Media & Assets" },
+            { value: "no-code", label: "No-Code & Automation" },
+            { value: utilities, label: "Utilities" },
+            { value: security, label: "Security & Privacy" },
+            { value: hosting, label: "Web Hosting & Domains" },
+            { value: marketing, label: "Marketing & SEO" },
+            { value: finance, label: "Business & Finance" },
+            { value: shopping, label: "Shopping & Deals" },
+            { value: "video-audio", label: "Video & Audio" },
+            { value: writing, label: "Writing & Publishing" },
+            { value: storage, label: "Cloud Storage & Files" },
+            { value: careers, label: "Freelance & Careers" },
+            { value: social, label: "Social & Networking" },
+            { value: news, label: "News & Reading" },
+            { value: entertainment, label: "Entertainment & Lifestyle" },
+            { value: "ios-apps", label: "iOS Apps" },
+            { value: "android-apps", label: "Android Apps" }
+          ] } }
+      - { name: author,     label: "Author", type: string, default: "bla5k" }
+      - { name: published,  label: "Published on", type: date, required: true }
+      - { name: updated,    label: "Updated on",   type: date }
+      - { name: featured,   label: "Featured",     type: boolean, default: false }
+      - { name: metaTitle,  label: "SEO title (optional)", type: string }
+      - { name: faqs,       label: "FAQs (Position Zero)", type: object, list: true, fields: [
+            { name: q, label: "Question", type: string },
+            { name: a, label: "Answer",   type: text }
+          ] }
+      - { name: body,       label: "Article (Markdown, 2500+ words)", type: text }
