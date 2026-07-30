@@ -196,9 +196,11 @@ for (const e of entries) {
     if (broken.length) { F.push(`❌ روابط مكسورة (${broken.length}): ${broken.slice(0,3).join(' , ')}`); warnings++; sub(8); }
   }
 
-  // orphan (only tools/guides that should be linked internally)
+  // orphan: not linked AND not mentioned by name anywhere (a name mention becomes an auto-link at build)
   const inc = incoming[e.slug];
-  if (e.kind === 'site' && (!inc || inc.size === 0)) { F.push('⚠️ صفحة يتيمة — لا يوجد رابط داخلي يشير إليها. اربطها من مقال أو أداة ذات صلة.'); warnings++; sub(5); }
+  const nameRe = new RegExp('\\b' + e.name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\b');
+  const mentioned = entries.some((o) => o.slug !== e.slug && nameRe.test(o.body));
+  if (e.kind === 'site' && (!inc || inc.size === 0) && !mentioned) { F.push('⚠️ صفحة يتيمة — لا رابط ولا ذكر لها في أي مقال. اذكر اسمها في مقال ذي صلة → يتحوّل رابطاً تلقائياً.'); warnings++; sub(5); }
 
   // keyword stuffing
   const w = plainWords(e.body); const freq = {};
