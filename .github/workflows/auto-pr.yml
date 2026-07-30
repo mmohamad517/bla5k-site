@@ -24,8 +24,9 @@ jobs:
           existing=$(gh pr list --base main --head draft --state open --json number --jq '.[0].number' 2>/dev/null || echo "")
           body=$'## 🚀 مراجعة قبل النشر\n\nهذه التعديلات **لن تظهر على bla5k.com** حتى تضغط **Merge pull request** بالأسفل.\n\n1. راجع تقرير الفحص التلقائي (تبويب **Checks** / **Actions → Content QA**).\n2. عدّل أي خطأ من رابط اللوحة في التقرير.\n3. إذا كل شي تمام → اضغط **Merge** → ينشر تلقائياً.'
           if [ -z "$existing" ]; then
-            gh pr create --base main --head draft --title "🚀 نشر تعديلات المحتوى — راجع ثم Merge" --body "$body"
-            echo "Opened a new publish request."
+            gh pr create --base main --head draft --title "🚀 نشر تعديلات المحتوى — راجع ثم Merge" --body "$body" \
+              || echo "لا تعديلات جديدة للنشر بعد (draft = main)."
+            echo "Publish request check complete."
           else
             echo "Publish request #$existing is already open — your new changes were added to it automatically."
           fi
