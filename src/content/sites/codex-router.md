@@ -14,9 +14,9 @@ featured: true
 affiliate: false
 updated: 2026-07-30
 metaTitle: How to Use Claude AI Skills on iPhone & iOS
-metaDescription: Install Codex Router to seamlessly integrate Kimi K3, Grok 4.5,
-  and Anthropic models into Codex CLI. Free, local, credential-isolating AI
-  router.
+metaDescription: Master Claude AI skills on your iPhone and iPad. Explore
+  powerful features, seamless integrations, and actionable guides to boost your
+  mobile productivity.
 faqs:
   - q: " What is Codex Router?"
     a: >
