@@ -1,8 +1,9 @@
 name: Publish gate (draft → live)
 
-# When Pages CMS saves to the `draft` branch, this opens (or updates) a Pull
-# Request to `main`. Nothing reaches the live site (bla5k.com) until YOU click
-# "Merge". This is the strict "review before publish" gate.
+# When Pages CMS saves to `draft`, this runs the QA bot AND opens/updates a
+# Pull Request to `main` — with the FULL QA report placed right in the PR body.
+# You just open the PR, read the report, and click Merge. Nothing reaches
+# bla5k.com until you do. Zero digging, zero extra windows.
 
 on:
   push:
@@ -13,20 +14,41 @@ permissions:
   pull-requests: write
 
 jobs:
-  open-pr:
+  gate:
+    name: Check + open publish request
     runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      QA_CMS_BRANCH: draft
     steps:
       - uses: actions/checkout@v4
-      - name: Open or update the publish request
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Run content QA bot
+        run: node scripts/content-qa.mjs > qa-report.md || true
+      - name: Open or update the publish request (with report inside)
         run: |
-          existing=$(gh pr list --base main --head draft --state open --json number --jq '.[0].number' 2>/dev/null || echo "")
-          body=$'## 🚀 مراجعة قبل النشر\n\nهذه التعديلات **لن تظهر على bla5k.com** حتى تضغط **Merge pull request** بالأسفل.\n\n1. راجع تقرير الفحص التلقائي (تبويب **Checks** / **Actions → Content QA**).\n2. عدّل أي خطأ من رابط اللوحة في التقرير.\n3. إذا كل شي تمام → اضغط **Merge** → ينشر تلقائياً.'
-          if [ -z "$existing" ]; then
-            gh pr create --base main --head draft --title "🚀 نشر تعديلات المحتوى — راجع ثم Merge" --body "$body" \
-              || echo "لا تعديلات جديدة للنشر بعد (draft = main)."
-            echo "Publish request check complete."
+          if [ -z "$(git rev-list origin/main..HEAD 2>/dev/null)" ]; then
+            echo "draft = main — لا تعديلات جديدة للنشر."; exit 0
+          fi
+          {
+            echo '## 🚀 مراجعة قبل النشر'
+            echo ''
+            echo 'هذه التعديلات **لن تظهر على bla5k.com** حتى تضغط **Merge pull request** بالأسفل.'
+            echo 'راجع تقرير الفحص التلقائي أدناه، صلّح أي خطأ عبر روابط "✏️ عدّل في اللوحة"، ثم ادمج.'
+            echo ''
+            echo '---'
+            echo ''
+            cat qa-report.md
+          } > pr-body.md
+          pr=$(gh pr list --base main --head draft --state open --json number --jq '.[0].number' 2>/dev/null || echo "")
+          if [ -z "$pr" ]; then
+            gh pr create --base main --head draft --title "🚀 نشر تعديلات المحتوى — راجع ثم Merge" --body-file pr-body.md
+            echo "فُتح طلب نشر جديد مع التقرير."
           else
-            echo "Publish request #$existing is already open — your new changes were added to it automatically."
+            gh pr edit "$pr" --body-file pr-body.md
+            echo "حُدّث طلب النشر #$pr بأحدث تقرير."
           fi
