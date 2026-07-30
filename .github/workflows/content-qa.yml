@@ -1,0 +1,28 @@
+name: Content QA
+
+# Runs automatically on every content change (including saves from Pages CMS)
+# and on manual trigger. It only READS your content and prints a report — it
+# never edits, deletes, or blocks anything. Zero AI, zero cost.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'src/content/**'
+      - 'src/data/categories.ts'
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  qa:
+    name: Check content before it goes live
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Run content QA bot
+        run: node scripts/content-qa.mjs
