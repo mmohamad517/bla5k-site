@@ -1,0 +1,176 @@
+{
+  "$ref": "#/definitions/sites",
+  "definitions": {
+    "sites": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "subcategory": {
+          "type": "string",
+          "enum": [
+            "ai-writing",
+            "ai-image",
+            "ai-video-audio",
+            "ai-chat",
+            "ai-productivity",
+            "design-ui",
+            "design-inspo",
+            "design-color",
+            "design-graphics",
+            "design-3d",
+            "dev-code",
+            "dev-docs",
+            "dev-play",
+            "dev-ai-agents",
+            "prod-notes",
+            "prod-tasks",
+            "prod-data",
+            "disc-launches",
+            "disc-alternatives",
+            "disc-news",
+            "learn-code",
+            "learn-courses",
+            "learn-free",
+            "comm-forums",
+            "comm-makers",
+            "comm-dev",
+            "media-photos",
+            "media-icons",
+            "media-graphics",
+            "media-fonts",
+            "nc-builders",
+            "nc-automation",
+            "util-images",
+            "util-files",
+            "sec-vpn",
+            "sec-passwords",
+            "sec-antivirus",
+            "host-hosting",
+            "host-domains",
+            "host-builders",
+            "mkt-seo",
+            "mkt-email",
+            "mkt-social",
+            "mkt-analytics",
+            "fin-accounting",
+            "fin-budgeting",
+            "fin-fintech",
+            "fin-investing",
+            "shop-marketplaces",
+            "shop-coupons",
+            "shop-software-deals",
+            "shop-price",
+            "va-video-edit",
+            "va-screen",
+            "va-streaming",
+            "va-podcast",
+            "write-grammar",
+            "write-blogging",
+            "write-newsletters",
+            "write-ebooks",
+            "store-cloud",
+            "store-sharing",
+            "store-backup",
+            "career-freelance",
+            "career-jobs",
+            "career-resume",
+            "social-platforms",
+            "social-bio",
+            "social-community",
+            "news-news",
+            "news-rss",
+            "news-reference",
+            "ent-streaming",
+            "ent-watch",
+            "ent-gaming",
+            "ent-travel",
+            "ent-health",
+            "ios-productivity",
+            "ios-photo-video",
+            "ios-games",
+            "ios-utilities",
+            "and-productivity",
+            "and-photo-video",
+            "and-games",
+            "and-utilities"
+          ]
+        },
+        "tagline": {
+          "type": "string"
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "featured": {
+          "type": "boolean",
+          "default": false
+        },
+        "affiliate": {
+          "type": "boolean"
+        },
+        "updated": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date-time"
+            },
+            {
+              "type": "string",
+              "format": "date"
+            },
+            {
+              "type": "integer",
+              "format": "unix-time"
+            }
+          ]
+        },
+        "metaTitle": {
+          "type": "string"
+        },
+        "metaDescription": {
+          "type": "string"
+        },
+        "faqs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "q": {
+                "type": "string"
+              },
+              "a": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "q",
+              "a"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "$schema": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "name",
+        "url",
+        "subcategory",
+        "tagline"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}
