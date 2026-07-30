@@ -1,17 +1,24 @@
 #!/usr/bin/env node
 /**
- * bla5k Content QA Bot
- * --------------------
- * Runs automatically on every content change (GitHub Action) and produces a
- * report of everything it checked, flagged, and considers safe — no AI key,
- * no cost, fully deterministic. It catches the common mistakes so the site
- * stays clean for Google + AdSense even when you publish on your own.
+ * bla5k Content QA Bot — v2
+ * -------------------------
+ * Runs automatically on every content change (GitHub Action). It ONLY reads
+ * your content and prints a report — it never edits, deletes, or blocks
+ * anything. 100% deterministic (no AI) → it cannot hallucinate.
  *
- * Checks: banned/piracy content, duplicate tools, broken/malformed links,
- * SEO essentials (title/description length, tagline, FAQs, word count),
- * valid category, and formatting issues.
+ * Checks:
+ *   • Banned / AdSense-policy content (piracy, adult, drugs, weapons, hate…)
+ *   • Duplicate tools (name / url / slug) + duplicate meta titles/descriptions
+ *   • Near-duplicate article bodies (copied content) via shingle similarity
+ *   • Broken / dead links (live HTTP check of the tool URL + body links)
+ *   • Orphan pages (no internal links pointing to them)
+ *   • Keyword stuffing, readability (Flesch), content depth
+ *   • SEO essentials (title/description length, tagline, FAQs)
+ *   • Stale content (not updated in 6+ months)
+ *   • A 0–100 health score per entry and for the whole site
  *
- * Exit code 1 if any CRITICAL issue is found (shows a red ✗ on the commit).
+ * Env: QA_SKIP_LINKS=1 skips the live link check (faster local runs).
+ * Exit code 1 only on CRITICAL structural issues that also break the build.
  */
 import { readFileSync, readdirSync, existsSync, appendFileSync } from 'node:fs';
 import { join } from 'node:path';
@@ -20,14 +27,24 @@ const ROOT = process.cwd();
 const SITES_DIR = join(ROOT, 'src/content/sites');
 const GUIDES_DIR = join(ROOT, 'src/content/guides');
 const CATS_FILE = join(ROOT, 'src/data/categories.ts');
+const SKIP_LINKS = process.env.QA_SKIP_LINKS === '1';
 
-// ── piracy / banned-content signals (AdSense + Google safety) ──
+// ── policy patterns (piracy + AdSense prohibited content) ──
 const BANNED = [
-  /\btorrents?\b/i, /\bcrack(ed|s|ing)?\b/i, /\bnulled\b/i, /\bwarez\b/i,
-  /\bkeygens?\b/i, /\bpirat(e|ed|ing|es)?\b/i, /\bmod[\s-]?apk\b/i, /\bmodded\b/i,
-  /free\s+(movies|streaming|premium|netflix|spotify)/i, /premium\s+(for\s+)?free/i,
-  /\bserial\s+keys?\b/i, /\bactivation\s+keys?\b/i, /\bfree\s+download\s+(paid|cracked|full)/i,
+  { re: /\btorrents?\b/i, why: 'قرصنة' }, { re: /\bcrack(ed|s|ing)?\b/i, why: 'قرصنة' },
+  { re: /\bnulled\b/i, why: 'قرصنة' }, { re: /\bwarez\b/i, why: 'قرصنة' },
+  { re: /\bkeygens?\b/i, why: 'قرصنة' }, { re: /\bpirat(e|ed|ing|es)?\b/i, why: 'قرصنة' },
+  { re: /\bmod[\s-]?apk\b/i, why: 'قرصنة' }, { re: /\bmodded\b/i, why: 'قرصنة' },
+  { re: /free\s+(movies|streaming|premium|netflix|spotify)/i, why: 'قرصنة' },
+  { re: /premium\s+(for\s+)?free/i, why: 'قرصنة' }, { re: /\bserial\s+keys?\b/i, why: 'قرصنة' },
+  { re: /\bactivation\s+keys?\b/i, why: 'قرصنة' },
+  { re: /\b(porn|xxx|nsfw|escort|adult\s+content)\b/i, why: 'محتوى بالغين (AdSense)' },
+  { re: /\b(cocaine|heroin|meth|weed\s+shop|buy\s+drugs)\b/i, why: 'مخدرات (AdSense)' },
+  { re: /\b(buy\s+(a\s+)?gun|firearms\s+for\s+sale|ammo\s+for\s+sale)\b/i, why: 'أسلحة (AdSense)' },
+  { re: /\b(gambling\s+bonus|online\s+casino\s+real\s+money)\b/i, why: 'قمار (AdSense)' },
 ];
+
+const STOP = new Set('the a an and or of to in for on with is are be it as at by from that this you your we our their they can will not no do does how what which when who why more most into over under out up down about'.split(' '));
 
 // ── helpers ──
 function listMd(dir) {
@@ -36,127 +53,202 @@ function listMd(dir) {
 }
 function splitFrontmatter(raw) {
   const m = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);
-  if (!m) return { fmText: '', body: raw };
-  return { fmText: m[1], body: m[2] };
+  return m ? { fmText: m[1], body: m[2] } : { fmText: '', body: raw };
 }
 function fmValue(fmText, key) {
   const m = fmText.match(new RegExp('^' + key + ':\\s*(.*)$', 'm'));
-  if (!m) return null;
-  return m[1].replace(/^["']|["']$/g, '').trim();
+  return m ? m[1].replace(/^["']|["']$/g, '').trim() : null;
 }
-function wordCount(text) {
-  return (text.replace(/[#>*_`\-\[\]()!]/g, ' ').match(/\S+/g) || []).length;
+function plainWords(text) {
+  return (text.toLowerCase().replace(/`[^`]*`/g, ' ').replace(/\[[^\]]*\]\([^)]*\)/g, ' ')
+    .replace(/[^a-z0-9\s]/g, ' ').match(/[a-z0-9]+/g) || []);
+}
+function countSyllables(w) {
+  w = w.toLowerCase().replace(/[^a-z]/g, ''); if (w.length <= 3) return 1;
+  w = w.replace(/(?:[^laeiouy]es|ed|[^laeiouy]e)$/, '').replace(/^y/, '');
+  const m = w.match(/[aeiouy]{1,2}/g); return m ? m.length : 1;
+}
+function fleschScore(body) {
+  const sentences = Math.max(1, (body.match(/[.!?]+(\s|$)/g) || []).length);
+  const words = plainWords(body); if (words.length < 30) return null;
+  const syl = words.reduce((s, w) => s + countSyllables(w), 0);
+  return Math.round(206.835 - 1.015 * (words.length / sentences) - 84.6 * (syl / words.length));
+}
+function shingles(body, k = 8) {
+  const w = plainWords(body); const s = new Set();
+  for (let i = 0; i + k <= w.length; i += 2) s.add(w.slice(i, i + k).join(' '));
+  return s;
+}
+function jaccard(a, b) {
+  if (!a.size || !b.size) return 0; let inter = 0;
+  const [sm, lg] = a.size < b.size ? [a, b] : [b, a];
+  for (const x of sm) if (lg.has(x)) inter++;
+  return inter / (a.size + b.size - inter);
 }
 function validSubcats() {
+  try { return new Set([...readFileSync(CATS_FILE, 'utf8').matchAll(/slug:\s*'([a-z0-9-]+)'/g)].map((m) => m[1])); }
+  catch { return null; }
+}
+async function checkUrl(url) {
   try {
-    const src = readFileSync(CATS_FILE, 'utf8');
-    return new Set([...src.matchAll(/slug:\s*'([a-z0-9-]+)'/g)].map((m) => m[1]));
-  } catch { return null; }
+    const ctrl = new AbortController(); const t = setTimeout(() => ctrl.abort(), 9000);
+    const r = await fetch(url, { method: 'GET', redirect: 'follow', signal: ctrl.signal,
+      headers: { 'user-agent': 'Mozilla/5.0 (compatible; bla5k-qa/1.0)' } });
+    clearTimeout(t);
+    if (r.status === 404 || r.status === 410) return { ok: false, code: r.status };
+    return { ok: true, code: r.status };
+  } catch (e) {
+    const dns = /ENOTFOUND|getaddrinfo|ECONNREFUSED/.test(String(e));
+    return { ok: !dns, code: dns ? 'DNS' : 'timeout', soft: !dns };
+  }
 }
 
-// ── report accumulator ──
-const report = [];
-let critical = 0, warnings = 0, filesChecked = 0;
-const seenNames = new Map(), seenUrls = new Map(), seenSlugs = new Map();
-
-function line(s) { report.push(s); }
-
-function checkFile(path, kind) {
-  filesChecked++;
-  const raw = readFileSync(path, 'utf8');
-  const { fmText, body } = splitFrontmatter(raw);
-  const slug = path.split(/[\\/]/).pop().replace(/\.md$/, '');
-  const name = fmValue(fmText, kind === 'site' ? 'name' : 'title') || slug;
-  const findings = [];
-
-  // 1) banned / piracy content
-  const haystack = (name + ' ' + fmText + ' ' + body).slice(0, 20000);
-  const bannedHit = BANNED.find((re) => re.test(haystack));
-  if (bannedHit) { findings.push(`🚫 **راجع يدوياً**: كلمة قد تدل على قرصنة/محتوى محظور — النمط \`${bannedHit.source}\`. تأكد إن الأداة شرعية 100% قبل النشر (قد يكون تطابق بريء).`); warnings++; }
-
-  // 2) duplicates
-  const url = fmValue(fmText, 'url');
-  if (seenNames.has(name.toLowerCase())) { findings.push(`⚠️ اسم مكرر: "${name}" موجود أيضاً في ${seenNames.get(name.toLowerCase())}`); warnings++; }
-  else seenNames.set(name.toLowerCase(), slug);
-  if (url) {
-    const uk = url.toLowerCase().replace(/\/$/, '');
-    if (seenUrls.has(uk)) { findings.push(`⚠️ رابط مكرر: ${url} مستخدم أيضاً في ${seenUrls.get(uk)}`); warnings++; }
-    else seenUrls.set(uk, slug);
+// ── load all entries ──
+const subs = validSubcats();
+const entries = [];
+for (const [dir, kind] of [[SITES_DIR, 'site'], [GUIDES_DIR, 'guide']]) {
+  for (const path of listMd(dir)) {
+    const raw = readFileSync(path, 'utf8');
+    const { fmText, body } = splitFrontmatter(raw);
+    const slug = path.split(/[\\/]/).pop().replace(/\.md$/, '');
+    entries.push({
+      path, kind, slug, fmText, body,
+      name: fmValue(fmText, kind === 'site' ? 'name' : 'title') || slug,
+      url: fmValue(fmText, 'url'),
+      metaTitle: fmValue(fmText, 'metaTitle'),
+      metaDesc: fmValue(fmText, 'metaDescription') || fmValue(fmText, 'description'),
+      updated: fmValue(fmText, 'updated') || fmValue(fmText, 'published'),
+      faqCount: (fmText.match(/^\s*-\s*q:/gm) || []).length,
+      words: plainWords(body).length,
+      internalOut: [...body.matchAll(/\]\((\/(?:tools|category|guides)\/[a-z0-9-]+)\/?\)/g)].map((m) => m[1]),
+      _sh: shingles(body),
+    });
   }
-  if (seenSlugs.has(slug)) { findings.push(`❌ CRITICAL: ملف مكرر بنفس الاسم: ${slug}`); critical++; }
-  else seenSlugs.set(slug, path);
-
-  // 3) required fields
-  if (kind === 'site') {
-    if (!fmValue(fmText, 'name')) { findings.push('❌ CRITICAL: حقل name مفقود'); critical++; }
-    if (!url) { findings.push('❌ CRITICAL: حقل url مفقود'); critical++; }
-    else if (!/^https?:\/\/.+/i.test(url)) { findings.push(`❌ CRITICAL: url غير صحيح (لازم يبدأ https://): ${url}`); critical++; }
-    if (!fmValue(fmText, 'subcategory')) { findings.push('❌ CRITICAL: حقل subcategory مفقود'); critical++; }
-    if (!fmValue(fmText, 'tagline')) { findings.push('⚠️ tagline مفقود (يظهر تحت الاسم)'); warnings++; }
-  } else {
-    if (!fmValue(fmText, 'title')) { findings.push('❌ CRITICAL: حقل title مفقود'); critical++; }
-    if (!fmValue(fmText, 'description')) { findings.push('⚠️ description (meta) مفقود'); warnings++; }
-    if (!fmValue(fmText, 'published')) { findings.push('⚠️ تاريخ published مفقود'); warnings++; }
-  }
-
-  // 4) valid subcategory
-  const subs = validSubcats();
-  if (kind === 'site' && subs) {
-    const sub = fmValue(fmText, 'subcategory');
-    if (sub && !subs.has(sub)) { findings.push(`❌ CRITICAL: subcategory غير موجودة: "${sub}"`); critical++; }
-  }
-
-  // 5) links: malformed / concatenated URLs (a common ChatGPT copy artifact)
-  const concat = body.match(/https?:\/\/\S*https?:\/\//g);
-  if (concat) { findings.push(`⚠️ رابط ملتصق/مشوّه (${concat.length}) — نظّفه: مثال \`${concat[0].slice(0, 60)}…\``); warnings++; }
-  const mdLinks = (body.match(/\[[^\]]+\]\(https?:\/\/[^)]+\)/g) || []).length;
-  const bareLinks = (body.match(/(^|\s)https?:\/\/[^\s)]+/g) || []).length;
-
-  // 6) SEO essentials
-  const metaTitle = fmValue(fmText, 'metaTitle');
-  if (metaTitle && metaTitle.length > 65) { findings.push(`⚠️ SEO title طويل (${metaTitle.length} حرف، الأفضل ≤ 60)`); warnings++; }
-  const metaDesc = fmValue(fmText, 'metaDescription') || fmValue(fmText, 'description');
-  if (metaDesc && (metaDesc.length < 70 || metaDesc.length > 170)) { findings.push(`⚠️ الوصف (${metaDesc.length} حرف) — الأفضل 120–160`); warnings++; }
-  const faqCount = (fmText.match(/^\s*-\s*q:/gm) || []).length;
-  if (faqCount === 0) { findings.push('⚠️ لا يوجد FAQ — أضف 3–6 أسئلة (مهم للسيو/Position Zero)'); warnings++; }
-
-  // 7) content depth
-  const words = wordCount(body);
-  const minWords = kind === 'guide' ? 1500 : 600;
-  if (words < minWords) { findings.push(`⚠️ محتوى قصير (${words} كلمة، الأفضل ≥ ${minWords})`); warnings++; }
-
-  // 8) formatting note (build already auto-fixes duplicate H1)
-  if (/^#\s+/m.test(body)) { findings.push('ℹ️ المقال يبدأ بعنوان `#` — النظام يحوّله تلقائياً لـ H2 (لا تقلق)'); }
-  if (mdLinks === 0 && bareLinks === 0) { findings.push('⚠️ لا يوجد أي رابط في المقال — أضف روابط رسمية للمصدر وروابط داخلية'); warnings++; }
-
-  // emit
-  const status = findings.some((f) => f.includes('CRITICAL')) ? '❌' : findings.length ? '⚠️' : '✅';
-  line(`\n### ${status} ${name}  \n\`${path.replace(ROOT, '').replace(/\\/g, '/')}\` — ${words} كلمة · ${mdLinks + bareLinks} رابط · ${faqCount} FAQ`);
-  if (findings.length === 0) line('- ✅ سليم تماماً — جاهز للنشر.');
-  else for (const f of findings) line(`- ${f}`);
 }
 
-// ── run ──
-line('# 🤖 تقرير فحص المحتوى — bla5k Content QA\n');
-line(`فُحص عند: ${new Date().toISOString().replace('T', ' ').slice(0, 16)} UTC\n`);
+// ── cross-file maps ──
+const byName = {}, byUrl = {}, bySlug = {}, byTitle = {}, byDesc = {}, incoming = {};
+for (const e of entries) {
+  (byName[e.name.toLowerCase()] ||= []).push(e.slug);
+  if (e.url) (byUrl[e.url.toLowerCase().replace(/\/$/, '')] ||= []).push(e.slug);
+  (bySlug[e.slug] ||= []).push(e.slug);
+  if (e.metaTitle) (byTitle[e.metaTitle.toLowerCase()] ||= []).push(e.slug);
+  if (e.metaDesc) (byDesc[e.metaDesc.toLowerCase()] ||= []).push(e.slug);
+  for (const link of e.internalOut) { const s = link.split('/').pop(); (incoming[s] ||= new Set()).add(e.slug); }
+}
 
-for (const f of listMd(SITES_DIR)) checkFile(f, 'site');
-for (const f of listMd(GUIDES_DIR)) checkFile(f, 'guide');
+// ── live link check (dedup) ──
+const urlStatus = {};
+if (!SKIP_LINKS) {
+  const urls = new Set();
+  for (const e of entries) {
+    if (e.url) urls.add(e.url);
+    for (const m of e.body.matchAll(/\]\((https?:\/\/[^)]+)\)/g)) urls.add(m[1]);
+  }
+  const list = [...urls].slice(0, 120);
+  const CONC = 8;
+  for (let i = 0; i < list.length; i += CONC) {
+    const batch = list.slice(i, i + CONC);
+    const res = await Promise.all(batch.map((u) => checkUrl(u)));
+    batch.forEach((u, j) => { urlStatus[u] = res[j]; });
+  }
+}
 
-const summary = [
+// ── evaluate ──
+const report = []; const L = (s) => report.push(s);
+let critical = 0, warnings = 0; const scores = [];
+
+for (const e of entries) {
+  const F = []; let score = 100;
+  const sub = (t) => { score -= t; };
+
+  // policy
+  const hit = BANNED.find((b) => b.re.test((e.name + ' ' + e.fmText + ' ' + e.body).slice(0, 25000)));
+  if (hit) { F.push(`🚫 **راجع يدوياً**: ${hit.why} — نمط \`${hit.re.source}\`. تأكد إن الأداة شرعية 100% (قد يكون تطابق بريء).`); warnings++; sub(15); }
+
+  // duplicates
+  if (byName[e.name.toLowerCase()].length > 1) { F.push(`⚠️ اسم مكرر مع: ${byName[e.name.toLowerCase()].filter(s=>s!==e.slug).join(', ')}`); warnings++; sub(6); }
+  if (e.url && byUrl[e.url.toLowerCase().replace(/\/$/,'')].length > 1) { F.push(`⚠️ رابط مكرر مع: ${byUrl[e.url.toLowerCase().replace(/\/$/,'')].filter(s=>s!==e.slug).join(', ')}`); warnings++; sub(6); }
+  if (e.metaTitle && byTitle[e.metaTitle.toLowerCase()].length > 1) { F.push('⚠️ metaTitle مكرر مع صفحة أخرى — اجعله فريداً'); warnings++; sub(5); }
+  if (e.metaDesc && byDesc[e.metaDesc.toLowerCase()].length > 1) { F.push('⚠️ metaDescription مكرر مع صفحة أخرى'); warnings++; sub(4); }
+
+  // near-duplicate body
+  let sim = 0, simWith = '';
+  for (const o of entries) { if (o === e) continue; const j = jaccard(e._sh, o._sh); if (j > sim) { sim = j; simWith = o.slug; } }
+  if (sim > 0.4) { F.push(`❌ **تشابه عالٍ (${Math.round(sim*100)}%)** مع ${simWith} — محتوى مكرر، أعد صياغته (خطر عقوبة Google)`); warnings++; sub(20); }
+
+  // required fields (also break the build)
+  if (e.kind === 'site') {
+    if (!fmValue(e.fmText, 'name')) { F.push('❌ CRITICAL: name مفقود'); critical++; sub(40); }
+    if (!e.url) { F.push('❌ CRITICAL: url مفقود'); critical++; sub(40); }
+    else if (!/^https?:\/\/.+/i.test(e.url)) { F.push(`❌ CRITICAL: url غير صحيح: ${e.url}`); critical++; sub(40); }
+    if (!fmValue(e.fmText, 'subcategory')) { F.push('❌ CRITICAL: subcategory مفقود'); critical++; sub(40); }
+    else if (subs && !subs.has(fmValue(e.fmText, 'subcategory'))) { F.push(`❌ CRITICAL: subcategory غير موجودة: "${fmValue(e.fmText,'subcategory')}"`); critical++; sub(40); }
+    if (!fmValue(e.fmText, 'tagline')) { F.push('⚠️ tagline مفقود'); warnings++; sub(4); }
+  } else if (!fmValue(e.fmText, 'title')) { F.push('❌ CRITICAL: title مفقود'); critical++; sub(40); }
+
+  // dead / broken links
+  if (!SKIP_LINKS) {
+    if (e.url && urlStatus[e.url] && !urlStatus[e.url].ok) { F.push(`❌ **الموقع الرسمي لا يستجيب** (${urlStatus[e.url].code}) — قد تكون الأداة ميتة/مباعة`); warnings++; sub(15); }
+    const dead = e.internalOut.length ? [] : [];
+    const bodyUrls = [...e.body.matchAll(/\]\((https?:\/\/[^)]+)\)/g)].map((m) => m[1]);
+    const broken = bodyUrls.filter((u) => urlStatus[u] && !urlStatus[u].ok && !urlStatus[u].soft);
+    if (broken.length) { F.push(`❌ روابط مكسورة (${broken.length}): ${broken.slice(0,3).join(' , ')}`); warnings++; sub(8); }
+  }
+
+  // orphan (only tools/guides that should be linked internally)
+  const inc = incoming[e.slug];
+  if (e.kind === 'site' && (!inc || inc.size === 0)) { F.push('⚠️ صفحة يتيمة — لا يوجد رابط داخلي يشير إليها. اربطها من مقال أو أداة ذات صلة.'); warnings++; sub(5); }
+
+  // keyword stuffing
+  const w = plainWords(e.body); const freq = {};
+  for (const x of w) if (!STOP.has(x) && x.length > 3) freq[x] = (freq[x] || 0) + 1;
+  const top = Object.entries(freq).sort((a, b) => b[1] - a[1])[0];
+  if (top && w.length > 200 && top[1] / w.length > 0.035) { F.push(`⚠️ حشو كلمات محتمل: "${top[0]}" مكررة ${top[1]} مرة (${(top[1]/w.length*100).toFixed(1)}%)`); warnings++; sub(6); }
+
+  // readability
+  const fl = fleschScore(e.body);
+  if (fl !== null && fl < 35) { F.push(`⚠️ صعب القراءة (Flesch ${fl}، الأفضل > 50) — بسّط الجمل`); warnings++; sub(4); }
+
+  // SEO lengths
+  if (e.metaTitle && e.metaTitle.length > 65) { F.push(`⚠️ SEO title طويل (${e.metaTitle.length}، ≤ 60)`); warnings++; sub(3); }
+  if (e.metaDesc && (e.metaDesc.length < 70 || e.metaDesc.length > 170)) { F.push(`⚠️ الوصف (${e.metaDesc.length} حرف) — الأفضل 120–160`); warnings++; sub(3); }
+  if (e.faqCount === 0) { F.push('⚠️ لا FAQ — أضف 3–6 أسئلة'); warnings++; sub(5); }
+
+  // depth
+  const minW = e.kind === 'guide' ? 1500 : 600;
+  if (e.words < minW) { F.push(`⚠️ محتوى قصير (${e.words}، ≥ ${minW})`); warnings++; sub(8); }
+  const links = (e.body.match(/\]\(https?:\/\//g) || []).length + (e.body.match(/(^|\s)https?:\/\//g) || []).length;
+  if (links === 0) { F.push('⚠️ لا روابط بالمقال — أضف روابط مصدر رسمية وداخلية'); warnings++; sub(6); }
+
+  // stale
+  if (e.updated) { const age = (Date.now() - Date.parse(e.updated)) / 8.64e7;
+    if (age > 183) { F.push(`⚠️ محتوى قديم (آخر تحديث قبل ${Math.round(age)} يوم) — يُنصح بالتحديث`); warnings++; sub(3); } }
+
+  score = Math.max(0, Math.min(100, score));
+  scores.push(score);
+  const st = F.some((f) => f.includes('CRITICAL')) ? '❌' : F.length ? '⚠️' : '✅';
+  const bar = '█'.repeat(Math.round(score / 10)) + '░'.repeat(10 - Math.round(score / 10));
+  L(`\n### ${st} ${e.name} — صحة ${score}/100 \`${bar}\``);
+  L(`\`${e.path.replace(ROOT, '').replace(/\\/g, '/')}\` · ${e.words} كلمة · ${links} رابط · ${e.faqCount} FAQ`);
+  if (!F.length) L('- ✅ سليم تماماً — جاهز للنشر.');
+  else for (const f of F) L(`- ${f}`);
+}
+
+const avg = scores.length ? Math.round(scores.reduce((a, b) => a + b, 0) / scores.length) : 100;
+const grade = avg >= 90 ? 'A ممتاز' : avg >= 80 ? 'B جيد جداً' : avg >= 70 ? 'C جيد' : avg >= 60 ? 'D مقبول' : 'F يحتاج عمل';
+
+const head = [
+  '# 🤖 تقرير فحص المحتوى — bla5k Content QA v2\n',
+  `فُحص: ${new Date().toISOString().replace('T', ' ').slice(0, 16)} UTC${SKIP_LINKS ? ' (بدون فحص روابط)' : ''}\n`,
   '## 📊 الملخص',
-  `- الملفات المفحوصة: **${filesChecked}**`,
-  `- 🔴 مشاكل حرجة: **${critical}**`,
-  `- 🟡 تنبيهات: **${warnings}**`,
-  critical === 0 ? '- ✅ **لا مشاكل حرجة — الموقع آمن للنشر.**' : '- ❌ **يوجد مشاكل حرجة — راجعها قبل الاعتماد.**',
+  `- 🏆 **درجة صحة الموقع: ${avg}/100 — ${grade}**`,
+  `- الملفات: **${entries.length}** · 🔴 حرجة: **${critical}** · 🟡 تنبيهات: **${warnings}**`,
+  critical === 0 ? '- ✅ **لا مشاكل حرجة — آمن للنشر.**' : '- ❌ **مشاكل حرجة — راجعها.**',
   '',
-];
-const out = summary.join('\n') + '\n' + report.join('\n') + '\n';
+].join('\n');
 
-// print to console + GitHub Step Summary
+const out = head + report.join('\n') + '\n';
 console.log(out);
-if (process.env.GITHUB_STEP_SUMMARY) {
-  try { appendFileSync(process.env.GITHUB_STEP_SUMMARY, out); } catch {}
-}
-
+if (process.env.GITHUB_STEP_SUMMARY) { try { appendFileSync(process.env.GITHUB_STEP_SUMMARY, out); } catch {} }
 process.exit(critical > 0 ? 1 : 0);
