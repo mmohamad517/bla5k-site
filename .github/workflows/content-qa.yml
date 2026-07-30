@@ -1,12 +1,11 @@
 name: Content QA
 
-# Runs automatically on every content change (including saves from Pages CMS)
-# and on manual trigger. It only READS your content and prints a report — it
-# never edits, deletes, or blocks anything. Zero AI, zero cost.
+# Runs automatically on every content change (saves from Pages CMS on the
+# `draft` branch, and on `main`). READ-ONLY report — never edits/blocks. No AI.
 
 on:
   push:
-    branches: [main]
+    branches: [main, draft]
     paths:
       - 'src/content/**'
       - 'src/data/categories.ts'
@@ -19,6 +18,8 @@ jobs:
   qa:
     name: Check content before it goes live
     runs-on: ubuntu-latest
+    env:
+      QA_CMS_BRANCH: draft
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4

@@ -229,8 +229,13 @@ for (const e of entries) {
   scores.push(score);
   const st = F.some((f) => f.includes('CRITICAL')) ? '❌' : F.length ? '⚠️' : '✅';
   const bar = '█'.repeat(Math.round(score / 10)) + '░'.repeat(10 - Math.round(score / 10));
+  // one-click link straight to this entry's edit form in the Pages CMS panel
+  const coll = e.kind === 'site' ? 'sites' : 'guides';
+  const relPath = e.path.replace(ROOT, '').replace(/\\/g, '/').replace(/^\//, '');
+  const branch = process.env.QA_CMS_BRANCH || 'main';
+  const editUrl = `https://app.pagescms.org/mmohamad517/bla5k-site/${branch}/collection/${coll}/edit/${encodeURIComponent(relPath)}`;
   L(`\n### ${st} ${e.name} — صحة ${score}/100 \`${bar}\``);
-  L(`\`${e.path.replace(ROOT, '').replace(/\\/g, '/')}\` · ${e.words} كلمة · ${links} رابط · ${e.faqCount} FAQ`);
+  L(`${e.words} كلمة · ${links} رابط · ${e.faqCount} FAQ — ${F.length ? `[✏️ عدّل في اللوحة](${editUrl})` : `\`${relPath}\``}`);
   if (!F.length) L('- ✅ سليم تماماً — جاهز للنشر.');
   else for (const f of F) L(`- ${f}`);
 }
