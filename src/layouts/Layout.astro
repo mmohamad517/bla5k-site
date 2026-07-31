@@ -2,6 +2,7 @@
 import '../styles/global.css';
 
 export interface Props {
+  image?: string;
   title?: string;
   description?: string;
   /** Extra Schema.org nodes to merge into the @graph for this page. */
@@ -13,13 +14,14 @@ export interface Props {
 const {
   title = 'bla5k — The Directory of the Internet’s Best Tools',
   description = 'A professional, hand-organized directory of the internet’s best tools, websites, and communities — sorted into clear categories with an instant search.',
+  image = '/og-image.png',
   schema = [],
   noindex = false,
 } = Astro.props;
 
 const site = 'https://bla5k.com';
 const canonical = new URL(Astro.url.pathname, site).href.replace(/([^:]\/)\/+/g, '$1');
-const ogImage = `${site}/og-image.png`;
+const ogImage = image.startsWith('http') ? image : `${site}${image}`;
 
 const baseGraph = [
   {

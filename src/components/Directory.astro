@@ -52,7 +52,7 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
         <details class:list={['cat', { empty: count === 0 }]} data-cat={cat.slug} data-empty={count === 0 ? '1' : undefined} open={ci === firstPopulated}>
           <summary class="cat-sum">
             <span class="cat-icon" aria-hidden="true">{cat.icon}</span>
-            <span class="cat-name">{cat.name}</span>
+            <h3 class="cat-name">{cat.name}</h3>
             <span class="cat-count">{count === 0 ? 'soon' : count}</span>
             <svg class="chev" width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="m6 9 6 6 6-6" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
           </summary>
@@ -62,7 +62,7 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
               <details class="sub" data-sub={sub.slug} open>
                 <summary class="sub-sum">
                   <span class="sub-icon" aria-hidden="true">{sub.icon}</span>
-                  <span class="sub-name">{sub.name}</span>
+                  <h4 class="sub-name">{sub.name}</h4>
                   <span class="sub-count">{sites.length}</span>
                   <svg class="chev sm" width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="m6 9 6 6 6-6" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
                 </summary>
@@ -122,7 +122,7 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
 
   .cat-sum { display: flex; align-items: center; gap: 0.75rem; padding: 1rem 1.1rem; min-height: 56px; }
   .cat-icon { font-size: 1.35rem; line-height: 1; flex: none; }
-  .cat-name { font-family: var(--font-head); font-weight: 700; font-size: 1.12rem; flex: 1; }
+  .cat-name { font-family: var(--font-head); font-weight: 700; font-size: 1.12rem; flex: 1; margin: 0; }
   .cat-count { font-size: 0.78rem; font-weight: 700; color: var(--cyan-soft); background: rgba(0,240,255,.08); border: 1px solid var(--glass-border); padding: 0.15rem 0.6rem; border-radius: 999px; }
   .chev { color: var(--text-dim); transition: transform .28s ease; flex: none; }
   .cat[open] > .cat-sum .chev { transform: rotate(180deg); }
@@ -139,7 +139,7 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
   .sub { border-radius: 14px; background: rgba(18,22,41,.4); border: 1px solid rgba(112,243,255,.08); }
   .sub-sum { display: flex; align-items: center; gap: 0.6rem; padding: 0.7rem 0.85rem; min-height: 48px; }
   .sub-icon { font-size: 1rem; flex: none; }
-  .sub-name { font-family: var(--font-head); font-weight: 600; font-size: 0.98rem; flex: 1; color: var(--text); }
+  .sub-name { font-family: var(--font-head); font-weight: 600; font-size: 0.98rem; flex: 1; color: var(--text); margin: 0; }
   .sub-count { font-size: 0.72rem; font-weight: 600; color: var(--text-faint); }
   .chev.sm { transition: transform .28s ease; }
   .sub[open] > .sub-sum .chev.sm { transform: rotate(180deg); }

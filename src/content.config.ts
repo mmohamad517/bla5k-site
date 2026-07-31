@@ -23,6 +23,8 @@ const sites = defineCollection({
     updated: z.coerce.date().optional(),
     metaTitle: z.string().optional(),
     metaDescription: z.string().optional(),
+    /** Optional logo or hero image URL for this tool. Used in UI and Schema. */
+    image: z.string().optional(),
     /** Optional FAQ -> FAQPage schema (Position Zero) on the tool's page. */
     faqs: z.array(z.object({ q: z.string(), a: z.string() })).optional(),
   }),
