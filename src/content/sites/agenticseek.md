@@ -6,8 +6,8 @@ tagline: A 100% local, private, open-source alternative to Manus AI — an auton
 tags: ["ai agent", "local ai", "privacy", "open-source", "manus alternative", "autonomous", "self-hosted"]
 featured: true
 updated: 2026-07-29
-metaTitle: "AgenticSeek: The Free, Local & Private Manus AI Alternative (2026 Guide)"
-metaDescription: "A complete guide to AgenticSeek — the open-source, 100% local alternative to Manus AI. Autonomous web browsing, coding, and voice, running privately on your own hardware. Features, requirements, and setup."
+metaTitle: "AgenticSeek: Free Local Manus AI Alternative (2026)"
+metaDescription: "AgenticSeek is a free, 100% local, open-source alternative to Manus AI: an autonomous agent that browses, codes, and talks — private on your own hardware."
 faqs:
   - q: "What is AgenticSeek?"
     a: "AgenticSeek is an open-source, 100% local AI agent designed as a private alternative to Manus AI. It runs entirely on your own hardware — no cloud, no API subscriptions — and can autonomously browse the web, write and run code, and plan multi-step tasks. It is created by the developer Fosowl and released under the GPL-3.0 license."
@@ -116,7 +116,7 @@ Getting started follows a clear path. You clone the repository from GitHub, copy
 1. **Docker with a web interface** — start the services and access the agent in your browser at a local address.
 2. **CLI mode on the host** — run the command-line interface directly after installing local dependencies.
 
-The project's documentation walks through configuration in detail, including provider selection, model choice, and the search integration that powers web browsing. As with any self-hosted tool, expect to spend some time on setup — but the reward is an autonomous agent that is entirely yours.
+The project's documentation walks through configuration in detail, including provider selection, model choice, and the search integration that powers web browsing. As with any self-hosted tool, expect to spend some time on setup — but the reward is an autonomous agent that is entirely yours. If you'd rather run it as an always-on service on your own server, an open-source PaaS like [Coolify](/tools/coolify/) can manage the deployment for you.
 
 ## Who is AgenticSeek for?
 

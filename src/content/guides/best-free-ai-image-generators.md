@@ -40,7 +40,7 @@ No single tool wins on all five. The right pick depends on whether you value qua
 
 ## 1. Leonardo AI — best all-rounder free tier
 
-Leonardo AI has quietly become one of the most popular choices for creators who want professional results without paying on day one. It strikes an unusually good balance between quality and generosity.
+[Leonardo AI](https://leonardo.ai) has quietly become one of the most popular choices for creators who want professional results without paying on day one. It strikes an unusually good balance between quality and generosity.
 
 **Why it stands out:** Leonardo gives you a daily allowance of free tokens that refresh every day, so you can keep experimenting without a subscription. The image quality rivals paid tools, and it includes extras most free generators skip — like an in-app canvas editor, upscaling, and fine-tuned models built for specific styles (game art, photography, concept art, and more).
 
@@ -54,7 +54,7 @@ Leonardo AI has quietly become one of the most popular choices for creators who 
 
 ## 2. Adobe Firefly — best for commercial safety
 
-If you plan to use AI images in a real business, licensing is not a detail — it's the whole game. This is where **Adobe Firefly** shines.
+If you plan to use AI images in a real business, licensing is not a detail — it's the whole game. This is where **[Adobe Firefly](https://www.adobe.com/products/firefly.html)** shines.
 
 **Why it stands out:** Firefly is trained on Adobe Stock and openly licensed content, which means Adobe positions its output as commercially safe. For freelancers and companies nervous about the legal gray areas of AI art, that peace of mind is worth a lot. It's also deeply integrated into Photoshop and the rest of Adobe's ecosystem.
 
@@ -94,7 +94,7 @@ Stable Diffusion is the open-source engine behind a huge portion of the AI art w
 
 ## 5. Ideogram — best for text inside images
 
-Every AI artist knows the classic weakness: ask most generators to put readable words on a poster and you get garbled nonsense. **Ideogram** was built specifically to solve that.
+Every AI artist knows the classic weakness: ask most generators to put readable words on a poster and you get garbled nonsense. **[Ideogram](https://ideogram.ai)** was built specifically to solve that.
 
 **Why it stands out:** Ideogram renders legible, well-placed text far better than almost any competitor. That makes it the go-to for logos, posters, quote graphics, mock-ups, and any design where words are part of the image.
 

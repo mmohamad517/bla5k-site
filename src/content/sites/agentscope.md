@@ -6,8 +6,8 @@ tagline: Alibaba’s open-source framework for building multi-agent AI applicati
 tags: ["ai agents", "multi-agent", "framework", "open-source", "llm", "python"]
 featured: true
 updated: 2026-07-29
-metaTitle: "AgentScope: Alibaba’s Open-Source Multi-Agent AI Framework (2026 Guide)"
-metaDescription: "A complete guide to AgentScope — Alibaba Tongyi Lab’s open-source, transparent framework for building production-ready multi-agent AI applications. Features, how it works, and how to get started."
+metaTitle: "AgentScope: Alibaba Open-Source Multi-Agent AI (2026)"
+metaDescription: "AgentScope is Alibaba Tongyi Lab’s open-source framework for building transparent, production-ready multi-agent AI apps. Features, how it works, and setup."
 faqs:
   - q: "What is AgentScope?"
     a: "AgentScope is an open-source framework, developed by Alibaba’s Tongyi Lab, for building multi-agent AI applications. It gives developers a transparent, modular way to create systems where one or more LLM-powered agents can reason, use tools, remember information, and coordinate to complete tasks. It is released under the permissive Apache 2.0 license."

@@ -6,8 +6,8 @@ tagline: Microsoft’s open-source optimizer that trains self-evolving skills fo
 tags: ["ai agents", "microsoft", "open-source", "agent optimization", "self-evolving", "llm"]
 featured: true
 updated: 2026-07-29
-metaTitle: "SkillOpt: Microsoft’s Open-Source Self-Evolving Agent Skills (2026 Guide)"
-metaDescription: "A complete guide to SkillOpt — Microsoft’s free, open-source optimizer that treats LLM agent skills as trainable parameters. How it works, SkillOpt-Sleep, benchmarks, and how to get started."
+metaTitle: "SkillOpt: Microsoft Self-Evolving Agent Skills (2026)"
+metaDescription: "SkillOpt is Microsoft’s free, open-source optimizer that trains self-evolving skills for LLM agents — no fine-tuning needed. How it works and how to start."
 faqs:
   - q: "What is SkillOpt?"
     a: "SkillOpt is an open-source tool from Microsoft that improves the skills of LLM agents without changing the underlying model. It treats a short natural-language 'skill document' as a trainable parameter and optimizes it through a training-like loop of rollouts, reflection, bounded edits, and validation gates. The result is a compact best_skill.md file you can deploy to make an agent better at a task."
@@ -27,7 +27,7 @@ One of the biggest frustrations with AI agents is that they don't naturally get 
 
 SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents. In plain terms, it takes the text that guides an agent and improves it the way you'd train a model — with epochs, validation, and measurable gains — but at a fraction of the cost and complexity. In this guide we'll unpack exactly what SkillOpt is, the clever idea behind it, how it works, what it achieves, and who should use it.
 
-It sits alongside other agent tooling in our directory, like the [AgentScope](/tools/agentscope/) framework and the [OpenClaw agent templates](/tools/openclaw-agent-templates/) — and interestingly, SkillOpt even ships an adapter for OpenClaw.
+It sits alongside other agent tooling in our directory, like the [AgentScope](/tools/agentscope/) framework and the [OpenClaw agent templates](/tools/openclaw-agent-templates/) — and interestingly, SkillOpt even ships an adapter for OpenClaw. Because it runs across coding-agent harnesses, it also pairs naturally with super-agent runners like [DeerFlow](/tools/deerflow/) and local model routers such as [Codex Router](/tools/codex-router/) that sit in front of the Codex CLI.
 
 ## What is SkillOpt?
 

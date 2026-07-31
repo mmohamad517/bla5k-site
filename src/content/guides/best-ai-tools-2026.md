@@ -68,13 +68,13 @@ General-purpose AI assistants are the front door to the whole ecosystem. They ha
 
 ### Claude
 
-Claude has earned a devoted following for its thoughtful, nuanced responses and its strength with long documents and careful reasoning. It excels at analyzing large amounts of text, writing in a natural voice, and tackling coding tasks with attention to detail. Many professionals keep it open alongside ChatGPT, using each where it shines.
+[Claude](https://claude.ai), from Anthropic, has earned a devoted following for its thoughtful, nuanced responses and its strength with long documents and careful reasoning. It excels at analyzing large amounts of text, writing in a natural voice, and tackling coding tasks with attention to detail. Many professionals keep it open alongside ChatGPT, using each where it shines.
 
 **Best for:** Long-form analysis, careful writing, and coding where quality matters more than speed.
 
 ### Perplexity
 
-Perplexity reimagines the assistant as an *answer engine*. Instead of guessing, it searches the live web and cites its sources, making it ideal for research where you need current, verifiable information. It's the tool to reach for when accuracy and up-to-date facts matter.
+[Perplexity](https://www.perplexity.ai) reimagines the assistant as an *answer engine*. Instead of guessing, it searches the live web and cites its sources, making it ideal for research where you need current, verifiable information. It's the tool to reach for when accuracy and up-to-date facts matter.
 
 **Best for:** Research and fact-finding with real citations.
 
@@ -111,7 +111,7 @@ Built by OpenAI and available free through Microsoft Copilot, DALL-E is exceptio
 
 ### Stable Diffusion
 
-The open-source engine behind much of the AI art world, Stable Diffusion offers unmatched control and can run entirely on your own computer, free and private. It's the power-user's choice, backed by a massive community of custom models and add-ons.
+The open-source engine behind much of the AI art world, [Stable Diffusion](https://stability.ai) offers unmatched control and can run entirely on your own computer, free and private. It's the power-user's choice, backed by a massive community of custom models and add-ons.
 
 **Best for:** Unlimited, private, fully controllable generation.
 

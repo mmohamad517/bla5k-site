@@ -13,11 +13,8 @@ tags:
 featured: true
 affiliate: false
 updated: 2026-07-30
-metaTitle: How to Use Claude AI Skills on iPhone & iOS
-metaDescription: "Codex Router is an open-source API proxy. It intelligently
-  routes AI coding requests to the best Large Language Model. It picks the right
-  model based on cost, speed, and task complexity. This helps developers save
-  money "
+metaTitle: "Codex Router: Run Kimi, Grok & Claude in Codex (2026)"
+metaDescription: "Codex Router is a free, open-source local router that runs Kimi, Grok, Claude, and DeepSeek models inside Codex with isolated credentials. Setup and features."
 faqs:
   - q: " What is Codex Router?"
     a: >

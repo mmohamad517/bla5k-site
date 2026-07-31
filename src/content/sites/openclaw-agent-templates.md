@@ -6,8 +6,8 @@ tagline: A free, open-source library of 200+ ready-to-use, no-code AI agent temp
 tags: ["ai agents", "templates", "no-code", "openclaw", "open-source", "self-hosted"]
 featured: true
 updated: 2026-07-29
-metaTitle: "OpenClaw Agent Templates: 200+ Free, Ready-to-Use AI Agent Configs (2026)"
-metaDescription: "A complete guide to awesome-openclaw-agents — a free, open-source library of 200+ production-ready, no-code AI agent templates (SOUL.md) for the OpenClaw framework. Categories, setup, and how it works."
+metaTitle: "OpenClaw Templates: 200+ Free AI Agent Configs (2026)"
+metaDescription: "A free, open-source library of 200+ ready-to-use, no-code AI agent templates for the OpenClaw framework. Browse categories, see how it works, and get started."
 faqs:
   - q: "What are OpenClaw agent templates?"
     a: "OpenClaw agent templates are ready-made configuration files (called SOUL.md files) that define a complete AI agent — its behavior, personality, and role — without writing any code. The awesome-openclaw-agents library collects 200+ of these production-ready templates across two dozen categories, so you can copy one, register it with OpenClaw, and deploy a working agent in minutes."

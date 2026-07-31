@@ -109,7 +109,7 @@ Rather than crown a single winner — which would be meaningless across such dif
 
 These are the heavyweights for building full applications with databases, user accounts, and complex logic.
 
-**Bubble** is the most powerful no-code web app builder available. It can handle genuinely complex applications — marketplaces, social networks, SaaS products — with a visual editor for both design and logic. The trade-off is a steeper learning curve; Bubble rewards the time you invest in learning it.
+**[Bubble](https://bubble.io)** is the most powerful no-code web app builder available. It can handle genuinely complex applications — marketplaces, social networks, SaaS products — with a visual editor for both design and logic. The trade-off is a steeper learning curve; Bubble rewards the time you invest in learning it.
 
 **Softr** takes a friendlier approach, letting you build web apps and client portals on top of a database like Airtable or Google Sheets. It's ideal when you want something powerful but far simpler than Bubble, especially for internal tools and member portals.
 
@@ -119,7 +119,7 @@ These are the heavyweights for building full applications with databases, user a
 
 For marketing sites, portfolios, and content-driven pages, these tools prioritize design and publishing speed.
 
-**Webflow** gives designers pixel-perfect control over responsive websites, complete with animations and a built-in CMS. It has a learning curve but produces truly professional results and is a favorite among design-conscious teams.
+**[Webflow](https://webflow.com)** gives designers pixel-perfect control over responsive websites, complete with animations and a built-in CMS. It has a learning curve but produces truly professional results and is a favorite among design-conscious teams.
 
 **Framer** has surged in popularity for its speed and its AI features that can generate a starting site from a prompt. It's excellent for landing pages and marketing sites you want live quickly.
 
@@ -145,7 +145,7 @@ Every growing business drowns in spreadsheets. These tools replace them with rea
 
 Every app needs somewhere to store its data. These no-code databases power a huge share of the ecosystem.
 
-**Airtable** is the beloved spreadsheet-database hybrid that organizes almost anything and connects to countless front-end tools. For many no-code builders, Airtable is the foundation everything else sits on.
+**[Airtable](https://airtable.com)** is the beloved spreadsheet-database hybrid that organizes almost anything and connects to countless front-end tools. For many no-code builders, Airtable is the foundation everything else sits on.
 
 **Xano** and **Baserow** offer more scalable, backend-focused databases for when your project outgrows a spreadsheet and needs serious data power.
 
@@ -153,7 +153,7 @@ Every app needs somewhere to store its data. These no-code databases power a hug
 
 Sometimes you don't need an app at all — you need your existing apps to talk to each other and do work automatically.
 
-**Zapier** is the pioneer, connecting thousands of apps so that an action in one triggers an action in another. When someone fills a form, Zapier can add them to your email list, create a task, and message your team — all automatically.
+**[Zapier](https://zapier.com)** is the pioneer, connecting thousands of apps so that an action in one triggers an action in another. When someone fills a form, Zapier can add them to your email list, create a task, and message your team — all automatically.
 
 **Make** (formerly Integromat) offers a more visual, powerful canvas for building complex multi-step automations, often at a lower price for heavy usage.
 
