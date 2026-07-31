@@ -3,7 +3,13 @@ title: Understand Anything
 tagline: Turn any codebase into an interactive knowledge graph to understand architectures instantly
 category: Developer Tools › Docs
 image: https://understand-anything.com/og-image.png
-tags: AI, Code Understanding, Knowledge Graphs, Developer Tools, Open Source, Documentation
+tags:
+  - AI
+  - Code Understanding
+  - Knowledge Graphs
+  - Developer Tools
+  - Open Source
+  - Documentation
 source: https://understand-anything.com
 github: https://github.com/understand-anything
 metaTitle: Understand Anything: AI Codebase Knowledge Graphs for Developers 2026

@@ -3,7 +3,13 @@ title: DEXTER
 tagline: Autonomous AI agent for deep financial research and investment analysis with real-time data
 category: Business & Finance
 image: https://raw.githubusercontent.com/virattt/dexter/main/og-image.png
-tags: Finance, AI, Investment, Automation, Open Source, Due Diligence
+tags:
+  - Finance
+  - AI
+  - Investment
+  - Automation
+  - Open Source
+  - Due Diligence
 source: https://github.com/virattt/dexter
 github: https://github.com/virattt/dexter
 metaTitle: DEXTER: Autonomous Financial Research AI Agent for Investors 2026
