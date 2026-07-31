@@ -1,10 +1,14 @@
 #!/usr/bin/env node
 /**
- * bla5k Content QA Bot — v2
+ * bla5k Content QA Bot — v2.1
  * -------------------------
  * Runs automatically on every content change (GitHub Action). It ONLY reads
  * your content and prints a report — it never edits, deletes, or blocks
  * anything. 100% deterministic (no AI) → it cannot hallucinate.
+ *
+ * v2.1 fixes:
+ * - fmValue() now correctly reads YAML multiline values (indented continuation lines)
+ * - metaDescription missing now reports "بدون metaDescription" instead of (null) errors
  *
  * Checks:
  *   • Banned / AdSense-policy content (piracy, adult, drugs, weapons, hate…)
@@ -56,8 +60,34 @@ function splitFrontmatter(raw) {
   return m ? { fmText: m[1], body: m[2] } : { fmText: '', body: raw };
 }
 function fmValue(fmText, key) {
-  const m = fmText.match(new RegExp('^' + key + ':\\s*(.*)$', 'm'));
-  return m ? m[1].replace(/^["']|["']$/g, '').trim() : null;
+  // Match key: and capture the value line + any indented continuation lines
+  const re = new RegExp('^' + key + ':\\s*(.*)$', 'm');
+  const m = fmText.match(re);
+  if (!m) return null;
+  let val = m[1].trim();
+
+  // If value is multiline (indented YAML), collect continuation lines
+  const lines = fmText.split('\n');
+  let capturing = false;
+  for (let i = 0; i < lines.length; i++) {
+    if (lines[i].match(new RegExp('^' + key + ':'))) {
+      capturing = true;
+      val = lines[i].split(':').slice(1).join(':').trim();
+      continue;
+    }
+    if (capturing) {
+      if (lines[i].match(/^\s*[a-z]+:/)) break; // next key
+      if (lines[i].trim() && lines[i].startsWith('  ')) {
+        val += ' ' + lines[i].trim();
+      } else if (lines[i].trim()) {
+        break;
+      }
+    }
+  }
+
+  // Clean up: remove quotes, handle YAML folded/literal markers
+  val = val.replace(/^["']|["']$/g, '').replace(/^[|>]\s*/, '').trim();
+  return val || null;
 }
 function plainWords(text) {
   return (text.toLowerCase().replace(/`[^`]*`/g, ' ').replace(/\[[^\]]*\]\([^)]*\)/g, ' ')
@@ -214,7 +244,8 @@ for (const e of entries) {
 
   // SEO lengths
   if (e.metaTitle && e.metaTitle.length > 65) { F.push(`⚠️ SEO title طويل (${e.metaTitle.length}، ≤ 60)`); warnings++; sub(3); }
-  if (e.metaDesc && (e.metaDesc.length < 70 || e.metaDesc.length > 170)) { F.push(`⚠️ الوصف (${e.metaDesc.length} حرف) — الأفضل 120–160`); warnings++; sub(3); }
+  if (!e.metaDesc) { F.push('⚠️ بدون metaDescription — أضف وصفاً بين 120–160 حرفاً'); warnings++; sub(5); }
+  else if (e.metaDesc.length < 70 || e.metaDesc.length > 170) { F.push(`⚠️ الوصف (${e.metaDesc.length} حرف) — الأفضل 120–160`); warnings++; sub(3); }
   if (e.faqCount === 0) { F.push('⚠️ لا FAQ — أضف 3–6 أسئلة'); warnings++; sub(5); }
 
   // depth
