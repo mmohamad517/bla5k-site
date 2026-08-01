@@ -4,7 +4,7 @@
  *   false -> before going live: hide empty categories (safest for Google / AdSense).
  * Empty categories never get their own indexable page either way.
  */
-export const SHOW_EMPTY_CATEGORIES = true;
+export const SHOW_EMPTY_CATEGORIES = false;
 
 export type Glow = 'cyan' | 'purple' | 'orange';
 

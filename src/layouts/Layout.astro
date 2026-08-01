@@ -41,7 +41,7 @@ const baseGraph = [
     '@id': `${site}/#org`,
     name: 'bla5k',
     url: `${site}/`,
-    logo: `${site}/favicon.svg`,
+    logo: `${site}/icon-512.png`,
   },
 ];
 const jsonLd = { '@context': 'https://schema.org', '@graph': [...baseGraph, ...schema] };
@@ -52,6 +52,7 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': [...baseGraph, ...s
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script is:inline>document.documentElement.classList.add('js');</script>
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />

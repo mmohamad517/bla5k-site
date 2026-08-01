@@ -34,7 +34,7 @@
   /* Text */
   --text: #eaf0ff;
   --text-dim: #a5b0d0;
-  --text-faint: #6b7599;
+  --text-faint: #8b93b8;
 
   /* Glass surfaces */
   --glass-bg: rgba(30, 36, 66, 0.55);
@@ -165,9 +165,13 @@ h1, h2, h3, h4 { font-family: var(--font-head); line-height: 1.1; font-weight: 7
 .section-lead { color: var(--text-dim); max-width: 56ch; font-size: 1.08rem; }
 
 /* ---- Scroll reveal (native, GPU-only props) ---- */
-.reveal { opacity: 0; transform: translateY(26px); transition: opacity .7s cubic-bezier(.2,.7,.3,1), transform .7s cubic-bezier(.2,.7,.3,1); }
-.reveal.in { opacity: 1; transform: none; }
+/* Default: fully visible. Content is only hidden-then-revealed when JS is
+   available (html.js), so nothing is ever invisible if JS fails or is
+   disabled — safe for crawlers and accessibility. */
+.reveal { opacity: 1; transform: none; }
+html.js .reveal { opacity: 0; transform: translateY(26px); transition: opacity .7s cubic-bezier(.2,.7,.3,1), transform .7s cubic-bezier(.2,.7,.3,1); }
+html.js .reveal.in { opacity: 1; transform: none; }
 .reveal.d1 { transition-delay: .08s; }
 .reveal.d2 { transition-delay: .16s; }
 .reveal.d3 { transition-delay: .24s; }
-@media (prefers-reduced-motion: reduce) { .reveal { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) { html.js .reveal { opacity: 1; transform: none; } }
