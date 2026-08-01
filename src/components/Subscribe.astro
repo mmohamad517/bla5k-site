@@ -1,0 +1,87 @@
+---
+/**
+ * Subscribe box — email newsletter (via Web3Forms, free) + optional WhatsApp channel.
+ *
+ * TO ACTIVATE (both are FREE — no payment needed):
+ *   1) Get a free Web3Forms access key at https://web3forms.com  → paste it below.
+ *   2) (Optional) Create a free WhatsApp Channel in the WhatsApp app, copy its
+ *      invite link, and paste it below.
+ *
+ * Until the key is set, this box stays hidden so nothing broken ever goes live.
+ */
+const WEB3FORMS_KEY = 'YOUR_WEB3FORMS_ACCESS_KEY';
+const WHATSAPP_CHANNEL = ''; // e.g. https://whatsapp.com/channel/xxxxxxxxxxxxx
+
+const emailReady = WEB3FORMS_KEY && !WEB3FORMS_KEY.startsWith('YOUR_');
+const show = emailReady || WHATSAPP_CHANNEL;
+---
+{show && (
+  <section class="subscribe glass" id="subscribe">
+    <div class="sub-head">
+      <h2>Get the best new tools — before everyone else</h2>
+      <p>One short, friendly email whenever we add a tool worth your time. No spam, unsubscribe anytime.</p>
+    </div>
+
+    {emailReady && (
+      <form id="subForm" class="sub-form" action="https://api.web3forms.com/submit" method="POST">
+        <input type="hidden" name="access_key" value={WEB3FORMS_KEY} />
+        <input type="hidden" name="subject" value="New bla5k newsletter signup" />
+        <input type="hidden" name="from_name" value="bla5k" />
+        <input type="checkbox" name="botcheck" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true" />
+        <input type="email" name="email" required placeholder="you@example.com" aria-label="Your email address" />
+        <button type="submit" class="btn btn-primary">Subscribe</button>
+        <p class="sub-msg" id="subMsg" role="status" aria-live="polite"></p>
+      </form>
+    )}
+
+    {WHATSAPP_CHANNEL && (
+      <a class="sub-wa" href={WHATSAPP_CHANNEL} target="_blank" rel="noopener noreferrer">
+        Prefer WhatsApp? Join our channel →
+      </a>
+    )}
+  </section>
+)}
+
+<style>
+  .subscribe { padding: 1.6rem 1.4rem; margin: 2.5rem 0; text-align: center; }
+  .sub-head h2 { font-size: 1.4rem; margin-bottom: 0.4rem; }
+  .sub-head p { color: var(--text-dim); font-size: 0.98rem; max-width: 46ch; margin: 0 auto 1.1rem; }
+  .sub-form { display: flex; flex-wrap: wrap; gap: 0.6rem; justify-content: center; align-items: center; }
+  .sub-form input[type="email"] {
+    flex: 1 1 260px; max-width: 340px;
+    padding: 0.8rem 1rem; border-radius: 999px;
+    background: rgba(18,22,41,.6); color: var(--text);
+    border: 1px solid var(--glass-border-strong); font: inherit;
+  }
+  .sub-form input[type="email"]:focus-visible { outline: 2px solid var(--cyan); outline-offset: 2px; }
+  .hp { position: absolute; left: -9999px; opacity: 0; }
+  .sub-msg { flex-basis: 100%; margin-top: 0.6rem; font-size: 0.92rem; color: var(--cyan-soft); min-height: 1.2em; }
+  .sub-wa { display: inline-block; margin-top: 1rem; color: var(--cyan-soft); font-weight: 600; font-size: 0.95rem; }
+  .sub-wa:hover { text-decoration: underline; }
+</style>
+
+<script>
+  const f = document.getElementById('subForm') as HTMLFormElement | null;
+  if (f) {
+    f.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const msg = document.getElementById('subMsg');
+      const data = Object.fromEntries(new FormData(f) as any);
+      if (msg) msg.textContent = 'Subscribing…';
+      try {
+        const res = await fetch('https://api.web3forms.com/submit', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+          body: JSON.stringify(data),
+        });
+        const json = await res.json();
+        if (msg) msg.textContent = json.success
+          ? '✅ You’re in! We’ll email you when great new tools land.'
+          : 'Hmm, that didn’t go through — please try again.';
+        if (json.success) f.reset();
+      } catch {
+        if (msg) msg.textContent = 'Network error — please try again in a moment.';
+      }
+    });
+  }
+</script>

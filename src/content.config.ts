@@ -25,6 +25,12 @@ const sites = defineCollection({
     metaDescription: z.string().optional(),
     /** Optional logo or hero image URL for this tool. Used in UI and Schema. */
     image: z.string().optional(),
+    /** Plain-language explainer blocks shown at the TOP of the tool page,
+     *  so a visitor understands the tool in ~10 seconds without jargon. */
+    simple: z.string().optional(),            // "In plain words" — no technical terms, 1-2 sentences
+    example: z.string().optional(),           // "Real example" — a concrete do-X → get-Y scenario
+    goodFor: z.array(z.string()).default([]),  // "Is it for you?" — ✅ who it fits
+    notFor: z.array(z.string()).default([]),   // ❌ who it does NOT fit
     /** Optional FAQ -> FAQPage schema (Position Zero) on the tool's page. */
     faqs: z.array(z.object({ q: z.string(), a: z.string() })).optional(),
   }),

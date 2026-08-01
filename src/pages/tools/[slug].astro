@@ -2,6 +2,7 @@
 import Layout from '../../layouts/Layout.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
+import Subscribe from '../../components/Subscribe.astro';
 import { getCollection, render } from 'astro:content';
 import { subcategoryBySlug, categoryBySlug } from '../../data/categories';
 import { outboundRel } from '../../lib/links';
@@ -100,6 +101,40 @@ const schema = [
           </a>
         </header>
 
+        {(d.simple || d.example || d.goodFor.length > 0 || d.notFor.length > 0) && (
+          <section class="explain" aria-label="Quick explainer">
+            {d.simple && (
+              <div class="ex-card glass">
+                <h2 class="ex-h">💡 In plain words</h2>
+                <p>{d.simple}</p>
+              </div>
+            )}
+            {d.example && (
+              <div class="ex-card glass">
+                <h2 class="ex-h">🎯 A real example</h2>
+                <p>{d.example}</p>
+              </div>
+            )}
+            {(d.goodFor.length > 0 || d.notFor.length > 0) && (
+              <div class="ex-card glass">
+                <h2 class="ex-h">🤔 Is it for you?</h2>
+                <div class="fit-cols">
+                  {d.goodFor.length > 0 && (
+                    <ul class="fit fit-good" role="list">
+                      {d.goodFor.map((g) => <li>{g}</li>)}
+                    </ul>
+                  )}
+                  {d.notFor.length > 0 && (
+                    <ul class="fit fit-bad" role="list">
+                      {d.notFor.map((n) => <li>{n}</li>)}
+                    </ul>
+                  )}
+                </div>
+              </div>
+            )}
+          </section>
+        )}
+
         {toc.length > 3 && (
           <nav class="toc glass" aria-label="Table of contents">
             <p class="toc-title">On this page</p>
@@ -114,6 +149,8 @@ const schema = [
         <a class="cta-visit btn btn-ghost" href={d.url} target="_blank" rel={outboundRel(d.url, d.affiliate)}>
           Open {d.name} in a new tab ↗
         </a>
+
+        <Subscribe />
 
         {related.length > 0 && (
           <section class="related">
@@ -138,6 +175,18 @@ const schema = [
 
 <style>
   .tool { padding-block: clamp(1.5rem, 5vw, 2.5rem) clamp(2rem, 6vw, 3.5rem); }
+
+  /* Plain-language explainer blocks (top of the page) */
+  .explain { display: grid; gap: 0.9rem; margin-top: 1.4rem; }
+  .ex-card { padding: 1.1rem 1.3rem; border-left: 3px solid var(--cyan); }
+  .ex-h { font-size: 1.05rem; margin-bottom: 0.5rem; }
+  .ex-card p { color: var(--text-dim); font-size: 1.02rem; }
+  .fit-cols { display: grid; gap: 0.8rem; }
+  .fit { list-style: none; display: grid; gap: 0.4rem; }
+  .fit li { color: var(--text-dim); padding-left: 1.7rem; position: relative; }
+  .fit-good li::before { content: '✅'; position: absolute; left: 0; }
+  .fit-bad li::before { content: '❌'; position: absolute; left: 0; }
+  @media (min-width: 640px) { .fit-cols { grid-template-columns: 1fr 1fr; } }
   .crumbs { font-size: 0.85rem; color: var(--text-faint); margin-bottom: 1.2rem; }
   .crumbs a { color: var(--cyan-soft); }
   .crumbs span { margin-inline: 0.35rem; }
