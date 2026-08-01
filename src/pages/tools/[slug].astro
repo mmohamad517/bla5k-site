@@ -29,6 +29,7 @@ const related = sites
 
 const title = d.metaTitle ?? `${d.name} — Review & Guide | bla5k`;
 const description = d.metaDescription ?? d.tagline;
+const imageUrl = d.image ? (d.image.startsWith('http') ? d.image : `${site}${d.image}`) : `${site}/og-image.png`;
 
 const schema = [
   {
@@ -40,11 +41,13 @@ const schema = [
     ].filter(Boolean),
   },
   {
-    '@type': 'WebApplication',
+    '@type': 'SoftwareApplication',
     name: d.name,
     url: d.url,
     applicationCategory: cat?.name,
     description: d.tagline,
+    image: imageUrl,
+    operatingSystem: 'All',
   },
   {
     '@type': 'Article',
@@ -55,7 +58,7 @@ const schema = [
     datePublished: (d.updated ?? new Date()).toISOString(),
     dateModified: (d.updated ?? new Date()).toISOString(),
     mainEntityOfPage: `${site}/tools/${entry.id}/`,
-    image: `${site}/og-image.png`,
+    image: imageUrl,
     wordCount: words,
   },
   ...(d.faqs && d.faqs.length > 0
@@ -70,7 +73,7 @@ const schema = [
     : []),
 ];
 ---
-<Layout title={title} description={description} schema={schema}>
+<Layout title={title} description={description} schema={schema} image={d.image}>
   <Header />
   <main>
     <article class="tool">
