@@ -14,6 +14,16 @@ featured: false
 updated: 2026-07-31
 metaTitle: PhotoGIMP - Free Photoshop-Like Patch for GIMP 2026
 metaDescription: PhotoGIMP is a free, open-source patch that reorganizes GIMP to feel like Photoshop — Adobe-style shortcuts, tool layout, and workspace. GPL-3.0 licensed.
+simple: "A free add-on that makes the free photo editor GIMP look and feel like Photoshop — same layout and shortcuts — so Photoshop users feel at home without paying."
+example: "Know Photoshop but don't want to pay? Install GIMP, add PhotoGIMP, and the tools and shortcuts sit right where you expect them — so you can start editing immediately."
+goodFor:
+  - "Photoshop users who want a free editor"
+  - "Students and hobbyists on a budget"
+  - "Linux users editing images"
+notFor:
+  - "You expect every exact Photoshop feature"
+  - "You want a single ready app (it's a patch for GIMP)"
+  - "You've never used photo-editing software before"
 faqs:
   - q: Is PhotoGIMP free?
     a: Yes. PhotoGIMP is completely free and open source under the GPL-3.0 license. There are no subscriptions, trials, or hidden costs. It is a community project developed by the Brazilian blog Diolinux.

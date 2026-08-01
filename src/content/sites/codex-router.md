@@ -15,6 +15,16 @@ affiliate: false
 updated: 2026-07-30
 metaTitle: "Codex Router: Run Kimi, Grok & Claude in Codex (2026)"
 metaDescription: "Codex Router is a free, open-source local router that runs Kimi, Grok, Claude, and DeepSeek models inside Codex with isolated credentials. Setup and features."
+simple: "A small free tool for developers that lets a coding assistant use different AI brains (like Kimi, Grok, or Claude) while keeping each one's login keys separate and safe."
+example: "A developer who wants to switch their coding tool between several AI models — without mixing up passwords — would use Codex Router to manage them cleanly."
+goodFor:
+  - "Developers using multiple AI models in coding tools"
+  - "Keeping API keys isolated and organized"
+  - "Command-line and AI tinkerers"
+notFor:
+  - "You don't code or use AI coding tools"
+  - "You only ever use one AI model"
+  - "You're not technical"
 faqs:
   - q: " What is Codex Router?"
     a: >

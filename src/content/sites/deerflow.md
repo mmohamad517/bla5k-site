@@ -8,6 +8,16 @@ featured: true
 updated: 2026-07-30
 metaTitle: "DeerFlow: ByteDance Open-Source Super Agent (2026)"
 metaDescription: "DeerFlow is ByteDance’s free, open-source super-agent harness that researches, codes, and creates long-running tasks. Features, DeerFlow 2.0, and setup."
+simple: "A free developer platform from ByteDance that gives AI agents everything they need — memory, tools, and safe sandboxes — to handle big tasks that take minutes or hours on their own."
+example: "A developer building an AI that researches a topic for an hour and writes a full report would use DeerFlow to give that agent the memory and tools to finish the job."
+goodFor:
+  - "Developers building autonomous \"super agents\""
+  - "Long, complex tasks that run for a while"
+  - "Teams wanting a full agent runtime"
+notFor:
+  - "You're not a developer"
+  - "Simple, quick one-step tasks"
+  - "You want a ready-made consumer app"
 faqs:
   - q: "What is DeerFlow?"
     a: "DeerFlow is an open-source 'super agent' harness from ByteDance that lets AI agents autonomously research, write code, and create deliverables. It provides the full runtime infrastructure an agent needs — sandboxes, long-term memory, tools, skills, sub-agents, and a message gateway — to complete complex, long-horizon tasks that can take anywhere from minutes to hours. It is released under the permissive MIT license."

@@ -13,6 +13,16 @@ featured: true
 updated: 2026-08-01
 metaTitle: Runable - AI General Agent for Real Deliverables 2026
 metaDescription: A guide to Runable, the AI general agent that plans and executes complete tasks — slide decks, websites, videos, and documents — instead of just chatting.
+simple: "An AI that doesn't just answer questions — it actually does the task for you. Describe what you need (a slideshow, a website, a video) and it produces the finished thing."
+example: "Need a pitch deck fast? Tell Runable \"Make a 10-slide investor deck for my coffee delivery startup\" and it builds the actual slides for you to refine."
+goodFor:
+  - "Turning an idea into a finished deliverable fast"
+  - "People juggling many separate AI tools"
+  - "Solo founders and small teams"
+notFor:
+  - "You need the very best specialist tool for one job"
+  - "You want a free tool (check current pricing first)"
+  - "Tasks that need careful human review you can't skip"
 faqs:
   - q: What makes Runable different from a normal AI chatbot?
     a: A chatbot answers questions with text. Runable is positioned as a general agent that plans and executes complete tasks, aiming to produce actual deliverables — a slide deck, a website, images, a spreadsheet, or a researched document — rather than just a conversation. The emphasis is on finished output, not replies.

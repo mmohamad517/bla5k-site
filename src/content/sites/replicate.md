@@ -17,6 +17,16 @@ metaTitle: "Replicate: Serverless AI Model API Platform Guide 2026"
 metaDescription: Discover Replicate, the serverless cloud platform to run
   open-source AI models like Llama and Stable Diffusion via simple APIs without
   managing GPUs.
+simple: "A service that lets you run powerful AI models over the internet without owning expensive hardware. You send a request, it runs the model on its servers, and sends the result back."
+example: "Want to generate images inside your own app? Replicate lets you call an image AI with a simple request and get pictures back — no need to own a powerful graphics card."
+goodFor:
+  - "Developers adding AI features to apps"
+  - "Running heavy AI without buying hardware"
+  - "Trying many open models through one service"
+notFor:
+  - "You want a free tool (you pay per use)"
+  - "You don't build apps or write code"
+  - "You need everything to run offline on your machine"
 faqs:
   - q: "Q: What is Replicate?"
     a: >

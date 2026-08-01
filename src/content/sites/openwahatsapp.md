@@ -15,6 +15,16 @@ affiliate: false
 updated: 2026-08-01
 metaTitle: Open-WA - Self-Hosted WhatsApp Automation Library 2026
 metaDescription: A developer's guide to Open-WA (wa-automate-nodejs), the self-hosted open-source WhatsApp automation library — features, licensing, and the important ban and Terms-of-Service risks.
+simple: "A free developer tool that lets software send and receive WhatsApp messages automatically. It's powerful for building chatbots — but it's unofficial and can get a phone number banned."
+example: "A developer could connect it to a shop so order confirmations send automatically on WhatsApp — using a spare number, since automation like this breaks WhatsApp's rules."
+goodFor:
+  - "Developers building WhatsApp chatbots or notifications"
+  - "People wanting a self-hosted, no-per-message-fee option"
+  - "Testing on a throwaway number"
+notFor:
+  - "Your main or business-critical WhatsApp number (ban risk)"
+  - "Non-developers (it needs a server and coding)"
+  - "Sending unsolicited or bulk messages (against the rules and the law)"
 faqs:
   - q: What is Open-WA?
     a: Open-WA (the wa-automate-nodejs library) is a self-hosted, open-source Node.js tool that automates WhatsApp Web, letting developers send and receive messages programmatically via a REST API and webhooks. It is community-developed and unofficial — not affiliated with or endorsed by WhatsApp.

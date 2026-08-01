@@ -14,6 +14,16 @@ featured: false
 updated: 2026-07-31
 metaTitle: DEXTER - Autonomous Financial Research AI Agent 2026
 metaDescription: Open-source autonomous AI agent for financial research, investment analysis, and due diligence. Real-time data, self-validation, institutional-grade reporting.
+simple: "An AI research helper for money and investing. Ask it about a company or a stock and it gathers the numbers, checks them, and gives you an organized report — like a tireless research assistant."
+example: "Curious about a company before investing? Ask Dexter to research it and it pulls the financials, risks, and comparisons into one clear summary — though you still make the decision."
+goodFor:
+  - "Doing investment research faster"
+  - "People who want data-backed summaries"
+  - "Avoiding expensive research subscriptions"
+notFor:
+  - "You want guaranteed stock predictions (no tool can do that)"
+  - "You need personal, licensed financial advice"
+  - "You'd skip double-checking important money decisions"
 faqs:
   - q: Is DEXTER a replacement for professional financial advisors?
     a: No. DEXTER automates research but doesn't provide personalized financial advice. Use DEXTER to enhance decision-making and verify investment theses, but consult qualified financial advisors for personalized recommendations.

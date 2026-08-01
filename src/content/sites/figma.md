@@ -8,6 +8,16 @@ featured: true
 updated: 2026-07-30
 metaTitle: "Figma: The Complete Guide to the Collaborative Design Tool (2026)"
 metaDescription: "A guide to Figma — the browser-based, real-time tool for UI/UX design, prototyping, and whiteboarding. Features, free vs paid pricing, and who it is for."
+simple: "A design tool that runs right in your web browser, where a whole team can design app and website screens together at the same time — like Google Docs, but for visual design."
+example: "Designing a phone app screen? Drag shapes and text onto the canvas, and a teammate anywhere in the world can edit the same screen live beside you and leave comments."
+goodFor:
+  - "Designing app and website screens (UI/UX)"
+  - "Teams that need to design together in real time"
+  - "Making clickable prototypes to test an idea"
+notFor:
+  - "You just want to edit photos (it isn't a photo editor)"
+  - "You need advanced print or illustration tools"
+  - "You want a one-time purchase (teams pay a subscription)"
 faqs:
   - q: "What is Figma?"
     a: "Figma is a collaborative, browser-based design tool used to design user interfaces, create prototypes, and build design systems. Because it runs in the browser and stores work in the cloud, multiple people can design in the same file together in real time — much like Google Docs, but for interface design. It's the industry standard for UI/UX work."

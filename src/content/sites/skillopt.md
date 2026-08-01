@@ -8,6 +8,16 @@ featured: true
 updated: 2026-07-29
 metaTitle: "SkillOpt: Microsoft Self-Evolving Agent Skills (2026)"
 metaDescription: "SkillOpt is Microsoft’s free, open-source optimizer that trains self-evolving skills for LLM agents — no fine-tuning needed. How it works and how to start."
+simple: "A free Microsoft tool for developers that makes an AI agent better at a task by automatically improving its written instructions — without retraining the whole model."
+example: "A developer whose AI agent keeps making the same mistake could use SkillOpt to automatically refine the agent's instructions until it gets the task right."
+goodFor:
+  - "Developers improving AI agents cheaply"
+  - "Boosting agent skill without model fine-tuning"
+  - "Python and AI engineers"
+notFor:
+  - "You're not building AI agents"
+  - "You want a consumer app"
+  - "You don't code"
 faqs:
   - q: "What is SkillOpt?"
     a: "SkillOpt is an open-source tool from Microsoft that improves the skills of LLM agents without changing the underlying model. It treats a short natural-language 'skill document' as a trainable parameter and optimizes it through a training-like loop of rollouts, reflection, bounded edits, and validation gates. The result is a compact best_skill.md file you can deploy to make an agent better at a task."

@@ -13,6 +13,16 @@ featured: false
 updated: 2026-07-31
 metaTitle: Understand Anything - AI Codebase Knowledge Graphs 2026
 metaDescription: Transform complex codebases into interactive knowledge graphs with AI. Free open-source tool for code understanding and architecture review.
+simple: "A tool for developers that turns a big, confusing codebase into an interactive map. It shows how all the pieces connect, so you can understand a project in minutes instead of weeks."
+example: "Just joined a team with a huge, unfamiliar codebase? Point Understand Anything at it and explore a visual map, asking questions like \"what uses this function?\" in plain English."
+goodFor:
+  - "Understanding large or unfamiliar codebases fast"
+  - "Onboarding new developers"
+  - "Keeping code knowledge when people leave"
+notFor:
+  - "You don't work with code"
+  - "Tiny, simple projects that need no map"
+  - "You want it to write the code for you"
 faqs:
   - q: Is Understand Anything truly free?
     a: Yes, Understand Anything is released under the MIT License, making it completely free to use, modify, and distribute. There are no licensing fees or paid tiers. Download it from GitHub, install it, and use it at no cost.

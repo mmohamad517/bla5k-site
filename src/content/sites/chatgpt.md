@@ -18,6 +18,16 @@ metaTitle: "ChatGPT: The Complete Guide to OpenAI's AI Chatbot (2026)"
 metaDescription: A complete guide to ChatGPT — OpenAI's AI chatbot for writing,
   coding, learning, and problem-solving. Features, free vs Plus pricing, and how
   to get the most from it.
+simple: "A smart assistant you chat with in plain language. Ask it anything — to write an email, explain a topic, fix a bit of code, or brainstorm — and it answers in seconds, like texting a very knowledgeable friend."
+example: "Stuck on a polite reply to a client? Type \"Write a friendly email declining this meeting and suggesting next week\" and ChatGPT hands you a ready-to-send draft you can tweak."
+goodFor:
+  - "Writing, summarizing, and rephrasing anything"
+  - "Learning or explaining topics in simple words"
+  - "Getting unstuck on ideas, plans, or code"
+notFor:
+  - "You need guaranteed, always-current facts (double-check important ones)"
+  - "You want it to reliably act inside other apps by itself"
+  - "Private, sensitive data you'd rather not share"
 faqs:
   - q: What is ChatGPT?
     a: ChatGPT is an AI chatbot developed by OpenAI that understands and generates

@@ -8,6 +8,16 @@ featured: true
 updated: 2026-07-30
 metaTitle: "Coolify: Self-Hosted Heroku & Vercel Alternative (2026)"
 metaDescription: "Coolify is a free, open-source, self-hostable PaaS that deploys apps, databases, and 280+ services to your own servers. A Heroku and Vercel alternative."
+simple: "A free tool that puts your websites and apps online on your own server, with the ease of paid platforms like Heroku or Vercel — but without their monthly fees."
+example: "Built a website and don't want to pay a hosting platform every month? Install Coolify on a cheap server and deploy your site with a few clicks."
+goodFor:
+  - "Developers deploying apps to their own servers"
+  - "Avoiding pricey hosting-platform fees"
+  - "People comfortable managing a server"
+notFor:
+  - "You want zero server management"
+  - "You're not technical"
+  - "You need a big company's managed support"
 faqs:
   - q: "What is Coolify?"
     a: "Coolify is an open-source, self-hostable platform-as-a-service (PaaS) — a free alternative to Heroku, Vercel, and Netlify. It lets you deploy static sites, full-stack applications, databases, and 280+ one-click services onto your own servers, giving you cloud-platform convenience without vendor lock-in. It is released under the Apache-2.0 license."

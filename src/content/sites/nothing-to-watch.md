@@ -13,6 +13,16 @@ featured: false
 updated: 2026-08-01
 metaTitle: Nothing To Watch - End the Scroll & Pick a Movie 2026
 metaDescription: A guide to Nothing To Watch, a playful movie-discovery tool powered by open TMDB data that helps you stop scrolling and finally decide what to watch tonight.
+simple: "A simple, free website that helps you decide what movie to watch. Instead of endless scrolling, it surfaces films for you so you can quickly pick something for tonight."
+example: "Can't decide on a movie? Open Nothing To Watch, browse the films it suggests, pick one, then play it on whatever streaming service you already have."
+goodFor:
+  - "Ending the \"what should we watch?\" debate"
+  - "Discovering films you'd never search for"
+  - "Quick, no-account movie ideas"
+notFor:
+  - "You want it to stream movies (it only suggests them)"
+  - "You need to know exactly where each film streams"
+  - "You mainly use your phone (it's best on desktop)"
 faqs:
   - q: Is Nothing To Watch free?
     a: Yes. Nothing To Watch is a free, lightweight movie-discovery tool you use directly in your web browser. There is no subscription required to explore films and find your next watch.
