@@ -2,6 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import Header from '../components/Header.astro';
 import Hero from '../components/Hero.astro';
+import ProductCard from '../components/ProductCard.astro';
 import Directory from '../components/Directory.astro';
 import Footer from '../components/Footer.astro';
 import { getCollection } from 'astro:content';
@@ -33,6 +34,7 @@ const schema = [
   <Header />
   <main>
     <Hero />
+    <ProductCard />
     <Directory />
   </main>
   <Footer />

@@ -1,0 +1,128 @@
+---
+const PRODUCT_URL = '/ai-control-pro/';
+---
+<section class="product-sec" aria-label="Our product">
+  <div class="container">
+    <a class="pc-card" href={PRODUCT_URL}>
+      <span class="pc-glows" aria-hidden="true"></span>
+      <div class="pc-inner">
+        <div class="pc-top">
+          <span class="pc-pro" aria-hidden="true">PRO</span>
+          <span class="pc-chip" aria-hidden="true">⚡ Our Product</span>
+        </div>
+        <h2 class="pc-name">Code With Us <span class="pc-hl">Unlimited for Free</span></h2>
+        <p class="pc-desc">
+          Turn your computer into an automation beast — full desktop control, web browsing, app building,
+          and code fixing with zero token limits. Works 24/7.
+        </p>
+        <span class="pc-cta">
+          Explore the product
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+        </span>
+      </div>
+    </a>
+  </div>
+</section>
+
+<style>
+  .product-sec { padding-block: clamp(0.5rem, 3vw, 1.5rem) clamp(1.4rem, 4vw, 2.2rem); }
+  .pc-card {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    border-radius: var(--radius-lg);
+    background: linear-gradient(160deg, rgba(57, 255, 20, 0.1), rgba(0, 240, 255, 0.06)), rgba(30, 36, 66, 0.55);
+    border: 1px solid rgba(140, 255, 90, 0.45);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+    box-shadow: 0 0 34px rgba(57, 255, 20, 0.25), inset 0 0 22px rgba(57, 255, 20, 0.08);
+    padding: clamp(1.6rem, 5vw, 2.8rem);
+    transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+    animation: pc-glow 4s ease-in-out infinite;
+  }
+  .pc-card:hover {
+    transform: translateY(-4px);
+    border-color: rgba(140, 255, 90, 0.85);
+    box-shadow: 0 0 50px rgba(57, 255, 20, 0.45), inset 0 0 26px rgba(57, 255, 20, 0.12);
+  }
+  /* moving shine sweep */
+  .pc-glows {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(105deg, transparent 40%, rgba(255, 255, 255, 0.14) 50%, transparent 60%);
+    background-size: 250% 100%;
+    animation: pc-shine 4.5s ease-in-out infinite;
+    pointer-events: none;
+  }
+  @keyframes pc-glow {
+    0%, 100% { box-shadow: 0 0 26px rgba(57, 255, 20, 0.22), inset 0 0 18px rgba(57, 255, 20, 0.07); }
+    50% { box-shadow: 0 0 44px rgba(57, 255, 20, 0.4), inset 0 0 26px rgba(57, 255, 20, 0.12); }
+  }
+  @keyframes pc-shine {
+    0% { background-position: 190% 0; }
+    45%, 100% { background-position: -90% 0; }
+  }
+
+  .pc-inner { position: relative; z-index: 1; max-width: 720px; }
+  .pc-top { display: flex; align-items: center; gap: 0.8rem; flex-wrap: wrap; }
+  .pc-pro {
+    font-family: var(--font-head);
+    font-weight: 800;
+    font-size: clamp(1.9rem, 2rem + 2vw, 3rem);
+    line-height: 1;
+    letter-spacing: 0.1em;
+    background: linear-gradient(120deg, #b6ff2e 0%, #39ff14 30%, #00f0ff 55%, #b6ff2e 80%);
+    background-size: 250% 100%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+    animation: pc-proflow 2.6s linear infinite;
+  }
+  @keyframes pc-proflow { to { background-position: -250% 0; } }
+  .pc-chip {
+    font-family: var(--font-head);
+    font-weight: 600;
+    font-size: 0.78rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--cyan-soft);
+    padding: 0.35rem 0.85rem;
+    border-radius: 999px;
+    background: rgba(0, 240, 255, 0.08);
+    border: 1px solid var(--glass-border);
+  }
+  .pc-name {
+    font-size: clamp(1.6rem, 1.3rem + 2.4vw, 2.5rem);
+    margin-top: 0.9rem;
+    color: var(--text);
+  }
+  .pc-hl {
+    background: linear-gradient(100deg, var(--cyan), var(--cyan-soft), var(--purple));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+  }
+  .pc-desc { color: var(--text-dim); max-width: 56ch; margin-top: 0.7rem; font-size: 1.04rem; }
+  .pc-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 1.4rem;
+    font-family: var(--font-head);
+    font-weight: 700;
+    font-size: 0.98rem;
+    color: var(--cyan-soft);
+    padding: 0.7rem 1.4rem;
+    border-radius: 999px;
+    background: rgba(0, 240, 255, 0.08);
+    border: 1px solid var(--glass-border-strong);
+    transition: background 0.2s, box-shadow 0.2s, transform 0.2s;
+  }
+  .pc-card:hover .pc-cta { background: rgba(0, 240, 255, 0.14); box-shadow: var(--glow-cyan); transform: translateX(3px); }
+
+  @media (prefers-reduced-motion: reduce) {
+    .pc-card, .pc-glows, .pc-pro { animation: none !important; }
+  }
+</style>
