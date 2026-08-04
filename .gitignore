@@ -22,3 +22,6 @@ Thumbs.db
 
 # wrangler
 .wrangler/
+lh-home.json
+lh-landing.json
+lh-*.json

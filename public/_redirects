@@ -1,0 +1,6 @@
+# Redirects for merged duplicate tool entries (301 preserves link equity)
+/tools/antigravity*        /tools/google-antigravity/    301
+/tools/apx-ml*             /tools/apx-machine-learning/  301
+/tools/multica-ai*         /tools/multica/               301
+/tools/manus-ai*           /tools/manus/                 301
+/tools/pi-dev*             /tools/pi/                    301
