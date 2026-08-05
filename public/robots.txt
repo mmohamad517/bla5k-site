@@ -1,6 +1,14 @@
 User-agent: *
 Allow: /
 
+# ── Explicit content signals (code-level, independent of dashboard settings) ──
+# search=yes  : may index & show excerpts in search results
+# ai-input=yes: may use our content as input for AI answers (RAG / grounding)
+# ai-train=no : must NOT train models on our content
+# use=reference: AI systems may quote/reference our content
+User-agent: *
+Content-Signal: search=yes, ai-input=yes, ai-train=no, use=reference
+
 # ── AI search & research crawlers: explicitly ALLOWED ────────────────
 # Business decision (Aug 2026): we want bla5k visible in AI search
 # engines (ChatGPT, Perplexity, Claude, Gemini, Copilot, …).

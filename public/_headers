@@ -8,6 +8,25 @@
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
   Content-Security-Policy: default-src 'self'; base-uri 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com https://www.googletagmanager.com; font-src 'self'; connect-src 'self' https://api.web3forms.com https://cloudflareinsights.com https://static.cloudflareinsights.com https://www.google-analytics.com https://www.googletagmanager.com; form-action 'self' https://api.web3forms.com; frame-ancestors 'self'; object-src 'none'; upgrade-insecure-requests
 
+  # Explicitly ALLOW AI research/search crawlers to index & follow (code-level
+  # signal, in addition to robots.txt Allow rules). These do NOT grant access
+  # if robots.txt disallows — but ours allows, so this confirms index intent.
+  X-Robots-Tag: gptbot: index, follow
+  X-Robots-Tag: chatgpt-user: index, follow
+  X-Robots-Tag: oai-searchbot: index, follow
+  X-Robots-Tag: claudebot: index, follow
+  X-Robots-Tag: claude-web: index, follow
+  X-Robots-Tag: perplexitybot: index, follow
+  X-Robots-Tag: google-extended: index, follow
+  X-Robots-Tag: applebot-extended: index, follow
+  X-Robots-Tag: meta-externalagent: index, follow
+  X-Robots-Tag: bytespider: index, follow
+  X-Robots-Tag: amazonbot: index, follow
+  X-Robots-Tag: ccbot: index, follow
+  X-Robots-Tag: cohere-ai: index, follow
+  X-Robots-Tag: youbot: index, follow
+  X-Robots-Tag: bingbot: index, follow
+
 # Immutable, fingerprinted assets — cache hard
 /_astro/*
   Cache-Control: public, max-age=31536000, immutable
