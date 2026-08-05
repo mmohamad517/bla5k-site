@@ -2,6 +2,7 @@
 import Layout from '../../layouts/Layout.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
+import LegalStrip from '../../components/LegalStrip.astro';
 import Subscribe from '../../components/Subscribe.astro';
 import { getCollection, render } from 'astro:content';
 import { subcategoryBySlug, categoryBySlug } from '../../data/categories';
@@ -173,6 +174,7 @@ const schema = [
     </article>
   </main>
   <Footer />
+  <LegalStrip />
 </Layout>
 
 <style>

@@ -1,0 +1,35 @@
+---
+// Small legal strip shown at the very bottom of every tool page so legal
+// links are reachable from anywhere on the site (AdSense best practice).
+---
+<div class="legal-strip" role="contentinfo">
+  <div class="container">
+    <p>
+      © {new Date().getFullYear()} bla5k ·{' '}
+      <a href="/privacy/">Privacy</a> ·{' '}
+      <a href="/terms/">Terms</a> ·{' '}
+      <a href="/dmca/">DMCA</a> ·{' '}
+      <a href="/disclosure/">Disclosure</a>
+    </p>
+  </div>
+</div>
+
+<style>
+  .legal-strip {
+    border-top: 1px solid rgba(112, 243, 255, 0.07);
+    padding-block: 0.9rem;
+    background: rgba(18, 22, 41, 0.6);
+    font-size: 0.8rem;
+    color: var(--text-faint);
+    text-align: center;
+  }
+  .legal-strip a {
+    color: var(--text-faint);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    transition: color 0.2s;
+  }
+  .legal-strip a:hover {
+    color: var(--cyan-soft);
+  }
+</style>
