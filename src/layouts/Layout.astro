@@ -96,6 +96,7 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': [...baseGraph, ...s
     <meta name="twitter:image" content={ogImage} />
 
     <link rel="sitemap" href="/sitemap-index.xml" />
+    <link rel="alternate" type="text/plain" href="/llms.txt" title="llms.txt — AI-readable site summary" />
     <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 
     {(cfAnalyticsToken || ga4Id) && (

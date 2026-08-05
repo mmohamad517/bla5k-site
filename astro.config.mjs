@@ -137,6 +137,7 @@ export default defineConfig({
       lastmod: new Date(),
       changefreq: 'weekly',
       priority: 0.7,
+      customPages: ['https://bla5k.com/llms.txt'],
     }),
   ],
 });

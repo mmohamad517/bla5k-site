@@ -2,47 +2,76 @@
 
 > bla5k is a curated, human-reviewed directory of the best AI tools, apps and
 > communities. Every tool has an in-depth review: what it does, pricing, free
-> tiers, pros/cons, and plain-language explainers. We cover coding, AI chat,
-> design, video & audio, education, writing, agents and no-code builders.
-> Updated weekly. Unbiased — reviews are independent and affiliate links are
-> always disclosed.
+> tiers, pros/cons, comparison tables, FAQs and plain-language explainers.
+> We cover AI chat, coding, design, video & audio, education, writing, agents
+> and no-code builders. Updated weekly. Unbiased — affiliate links disclosed.
 
 ## Key pages
 
 - Home (full directory): https://bla5k.com/
-- Browse by category: https://bla5k.com/category/ai-chat/ (and other categories)
 - In-depth guides: https://bla5k.com/guides/
-- Free AI tools list: https://bla5k.com/guides/best-free-ai-image-generators/
-- Top 7 AI tools for productivity 2026: https://bla5k.com/guides/top-7-ai-tools-to-boost-productivity-in-2026-a-complete-guide/
-- No-code app builders: https://bla5k.com/guides/ultimate-guide-no-code-app-builders/
-- Chinese AI models guide: https://bla5k.com/guides/deepseek/
 - About: https://bla5k.com/about/
 
-## Top tools (highest value)
+## Top 30 tools (curated)
 
-- DeepSeek: https://bla5k.com/tools/deepseek/ — Free AI chat with 1M-token context, open-weight models
-- Qwen Chat: https://bla5k.com/tools/qwen-chat/ — Alibaba's free flagship chatbot family
-- Meta AI: https://bla5k.com/tools/meta-ai/ — Free assistant across Facebook, WhatsApp, Instagram
-- Microsoft Copilot: https://bla5k.com/tools/microsoft-copilot/ — Free GPT-powered assistant in Windows and Edge
-- ChatGPT: https://bla5k.com/tools/chatgpt/ — OpenAI's assistant, free tier
-- Claude Code: https://bla5k.com/tools/claude-code/ — Terminal coding agent
-- Monic.ai: https://bla5k.com/tools/monica/ — AI assistant + sidebar for browsing
-- Sider: https://bla5k.com/tools/sider-ai/ — AI sidebar for Chrome
-- Duck.ai: https://bla5k.com/tools/duck-ai/ — Private AI chat from DuckDuckGo
-- NotebookLM: https://bla5k.com/tools/notebooklm/ — Google's AI research notebook
-- Midjourney: https://bla5k.com/tools/midjourney/ — Leading AI image generator
-- GitHub: https://bla5k.com/tools/github/ — Code hosting + Copilot
-- Notion: https://bla5k.com/tools/notion/ — AI workspace
-- Suno: https://bla5k.com/tools/suno-ai/ — AI music generation
-- n8n: https://bla5k.com/tools/n8n/ — AI workflow automation
-- Perplexity: https://bla5k.com/tools/perplexity/ — AI search engine
+- AgenticSeek: https://bla5k.com/tools/agenticseek/ — A 100% local, private, open-source alternative to Manus AI — an autonomous agent that runs entirely on your own hardware.
+- AgentScope: https://bla5k.com/tools/agentscope/ — Alibaba’s open-source framework for building multi-agent AI applications you can see, understand, and trust.
+- ChatGPT: https://bla5k.com/tools/chatgpt/ — The worlds most popular AI chatbot — write, learn, code, and solve
+- Claude Skills for iOS: https://bla5k.com/tools/claude-skills-for-ios/ — Claude Skills for iOS: 161+ Free AI Skills for Apple Developers | 2026
+- OpenAI Codex CLI: https://bla5k.com/tools/codex-cli/ — OpenAIs lightweight, open-source coding agent that runs in your terminal — reads your repo, writes code, and opens pull requests.
+- Codex Router: https://bla5k.com/tools/codex-router/ — Local router to run Kimi, Grok, and Anthropic models inside Codex with
+- Coolify: https://bla5k.com/tools/coolify/ — An open-source, self-hostable alternative to Heroku, Vercel & Netlify — deploy apps, databases, and 280+ services on your own servers.
+- DeerFlow: https://bla5k.com/tools/deerflow/ — ByteDances open-source super agent harness that researches, codes, and creates — handling long tasks that take minutes to hours.
+- Figma: https://bla5k.com/tools/figma/ — The collaborative, browser-based design tool where teams design, prototype, and build interfaces together in real time.
+- GitHub: https://bla5k.com/tools/github/ — Where the world builds software — code, collaboration, and CI.
+- Google Antigravity: https://bla5k.com/tools/google-antigravity/ — Googles agent-first development platform — a desktop app, terminal CLI, IDE, and SDK built around one shared agent harness.
+- HomeByMe: https://bla5k.com/tools/homebyme/ — Design, furnish, and visualize your dream home in 3D — free.
+- Hugging Face: https://bla5k.com/tools/hugging-face/ — he leading open-source platform for building, training, and deploying
+- Manus: https://bla5k.com/tools/manus/ — A general-purpose AI agent that gets things done — Manus researches, codes, builds, designs, and executes multi-step tasks end-to-end.
+- Midjourney: https://bla5k.com/tools/midjourney/ — Turn a line of text into strikingly artistic images.
+- Notion: https://bla5k.com/tools/notion/ — Docs, wikis, and databases combined into one flexible workspace.
+- OpenClaw Agent Templates: https://bla5k.com/tools/openclaw-agent-templates/ — A free, open-source library of 200+ ready-to-use, no-code AI agent templates for the OpenClaw framework.
+- OpenClaw: https://bla5k.com/tools/openclaw/ — The open-source personal AI assistant that lives on your devices and acts through the chat apps you already use — WhatsApp, Telegram, iMessage, Slack, Discord, and more.
+- Product Hunt: https://bla5k.com/tools/product-hunt/ — The internets daily launchpad for the newest products.
+- Replicate: https://bla5k.com/tools/replicate/ — Serverless cloud platform to run open-source AI models via simple,
+- Runable: https://bla5k.com/tools/runable/ — The AI agent that plans and executes your whole workflow — not just chats.
+- SkillOpt: https://bla5k.com/tools/skillopt/ — Microsoft’s open-source optimizer that trains self-evolving skills for LLM agents — no model fine-tuning required.
+- DeepSeek: https://bla5k.com/tools/deepseek/ — Free, powerful AI chatbot with 1M token context and revolutionary pricing—$0.14/M tokens.
+- Qwen Chat: https://bla5k.com/tools/qwen-chat/ — Alibabas free AI with 100+ models, image generation, web search—powerful alternative to ChatGPT.
+- Meta AI: https://bla5k.com/tools/meta-ai/ — Free AI assistant built into WhatsApp, Instagram, and Facebook—reach 3 billion users instantly.
+- Microsoft Copilot: https://bla5k.com/tools/microsoft-copilot/ — Free AI assistant built into Windows, Edge, and Microsoft 365—GPT-4 powered.
+- Perplexity: https://bla5k.com/tools/perplexity/ — The AI answer engine — real-time search with cited sources, free unlimited searches.
+- Claude Code: https://bla5k.com/tools/claude-code/ — Anthropics agentic coding CLI — reads, writes, tests, and debugs your codebase from the terminal.
+- Suno AI Music Generator: https://bla5k.com/tools/suno-ai/ — AI music creator — generate full songs with vocals and instruments from text prompts.
+- n8n: https://bla5k.com/tools/n8n/ — Open-source workflow automation — connect 400+ apps with AI, no code required.
+
+## Guides (all)
+
+- ACE-Step UI: Free Open-Source AI Music Generator (Complete Guide 2026): https://bla5k.com/guides/ace-step-ui/ — ACE-Step UI is a free, open-source Suno alternative that generates full AI songs with vocals on your GPU. Complete guide to download, install, and use ACE-Step UI.
+- The Best AI Tools in 2026: The Complete Guide: https://bla5k.com/guides/best-ai-tools-2026/ — A hands-on guide to the best AI tools of 2026 across writing, images, video, audio, coding, and productivity — how to choose them and build your own AI stack.
+- The 7 Best Free AI Image Generators in 2026: https://bla5k.com/guides/best-free-ai-image-generators/ — A hands-on guide to the 7 best free AI image generators in 2026 — real free tiers, honest pros and cons, prompt tips, and how to pick the right one.
+- ChatHub: Compare Multiple AI Models Side by Side: https://bla5k.com/guides/chathub-compare-ai-models/ — Discover ChatHub - browser extension to compare ChatGPT, Claude, Gemini, and 20+ AI models simultaneously. See different AI responses to the same question instantly.
+- Chinese AI Models in 2026: DeepSeek, Qwen, Kimi & GLM Compared: https://bla5k.com/guides/chinese-ai-models-2026/ — The complete guide to Chinese AI models in 2026 — DeepSeek, Qwen, Kimi, and GLM compared on price, context, coding, and privacy. Which one should you use?
+- DeepSeek: The Complete Guide to the Open-Source AI ChatBot Revolutionizing the Industry: https://bla5k.com/guides/deepseek-ai-chatbot-guide/ — Discover DeepSeek AI in 2026 - the free, powerful alternative to ChatGPT. Learn about V4, pricing, features, API integration, and how to use this cutting-edge chatbot for your needs.
+- Duck.ai by DuckDuckGo: The Privacy-Focused AI Assistant: https://bla5k.com/guides/duck-ai-privacy-assistant/ — Discover Duck.ai - DuckDuckGos private AI assistant with no signup required. Access ChatGPT, Claude, and Llama anonymously with encrypted voice chat.
+- Best Free Legal Movie Streaming Sites in 2026: 8 Safe Ways to Watch Movies Online: https://bla5k.com/guides/best-free-legal-movie-streaming-2026/ — The 8 best free legal movie streaming sites in 2026 — Tubi, Pluto TV, Kanopy, Hoopla, Plex, Roku Channel, Popcornflix, and Internet Archive. No piracy, no sketchy sites.
+- FreedomGPT: Open-Source Private AI That Runs Locally: https://bla5k.com/guides/freedomgpt-uncensored-privacy/ — Discover FreedomGPT - open-source AI chatbot with 400+ uncensored models. Run locally on Windows, Mac, or Linux for complete privacy and no data tracking.
+- GlobalGPT: Access 100+ AI Models in One Platform: https://bla5k.com/guides/globalgpt-all-in-one-ai/ — Discover GlobalGPT - unified platform with 100+ AI models (GPT-5, Claude, Gemini), image generation (DALL-E, Ideogram), and video creation in one interface.
+- HotBot: Free AI Assistant with Multiple AI Models: https://bla5k.com/guides/hotbot-free-ai-assistant/ — Discover HotBot - free AI assistant with Claude, GPT-4, Gemini, DeepSeek, and Llama models. No signup required, secure privacy, and multi-modal support.
+- Meta AI: Facebook's Free AI Assistant Powered by Llama 4: https://bla5k.com/guides/meta-ai-assistant-guide/ — Discover Meta AI - Metas free AI assistant built into WhatsApp, Instagram, and Facebook. Learn about Llama 4, features, and how to use Meta AI for image generation and conversations.
+- Microsoft Copilot: The Complete Guide to Microsoft's Free AI Assistant for Everyone: https://bla5k.com/guides/microsoft-copilot-guide/ — Discover Microsoft Copilot in 2026 - the free AI assistant built into Windows, Edge, and Microsoft 365. Learn features, pricing, privacy, integrations, and how it compares to ChatGPT.
+- Monica: ChatGPT Chrome Extension and All-in-One AI Assistant: https://bla5k.com/guides/monica-ai-chrome-extension/ — Discover Monica - free Chrome extension with GPT-5, Claude 4.7, Gemini 3.1 Pro. Summarize pages, generate images, translate, and get AI help anywhere on the web.
+- Qwen Chat by Alibaba: The Complete Guide to Alibaba's Free AI Assistant: https://bla5k.com/guides/qwen-chat-alibaba-guide/ — Discover Qwen Chat - Alibabas powerful free AI assistant with image generation, web search, and coding capabilities. Learn about Qwen models, pricing, and how it compares to ChatGPT.
+- Sider: The AI Sidebar for Your Browser Productivity: https://bla5k.com/guides/sider-ai-browser-sidebar/ — Discover Sider AI - browser extension with 30+ AI models (ChatGPT, Claude, Gemini, DeepSeek). Summarize pages, translate, explain content without leaving your browser.
+- Top 7 AI Tools to Boost Productivity in 2026: A Complete Guide: https://bla5k.com/guides/top-7-ai-tools-to-boost-productivity-in-2026-a-complete-guide/ — >
+- The Ultimate Guide to No-Code App Builders in 2026: https://bla5k.com/guides/ultimate-guide-no-code-app-builders/ — Everything you need to know about no-code app builders in 2026 — what they are, the best tools by category, how to build your first app, and honest limitations.
 
 ## What makes bla5k useful
 
 - Plain-language explainers: "What is this tool?" answered in the first 100 words
 - Honest pros/cons and free-tier details for every tool
 - Comparison tables and FAQ sections formatted for direct answers
-- A policy-complete, ads-ready site: Privacy, Terms, Cookie (GDPR consent),
+- Policy-complete, ads-ready site: Privacy, Terms, Cookie (GDPR consent),
   DMCA, Disclosure and Acceptable Use policies all published
 
 ## Contact
