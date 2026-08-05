@@ -11,8 +11,8 @@ tags:
   - Open Source
 featured: false
 updated: 2026-07-31
-metaTitle: Understand Anything - AI Codebase Knowledge Graphs 2026
-metaDescription: Transform complex codebases into interactive knowledge graphs with AI. Free open-source tool for code understanding and architecture review.
+metaTitle: Understand Anything AI - Free Codebase Knowledge Graph Tool
+metaDescription: Understand Anything is a free AI tool that turns complex codebases into interactive knowledge graphs — understand any project's architecture in minutes.
 simple: "A tool for developers that turns a big, confusing codebase into an interactive map. It shows how all the pieces connect, so you can understand a project in minutes instead of weeks."
 example: "Just joined a team with a huge, unfamiliar codebase? Point Understand Anything at it and explore a visual map, asking questions like \"what uses this function?\" in plain English."
 goodFor:

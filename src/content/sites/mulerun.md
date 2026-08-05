@@ -6,8 +6,8 @@ tagline: "AI agent platform for data extraction and web research — automate re
 tags: [mulerun, data extraction, web scraping, research agent, automation]
 featured: false
 affiliate: false
-metaTitle: "MuleRun: AI Agents for Data Extraction & Web Research"
-metaDescription: "MuleRun — AI agent platform that automates web research and data extraction. Collect competitor data, leads, and market research automatically."
+metaTitle: "MuleRun AI Agent: Automate Data Extraction & Web Research"
+metaDescription: "MuleRun is an AI agent platform that automates web research and data extraction — collect competitor data, leads, and market intelligence on autopilot."
 simple: "An AI that does tedious research for you. Give it a task like 'find pricing for 50 competitors' and it browses, extracts, and organizes the data."
 example: "Ask 'collect contact info for 100 SaaS companies in the CRM space' and MuleRun browses their websites, extracts emails and phone numbers, and delivers a spreadsheet."
 goodFor:

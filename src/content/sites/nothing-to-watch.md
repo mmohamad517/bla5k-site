@@ -11,8 +11,8 @@ tags:
   - Entertainment
 featured: false
 updated: 2026-08-01
-metaTitle: Nothing To Watch - End the Scroll & Pick a Movie 2026
-metaDescription: A guide to Nothing To Watch, a playful movie-discovery tool powered by open TMDB data that helps you stop scrolling and finally decide what to watch tonight.
+metaTitle: Nothing to Watch? Free Tool to Finally Pick a Movie (2026)
+metaDescription: Nothing to watch tonight? This free movie-discovery tool ends the endless scroll — get film ideas and finally pick one, powered by open TMDB data.
 simple: "A simple, free website that helps you decide what movie to watch. Instead of endless scrolling, it surfaces films for you so you can quickly pick something for tonight."
 example: "Can't decide on a movie? Open Nothing To Watch, browse the films it suggests, pick one, then play it on whatever streaming service you already have."
 goodFor:
