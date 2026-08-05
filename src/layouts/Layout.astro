@@ -23,6 +23,11 @@ const site = 'https://bla5k.com';
 const canonical = new URL(Astro.url.pathname, site).href.replace(/([^:]\/)\/+/g, '$1');
 const ogImage = image.startsWith('http') ? image : `${site}${image}`;
 
+// Cloudflare Web Analytics — privacy-first, cookieless traffic stats.
+// Set PUBLIC_CF_WEB_ANALYTICS_TOKEN in the Pages build env (or local .env)
+// and the beacon is injected on every page. Leave unset → zero impact.
+const cfAnalyticsToken = import.meta.env.PUBLIC_CF_WEB_ANALYTICS_TOKEN;
+
 const baseGraph = [
   {
     '@type': 'WebSite',
@@ -88,6 +93,15 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': [...baseGraph, ...s
 
     <link rel="sitemap" href="/sitemap-index.xml" />
     <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
+    {cfAnalyticsToken && (
+      <script
+        is:inline
+        type="module"
+        src="https://static.cloudflareinsights.com/beacon.min.js"
+        data-cf-beacon={'{"token":"' + cfAnalyticsToken + '","spa":true}'}
+      />
+    )}
   </head>
   <body>
     <slot />
