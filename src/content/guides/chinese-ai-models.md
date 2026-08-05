@@ -97,6 +97,8 @@ The honest flip side: **data is processed in China**. If you work in a regulated
 
 All five are free to try, all five have low-cost APIs, and all beat Western rivals on price. The differences are in **flavor**: coding (DeepSeek), everything-free (Qwen), giant contexts (Kimi), building apps (GLM), and video (MiniMax).
 
+> 🏆 **Looking for the head-to-head?** Read our dedicated [DeepSeek vs Qwen vs Kimi vs GLM comparison](/guides/deepseek-vs-qwen-vs-kimi-vs-glm/) — one table, real numbers, and a clear winner for each job.
+
 ## Chinese Models vs. ChatGPT & Claude
 
 The honest comparison:
