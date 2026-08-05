@@ -48,7 +48,7 @@ The honest flip side: **data is processed in China**. If you work in a regulated
 
 **Best at:** Coding, mathematical reasoning, cost efficiency. The web chat at chat.deepseek.com is free with no limits, and the API is famously cheap (~$0.14/M input tokens for Flash).
 
-**Who it's for:** Developers, budget-conscious power users, and anyone who wants open-source weights to self-host. Read our [full DeepSeek guide](/guides/deepseek/).
+**Who it's for:** Developers, budget-conscious power users, and anyone who wants open-source weights to self-host. Read our [full DeepSeek guide](/guides/deepseek-ai-chatbot-guide/).
 
 ### Qwen — the free all-in-one from Alibaba
 
