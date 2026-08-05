@@ -1,0 +1,87 @@
+---
+// GDPR cookie consent banner. Choice is stored in localStorage
+// ('bla5k-cookie-consent'). Fully client-side — no cookies set by
+// this banner itself. Buttons: Accept all / Reject non-essential.
+// A small "Cookie settings" link in the footer re-opens it.
+// Dispatches 'bla5k-consent' (accept|reject) for consumers to gate
+// optional scripts (analytics/advertising) on consent.
+---
+<div class="cc-wrap" id="cc-wrap" role="dialog" aria-modal="false" aria-label="Cookie consent">
+  <div class="cc glass">
+    <p class="cc-title">🍪 We value your privacy</p>
+    <p class="cc-text">
+      We use cookies and similar technologies to make the site work and, with your consent,
+      to understand usage and serve advertising. Read our
+      <a href="/cookie-policy/">Cookie Policy</a> and
+      <a href="/privacy/">Privacy Policy</a>.
+    </p>
+    <div class="cc-actions">
+      <button class="btn btn-primary cc-btn" type="button" data-choice="accept">Accept all</button>
+      <button class="btn btn-ghost cc-btn" type="button" data-choice="reject">Reject non-essential</button>
+    </div>
+    <p class="cc-hint">You can change your choice anytime — clear the banner by clicking “Cookie settings” in the footer.</p>
+  </div>
+</div>
+
+<style>
+  .cc-wrap {
+    position: fixed; inset-inline: 0; bottom: 0; z-index: 90;
+    padding: 0.8rem 1rem 1rem;
+    display: flex; justify-content: center; pointer-events: none;
+  }
+  .cc-wrap[hidden] { display: none; }
+  /* Progressive: banner visible by default (no flash); JS hides it
+     once a stored choice exists. Works before the module executes. */
+  html.js .cc-wrap[hidden] { display: none; }
+  .cc {
+    pointer-events: auto; max-width: 720px; width: 100%;
+    padding: 1.1rem 1.2rem; display: grid; gap: 0.6rem;
+    box-shadow: 0 12px 40px -12px rgba(0,0,0,.6), var(--glow-cyan);
+  }
+  .cc-title { font-family: var(--font-head); font-weight: 700; font-size: 1rem; }
+  .cc-text { color: var(--text-dim); font-size: 0.9rem; line-height: 1.5; }
+  .cc-text a { color: var(--cyan-soft); text-decoration: underline; text-underline-offset: 2px; }
+  .cc-actions { display: flex; gap: 0.6rem; flex-wrap: wrap; }
+  .cc-btn { flex: 1; min-width: 150px; justify-content: center; }
+  .cc-hint { color: var(--text-faint); font-size: 0.78rem; }
+  @media (min-width: 640px) { .cc { grid-template-columns: 1fr auto; align-items: center; } .cc-actions { grid-column: 2; grid-row: 1 / span 2; align-content: center; } .cc-hint { grid-column: 1; } }
+</style>
+
+<script>
+  const KEY = 'bla5k-cookie-consent';
+  const VER = '1';
+  const wrap = document.getElementById('cc-wrap');
+
+  function readChoice() {
+    try {
+      const raw = localStorage.getItem(KEY);
+      if (!raw) return null;
+      const o = JSON.parse(raw);
+      return o.version === VER ? o.choice : null;
+    } catch { return null; }
+  }
+  function save(choice) {
+    try { localStorage.setItem(KEY, JSON.stringify({ version: VER, choice, at: Date.now() })); } catch {}
+  }
+
+  // Attach listeners UNCONDITIONALLY so the banner works both on first
+  // visit and when re-opened later from the footer "Cookie settings".
+  // Visibility is decided separately from the stored choice.
+  if (wrap) {
+    wrap.querySelectorAll('[data-choice]').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        save(btn.dataset.choice);
+        wrap.hidden = true;
+        document.dispatchEvent(new CustomEvent('bla5k-consent', { detail: btn.dataset.choice }));
+      });
+    });
+    // Hidden only when a choice is already stored (progressive: visible
+    // by default in HTML — no flash; JS hides it once a choice exists).
+    wrap.hidden = !!readChoice();
+  }
+
+  // Re-open from a "Cookie settings" link/button (added in Footer).
+  window.__openCookieSettings = () => {
+    if (wrap) wrap.hidden = false;
+  };
+</script>

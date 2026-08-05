@@ -28,6 +28,7 @@ const topCats = categories.slice(0, 6);
     <nav class="foot-col" aria-label="Legal">
       <h3>Legal</h3>
       <a href="/privacy/">Privacy Policy</a>
+      <a href="/cookie-policy/">Cookie Policy</a>
       <a href="/terms/">Terms of Use</a>
       <a href="/dmca/">DMCA &amp; Copyright</a>
       <a href="/disclosure/">Disclosure</a>
@@ -36,8 +37,16 @@ const topCats = categories.slice(0, 6);
 
   <div class="container foot-bottom">
     <span>© {year} bla5k. All rights reserved.</span>
-    <span class="disc">Some links on this site may be affiliate links.</span>
+    <span class="disc">Some links on this site may be affiliate links. · <button type="button" class="cookie-link" id="cookie-settings-btn">Cookie settings</button></span>
   </div>
+</footer>
+
+<script>
+  // Re-open the consent banner from the footer button.
+  document.getElementById('cookie-settings-btn')?.addEventListener('click', () => {
+    if (typeof window.__openCookieSettings === 'function') window.__openCookieSettings();
+  });
+</script>
 </footer>
 
 <style>
@@ -52,6 +61,8 @@ const topCats = categories.slice(0, 6);
   .foot-col a:hover { color: var(--cyan-soft); }
   .foot-bottom { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0.5rem; margin-top: 2rem; padding-top: 1.3rem; border-top: 1px solid rgba(112,243,255,.07); color: var(--text-faint); font-size: 0.82rem; }
   .disc { color: var(--text-dim); }
+  .cookie-link { background: none; border: none; padding: 0; color: var(--cyan-soft); font: inherit; font-size: inherit; text-decoration: underline; text-underline-offset: 2px; cursor: pointer; }
+  .cookie-link:hover { color: var(--cyan); }
 
   @media (min-width: 640px) { .foot { grid-template-columns: 2fr 1fr 1fr 1fr; gap: 2rem; } }
 </style>

@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import CookieConsent from '../components/CookieConsent.astro';
 
 export interface Props {
   image?: string;
@@ -95,15 +96,34 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': [...baseGraph, ...s
     <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 
     {cfAnalyticsToken && (
-      <script
-        is:inline
-        type="module"
-        src="https://static.cloudflareinsights.com/beacon.min.js"
-        data-cf-beacon={'{"token":"' + cfAnalyticsToken + '","spa":true}'}
-      />
+      <script is:inline type="module" id="cf-beacon-gate" data-cf-token={cfAnalyticsToken}>
+        // Analytics beacon — gated on GDPR consent. Loads only after the
+        // visitor accepts; re-evaluates if they change their choice later.
+        // NOTE: document.currentScript is null in module scripts, so the
+        // token is read via querySelector by id instead.
+        const TOKEN = document.getElementById('cf-beacon-gate').getAttribute('data-cf-token');
+        const KEY = 'bla5k-cookie-consent', VER = '1';
+        const choice = () => {
+          try {
+            const o = JSON.parse(localStorage.getItem(KEY) || 'null');
+            return o && o.version === VER ? o.choice : null;
+          } catch { return null; }
+        };
+        const inject = () => {
+          if (document.querySelector('script[data-cf-beacon]')) return;
+          const s = document.createElement('script');
+          s.type = 'module';
+          s.src = 'https://static.cloudflareinsights.com/beacon.min.js';
+          s.setAttribute('data-cf-beacon', JSON.stringify({ token: TOKEN, spa: true }));
+          document.head.appendChild(s);
+        };
+        if (choice() === 'accept') inject();
+        document.addEventListener('bla5k-consent', (e) => { if (e.detail === 'accept') inject(); });
+      </script>
     )}
   </head>
   <body>
+    <CookieConsent />
     <slot />
     <script>
       const io = new IntersectionObserver(

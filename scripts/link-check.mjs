@@ -53,7 +53,7 @@ function fmValue(fm, key) {
 // ── build the set of REAL valid internal routes (normalized: no trailing slash) ──
 function norm(p) { return p === '/' ? '/' : p.replace(/\/$/, ''); }
 const valid = new Set(['/', '/ai-control-pro']); // homepage + landing page
-const staticPages = ['404', 'about', 'advertise', 'contact', 'disclosure', 'dmca', 'faq', 'privacy', 'terms', 'index'];
+const staticPages = ['404', 'about', 'advertise', 'contact', 'cookie-policy', 'disclosure', 'dmca', 'faq', 'privacy', 'terms', 'index'];
 for (const p of staticPages) valid.add(norm(p === 'index' ? '/' : `/${p}/`));
 
 // tools: /tools/<filename>/
