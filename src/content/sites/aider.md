@@ -121,6 +121,6 @@ Start with a small, well-scoped change to build trust, then let Aider tackle lar
 
 Aider is the **open, model-agnostic way to do AI pair programming in the terminal**. Its git-native design — direct edits, auto-commits, reviewable diffs — fits how real developers work, and its freedom to use any LLM means you're never locked in. For terminal developers, it's an essential tool.
 
-For deeper agentic coding with sub-agents, pair it with [Claude Code](/tools/claude-code/) or [OpenAI Codex CLI](/tools/openai-codex-cli/), and explore the full [Developer Tools directory](/category/developer/).
+For deeper agentic coding with sub-agents, pair it with [Claude Code](/tools/claude-code/) or [OpenAI Codex CLI](/tools/codex-cli/), and explore the full [Developer Tools directory](/category/developer/).
 
 *Official resource: [Aider](https://aider.chat/).*

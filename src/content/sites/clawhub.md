@@ -95,7 +95,7 @@ Agents for **customer support, content, research, and process automation** — p
 - **Operators** who'd rather configure than code.
 - **Anyone** exploring AI agents without DevOps skills.
 
-It's **not** for custom research models, non-agent AI needs, or teams requiring full code-level control — those belong with [CrewAI](/tools/crewai/) or [OpenClaw AI](/tools/openclaw-ai/).
+It's **not** for custom research models, non-agent AI needs, or teams requiring full code-level control — those belong with [CrewAI](/tools/crewai/) or [OpenClaw](/tools/openclaw/).
 
 ## How to get started with ClawHub
 
@@ -111,6 +111,6 @@ Start with one well-defined automation — support or content — to validate th
 
 ClawHub makes **AI agents as easy as installing an app**: browse, customize, deploy — with the infrastructure handled for you. For businesses that want automation without engineering, it's the fastest route from idea to running agent.
 
-For developer-focused agent tools, explore [CrewAI](/tools/crewai/) and [OpenClaw AI](/tools/openclaw-ai/), or browse our [AI Tools directory](/category/ai-tools/).
+For developer-focused agent tools, explore [CrewAI](/tools/crewai/) and [OpenClaw](/tools/openclaw/), or browse our [AI Tools directory](/category/ai-tools/).
 
 *Official resource: [ClawHub AI](https://clawhub.ai/).*

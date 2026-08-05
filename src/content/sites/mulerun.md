@@ -119,6 +119,6 @@ Start with a small, well-defined task — like collecting pricing from 10 known 
 
 MuleRun automates **the most tedious part of knowledge work**: web research and data extraction. Describe a task, get structured results, and reclaim the hours you used to spend clicking through websites. For any team that repeatedly needs data, it's a genuine force multiplier.
 
-For more agent tools, explore [CrewAI](/tools/crewai/), [OpenClaw AI](/tools/openclaw-ai/), and our [AI Tools directory](/category/ai-tools/).
+For more agent tools, explore [CrewAI](/tools/crewai/), [OpenClaw](/tools/openclaw/), and our [AI Tools directory](/category/ai-tools/).
 
 *Official resource: [MuleRun](https://mulerun.ai/).*
