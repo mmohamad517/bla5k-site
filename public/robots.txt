@@ -1,4 +1,55 @@
 User-agent: *
 Allow: /
 
+# ── AI search & research crawlers: explicitly ALLOWED ────────────────
+# Business decision (Aug 2026): we want bla5k visible in AI search
+# engines (ChatGPT, Perplexity, Claude, Gemini, Copilot, …).
+# Keep these groups — removing them hides the site from AI search.
+
+# OpenAI (ChatGPT search, GPT bots)
+User-agent: GPTBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+
+# Anthropic (Claude)
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-Web
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+# Google AI (Gemini, AI Overviews)
+User-agent: Google-Extended
+Allow: /
+
+# Apple Intelligence
+User-agent: Applebot-Extended
+Allow: /
+
+# Microsoft / Copilot (also covered by Bingbot)
+User-agent: Bingbot
+Allow: /
+
+# Meta AI
+User-agent: meta-externalagent
+Allow: /
+
+# Other major AI crawlers
+User-agent: cohere-ai
+Allow: /
+User-agent: Bytespider
+Allow: /
+User-agent: Amazonbot
+Allow: /
+User-agent: YouBot
+Allow: /
+User-agent: CCBot
+Allow: /
+
 Sitemap: https://bla5k.com/sitemap-index.xml
