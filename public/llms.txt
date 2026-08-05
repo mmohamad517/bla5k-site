@@ -1,0 +1,51 @@
+# bla5k — Best AI Tools Directory 2026
+
+> bla5k is a curated, human-reviewed directory of the best AI tools, apps and
+> communities. Every tool has an in-depth review: what it does, pricing, free
+> tiers, pros/cons, and plain-language explainers. We cover coding, AI chat,
+> design, video & audio, education, writing, agents and no-code builders.
+> Updated weekly. Unbiased — reviews are independent and affiliate links are
+> always disclosed.
+
+## Key pages
+
+- Home (full directory): https://bla5k.com/
+- Browse by category: https://bla5k.com/category/ai-chat/ (and other categories)
+- In-depth guides: https://bla5k.com/guides/
+- Free AI tools list: https://bla5k.com/guides/best-free-ai-image-generators/
+- Top 7 AI tools for productivity 2026: https://bla5k.com/guides/top-7-ai-tools-to-boost-productivity-in-2026-a-complete-guide/
+- No-code app builders: https://bla5k.com/guides/ultimate-guide-no-code-app-builders/
+- Chinese AI models guide: https://bla5k.com/guides/deepseek/
+- About: https://bla5k.com/about/
+
+## Top tools (highest value)
+
+- DeepSeek: https://bla5k.com/tools/deepseek/ — Free AI chat with 1M-token context, open-weight models
+- Qwen Chat: https://bla5k.com/tools/qwen-chat/ — Alibaba's free flagship chatbot family
+- Meta AI: https://bla5k.com/tools/meta-ai/ — Free assistant across Facebook, WhatsApp, Instagram
+- Microsoft Copilot: https://bla5k.com/tools/microsoft-copilot/ — Free GPT-powered assistant in Windows and Edge
+- ChatGPT: https://bla5k.com/tools/chatgpt/ — OpenAI's assistant, free tier
+- Claude Code: https://bla5k.com/tools/claude-code/ — Terminal coding agent
+- Monic.ai: https://bla5k.com/tools/monica/ — AI assistant + sidebar for browsing
+- Sider: https://bla5k.com/tools/sider-ai/ — AI sidebar for Chrome
+- Duck.ai: https://bla5k.com/tools/duck-ai/ — Private AI chat from DuckDuckGo
+- NotebookLM: https://bla5k.com/tools/notebooklm/ — Google's AI research notebook
+- Midjourney: https://bla5k.com/tools/midjourney/ — Leading AI image generator
+- GitHub: https://bla5k.com/tools/github/ — Code hosting + Copilot
+- Notion: https://bla5k.com/tools/notion/ — AI workspace
+- Suno: https://bla5k.com/tools/suno-ai/ — AI music generation
+- n8n: https://bla5k.com/tools/n8n/ — AI workflow automation
+- Perplexity: https://bla5k.com/tools/perplexity/ — AI search engine
+
+## What makes bla5k useful
+
+- Plain-language explainers: "What is this tool?" answered in the first 100 words
+- Honest pros/cons and free-tier details for every tool
+- Comparison tables and FAQ sections formatted for direct answers
+- A policy-complete, ads-ready site: Privacy, Terms, Cookie (GDPR consent),
+  DMCA, Disclosure and Acceptable Use policies all published
+
+## Contact
+
+- Contact page: https://bla5k.com/contact/
+- Legal: https://bla5k.com/privacy/ · https://bla5k.com/terms/ · https://bla5k.com/cookie-policy/

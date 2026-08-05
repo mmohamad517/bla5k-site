@@ -40,11 +40,21 @@ import Page from '../layouts/Page.astro';
 
   <h3>2. Analytics (optional)</h3>
   <p>
-    We use <strong>Cloudflare Web Analytics</strong>, a privacy-first, <strong>cookieless</strong>
-    service. It does not use cookies or collect personal data — it aggregates page views,
-    referrers, and approximate country-level traffic without identifiers. Because it is
-    cookieless, it runs by default; if you reject analytics we disable the beacon for you.
+    We use two analytics tools, both <strong>loaded only after you accept</strong>:
   </p>
+  <ul>
+    <li>
+      <strong>Cloudflare Web Analytics</strong> — a privacy-first, <strong>cookieless</strong>
+      service that aggregates page views, referrers, and approximate country-level traffic
+      without identifiers. If you reject analytics, the beacon is disabled for you.
+    </li>
+    <li>
+      <strong>Google Analytics 4 (GA4)</strong> — used to understand how the Site is found
+      and used. GA4 uses cookies and may collect device and usage data processed by Google.
+      It is <strong>never loaded unless you accept</strong>, and you can withdraw consent at
+      any time.
+    </li>
+  </ul>
 
   <h3>3. Advertising (optional)</h3>
   <p>

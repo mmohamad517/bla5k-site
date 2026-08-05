@@ -28,6 +28,9 @@ const ogImage = image.startsWith('http') ? image : `${site}${image}`;
 // Set PUBLIC_CF_WEB_ANALYTICS_TOKEN in the Pages build env (or local .env)
 // and the beacon is injected on every page. Leave unset → zero impact.
 const cfAnalyticsToken = import.meta.env.PUBLIC_CF_WEB_ANALYTICS_TOKEN;
+// Google Analytics 4 — set PUBLIC_GA4_ID (format G-XXXXXXXXXX) to enable.
+// Both analytics load ONLY after the visitor accepts cookies (GDPR).
+const ga4Id = import.meta.env.PUBLIC_GA4_ID;
 
 const baseGraph = [
   {
@@ -95,13 +98,16 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': [...baseGraph, ...s
     <link rel="sitemap" href="/sitemap-index.xml" />
     <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 
-    {cfAnalyticsToken && (
-      <script is:inline type="module" id="cf-beacon-gate" data-cf-token={cfAnalyticsToken}>
-        // Analytics beacon — gated on GDPR consent. Loads only after the
-        // visitor accepts; re-evaluates if they change their choice later.
-        // NOTE: document.currentScript is null in module scripts, so the
-        // token is read via querySelector by id instead.
-        const TOKEN = document.getElementById('cf-beacon-gate').getAttribute('data-cf-token');
+    {(cfAnalyticsToken || ga4Id) && (
+      <script is:inline type="module" id="analytics-gate" data-cf-token={cfAnalyticsToken} data-ga4-id={ga4Id}>
+        // Analytics — Cloudflare (cookieless) + Google Analytics 4, gated
+        // on GDPR consent. Load only after the visitor accepts; re-evaluate
+        // if they change their choice later.
+        // NOTE: document.currentScript is null in module scripts, so config
+        // is read via getElementById instead.
+        const cfg = document.getElementById('analytics-gate');
+        const CF_TOKEN = cfg.getAttribute('data-cf-token');
+        const GA4_ID = cfg.getAttribute('data-ga4-id');
         const KEY = 'bla5k-cookie-consent', VER = '1';
         const choice = () => {
           try {
@@ -110,12 +116,25 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': [...baseGraph, ...s
           } catch { return null; }
         };
         const inject = () => {
-          if (document.querySelector('script[data-cf-beacon]')) return;
-          const s = document.createElement('script');
-          s.type = 'module';
-          s.src = 'https://static.cloudflareinsights.com/beacon.min.js';
-          s.setAttribute('data-cf-beacon', JSON.stringify({ token: TOKEN, spa: true }));
-          document.head.appendChild(s);
+          // Cloudflare beacon (guard against double-inject)
+          if (CF_TOKEN && !document.querySelector('script[data-cf-beacon]')) {
+            const s = document.createElement('script');
+            s.type = 'module';
+            s.src = 'https://static.cloudflareinsights.com/beacon.min.js';
+            s.setAttribute('data-cf-beacon', JSON.stringify({ token: CF_TOKEN, spa: true }));
+            document.head.appendChild(s);
+          }
+          // Google Analytics 4 (guard against double-inject)
+          if (GA4_ID && !document.querySelector('script[data-ga4-id]')) {
+            const g = document.createElement('script');
+            g.async = true;
+            g.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA4_ID;
+            g.setAttribute('data-ga4-id', GA4_ID);
+            document.head.appendChild(g);
+            const inline = document.createElement('script');
+            inline.textContent = 'window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config",' + JSON.stringify(GA4_ID) + ');';
+            document.head.appendChild(inline);
+          }
         };
         if (choice() === 'accept') inject();
         document.addEventListener('bla5k-consent', (e) => { if (e.detail === 'accept') inject(); });
