@@ -36,6 +36,10 @@ const faqs = [
     q: 'Who is behind bla5k?',
     a: 'bla5k is an independent project dedicated to cutting through the noise of the internet with a clean, trustworthy directory. You can learn more on our About page.',
   },
+  {
+    q: 'What are bla5k\'s policies?',
+    a: 'bla5k publishes clear policies for everything we do: a Privacy Policy for your data, Terms of Use for using the site, a DMCA & Copyright Policy for takedowns, an Acceptable Use Policy, a GDPR-compliant Cookie Policy, and an Affiliate & Advertising Disclosure. You can reach all of them from the footer or the About page.',
+  },
 ];
 
 const schema = [
@@ -80,6 +84,16 @@ const schema = [
           ))}
         </div>
 
+        <div class="pol">
+          <h2>Our policies</h2>
+          <ul role="list">
+            <li><a href="/privacy/">Privacy Policy</a> — how we handle your data.</li>
+            <li><a href="/terms/">Terms of Use</a> — the rules of the site.</li>
+            <li><a href="/dmca/">DMCA &amp; Copyright Policy</a> — copyright &amp; takedowns.</li>
+            <li><a href="/disclosure/">Affiliate &amp; Advertising Disclosure</a> — how bla5k is supported.</li>
+          </ul>
+        </div>
+
         <p class="back"><a href="/">← Back to home</a></p>
       </div>
     </article>
@@ -103,6 +117,13 @@ const schema = [
   .faq[open] .chev { transform: rotate(180deg); }
   summary:hover { background: rgba(112,243,255,.04); }
   .a { color: var(--text-dim); padding: 0 1.2rem 1.2rem; margin: 0; }
+
+  .pol { margin-top: 2.6rem; padding: 1.3rem 1.4rem; background: var(--glass-bg); border: 1px solid var(--glass-border); border-radius: 14px; }
+  .pol h2 { font-size: 1.2rem; margin-bottom: 0.8rem; }
+  .pol ul { list-style: none; display: grid; gap: 0.5rem; }
+  .pol a { color: var(--cyan-soft); text-decoration: underline; text-underline-offset: 2px; }
+  .pol a:hover { color: var(--cyan); }
+  .pol li { color: var(--text-dim); font-size: 0.95rem; }
 
   .back { margin-top: 2.4rem; }
   .back a { color: var(--cyan-soft); font-weight: 600; }
