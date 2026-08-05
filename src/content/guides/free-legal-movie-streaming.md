@@ -97,7 +97,24 @@ Every site in this guide is run by a legitimate company and licenses its content
 - **Best for:** classic and historical cinema.
 - **Cost:** free, no account, no ads.
 
-## Quick Comparison Table
+## What About Paid Services? (For Comparison)
+
+The free services above cover a lot — but not everything. Here's how the major **paid** streaming services compare, and when they're worth the money:
+
+| Service | Model | Monthly cost | Best for | Free options? |
+| --- | --- | --- | --- | --- |
+| [Netflix](/tools/netflix/) | Subscription | $8.99+ | Original series, variety | ❌ No free tier |
+| [Prime Video](/tools/prime-video/) | In Prime | $14.99 (Prime) | Live sports, blockbusters | ✅ Free ad-supported built in |
+| [Disney+](/tools/disney-plus/) | Subscription | $11.99+ | Marvel, Star Wars, family | ❌ No free tier |
+| [Fandango](/tools/fandango/) | Pay per title | $0.99-24.99 | New releases, no subscription | ✅ Free ad-supported section |
+
+**The honest math:** free services (Tubi, Pluto TV, Roku Channel, Popcornflix) cover casual watching entirely at $0. **Fandango** covers new releases without a subscription — rent only what you want. **Prime Video** is effectively free if you already pay for Amazon Prime. The subscriptions (**Netflix, Disney+**) are worth it only if you watch enough that the per-title or ad-supported experience doesn't cover your needs.
+
+A practical combo used by many cord-cutters: **free services for daily viewing + Fandango for new releases + one subscription (Netflix or Disney+) for the content you actually follow.**
+
+## The Free Catalog at a Glance
+
+The paid options above cover new releases and specific franchises — while the eight **free** services below cover everyday viewing at $0:
 
 | Service | Best for | Ads | Account | Card needed |
 | --- | --- | --- | --- | --- |
