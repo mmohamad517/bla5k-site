@@ -1,9 +1,8 @@
 ---
 import Page from '../layouts/Page.astro';
-// Email is base64-encoded at build time so the plain address never appears in the
-// page HTML. It's assembled in the browser for real visitors, hiding it from scrapers/bots.
+// Contact email shown plainly — AdSense review requires an accessible contact method
+// without JavaScript (automated reviewers may not execute JS).
 const email = 'mmohamad517@gmail.com';
-const emailB64 = Buffer.from(email).toString('base64');
 ---
 <Page
   title="Contact"
@@ -17,10 +16,8 @@ const emailB64 = Buffer.from(email).toString('base64');
 
   <h2>Email</h2>
   <p>
-    Reach us by email — click below to reveal it:
-  </p>
-  <p>
-    <a id="cemail" class="reveal-email" href="#" data-e={emailB64}>Show email address</a>
+    Reach us directly by email at{' '}
+    <a id="cemail" href={`mailto:${email}`}>{email}</a> — we read every message.
   </p>
 
   <h2>Suggest a tool</h2>
@@ -35,12 +32,4 @@ const emailB64 = Buffer.from(email).toString('base64');
     get featured on bla5k.
   </p>
 
-  <script>
-    const el = document.getElementById('cemail');
-    if (el) {
-      const e = atob(el.getAttribute('data-e') || '');
-      el.setAttribute('href', 'mailto:' + e);
-      el.textContent = e;
-    }
-  </script>
 </Page>
