@@ -113,6 +113,12 @@ It's **not** for people who want unlimited browsing on a flat fee — that's Net
 4. **Watch in 4K** — check your device supports Dolby Vision/Atmos.
 5. **Link Movies Anywhere** — keep purchases portable across services.
 
+## Why Fandango is 100% legal
+
+Fandango at Home (formerly Vudu) is owned and operated by **Fandango Media**, which is jointly owned by **Warner Bros. Discovery** and **Comcast** — two of the world's largest media companies. Every title on the platform — whether from the free ad-supported section or paid rent/buy — is fully licensed and paid for through legitimate distribution agreements with movie studios.
+
+There is nothing pirated or user-uploaded anywhere on the platform. The free section works exactly like Tubi: studios license specific titles for ad-supported viewing, and you watch them in an official app. Rentals and purchases are the same legally protected transactions you'd make at any digital storefront. It's a completely legitimate service with no copyright or legal concerns.
+
 ## The bottom line
 
 Fandango at Home is **the best no-subscription way to watch new movies legally**: rent or buy specific titles in 4K, with a surprisingly solid free ad-supported section on the side. For movie lovers who hate monthly commitments, it's the perfect complement to free services like Tubi.
