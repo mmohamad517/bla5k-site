@@ -53,6 +53,14 @@ const baseGraph = [
     name: 'bla5k',
     url: `${site}/`,
     logo: `${site}/icon-512.png`,
+    // E-E-A-T: name the founder/editor. Set the PERSON_NAME const below to
+    // your real name (or a named editor) and Google can attribute authorship.
+    founder: {
+      '@type': 'Person',
+      name: 'bla5k Editorial Team',
+      url: `${site}/about/`,
+      jobTitle: 'Editorial team',
+    },
   },
 ];
 const jsonLd = { '@context': 'https://schema.org', '@graph': [...baseGraph, ...schema] };
