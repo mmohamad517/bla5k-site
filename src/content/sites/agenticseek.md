@@ -219,4 +219,4 @@ It is not the easiest path — capable hardware and technical setup are real pre
 
 To keep discovering tools shaping the local and autonomous AI movement, explore our [Developer Tools](/category/developer/) and [AI Tools](/category/ai-tools/) categories, or browse the full [bla5k directory](/#directory).
 
-*Official resources: [agenticseek.tech](https://agenticseek.tech) and the [AgenticSeek GitHub repository](https://github.com/Fosowl/agenticSeek).*
+*Official resource: the [AgenticSeek GitHub repository](https://github.com/Fosowl/agenticSeek).*

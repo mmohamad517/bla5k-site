@@ -120,4 +120,4 @@ Facewow makes **the impossible feel simple**: a still photo becomes a living, mo
 
 For more AI image tools, explore [Aigazou](/tools/aigazou/), [Remini](/tools/remini/), and our [AI Tools directory](/category/ai-tools/).
 
-*Official resource: [Facewow](https://facewow.io/).*
+*Official resource: [Facewow](https://facewow.ai/).*

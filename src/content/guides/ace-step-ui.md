@@ -129,7 +129,7 @@ For developers who want full control over the ACE-Step UI setup:
 - A GPU with at least 4 GB of VRAM (12 GB recommended)
 
 **Steps:**
-1. Clone the ACE-Step UI repository: `git clone https://github.com/fspecii/ace-step-ui.git`
+1. Clone the ACE-Step UI repository: `git clone https://github.com/fspecii/ace-step-ui`
 2. Run the setup script (`setup.sh` or equivalent), which installs all Node.js and Python dependencies.
 3. The script downloads the ACE-Step 1.5 model weights (several gigabytes — the largest part of the install).
 4. Launch the application. The Express backend starts on port 3001, and the React frontend opens in your browser.

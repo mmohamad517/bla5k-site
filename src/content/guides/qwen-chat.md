@@ -219,7 +219,7 @@ In 2026, the AI landscape is genuinely global. Qwen is a reminder that innovatio
 ## Resources
 
 - **Official Website**: https://chat.qwen.ai/
-- **Alibaba Qwen**: https://www.qwen.ai/
+- **Alibaba Qwen**: https://chat.qwen.ai/
 - **API Documentation**: https://help.aliyun.com/zh/dashscope/
 - **Open-Source Models**: Available on Hugging Face
 

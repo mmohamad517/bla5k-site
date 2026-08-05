@@ -104,7 +104,7 @@ It's **not** for professional layer-based editing, fine manual control, or RAW p
 
 ## How to get started with PxBee
 
-1. **Open pxbee.com**.
+1. **Open www.pxbee.com**.
 2. **Upload a photo** — start with one that needs improvement.
 3. **Try the enhance tool** — see the one-click difference.
 4. **Test object removal** — erase something unwanted.
@@ -118,4 +118,4 @@ PxBee delivers **professional-looking photo edits with one click** — AI tools 
 
 For more image tools, explore [MyEdit](/tools/myedit/), [EzRemove.ai](/tools/ezremove/), and our [AI Tools directory](/category/ai-tools/).
 
-*Official resource: [PxBee](https://pxbee.com/).*
+*Official resource: [PxBee](https://www.pxbee.com/).*

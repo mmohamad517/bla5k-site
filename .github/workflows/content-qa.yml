@@ -27,3 +27,5 @@ jobs:
           node-version: 22
       - name: Run content QA bot
         run: node scripts/content-qa.mjs
+      - name: Check all links (internal + external)
+        run: node scripts/link-check.mjs

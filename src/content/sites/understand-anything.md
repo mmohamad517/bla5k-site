@@ -192,4 +192,4 @@ Understand Anything represents a significant leap forward in developer productiv
 
 The combination of open-source availability, no licensing costs, local deployment, and seamless IDE integration makes it an accessible tool for teams of any size.
 
-*Official resources: [Website](https://understand-anything.com) and [GitHub](https://github.com/understand-anything)*
+*Official resources: [Website](https://understand-anything.com) and [GitHub](https://github.com/Egonex-AI/Understand-Anything)*

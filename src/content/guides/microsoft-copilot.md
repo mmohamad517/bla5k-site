@@ -292,7 +292,7 @@ In 2026, the smartest move is to use Copilot for Microsoft work and ChatGPT for 
 - **Microsoft Copilot FAQ**: https://support.microsoft.com/en-us/microsoft-copilot/
 - **Privacy FAQ**: https://support.microsoft.com/en-us/microsoft-copilot/privacy-faq-for-microsoft-copilot
 - **Microsoft 365 Copilot Docs**: https://learn.microsoft.com/en-us/microsoft-365/copilot/
-- **Pricing**: https://www.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-pro
+- **Pricing**: https://www.microsoft.com/en-us/microsoft-365-copilot/pricing
 
 ---
 

@@ -29,6 +29,8 @@ jobs:
           node-version: 22
       - name: Run content QA bot
         run: node scripts/content-qa.mjs > qa-report.md || true
+      - name: Check all links (internal + external)
+        run: node scripts/link-check.mjs >> qa-report.md || true
       - name: Open or update the publish request (with report inside)
         run: |
           if [ -z "$(git rev-list origin/main..HEAD 2>/dev/null)" ]; then
