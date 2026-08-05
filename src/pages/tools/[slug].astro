@@ -88,14 +88,16 @@ const schema = [
         <header class="tool-head glass">
           <div class="th-main">
             {cat && <a class="th-cat" href={`/category/${cat.slug}/`}>{cat.icon} {cat.name}{sub && ` · ${sub.name}`}</a>}
-            <h1 class="th-name">{d.name}{d.featured && <span class="pick" title="Editor’s pick">★</span>}</h1>
+            <h1 class="th-name">{d.name}{d.sponsored
+              ? <span class="spons" title="Paid placement">Sponsored</span>
+              : d.featured && <span class="pick" title="Editor’s pick">★</span>}</h1>
             <p class="th-tag">{d.tagline}</p>
             {words > 400 && <p class="th-read">{readingTime} min read · updated {(d.updated ?? new Date()).toLocaleDateString('en-US', { month: 'short', year: 'numeric' })}</p>}
             {d.tags.length > 0 && (
               <ul class="th-tags" role="list">{d.tags.map((t) => <li>#{t}</li>)}</ul>
             )}
           </div>
-          <a class="th-visit btn btn-primary" href={d.url} target="_blank" rel={outboundRel(d.url, d.affiliate)}>
+          <a class="th-visit btn btn-primary" href={d.url} target="_blank" rel={outboundRel(d.url, d.affiliate, d.sponsored)}>
             Visit {d.name}
             <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
           </a>
@@ -146,7 +148,7 @@ const schema = [
           <Content />
         </div>
 
-        <a class="cta-visit btn btn-ghost" href={d.url} target="_blank" rel={outboundRel(d.url, d.affiliate)}>
+        <a class="cta-visit btn btn-ghost" href={d.url} target="_blank" rel={outboundRel(d.url, d.affiliate, d.sponsored)}>
           Open {d.name} in a new tab ↗
         </a>
 
@@ -195,6 +197,11 @@ const schema = [
   .th-cat { font-family: var(--font-head); font-weight: 600; font-size: 0.85rem; color: var(--cyan-soft); }
   .th-name { font-size: clamp(1.8rem, 1.3rem + 3vw, 2.7rem); margin-top: 0.5rem; display: inline-flex; align-items: center; gap: 0.4rem; }
   .pick { color: var(--orange); font-size: 0.7em; }
+  .spons {
+    font-family: var(--font-body); font-weight: 700; font-size: 0.68rem; letter-spacing: 0.08em; text-transform: uppercase;
+    color: var(--orange); background: rgba(255,159,67,.1); border: 1px solid rgba(255,159,67,.45);
+    border-radius: 999px; padding: 0.18rem 0.65rem; line-height: 1.2;
+  }
   .th-tag { color: var(--text-dim); font-size: 1.1rem; margin-top: 0.5rem; }
   .th-read { color: var(--text-faint); font-size: 0.85rem; margin-top: 0.5rem; }
   .th-tags { list-style: none; display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 0.9rem; }

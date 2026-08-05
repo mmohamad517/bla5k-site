@@ -72,11 +72,13 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
                       <div class="site-main">
                         <a class="site-title" href={`/tools/${site.id}/`}>
                           {site.data.name}
-                          {site.data.featured && <span class="pick" title="Editor’s pick">★</span>}
+                          {site.data.sponsored
+                            ? <span class="spons" title="Paid placement">Sponsored</span>
+                            : site.data.featured && <span class="pick" title="Editor’s pick">★</span>}
                         </a>
                         <p class="site-tag">{site.data.tagline}</p>
                       </div>
-                      <a class="site-visit" href={site.data.url} target="_blank" rel={outboundRel(site.data.url, site.data.affiliate)} aria-label={`Visit ${site.data.name}`}>
+                      <a class="site-visit" href={site.data.url} target="_blank" rel={outboundRel(site.data.url, site.data.affiliate, site.data.sponsored)} aria-label={`Visit ${site.data.name}`}>
                         Visit
                         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
                       </a>
@@ -158,6 +160,11 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
   .site-title { font-family: var(--font-head); font-weight: 600; font-size: 1rem; color: var(--text); display: inline-flex; align-items: center; gap: 0.35rem; }
   .site-title:hover { color: var(--cyan-soft); }
   .pick { color: var(--orange); font-size: 0.8rem; }
+  .spons {
+    font-family: var(--font-body); font-weight: 700; font-size: 0.62rem; letter-spacing: 0.08em; text-transform: uppercase;
+    color: var(--orange); background: rgba(255,159,67,.1); border: 1px solid rgba(255,159,67,.45);
+    border-radius: 999px; padding: 0.12rem 0.5rem; line-height: 1.2;
+  }
   .site-tag { color: var(--text-dim); font-size: 0.86rem; margin-top: 0.15rem; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
   .site-visit {
     flex: none; display: inline-flex; align-items: center; gap: 0.3rem;

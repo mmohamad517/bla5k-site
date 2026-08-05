@@ -72,12 +72,14 @@ const schema = [
               {sites.map((s) => (
                 <li class="card glass">
                   <div class="card-head">
-                    <a class="card-name" href={`/tools/${s.id}/`}>{s.data.name}{s.data.featured && <span class="pick" title="Editor’s pick">★</span>}</a>
+                    <a class="card-name" href={`/tools/${s.id}/`}>{s.data.name}{s.data.sponsored
+                      ? <span class="spons" title="Paid placement">Sponsored</span>
+                      : s.data.featured && <span class="pick" title="Editor’s pick">★</span>}</a>
                   </div>
                   <p class="card-tag">{s.data.tagline}</p>
                   <div class="card-foot">
                     <a class="more" href={`/tools/${s.id}/`}>Read more</a>
-                    <a class="visit" href={s.data.url} target="_blank" rel={outboundRel(s.data.url, s.data.affiliate)}>Visit ↗</a>
+                    <a class="visit" href={s.data.url} target="_blank" rel={outboundRel(s.data.url, s.data.affiliate, s.data.sponsored)}>Visit ↗</a>
                   </div>
                 </li>
               ))}
@@ -109,6 +111,11 @@ const schema = [
   .card-name { font-family: var(--font-head); font-weight: 700; font-size: 1.15rem; display: inline-flex; align-items: center; gap: 0.35rem; }
   .card-name:hover { color: var(--cyan-soft); }
   .pick { color: var(--orange); font-size: 0.85rem; }
+  .spons {
+    font-family: var(--font-body); font-weight: 700; font-size: 0.62rem; letter-spacing: 0.08em; text-transform: uppercase;
+    color: var(--orange); background: rgba(255,159,67,.1); border: 1px solid rgba(255,159,67,.45);
+    border-radius: 999px; padding: 0.14rem 0.55rem; line-height: 1.2;
+  }
   .card-tag { color: var(--text-dim); font-size: 0.92rem; margin-top: 0.4rem; flex: 1; }
   .card-foot { display: flex; align-items: center; justify-content: space-between; margin-top: 1rem; }
   .more { font-family: var(--font-head); font-weight: 600; font-size: 0.88rem; color: var(--text); }

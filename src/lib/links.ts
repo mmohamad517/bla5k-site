@@ -41,11 +41,11 @@ export function isAffiliate(url: string, explicit?: boolean): boolean {
 
 /**
  * Build the correct rel attribute for an outbound link.
- * Affiliate/paid -> rel="sponsored" (Google-required, invisible to visitors).
+ * Paid placement (sponsored) or affiliate -> rel="sponsored" (Google-required).
  * Editorial links stay follow but keep noopener/noreferrer.
  */
-export function outboundRel(url: string, explicit?: boolean): string {
-  return isAffiliate(url, explicit)
+export function outboundRel(url: string, explicit?: boolean, sponsored = false): string {
+  return sponsored || isAffiliate(url, explicit)
     ? 'sponsored nofollow noopener noreferrer'
     : 'noopener noreferrer';
 }

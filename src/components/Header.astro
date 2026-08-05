@@ -1,4 +1,12 @@
 ---
+import { getCollection } from 'astro:content';
+import { outboundRel } from '../lib/links';
+
+// Paid placements sold via the Advertise page. Only renders when a site has
+// `sponsored: true` in its frontmatter; each card is clearly labeled
+// "Sponsored" and its link carries rel="sponsored" (Google paid-link policy).
+const sponsoredSites = (await getCollection('sites')).filter((s) => s.data.sponsored);
+const showCarousel = sponsoredSites.length > 0;
 ---
 <header class="site-header">
   <div class="container bar">
@@ -18,6 +26,20 @@
       <a href="/#directory" class="btn btn-ghost nav-cta">Search</a>
     </nav>
   </div>
+
+  {showCarousel && (
+    <div class="container spons-bar" role="region" aria-label="Sponsored tools">
+      <span class="spons-label">Sponsored</span>
+      <div class="spons-track">
+        {sponsoredSites.map((s) => (
+          <a class="spons-card" href={s.data.url} target="_blank" rel={outboundRel(s.data.url, s.data.affiliate, true)}>
+            <span class="sc-name">{s.data.name}</span>
+            <span class="sc-tag">{s.data.tagline}</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  )}
 </header>
 
 <style>
@@ -107,11 +129,38 @@
   .nav a:hover { color: var(--text); }
   .nav-cta { padding: 0.45rem 1.05rem; font-size: 0.9rem; }
   .nav-cta:hover { color: var(--text); }
+  /* Paid placements carousel (only renders when sponsored sites exist) */
+  .spons-bar {
+    display: flex; align-items: center; gap: 0.7rem;
+    padding-block: 0.45rem; border-top: 1px solid rgba(255,159,67,.18);
+  }
+  .spons-label {
+    flex: none; font-family: var(--font-head); font-weight: 800; font-size: 0.62rem;
+    letter-spacing: 0.1em; text-transform: uppercase; color: var(--orange);
+    background: rgba(255,159,67,.1); border: 1px solid rgba(255,159,67,.4);
+    border-radius: 999px; padding: 0.22rem 0.6rem; line-height: 1;
+  }
+  .spons-track {
+    display: flex; gap: 0.6rem; overflow-x: auto; scrollbar-width: none;
+    -webkit-overflow-scrolling: touch; padding-block: 0.15rem;
+  }
+  .spons-track::-webkit-scrollbar { display: none; }
+  .spons-card {
+    flex: none; display: flex; align-items: baseline; gap: 0.45rem;
+    max-width: 280px; padding: 0.28rem 0.7rem; border-radius: 999px;
+    background: rgba(255,159,67,.06); border: 1px solid rgba(255,159,67,.28);
+    text-decoration: none; transition: background .2s, border-color .2s, transform .2s;
+  }
+  .spons-card:hover { background: rgba(255,159,67,.12); border-color: rgba(255,159,67,.55); transform: translateY(-1px); }
+  .sc-name { font-family: var(--font-head); font-weight: 700; font-size: 0.82rem; color: var(--text); white-space: nowrap; }
+  .sc-tag { font-size: 0.78rem; color: var(--text-dim); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
   @media (max-width: 520px) {
     .nav a:not(.nav-cta) { display: none; }
     .product-glow { padding: 0.28rem 0.6rem 0.28rem 0.5rem; gap: 0.4rem; }
     .p-pro { font-size: 1rem; }
     .p-name { font-size: 0.44rem; }
+    .spons-card { max-width: 220px; }
   }
   @media (max-width: 380px) {
     .bar-left { gap: 0.5rem; }

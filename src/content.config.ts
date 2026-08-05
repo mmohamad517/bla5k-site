@@ -17,6 +17,10 @@ const sites = defineCollection({
     tagline: z.string(),               // one-line summary (shown on cards/rows)
     tags: z.array(z.string()).default([]),
     featured: z.boolean().default(false),
+    /** Paid placement (advertised listing/featured slot). Renders a visible
+     *  "Sponsored" badge and forces rel="sponsored" on the outbound link,
+     *  per Google's paid-link policy — never shown as an editorial pick. */
+    sponsored: z.boolean().default(false),
     /** Optional override. Leave unset for auto-detection from the URL.
      *  true  -> force rel="sponsored"; false -> force a normal follow link. */
     affiliate: z.boolean().optional(),
