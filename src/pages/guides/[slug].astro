@@ -2,6 +2,7 @@
 import Layout from '../../layouts/Layout.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
+import AdSlot from '../../components/AdSlot.astro';
 import { getCollection, render } from 'astro:content';
 import { categoryBySlug } from '../../data/categories';
 
@@ -91,6 +92,9 @@ const schema = [
             <Content />
           </div>
         </div>
+
+        {/* AdSense slot — replace "0000000000" with a real data-ad-slot from your AdSense ad unit before enabling PUBLIC_ADSENSE_CLIENT */}
+        <AdSlot slot="0000000000" className="ad-in-content" />
 
         <p class="back"><a href="/guides/">← All guides</a></p>
       </div>

@@ -29,8 +29,10 @@ const ogImage = image.startsWith('http') ? image : `${site}${image}`;
 // and the beacon is injected on every page. Leave unset → zero impact.
 const cfAnalyticsToken = import.meta.env.PUBLIC_CF_WEB_ANALYTICS_TOKEN;
 // Google Analytics 4 — set PUBLIC_GA4_ID (format G-XXXXXXXXXX) to enable.
-// Both analytics load ONLY after the visitor accepts cookies (GDPR).
+// Google AdSense — set PUBLIC_ADSENSE_CLIENT (format ca-pub-XXXXXXXXXXXX) to
+// enable. Both load ONLY after the visitor accepts cookies (GDPR/ePrivacy).
 const ga4Id = import.meta.env.PUBLIC_GA4_ID;
+const adsenseClient = import.meta.env.PUBLIC_ADSENSE_CLIENT;
 
 const baseGraph = [
   {
@@ -107,16 +109,17 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': [...baseGraph, ...s
     <link rel="alternate" type="text/plain" href="/llms.txt" title="llms.txt — AI-readable site summary" />
     <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 
-    {(cfAnalyticsToken || ga4Id) && (
-      <script is:inline type="module" id="analytics-gate" data-cf-token={cfAnalyticsToken} data-ga4-id={ga4Id}>
-        // Analytics — Cloudflare (cookieless) + Google Analytics 4, gated
-        // on GDPR consent. Load only after the visitor accepts; re-evaluate
-        // if they change their choice later.
+    {(cfAnalyticsToken || ga4Id || adsenseClient) && (
+      <script is:inline type="module" id="analytics-gate" data-cf-token={cfAnalyticsToken} data-ga4-id={ga4Id} data-adsense-client={adsenseClient}>
+        // Analytics (Cloudflare + GA4) & Google AdSense — all gated on GDPR
+        // consent. Load ONLY after the visitor accepts; re-evaluate if they
+        // change their choice later. Nothing loads on first visit.
         // NOTE: document.currentScript is null in module scripts, so config
         // is read via getElementById instead.
         const cfg = document.getElementById('analytics-gate');
         const CF_TOKEN = cfg.getAttribute('data-cf-token');
         const GA4_ID = cfg.getAttribute('data-ga4-id');
+        const ADSENSE = cfg.getAttribute('data-adsense-client');
         const KEY = 'bla5k-cookie-consent', VER = '1';
         const choice = () => {
           try {
@@ -143,6 +146,17 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': [...baseGraph, ...s
             const inline = document.createElement('script');
             inline.textContent = 'window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config",' + JSON.stringify(GA4_ID) + ');';
             document.head.appendChild(inline);
+          }
+          // Google AdSense loader — only after consent. Slots (AdSlot
+          // component) render inert <ins> tags that only fill once this
+          // loader is present and each slot is pushed to window.adsbygoogle.
+          if (ADSENSE && !document.querySelector('script[data-adsense-loader]')) {
+            const a = document.createElement('script');
+            a.async = true;
+            a.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=' + ADSENSE;
+            a.setAttribute('data-adsense-loader', '1');
+            a.setAttribute('crossorigin', 'anonymous');
+            document.head.appendChild(a);
           }
         };
         if (choice() === 'accept') inject();
