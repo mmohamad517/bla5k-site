@@ -262,6 +262,7 @@ ACE-Step UI is part of a rapidly growing open-source ecosystem:
 - **ACE-Step 1.5 XL** — A larger variant with a 4-billion-parameter DiT decoder (released April 2026) for even higher audio quality.
 - **Community LoRAs** — Train lightweight adapters from just a few songs to capture a specific style or voice. The community shares LoRAs so the model can learn new sounds.
 - **ComfyUI integration** — ACE-Step 1.5 is available as a ComfyUI node, letting you build AI music into complex workflows alongside image and video generation.
+- **Step-Audio** — From the same StepFun lab, a family of open-source speech AI models for voice generation and editing (separate from music generation).
 - **Alternative frontends** — Beyond fspecii's ACE-Step UI, other community interfaces exist, including ace-step-ui-2.0 by AmariLuigi with additional features.
 
 This ecosystem means ACE-Step is a platform, not just a product. Every improvement to the underlying model benefits ACE-Step UI automatically, and community contributions make the whole system more capable.
