@@ -113,7 +113,7 @@ People who only edit images now and then get a capable tool without a recurring 
 
 ## PhotoGIMP vs. the alternatives
 
-Compared with paying for Photoshop, PhotoGIMP plus GIMP is free — the trade-off is that you accept GIMP's capabilities rather than Adobe's. Compared with plain GIMP, PhotoGIMP is strictly a usability improvement for Photoshop refugees: same power, far friendlier layout. Other free editors exist (such as Krita for painting or Photopea in the browser), but none offer the specific "make GIMP feel like Photoshop" transformation that is PhotoGIMP's entire purpose.
+Compared with paying for Photoshop, PhotoGIMP plus GIMP is free — the trade-off is that you accept GIMP's capabilities rather than Adobe's. Compared with plain GIMP, PhotoGIMP is strictly a usability improvement for Photoshop refugees: same power, far friendlier layout. Other free editors exist (such as Krita for painting or Photopea in the browser), but none offer the specific "make GIMP feel like Photoshop" transformation that is PhotoGIMP's entire purpose. For the full price-versus-power breakdown — including Photoshop's AI features and Camera Raw — read our [PhotoGIMP vs Photoshop comparison](/guides/photogimp-vs-photoshop/).
 
 ## Is PhotoGIMP right for you?
 

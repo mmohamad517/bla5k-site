@@ -93,7 +93,7 @@ PhotoPea is **actively maintained**, with frequent feature additions tracking pr
 | Interface | Like Photoshop | Unique (steep) | Photoshop |
 | Best for | Quick, free PSD work | Full offline editor | Professionals |
 
-**PhotoPea wins on accessibility** — zero setup and native PSD handling. **GIMP** is a full offline editor with a steeper learning curve. **Photoshop** remains the professional standard for advanced workflows, plugins, and support. For most free editing needs, PhotoPea is unbeatable.
+**PhotoPea wins on accessibility** — zero setup and native PSD handling. **GIMP** (and its Photoshop-look patch [PhotoGIMP](/tools/photogimp/)) is a full offline editor with a steeper learning curve. **Photoshop** remains the professional standard for advanced workflows, plugins, and support. For the full price-versus-power breakdown, read our [PhotoGIMP vs Photoshop comparison](/guides/photogimp-vs-photoshop/). For most free editing needs, PhotoPea is unbeatable.
 
 ## Who is PhotoPea for?
 
