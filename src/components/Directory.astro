@@ -112,10 +112,18 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
 
   /* ---- Accordion (mobile-first) ---- */
   .directory { display: grid; gap: 0.8rem; margin-top: 1rem; }
+  /* content-visibility skips layout/paint for off-screen categories — big
+     Speed Index win on the 150+ card homepage. contain-intrinsic-size
+     reserves space so scrolling stays smooth (no layout jumps). */
   .cat {
     background: var(--glass-bg); border: 1px solid var(--glass-border);
     border-radius: var(--radius); overflow: hidden;
     backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+    content-visibility: auto;
+    contain-intrinsic-size: auto 58px;
+  }
+  @media (min-width: 720px) {
+    .cat { contain-intrinsic-size: auto 66px; }
   }
   .cat[open] { border-color: var(--glass-border-strong); box-shadow: 0 0 26px -10px rgba(0,240,255,.35); }
 
