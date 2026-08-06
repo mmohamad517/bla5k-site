@@ -3,6 +3,11 @@
  * (src/content/sites/*.md + src/content/guides/*.md) so it never drifts
  * out of sync with the directory.
  *
+ * Follows the official llmstxt.org spec (Google's agentic-browsing audit
+ * checks this): H1 = bare site name, summary blockquote, and every link
+ * as markdown `- [Title](URL): description` (NOT bare URLs — validators
+ * count 0 links if URLs aren't markdown links).
+ *
  * Usage: node scripts/generate-llms.mjs
  * (llms.txt is the plain-text site summary AI engines read first.)
  */
@@ -55,47 +60,46 @@ const guides = readdirSync(GUIDES)
   .filter((g) => g.title);
 
 const lines = [];
-lines.push('# bla5k — Best AI Tools Directory 2026');
+lines.push('# bla5k');
 lines.push('');
-lines.push('> bla5k is a curated, human-reviewed directory of the best AI tools, apps and');
-lines.push('> communities. Every tool has an in-depth review: what it does, pricing, free');
-lines.push('> tiers, pros/cons, comparison tables, FAQs and plain-language explainers.');
-lines.push('> We cover AI chat, coding, design, video & audio, education, writing, agents');
-lines.push('> and no-code builders. Updated weekly. Unbiased — affiliate links disclosed.');
+lines.push('> bla5k is a curated, human-reviewed directory of the best AI tools, apps and communities. Every tool has an in-depth review: what it does, pricing, free tiers, pros/cons, comparison tables, FAQs and plain-language explainers. We cover AI chat, coding, design, video & audio, education, writing, agents and no-code builders. Updated weekly. Unbiased — affiliate links disclosed.');
 lines.push('');
 lines.push('## Key pages');
 lines.push('');
-lines.push('- Home (full directory): https://bla5k.com/');
-lines.push('- In-depth guides: https://bla5k.com/guides/');
-lines.push('- About: https://bla5k.com/about/');
+lines.push('- [Home (full directory)](https://bla5k.com/): browse every listed AI tool, app and community');
+lines.push('- [In-depth guides](https://bla5k.com/guides/): complete tutorials, comparisons and how-to articles');
+lines.push('- [About bla5k](https://bla5k.com/about/): who we are, our review process and editorial policy');
+lines.push('- [FAQ](https://bla5k.com/faq/): frequently asked questions about the directory');
+lines.push('- [Contact](https://bla5k.com/contact/): reach the bla5k team');
 lines.push('');
 lines.push(`## Top ${top30.length} tools (curated)`);
 lines.push('');
 for (const t of top30) {
   const tagline = t.tagline ? t.tagline.replace(/["']/g, '') : 'AI tool reviewed by bla5k';
-  lines.push(`- ${t.name}: https://bla5k.com/tools/${t.slug}/ — ${tagline}`);
+  lines.push(`- [${t.name}](https://bla5k.com/tools/${t.slug}/): ${tagline}`);
 }
 lines.push('');
 lines.push('## Guides (all)');
 lines.push('');
 for (const g of guides) {
   const desc = g.description ? g.description.replace(/["']/g, '') : 'In-depth guide by bla5k';
-  lines.push(`- ${g.title}: https://bla5k.com/guides/${g.slug}/ — ${desc}`);
+  lines.push(`- [${g.title}](https://bla5k.com/guides/${g.slug}/): ${desc}`);
 }
 lines.push('');
 lines.push('## What makes bla5k useful');
 lines.push('');
-lines.push('- Plain-language explainers: "What is this tool?" answered in the first 100 words');
-lines.push('- Honest pros/cons and free-tier details for every tool');
-lines.push('- Comparison tables and FAQ sections formatted for direct answers');
-lines.push('- Policy-complete, ads-ready site: Privacy, Terms, Cookie (GDPR consent),');
-lines.push('  DMCA, Disclosure and Acceptable Use policies all published');
+lines.push('- Plain-language explainers: "What is this tool?" answered in the first 100 words.');
+lines.push('- Honest pros/cons and free-tier details for every tool.');
+lines.push('- Comparison tables and FAQ sections formatted for direct answers.');
+lines.push('- Policy-complete, ads-ready site: Privacy, Terms, Cookie (GDPR consent), DMCA, Disclosure and Acceptable Use policies all published.');
 lines.push('');
 lines.push('## Contact');
 lines.push('');
-lines.push('- Contact page: https://bla5k.com/contact/');
-lines.push('- Legal: https://bla5k.com/privacy/ · https://bla5k.com/terms/ · https://bla5k.com/cookie-policy/');
+lines.push('- [Contact page](https://bla5k.com/contact/): reach the bla5k team.');
+lines.push('- [Privacy Policy](https://bla5k.com/privacy/): how we handle your data.');
+lines.push('- [Terms of Use](https://bla5k.com/terms/): the rules for using bla5k.');
+lines.push('- [Cookie Policy](https://bla5k.com/cookie-policy/): our GDPR cookie consent policy.');
 lines.push('');
 
-writeFileSync(OUT, lines.join('\n'));
+writeFileSync(OUT, lines.join('\n') + '\n');
 console.log(`✅ llms.txt written: ${top30.length} tools + ${guides.length} guides → ${OUT}`);
