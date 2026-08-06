@@ -10,7 +10,9 @@
     "astro": "astro",
     "qa": "node scripts/content-qa.mjs",
     "links": "node scripts/link-check.mjs",
-    "links:internal": "node scripts/link-check.mjs --internal"
+    "links:internal": "node scripts/link-check.mjs --internal",
+    "indexnow": "node scripts/indexnow.mjs",
+    "indexnow:dry": "node scripts/indexnow.mjs --dry-run"
   },
   "dependencies": {
     "astro": "^5.6.1",
