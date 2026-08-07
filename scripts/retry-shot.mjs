@@ -46,6 +46,22 @@ async function shoot(slug, url, budget) {
   return existsSync(png) ? png : null;
 }
 
+function analyze(png) {
+  const py = `
+from PIL import Image
+import sys
+im = Image.open(sys.argv[1]).convert('RGB')
+im2 = im.resize((64, 40)); px = list(im2.getdata()); n = len(px)
+white = sum(1 for r,g,b in px if r>235 and g>235 and b>235)/n
+colors = len(set(px))
+print(f'{white:.3f}|{colors}')`;
+  const r = spawnSync('python', ['-c', py, png], { windowsHide: true });
+  if (r.status !== 0) return null;
+  const [white, colors] = String(r.stdout).trim().split('|').map(Number);
+  return { white, colors };
+}
+function isBad(m) { return m && (m.white > 0.9 || m.colors < 6); }
+
 function toJpeg(png, slug) {
   const py = `
 from PIL import Image
@@ -86,6 +102,8 @@ for (const slug of slugs) {
     if (got) break;
   }
   if (!got) { console.log(`❌ ${slug} no-file (all variants)`); continue; }
+  const meta = analyze(got);
+  if (!meta || isBad(meta)) { console.log(`❌ ${slug} block-page (white=${meta ? (meta.white*100).toFixed(0) : '?'}%)`); try { rmSync(got, { force: true }); } catch {} continue; }
   if (toJpeg(got, slug)) {
     ok++;
     console.log(`✅ ${slug}`);

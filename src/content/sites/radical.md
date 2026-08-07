@@ -44,7 +44,7 @@ Most 3D workflows used to demand expensive software, hours of manual modeling, a
 
 Radical is a web-based 3D content creation platform that allows users to design, animate, and collaborate in real-time with AI tools, featuring markerless motion capture, integration with major software, and a library of 3D assets.
 
-In short, RADiCAL is a 3D modeling tool built around one clear promise: take your input — a text prompt, a photo, a sketch, or even a video — and return a usable 3D result without the manual modeling grind. For many users that single capability is enough to replace several steps in their current workflow.
+RADiCAL was acquired by Autodesk and is now sold as **Autodesk Flow Studio** — the same tool, under a new name. In short, RADiCAL is a 3D modeling tool built around one clear promise: take your input — a text prompt, a photo, a sketch, or even a video — and return a usable 3D result without the manual modeling grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 
