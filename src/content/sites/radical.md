@@ -1,6 +1,6 @@
 ---
 name: RADiCAL
-url: "https://www.radicalmotion.com"
+url: "https://www.autodesk.com/products/flow-studio/"
 image: /logos/radical.png
 screenshot: /screens/radical.jpg
 subcategory: design-3d
@@ -89,4 +89,4 @@ RADiCAL targets a real pain point in 3D modeling — turning a prompt or image i
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own files is what matters.
 
-*Official resource: [RADiCAL](https://www.radicalmotion.com)*
+*Official resource: [Autodesk Flow Studio](https://www.autodesk.com/products/flow-studio/) (formerly RADiCAL)*
