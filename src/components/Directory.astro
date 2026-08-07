@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import { categories, subcategoriesOf, SHOW_EMPTY_CATEGORIES } from '../data/categories';
 import { outboundRel } from '../lib/links';
+import { toolDate } from '../lib/content-dates';
 
 const allSites = await getCollection('sites');
 
@@ -45,6 +46,14 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
              placeholder="Search tools, sites, forums…" aria-label="Search the directory" />
       <button id="dir-clear" type="button" aria-label="Clear search" hidden>&times;</button>
     </div>
+
+    <!-- Sort control (progressive: hidden until JS is available) -->
+    <div class="sort-bar" role="group" aria-label="Sort tools">
+      <span class="sort-label">Sort</span>
+      <button type="button" class="sort-btn" data-sort="newest" aria-pressed="false">Newest</button>
+      <button type="button" class="sort-btn" data-sort="featured" aria-pressed="false">Featured</button>
+      <button type="button" class="sort-btn" data-sort="az" aria-pressed="false">A–Z</button>
+    </div>
     <p class="search-status" id="dir-status" role="status" aria-live="polite" hidden></p>
 
     <div class="directory" id="dir-list">
@@ -68,7 +77,13 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
                 </summary>
                 <ul class="sites" role="list">
                   {sites.map((site) => (
-                    <li class="site-row" data-search={`${site.data.name} ${site.data.tagline} ${site.data.tags.join(' ')} ${cat.name} ${sub.name}`.toLowerCase()}>
+                    <li
+                      class="site-row"
+                      data-search={`${site.data.name} ${site.data.tagline} ${site.data.tags.join(' ')} ${cat.name} ${sub.name}`.toLowerCase()}
+                      data-name={site.data.name.toLowerCase()}
+                      data-date={toolDate(site).getTime()}
+                      data-feat={site.data.featured ? '1' : '0'}
+                    >
                       <div class="site-main">
                         <a class="site-title" href={`/tools/${site.id}/`}>
                           {site.data.name}
@@ -109,6 +124,27 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
   #dir-search::placeholder { color: var(--text-faint); }
   #dir-clear { background: none; border: none; color: var(--text-dim); font-size: 1.4rem; line-height: 1; cursor: pointer; padding: 0 0.3rem; }
   .search-status { color: var(--text-faint); font-size: 0.85rem; margin: 0.4rem 0.2rem 0.8rem; }
+
+  /* ---- Sort (progressive — visible only with JS) ---- */
+  .sort-bar { display: none; align-items: center; gap: 0.4rem; flex-wrap: wrap; margin: 0.35rem 0.1rem 0.9rem; }
+  html.js .sort-bar { display: flex; }
+  .sort-label {
+    font-size: 0.72rem; font-weight: 700; letter-spacing: 0.09em; text-transform: uppercase;
+    color: var(--text-faint); margin-right: 0.15rem;
+  }
+  .sort-btn {
+    font-family: var(--font-head); font-size: 0.8rem; font-weight: 600;
+    color: var(--text-dim); background: rgba(18,22,41,.55);
+    border: 1px solid var(--glass-border); border-radius: 999px;
+    padding: 0.32rem 0.8rem; cursor: pointer;
+    transition: color .2s, border-color .2s, background .2s, box-shadow .2s;
+  }
+  .sort-btn:hover { color: var(--cyan-soft); border-color: var(--glass-border-strong); }
+  .sort-btn[aria-pressed="true"] {
+    color: var(--cyan); background: rgba(0,240,255,.1); border-color: rgba(0,240,255,.5);
+    box-shadow: 0 0 14px -6px rgba(0,240,255,.6);
+  }
+  .sort-btn:focus-visible { outline: 2px solid var(--cyan); outline-offset: 2px; }
 
   /* ---- Accordion (mobile-first) ---- */
   .directory { display: grid; gap: 0.8rem; margin-top: 1rem; }
@@ -258,5 +294,40 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
       t = window.setTimeout(() => run(input.value), 90);
     });
     clearBtn?.addEventListener('click', () => { input.value = ''; run(''); input.focus(); });
+  }
+
+  // ── Sorting: newest / featured / A–Z (no libraries) ──
+  const sortBtns = Array.from(document.querySelectorAll<HTMLButtonElement>('.sort-btn'));
+  const SORT_KEY = 'bla5k-dir-sort';
+  let sortMode: string = 'featured';
+  try { sortMode = localStorage.getItem(SORT_KEY) ?? 'featured'; } catch {}
+  if (sortMode !== 'newest' && sortMode !== 'featured' && sortMode !== 'az') sortMode = 'featured';
+  if (sortBtns.length && list) {
+    const setPressed = () => sortBtns.forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.sort === sortMode)));
+    const sortAll = () => {
+      // Reorder the rows inside every subcategory (structure and open states stay).
+      list.querySelectorAll<HTMLUListElement>('ul.sites').forEach((ul) => {
+        const rows = Array.from(ul.children).filter(
+          (el): el is HTMLElement => el instanceof HTMLElement && el.classList.contains('site-row')
+        );
+        rows.sort((a, b) => {
+          if (sortMode === 'newest') return Number(b.dataset.date || 0) - Number(a.dataset.date || 0);
+          if (sortMode === 'az') return (a.dataset.name || '').localeCompare(b.dataset.name || '');
+          const f = Number(b.dataset.feat || 0) - Number(a.dataset.feat || 0);
+          return f !== 0 ? f : (a.dataset.name || '').localeCompare(b.dataset.name || '');
+        });
+        rows.forEach((r) => ul.appendChild(r));
+      });
+      setPressed();
+    };
+    sortBtns.forEach((b) =>
+      b.addEventListener('click', () => {
+        if (!b.dataset.sort) return;
+        sortMode = b.dataset.sort;
+        try { localStorage.setItem(SORT_KEY, sortMode); } catch {}
+        sortAll();
+      })
+    );
+    sortAll(); // apply a persisted choice on load
   }
 </script>
