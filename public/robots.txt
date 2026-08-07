@@ -48,6 +48,13 @@ Allow: /
 User-agent: meta-externalagent
 Allow: /
 
+# Brave Search (independent index — explicit allow protects against future
+# Cloudflare Managed robots updates that could otherwise block it)
+User-agent: Bravebot
+Allow: /
+User-agent: BraveBot
+Allow: /
+
 # Other major AI crawlers
 User-agent: cohere-ai
 Allow: /

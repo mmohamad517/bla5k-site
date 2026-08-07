@@ -17,6 +17,7 @@
   X-Robots-Tag: claudebot: index, follow
   X-Robots-Tag: claude-web: index, follow
   X-Robots-Tag: perplexitybot: index, follow
+  X-Robots-Tag: bravebot: index, follow
   X-Robots-Tag: google-extended: index, follow
   X-Robots-Tag: applebot-extended: index, follow
   X-Robots-Tag: meta-externalagent: index, follow
