@@ -1,17 +1,13 @@
-import { getCollection, type CollectionEntry } from 'astro:content';
-import { statSync } from 'node:fs';
+import { getCollection } from 'astro:content';
+import { toolDate, guideDate } from './content-dates';
 
 /**
  * RSS 2.0 feed generation for bla5k — shared by /rss.xml (combined),
  * /rss-tools.xml (tools only) and /rss-guides.xml (guides only).
- *
- * Dates are honest: guides use their published date; tools use their
- * `updated` frontmatter when set, falling back to the file's last-modified
- * time so every entry gets a real (not guessed) recency order.
+ * Dates come from the shared content-dates helpers (frontmatter or mtime).
  */
 
 const SITE = 'https://bla5k.com';
-const TOOLS_DIR = 'src/content/sites';
 
 /** Escape text for XML (element + attribute context). */
 function esc(value: string): string {
@@ -26,21 +22,6 @@ function esc(value: string): string {
 /** RFC-2822 date string, required by RSS readers for pubDate. */
 function rfc2822(d: Date): string {
   return d.toUTCString();
-}
-
-/** Best-known date for a tool entry. */
-function toolDate(tool: CollectionEntry<'sites'>): Date {
-  if (tool.data.updated) return new Date(tool.data.updated);
-  try {
-    return statSync(`${TOOLS_DIR}/${tool.id}.md`).mtime;
-  } catch {
-    return new Date();
-  }
-}
-
-/** Best-known date for a guide entry. */
-function guideDate(guide: CollectionEntry<'guides'>): Date {
-  return new Date(guide.data.updated ?? guide.data.published);
 }
 
 function item(title: string, link: string, date: Date, description: string, category?: string): string {

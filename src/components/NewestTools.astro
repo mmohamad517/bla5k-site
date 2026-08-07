@@ -1,0 +1,148 @@
+---
+// "Newest tools" homepage section — shows the 8 most recently added entries
+// with honest dates (frontmatter `updated` or file mtime, same logic as the
+// RSS feeds). Signals freshness to visitors and crawlers, and cross-links
+// to the RSS feed for follow-along readers.
+import { getCollection } from 'astro:content';
+import { toolDate } from '../lib/content-dates';
+import { subcategoryBySlug } from '../data/categories';
+
+const allSites = await getCollection('sites');
+
+const newest = allSites
+  .map((s) => ({ site: s, date: toolDate(s) }))
+  // Date desc, then name asc — deterministic even when many tools share a date.
+  .sort((a, b) => b.date.getTime() - a.date.getTime() || a.site.data.name.localeCompare(b.site.data.name))
+  .slice(0, 8);
+
+const fmt = new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+---
+
+<section class="newest section" id="newest-tools" aria-labelledby="newest-title">
+  <div class="container">
+    <div class="newest-head">
+      <span class="eyebrow"><span class="dot"></span> Fresh &amp; new</span>
+      <h2 class="section-title" id="newest-title">
+        The <span class="grad">newest tools</span> on bla5k
+      </h2>
+      <p class="section-lead">
+        Straight from the editorial queue — hand-picked, reviewed, and added to the directory.
+        Want new drops as they land? <a href="/rss.xml">Follow the RSS feed</a>.
+      </p>
+    </div>
+
+    <ul class="newest-grid" role="list">
+      {newest.map(({ site, date }) => {
+        const sub = subcategoryBySlug(site.data.subcategory);
+        return (
+          <li>
+            <a class="newest-card" href={`/tools/${site.id}/`}>
+              <span class="newest-top">
+                <h3 class="newest-name">
+                  {site.data.name}
+                  {site.data.sponsored
+                    ? <span class="spons" title="Paid placement">Sponsored</span>
+                    : site.data.featured && <span class="pick" title="Editor's pick">★</span>}
+                </h3>
+                <span class="newest-date" aria-label={`Added ${fmt.format(date)}`}>
+                  <svg width="13" height="13" viewBox="0 0 24 24" fill="none" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="3" stroke="currentColor" stroke-width="2"/><path d="M3 10h18M8 3v4M16 3v4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+                  {fmt.format(date)}
+                </span>
+              </span>
+              {sub?.name && <span class="newest-cat">{sub.name}</span>}
+              <p class="newest-tag">{site.data.tagline}</p>
+              <span class="newest-cta">
+                Read the review
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              </span>
+            </a>
+          </li>
+        );
+      })}
+    </ul>
+
+    <div class="newest-foot">
+      <a href="/rss.xml" class="btn btn-ghost" rel="alternate" type="application/rss+xml">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 11a9 9 0 0 1 9 9M4 4a16 16 0 0 1 16 16" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><circle cx="5" cy="19" r="1.6" fill="currentColor"/></svg>
+        Follow via RSS
+      </a>
+      <a href="#directory" class="newest-browse">Browse the full directory →</a>
+    </div>
+  </div>
+</section>
+
+<style>
+  .newest {
+    padding-block: clamp(1rem, 3vw, 1.75rem) clamp(0.5rem, 2vw, 1rem);
+  }
+  .newest-head { max-width: 720px; margin-bottom: 1.8rem; }
+  .newest-head .section-lead a { color: var(--cyan-soft); text-decoration: underline; text-underline-offset: 3px; }
+
+  .newest-grid {
+    list-style: none;
+    display: grid;
+    gap: 0.7rem;
+  }
+  .newest-card {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    height: 100%;
+    padding: 1.05rem 1.15rem;
+    border-radius: var(--radius);
+    background: var(--glass-bg);
+    border: 1px solid var(--glass-border);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    transition: transform .22s ease, border-color .22s ease, box-shadow .22s ease, background .22s ease;
+  }
+  .newest-card:hover {
+    transform: translateY(-3px);
+    border-color: var(--glass-border-strong);
+    background: rgba(30, 36, 66, 0.8);
+    box-shadow: 0 0 30px -12px rgba(0, 240, 255, 0.5);
+  }
+
+  .newest-top { display: flex; align-items: baseline; justify-content: space-between; gap: 0.6rem; flex-wrap: wrap; }
+  .newest-name { font-family: var(--font-head); font-weight: 700; font-size: 1.12rem; color: var(--text); margin: 0; display: inline-flex; align-items: center; gap: 0.4rem; }
+  .newest-card:hover .newest-name { color: var(--cyan-soft); }
+  .pick { color: var(--orange); font-size: 0.85rem; }
+  .spons {
+    font-family: var(--font-body); font-weight: 700; font-size: 0.6rem; letter-spacing: 0.08em; text-transform: uppercase;
+    color: var(--orange); background: rgba(255,159,67,.1); border: 1px solid rgba(255,159,67,.45);
+    border-radius: 999px; padding: 0.1rem 0.45rem; line-height: 1.2;
+  }
+  .newest-date {
+    display: inline-flex; align-items: center; gap: 0.35rem;
+    font-size: 0.74rem; color: var(--text-faint); white-space: nowrap;
+  }
+  .newest-cat {
+    align-self: flex-start;
+    font-size: 0.68rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase;
+    color: var(--cyan-soft); background: rgba(0,240,255,.07);
+    border: 1px solid var(--glass-border); border-radius: 999px; padding: 0.15rem 0.6rem;
+  }
+  .newest-tag { color: var(--text-dim); font-size: 0.94rem; margin: 0.15rem 0 0.3rem; }
+  .newest-cta {
+    display: inline-flex; align-items: center; gap: 0.35rem;
+    font-family: var(--font-head); font-weight: 600; font-size: 0.82rem;
+    color: var(--cyan-soft); margin-top: auto; padding-top: 0.3rem;
+  }
+  .newest-cta svg { transition: transform .2s ease; }
+  .newest-card:hover .newest-cta svg { transform: translateX(3px); }
+
+  .newest-foot {
+    display: flex; align-items: center; justify-content: space-between;
+    gap: 1rem; flex-wrap: wrap; margin-top: 1.6rem;
+  }
+  .newest-foot .btn { display: inline-flex; }
+  .newest-browse { color: var(--text-dim); font-size: 0.92rem; }
+  .newest-browse:hover { color: var(--cyan-soft); }
+
+  @media (min-width: 720px) {
+    .newest-grid { grid-template-columns: 1fr 1fr; gap: 0.8rem; }
+  }
+  @media (min-width: 1040px) {
+    .newest-card { padding: 1.2rem 1.35rem; }
+  }
+</style>
