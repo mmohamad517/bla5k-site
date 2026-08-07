@@ -2,6 +2,7 @@
 name: Suno AI Music Generator
 url: https://suno.com/
 subcategory: ai-video-audio
+pricing: freemium
 tagline: "AI music creator — generate full songs with vocals and instruments from text prompts."
 tags: [ai music, music generator, ai songs, vocals, suno]
 featured: false

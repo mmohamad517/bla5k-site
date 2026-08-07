@@ -2,6 +2,7 @@
 name: Runable
 url: https://runable.com
 subcategory: ai-productivity
+pricing: freemium
 tagline: The AI agent that plans and executes your whole workflow — not just chats.
 tags:
   - AI Agent

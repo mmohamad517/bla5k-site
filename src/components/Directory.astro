@@ -17,6 +17,13 @@ for (const list of sitesBySub.values()) {
   list.sort((a, b) => Number(b.data.featured) - Number(a.data.featured) || a.data.name.localeCompare(b.data.name));
 }
 
+// Pricing filter counts (for the filter buttons).
+const priceCounts = { free: 0, freemium: 0, paid: 0 };
+for (const s of allSites) {
+  const p = s.data.pricing;
+  if (p) priceCounts[p]++;
+}
+
 const tree = categories
   .map((cat) => {
     const subs = subcategoriesOf(cat.slug)
@@ -54,6 +61,16 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
       <button type="button" class="sort-btn" data-sort="featured" aria-pressed="false">Featured</button>
       <button type="button" class="sort-btn" data-sort="az" aria-pressed="false">A–Z</button>
     </div>
+
+    <!-- Price filter (progressive — hidden until JS is available) -->
+    <div class="price-bar" role="group" aria-label="Filter by price">
+      <span class="sort-label">Price</span>
+      <button type="button" class="sort-btn" data-price="all" aria-pressed="true">All</button>
+      <button type="button" class="sort-btn" data-price="free" aria-pressed="false">Free<span class="pcount">{priceCounts.free}</span></button>
+      <button type="button" class="sort-btn" data-price="freemium" aria-pressed="false">Freemium<span class="pcount">{priceCounts.freemium}</span></button>
+      <button type="button" class="sort-btn" data-price="paid" aria-pressed="false">Paid<span class="pcount">{priceCounts.paid}</span></button>
+      <span class="price-note">Pricing shown for our top picks — more tools getting labels.</span>
+    </div>
     <p class="search-status" id="dir-status" role="status" aria-live="polite" hidden></p>
 
     <div class="directory" id="dir-list">
@@ -83,6 +100,7 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
                       data-name={site.data.name.toLowerCase()}
                       data-date={toolDate(site).getTime()}
                       data-feat={site.data.featured ? '1' : '0'}
+                      data-pricing={site.data.pricing ?? ''}
                     >
                       <div class="site-main">
                         <a class="site-title" href={`/tools/${site.id}/`}>
@@ -90,6 +108,9 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
                           {site.data.sponsored
                             ? <span class="spons" title="Paid placement">Sponsored</span>
                             : site.data.featured && <span class="pick" title="Editor’s pick">★</span>}
+                          {site.data.pricing && (
+                            <span class={`price price-${site.data.pricing}`}>{site.data.pricing}</span>
+                          )}
                         </a>
                         <p class="site-tag">{site.data.tagline}</p>
                       </div>
@@ -145,6 +166,19 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
     box-shadow: 0 0 14px -6px rgba(0,240,255,.6);
   }
   .sort-btn:focus-visible { outline: 2px solid var(--cyan); outline-offset: 2px; }
+
+  /* ---- Price badge + filter ---- */
+  .price {
+    font-family: var(--font-body); font-weight: 700; font-size: 0.6rem; letter-spacing: 0.07em; text-transform: uppercase;
+    border-radius: 999px; padding: 0.13rem 0.5rem; line-height: 1.3; border: 1px solid;
+  }
+  .price-free { color: #4ade80; background: rgba(74,222,128,.1); border-color: rgba(74,222,128,.45); }
+  .price-freemium { color: var(--cyan-soft); background: rgba(0,240,255,.08); border-color: rgba(0,240,255,.45); }
+  .price-paid { color: var(--orange); background: rgba(255,159,67,.1); border-color: rgba(255,159,67,.45); }
+  .price-bar { display: none; align-items: center; gap: 0.4rem; flex-wrap: wrap; margin: 0.35rem 0.1rem 0.9rem; }
+  html.js .price-bar { display: flex; }
+  .pcount { font-size: 0.68rem; font-weight: 700; color: var(--text-faint); margin-left: 0.3rem; }
+  .price-note { flex-basis: 100%; font-size: 0.74rem; color: var(--text-faint); }
 
   /* ---- Accordion (mobile-first) ---- */
   .directory { display: grid; gap: 0.8rem; margin-top: 1rem; }
@@ -252,25 +286,17 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
     cats.forEach((c) => defaults.set(c, c.open));
 
     let t: number | undefined;
-    const run = (raw: string) => {
-      const q = raw.trim().toLowerCase();
+    let priceMode = 'all'; // 'all' | 'free' | 'freemium' | 'paid'
+    const priceMatch = (r: HTMLElement) => priceMode === 'all' || (r.dataset.pricing || '') === priceMode;
+    const run = () => {
+      const q = (input.value ?? '').trim().toLowerCase();
       if (clearBtn) clearBtn.hidden = q.length === 0;
-
-      if (!q) {
-        rows.forEach((r) => r.classList.remove('hide'));
-        list.querySelectorAll('.sub, .cat').forEach((el) => el.classList.remove('hide'));
-        cats.forEach((c) => (c.open = defaults.get(c) ?? false));
-        list.querySelectorAll<HTMLDetailsElement>('.sub').forEach((s) => (s.open = true));
-        if (status) status.hidden = true;
-        if (empty) empty.hidden = true;
-        return;
-      }
-
+      const all = q === '' && priceMode === 'all';
       let visible = 0;
       rows.forEach((r) => {
-        const match = (r.dataset.search ?? '').includes(q);
-        r.classList.toggle('hide', !match);
-        if (match) visible++;
+        const m = (q ? (r.dataset.search ?? '').includes(q) : true) && priceMatch(r);
+        r.classList.toggle('hide', !m);
+        if (m) visible++;
       });
 
       // Show/open only branches that still contain matches.
@@ -284,20 +310,36 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
         cat.classList.toggle('hide', !has);
         cat.open = !!has;
       });
-
-      if (status) { status.hidden = false; status.textContent = `${visible} result${visible === 1 ? '' : 's'}`; }
-      if (empty) empty.hidden = visible !== 0;
+      if (all) {
+        cats.forEach((c) => (c.open = defaults.get(c) ?? false));
+        list.querySelectorAll<HTMLDetailsElement>('.sub').forEach((s) => (s.open = true));
+      }
+      if (status) { status.hidden = all; if (!all) status.textContent = `${visible} result${visible === 1 ? '' : 's'}`; }
+      if (empty) empty.hidden = !(visible === 0 && !all);
     };
 
     input.addEventListener('input', () => {
       window.clearTimeout(t);
-      t = window.setTimeout(() => run(input.value), 90);
+      t = window.setTimeout(run, 90);
     });
-    clearBtn?.addEventListener('click', () => { input.value = ''; run(''); input.focus(); });
+    clearBtn?.addEventListener('click', () => { input.value = ''; run(); input.focus(); });
+
+    // ── Price filter: all / free / freemium / paid (combines with search) ──
+    const priceBtns = Array.from(document.querySelectorAll<HTMLButtonElement>('[data-price]'));
+    const setPricePressed = () => priceBtns.forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.price === priceMode)));
+    priceBtns.forEach((b) =>
+      b.addEventListener('click', () => {
+        if (!b.dataset.price) return;
+        priceMode = b.dataset.price;
+        setPricePressed();
+        run();
+      })
+    );
+    setPricePressed();
   }
 
   // ── Sorting: newest / featured / A–Z (no libraries) ──
-  const sortBtns = Array.from(document.querySelectorAll<HTMLButtonElement>('.sort-btn'));
+  const sortBtns = Array.from(document.querySelectorAll<HTMLButtonElement>('[data-sort]'));
   const SORT_KEY = 'bla5k-dir-sort';
   let sortMode: string = 'featured';
   try { sortMode = localStorage.getItem(SORT_KEY) ?? 'featured'; } catch {}

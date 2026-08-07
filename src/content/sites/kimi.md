@@ -2,6 +2,7 @@
 name: Kimi
 url: https://kimi.com/
 subcategory: ai-chat
+pricing: free
 tagline: "Moonshot AI's chatbot with a 1M-token context window—load entire books and codebases in one prompt."
 tags:
   - kimi

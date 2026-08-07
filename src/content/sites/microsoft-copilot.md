@@ -2,6 +2,7 @@
 name: Microsoft Copilot
 url: https://copilot.microsoft.com/
 subcategory: ai-chat
+pricing: free
 tagline: "Free AI assistant built into Windows, Edge, and Microsoft 365—GPT-4 powered."
 tags:
   - microsoft copilot

@@ -2,6 +2,7 @@
 name: Gemini CLI
 url: https://developers.google.com/gemini-code-assist/docs/gemini-cli
 subcategory: dev-code
+pricing: freemium
 tagline: "Google's open-source terminal AI agent with 1M token context — now transitioning to Antigravity."
 tags: [gemini, google, cli, terminal, coding agent, open source]
 featured: false

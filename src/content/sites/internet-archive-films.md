@@ -2,6 +2,7 @@
 name: Internet Archive Films
 url: https://archive.org/details/feature_films
 subcategory: ent-streaming
+pricing: free
 tagline: "Thousands of public-domain films, free forever — classics, silents, and vintage cinema."
 tags:
   - internet archive

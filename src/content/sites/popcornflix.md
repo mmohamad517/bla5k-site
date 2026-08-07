@@ -2,6 +2,7 @@
 name: Popcornflix
 url: https://www.popcornflix.com/
 subcategory: ent-streaming
+pricing: free
 tagline: "Free ad-supported movies and TV from Screen Media — no account, no subscription."
 tags:
   - popcornflix

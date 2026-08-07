@@ -2,6 +2,7 @@
 name: Netflix
 url: https://www.netflix.com/
 subcategory: ent-streaming
+pricing: paid
 tagline: "The world's biggest streaming subscription — original movies, series, and live events."
 tags:
   - netflix

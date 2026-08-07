@@ -2,6 +2,7 @@
 name: Duck.ai
 url: https://duck.ai/
 subcategory: ai-chat
+pricing: free
 tagline: "Privacy-first AI with encrypted voice chat—use Claude, GPT, and Llama anonymously."
 tags:
   - duck.ai

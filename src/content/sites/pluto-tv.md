@@ -2,6 +2,7 @@
 name: Pluto TV
 url: https://pluto.tv/
 subcategory: ent-streaming
+pricing: free
 tagline: "Free live TV channels + on-demand movies, owned by Paramount — no subscription, just ads."
 tags:
   - pluto tv

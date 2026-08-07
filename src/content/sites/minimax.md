@@ -2,6 +2,7 @@
 name: MiniMax (Hailuo AI)
 url: https://hailuoai.video/
 subcategory: ai-video-audio
+pricing: freemium
 tagline: "Hailuo AI by MiniMax — cinematic text-to-video, image generation, and voice cloning in one suite."
 tags:
   - minimax

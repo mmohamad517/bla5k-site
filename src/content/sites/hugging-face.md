@@ -2,6 +2,7 @@
 name: Hugging Face
 url: https://huggingface.co/
 subcategory: dev-ai-agents
+pricing: freemium
 tagline: he leading open-source platform for building, training, and deploying
   machine learning models.
 tags:

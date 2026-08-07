@@ -2,6 +2,7 @@
 name: Figma
 url: https://www.figma.com
 subcategory: design-ui
+pricing: freemium
 tagline: The collaborative, browser-based design tool where teams design, prototype, and build interfaces together in real time.
 tags: ["ui design", "ux", "prototyping", "collaboration", "design tool", "wireframing"]
 featured: true

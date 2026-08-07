@@ -2,6 +2,7 @@
 name: NotebookLM
 url: https://notebooklm.google.com/
 subcategory: ai-productivity
+pricing: free
 tagline: "Google AI research assistant — upload documents and get answers grounded in YOUR sources."
 tags: [notebooklm, google, research, study, ai assistant, source-grounded]
 featured: false

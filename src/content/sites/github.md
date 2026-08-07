@@ -2,6 +2,7 @@
 name: GitHub
 url: https://github.com
 subcategory: dev-code
+pricing: freemium
 tagline: Where the world builds software — code, collaboration, and CI.
 tags:
   - Code

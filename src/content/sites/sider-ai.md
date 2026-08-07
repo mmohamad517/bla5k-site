@@ -2,6 +2,7 @@
 name: Sider
 url: https://sider.ai/
 subcategory: ai-chat
+pricing: freemium
 tagline: "AI sidebar for your browser—30+ models with instant summarize, translate, and rewrite."
 tags:
   - sider

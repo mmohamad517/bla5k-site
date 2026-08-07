@@ -2,6 +2,7 @@
 name: Prime Video
 url: https://www.amazon.com/primevideo
 subcategory: ent-streaming
+pricing: paid
 tagline: "Amazon's streaming service — included with Prime, with live sports, blockbuster originals, and free ad-supported content."
 tags:
   - prime video

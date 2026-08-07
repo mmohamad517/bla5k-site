@@ -2,6 +2,7 @@
 name: Looka
 url: https://looka.com/
 subcategory: design-graphics
+pricing: paid
 tagline: "AI logo maker — generate professional logos and brand kits in minutes."
 tags: [looka, logo maker, ai design, branding, brand kit]
 featured: false
