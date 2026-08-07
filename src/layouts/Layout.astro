@@ -107,6 +107,9 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': [...baseGraph, ...s
 
     <link rel="sitemap" href="/sitemap-index.xml" />
     <link rel="alternate" type="text/plain" href="/llms.txt" title="llms.txt — AI-readable site summary" />
+    <link rel="alternate" type="application/rss+xml" href="/rss.xml" title="bla5k — Latest Tools & Guides" />
+    <link rel="alternate" type="application/rss+xml" href="/rss-tools.xml" title="bla5k — New AI Tools" />
+    <link rel="alternate" type="application/rss+xml" href="/rss-guides.xml" title="bla5k — Guides & Articles" />
     <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 
     {(cfAnalyticsToken || ga4Id || adsenseClient) && (

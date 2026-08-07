@@ -52,9 +52,19 @@ function fmValue(fm, key) {
 
 // ── build the set of REAL valid internal routes (normalized: no trailing slash) ──
 function norm(p) { return p === '/' ? '/' : p.replace(/\/$/, ''); }
-const valid = new Set(['/', '/ai-control-pro']); // homepage + landing page
+const valid = new Set(['/']); // homepage
 const staticPages = ['404', 'about', 'acceptable-use', 'advertise', 'contact', 'cookie-policy', 'disclosure', 'dmca', 'faq', 'privacy', 'terms', 'index'];
 for (const p of staticPages) valid.add(norm(p === 'index' ? '/' : `/${p}/`));
+
+// standalone root-level .astro pages (ai-control-pro, best-ai-tools-2026, …)
+// — auto-discovered so new landing pages never trip the checker again.
+for (const f of readdirSync(PAGES)) {
+  if (!f.endsWith('.astro')) continue;
+  if (f.startsWith('[') || f.startsWith('_')) continue; // dynamic/index-only
+  const slug = f.replace(/\.astro$/, '');
+  if (slug === 'index') continue; // maps to /, already added
+  valid.add(norm(`/${slug}/`));
+}
 
 // tools: /tools/<filename>/
 for (const f of listMd(SITES)) valid.add(norm(`/tools/${f.replace(/\.md$/, '')}/`));
