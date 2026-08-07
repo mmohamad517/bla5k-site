@@ -1,7 +1,7 @@
 ---
 name: Netflix
 url: https://www.netflix.com/
-image: https://www.google.com/s2/favicons?domain=netflix.com&sz=128
+image: /logos/netflix.png
 subcategory: ent-streaming
 pricing: paid
 tagline: "The world's biggest streaming subscription — original movies, series, and live events."

@@ -1,7 +1,7 @@
 ---
 name: Voiceflow
 url: https://www.voiceflow.com/
-image: https://www.google.com/s2/favicons?domain=voiceflow.com&sz=128
+image: /logos/voiceflow.png
 subcategory: dev-ai-agents
 tagline: "Build, test, and deploy AI agents for customer support — visual builder, no code."
 tags: [voiceflow, chatbot builder, ai agents, customer support, no-code, voice]

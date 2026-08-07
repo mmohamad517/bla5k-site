@@ -1,7 +1,7 @@
 ---
 name: DeepAI
 url: https://deepai.org
-image: https://www.google.com/s2/favicons?domain=deepai.org&sz=128
+image: /logos/deepai.png
 subcategory: ai-image
 pricing: freemium
 tagline: A straightforward AI image generator and toolkit — no account needed to start.

@@ -1,7 +1,7 @@
 ---
 name: AgentScope
 url: https://agentscope.io
-image: https://www.google.com/s2/favicons?domain=agentscope.io&sz=128
+image: /logos/agentscope.png
 subcategory: dev-ai-agents
 tagline: Alibaba’s open-source framework for building multi-agent AI applications you can see, understand, and trust.
 tags: ["ai agents", "multi-agent", "framework", "open-source", "llm", "python"]

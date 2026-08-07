@@ -1,7 +1,7 @@
 ---
 name: GenTube
 url: https://gentube.ai/
-image: https://www.google.com/s2/favicons?domain=gentube.ai&sz=128
+image: /logos/gentube.png
 subcategory: ai-video-audio
 tagline: "AI video generator — create short videos from text prompts for social media."
 tags: [gentube, ai video generator, social media, content creation]

@@ -1,7 +1,7 @@
 ---
 name: PixAI.ART
 url: https://pixai.art/
-image: https://www.google.com/s2/favicons?domain=pixai.art&sz=128
+image: /logos/pixai.png
 subcategory: ai-image
 tagline: "Free AI anime art generator — create anime and illustration-style images with AI models."
 tags: [pixai, anime, ai art, illustration, generator]

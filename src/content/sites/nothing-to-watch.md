@@ -1,7 +1,7 @@
 ---
 name: Nothing To Watch
 url: https://nothing-to-watch.port80.ch
-image: https://www.google.com/s2/favicons?domain=nothing-to-watch.port80.ch&sz=128
+image: /logos/nothing-to-watch.png
 subcategory: ent-watch
 pricing: free
 tagline: Beat the endless scroll and finally decide what to watch.

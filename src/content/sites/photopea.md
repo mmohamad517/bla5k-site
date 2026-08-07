@@ -1,7 +1,7 @@
 ---
 name: PhotoPea
 url: https://www.photopea.com/
-image: https://www.google.com/s2/favicons?domain=photopea.com&sz=128
+image: /logos/photopea.png
 subcategory: design-graphics
 pricing: freemium
 tagline: "Free online Photoshop alternative — edit PSD, XCF, Sketch files directly in your browser."

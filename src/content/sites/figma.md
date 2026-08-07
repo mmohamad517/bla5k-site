@@ -1,7 +1,7 @@
 ---
 name: Figma
 url: https://www.figma.com
-image: https://www.google.com/s2/favicons?domain=figma.com&sz=128
+image: /logos/figma.png
 subcategory: design-ui
 pricing: freemium
 tagline: The collaborative, browser-based design tool where teams design, prototype, and build interfaces together in real time.

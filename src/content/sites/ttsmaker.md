@@ -1,7 +1,7 @@
 ---
 name: TTSMaker
 url: https://ttsmaker.com/
-image: https://www.google.com/s2/favicons?domain=ttsmaker.com&sz=128
+image: /logos/ttsmaker.png
 subcategory: ai-video-audio
 pricing: freemium
 tagline: "Free text-to-speech tool — convert text to natural-sounding audio in 50+ languages."

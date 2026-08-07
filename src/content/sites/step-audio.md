@@ -1,7 +1,7 @@
 ---
 name: Step-Audio
 url: https://github.com/stepfun-ai/Step-Audio
-image: https://www.google.com/s2/favicons?domain=github.com&sz=128
+image: /logos/step-audio.png
 subcategory: ai-video-audio
 tagline: "Open-source end-to-end speech AI model from StepFun — real-time voice understanding, generation, and editing in a single system."
 tags:

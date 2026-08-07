@@ -1,7 +1,7 @@
 ---
 name: Output
 url: https://output.com/
-image: https://www.google.com/s2/favicons?domain=output.com&sz=128
+image: /logos/output.png
 subcategory: ai-video-audio
 tagline: "Professional music production tools — software instruments and effects for producers."
 tags: [output, music production, instruments, effects, professional]

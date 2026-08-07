@@ -1,7 +1,7 @@
 ---
 name: Codex Router
 url: https://github.com/duolahypercho/codex-router
-image: https://www.google.com/s2/favicons?domain=github.com&sz=128
+image: /logos/codex-router.png
 subcategory: dev-ai-agents
 tagline: Local router to run Kimi, Grok, and Anthropic models inside Codex with
   credential isolation

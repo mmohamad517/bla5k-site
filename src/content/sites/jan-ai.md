@@ -1,7 +1,7 @@
 ---
 name: Jan
 url: https://jan.ai
-image: https://www.google.com/s2/favicons?domain=jan.ai&sz=128
+image: /logos/jan-ai.png
 subcategory: ai-chat
 pricing: free
 tagline: Run open-source AI models locally on your own computer — private and free.

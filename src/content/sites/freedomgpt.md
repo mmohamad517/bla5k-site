@@ -1,7 +1,7 @@
 ---
 name: FreedomGPT
 url: https://freedomgpt.com/
-image: https://www.google.com/s2/favicons?domain=freedomgpt.com&sz=128
+image: /logos/freedomgpt.png
 subcategory: ai-chat
 tagline: "Open-source AI with 400+ uncensored models—run locally on your device for complete privacy."
 tags:

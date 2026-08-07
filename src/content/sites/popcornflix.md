@@ -1,7 +1,7 @@
 ---
 name: Popcornflix
 url: https://www.popcornflix.com/
-image: https://www.google.com/s2/favicons?domain=popcornflix.com&sz=128
+image: /logos/popcornflix.png
 subcategory: ent-streaming
 pricing: free
 tagline: "Free ad-supported movies and TV from Screen Media — no account, no subscription."

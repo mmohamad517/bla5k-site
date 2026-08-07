@@ -1,7 +1,7 @@
 ---
 name: Riffusion
 url: https://www.riffusion.com/
-image: https://www.google.com/s2/favicons?domain=riffusion.com&sz=128
+image: /logos/riffusion.png
 subcategory: ai-video-audio
 tagline: "Free, open-source AI music generator — creates music from text using spectrogram diffusion, no login required."
 tags:

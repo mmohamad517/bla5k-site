@@ -1,7 +1,7 @@
 ---
 name: Auto Draw
 url: https://www.autodraw.com/
-image: https://www.google.com/s2/favicons?domain=autodraw.com&sz=128
+image: /logos/autodraw.png
 subcategory: design-graphics
 tagline: "Google AI drawing tool — sketch roughly and AI suggests professional drawings to replace your doodles."
 tags: [google, autodraw, ai, drawing, sketch, doodle]

@@ -1,7 +1,7 @@
 ---
 name: InShot
 url: https://inshot.com/
-image: https://www.google.com/s2/favicons?domain=inshot.com&sz=128
+image: /logos/inshot.png
 subcategory: va-video-edit
 tagline: "Mobile video editor — trim, add music, filters, and effects for social media content."
 tags: [inshot, mobile video editor, social media, filters, effects]

@@ -1,7 +1,7 @@
 ---
 name: GitHub Copilot
 url: https://github.com/features/copilot
-image: https://www.google.com/s2/favicons?domain=github.com&sz=128
+image: /logos/github-copilot.png
 subcategory: dev-code
 pricing: freemium
 tagline: Microsoft's AI pair programmer — autocomplete and chat inside your editor.

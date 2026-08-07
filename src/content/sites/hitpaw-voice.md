@@ -1,7 +1,7 @@
 ---
 name: Hitpaw Voice Changer
 url: https://www.hitpaw.com/voice-changer.html
-image: https://www.google.com/s2/favicons?domain=hitpaw.com&sz=128
+image: /logos/hitpaw-voice.png
 subcategory: ai-video-audio
 tagline: "Real-time AI voice changer — transform your voice with celebrity and character effects."
 tags: [hitpaw, voice changer, ai, real-time, effects]

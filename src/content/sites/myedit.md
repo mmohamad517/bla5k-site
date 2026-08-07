@@ -1,7 +1,7 @@
 ---
 name: MyEdit
 url: https://myedit.online/
-image: https://www.google.com/s2/favicons?domain=myedit.online&sz=128
+image: /logos/myedit.png
 subcategory: ai-video-audio
 tagline: "Online AI audio and photo editor — remove noise, enhance audio, and edit images free."
 tags: [myedit, audio editor, photo editor, ai, online, free]

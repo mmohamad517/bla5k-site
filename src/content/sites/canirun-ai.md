@@ -1,7 +1,7 @@
 ---
 name: CanIRun.ai
 url: https://www.canirun.ai
-image: https://www.google.com/s2/favicons?domain=canirun.ai&sz=128
+image: /logos/canirun-ai.png
 subcategory: dev-play
 tagline: Find out which AI models your machine can actually run — a free browser tool that detects your hardware and scores local LLM compatibility.
 tags:

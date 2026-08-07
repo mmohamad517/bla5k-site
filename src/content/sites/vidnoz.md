@@ -1,7 +1,7 @@
 ---
 name: Vidnoz
 url: https://www.vidnoz.com
-image: https://www.google.com/s2/favicons?domain=vidnoz.com&sz=128
+image: /logos/vidnoz.png
 subcategory: ai-video-audio
 pricing: freemium
 tagline: Free AI video tools — avatars, talking photos, and video generation.

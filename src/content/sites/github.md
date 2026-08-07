@@ -1,7 +1,7 @@
 ---
 name: GitHub
 url: https://github.com
-image: https://www.google.com/s2/favicons?domain=github.com&sz=128
+image: /logos/github.png
 subcategory: dev-code
 pricing: freemium
 tagline: Where the world builds software — code, collaboration, and CI.

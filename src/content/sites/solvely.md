@@ -1,7 +1,7 @@
 ---
 name: Solvely
 url: https://solvely.ai/
-image: https://www.google.com/s2/favicons?domain=solvely.ai&sz=128
+image: /logos/solvely.png
 subcategory: learn-courses
 tagline: "AI homework solver — snap a photo of any problem and get detailed explanations."
 tags: [solvely, homework solver, math, science, step-by-step]

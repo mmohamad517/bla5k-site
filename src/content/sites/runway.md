@@ -1,7 +1,7 @@
 ---
 name: Runway
 url: https://runwayml.com
-image: https://www.google.com/s2/favicons?domain=runwayml.com&sz=128
+image: /logos/runway.png
 subcategory: ai-video-audio
 pricing: freemium
 tagline: The AI video generation and editing platform behind frontier models.

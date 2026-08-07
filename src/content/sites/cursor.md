@@ -1,7 +1,7 @@
 ---
 name: Cursor
 url: https://cursor.com
-image: https://www.google.com/s2/favicons?domain=cursor.com&sz=128
+image: /logos/cursor.png
 subcategory: dev-code
 pricing: freemium
 tagline: The AI-first code editor that writes, edits, and refactors code alongside you.

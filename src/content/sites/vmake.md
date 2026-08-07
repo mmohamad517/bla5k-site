@@ -1,7 +1,7 @@
 ---
 name: Vmake.ai
 url: https://vmake.ai/
-image: https://www.google.com/s2/favicons?domain=vmake.ai&sz=128
+image: /logos/vmake.png
 subcategory: ai-video-audio
 tagline: "AI video and photo editor — enhance product photos and videos for e-commerce."
 tags: [vmake, ai video, photo editor, ecommerce, product]

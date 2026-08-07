@@ -1,7 +1,7 @@
 ---
 name: Algoriddim DJ
 url: https://www.algoriddim.com/
-image: https://www.google.com/s2/favicons?domain=algoriddim.com&sz=128
+image: /logos/algoriddim.png
 subcategory: ai-video-audio
 tagline: "AI-powered DJ app — mix music with intelligent beat matching and transitions."
 tags: [algoriddim, dj app, ai, mixing, beat matching, music]

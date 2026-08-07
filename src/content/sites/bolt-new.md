@@ -1,7 +1,7 @@
 ---
 name: Bolt.new
 url: https://bolt.new
-image: https://www.google.com/s2/favicons?domain=bolt.new&sz=128
+image: /logos/bolt-new.png
 subcategory: nc-builders
 pricing: freemium
 tagline: Prompt-to-app in your browser — build and deploy full-stack apps by chatting.

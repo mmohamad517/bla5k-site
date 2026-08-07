@@ -1,7 +1,7 @@
 ---
 name: PaperClip
 url: https://paperclip.co/
-image: https://www.google.com/s2/favicons?domain=paperclip.co&sz=128
+image: /logos/paperclip-ai.png
 subcategory: ai-productivity
 tagline: "AI-powered document management — organize, search, and extract insights from your files."
 tags: [paperclip, document management, ai search, file organization, productivity]

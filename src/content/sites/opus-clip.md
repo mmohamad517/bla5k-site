@@ -1,7 +1,7 @@
 ---
 name: Opus Clip
 url: https://www.opus.pro
-image: https://www.google.com/s2/favicons?domain=opus.pro&sz=128
+image: /logos/opus-clip.png
 subcategory: ai-video-audio
 pricing: freemium
 tagline: Turn long videos into viral short clips automatically — the repurposing engine.

@@ -1,7 +1,7 @@
 ---
 name: Prime Video
 url: https://www.amazon.com/primevideo
-image: https://www.google.com/s2/favicons?domain=amazon.com&sz=128
+image: /logos/prime-video.png
 subcategory: ent-streaming
 pricing: paid
 tagline: "Amazon's streaming service — included with Prime, with live sports, blockbuster originals, and free ad-supported content."

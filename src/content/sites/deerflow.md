@@ -1,7 +1,7 @@
 ---
 name: DeerFlow
 url: https://github.com/bytedance/deer-flow
-image: https://www.google.com/s2/favicons?domain=github.com&sz=128
+image: /logos/deerflow.png
 subcategory: dev-ai-agents
 tagline: ByteDance's open-source "super agent" harness that researches, codes, and creates — handling long tasks that take minutes to hours.
 tags: ["ai agents", "bytedance", "open-source", "super agent", "autonomous", "llm"]

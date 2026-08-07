@@ -1,7 +1,7 @@
 ---
 name: Shortform
 url: https://www.shortform.com/
-image: https://www.google.com/s2/favicons?domain=shortform.com&sz=128
+image: /logos/shortform.png
 subcategory: learn-courses
 tagline: "AI-powered book summaries — comprehensive guides with insights beyond the original."
 tags: [shortform, book summaries, insights, reading, learning]

@@ -1,7 +1,7 @@
 ---
 name: Mozart AI
 url: https://mozartai.com/
-image: https://www.google.com/s2/favicons?domain=mozartai.com&sz=128
+image: /logos/mozart-ai.png
 subcategory: ai-video-audio
 tagline: "AI co-producer DAW — a browser-based music workstation that turns natural language commands into professional production moves."
 tags:

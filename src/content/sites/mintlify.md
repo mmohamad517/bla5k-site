@@ -1,7 +1,7 @@
 ---
 name: Mintlify
 url: https://mintlify.com/
-image: https://www.google.com/s2/favicons?domain=mintlify.com&sz=128
+image: /logos/mintlify.png
 subcategory: dev-docs
 tagline: "Beautiful API documentation that writes itself — AI-powered docs from your codebase."
 tags: [mintlify, documentation, api docs, developer tools, technical writing]

@@ -1,7 +1,7 @@
 ---
 name: Meta AI
 url: https://www.meta.ai/
-image: https://www.google.com/s2/favicons?domain=meta.ai&sz=128
+image: /logos/meta-ai.png
 subcategory: ai-chat
 pricing: free
 tagline: "Free AI assistant built into WhatsApp, Instagram, and Facebook—reach 3 billion users instantly."

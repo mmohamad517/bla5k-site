@@ -1,7 +1,7 @@
 ---
 name: Chatbase
 url: https://www.chatbase.co
-image: https://www.google.com/s2/favicons?domain=chatbase.co&sz=128
+image: /logos/chatbase.png
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Build a custom ChatGPT from your own data — no code required.

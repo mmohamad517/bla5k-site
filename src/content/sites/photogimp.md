@@ -1,7 +1,7 @@
 ---
 name: PhotoGIMP
 url: https://github.com/Diolinux/PhotoGIMP
-image: https://www.google.com/s2/favicons?domain=github.com&sz=128
+image: /logos/photogimp.png
 subcategory: design-graphics
 pricing: free
 tagline: A free patch that makes GIMP look and feel like Photoshop — familiar tools, shortcuts, and layout

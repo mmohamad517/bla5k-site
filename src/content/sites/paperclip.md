@@ -1,7 +1,7 @@
 ---
 name: Paperclip
 url: https://paperclip.ing
-image: https://www.google.com/s2/favicons?domain=paperclip.ing&sz=128
+image: /logos/paperclip.png
 subcategory: dev-ai-agents
 tagline: The open-source control plane for running a team of AI agents at work — organize agents like Claude Code and Codex into a company with goals, budgets, and governance.
 tags:

@@ -1,7 +1,7 @@
 ---
 name: Duck.ai
 url: https://duck.ai/
-image: https://www.google.com/s2/favicons?domain=duck.ai&sz=128
+image: /logos/duck-ai.png
 subcategory: ai-chat
 pricing: free
 tagline: "Privacy-first AI with encrypted voice chat—use Claude, GPT, and Llama anonymously."

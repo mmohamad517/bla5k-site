@@ -1,7 +1,7 @@
 ---
 name: OpenEvidence AI
 url: https://www.openevidence.com/
-image: https://www.google.com/s2/favicons?domain=openevidence.com&sz=128
+image: /logos/openevidence.png
 subcategory: learn-courses
 tagline: "AI-powered medical evidence search — answers from peer-reviewed clinical research."
 tags: [openevidence, medical ai, clinical research, evidence]

@@ -1,7 +1,7 @@
 ---
 name: Quizlet
 url: https://quizlet.com
-image: https://www.google.com/s2/favicons?domain=quizlet.com&sz=128
+image: /logos/quizlet.png
 subcategory: learn-courses
 pricing: freemium
 tagline: Flashcards, quizzes, and study tools used by millions of students.

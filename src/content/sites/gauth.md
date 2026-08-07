@@ -1,7 +1,7 @@
 ---
 name: Gauth AI
 url: https://www.gauthmath.com/
-image: https://www.google.com/s2/favicons?domain=gauthmath.com&sz=128
+image: /logos/gauth.png
 subcategory: learn-courses
 tagline: "Snap a photo of any math problem and get instant step-by-step solutions."
 tags: [gauth, math solver, homework, ai tutor, photo solver]

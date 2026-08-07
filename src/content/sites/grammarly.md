@@ -1,7 +1,7 @@
 ---
 name: Grammarly
 url: https://grammarly.com
-image: https://www.google.com/s2/favicons?domain=grammarly.com&sz=128
+image: /logos/grammarly.png
 subcategory: write-grammar
 pricing: freemium
 tagline: The AI writing assistant that checks grammar, tone, and clarity everywhere you type.

@@ -1,7 +1,7 @@
 ---
 name: Knowt
 url: https://knowt.com/
-image: https://www.google.com/s2/favicons?domain=knowt.com&sz=128
+image: /logos/knowt.png
 subcategory: learn-courses
 tagline: "AI-powered flashcards and study tools — turn notes into quizzes automatically."
 tags: [knowt, flashcards, study, quiz, spaced repetition, ai]

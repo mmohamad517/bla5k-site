@@ -1,7 +1,7 @@
 ---
 name: QuillBot
 url: https://quillbot.com
-image: https://www.google.com/s2/favicons?domain=quillbot.com&sz=128
+image: /logos/quillbot.png
 subcategory: write-grammar
 pricing: freemium
 tagline: The AI paraphraser and writing toolkit — rephrase anything instantly.

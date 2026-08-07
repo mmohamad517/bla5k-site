@@ -1,7 +1,7 @@
 ---
 name: n8n
 url: https://n8n.io/
-image: https://www.google.com/s2/favicons?domain=n8n.io&sz=128
+image: /logos/n8n.png
 subcategory: nc-automation
 tagline: "Open-source workflow automation — connect 400+ apps with AI, no code required."
 tags: [n8n, automation, workflow, no-code, open source, integrations, zapier alternative]

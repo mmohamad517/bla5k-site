@@ -1,7 +1,7 @@
 ---
 name: Multica
 url: https://multica.ai
-image: https://www.google.com/s2/favicons?domain=multica.ai&sz=128
+image: /logos/multica.png
 subcategory: dev-ai-agents
 tagline: Open-source project management for human and agent teammates — turn coding agents into real teammates you can assign tasks to, with skills and live progress tracking.
 tags:

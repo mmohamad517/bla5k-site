@@ -1,7 +1,7 @@
 ---
 name: HotBot
 url: https://hotbot.ai/
-image: https://www.google.com/s2/favicons?domain=hotbot.ai&sz=128
+image: /logos/hotbot.png
 subcategory: ai-chat
 tagline: "Free AI with Claude, GPT-4, Gemini, and DeepSeek—no signup required."
 tags:

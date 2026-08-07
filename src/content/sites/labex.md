@@ -1,7 +1,7 @@
 ---
 name: LabEx
 url: https://labex.io/
-image: https://www.google.com/s2/favicons?domain=labex.io&sz=128
+image: /logos/labex.png
 subcategory: learn-code
 tagline: "Hands-on coding labs with real Linux environments — learn by doing, not watching."
 tags: [labex, coding labs, hands-on, linux, devops, learning]

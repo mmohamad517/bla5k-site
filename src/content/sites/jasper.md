@@ -1,7 +1,7 @@
 ---
 name: Jasper
 url: https://www.jasper.ai
-image: https://www.google.com/s2/favicons?domain=jasper.ai&sz=128
+image: /logos/jasper.png
 subcategory: ai-writing
 pricing: paid
 tagline: The AI marketing copilot for brand-consistent content at scale.

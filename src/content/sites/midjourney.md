@@ -1,7 +1,7 @@
 ---
 name: Midjourney
 url: https://www.midjourney.com
-image: https://www.google.com/s2/favicons?domain=midjourney.com&sz=128
+image: /logos/midjourney.png
 subcategory: ai-image
 pricing: paid
 tagline: Turn a line of text into strikingly artistic images.

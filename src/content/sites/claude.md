@@ -1,7 +1,7 @@
 ---
 name: Claude
 url: https://claude.ai
-image: https://www.google.com/s2/favicons?domain=claude.ai&sz=128
+image: /logos/claude.png
 subcategory: ai-chat
 pricing: freemium
 tagline: Anthropic's AI assistant — known for careful reasoning and nuanced long-form writing.

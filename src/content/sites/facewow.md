@@ -1,7 +1,7 @@
 ---
 name: Facewow
 url: https://facewow.ai/
-image: https://www.google.com/s2/favicons?domain=facewow.ai&sz=128
+image: /logos/facewow.png
 subcategory: ai-image
 tagline: "AI face animation — bring old photos to life with realistic facial animations."
 tags: [facewow, face animation, ai, photos, nostalgic]
