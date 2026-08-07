@@ -1,0 +1,344 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+const title = 'Best AI Tools 2026 — The Definitive Ranked List | bla5k';
+const description =
+  'The best AI tools of 2026, ranked and reviewed: ChatGPT, Midjourney, Manus, Runable, Notion, Figma, GitHub and Hugging Face. Compare them side by side and find yours.';
+
+const faqs = [
+  {
+    q: 'What is the best AI tool of 2026?',
+    a: "There is no single winner — the best tool depends on the job. ChatGPT is the best all-round assistant for writing and everyday tasks. Midjourney leads image generation, Manus and Runable are the strongest AI agents, and Notion, Figma, GitHub and Hugging Face each lead their category. For most people, the smartest move is combining two or three specialized tools into a stack rather than relying on one.",
+  },
+  {
+    q: 'Are the best AI tools of 2026 free?',
+    a: 'Most of the tools on this list offer a genuinely useful free tier. ChatGPT, Notion, Figma and GitHub all have free plans that cover everyday use, and Hugging Face is largely free to explore. Midjourney and premium agent features are paid, but every tool can be tried before you commit.',
+  },
+  {
+    q: "What's the easiest AI tool to start with in 2026?",
+    a: 'ChatGPT is the easiest entry point — it needs no setup, understands plain language, and handles writing, learning, brainstorming and coding. For visuals, Midjourney is the most beginner-friendly way to get stunning results, and Notion covers notes and planning with built-in AI.',
+  },
+  {
+    q: 'What is the best free AI tool of 2026?',
+    a: 'ChatGPT has the most generous free tier for an all-round assistant, and Hugging Face gives free access to a million open models for the curious. For productivity, Notion and GitHub are free for individuals and teams, making them the strongest free picks in their categories.',
+  },
+  {
+    q: 'Which AI tool is best for coding in 2026?',
+    a: 'GitHub with Copilot is the best all-round coding assistant — autocompletion, chat and CI/CD in one place. For autonomous coding agents that plan and execute multi-step tasks, Manus and Runable lead the category and pair well with GitHub for storage and review.',
+  },
+  {
+    q: 'How do I choose the best AI tool for my needs?',
+    a: 'Start with the specific job you need done, then match a tool built for it. Use our comparison table below as a starting point, read the short review for each candidate, and test the free tier on a real task before committing. A focused two or three-tool stack beats a sprawling collection every time.',
+  },
+];
+
+const schema = [
+  {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://bla5k.com/' },
+      { '@type': 'ListItem', position: 2, name: 'Best AI Tools 2026', item: 'https://bla5k.com/best-ai-tools-2026/' },
+    ],
+  },
+  {
+    '@type': 'Article',
+    headline: 'Best AI Tools 2026 — The Definitive Ranked List',
+    description,
+    author: { '@type': 'Organization', name: 'bla5k' },
+    publisher: { '@id': 'https://bla5k.com/#org' },
+    datePublished: '2026-08-07',
+    dateModified: '2026-08-07',
+    mainEntityOfPage: 'https://bla5k.com/best-ai-tools-2026/',
+    image: 'https://bla5k.com/og-image.png',
+  },
+  {
+    '@type': 'FAQPage',
+    mainEntity: faqs.map((f) => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  },
+  {
+    '@type': 'ItemList',
+    name: 'Best AI Tools of 2026',
+    numberOfItems: 8,
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'ChatGPT', url: 'https://bla5k.com/tools/chatgpt/' },
+      { '@type': 'ListItem', position: 2, name: 'Midjourney', url: 'https://bla5k.com/tools/midjourney/' },
+      { '@type': 'ListItem', position: 3, name: 'Manus', url: 'https://bla5k.com/tools/manus/' },
+      { '@type': 'ListItem', position: 4, name: 'Runable', url: 'https://bla5k.com/tools/runable/' },
+      { '@type': 'ListItem', position: 5, name: 'Notion', url: 'https://bla5k.com/tools/notion/' },
+      { '@type': 'ListItem', position: 6, name: 'Figma', url: 'https://bla5k.com/tools/figma/' },
+      { '@type': 'ListItem', position: 7, name: 'GitHub', url: 'https://bla5k.com/tools/github/' },
+      { '@type': 'ListItem', position: 8, name: 'Hugging Face', url: 'https://bla5k.com/tools/hugging-face/' },
+    ],
+  },
+];
+
+const tools = [
+  { rank: 1, name: 'ChatGPT', cat: 'Chat & assistant', free: '✅ Free tier', best: 'All-round assistant for writing, learning, coding and everyday tasks', href: '/tools/chatgpt/' },
+  { rank: 2, name: 'Midjourney', cat: 'Image generation', free: '❌ Paid', best: 'The benchmark for artistic AI image quality', href: '/tools/midjourney/' },
+  { rank: 3, name: 'Manus', cat: 'AI agent', free: '✅ Free tier', best: 'Autonomous agent that plans and executes multi-step tasks', href: '/tools/manus/' },
+  { rank: 4, name: 'Runable', cat: 'AI agent', free: '✅ Free tier', best: 'General agent that builds decks, sites, videos and documents', href: '/tools/runable/' },
+  { rank: 5, name: 'Notion', cat: 'Productivity', free: '✅ Free tier', best: 'Notes, docs, databases and AI writing in one workspace', href: '/tools/notion/' },
+  { rank: 6, name: 'Figma', cat: 'Design', free: '✅ Free tier', best: 'The standard for interface design with built-in AI', href: '/tools/figma/' },
+  { rank: 7, name: 'GitHub', cat: 'Developer', free: '✅ Free tier', best: 'Code hosting, CI/CD and Copilot — the home of software', href: '/tools/github/' },
+  { rank: 8, name: 'Hugging Face', cat: 'AI platform', free: '✅ Mostly free', best: 'The open-source hub of a million AI models', href: '/tools/hugging-face/' },
+];
+---
+
+<Layout title={title} description={description} schema={schema}>
+  <Header />
+  <main>
+    <article class="landing">
+      <div class="container">
+        <nav class="crumbs" aria-label="Breadcrumb">
+          <a href="/">Home</a> <span aria-hidden="true">/</span>
+          <span>Best AI Tools 2026</span>
+        </nav>
+
+        <header class="landing-head">
+          <span class="eyebrow"><span class="dot"></span> Ranked for 2026</span>
+          <h1 class="landing-title">The Best AI Tools of <span class="grad">2026</span></h1>
+          <p class="landing-desc">
+            The definitive, hand-reviewed list of the best AI tools in 2026. Eight tools across
+            chat, images, agents, productivity, design, code and open-source AI — each ranked,
+            compared and honestly reviewed. Find the one that fits your work in minutes.
+          </p>
+          <div class="landing-meta">
+            <span>By bla5k Editorial Team</span>
+            <span aria-hidden="true">·</span>
+            <span>Updated August 7, 2026</span>
+            <span aria-hidden="true">·</span>
+            <span>{Math.max(1, Math.round(1350 / 220))} min read</span>
+          </div>
+        </header>
+
+        <section class="tbl-sec" aria-labelledby="compare-title">
+          <h2 id="compare-title" class="sec-title">Compare the best AI tools of 2026 at a glance</h2>
+          <div class="tbl-scroll" role="region" tabindex="0" aria-label="Comparison table of the best AI tools of 2026">
+            <table class="cmp">
+              <thead>
+                <tr>
+                  <th scope="col">Rank</th>
+                  <th scope="col">Tool</th>
+                  <th scope="col">Category</th>
+                  <th scope="col">Free?</th>
+                  <th scope="col">Best at</th>
+                </tr>
+              </thead>
+              <tbody>
+                {tools.map((t) => (
+                  <tr>
+                    <td class="t-rank">{String(t.rank).padStart(2, '0')}</td>
+                    <td><a href={t.href}>{t.name}</a></td>
+                    <td>{t.cat}</td>
+                    <td>{t.free}</td>
+                    <td class="t-best">{t.best}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+          <p class="tbl-note">
+            Every pick is hand-reviewed by the bla5k editorial team. Read the full 2026 guide with
+            category-by-category depth: <a href="/guides/best-ai-tools-2026/">The Best AI Tools in 2026 — The Complete Guide</a>.
+          </p>
+        </section>
+
+        <section aria-labelledby="picks-title">
+          <h2 id="picks-title" class="sec-title">The 8 best AI tools of 2026, ranked</h2>
+
+          <ol class="pick-list" role="list">
+            <li class="pick-item">
+              <span class="pick-rank" aria-hidden="true">01</span>
+              <div class="pick-body">
+                <h3 class="pick-name">ChatGPT — the best all-round AI assistant</h3>
+                <p class="pick-text">
+                  The most recognizable name in AI, and the strongest default. ChatGPT handles writing,
+                  learning, brainstorming, analysis and code in one interface, with a genuinely useful
+                  free tier and an endless ecosystem of custom versions. <strong>Best for:</strong> your daily
+                  do-everything assistant. <a href="/tools/chatgpt/">Full ChatGPT review →</a>
+                </p>
+              </div>
+            </li>
+            <li class="pick-item">
+              <span class="pick-rank" aria-hidden="true">02</span>
+              <div class="pick-body">
+                <h3 class="pick-name">Midjourney — the best AI image generator</h3>
+                <p class="pick-text">
+                  Still the benchmark for artistic image quality. Midjourney's images are distinctive,
+                  richly detailed and often breathtaking — the favorite of concept artists and anyone
+                  who wants visuals that stand out. <strong>Best for:</strong> the highest-quality AI art.
+                  <a href="/tools/midjourney/">Full Midjourney review →</a>
+                </p>
+              </div>
+            </li>
+            <li class="pick-item">
+              <span class="pick-rank" aria-hidden="true">03</span>
+              <div class="pick-body">
+                <h3 class="pick-name">Manus — the best-known AI agent</h3>
+                <p class="pick-text">
+                  One of the best-known autonomous agents of 2026. Instead of just answering, Manus
+                  plans and executes multi-step tasks end to end — browsing, building and delivering
+                  finished results with minimal supervision. <strong>Best for:</strong> delegating whole tasks to AI.
+                  <a href="/tools/manus/">Full Manus review →</a>
+                </p>
+              </div>
+            </li>
+            <li class="pick-item">
+              <span class="pick-rank" aria-hidden="true">04</span>
+              <div class="pick-body">
+                <h3 class="pick-name">Runable — the all-in-one agent</h3>
+                <p class="pick-text">
+                  A general-purpose agent that builds slide decks, websites, videos, spreadsheets and
+                  research documents from a single prompt. Its pitch is consolidation: replacing a stack
+                  of subscriptions with one platform. <strong>Best for:</strong> automating multi-step creative and
+                  operational work. <a href="/tools/runable/">Full Runable review →</a>
+                </p>
+              </div>
+            </li>
+            <li class="pick-item">
+              <span class="pick-rank" aria-hidden="true">05</span>
+              <div class="pick-body">
+                <h3 class="pick-name">Notion — the best productivity hub</h3>
+                <p class="pick-text">
+                  Notes, docs, databases and AI writing in one workspace. Notion has become the
+                  productivity backbone of thousands of teams, and its built-in AI turns the workspace
+                  into a writing and research partner. <strong>Best for:</strong> organizing work, notes and life.
+                  <a href="/tools/notion/">Full Notion review →</a>
+                </p>
+              </div>
+            </li>
+            <li class="pick-item">
+              <span class="pick-rank" aria-hidden="true">06</span>
+              <div class="pick-body">
+                <h3 class="pick-name">Figma — the best design tool</h3>
+                <p class="pick-text">
+                  The standard for interface design, now with AI built in — generating layouts, renaming
+                  layers and speeding up product design from wireframe to handoff. <strong>Best for:</strong> UI/UX
+                  and product design. <a href="/tools/figma/">Full Figma review →</a>
+                </p>
+              </div>
+            </li>
+            <li class="pick-item">
+              <span class="pick-rank" aria-hidden="true">07</span>
+              <div class="pick-body">
+                <h3 class="pick-name">GitHub — the best developer platform</h3>
+                <p class="pick-text">
+                  Where software lives. GitHub combines code hosting, CI/CD and Copilot AI assistance in
+                  the largest developer community on the internet — free for individuals and teams.
+                  <strong>Best for:</strong> coding, collaboration and shipping software. <a href="/tools/github/">Full GitHub review →</a>
+                </p>
+              </div>
+            </li>
+            <li class="pick-item">
+              <span class="pick-rank" aria-hidden="true">08</span>
+              <div class="pick-body">
+                <h3 class="pick-name">Hugging Face — the best open-source AI hub</h3>
+                <p class="pick-text">
+                  The open-source heart of the AI world — a million models and datasets to explore, host
+                  and deploy. The closest thing AI has to a public library, and largely free.
+                  <strong>Best for:</strong> exploring and deploying open AI models. <a href="/tools/hugging-face/">Full Hugging Face review →</a>
+                </p>
+              </div>
+            </li>
+          </ol>
+        </section>
+
+        <section aria-labelledby="faq-title">
+          <h2 id="faq-title" class="sec-title">Best AI tools of 2026 — FAQ</h2>
+          <div class="faq">
+            {faqs.map((f) => (
+              <details class="faq-item">
+                <summary><h3>{f.q}</h3></summary>
+                <p>{f.a}</p>
+              </details>
+            ))}
+          </div>
+        </section>
+
+        <section class="cta-sec" aria-labelledby="cta-title">
+          <h2 id="cta-title" class="sec-title">Keep exploring</h2>
+          <div class="cta-row">
+            <a href="/guides/best-ai-tools-2026/" class="btn btn-ghost">The complete 2026 guide</a>
+            <a href="/category/ai-tools/" class="btn btn-ghost">Browse the AI tools directory</a>
+            <a href="/guides/deepseek-vs-qwen-vs-kimi-vs-glm/" class="btn btn-ghost">Chinese AI models compared</a>
+          </div>
+        </section>
+
+        <p class="back"><a href="/guides/">← All guides</a></p>
+      </div>
+    </article>
+  </main>
+  <Footer />
+</Layout>
+
+<style>
+  .landing { padding-block: clamp(1.5rem, 5vw, 2.5rem) clamp(2rem, 6vw, 3.5rem); }
+  .crumbs { font-size: 0.85rem; color: var(--text-faint); margin-bottom: 1.4rem; }
+  .crumbs a { color: var(--cyan-soft); }
+  .crumbs span { margin-inline: 0.35rem; }
+
+  .landing-head { max-width: 780px; }
+  .landing-title { font-size: clamp(2.2rem, 1.5rem + 4.5vw, 3.6rem); margin-block: 0.9rem 0.9rem; line-height: 1.08; }
+  .landing-desc { color: var(--text-dim); font-size: 1.15rem; max-width: 64ch; }
+  .landing-meta { display: flex; flex-wrap: wrap; gap: 0.5rem; color: var(--text-faint); font-size: 0.9rem; margin-top: 1rem; }
+
+  .sec-title { font-size: clamp(1.5rem, 1.1rem + 2vw, 2.1rem); margin-block: 2.6rem 1rem; scroll-margin-top: 80px; }
+
+  /* ---- Comparison table ---- */
+  .tbl-sec { margin-top: 2.2rem; }
+  .tbl-scroll { overflow-x: auto; border: 1px solid var(--glass-border); border-radius: var(--radius); background: var(--glass-bg); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); }
+  .cmp { width: 100%; border-collapse: collapse; min-width: 640px; font-size: 0.95rem; }
+  .cmp th { text-align: left; font-family: var(--font-head); font-weight: 700; font-size: 0.85rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--text); padding: 0.9rem 1.1rem; border-bottom: 1px solid var(--glass-border-strong); background: rgba(112, 243, 255, 0.05); }
+  .cmp td { padding: 0.9rem 1.1rem; border-bottom: 1px solid var(--glass-border); color: var(--text-dim); vertical-align: top; }
+  .cmp tr:last-child td { border-bottom: none; }
+  .cmp tr:hover td { background: rgba(112, 243, 255, 0.03); }
+  .cmp a { color: var(--cyan-soft); font-family: var(--font-head); font-weight: 600; }
+  .cmp a:hover { text-decoration: underline; }
+  .t-rank { font-family: var(--font-head); font-weight: 800; color: transparent; background: linear-gradient(160deg, var(--cyan), var(--purple)); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; }
+  .t-best { min-width: 260px; }
+  .tbl-note { color: var(--text-faint); font-size: 0.9rem; margin-top: 0.9rem; }
+  .tbl-note a { color: var(--cyan-soft); text-decoration: underline; text-underline-offset: 3px; }
+
+  /* ---- Ranked picks ---- */
+  .pick-list { list-style: none; display: grid; gap: 1rem; }
+  .pick-item {
+    display: flex; gap: 1.1rem; padding: 1.2rem 1.3rem;
+    border-radius: var(--radius); background: var(--glass-bg);
+    border: 1px solid var(--glass-border);
+    backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+    transition: border-color .2s, transform .2s;
+  }
+  .pick-item:hover { border-color: var(--glass-border-strong); transform: translateY(-2px); }
+  .pick-rank { font-family: var(--font-head); font-weight: 800; font-size: 1.6rem; line-height: 1.1; color: transparent; background: linear-gradient(160deg, var(--cyan), var(--purple)); -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent; flex: none; }
+  .pick-name { font-size: 1.25rem; margin-bottom: 0.4rem; }
+  .pick-text { color: var(--text-dim); margin-bottom: 0.3rem; }
+  .pick-text strong { color: var(--text); }
+  .pick-text a { color: var(--cyan-soft); text-decoration: underline; text-underline-offset: 3px; }
+
+  /* ---- FAQ ---- */
+  .faq { display: grid; gap: 0.6rem; }
+  .faq-item { border: 1px solid var(--glass-border); border-radius: 14px; background: var(--glass-bg); overflow: hidden; }
+  .faq-item summary { cursor: pointer; list-style: none; padding: 1rem 1.2rem; display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
+  .faq-item summary::-webkit-details-marker { display: none; }
+  .faq-item summary h3 { font-size: 1.05rem; margin: 0; }
+  .faq-item summary::after { content: '+'; font-family: var(--font-head); font-weight: 700; font-size: 1.3rem; color: var(--cyan-soft); transition: transform .2s; }
+  .faq-item[open] summary::after { transform: rotate(45deg); }
+  .faq-item p { padding: 0 1.2rem 1.1rem; color: var(--text-dim); }
+
+  .cta-row { display: flex; flex-wrap: wrap; gap: 0.8rem; }
+  .back { margin-top: 2.6rem; }
+  .back a { color: var(--cyan-soft); font-weight: 600; }
+
+  @media (min-width: 720px) {
+    .pick-list { grid-template-columns: 1fr; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .pick-item { transition: none; }
+  }
+</style>
