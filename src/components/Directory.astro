@@ -43,7 +43,7 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
     <div class="dir-head">
       <span class="eyebrow"><span class="dot"></span> The Directory</span>
       <h2 class="section-title">Browse every <span class="grad">tool &amp; site</span></h2>
-      <p class="section-lead">Tap a category to expand it. Search to jump straight to what you need.</p>
+      <p class="section-lead">Tap a category to expand it. Search to jump straight to what you need. Missing something? <a href="/contact/#suggest" class="dir-suggest">Suggest a tool →</a></p>
     </div>
 
     <!-- Instant search (progressive: works only as a filter; all content is in the HTML) -->
@@ -136,6 +136,8 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
   /* Trim the big empty gap between the hero and the directory */
   .directory-wrap { padding-top: clamp(1.5rem, 4vw, 2.75rem); }
   .dir-head { max-width: 640px; margin-bottom: 1.6rem; }
+  .dir-suggest { color: var(--cyan-soft); text-decoration: underline; text-underline-offset: 3px; white-space: nowrap; }
+  .dir-suggest:hover { color: var(--cyan); }
 
   /* ---- Search ---- */
   .search { display: flex; align-items: center; gap: 0.6rem; padding: 0.55rem 0.9rem; margin-bottom: 0.5rem; }

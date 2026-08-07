@@ -1,5 +1,6 @@
 ---
 import Page from '../layouts/Page.astro';
+import SuggestToolForm from '../components/SuggestToolForm.astro';
 // Contact email shown plainly — AdSense review requires an accessible contact method
 // without JavaScript (automated reviewers may not execute JS).
 const email = 'mmohamad517@gmail.com';
@@ -20,11 +21,7 @@ const email = 'mmohamad517@gmail.com';
     <a id="cemail" href={`mailto:${email}`}>{email}</a> — we read every message.
   </p>
 
-  <h2>Suggest a tool</h2>
-  <p>
-    Know a website, tool, or forum that deserves a spot? Reach out with the link and a line
-    about why it’s great, and we’ll take a look.
-  </p>
+  <SuggestToolForm email={email} />
 
   <h2>Advertising</h2>
   <p>
