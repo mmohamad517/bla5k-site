@@ -2,6 +2,7 @@
 name: Disney+
 url: https://www.disneyplus.com/
 image: /logos/disney-plus.png
+screenshot: /screens/disney-plus.jpg
 subcategory: ent-streaming
 pricing: paid
 tagline: "The home of Disney, Pixar, Marvel, Star Wars & National Geographic — with Hulu bundles."

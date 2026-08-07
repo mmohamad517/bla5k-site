@@ -29,6 +29,9 @@ const sites = defineCollection({
     metaDescription: z.string().optional(),
     /** Optional logo or hero image URL for this tool. Used in UI and Schema. */
     image: z.string().optional(),
+    /** Optional local screenshot preview (public/screens/<slug>.jpg).
+     *  Shown above the tool name in directory cards as a visual preview. */
+    screenshot: z.string().optional(),
     /** Pricing model — shown as a badge on directory rows and powers the
      *  price filter. free = no paywall at all, freemium = usable free tier
      *  with paid upgrades, paid = requires payment (trial may exist). */

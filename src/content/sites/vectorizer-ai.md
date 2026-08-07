@@ -2,6 +2,7 @@
 name: Vectorizer AI
 url: https://vectorizer.ai/
 image: /logos/vectorizer-ai.png
+screenshot: /screens/vectorizer-ai.jpg
 subcategory: util-images
 tagline: "Convert raster images to clean SVG vectors automatically — AI-powered vectorization."
 tags: [vectorizer, svg, convert, ai, image, vector]

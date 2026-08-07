@@ -37,6 +37,9 @@ const fmt = new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', y
         return (
           <li>
             <a class="newest-card" href={`/tools/${site.id}/`}>
+              {site.data.screenshot && (
+                <img class="newest-shot" src={site.data.screenshot} alt="" width="400" height="250" loading="lazy" decoding="async" onerror="this.remove()" />
+              )}
               <span class="newest-top">
                 <h3 class="newest-name">
                   {site.data.image && (
@@ -107,6 +110,14 @@ const fmt = new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', y
   }
 
   .newest-top { display: flex; align-items: baseline; justify-content: space-between; gap: 0.6rem; flex-wrap: wrap; }
+  .newest-shot {
+    display: block; width: 100%; aspect-ratio: 16 / 10; object-fit: cover; object-position: top;
+    border-radius: 10px; border: 1px solid var(--glass-border);
+    margin-bottom: 0.35rem;
+    transition: transform .35s ease, filter .35s ease;
+    filter: saturate(.92) contrast(1.02);
+  }
+  .newest-card:hover .newest-shot { transform: scale(1.03); filter: saturate(1.05) contrast(1.05); }
   .newest-name { font-family: var(--font-head); font-weight: 700; font-size: 1.12rem; color: var(--text); margin: 0; display: inline-flex; align-items: center; gap: 0.4rem; }
   .newest-logo {
     width: 22px; height: 22px; border-radius: 6px;

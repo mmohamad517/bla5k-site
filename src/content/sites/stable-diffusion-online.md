@@ -2,6 +2,7 @@
 name: Stable Diffusion Online
 url: https://stablediffusionweb.com/
 image: /logos/stable-diffusion-online.png
+screenshot: /screens/stable-diffusion-online.jpg
 subcategory: ai-image
 tagline: "Run Stable Diffusion free in your browser — open-source AI image generation without installation."
 tags: [stable diffusion, free ai, image generation, open source, browser]

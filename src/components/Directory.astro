@@ -102,25 +102,32 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
                       data-feat={site.data.featured ? '1' : '0'}
                       data-pricing={site.data.pricing ?? ''}
                     >
-                      {site.data.image && (
-                        <img class="site-logo" src={site.data.image} alt="" width="26" height="26" loading="lazy" referrerpolicy="no-referrer" />
-                      )}
-                      <div class="site-main">
-                        <a class="site-title" href={`/tools/${site.id}/`}>
-                          {site.data.name}
-                          {site.data.sponsored
-                            ? <span class="spons" title="Paid placement">Sponsored</span>
-                            : site.data.featured && <span class="pick" title="Editor’s pick">★</span>}
-                          {site.data.pricing && (
-                            <span class={`price price-${site.data.pricing}`}>{site.data.pricing}</span>
-                          )}
-                        </a>
-                        <p class="site-tag">{site.data.tagline}</p>
-                      </div>
-                      <a class="site-visit" href={site.data.url} target="_blank" rel={outboundRel(site.data.url, site.data.affiliate, site.data.sponsored)} aria-label={`Visit ${site.data.name}`}>
-                        Visit
-                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                      <a class="site-shot" href={`/tools/${site.id}/`} aria-label={`${site.data.name} preview`} tabindex="-1">
+                        {site.data.screenshot && (
+                          <img class="site-shot-img" src={site.data.screenshot} alt="" width="400" height="250" loading="lazy" decoding="async" onerror="this.closest('.site-shot')?.remove()" />
+                        )}
+                        {site.data.image && (
+                          <img class="site-shot-logo" src={site.data.image} alt="" width="36" height="36" loading="lazy" referrerpolicy="no-referrer" />
+                        )}
                       </a>
+                      <div class="site-row-bot">
+                        <div class="site-main">
+                          <a class="site-title" href={`/tools/${site.id}/`}>
+                            {site.data.name}
+                            {site.data.sponsored
+                              ? <span class="spons" title="Paid placement">Sponsored</span>
+                              : site.data.featured && <span class="pick" title="Editor’s pick">★</span>}
+                            {site.data.pricing && (
+                              <span class={`price price-${site.data.pricing}`}>{site.data.pricing}</span>
+                            )}
+                          </a>
+                          <p class="site-tag">{site.data.tagline}</p>
+                        </div>
+                        <a class="site-visit" href={site.data.url} target="_blank" rel={outboundRel(site.data.url, site.data.affiliate, site.data.sponsored)} aria-label={`Visit ${site.data.name}`}>
+                          Visit
+                          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+                        </a>
+                      </div>
                     </li>
                   ))}
                 </ul>
@@ -230,20 +237,47 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
   .sub[open] > .sub-sum .chev.sm { transform: rotate(180deg); }
   .sub-sum:hover { background: rgba(112,243,255,.03); }
 
-  /* ---- Site rows ---- */
-  .sites { list-style: none; display: grid; gap: 0.4rem; padding: 0 0.5rem 0.6rem; }
+  /* ---- Site rows: card with screenshot preview above the name ---- */
+  .sites { list-style: none; display: grid; gap: 0.6rem; padding: 0 0.5rem 0.6rem; }
   .site-row {
-    display: flex; align-items: center; gap: 0.6rem; justify-content: space-between;
-    padding: 0.7rem 0.75rem; border-radius: 12px;
+    display: flex; flex-direction: column; gap: 0.55rem;
+    padding: 0.6rem; border-radius: 14px;
     background: rgba(30,36,66,.5); border: 1px solid transparent;
-    transition: border-color .2s, background .2s, transform .2s;
+    transition: border-color .2s, background .2s, transform .2s, box-shadow .2s;
   }
-  .site-row:hover { border-color: var(--glass-border-strong); background: rgba(30,36,66,.85); }
-  .site-logo {
-    flex: none; width: 26px; height: 26px; border-radius: 7px;
-    object-fit: contain; background: rgba(255,255,255,.05);
-    border: 1px solid var(--glass-border); padding: 3px;
+  .site-row:hover {
+    border-color: var(--glass-border-strong); background: rgba(30,36,66,.85);
+    transform: translateY(-2px); box-shadow: 0 0 26px -12px rgba(0,240,255,.45);
   }
+  /* Screenshot preview link (decorative — title link is the real entry point) */
+  .site-shot {
+    position: relative; display: block;
+    border-radius: 10px; overflow: hidden;
+    aspect-ratio: 16 / 10;
+    background: linear-gradient(135deg, rgba(18,22,41,.9), rgba(30,36,66,.6));
+    border: 1px solid var(--glass-border);
+  }
+  .site-shot-img {
+    width: 100%; height: 100%; object-fit: cover; object-position: top;
+    display: block;
+    transition: transform .35s ease, filter .35s ease;
+    filter: saturate(.92) contrast(1.02);
+  }
+  .site-row:hover .site-shot-img { transform: scale(1.045); filter: saturate(1.05) contrast(1.05); }
+  /* Bottom gradient + logo chip so the favicon pops on any screenshot */
+  .site-shot::after {
+    content: ""; position: absolute; inset: auto 0 0 0; height: 42%;
+    background: linear-gradient(to top, rgba(8,10,20,.72), transparent);
+    pointer-events: none;
+  }
+  .site-shot-logo {
+    position: absolute; left: 10px; bottom: 10px; z-index: 1;
+    width: 36px; height: 36px; border-radius: 9px;
+    object-fit: contain;
+    background: rgba(12,15,28,.88); border: 1px solid rgba(255,255,255,.16);
+    padding: 4px; box-shadow: 0 4px 14px rgba(0,0,0,.5);
+  }
+  .site-row-bot { display: flex; align-items: center; justify-content: space-between; gap: 0.6rem; }
   .site-main { min-width: 0; }
   .site-title { font-family: var(--font-head); font-weight: 600; font-size: 1rem; color: var(--text); display: inline-flex; align-items: center; gap: 0.35rem; }
   .site-title:hover { color: var(--cyan-soft); }
@@ -255,7 +289,8 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
   }
   .site-tag { color: var(--text-dim); font-size: 0.86rem; margin-top: 0.15rem; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
   .site-visit {
-    flex: none; display: inline-flex; align-items: center; gap: 0.3rem;
+    align-self: flex-start;
+    display: inline-flex; align-items: center; gap: 0.3rem;
     font-family: var(--font-head); font-weight: 600; font-size: 0.82rem; color: var(--cyan-soft);
     padding: 0.45rem 0.8rem; border-radius: 999px;
     background: rgba(0,240,255,.06); border: 1px solid var(--glass-border);

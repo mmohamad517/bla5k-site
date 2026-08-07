@@ -2,6 +2,7 @@
 name: Harvey AI
 url: https://www.harvey.ai/
 image: /logos/harvey-ai.png
+screenshot: /screens/harvey-ai.jpg
 subcategory: ai-productivity
 tagline: "AI for lawyers — draft contracts, analyze documents, and research case law."
 tags: [harvey, legal ai, law, contracts, case law, document analysis]

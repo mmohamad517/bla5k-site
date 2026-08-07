@@ -2,6 +2,7 @@
 name: OpenClaw Agent Templates
 url: https://github.com/mergisi/awesome-openclaw-agents
 image: /logos/openclaw-agent-templates.png
+screenshot: /screens/openclaw-agent-templates.jpg
 subcategory: dev-ai-agents
 tagline: A free, open-source library of 200+ ready-to-use, no-code AI agent templates for the OpenClaw framework.
 tags: ["ai agents", "templates", "no-code", "openclaw", "open-source", "self-hosted"]

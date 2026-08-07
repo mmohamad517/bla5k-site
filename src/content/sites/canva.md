@@ -2,6 +2,7 @@
 name: Canva
 url: https://www.canva.com
 image: /logos/canva.png
+screenshot: /screens/canva.jpg
 subcategory: ai-image
 pricing: freemium
 tagline: The design platform everyone uses — with powerful AI built into every step.

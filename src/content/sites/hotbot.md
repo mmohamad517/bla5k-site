@@ -2,6 +2,7 @@
 name: HotBot
 url: https://hotbot.ai/
 image: /logos/hotbot.png
+screenshot: /screens/hotbot.jpg
 subcategory: ai-chat
 tagline: "Free AI with Claude, GPT-4, Gemini, and DeepSeek—no signup required."
 tags:

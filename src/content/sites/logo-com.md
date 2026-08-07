@@ -2,6 +2,7 @@
 name: LOGO.com
 url: https://logo.com/
 image: /logos/logo-com.png
+screenshot: /screens/logo-com.jpg
 subcategory: design-graphics
 tagline: "Free AI logo generator — create and download logos for your business instantly."
 tags: [logo.com, logo generator, free, ai, brand identity]

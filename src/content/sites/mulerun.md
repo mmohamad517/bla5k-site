@@ -2,6 +2,7 @@
 name: MuleRun
 url: https://mulerun.ai/
 image: /logos/mulerun.png
+screenshot: /screens/mulerun.jpg
 subcategory: dev-ai-agents
 tagline: "AI agent platform for data extraction and web research — automate repetitive research tasks."
 tags: [mulerun, data extraction, web scraping, research agent, automation]

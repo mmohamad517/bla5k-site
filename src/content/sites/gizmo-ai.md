@@ -2,6 +2,7 @@
 name: Gizmo
 url: https://gizmo.ai/
 image: /logos/gizmo-ai.png
+screenshot: /screens/gizmo-ai.jpg
 subcategory: learn-courses
 tagline: "AI learning platform — create flashcards and quizzes from any content automatically."
 tags: [gizmo, flashcards, quiz, ai, learning, study]

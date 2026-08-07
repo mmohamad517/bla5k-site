@@ -2,6 +2,7 @@
 name: Tubi
 url: https://tubitv.com/
 image: /logos/tubi.png
+screenshot: /screens/tubi.jpg
 subcategory: ent-streaming
 pricing: free
 tagline: "The largest free movie & TV streaming service — thousands of titles, no subscription, just ads."

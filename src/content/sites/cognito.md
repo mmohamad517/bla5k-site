@@ -2,6 +2,7 @@
 name: Cognito
 url: https://cognitoedu.org/
 image: /logos/cognito.png
+screenshot: /screens/cognito.jpg
 subcategory: learn-courses
 tagline: "Free GCSE and A-Level revision with short video lessons and AI-powered quizzes."
 tags: [cognito, gcse, revision, education, free, uk]

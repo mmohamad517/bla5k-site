@@ -2,6 +2,7 @@
 name: Character AI
 url: https://character.ai
 image: /logos/character-ai.png
+screenshot: /screens/character-ai.jpg
 subcategory: ai-chat
 pricing: freemium
 tagline: Chat with AI-powered characters — from celebrities to custom creations.

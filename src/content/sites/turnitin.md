@@ -2,6 +2,7 @@
 name: Turnitin
 url: https://www.turnitin.com/
 image: /logos/turnitin.png
+screenshot: /screens/turnitin.jpg
 subcategory: learn-courses
 tagline: "Plagiarism detection and AI writing detection — the academic integrity standard."
 tags: [turnitin, plagiarism, ai detection, academic integrity, students, teachers]

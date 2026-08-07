@@ -2,6 +2,7 @@
 name: Study Fetch
 url: https://www.studyfetch.com/
 image: /logos/study-fetch.png
+screenshot: /screens/study-fetch.jpg
 subcategory: learn-courses
 tagline: "AI study companion — upload lectures and notes to generate flashcards and practice tests."
 tags: [studyfetch, study, flashcards, lectures, ai tutor]

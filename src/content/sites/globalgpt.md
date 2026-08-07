@@ -2,6 +2,7 @@
 name: GlobalGPT
 url: https://globalgpt.com/
 image: /logos/globalgpt.png
+screenshot: /screens/globalgpt.jpg
 subcategory: ai-chat
 tagline: "Access 100+ AI models, generate images and videos—all-in-one creative platform."
 tags:

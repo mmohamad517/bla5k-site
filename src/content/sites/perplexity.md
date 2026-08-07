@@ -2,6 +2,7 @@
 name: Perplexity
 url: https://www.perplexity.ai/
 image: /logos/perplexity.png
+screenshot: /screens/perplexity.jpg
 subcategory: ai-chat
 pricing: freemium
 tagline: "The AI answer engine — real-time search with cited sources, free unlimited searches."

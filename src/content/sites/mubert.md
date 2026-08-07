@@ -2,6 +2,7 @@
 name: Mubert
 url: https://mubert.com
 image: /logos/mubert.png
+screenshot: /screens/mubert.jpg
 subcategory: ai-video-audio
 pricing: freemium
 tagline: Royalty-free AI music — generate tracks that match your content's vibe.

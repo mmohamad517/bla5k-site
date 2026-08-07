@@ -2,6 +2,7 @@
 name: Understand Anything
 url: https://understand-anything.com
 image: /logos/understand-anything.png
+screenshot: /screens/understand-anything.jpg
 subcategory: dev-docs
 tagline: Turn any codebase into an interactive knowledge graph to understand architectures instantly
 tags:

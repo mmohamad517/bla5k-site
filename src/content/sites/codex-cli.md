@@ -2,6 +2,7 @@
 name: OpenAI Codex CLI
 url: https://github.com/openai/codex
 image: /logos/codex-cli.png
+screenshot: /screens/codex-cli.jpg
 subcategory: dev-ai-agents
 tagline: OpenAI's lightweight, open-source coding agent that runs in your terminal — reads your repo, writes code, and opens pull requests.
 tags:

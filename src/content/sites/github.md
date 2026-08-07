@@ -2,6 +2,7 @@
 name: GitHub
 url: https://github.com
 image: /logos/github.png
+screenshot: /screens/github.jpg
 subcategory: dev-code
 pricing: freemium
 tagline: Where the world builds software — code, collaboration, and CI.

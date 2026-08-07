@@ -2,6 +2,7 @@
 name: SkillOpt
 url: https://github.com/microsoft/SkillOpt
 image: /logos/skillopt.png
+screenshot: /screens/skillopt.jpg
 subcategory: dev-ai-agents
 tagline: Microsoft’s open-source optimizer that trains self-evolving skills for LLM agents — no model fine-tuning required.
 tags: ["ai agents", "microsoft", "open-source", "agent optimization", "self-evolving", "llm"]

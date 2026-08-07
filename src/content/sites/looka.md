@@ -2,6 +2,7 @@
 name: Looka
 url: https://looka.com/
 image: /logos/looka.png
+screenshot: /screens/looka.jpg
 subcategory: design-graphics
 pricing: paid
 tagline: "AI logo maker — generate professional logos and brand kits in minutes."

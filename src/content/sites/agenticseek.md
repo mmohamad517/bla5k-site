@@ -2,6 +2,7 @@
 name: AgenticSeek
 url: https://github.com/Fosowl/agenticSeek
 image: /logos/agenticseek.png
+screenshot: /screens/agenticseek.jpg
 subcategory: dev-ai-agents
 tagline: A 100% local, private, open-source alternative to Manus AI — an autonomous agent that runs entirely on your own hardware.
 tags: ["ai agent", "local ai", "privacy", "open-source", "manus alternative", "autonomous", "self-hosted"]

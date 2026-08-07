@@ -2,6 +2,7 @@
 name: VideoCompress.ai
 url: https://videocompress.ai/
 image: /logos/videocompress.png
+screenshot: /screens/videocompress.jpg
 subcategory: va-video-edit
 tagline: "AI video compressor — reduce video file size without losing quality."
 tags: [videocompress, video compressor, reduce size, quality, free]

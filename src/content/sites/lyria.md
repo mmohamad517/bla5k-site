@@ -2,6 +2,7 @@
 name: Lyria
 url: https://deepmind.google/models/lyria/
 image: /logos/lyria.png
+screenshot: /screens/lyria.jpg
 subcategory: ai-video-audio
 tagline: "Google DeepMind's AI music generation model — produces high-fidelity instrumental audio with fine-grained creative control."
 tags:

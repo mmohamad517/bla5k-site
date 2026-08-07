@@ -2,6 +2,7 @@
 name: ThetaWave AI
 url: https://thetawave.ai/
 image: /logos/thetawave.png
+screenshot: /screens/thetawave.jpg
 subcategory: learn-courses
 tagline: "AI-powered focus and study tool — optimized learning sessions with smart breaks."
 tags: [thetawave, focus, study, productivity, ai, learning]

@@ -2,6 +2,7 @@
 name: Removal.ai
 url: https://removal.ai/
 image: /logos/removal-ai.png
+screenshot: /screens/removal-ai.jpg
 subcategory: util-images
 tagline: "AI background remover — remove backgrounds from photos in 3 seconds, free."
 tags: [removal.ai, background removal, ai, photo editing, free]

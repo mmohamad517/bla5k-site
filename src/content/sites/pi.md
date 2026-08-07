@@ -2,6 +2,7 @@
 name: Pi
 url: https://pi.dev
 image: /logos/pi.png
+screenshot: /screens/pi.jpg
 subcategory: dev-ai-agents
 tagline: A minimal, hackable AI agent harness — unify your LLM providers, run agents, and adapt the toolkit to your own workflows.
 tags:

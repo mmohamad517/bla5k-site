@@ -2,6 +2,7 @@
 name: Vocal Image
 url: https://vocalimage.ai/
 image: /logos/vocal-image.png
+screenshot: /screens/vocal-image.jpg
 subcategory: ai-video-audio
 tagline: "AI voice coach — analyze and improve your speaking voice for presentations."
 tags: [vocal image, voice coach, ai, speaking, presentation]

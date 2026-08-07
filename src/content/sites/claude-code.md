@@ -2,6 +2,7 @@
 name: Claude Code
 url: https://docs.anthropic.com/en/docs/claude-code
 image: /logos/claude-code.png
+screenshot: /screens/claude-code.jpg
 subcategory: dev-code
 pricing: paid
 tagline: "Anthropic's agentic coding CLI — reads, writes, tests, and debugs your codebase from the terminal."

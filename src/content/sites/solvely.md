@@ -2,6 +2,7 @@
 name: Solvely
 url: https://solvely.ai/
 image: /logos/solvely.png
+screenshot: /screens/solvely.jpg
 subcategory: learn-courses
 tagline: "AI homework solver — snap a photo of any problem and get detailed explanations."
 tags: [solvely, homework solver, math, science, step-by-step]

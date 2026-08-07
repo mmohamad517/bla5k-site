@@ -2,6 +2,7 @@
 name: Vmake.ai
 url: https://vmake.ai/
 image: /logos/vmake.png
+screenshot: /screens/vmake.jpg
 subcategory: ai-video-audio
 tagline: "AI video and photo editor — enhance product photos and videos for e-commerce."
 tags: [vmake, ai video, photo editor, ecommerce, product]

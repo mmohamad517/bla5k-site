@@ -2,6 +2,7 @@
 name: Midjourney
 url: https://www.midjourney.com
 image: /logos/midjourney.png
+screenshot: /screens/midjourney.jpg
 subcategory: ai-image
 pricing: paid
 tagline: Turn a line of text into strikingly artistic images.

@@ -2,6 +2,7 @@
 name: ttsMP3.com
 url: https://ttsmp3.com/
 image: /logos/ttsmp3.png
+screenshot: /screens/ttsmp3.jpg
 subcategory: ai-video-audio
 tagline: "Free TTS with MP3 download — convert text to speech and save as audio file."
 tags: [ttsmp3, tts, mp3, download, free, text-to-speech]

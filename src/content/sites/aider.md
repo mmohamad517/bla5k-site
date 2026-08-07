@@ -2,6 +2,7 @@
 name: Aider
 url: https://aider.chat/
 image: /logos/aider.png
+screenshot: /screens/aider.jpg
 subcategory: dev-code
 tagline: "AI pair programming in your terminal — edits code in your local git repo with any LLM."
 tags: [aider, pair programming, terminal, git, open source, coding]

@@ -2,6 +2,7 @@
 name: ChatGPT
 url: https://chat.openai.com
 image: /logos/chatgpt.png
+screenshot: /screens/chatgpt.jpg
 subcategory: ai-chat
 pricing: freemium
 tagline: The world's most popular AI chatbot — write, learn, code, and solve

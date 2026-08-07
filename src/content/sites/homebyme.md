@@ -2,6 +2,7 @@
 name: HomeByMe
 url: https://home.by.me
 image: /logos/homebyme.png
+screenshot: /screens/homebyme.jpg
 subcategory: design-3d
 tagline: Design, furnish, and visualize your dream home in 3D — free.
 tags:

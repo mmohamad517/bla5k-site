@@ -2,6 +2,7 @@
 name: Namelix
 url: https://namelix.com/
 image: /logos/namelix.png
+screenshot: /screens/namelix.jpg
 subcategory: design-graphics
 tagline: "AI business name generator — get creative brand names and matching logos instantly."
 tags: [namelix, business name generator, ai, brand naming]

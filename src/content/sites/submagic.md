@@ -2,6 +2,7 @@
 name: Submagic
 url: https://www.submagic.co/
 image: /logos/submagic.png
+screenshot: /screens/submagic.jpg
 subcategory: ai-video-audio
 tagline: "AI subtitle generator — add captions and highlights to short-form videos automatically."
 tags: [submagic, ai subtitles, captions, video editing, short-form]
