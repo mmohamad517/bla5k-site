@@ -1,0 +1,95 @@
+════════════════════════════════════════════════════════════════
+🚀 قائمة طلبات الفهرسة اليوم — Google Search Console (URL Inspection)
+   الهدف: دفع كتلة "best ai tools" للصفحة الأولى
+   (كل الروابط تحققت: 200 حي + في السيماب — أغسطس 2026)
+════════════════════════════════════════════════════════════════
+
+📌 الطريقة (10 ثوانٍ لكل صفحة):
+   search.google.com/search-console → URL Inspection →
+   الصق الرابط → اضغط "REQUEST INDEXING" (الأزرق) → كرر
+
+────────────────────────────────────────────────────────────────
+🏆 المجموعة 1 — الصفحات المباشرة لكلمة "best ai tools" (أرسلها أولًا)
+────────────────────────────────────────────────────────────────
+
+1️⃣  الصفحة الرئيسية — أقوى صفحة في الكتلة
+   🔗 https://bla5k.com/
+   🎯 best ai tools · best ai tools 2026
+   💡 H1 + قسم "Best AI Tools of 2026" الجديد (أمس) + 155 أداة.
+      زحف واحد = يفهرس القسم الجديد + كل روابطه الداخلية الثمانية.
+      ⭐ أهم طلب في اليوم كله.
+
+2️⃣  دليل Best AI Tools 2026 — المقالة الأشمل
+   🔗 https://guides/best-ai-tools-2026/ ← الصق: https://bla5k.com/guides/best-ai-tools-2026/
+   🎯 best ai tools · best ai tools 2026 · best ai tools guide
+   💡 محتوى عميق + FAQ schema = مرشح Position Zero (المقتطف المميز).
+
+3️⃣  صفحة التصنيف AI Tools — تجميع الكتلة
+   🔗 https://bla5k.com/category/ai-tools/
+   🎯 ai tools · best ai tools list · ai tools directory
+   💡 صفحة تجمع كل الأدوات = سلطة كلمة + روابط داخلية لكل الصفحات.
+
+4️⃣  دليل Top 7 AI Tools — مقالة ثانوية في الكتلة
+   🔗 https://bla5k.com/guides/top-7-ai-tools-to-boost-productivity-in-2026-a-complete-guide/
+   🎯 best ai tools · top ai tools 2026 · ai productivity tools
+   💡 عنوان يحمل "Top AI Tools" — يعزز الكتلة من زاوية إنتاجية.
+
+────────────────────────────────────────────────────────────────
+📈 المجموعة 2 — أدوات ضخمة ترفع سلطة الموقع (تدعم الكتلة كلها)
+────────────────────────────────────────────────────────────────
+
+5️⃣  ChatGPT
+   🔗 https://bla5k.com/tools/chatgpt/
+   🎯 chatgpt · chatgpt free · chatgpt login
+   💡 أقوى كلمة بحثًا في العالم + موجود في قائمة "Best 2026" الجديدة
+      على الرئيسية (سياق مرتبط بالكتلة).
+
+6️⃣  DeepSeek
+   🔗 https://bla5k.com/tools/deepseek/
+   🎯 deepseek · deepseek ai · chinese ai model
+   💡 أعلى كلمة صينية بحثًا + عرض 12 في GSC سابقًا — أقرب للصفحة 1.
+
+7️⃣  Perplexity
+   🔗 https://bla5k.com/tools/perplexity/
+   🎯 perplexity ai · ai search engine
+   💡 محرك بحث AI الأشهر — نية "ai search" قريبة من كتلة "ai tools".
+
+8️⃣  Midjourney
+   🔗 https://bla5k.com/tools/midjourney/
+   🎯 midjourney · ai image generator
+   💡 أشهر مولد صور عالميًا + في القسم الجديد.
+
+────────────────────────────────────────────────────────────────
+🎯 المجموعة 3 — صفحات داعمة (روابط داخلية + سياق)
+────────────────────────────────────────────────────────────────
+
+9️⃣  مقارنة DeepSeek vs Qwen vs Kimi vs GLM
+   🔗 https://bla5k.com/guides/deepseek-vs-qwen-vs-kimi-vs-glm/
+   🎯 deepseek vs qwen · chinese ai models
+   💡 صفحة مقارنة جديدة + FAQ — تلتقط استعلامات "ai models" المرتبطة.
+
+🔟  مقارنة PhotoGIMP vs Photoshop
+   🔗 https://bla5k.com/guides/photogimp-vs-photoshop/
+   🎯 photogimp vs photoshop · gimp vs photoshop
+   💡 استعلام "vs" حقيقي من GSC — يجذب زحفًا جديدًا لمنطقة الأدلة.
+
+────────────────────────────────────────────────────────────────
+📊 منطق الترتيب (لماذا هذا التسلسل؟)
+   • أول 4 = صفحات الكتلة المباشرة: الرئيسية ← دليل ← تصنيف ← دليل ثانوي
+     (كل زحف لها يمرر السياق مباشرة لكلمة "best ai tools")
+   • 5-8 = أدوات ضخمة: كل صفحة تُفهرس ترفع سلطة النطاق ككل،
+     وسلطة النطاق هي ما يرفع كل كلماتك بما فيها "best ai tools"
+   • 9-10 = صفحات داعمة جديدة: زحفها يجلب روابط داخلية جديدة
+────────────────────────────────────────────────────────────────
+
+🔄 الأيام القادمة (10 يوميًا حتى 201 صفحة):
+   غدًا: nothing-to-watch / free-ai-video-upscaler / ezremove / gizmo-ai /
+         ttsmaker / mulerun / lipsync-video / monica / befunky / namelix
+   بعده: looka / openevidence / photogimp / turnitin / photopea /
+         starryai / homebyme / openwahatsapp / edge-tts / sider-ai
+
+⏱️ حد جوجل: ~10 طلبات/يوم لكل موقع. طلب = زحف خلال 3-14 يومًا.
+   التزم 10 يوميًا — أكثر من ذلك يتجاهله جوجل.
+
+✅ تحقق تقني قبل الإرسال (تم):
+   سيماب حي 201 رابط · robots يسمح · كل الروابط العشرة = 200
