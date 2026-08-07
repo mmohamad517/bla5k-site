@@ -1,6 +1,7 @@
 ---
 name: VoiceBox
 url: https://voicebox.ai/
+image: https://www.google.com/s2/favicons?domain=voicebox.ai&sz=128
 subcategory: ai-video-audio
 tagline: "AI voiceover platform — create professional voice recordings for videos and podcasts."
 tags: [voicebox, voiceover, ai, professional, recording, podcast]

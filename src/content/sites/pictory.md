@@ -1,6 +1,7 @@
 ---
 name: Pictory
 url: https://pictory.ai
+image: https://www.google.com/s2/favicons?domain=pictory.ai&sz=128
 subcategory: ai-video-audio
 pricing: freemium
 tagline: Turn scripts, articles, and long videos into narrated short videos.

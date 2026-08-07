@@ -1,6 +1,7 @@
 ---
 name: Understand Anything
 url: https://understand-anything.com
+image: https://www.google.com/s2/favicons?domain=understand-anything.com&sz=128
 subcategory: dev-docs
 tagline: Turn any codebase into an interactive knowledge graph to understand architectures instantly
 tags:

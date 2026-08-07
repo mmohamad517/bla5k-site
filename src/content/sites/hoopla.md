@@ -1,6 +1,7 @@
 ---
 name: Hoopla
 url: https://www.hoopladigital.com/
+image: https://www.google.com/s2/favicons?domain=hoopladigital.com&sz=128
 subcategory: ent-streaming
 tagline: "Borrow movies, music, audiobooks, and ebooks free with your library card."
 tags:

@@ -1,6 +1,7 @@
 ---
 name: Course Hero
 url: https://www.coursehero.com/
+image: https://www.google.com/s2/favicons?domain=coursehero.com&sz=128
 subcategory: learn-courses
 tagline: "Study resources and AI tutoring — millions of study guides and expert answers."
 tags: [course hero, study, homework, tutoring, education]

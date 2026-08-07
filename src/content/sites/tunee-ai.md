@@ -1,6 +1,7 @@
 ---
 name: Tunee AI
 url: https://tunee.ai/
+image: https://www.google.com/s2/favicons?domain=tunee.ai&sz=128
 subcategory: ai-video-audio
 tagline: "AI music practice tool — slow down songs, isolate instruments, and learn by ear."
 tags: [tunee, music practice, ai, slow down, isolate instruments]

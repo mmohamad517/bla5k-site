@@ -1,6 +1,7 @@
 ---
 name: Replicate
 url: https://replicate.com/
+image: https://www.google.com/s2/favicons?domain=replicate.com&sz=128
 subcategory: dev-code
 tagline: Serverless cloud platform to run open-source AI models via simple,
   scalable APIs

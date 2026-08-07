@@ -1,6 +1,7 @@
 ---
 name: ChatGPT
 url: https://chat.openai.com
+image: https://www.google.com/s2/favicons?domain=chat.openai.com&sz=128
 subcategory: ai-chat
 pricing: freemium
 tagline: The world's most popular AI chatbot — write, learn, code, and solve

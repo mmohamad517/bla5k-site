@@ -102,6 +102,9 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
                       data-feat={site.data.featured ? '1' : '0'}
                       data-pricing={site.data.pricing ?? ''}
                     >
+                      {site.data.image && (
+                        <img class="site-logo" src={site.data.image} alt="" width="26" height="26" loading="lazy" referrerpolicy="no-referrer" />
+                      )}
                       <div class="site-main">
                         <a class="site-title" href={`/tools/${site.id}/`}>
                           {site.data.name}
@@ -236,6 +239,11 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
     transition: border-color .2s, background .2s, transform .2s;
   }
   .site-row:hover { border-color: var(--glass-border-strong); background: rgba(30,36,66,.85); }
+  .site-logo {
+    flex: none; width: 26px; height: 26px; border-radius: 7px;
+    object-fit: contain; background: rgba(255,255,255,.05);
+    border: 1px solid var(--glass-border); padding: 3px;
+  }
   .site-main { min-width: 0; }
   .site-title { font-family: var(--font-head); font-weight: 600; font-size: 1rem; color: var(--text); display: inline-flex; align-items: center; gap: 0.35rem; }
   .site-title:hover { color: var(--cyan-soft); }

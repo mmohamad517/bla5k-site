@@ -1,6 +1,7 @@
 ---
 name: ComfyUI
 url: https://www.comfy.org/
+image: https://www.google.com/s2/favicons?domain=comfy.org&sz=128
 subcategory: ai-image
 tagline: "Node-based AI workflow engine — connect image, video, audio, and 3D generation models in visual pipelines you can customize and share."
 tags:

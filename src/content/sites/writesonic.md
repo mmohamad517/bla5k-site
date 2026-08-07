@@ -1,6 +1,7 @@
 ---
 name: Writesonic
 url: https://writesonic.com
+image: https://www.google.com/s2/favicons?domain=writesonic.com&sz=128
 subcategory: ai-writing
 pricing: freemium
 tagline: AI writing and SEO content platform — blogs, ads, and a ChatGPT-like assistant.

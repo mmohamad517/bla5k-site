@@ -1,6 +1,7 @@
 ---
 name: Notion
 url: https://www.notion.so
+image: https://www.google.com/s2/favicons?domain=notion.so&sz=128
 subcategory: prod-notes
 pricing: freemium
 tagline: Docs, wikis, and databases combined into one flexible workspace.

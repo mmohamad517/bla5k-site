@@ -1,6 +1,7 @@
 ---
 name: StockCake
 url: https://stockcake.com/
+image: https://www.google.com/s2/favicons?domain=stockcake.com&sz=128
 subcategory: media-photos
 tagline: "Free AI-generated stock photos — unlimited downloads, no attribution required."
 tags: [stockcake, stock photos, free, ai generated, no attribution]

@@ -1,6 +1,7 @@
 ---
 name: Google Gemini
 url: https://gemini.google.com
+image: https://www.google.com/s2/favicons?domain=gemini.google.com&sz=128
 subcategory: ai-chat
 pricing: freemium
 tagline: Google's multimodal AI assistant — chat, images, files, and deep Google integration.

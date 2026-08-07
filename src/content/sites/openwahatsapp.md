@@ -1,6 +1,7 @@
 ---
 name: Open-WA
 url: https://www.open-wa.org/
+image: https://www.google.com/s2/favicons?domain=open-wa.org&sz=128
 subcategory: dev-ai-agents
 tagline: A free, self-hosted, open-source WhatsApp automation library for developers — unofficial, use responsibly.
 tags:

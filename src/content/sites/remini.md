@@ -1,6 +1,7 @@
 ---
 name: Remini
 url: https://remini.ai/
+image: https://www.google.com/s2/favicons?domain=remini.ai&sz=128
 subcategory: util-images
 tagline: "AI photo enhancer — restore old photos, upscale low-resolution images, and sharpen blurry pictures."
 tags: [remini, photo enhance, upscale, restore, ai photo]

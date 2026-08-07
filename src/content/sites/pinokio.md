@@ -1,6 +1,7 @@
 ---
 name: Pinokio
 url: https://pinokio.computer/
+image: https://www.google.com/s2/favicons?domain=pinokio.computer&sz=128
 subcategory: ai-productivity
 tagline: "One-click AI app installer — install and run open-source AI tools on your own computer without touching a terminal."
 tags:

@@ -1,6 +1,7 @@
 ---
 name: Krisp
 url: https://krisp.ai
+image: https://www.google.com/s2/favicons?domain=krisp.ai&sz=128
 subcategory: ai-video-audio
 pricing: freemium
 tagline: AI noise cancellation — remove background sound from any call or recording.

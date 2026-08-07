@@ -1,6 +1,7 @@
 ---
 name: Onepage
 url: https://onepage.io/
+image: https://www.google.com/s2/favicons?domain=onepage.io&sz=128
 subcategory: nc-builders
 tagline: "One-page website builder — create beautiful landing pages in minutes without coding."
 tags: [onepage, website builder, landing page, no-code, one-page]

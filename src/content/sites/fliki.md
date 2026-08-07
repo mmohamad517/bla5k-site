@@ -1,6 +1,7 @@
 ---
 name: Fliki
 url: https://fliki.ai
+image: https://www.google.com/s2/favicons?domain=fliki.ai&sz=128
 subcategory: ai-video-audio
 pricing: freemium
 tagline: Text to video and lifelike voiceovers — from script to narrated video in minutes.

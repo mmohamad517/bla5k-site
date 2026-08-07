@@ -1,6 +1,7 @@
 ---
 name: Veo 3
 url: https://deepmind.google/models/veo/
+image: https://www.google.com/s2/favicons?domain=deepmind.google&sz=128
 subcategory: ai-video-audio
 pricing: freemium
 tagline: Google DeepMind's frontier AI video model — cinematic generation with native audio.

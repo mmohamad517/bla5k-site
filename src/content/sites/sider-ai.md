@@ -1,6 +1,7 @@
 ---
 name: Sider
 url: https://sider.ai/
+image: https://www.google.com/s2/favicons?domain=sider.ai&sz=128
 subcategory: ai-chat
 pricing: freemium
 tagline: "AI sidebar for your browser—30+ models with instant summarize, translate, and rewrite."

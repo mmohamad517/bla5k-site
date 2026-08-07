@@ -1,6 +1,7 @@
 ---
 name: LlamaIndex
 url: https://www.llamaindex.ai/
+image: https://www.google.com/s2/favicons?domain=llamaindex.ai&sz=128
 subcategory: dev-ai-agents
 tagline: "The data framework for LLM applications — connect your data to any large language model."
 tags: [llamaindex, rag, llm framework, data pipeline, ai development, embeddings]

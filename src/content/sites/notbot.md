@@ -1,6 +1,7 @@
 ---
 name: Notbot
 url: https://notbot.io/
+image: https://www.google.com/s2/favicons?domain=notbot.io&sz=128
 subcategory: nc-automation
 tagline: "WhatsApp chatbot builder — automate customer conversations on WhatsApp with AI."
 tags: [notbot, whatsapp, chatbot, automation, customer support, messaging]

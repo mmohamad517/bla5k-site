@@ -1,6 +1,7 @@
 ---
 name: Vapi
 url: https://vapi.ai
+image: https://www.google.com/s2/favicons?domain=vapi.ai&sz=128
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Voice AI agents for developers — build, test, and deploy phone agents.

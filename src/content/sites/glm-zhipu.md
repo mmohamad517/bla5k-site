@@ -1,6 +1,7 @@
 ---
 name: GLM (Zhipu AI)
 url: https://z.ai/
+image: https://www.google.com/s2/favicons?domain=z.ai&sz=128
 subcategory: ai-chat
 pricing: freemium
 tagline: "Zhipu AI's GLM — a frontier Chinese AI for chat, coding, and agentic workflows, with open-source variants."

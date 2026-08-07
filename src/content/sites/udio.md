@@ -1,6 +1,7 @@
 ---
 name: Udio
 url: https://www.udio.com/
+image: https://www.google.com/s2/favicons?domain=udio.com&sz=128
 subcategory: ai-video-audio
 pricing: freemium
 tagline: "AI music generator — create original songs from text prompts with voice control, style blending, and licensed music output."

@@ -1,6 +1,7 @@
 ---
 name: Character AI
 url: https://character.ai
+image: https://www.google.com/s2/favicons?domain=character.ai&sz=128
 subcategory: ai-chat
 pricing: freemium
 tagline: Chat with AI-powered characters — from celebrities to custom creations.

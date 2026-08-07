@@ -1,6 +1,7 @@
 ---
 name: Canva
 url: https://www.canva.com
+image: https://www.google.com/s2/favicons?domain=canva.com&sz=128
 subcategory: ai-image
 pricing: freemium
 tagline: The design platform everyone uses — with powerful AI built into every step.

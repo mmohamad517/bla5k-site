@@ -1,6 +1,7 @@
 ---
 name: Monica
 url: https://monica.im/
+image: https://www.google.com/s2/favicons?domain=monica.im&sz=128
 subcategory: ai-chat
 pricing: freemium
 tagline: "Chrome extension bringing GPT-5, Claude, and Gemini to any webpage—40 free queries/day."

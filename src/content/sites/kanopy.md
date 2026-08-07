@@ -1,6 +1,7 @@
 ---
 name: Kanopy
 url: https://www.kanopy.com/
+image: https://www.google.com/s2/favicons?domain=kanopy.com&sz=128
 subcategory: ent-streaming
 pricing: free
 tagline: "Free, ad-free movies with your library card — award-winning films, documentaries, and classics."

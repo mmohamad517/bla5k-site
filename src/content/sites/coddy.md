@@ -1,6 +1,7 @@
 ---
 name: Coddy
 url: https://coddy.tech/
+image: https://www.google.com/s2/favicons?domain=coddy.tech&sz=128
 subcategory: learn-code
 tagline: "Learn to code on your phone with bite-sized AI-powered lessons — 30+ languages, free."
 tags: [coddy, learn coding, mobile app, programming, beginner, education]

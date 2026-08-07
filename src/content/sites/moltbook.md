@@ -1,6 +1,7 @@
 ---
 name: MoltBook
 url: https://moltbook.com/
+image: https://www.google.com/s2/favicons?domain=moltbook.com&sz=128
 subcategory: ai-productivity
 tagline: "AI-powered notebook for structured thinking — organize ideas, research, and notes with AI assistance."
 tags: [moltbook, ai notebook, note-taking, research, productivity]

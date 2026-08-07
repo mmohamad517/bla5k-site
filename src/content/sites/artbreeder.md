@@ -1,6 +1,7 @@
 ---
 name: Artbreeder
 url: https://www.artbreeder.com
+image: https://www.google.com/s2/favicons?domain=artbreeder.com&sz=128
 subcategory: ai-image
 pricing: freemium
 tagline: Breed and blend AI images — faces, landscapes, and characters that evolve.

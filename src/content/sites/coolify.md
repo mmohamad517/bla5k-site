@@ -1,6 +1,7 @@
 ---
 name: Coolify
 url: https://coolify.io
+image: https://www.google.com/s2/favicons?domain=coolify.io&sz=128
 subcategory: dev-code
 tagline: An open-source, self-hostable alternative to Heroku, Vercel & Netlify — deploy apps, databases, and 280+ services on your own servers.
 tags: ["self-hosting", "paas", "deployment", "open-source", "devops", "heroku alternative"]

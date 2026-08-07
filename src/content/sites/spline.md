@@ -1,6 +1,7 @@
 ---
 name: Spline
 url: https://spline.design/
+image: https://www.google.com/s2/favicons?domain=spline.design&sz=128
 subcategory: design-3d
 tagline: "Free 3D design tool for the web — create interactive 3D experiences in your browser."
 tags: [spline, 3d design, web 3d, interactive, browser, free]

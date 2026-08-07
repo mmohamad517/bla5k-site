@@ -39,6 +39,9 @@ const fmt = new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', y
             <a class="newest-card" href={`/tools/${site.id}/`}>
               <span class="newest-top">
                 <h3 class="newest-name">
+                  {site.data.image && (
+                    <img class="newest-logo" src={site.data.image} alt="" width="22" height="22" loading="lazy" referrerpolicy="no-referrer" />
+                  )}
                   {site.data.name}
                   {site.data.sponsored
                     ? <span class="spons" title="Paid placement">Sponsored</span>
@@ -105,6 +108,11 @@ const fmt = new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', y
 
   .newest-top { display: flex; align-items: baseline; justify-content: space-between; gap: 0.6rem; flex-wrap: wrap; }
   .newest-name { font-family: var(--font-head); font-weight: 700; font-size: 1.12rem; color: var(--text); margin: 0; display: inline-flex; align-items: center; gap: 0.4rem; }
+  .newest-logo {
+    width: 22px; height: 22px; border-radius: 6px;
+    object-fit: contain; background: rgba(255,255,255,.05);
+    border: 1px solid var(--glass-border); padding: 2px;
+  }
   .newest-card:hover .newest-name { color: var(--cyan-soft); }
   .pick { color: var(--orange); font-size: 0.85rem; }
   .spons {

@@ -1,6 +1,7 @@
 ---
 name: DeepSeek
 url: https://deepseek.com/en/
+image: https://www.google.com/s2/favicons?domain=deepseek.com&sz=128
 subcategory: ai-chat
 pricing: freemium
 tagline: "Free, powerful AI chatbot with 1M token context and revolutionary pricing—$0.14/M tokens."

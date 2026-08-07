@@ -1,6 +1,7 @@
 ---
 name: Fandango
 url: https://athome.fandango.com/
+image: https://www.google.com/s2/favicons?domain=athome.fandango.com&sz=128
 subcategory: ent-streaming
 pricing: paid
 tagline: "Rent or buy new movies (formerly Vudu) plus thousands of free ad-supported titles — no subscription."

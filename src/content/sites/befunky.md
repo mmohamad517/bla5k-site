@@ -1,6 +1,7 @@
 ---
 name: BeFunky
 url: https://www.befunky.com/
+image: https://www.google.com/s2/favicons?domain=befunky.com&sz=128
 subcategory: design-graphics
 pricing: freemium
 tagline: "All-in-one photo editor, collage maker, and graphic designer — free online tools."

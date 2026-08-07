@@ -1,6 +1,7 @@
 ---
 name: Synthesia
 url: https://www.synthesia.io
+image: https://www.google.com/s2/favicons?domain=synthesia.io&sz=128
 subcategory: ai-video-audio
 pricing: paid
 tagline: Turn text into studio-quality AI avatar videos — no camera, no actors.

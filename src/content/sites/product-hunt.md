@@ -1,6 +1,7 @@
 ---
 name: Product Hunt
 url: https://www.producthunt.com
+image: https://www.google.com/s2/favicons?domain=producthunt.com&sz=128
 subcategory: disc-launches
 tagline: The internet's daily launchpad for the newest products.
 tags:

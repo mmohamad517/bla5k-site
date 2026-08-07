@@ -1,6 +1,7 @@
 ---
 name: Thea
 url: https://thea.so/
+image: https://www.google.com/s2/favicons?domain=thea.so&sz=128
 subcategory: learn-courses
 tagline: "AI learning assistant that adapts to your knowledge level and fills learning gaps."
 tags: [thea, adaptive learning, ai tutor, personalized]
