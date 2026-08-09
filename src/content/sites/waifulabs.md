@@ -2,7 +2,7 @@
 name: Waifulabs
 url: "https://waifulabs.com/"
 image: /logos/waifulabs.png
-screenshot: /screens/waifulabs.jpg
+screenshot: /screens/waifulabs.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Waifu Lab is an AI tool for creating custom anime portraits in four easy steps.

@@ -2,7 +2,7 @@
 name: Harpy Chat
 url: "https://harpy.chat"
 image: /logos/harpy-chat.png
-screenshot: /screens/harpy-chat.jpg
+screenshot: /screens/harpy-chat.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Harpy.chat is a character-focused chat platform for role-playing, featuring diverse character options from various media.

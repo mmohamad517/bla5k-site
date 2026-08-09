@@ -2,7 +2,7 @@
 name: imini AI
 url: "https://imini.com/"
 image: /logos/imini-ai.png
-screenshot: /screens/imini-ai.jpg
+screenshot: /screens/imini-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: iMini is a super AI agent that autonomously completes tasks based on human instructions, mimicking human thought processes like planning, research, and...

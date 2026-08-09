@@ -2,7 +2,7 @@
 name: AIDetector.review
 url: "https://aidetector.review"
 image: /logos/aidetector-review.png
-screenshot: /screens/aidetector-review.jpg
+screenshot: /screens/aidetector-review.webp
 subcategory: ai-productivity
 pricing: free
 tagline: AIDetector.review is an AI text detection tool that identifies AI-generated content with detailed reports and confidence scores.

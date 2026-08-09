@@ -2,7 +2,7 @@
 name: Jurny
 url: "https://www.jurny.com/"
 image: /logos/jurny.png
-screenshot: /screens/jurny.jpg
+screenshot: /screens/jurny.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Jurny centralizes guest communication, channel management, pricing, housekeeping, and reporting for short‑term rentals and boutique hotels.

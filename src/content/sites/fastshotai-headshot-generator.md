@@ -2,7 +2,7 @@
 name: FastShotAI
 url: "https://fastshotai.com"
 image: /logos/fastshotai-headshot-generator.png
-screenshot: /screens/fastshotai-headshot-generator.jpg
+screenshot: /screens/fastshotai-headshot-generator.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Fastshot AI is a rapid headshot generator that crafts customized digital portraits in just 30 seconds.

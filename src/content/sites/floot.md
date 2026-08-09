@@ -2,7 +2,7 @@
 name: Floot
 url: "https://floot.com"
 image: /logos/floot.png
-screenshot: /screens/floot.jpg
+screenshot: /screens/floot.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Floot is a no-code platform enabling entrepreneurs to create web applications without coding skills.

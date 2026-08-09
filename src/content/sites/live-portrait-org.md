@@ -2,7 +2,7 @@
 name: Live-Portrait.org
 url: "https://live-portrait.org/"
 image: /logos/live-portrait-org.png
-screenshot: /screens/live-portrait-org.jpg
+screenshot: /screens/live-portrait-org.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Live Portrait converts a still image into an animated video by mapping facial motion from a driving video or audio source.

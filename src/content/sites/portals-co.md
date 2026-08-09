@@ -2,7 +2,7 @@
 name: Portals.co
 url: "https://portals.co"
 image: /logos/portals-co.png
-screenshot: /screens/portals-co.jpg
+screenshot: /screens/portals-co.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Portals.co is an AI-driven customer feedback platform that deploys popups and linkable forms across websites and email, auto-generates follow-up questions,...

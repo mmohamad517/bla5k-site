@@ -2,7 +2,7 @@
 name: navan.ai
 url: "https://navan.ai"
 image: /logos/navan-ai.png
-screenshot: /screens/navan-ai.jpg
+screenshot: /screens/navan-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: "Navan AI automates end‑to‑end code development: from product specs to production‑ready, tested code."

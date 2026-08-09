@@ -2,7 +2,7 @@
 name: Hitem3D
 url: "https://hitem3d.ai"
 image: /logos/hitem3d.png
-screenshot: /screens/hitem3d.jpg
+screenshot: /screens/hitem3d.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Hitem3D is an AI-driven 3D model generator that transforms uploaded JPG and PNG images into high-quality multi-view 3D models.

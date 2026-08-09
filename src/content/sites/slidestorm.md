@@ -2,7 +2,7 @@
 name: SlideStorm
 url: "https://slidestorm.ai"
 image: /logos/slidestorm.png
-screenshot: /screens/slidestorm.jpg
+screenshot: /screens/slidestorm.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Slidestorm is an AI-powered TikTok slideshow generator that enables users to efficiently create multiple engaging slideshows, utilizing an intuitive editor...

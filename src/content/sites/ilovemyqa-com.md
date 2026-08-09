@@ -2,7 +2,7 @@
 name: ilovemyqa.com
 url: "https://ilovemyqa.com"
 image: /logos/ilovemyqa-com.png
-screenshot: /screens/ilovemyqa-com.jpg
+screenshot: /screens/ilovemyqa-com.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: ilovemyqa provides AI-powered software testing services from Vancouver, prioritizing clear communication and real device testing across platforms.

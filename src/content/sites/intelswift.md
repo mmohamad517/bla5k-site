@@ -2,7 +2,7 @@
 name: Intelswift
 url: "https://intelswift.com"
 image: /logos/intelswift.png
-screenshot: /screens/intelswift.jpg
+screenshot: /screens/intelswift.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Intelswift automates customer support across chat, email, phone, and video by deploying AI agents that handle routine inquiries, route tickets, and connect...

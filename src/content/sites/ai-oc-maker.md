@@ -2,7 +2,7 @@
 name: AI OC Maker
 url: "https://aiocmaker.com"
 image: /logos/ai-oc-maker.png
-screenshot: /screens/ai-oc-maker.jpg
+screenshot: /screens/ai-oc-maker.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: AI OC Maker generates original characters in anime, realistic, or fantasy styles with controls for appearance, clothing, accessories, and personality.

@@ -2,7 +2,7 @@
 name: Book Witch
 url: "https://bookwitch.io/"
 image: /logos/book-witch.png
-screenshot: /screens/book-witch.jpg
+screenshot: /screens/book-witch.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Book Witch is an AI platform that generates and edits full‑length e‑books in a single click.

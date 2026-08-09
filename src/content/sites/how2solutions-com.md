@@ -2,7 +2,7 @@
 name: How2solutions.com
 url: "https://how2solutions.com"
 image: /logos/how2solutions-com.png
-screenshot: /screens/how2solutions-com.jpg
+screenshot: /screens/how2solutions-com.webp
 subcategory: ai-chat
 pricing: free
 tagline: Clarity Instant is an AI-driven solution finder that offers clear answers to complex inquiries and daily questions.

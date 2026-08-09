@@ -2,7 +2,7 @@
 name: Create Music AI
 url: "https://createmusicai.ai/"
 image: /logos/create-music-ai.png
-screenshot: /screens/create-music-ai.jpg
+screenshot: /screens/create-music-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Create Music AI is an AI music generator that converts text prompts into full-length, royalty-free songs or instrumentals with customizable genre, mood, and...

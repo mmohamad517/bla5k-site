@@ -2,7 +2,7 @@
 name: Chatbit
 url: "https://chatbit.co"
 image: /logos/chatbit.png
-screenshot: /screens/chatbit.jpg
+screenshot: /screens/chatbit.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Chatbit lets users train a custom GPT model on their website, PDFs, or knowledge bases without coding.

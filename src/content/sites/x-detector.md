@@ -2,7 +2,7 @@
 name: X Detector
 url: "https://xdetector.ai/"
 image: /logos/x-detector.png
-screenshot: /screens/x-detector.jpg
+screenshot: /screens/x-detector.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: X Detector analyzes up to 5,000 characters, giving per‑word probability scores to identify whether a passage was written by ChatGPT, Claude, Gemini, or a human.

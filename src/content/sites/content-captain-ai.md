@@ -2,7 +2,7 @@
 name: Captain
 url: "https://contentcaptain.io/"
 image: /logos/content-captain-ai.png
-screenshot: /screens/content-captain-ai.jpg
+screenshot: /screens/content-captain-ai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Captain is an AI-powered marketing platform for brands, automating content creation, optimizing user engagement, and identifying leads in real-time.

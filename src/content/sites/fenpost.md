@@ -2,7 +2,7 @@
 name: FenPost
 url: "https://www.fenpost.com"
 image: /logos/fenpost.png
-screenshot: /screens/fenpost.jpg
+screenshot: /screens/fenpost.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Fenpost is an AI tool for generating LinkedIn content, including posts and carousels.

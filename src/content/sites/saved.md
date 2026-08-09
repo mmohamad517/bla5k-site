@@ -2,7 +2,7 @@
 name: Saved
 url: "https://www.saved.gg"
 image: /logos/saved.png
-screenshot: /screens/saved.jpg
+screenshot: /screens/saved.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Saved is an AI clipper for streamers that automatically detects and edits highlights from live streams, facilitating quick uploads to platforms like YouTube...

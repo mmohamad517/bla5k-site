@@ -2,7 +2,7 @@
 name: Atria
 url: "https://tryatria.com"
 image: /logos/atria.png
-screenshot: /screens/atria.jpg
+screenshot: /screens/atria.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Atria is an AI platform for agencies and brand teams that generates ad scripts and tailored copy from briefs, provides customizable Canva templates, indexes...

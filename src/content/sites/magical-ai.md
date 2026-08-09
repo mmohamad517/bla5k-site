@@ -2,7 +2,7 @@
 name: Magical AI
 url: "https://www.getmagical.com/agentic-ai"
 image: /logos/magical-ai.png
-screenshot: /screens/magical-ai.jpg
+screenshot: /screens/magical-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Magic AI is a free AI tool that assists with writing tasks using text expansion, autofill, and data extraction features.

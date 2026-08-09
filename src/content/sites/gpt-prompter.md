@@ -2,7 +2,7 @@
 name: GPT-Prompter
 url: "https://gptprompter.com/"
 image: /logos/gpt-prompter.png
-screenshot: /screens/gpt-prompter.jpg
+screenshot: /screens/gpt-prompter.webp
 subcategory: ai-chat
 pricing: free
 tagline: GPT‑Prompter is a Chrome extension that brings GPT‑3/4 and ChatGPT API directly into any webpage.

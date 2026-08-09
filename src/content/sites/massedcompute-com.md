@@ -2,7 +2,7 @@
 name: Massedcompute.com
 url: "https://massedcompute.com"
 image: /logos/massedcompute-com.png
-screenshot: /screens/massedcompute-com.jpg
+screenshot: /screens/massedcompute-com.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Massed Compute delivers on‑demand GPU/CPU resources via API and desktop interface, supporting NVIDIA A100/H100/L40/A6000 GPUs and custom clusters.

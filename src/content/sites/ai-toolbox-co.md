@@ -2,7 +2,7 @@
 name: AI Toolbox
 url: "https://ai-toolbox.co"
 image: /logos/ai-toolbox-co.png
-screenshot: /screens/ai-toolbox-co.jpg
+screenshot: /screens/ai-toolbox-co.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: AI Toolbox is a Chrome extension that organizes AI conversations from ChatGPT, Gemini, Claude, and Grok with folders, tags, and full-text cross-platform search.

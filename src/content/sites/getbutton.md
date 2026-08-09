@@ -2,7 +2,7 @@
 name: GetButton
 url: "https://getbutton.io/chatbots"
 image: /logos/getbutton.png
-screenshot: /screens/getbutton.jpg
+screenshot: /screens/getbutton.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: GetButton is an AI-powered chatbot tool for websites like Shopify and WordPress, integrating WhatsApp, Messenger, and Telegram for seamless communication.

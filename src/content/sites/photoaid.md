@@ -2,7 +2,7 @@
 name: PhotoAiD
 url: "https://photoaid.com/"
 image: /logos/photoaid.png
-screenshot: /screens/photoaid.jpg
+screenshot: /screens/photoaid.webp
 subcategory: ai-image
 pricing: free
 tagline: PhotoAiD generates passport, visa, and driver‑license photos from user selfies.

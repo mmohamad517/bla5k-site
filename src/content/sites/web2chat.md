@@ -2,7 +2,7 @@
 name: Web2Chat
 url: "https://web2chat.ai"
 image: /logos/web2chat.png
-screenshot: /screens/web2chat.jpg
+screenshot: /screens/web2chat.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Web2chat is an AI chatbot tool for websites, providing personalized assistance to visitors by instantly responding to inquiries.

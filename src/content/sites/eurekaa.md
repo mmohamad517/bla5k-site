@@ -2,7 +2,7 @@
 name: Eurekaa
 url: "https://eurekaa.io"
 image: /logos/eurekaa.png
-screenshot: /screens/eurekaa.jpg
+screenshot: /screens/eurekaa.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Eurekaa is an AI platform that helps creators design, validate, and launch online courses and books.

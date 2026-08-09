@@ -2,7 +2,7 @@
 name: Spinrewriter
 url: "https://www.spinrewriter.com/"
 image: /logos/spinrewriter.png
-screenshot: /screens/spinrewriter.jpg
+screenshot: /screens/spinrewriter.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Spin Rewriter AI rewrites a single article into up to 1,000 unique, human‑readable variations using ENL Semantic Rewriting.

@@ -2,7 +2,7 @@
 name: Appzen.com
 url: "https://appzen.com"
 image: /logos/appzen-com.png
-screenshot: /screens/appzen-com.jpg
+screenshot: /screens/appzen-com.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: AppZen automates accounts payable, travel & expense, and corporate card processes using AI to capture invoice data, assign GL codes, match POs, and audit...

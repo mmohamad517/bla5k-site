@@ -2,7 +2,7 @@
 name: GETGPT Pro
 url: "https://getgpt.pro/"
 image: /logos/getgpt-pro.png
-screenshot: /screens/getgpt-pro.jpg
+screenshot: /screens/getgpt-pro.webp
 subcategory: ai-chat
 pricing: paid
 tagline: GETGPT Pro simplifies AI tool recharging, offering instant, secure replenishment for ChatGPT Plus, Pro, and other models like Claude and Gemini via...

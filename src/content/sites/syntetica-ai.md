@@ -2,7 +2,7 @@
 name: Syntetica.ai
 url: "https://syntetica.ai"
 image: /logos/syntetica-ai.png
-screenshot: /screens/syntetica-ai.jpg
+screenshot: /screens/syntetica-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Syntetica is a no-code generative AI platform that lets users create and automate content workflows, from converting files to PowerPoint to generating...

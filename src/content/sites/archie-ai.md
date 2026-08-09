@@ -2,7 +2,7 @@
 name: Archie AI
 url: "https://archie.8base.com"
 image: /logos/archie-ai.png
-screenshot: /screens/archie-ai.jpg
+screenshot: /screens/archie-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Archie turns natural‑language ideas into production‑grade code, generating design, wireframes, and test plans, then producing JavaScript, TypeScript,...

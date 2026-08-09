@@ -2,7 +2,7 @@
 name: Lyrics to Song AI
 url: "https://lyricstosong.io"
 image: /logos/lyrics-to-song-ai.png
-screenshot: /screens/lyrics-to-song-ai.jpg
+screenshot: /screens/lyrics-to-song-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Lyrics to Song AI is a tool that converts text lyrics into complete songs with AI-generated vocals and instrumentals.

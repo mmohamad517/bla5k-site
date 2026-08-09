@@ -2,7 +2,7 @@
 name: Tate-A-Tate
 url: "https://www.tate-a-tate.com"
 image: /logos/tate-a-tate.png
-screenshot: /screens/tate-a-tate.jpg
+screenshot: /screens/tate-a-tate.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Tate-A-Tate is a no-code visual builder for designing, testing, and deploying multimodal AI agents with workflow skills, custom code/API tools,...

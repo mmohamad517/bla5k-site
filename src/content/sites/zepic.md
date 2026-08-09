@@ -2,7 +2,7 @@
 name: ZEPIC
 url: "https://www.zepic.com"
 image: /logos/zepic.png
-screenshot: /screens/zepic.jpg
+screenshot: /screens/zepic.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Zepic is an AI-driven customer engagement platform that streamlines communication across channels while prioritizing data privacy.

@@ -2,7 +2,7 @@
 name: Moodboard Creator
 url: "https://www.moodboardcreator.dev/"
 image: /logos/moodboard-creator.png
-screenshot: /screens/moodboard-creator.jpg
+screenshot: /screens/moodboard-creator.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Moodboard Creator is an AI tool that generates stunning moodboards based on your preferences, perfect for kick-starting design projects and sparking creativity.

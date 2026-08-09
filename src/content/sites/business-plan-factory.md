@@ -2,7 +2,7 @@
 name: Business Plan Factory
 url: "https://businessplanfactory.com"
 image: /logos/business-plan-factory.png
-screenshot: /screens/business-plan-factory.jpg
+screenshot: /screens/business-plan-factory.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Business Plan Factory uses AI to generate structured, data‑driven business strategies and templates covering finance, operations, marketing, and growth.

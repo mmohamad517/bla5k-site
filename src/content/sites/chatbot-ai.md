@@ -2,7 +2,7 @@
 name: Chatbot AI
 url: "https://chatbotai.com/"
 image: /logos/chatbot-ai.png
-screenshot: /screens/chatbot-ai.jpg
+screenshot: /screens/chatbot-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Chatbot AI provides access to various AI models for text conversations and image generation.

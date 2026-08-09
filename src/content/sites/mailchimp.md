@@ -2,7 +2,7 @@
 name: Mailchimp
 url: "https://mailchimp.com"
 image: /logos/mailchimp.png
-screenshot: /screens/mailchimp.jpg
+screenshot: /screens/mailchimp.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: MailChimp's AI Marketing Platform offers sophisticated automation for email campaigns, featuring audience segmentation, analytics, personalized content,...

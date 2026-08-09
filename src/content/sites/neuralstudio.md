@@ -2,7 +2,7 @@
 name: NeuralStudio
 url: "https://neural.cam/studio/"
 image: /logos/neuralstudio.png
-screenshot: /screens/neuralstudio.jpg
+screenshot: /screens/neuralstudio.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: NeuralStudio is an AI tool for generating custom support images, logos, and photorealistic images using text, with features like object removal and AI...

@@ -2,7 +2,7 @@
 name: AI Teacha
 url: "https://aiteacha.com"
 image: /logos/ai-teacha.png
-screenshot: /screens/ai-teacha.jpg
+screenshot: /screens/ai-teacha.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: AI Teacha streamlines teaching with tools like lesson note, activity, and lesson plan generators, visual aids, math/physics solvers, and more.

@@ -2,7 +2,7 @@
 name: eesel.ai
 url: "https://www.eesel.ai/"
 image: /logos/eesel-ai.png
-screenshot: /screens/eesel-ai.jpg
+screenshot: /screens/eesel-ai.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Eesel AI deploys autonomous agents that integrate with Zendesk, Freshdesk, Slack, Google Drive, Notion, and Shopify to automate support tickets, draft...

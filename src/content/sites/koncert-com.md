@@ -2,7 +2,7 @@
 name: koncert.com
 url: "https://www.koncert.com/"
 image: /logos/koncert-com.png
-screenshot: /screens/koncert-com.jpg
+screenshot: /screens/koncert-com.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Koncert is an AI‑powered dialing platform for high‑volume, low‑latency B2B calls, offering modes such as AI Parallel, Flow, and Agent‑Assisted.

@@ -2,7 +2,7 @@
 name: IntelliChat
 url: "https://intellichat.io"
 image: /logos/intellichat.png
-screenshot: /screens/intellichat.jpg
+screenshot: /screens/intellichat.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Intellichat is an AI-powered customer support chatbot that provides 24/7 assistance on websites.

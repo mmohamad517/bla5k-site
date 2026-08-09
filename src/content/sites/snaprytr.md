@@ -2,7 +2,7 @@
 name: SnapRytr
 url: "https://snaprytr.com"
 image: /logos/snaprytr.png
-screenshot: /screens/snaprytr.jpg
+screenshot: /screens/snaprytr.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Snaprytr is an AI writing assistant that accelerates article creation, offering automatic content generation, editing support, and diverse output formats.

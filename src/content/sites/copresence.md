@@ -2,7 +2,7 @@
 name: COPRESENCE
 url: "https://www.copresence.tech/"
 image: /logos/copresence.png
-screenshot: /screens/copresence.jpg
+screenshot: /screens/copresence.webp
 subcategory: ai-image
 pricing: paid
 tagline: Copresence is an AI-powered tool that enables users to create hyper-realistic 3D avatars in minutes using an iPhone with Face ID.

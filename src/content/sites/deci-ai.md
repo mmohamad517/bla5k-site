@@ -2,7 +2,7 @@
 name: deci.ai
 url: "https://www.nvidia.com/en-us/#referrer=deciai"
 image: /logos/deci-ai.png
-screenshot: /screens/deci-ai.jpg
+screenshot: /screens/deci-ai.webp
 subcategory: ai-chat
 pricing: free
 tagline: NVIDIA AI Workbench unifies building, training, and deploying AI models on NVIDIA GPUs.

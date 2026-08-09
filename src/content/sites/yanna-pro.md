@@ -2,7 +2,7 @@
 name: Yanna.pro
 url: "https://www.yanna.pro"
 image: /logos/yanna-pro.png
-screenshot: /screens/yanna-pro.jpg
+screenshot: /screens/yanna-pro.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Yanna.pro is an AI-based legal document automation platform offering over 10,000 templates for efficient creation of contracts and demand letters.

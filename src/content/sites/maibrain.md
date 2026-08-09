@@ -2,7 +2,7 @@
 name: Maibrain
 url: "https://www.maibrain.ai"
 image: /logos/maibrain.png
-screenshot: /screens/maibrain.jpg
+screenshot: /screens/maibrain.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Maibrain enables users to create personalized digital agents for knowledge preservation and professional collaboration.

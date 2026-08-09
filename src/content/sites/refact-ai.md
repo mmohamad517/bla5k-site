@@ -2,7 +2,7 @@
 name: Refact AI
 url: "https://refact.ai"
 image: /logos/refact-ai.png
-screenshot: /screens/refact-ai.jpg
+screenshot: /screens/refact-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Refact.ai is an autonomous AI agent for IDEs (VS Code, JetBrains, Neovim) that analyzes entire projects, generates code, completes, debugs, and runs...

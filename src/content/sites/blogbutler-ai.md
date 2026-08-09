@@ -2,7 +2,7 @@
 name: Blogbutler ai
 url: "https://blogbutler.ai"
 image: /logos/blogbutler-ai.png
-screenshot: /screens/blogbutler-ai.jpg
+screenshot: /screens/blogbutler-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: BlogButler.ai automates the blogging process by generating content from monitored data sources, supports multiple languages, integrates with platforms like...

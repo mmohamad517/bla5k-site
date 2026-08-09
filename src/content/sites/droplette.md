@@ -2,7 +2,7 @@
 name: Droplette
 url: "https://droplette.app"
 image: /logos/droplette.png
-screenshot: /screens/droplette.jpg
+screenshot: /screens/droplette.webp
 subcategory: design-graphics
 pricing: paid
 tagline: Droplette is an AI‑driven color palette generator for Figma and FigJam.

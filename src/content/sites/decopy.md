@@ -2,7 +2,7 @@
 name: Decopy
 url: "https://decopy.ai/"
 image: /logos/decopy.png
-screenshot: /screens/decopy.jpg
+screenshot: /screens/decopy.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Decopy is a free AI content detection tool with 99% accuracy, capable of identifying AI-generated text, providing detailed reports, and enhancing text quality.

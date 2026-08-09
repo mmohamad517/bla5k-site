@@ -2,7 +2,7 @@
 name: ZenOp AI Receptionist
 url: "https://thezenop.com/"
 image: /logos/zenop-ai-receptionist.png
-screenshot: /screens/zenop-ai-receptionist.jpg
+screenshot: /screens/zenop-ai-receptionist.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: ZenOp AI Receptionist is an AI phone answering service that handles inbound calls 24/7 to book appointments, qualify leads, and filter spam.

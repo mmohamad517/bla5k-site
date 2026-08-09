@@ -2,7 +2,7 @@
 name: Replicate
 url: https://replicate.com/
 image: /logos/replicate.png
-screenshot: /screens/replicate.jpg
+screenshot: /screens/replicate.webp
 subcategory: dev-code
 tagline: Serverless cloud platform to run open-source AI models via simple,
   scalable APIs

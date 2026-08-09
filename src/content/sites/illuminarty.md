@@ -2,7 +2,7 @@
 name: Illuminarty
 url: "https://illuminarty.ai/en/"
 image: /logos/illuminarty.png
-screenshot: /screens/illuminarty.jpg
+screenshot: /screens/illuminarty.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Illuminarty is an AI tool that detects AI-generated images and texts using computer vision and NLP algorithms.

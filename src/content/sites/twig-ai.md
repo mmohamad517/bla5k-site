@@ -2,7 +2,7 @@
 name: Twig AI
 url: "https://www.twig.so/"
 image: /logos/twig-ai.png
-screenshot: /screens/twig-ai.jpg
+screenshot: /screens/twig-ai.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Twig is an autonomous AI agent platform that integrates with existing support stacks via 30+ connectors, automatically resolves tickets using memory and...

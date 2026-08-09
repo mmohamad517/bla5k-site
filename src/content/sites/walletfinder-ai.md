@@ -2,7 +2,7 @@
 name: Walletfinder.ai
 url: "https://www.walletfinder.ai/"
 image: /logos/walletfinder-ai.png
-screenshot: /screens/walletfinder-ai.jpg
+screenshot: /screens/walletfinder-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Wallet Finder.ai is a DeFi analytics tool that enables crypto traders to analyze blockchain wallets and trading strategies.

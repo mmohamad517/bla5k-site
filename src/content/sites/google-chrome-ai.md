@@ -2,7 +2,7 @@
 name: Google Chrome AI
 url: "https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/linux/chromium_packages.md"
 image: /logos/google-chrome-ai.png
-screenshot: /screens/google-chrome-ai.jpg
+screenshot: /screens/google-chrome-ai.webp
 subcategory: ai-chat
 pricing: free
 tagline: Google Chrome integrates AI features—Gemini-powered context-aware assistance and AI search via the Omnibox—plus Google Lens, password manager, Safe...

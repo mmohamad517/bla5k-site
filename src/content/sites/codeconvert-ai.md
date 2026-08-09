@@ -2,7 +2,7 @@
 name: CodeConvert AI
 url: "https://www.codeconvert.ai/"
 image: /logos/codeconvert-ai.png
-screenshot: /screens/codeconvert-ai.jpg
+screenshot: /screens/codeconvert-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Codeconvert AI is an AI-powered tool that automates code conversion across over 25 programming languages, eliminating the need for manual conversion.

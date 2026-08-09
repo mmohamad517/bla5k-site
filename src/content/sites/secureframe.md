@@ -2,7 +2,7 @@
 name: Secureframe
 url: "https://secureframe.com"
 image: /logos/secureframe.png
-screenshot: /screens/secureframe.jpg
+screenshot: /screens/secureframe.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Secureframe automates security, risk, and compliance workflows—collecting evidence, generating readiness reports, and continuously monitoring controls.

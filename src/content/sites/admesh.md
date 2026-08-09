@@ -2,7 +2,7 @@
 name: AdMesh
 url: "https://useadmesh.com"
 image: /logos/admesh.png
-screenshot: /screens/admesh.jpg
+screenshot: /screens/admesh.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: AdMesh publishes structured product metadata into AI agent ecosystems to enable discovery and intent-based targeting, with performance-based billing for...

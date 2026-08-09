@@ -2,7 +2,7 @@
 name: Webbotify
 url: "https://www.webbotify.com/"
 image: /logos/webbotify.png
-screenshot: /screens/webbotify.jpg
+screenshot: /screens/webbotify.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Webbotify trains a chatbot directly from your site’s content, delivering instant multilingual responses in 95 languages.

@@ -2,7 +2,7 @@
 name: Uncursor
 url: "https://uncursor.com"
 image: /logos/uncursor.png
-screenshot: /screens/uncursor.jpg
+screenshot: /screens/uncursor.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: SpokeSite is an AI-powered platform that enables users to create web applications and websites using natural language prompts, eliminating the need for...

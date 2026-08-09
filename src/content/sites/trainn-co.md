@@ -2,7 +2,7 @@
 name: Trainn AI
 url: "https://trainn.co/"
 image: /logos/trainn-co.png
-screenshot: /screens/trainn-co.jpg
+screenshot: /screens/trainn-co.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Trainn is a no-code customer education platform for SaaS teams that uses AI to convert screen recordings into narrated videos, walkthroughs and...

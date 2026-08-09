@@ -2,7 +2,7 @@
 name: hiringcycle.ai
 url: "https://www.hiringcycle.ai"
 image: /logos/hiringcycle-ai.png
-screenshot: /screens/hiringcycle-ai.jpg
+screenshot: /screens/hiringcycle-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: HiringCycle.ai automates video interview scheduling, screens hundreds of candidates simultaneously, and provides real‑time scoring and analytics.

@@ -2,7 +2,7 @@
 name: Oliv
 url: "https://www.oliv.ai"
 image: /logos/oliv.png
-screenshot: /screens/oliv.jpg
+screenshot: /screens/oliv.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Oliv automates revenue operations, integrating CRM and multiple data sources to deliver real‑time risk alerts, coaching, forecasting, and cross‑deal analysis.

@@ -2,7 +2,7 @@
 name: Agent One
 url: "https://agnt.one"
 image: /logos/agent-one.png
-screenshot: /screens/agent-one.jpg
+screenshot: /screens/agent-one.webp
 subcategory: nc-builders
 pricing: paid
 tagline: Agent One is a no‑code platform that lets businesses build white‑labeled AI assistants on custom domains.

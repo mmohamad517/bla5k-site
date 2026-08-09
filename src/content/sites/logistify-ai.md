@@ -2,7 +2,7 @@
 name: Logistify AI
 url: "https://www.logistify.ai"
 image: /logos/logistify-ai.png
-screenshot: /screens/logistify-ai.jpg
+screenshot: /screens/logistify-ai.webp
 subcategory: fin-fintech
 pricing: paid
 tagline: Logistify AI automates inventory verification in factories and warehouses using generative AI and computer vision.

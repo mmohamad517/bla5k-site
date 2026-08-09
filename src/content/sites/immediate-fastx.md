@@ -2,7 +2,7 @@
 name: Immediate FastX
 url: "https://immediatefastxpl.com/"
 image: /logos/immediate-fastx.png
-screenshot: /screens/immediate-fastx.jpg
+screenshot: /screens/immediate-fastx.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Immediate FastX is an AI-powered cryptocurrency trading platform that automates transactions for Bitcoin, Ethereum, and Litecoin using real-time market...

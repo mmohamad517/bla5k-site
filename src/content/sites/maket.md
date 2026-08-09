@@ -2,7 +2,7 @@
 name: Maket
 url: "https://www.maket.ai/"
 image: /logos/maket.png
-screenshot: /screens/maket.jpg
+screenshot: /screens/maket.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: Maket uses AI to generate accurate, build‑ready residential floor plans from simple room, size, and shape inputs.

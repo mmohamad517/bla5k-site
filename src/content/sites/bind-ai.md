@@ -2,7 +2,7 @@
 name: Bind AI
 url: "https://www.getbind.co"
 image: /logos/bind-ai.png
-screenshot: /screens/bind-ai.jpg
+screenshot: /screens/bind-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Bind AI IDE is a code editor that runs 15+ AI models for automated generation and refinement of Python, React, Next.js, and Node.js.

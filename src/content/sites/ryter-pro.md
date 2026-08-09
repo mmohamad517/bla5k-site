@@ -2,7 +2,7 @@
 name: Ryter Pro
 url: "https://www.ryter.pro"
 image: /logos/ryter-pro.png
-screenshot: /screens/ryter-pro.jpg
+screenshot: /screens/ryter-pro.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Ryter AI Humanizer converts AI-generated text into natural, human-style writing to reduce detection by tools like Turnitin, GPTZero and Originality.ai while...

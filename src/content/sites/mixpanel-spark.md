@@ -2,7 +2,7 @@
 name: Mixpanel Spark
 url: "https://mixpanel.com/spark-ai"
 image: /logos/mixpanel-spark.png
-screenshot: /screens/mixpanel-spark.jpg
+screenshot: /screens/mixpanel-spark.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Spark Beta by Mixpanel is an AI tool that uses natural language processing to provide insights on product, marketing, and revenue questions.

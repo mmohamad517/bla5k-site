@@ -2,7 +2,7 @@
 name: Userflow
 url: "https://www.userflow.com"
 image: /logos/userflow.png
-screenshot: /screens/userflow.jpg
+screenshot: /screens/userflow.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Userflow is an AI-powered product adoption and onboarding platform that auto-creates editable in-app tours, checklists, banners and announcements, offers an...

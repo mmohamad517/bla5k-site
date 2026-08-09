@@ -2,7 +2,7 @@
 name: Velociti
 url: "https://www.velocitipm.com"
 image: /logos/velocitipm.png
-screenshot: /screens/velocitipm.jpg
+screenshot: /screens/velocitipm.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Velociti is an AI operating system for product teams that automates discovery, builds a continuous context layer, generates canvases, problem and story...

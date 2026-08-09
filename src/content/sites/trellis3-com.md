@@ -2,7 +2,7 @@
 name: Trellis3.com
 url: "https://www.trellis3.com/"
 image: /logos/trellis3-com.png
-screenshot: /screens/trellis3-com.jpg
+screenshot: /screens/trellis3-com.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Trellis3.com is a text-and-image to 3D generator that creates editable, animation-ready assets with real-time previews.

@@ -2,7 +2,7 @@
 name: ChatOnce
 url: "https://oncehub.com/product/chatonce-ai"
 image: /logos/chatonce.png
-screenshot: /screens/chatonce.jpg
+screenshot: /screens/chatonce.webp
 subcategory: ai-chat
 pricing: free
 tagline: OnceHub Conversational AI delivers GPT‑4 powered chatbot integration on websites, scheduling appointments, initiating video calls, and mirroring brand voice.

@@ -2,7 +2,7 @@
 name: sparkableai.com
 url: "https://sparkableai.com"
 image: /logos/sparkableai-com.png
-screenshot: /screens/sparkableai-com.jpg
+screenshot: /screens/sparkableai-com.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Sparkable is an AI app builder that uses example prompts and reusable templates to help non-technical users, designers, and developers prototype interfaces...

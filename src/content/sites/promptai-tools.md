@@ -2,7 +2,7 @@
 name: PromptAI Tools
 url: "https://promptaitools.com"
 image: /logos/promptai-tools.png
-screenshot: /screens/promptai-tools.jpg
+screenshot: /screens/promptai-tools.webp
 subcategory: ai-chat
 pricing: free
 tagline: Prompt AI Tools offers free AI utilities for text generation, grammar correction, email drafting, unit/currency conversion, DNS/IP lookup, code assistance,...

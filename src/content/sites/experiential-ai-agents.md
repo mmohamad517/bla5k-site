@@ -2,7 +2,7 @@
 name: Experiential AI Agents - Soul Machines
 url: "https://www.soulmachines.com/workforce-connect"
 image: /logos/experiential-ai-agents.png
-screenshot: /screens/experiential-ai-agents.jpg
+screenshot: /screens/experiential-ai-agents.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Experiential AI Agents is a human-like digital agent platform for lifelike customer interactions, blending natural conversation with workflow automation.

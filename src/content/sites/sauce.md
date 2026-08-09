@@ -2,7 +2,7 @@
 name: Sauce
 url: "http://sauce.app"
 image: /logos/sauce.png
-screenshot: /screens/sauce.jpg
+screenshot: /screens/sauce.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Sauce AI aggregates real‑time customer feedback from Slack, Zendesk, Gong, Intercom, Salesforce, and CSV imports, automatically classifies feature requests...

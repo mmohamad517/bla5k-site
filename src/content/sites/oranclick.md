@@ -2,7 +2,7 @@
 name: OranClick
 url: "https://click.oranai.com"
 image: /logos/oranclick.png
-screenshot: /screens/oranclick.jpg
+screenshot: /screens/oranclick.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: OranClick tracks every link and message, giving creators real‑time insights into click behavior and funnel performance.

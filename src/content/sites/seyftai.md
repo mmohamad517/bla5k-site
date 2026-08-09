@@ -2,7 +2,7 @@
 name: SeyftAI
 url: "https://seyftai.com"
 image: /logos/seyftai.png
-screenshot: /screens/seyftai.jpg
+screenshot: /screens/seyftai.webp
 subcategory: ai-chat
 pricing: free
 tagline: Seyft AI is a multi-modal content moderation platform that filters harmful content in text, images, and videos.

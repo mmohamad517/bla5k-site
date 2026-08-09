@@ -2,7 +2,7 @@
 name: Lorem Faces
 url: "https://loremfaces.net"
 image: /logos/lorem-faces.png
-screenshot: /screens/lorem-faces.jpg
+screenshot: /screens/lorem-faces.webp
 subcategory: ai-image
 pricing: free
 tagline: Lorem Faces is a customizable tool for developers to generate AI-generated profile pictures in various sizes (24 to 256 pixels).

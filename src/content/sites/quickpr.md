@@ -2,7 +2,7 @@
 name: QuickPR
 url: "https://quickpr.co"
 image: /logos/quickpr.png
-screenshot: /screens/quickpr.jpg
+screenshot: /screens/quickpr.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: QuickPR is a digital PR platform that utilizes AI for efficient article creation and fast publication.

@@ -2,7 +2,7 @@
 name: BabbleBox.ai by MakeForms.io
 url: "https://babblebox.ai"
 image: /logos/babblebox-ai-by-makeforms-io.png
-screenshot: /screens/babblebox-ai-by-makeforms-io.jpg
+screenshot: /screens/babblebox-ai-by-makeforms-io.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Babblebox is an AI tool that enhances communication through human-like, interactive conversations.

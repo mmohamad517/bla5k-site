@@ -2,7 +2,7 @@
 name: Tripo 3d
 url: "https://studio.tripo3d.ai"
 image: /logos/tripo-3d-ai.png
-screenshot: /screens/tripo-3d-ai.jpg
+screenshot: /screens/tripo-3d-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Tripo Studio is an AI-driven 3D workspace that creates high-fidelity models from text and images.

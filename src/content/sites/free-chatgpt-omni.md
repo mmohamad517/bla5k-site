@@ -2,7 +2,7 @@
 name: Free ChatGPT Omni
 url: "https://gptomni.ai"
 image: /logos/free-chatgpt-omni.png
-screenshot: /screens/free-chatgpt-omni.jpg
+screenshot: /screens/free-chatgpt-omni.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Free ChatGPT Omni offers a web interface to GPT‑4 Omni, supporting text, audio, and image inputs with multimodal responses.

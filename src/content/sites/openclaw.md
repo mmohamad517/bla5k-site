@@ -2,7 +2,7 @@
 name: OpenClaw
 url: https://openclaw.ai
 image: /logos/openclaw.png
-screenshot: /screens/openclaw.jpg
+screenshot: /screens/openclaw.webp
 subcategory: dev-ai-agents
 tagline: The open-source personal AI assistant that lives on your devices and acts through the chat apps you already use — WhatsApp, Telegram, iMessage, Slack, Discord, and more.
 tags:

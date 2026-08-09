@@ -2,7 +2,7 @@
 name: Runday
 url: "https://runday.ai/"
 image: /logos/runday.png
-screenshot: /screens/runday.jpg
+screenshot: /screens/runday.webp
 subcategory: nc-automation
 pricing: freemium
 tagline: Runday.ai automates engagement across channels, sending hyper‑personalized outreach based on prospect profiles and company data.

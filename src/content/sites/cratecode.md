@@ -2,7 +2,7 @@
 name: Cratecode
 url: "https://cratecode.com"
 image: /logos/cratecode.png
-screenshot: /screens/cratecode.jpg
+screenshot: /screens/cratecode.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Cratecode offers project‑based programming courses with non‑linear pathways and measurable milestones.

@@ -2,7 +2,7 @@
 name: Vibe3D.ai
 url: "https://vibe3d.ai"
 image: /logos/vibe3d-ai.png
-screenshot: /screens/vibe3d-ai.jpg
+screenshot: /screens/vibe3d-ai.webp
 subcategory: design-3d
 pricing: paid
 tagline: Vibe3D is an AI-powered rendering tool that generates photorealistic 3D visuals in seconds, allowing users to import designs from SketchUp or 3ds Max while...

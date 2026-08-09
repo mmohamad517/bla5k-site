@@ -2,7 +2,7 @@
 name: Everyday AI Tools
 url: "https://everydayaitools.com"
 image: /logos/everyday-ai-tools.png
-screenshot: /screens/everyday-ai-tools.jpg
+screenshot: /screens/everyday-ai-tools.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Everyday AI Tools uses GPT‑4 Turbo to produce ready‑to‑publish content—posts, cover letters, essays, scripts, marketing emails—based on user prompts.

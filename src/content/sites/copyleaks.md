@@ -2,7 +2,7 @@
 name: Copyleaks
 url: "https://copyleaks.com/"
 image: /logos/copyleaks.png
-screenshot: /screens/copyleaks.jpg
+screenshot: /screens/copyleaks.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Copyleaks delivers AI text and image detection, plagiarism checking, grammar correction, and text moderation in 30+ languages.

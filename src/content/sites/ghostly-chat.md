@@ -2,7 +2,7 @@
 name: Ghostly chat
 url: "https://www.ghostly.chat"
 image: /logos/ghostly-chat.png
-screenshot: /screens/ghostly-chat.jpg
+screenshot: /screens/ghostly-chat.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Ghostly lets businesses build knowledge chatbots by uploading PDFs, text, Markdown, or URLs.

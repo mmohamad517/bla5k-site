@@ -2,7 +2,7 @@
 name: Zev
 url: "https://zevbot.com/"
 image: /logos/zev.png
-screenshot: /screens/zev.jpg
+screenshot: /screens/zev.webp
 subcategory: ai-chat
 pricing: free
 tagline: Zev is an AI chatbot on Telegram, Line, and Viber that can assist with answering questions, providing recommendations, language translation, and using...

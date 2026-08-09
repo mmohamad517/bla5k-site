@@ -2,7 +2,7 @@
 name: GenSpark AI Browser
 url: "https://www.genspark.ai/browser"
 image: /logos/genspark-ai-browser.png
-screenshot: /screens/genspark-ai-browser.jpg
+screenshot: /screens/genspark-ai-browser.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Moment is an AI tool that enhances online security by verifying human actions, ensuring legitimate user interactions.

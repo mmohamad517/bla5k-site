@@ -2,7 +2,7 @@
 name: SpeakBrightly
 url: "https://speakbrightly.com"
 image: /logos/speakbrightly.png
-screenshot: /screens/speakbrightly.jpg
+screenshot: /screens/speakbrightly.webp
 subcategory: learn-courses
 pricing: freemium
 tagline: SpeakBrightly is an AI tool that helps users overcome speaking anxiety and improve public speaking skills through personalized practice, constructive...

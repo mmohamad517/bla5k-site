@@ -2,7 +2,7 @@
 name: FloorPlanMaker.ai
 url: "https://floorplanmaker.ai/"
 image: /logos/floorplanmaker-ai.png
-screenshot: /screens/floorplanmaker-ai.jpg
+screenshot: /screens/floorplanmaker-ai.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: FloorPlanMaker.ai is an AI tool that generates technical 2D, 2.5D, and 3D isometric floor plans from user-defined room preferences and dimensions.

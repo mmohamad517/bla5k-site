@@ -2,7 +2,7 @@
 name: ReRender AI
 url: "https://rerenderai.com/"
 image: /logos/rerender-ai.png
-screenshot: /screens/rerender-ai.jpg
+screenshot: /screens/rerender-ai.webp
 subcategory: design-3d
 pricing: freemium
 tagline: ReRender AI turns concept sketches, reference images, or 3‑D models into photorealistic interior and exterior renders.

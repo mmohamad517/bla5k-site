@@ -2,7 +2,7 @@
 name: SmoothRizz
 url: "https://smoothrizz.com"
 image: /logos/smoothrizz.png
-screenshot: /screens/smoothrizz.jpg
+screenshot: /screens/smoothrizz.webp
 subcategory: learn-courses
 pricing: free
 tagline: Smoothrizz is a messaging enhancement tool that provides guided conversation frameworks, effective strategies, and a library of conversation starters.

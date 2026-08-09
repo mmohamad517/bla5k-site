@@ -2,7 +2,7 @@
 name: ChatGPT Français (French)
 url: "https://chatgptfrench.org"
 image: /logos/chatgpt-francais-french.png
-screenshot: /screens/chatgpt-francais-french.jpg
+screenshot: /screens/chatgpt-francais-french.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Free GPT‑3.5 API access in French, no sign‑up needed.

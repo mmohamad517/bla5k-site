@@ -2,7 +2,7 @@
 name: SEO Blog Generator
 url: "https://seobloggenerator.com/"
 image: /logos/seo-blog-generator.png
-screenshot: /screens/seo-blog-generator.jpg
+screenshot: /screens/seo-blog-generator.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Generate fully optimized blog posts by specifying topic, tone, and keywords.

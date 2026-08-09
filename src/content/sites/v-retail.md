@@ -2,7 +2,7 @@
 name: V-retail
 url: "https://www.vretail.space"
 image: /logos/v-retail.png
-screenshot: /screens/v-retail.jpg
+screenshot: /screens/v-retail.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: V‑Retail AI provides a live visitor dashboard and real‑time chat, voice, or low‑bandwidth video support for remote site navigation.

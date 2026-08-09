@@ -2,7 +2,7 @@
 name: PopboxGPT
 url: "https://www.popboxgpt.com"
 image: /logos/popboxgpt.png
-screenshot: /screens/popboxgpt.jpg
+screenshot: /screens/popboxgpt.webp
 subcategory: ai-chat
 pricing: paid
 tagline: PopboxGPT is a Chrome extension that embeds GPT‑3.5‑turbo into the browser, offering Alt+J quick launch, fullscreen mode, persistent session history, and a...

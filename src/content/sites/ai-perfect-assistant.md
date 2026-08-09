@@ -2,7 +2,7 @@
 name: AI Perfect Assistant
 url: "https://perfectassistant.ai/"
 image: /logos/ai-perfect-assistant.png
-screenshot: /screens/ai-perfect-assistant.jpg
+screenshot: /screens/ai-perfect-assistant.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: AI Perfect Assistant adds ChatGPT, Gemini, Claude, and 60+ LLMs to Office 365 apps, delivering real‑time grammar, style checks, drafting, summarization,...

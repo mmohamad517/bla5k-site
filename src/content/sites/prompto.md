@@ -2,7 +2,7 @@
 name: Prompto
 url: "https://prompto.asanchez.dev"
 image: /logos/prompto.png
-screenshot: /screens/prompto.jpg
+screenshot: /screens/prompto.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Prompto is an open‑source Angular PWA that lets users interact with multiple LLMs via LangChain.js, adjusting temperature for creativity.

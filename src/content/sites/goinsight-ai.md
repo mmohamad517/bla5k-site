@@ -2,7 +2,7 @@
 name: GoInsight.AI
 url: "https://goinsight.ai"
 image: /logos/goinsight-ai.png
-screenshot: /screens/goinsight-ai.jpg
+screenshot: /screens/goinsight-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: GoInsight.AI is a ChatGPT-powered chatbot for enterprises that combines conversational support, workflow automation, role-based collaboration, integrations...

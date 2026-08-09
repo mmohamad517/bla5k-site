@@ -2,7 +2,7 @@
 name: Mood board ai
 url: "https://moodboardai.com"
 image: /logos/mood-board-ai.png
-screenshot: /screens/mood-board-ai.jpg
+screenshot: /screens/mood-board-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: AI‑powered MoodBoard generates professional moodboards for interiors, fashion, weddings, and branding by selecting style and color.

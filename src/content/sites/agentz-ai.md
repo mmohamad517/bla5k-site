@@ -2,7 +2,7 @@
 name: agentz.ai
 url: "https://agentz.ai"
 image: /logos/agentz-ai.png
-screenshot: /screens/agentz-ai.jpg
+screenshot: /screens/agentz-ai.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Agentz automates real‑time customer engagement across voice, SMS, web, and social channels.

@@ -2,7 +2,7 @@
 name: Aidea
 url: "https://aidea-app.framer.website/"
 image: /logos/aidea.png
-screenshot: /screens/aidea.jpg
+screenshot: /screens/aidea.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Aidea is an AI-powered notepad that transforms ideas into actionable plans.

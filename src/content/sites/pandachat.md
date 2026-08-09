@@ -2,7 +2,7 @@
 name: PandaChat
 url: "https://pandachat.ai/"
 image: /logos/pandachat.png
-screenshot: /screens/pandachat.jpg
+screenshot: /screens/pandachat.webp
 subcategory: ai-productivity
 pricing: free
 tagline: PandaChat automates customer support for e‑commerce, integrating with platforms like Shopify, WooCommerce, Magento, and ERP systems.

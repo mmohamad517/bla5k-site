@@ -2,7 +2,7 @@
 name: Whappy
 url: "https://whappy.ai"
 image: /logos/whappy.png
-screenshot: /screens/whappy.jpg
+screenshot: /screens/whappy.webp
 subcategory: nc-automation
 pricing: freemium
 tagline: Whappy is a WhatsApp automation tool that streamlines lead qualification and appointment booking through AI-powered conversations, enabling 24/7 engagement,...

@@ -2,7 +2,7 @@
 name: Pepper Content
 url: "https://peppercontent.io"
 image: /logos/pepper-content.png
-screenshot: /screens/pepper-content.jpg
+screenshot: /screens/pepper-content.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Pepper is an AI platform that blends autonomous SEO, GEO, and content agents with human oversight.

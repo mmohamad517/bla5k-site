@@ -2,7 +2,7 @@
 name: Assistante App
 url: "https://assistante.app"
 image: /logos/assistante-app.png
-screenshot: /screens/assistante-app.jpg
+screenshot: /screens/assistante-app.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Assistante.App Chatbot GPT provides customizable GPT-based chatbots, text-to-image and vision recognition, YouTube-to-article conversion, voiceover...

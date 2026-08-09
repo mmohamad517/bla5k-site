@@ -2,7 +2,7 @@
 name: Bloome
 url: "https://bloome.im"
 image: /logos/bloome-im.png
-screenshot: /screens/bloome-im.jpg
+screenshot: /screens/bloome-im.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Bloome is a platform that coordinates AI agents and human teams across product development, content creation, sales, and operations, enabling end-to-end...

@@ -2,7 +2,7 @@
 name: Homeway
 url: "https://homeway.io"
 image: /logos/homeway.png
-screenshot: /screens/homeway.jpg
+screenshot: /screens/homeway.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Homeway offers secure, low‑latency remote access to Home Assistant servers with end‑to‑end encrypted WebRTC video.

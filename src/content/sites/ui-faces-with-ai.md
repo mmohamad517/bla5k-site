@@ -2,7 +2,7 @@
 name: UI Faces with AI
 url: "https://uifaces.co"
 image: /logos/ui-faces-with-ai.png
-screenshot: /screens/ui-faces-with-ai.jpg
+screenshot: /screens/ui-faces-with-ai.webp
 subcategory: ai-image
 pricing: free
 tagline: UI Faces offers a free library of high‑quality AI avatars—Human, Alien, Cartoon, and Abstract—plus 100 detailed personas.

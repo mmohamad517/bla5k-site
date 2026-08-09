@@ -2,7 +2,7 @@
 name: Upreach
 url: "https://upreach.ai"
 image: /logos/upreach.png
-screenshot: /screens/upreach.jpg
+screenshot: /screens/upreach.webp
 subcategory: nc-automation
 pricing: paid
 tagline: Upreach is an AI‑powered outreach platform that converts a single natural‑language query into precise leads from 25 data sources.

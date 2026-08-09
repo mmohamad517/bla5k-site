@@ -2,7 +2,7 @@
 name: Teloz
 url: "https://teloz.com"
 image: /logos/teloz.png
-screenshot: /screens/teloz.jpg
+screenshot: /screens/teloz.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Teloz consolidates calls, chat, video, and fax into an omnichannel interface, automating routing with an ACD engine and tools like sentiment analysis.

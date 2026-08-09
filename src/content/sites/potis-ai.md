@@ -2,7 +2,7 @@
 name: Potis.ai
 url: "https://www.potis.ai/"
 image: /logos/potis-ai.png
-screenshot: /screens/potis-ai.jpg
+screenshot: /screens/potis-ai.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Potis.AI automates video screening, behavioral interviews, and delivers heat‑map analytics with a unified scoring system to streamline talent acquisition.

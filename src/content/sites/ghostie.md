@@ -2,7 +2,7 @@
 name: ghostie
 url: "https://getghostie.com"
 image: /logos/ghostie.png
-screenshot: /screens/ghostie.jpg
+screenshot: /screens/ghostie.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Ghostie is an AI content generation tool that creates tailored, SEO-optimized articles.

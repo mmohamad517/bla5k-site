@@ -2,7 +2,7 @@
 name: ClientZen
 url: "https://clientzen.io"
 image: /logos/clientzen.png
-screenshot: /screens/clientzen.jpg
+screenshot: /screens/clientzen.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: ClientZen aggregates customer feedback from tickets and reviews, analyzing it to surface spikes and recurring issues.

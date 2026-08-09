@@ -2,7 +2,7 @@
 name: Frase
 url: "https://www.frase.io/?via=topaitools"
 image: /logos/frase.png
-screenshot: /screens/frase.jpg
+screenshot: /screens/frase.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Frase is an AI tool for generating articles, rewriting paragraphs, and creating SEO content, with additional features like a smart editor, blog title...

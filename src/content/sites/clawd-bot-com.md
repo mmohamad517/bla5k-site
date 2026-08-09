@@ -2,7 +2,7 @@
 name: clawd-bot.com
 url: "https://www.clawd-bot.com"
 image: /logos/clawd-bot-com.png
-screenshot: /screens/clawd-bot-com.jpg
+screenshot: /screens/clawd-bot-com.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: clawd-bot.com is a personal, local AI assistant that connects to your chat apps and computer.

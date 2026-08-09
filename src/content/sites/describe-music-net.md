@@ -2,7 +2,7 @@
 name: Describe Music AI
 url: "https://describemusic.net/"
 image: /logos/describe-music-net.png
-screenshot: /screens/describe-music-net.jpg
+screenshot: /screens/describe-music-net.webp
 subcategory: ai-video-audio
 pricing: freemium
 tagline: Describe Music.net is an AI audio analysis tool that generates detailed music descriptions, detects genre/mood/instruments, and analyzes voice/sound effects.

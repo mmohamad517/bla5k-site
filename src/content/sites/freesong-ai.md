@@ -2,7 +2,7 @@
 name: FreeSong AI
 url: "https://freesong.ai/"
 image: /logos/freesong-ai.png
-screenshot: /screens/freesong-ai.jpg
+screenshot: /screens/freesong-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Freesong is a browser-based AI song generator that converts text prompts, humming, or uploads into full tracks with AI voice cloning, genre/mood...

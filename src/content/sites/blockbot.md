@@ -2,7 +2,7 @@
 name: BlockBot
 url: "https://www.blockbot.ai"
 image: /logos/blockbot.png
-screenshot: /screens/blockbot.jpg
+screenshot: /screens/blockbot.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: BlockBot is a blockchain‑based AI bot ecosystem where users purchase $BOT tokens to acquire or upgrade Bot NFTs, unlocking persona, influencer, fan, art, or...

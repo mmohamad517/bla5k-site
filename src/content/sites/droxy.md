@@ -2,7 +2,7 @@
 name: Droxy
 url: "https://www.droxy.ai/"
 image: /logos/droxy.png
-screenshot: /screens/droxy.jpg
+screenshot: /screens/droxy.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Droxy AI is a no-code chatbot builder.

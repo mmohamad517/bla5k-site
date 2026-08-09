@@ -2,7 +2,7 @@
 name: Alan AI Platform
 url: "https://alan.app"
 image: /logos/alan-ai-platform.png
-screenshot: /screens/alan-ai-platform.jpg
+screenshot: /screens/alan-ai-platform.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Alan AI is a cloud‑based platform that builds adaptive voice assistants via lightweight SDKs.

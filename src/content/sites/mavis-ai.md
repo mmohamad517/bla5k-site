@@ -2,7 +2,7 @@
 name: Mavis AI
 url: "https://heymavis.ai"
 image: /logos/mavis-ai.png
-screenshot: /screens/mavis-ai.jpg
+screenshot: /screens/mavis-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Mavis AI is a content automation platform that enables publishers and marketing teams to quickly generate SEO-friendly articles, newsletters, and social...

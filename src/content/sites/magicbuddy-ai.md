@@ -2,7 +2,7 @@
 name: MagicBuddy
 url: "https://magicbuddy.ai"
 image: /logos/magicbuddy-ai.png
-screenshot: /screens/magicbuddy-ai.jpg
+screenshot: /screens/magicbuddy-ai.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: MagicBuddy is a ChatGPT-powered Telegram bot that delivers instant GPT responses inside Telegram, supporting text, voice and image input with transcription...

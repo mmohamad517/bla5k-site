@@ -2,7 +2,7 @@
 name: Navismart AI
 url: "https://www.navismartai.com"
 image: /logos/navismart-ai.png
-screenshot: /screens/navismart-ai.jpg
+screenshot: /screens/navismart-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Navismart AI simplifies the immigration process with AI-driven form filling, an eligibility checker for visa options, 24/7 support, mock interview practice,...

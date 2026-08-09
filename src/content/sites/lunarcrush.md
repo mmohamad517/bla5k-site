@@ -2,7 +2,7 @@
 name: LunarCrush
 url: "https://lunarcrush.com"
 image: /logos/lunarcrush.png
-screenshot: /screens/lunarcrush.jpg
+screenshot: /screens/lunarcrush.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: LunarCrush is an AI-powered tool that gathers real-time social data for crypto investors and enthusiasts.

@@ -2,7 +2,7 @@
 name: Almeta ML
 url: "https://almeta.cloud"
 image: /logos/almeta-ml.png
-screenshot: /screens/almeta-ml.jpg
+screenshot: /screens/almeta-ml.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Almeta ML is a predictive analytics tool that analyzes customer behavior across digital platforms using advanced machine learning.

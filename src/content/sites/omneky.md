@@ -2,7 +2,7 @@
 name: Omneky
 url: "https://www.omneky.com/"
 image: /logos/omneky.png
-screenshot: /screens/omneky.jpg
+screenshot: /screens/omneky.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Omneky automates creation of image, video, UGC, and avatar‑based ads by extracting brand assets from a website or uploads.

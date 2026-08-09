@@ -2,7 +2,7 @@
 name: Somio.ai
 url: "https://somio.ai/"
 image: /logos/somio-ai.png
-screenshot: /screens/somio-ai.jpg
+screenshot: /screens/somio-ai.webp
 subcategory: ai-writing
 pricing: free
 tagline: Somio AI is a browser-based karaoke maker that instantly removes vocals and splits stems (drums, bass, piano, guitar) from any audio file, allowing users to...

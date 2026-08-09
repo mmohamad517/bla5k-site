@@ -2,7 +2,7 @@
 name: CrawlChat
 url: "https://crawlchat.app/login"
 image: /logos/crawlchat.png
-screenshot: /screens/crawlchat.jpg
+screenshot: /screens/crawlchat.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: CrawlChat converts product and technical documentation into an AI chatbot and searchable knowledge base for websites, Discord, and Slack, importing from...

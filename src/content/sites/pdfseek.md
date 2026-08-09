@@ -2,7 +2,7 @@
 name: PDFSeek
 url: "https://www.pdfseek.com"
 image: /logos/pdfseek.png
-screenshot: /screens/pdfseek.jpg
+screenshot: /screens/pdfseek.webp
 subcategory: ai-productivity
 pricing: free
 tagline: pdfseek is an AI tool for managing PDF documents, offering features like document translation, information extraction, summarization, and page searching.

@@ -2,7 +2,7 @@
 name: Heights
 url: "https://www.heightsplatform.com/features/coaching"
 image: /logos/heights.png
-screenshot: /screens/heights.jpg
+screenshot: /screens/heights.webp
 subcategory: learn-courses
 pricing: paid
 tagline: Heights AI Coach autonomously generates weekly tasks, tips, and reminders for course creators, coaches, and digital marketers, analyzing goals and progress...

@@ -2,7 +2,7 @@
 name: Cygentive
 url: "https://cygentive.ai"
 image: /logos/cygentive.png
-screenshot: /screens/cygentive.jpg
+screenshot: /screens/cygentive.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Cygentive is an AI voice agent platform that automates 24/7 inbound and outbound calls for customer support, lead generation, and scheduling.

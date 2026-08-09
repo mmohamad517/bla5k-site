@@ -2,7 +2,7 @@
 name: UpCat
 url: "https://upcat.app/"
 image: /logos/upcat.png
-screenshot: /screens/upcat.jpg
+screenshot: /screens/upcat.webp
 subcategory: ai-productivity
 pricing: free
 tagline: UpCat automates Upwork proposal creation, generating tailored cover letters from job posts and alerting users to new openings or status changes directly in...

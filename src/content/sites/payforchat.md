@@ -2,7 +2,7 @@
 name: PayForChat
 url: "https://www.payforchat.com"
 image: /logos/payforchat.png
-screenshot: /screens/payforchat.jpg
+screenshot: /screens/payforchat.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: payforchat enables mainland China users to recharge ChatGPT Plus and Pro (and Codex) via WeChat Pay or Stripe without an overseas credit card, using...

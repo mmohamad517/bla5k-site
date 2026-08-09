@@ -2,7 +2,7 @@
 name: Gulf Picasso
 url: "https://www.gulfpicasso.com/en"
 image: /logos/gulf-picasso.png
-screenshot: /screens/gulf-picasso.jpg
+screenshot: /screens/gulf-picasso.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Gulf Picasso is a free AI image generation tool that converts textual prompts into unique visuals, including avatars and logos.

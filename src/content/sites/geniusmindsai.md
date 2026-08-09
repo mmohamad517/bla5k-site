@@ -2,7 +2,7 @@
 name: GeniusMindsAI
 url: "https://www.geniusmindsai.com"
 image: /logos/geniusmindsai.png
-screenshot: /screens/geniusmindsai.jpg
+screenshot: /screens/geniusmindsai.webp
 subcategory: ai-writing
 pricing: paid
 tagline: GeniusMindsAI is an all‑in‑one platform for generating text, voice, images, and code across 54+ languages.

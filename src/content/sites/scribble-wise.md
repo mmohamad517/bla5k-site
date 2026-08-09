@@ -2,7 +2,7 @@
 name: Scribble Wise
 url: "https://www.scribblewise.com"
 image: /logos/scribble-wise.png
-screenshot: /screens/scribble-wise.jpg
+screenshot: /screens/scribble-wise.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: Scribblewise is an AI essay grading platform that learns a teacher’s rubric, automates scoring and feedback, and integrates with LMS like Canvas for direct...

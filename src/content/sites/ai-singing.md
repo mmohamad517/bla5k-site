@@ -2,7 +2,7 @@
 name: AI Singing
 url: "https://aisinging.ai"
 image: /logos/ai-singing.png
-screenshot: /screens/ai-singing.jpg
+screenshot: /screens/ai-singing.webp
 subcategory: ai-image
 pricing: free
 tagline: AI Singing converts lyrics into sung vocals and full arrangements, combining singing synthesis, melody/harmony generation, and instrumentation.

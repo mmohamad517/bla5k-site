@@ -2,7 +2,7 @@
 name: Fidforward
 url: "https://fidforward.com"
 image: /logos/fidforward.png
-screenshot: /screens/fidforward.jpg
+screenshot: /screens/fidforward.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: FidForward is an AI‑driven outreach platform that aggregates, scores, and prioritizes leads for recruiters, sales, and BD teams.

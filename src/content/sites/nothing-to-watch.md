@@ -2,7 +2,7 @@
 name: Nothing To Watch
 url: https://nothing-to-watch.port80.ch
 image: /logos/nothing-to-watch.png
-screenshot: /screens/nothing-to-watch.jpg
+screenshot: /screens/nothing-to-watch.webp
 subcategory: ent-watch
 pricing: free
 tagline: Beat the endless scroll and finally decide what to watch.

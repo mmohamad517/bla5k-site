@@ -2,7 +2,7 @@
 name: carcogroup.com
 url: "https://www.carcogroup.com"
 image: /logos/carcogroup-com.png
-screenshot: /screens/carcogroup-com.jpg
+screenshot: /screens/carcogroup-com.webp
 subcategory: ent-travel
 pricing: freemium
 tagline: Provides insurers with mobile inspection, VIN verification, and automated fraud alerts.

@@ -2,7 +2,7 @@
 name: Pollo AI
 url: https://pollo.ai
 image: /logos/pollo-ai.png
-screenshot: /screens/pollo-ai.jpg
+screenshot: /screens/pollo-ai.webp
 subcategory: ai-video-audio
 pricing: freemium
 tagline: All the top AI video models in one easy-to-use generator.

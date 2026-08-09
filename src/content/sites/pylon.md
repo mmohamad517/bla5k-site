@@ -2,7 +2,7 @@
 name: Pylon
 url: "https://usepylon.com"
 image: /logos/pylon.png
-screenshot: /screens/pylon.jpg
+screenshot: /screens/pylon.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Pylon is an AI-native support platform for B2B environments that automates communication and workflows across channels like Slack, email, and Teams.

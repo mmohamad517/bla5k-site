@@ -2,7 +2,7 @@
 name: Parallel
 url: "https://www.withparallel.ai"
 image: /logos/parallel.png
-screenshot: /screens/parallel.jpg
+screenshot: /screens/parallel.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Parallel AI integrates with Google Ads, delivering real‑time strategy, bid analysis, negative keyword creation, and campaign structure guidance.

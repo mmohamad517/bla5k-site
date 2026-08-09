@@ -2,7 +2,7 @@
 name: QMD - Query Markup Documents
 url: "https://github.com/tobi/qmd"
 image: /logos/qmd-query-markup-documents.png
-screenshot: /screens/qmd-query-markup-documents.jpg
+screenshot: /screens/qmd-query-markup-documents.webp
 subcategory: ai-productivity
 pricing: free
 tagline: qmd is an on-device CLI search engine that indexes documentation, notes, and transcripts, preserving tree structure to return contextual subdocuments; it...

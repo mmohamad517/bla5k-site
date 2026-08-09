@@ -2,7 +2,7 @@
 name: Online Audio Converter
 url: "https://online-audio-converter.com"
 image: /logos/online-audio-converter.png
-screenshot: /screens/online-audio-converter.jpg
+screenshot: /screens/online-audio-converter.webp
 subcategory: ai-video-audio
 pricing: paid
 tagline: Browser-based Online Audio Converter converts 300+ audio/video formats to MP3, WAV, M4A, FLAC, OGG, etc., extracts audio from video, offers bitrate/sample...

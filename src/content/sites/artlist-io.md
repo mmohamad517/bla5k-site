@@ -2,7 +2,7 @@
 name: Artlist
 url: "https://artlist.io/ai"
 image: /logos/artlist-io.png
-screenshot: /screens/artlist-io.jpg
+screenshot: /screens/artlist-io.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Artlist is a unified generative AI toolkit for content creators, combining image, video, music, voiceover, dubbing, and avatar tools into one platform.

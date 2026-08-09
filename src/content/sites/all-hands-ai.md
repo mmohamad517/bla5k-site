@@ -2,7 +2,7 @@
 name: All Hands AI
 url: "https://www.all-hands.dev/"
 image: /logos/all-hands-ai.png
-screenshot: /screens/all-hands-ai.jpg
+screenshot: /screens/all-hands-ai.webp
 subcategory: ai-chat
 pricing: free
 tagline: Hands AI is an open-source platform that automates repetitive software engineering tasks, supports code generation, and aggregates verified problem sets.

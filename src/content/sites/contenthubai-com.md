@@ -2,7 +2,7 @@
 name: Contenthubai.com
 url: "http://contenthubai.com"
 image: /logos/contenthubai-com.png
-screenshot: /screens/contenthubai-com.jpg
+screenshot: /screens/contenthubai-com.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: ContentHubAI automates text, image, code, and voice asset creation with GPT, DALL‑E, and Ada, offering a unified dashboard for prompt templates, usage...

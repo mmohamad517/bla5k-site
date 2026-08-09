@@ -2,7 +2,7 @@
 name: Coldreach (YC W23)
 url: "https://coldreach.ai"
 image: /logos/coldreach-yc-w23.png
-screenshot: /screens/coldreach-yc-w23.jpg
+screenshot: /screens/coldreach-yc-w23.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Coldreach automates B2B lead research, personalizes outreach, and engages qualified prospects 24/7 across email and LinkedIn.

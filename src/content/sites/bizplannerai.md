@@ -2,7 +2,7 @@
 name: BizPlannerAI
 url: "https://bizplanner.ai"
 image: /logos/bizplannerai.png
-screenshot: /screens/bizplannerai.jpg
+screenshot: /screens/bizplannerai.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: BizPlanner AI automatically generates full investor‑ready business plans from minimal inputs, creating executive summaries, market analysis, SWOT,...

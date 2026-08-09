@@ -2,7 +2,7 @@
 name: Ai2humanize
 url: "https://ai2humanize.com"
 image: /logos/ai2humanize.png
-screenshot: /screens/ai2humanize.jpg
+screenshot: /screens/ai2humanize.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Accurate Text Humanizer transforms AI-generated text into human-like content, enhancing readability and engagement while bypassing AI detection.

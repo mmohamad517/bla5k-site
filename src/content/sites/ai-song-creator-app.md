@@ -2,7 +2,7 @@
 name: AI Song Creator
 url: "https://aisongcreator.app"
 image: /logos/ai-song-creator-app.png
-screenshot: /screens/ai-song-creator-app.jpg
+screenshot: /screens/ai-song-creator-app.webp
 subcategory: ai-image
 pricing: freemium
 tagline: AI song creator is a free AI tool that generates studio-quality, royalty-free songs from text prompts, producing full tracks with structure, vocals, and...

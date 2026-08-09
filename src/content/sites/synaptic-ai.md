@@ -2,7 +2,7 @@
 name: Synaptic AI
 url: "https://synapticai.app"
 image: /logos/synaptic-ai.png
-screenshot: /screens/synaptic-ai.jpg
+screenshot: /screens/synaptic-ai.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Synaptic AI is a browser-integrated knowledge base and AI agent that captures and summarizes web pages and videos into searchable notes, supports rich-text...

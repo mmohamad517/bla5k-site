@@ -2,7 +2,7 @@
 name: Okibi
 url: "https://okibi.ai"
 image: /logos/okibi.png
-screenshot: /screens/okibi.jpg
+screenshot: /screens/okibi.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Okibi is a natural language platform for creating custom AI agents.

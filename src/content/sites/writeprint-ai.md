@@ -2,7 +2,7 @@
 name: Writeprint.ai
 url: "https://www.writeprint.ai"
 image: /logos/writeprint-ai.png
-screenshot: /screens/writeprint-ai.jpg
+screenshot: /screens/writeprint-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: writeprint.ai customizes AI-generated content to reflect individual writing styles, enhancing engagement and brand alignment.

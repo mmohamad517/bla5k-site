@@ -2,7 +2,7 @@
 name: TribeArc
 url: "https://tribearc.com"
 image: /logos/tribearc.png
-screenshot: /screens/tribearc.jpg
+screenshot: /screens/tribearc.webp
 subcategory: mkt-social
 pricing: free
 tagline: Tribearc lets marketers and course creators build landing and opt‑in pages with a drag‑and‑drop editor, automate email and SMS campaigns, sell digital...

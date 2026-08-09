@@ -2,7 +2,7 @@
 name: reflexivity.com
 url: "https://reflexivity.com/en"
 image: /logos/reflexivity-com.png
-screenshot: /screens/reflexivity-com.jpg
+screenshot: /screens/reflexivity-com.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Reflexivity is an investment analysis platform using autonomous AI agents and a knowledge graph to deliver research, document intelligence, smart market...

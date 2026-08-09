@@ -2,7 +2,7 @@
 name: WordCraft3D
 url: "https://app.wordcraft3d.greenrobot.com"
 image: /logos/wordcraft3d.png
-screenshot: /screens/wordcraft3d.jpg
+screenshot: /screens/wordcraft3d.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: WordCraft3D converts text prompts into downloadable .obj 3D models, delivering ZIP bundles in a few minutes.

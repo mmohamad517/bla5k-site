@@ -2,7 +2,7 @@
 name: Godmode
 url: "https://godmode.space/"
 image: /logos/godmode.png
-screenshot: /screens/godmode.jpg
+screenshot: /screens/godmode.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Godmode is a web platform facilitating access to autoGPT and babyAGI.AI's automation capabilities.

@@ -2,7 +2,7 @@
 name: FLORA
 url: https://flora.ai/
 image: /logos/flora-ai.png
-screenshot: /screens/flora-ai.jpg
+screenshot: /screens/flora-ai.webp
 subcategory: ai-image
 tagline: "AI design studio with an infinite canvas — generate, iterate, and design with 50+ models in one workspace."
 tags: [flora, ai design, ai art, canvas, creative, generative design]

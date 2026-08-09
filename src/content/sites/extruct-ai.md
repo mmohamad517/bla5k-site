@@ -2,7 +2,7 @@
 name: Extruct AI
 url: "https://www.extruct.ai/"
 image: /logos/extruct-ai.png
-screenshot: /screens/extruct-ai.jpg
+screenshot: /screens/extruct-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Extruct AI is an AI-powered company intelligence platform that automates business research, enabling users to discover private companies, enrich data, and...

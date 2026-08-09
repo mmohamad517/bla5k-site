@@ -2,7 +2,7 @@
 name: Digital First AI
 url: "https://unicornconnect.io?fpr=topaitools"
 image: /logos/digital-first-ai.png
-screenshot: /screens/digital-first-ai.jpg
+screenshot: /screens/digital-first-ai.webp
 subcategory: mkt-social
 pricing: free
 tagline: DFIRST AI is a marketing platform that lets users build custom campaigns via drag‑and‑drop, using AI agents for research, copywriting, visual creation, and...

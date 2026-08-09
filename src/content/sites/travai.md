@@ -2,7 +2,7 @@
 name: TravAI
 url: "https://www.travai.co/"
 image: /logos/travai.png
-screenshot: /screens/travai.jpg
+screenshot: /screens/travai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: TravAI automates travel‑industry e‑learning by converting documents into courses, quizzes, and role‑play scenarios, cutting manual content creation by up to...

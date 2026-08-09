@@ -2,7 +2,7 @@
 name: Shopifinity Engine™
 url: "https://aiadvantageagency.com/"
 image: /logos/shopifinity-enginetm.png
-screenshot: /screens/shopifinity-enginetm.jpg
+screenshot: /screens/shopifinity-enginetm.webp
 subcategory: nc-builders
 pricing: paid
 tagline: AI‑powered chatbot for e‑commerce sites engages customers in real‑time, offers product recommendations, and captures leads 24/7.

@@ -2,7 +2,7 @@
 name: PESTEL
 url: "http://pestel.dev"
 image: /logos/pestel.png
-screenshot: /screens/pestel.jpg
+screenshot: /screens/pestel.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Enter a brief company description and the AI generates a detailed PESTEL analysis, automatically identifying political, economic, social, technological,...

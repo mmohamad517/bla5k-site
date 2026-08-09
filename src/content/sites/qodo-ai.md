@@ -2,7 +2,7 @@
 name: qodo.ai
 url: "https://qodo.ai"
 image: /logos/qodo-ai.png
-screenshot: /screens/qodo-ai.jpg
+screenshot: /screens/qodo-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Qodo is an AI code-review platform that integrates with IDEs, pull requests, CLI and CI/CD to provide context-aware, cross-repo analysis, automated...

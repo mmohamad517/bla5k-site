@@ -2,7 +2,7 @@
 name: DealCoach
 url: "https://dealcoach.io/"
 image: /logos/dealcoach.png
-screenshot: /screens/dealcoach.jpg
+screenshot: /screens/dealcoach.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: DealCoach uses AI to give real‑time sales guidance to SaaS founders and reps, offering quick deal reviews, method‑agnostic playbooks (MEDDICC, SPIN,...

@@ -2,7 +2,7 @@
 name: Deepfake Detector
 url: "https://deepfakedetector.ai/"
 image: /logos/deepfake-detector.png
-screenshot: /screens/deepfake-detector.jpg
+screenshot: /screens/deepfake-detector.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Deepfake Detector analyzes audio, video, and image files with up to 95 % accuracy, offering noise removal, probability scores, confidence levels, and...

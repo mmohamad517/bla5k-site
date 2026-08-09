@@ -2,7 +2,7 @@
 name: Giga.chat
 url: "https://giga.chat/"
 image: /logos/giga-chat.png
-screenshot: /screens/giga-chat.jpg
+screenshot: /screens/giga-chat.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Гигачат — русскоязычная нейросеть от Сбера с чат‑интерфейсом для генерации текста и диалогов, загрузкой изображений для анализа, озвучиванием ответов,...

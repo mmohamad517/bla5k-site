@@ -2,7 +2,7 @@
 name: ai4good.org
 url: "https://ai4good.org"
 image: /logos/ai4good-org.png
-screenshot: /screens/ai4good-org.jpg
+screenshot: /screens/ai4good-org.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: AI Good Foundation enhances humanitarian efforts by providing project management tools for refugee assistance and social impact.

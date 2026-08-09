@@ -2,7 +2,7 @@
 name: Hume AI
 url: "https://www.hume.ai"
 image: /logos/hume-ai.png
-screenshot: /screens/hume-ai.jpg
+screenshot: /screens/hume-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Hume AI offers emotion‑intelligent text‑to‑speech, real‑time speech‑to‑speech, and expressive voice cloning across 100+ languages.

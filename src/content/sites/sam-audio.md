@@ -2,7 +2,7 @@
 name: Sam Audio
 url: "https://samaudio.audio"
 image: /logos/sam-audio.png
-screenshot: /screens/sam-audio.jpg
+screenshot: /screens/sam-audio.webp
 subcategory: ai-image
 pricing: free
 tagline: SAM Audio uses Meta’s Segment Anything Audio Model to isolate vocals, instruments, speech and effects from mixes via multimodal prompts (text, visual,...

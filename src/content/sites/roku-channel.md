@@ -2,7 +2,7 @@
 name: The Roku Channel
 url: https://therokuchannel.roku.com/
 image: /logos/roku-channel.png
-screenshot: /screens/roku-channel.jpg
+screenshot: /screens/roku-channel.webp
 subcategory: ent-streaming
 pricing: free
 tagline: "Free movies, shows, and live TV from Roku — no account, no subscription, just ads."

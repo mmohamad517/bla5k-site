@@ -2,7 +2,7 @@
 name: SYiGO
 url: "https://syigo.com/en/"
 image: /logos/syigo-com.png
-screenshot: /screens/syigo-com.jpg
+screenshot: /screens/syigo-com.webp
 subcategory: learn-courses
 pricing: paid
 tagline: syigo.com is a browser-based AI tool that uses guided, question-driven dialogue to structure complex thoughts and support personal reflection.

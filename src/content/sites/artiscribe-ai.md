@@ -2,7 +2,7 @@
 name: ArtiScribe AI
 url: "https://www.artiscribeai.com"
 image: /logos/artiscribe-ai.png
-screenshot: /screens/artiscribe-ai.jpg
+screenshot: /screens/artiscribe-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: ArtiScribe AI assists artists in drafting Instagram/Facebook captions, email subject lines, and optimized hashtags through a guided workflow.

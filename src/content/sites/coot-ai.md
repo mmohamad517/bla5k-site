@@ -2,7 +2,7 @@
 name: Coot AI
 url: "https://coot.ai"
 image: /logos/coot-ai.png
-screenshot: /screens/coot-ai.jpg
+screenshot: /screens/coot-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Coot AI combines human expertise with AI accuracy to deliver customized solutions swiftly.

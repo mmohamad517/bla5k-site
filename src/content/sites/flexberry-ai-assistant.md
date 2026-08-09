@@ -2,7 +2,7 @@
 name: Flexberry AI Assistant
 url: "https://ai.flexberry.net/"
 image: /logos/flexberry-ai-assistant.png
-screenshot: /screens/flexberry-ai-assistant.jpg
+screenshot: /screens/flexberry-ai-assistant.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Converts natural‑language requirements into structured artifacts, auto‑generating mock‑up forms, SQL, UML, database schemas and business‑process models,...

@@ -2,7 +2,7 @@
 name: Twenty
 url: "https://twenty.com/"
 image: /logos/twenty-com.png
-screenshot: /screens/twenty-com.jpg
+screenshot: /screens/twenty-com.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Twenty.com is an open-source CRM and SDK for building customizable CRM solutions, offering modular objects, fields, relations, and TypeScript tooling for...

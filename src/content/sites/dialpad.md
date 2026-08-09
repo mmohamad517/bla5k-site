@@ -2,7 +2,7 @@
 name: Dialpad
 url: "https://www.dialpad.com"
 image: /logos/dialpad.png
-screenshot: /screens/dialpad.jpg
+screenshot: /screens/dialpad.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Dialpad is an AI-driven communication platform that facilitates customer interactions via voice, chat, SMS, and email.

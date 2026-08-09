@@ -2,7 +2,7 @@
 name: TrustDoc
 url: "https://trustdoc.us"
 image: /logos/trustdoc.png
-screenshot: /screens/trustdoc.jpg
+screenshot: /screens/trustdoc.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: TrustDoc uses AI to validate, analyze, and verify academic and administrative documents.

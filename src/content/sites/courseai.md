@@ -2,7 +2,7 @@
 name: CourseAI
 url: "https://courseai.com/pricing/"
 image: /logos/courseai.png
-screenshot: /screens/courseai.jpg
+screenshot: /screens/courseai.webp
 subcategory: ai-image
 pricing: paid
 tagline: CourseAI automates online course creation by generating outlines, objectives, personas, videos, quizzes, and email sequences from a chosen or AI‑recommended...

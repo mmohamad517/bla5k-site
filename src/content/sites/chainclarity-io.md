@@ -2,7 +2,7 @@
 name: ChainClarity
 url: "https://chainclarity.io/"
 image: /logos/chainclarity-io.png
-screenshot: /screens/chainclarity-io.jpg
+screenshot: /screens/chainclarity-io.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: ChainClarity offers AI‑driven, concise explanations of over 500 crypto whitepapers from major Layer 1 and Layer 2 projects.

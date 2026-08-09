@@ -2,7 +2,7 @@
 name: Bswan.ai
 url: "https://bswan.ai"
 image: /logos/bswan-ai.png
-screenshot: /screens/bswan-ai.jpg
+screenshot: /screens/bswan-ai.webp
 subcategory: nc-automation
 pricing: freemium
 tagline: bswan.ai is an AI-driven calling solution that automates lead qualification, call routing, and appointment scheduling.

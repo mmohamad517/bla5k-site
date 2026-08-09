@@ -2,7 +2,7 @@
 name: Neural4D
 url: "https://www.neural4d.com/home"
 image: /logos/neural4d.png
-screenshot: /screens/neural4d.jpg
+screenshot: /screens/neural4d.webp
 subcategory: design-3d
 pricing: free
 tagline: Neural4D is an AI tool that generates high-quality 3D models and animations from text or images in seconds.

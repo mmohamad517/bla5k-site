@@ -2,7 +2,7 @@
 name: AI consulting tools
 url: "https://aiconsultingtools.com/"
 image: /logos/ai-consulting-tools.png
-screenshot: /screens/ai-consulting-tools.jpg
+screenshot: /screens/ai-consulting-tools.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: AI Consulting Tools is an AI-powered productivity tool for consultants that automates the generation of SWOT analyses, user personas, and Lean canvases.

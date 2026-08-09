@@ -2,7 +2,7 @@
 name: VectorVein
 url: "https://vectorvein.ai/"
 image: /logos/vectorvein.png
-screenshot: /screens/vectorvein.jpg
+screenshot: /screens/vectorvein.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: VectorVein is an enterprise task‑agent platform for building custom agents, reusable workflows, and multi‑agent systems.

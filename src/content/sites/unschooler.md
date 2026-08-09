@@ -2,7 +2,7 @@
 name: Unschooler
 url: "https://unschooler.me/"
 image: /logos/unschooler.png
-screenshot: /screens/unschooler.jpg
+screenshot: /screens/unschooler.webp
 subcategory: ai-image
 pricing: paid
 tagline: Unschooler transforms corporate documents into personalized, interactive training modules in minutes.

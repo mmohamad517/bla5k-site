@@ -2,7 +2,7 @@
 name: Velaris
 url: "https://www.velaris.io"
 image: /logos/velaris.png
-screenshot: /screens/velaris.jpg
+screenshot: /screens/velaris.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Velaris is an AI‑native customer‑success platform that consolidates contacts, accounts and parent company data into a single view, provides predictive...

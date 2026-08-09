@@ -2,7 +2,7 @@
 name: Haxiom
 url: "https://haxiom.io"
 image: /logos/haxiom.png
-screenshot: /screens/haxiom.jpg
+screenshot: /screens/haxiom.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Haxiom is an online Markdown editor for collaborative teams that organizes knowledge into a unified, GitHub-linked knowledge base with real-time multiplayer...

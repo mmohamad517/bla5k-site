@@ -2,7 +2,7 @@
 name: Warden AI
 url: "https://www.warden-ai.com"
 image: /logos/warden-ai.png
-screenshot: /screens/warden-ai.jpg
+screenshot: /screens/warden-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Warden AI is an auditing tool for HR tech platforms, focusing on bias assurance and compliance with AI regulations.

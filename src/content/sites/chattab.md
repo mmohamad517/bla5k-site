@@ -2,7 +2,7 @@
 name: ChatTab
 url: "https://chattab.app/"
 image: /logos/chattab.png
-screenshot: /screens/chattab.jpg
+screenshot: /screens/chattab.webp
 subcategory: ai-chat
 pricing: paid
 tagline: ChatTab is a native macOS client for GPT‑3.5, GPT‑4, GPT‑4‑Vision, GPT‑4‑32k and Claude‑2 that stores the API key in Apple keychain.

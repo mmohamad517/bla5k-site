@@ -2,7 +2,7 @@
 name: AI Emoji
 url: "https://emoji.design"
 image: /logos/ai-emoji.png
-screenshot: /screens/ai-emoji.jpg
+screenshot: /screens/ai-emoji.webp
 subcategory: ai-image
 pricing: free
 tagline: AI Emoji turns clear frontal photos into personalized emoji avatars using selectable styles (Pixar‑style 3D, Ghibli, pixel art, Memoji, Q‑version),...

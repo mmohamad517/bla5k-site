@@ -2,7 +2,7 @@
 name: Deal Protectors
 url: "https://www.dealprotectors.com"
 image: /logos/deal-protectors.png
-screenshot: /screens/deal-protectors.jpg
+screenshot: /screens/deal-protectors.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: Deal Protectors is an AI tool that evaluates car deals against market prices, reveals hidden fees, and suggests alternative financing.

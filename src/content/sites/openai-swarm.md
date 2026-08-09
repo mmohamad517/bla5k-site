@@ -2,7 +2,7 @@
 name: OpenAI swarm
 url: "https://github.com/openai/swarm"
 image: /logos/openai-swarm.png
-screenshot: /screens/openai-swarm.jpg
+screenshot: /screens/openai-swarm.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: Swarm is an experimental framework by OpenAI for orchestrating multiple AI agents in a modular, scalable manner.

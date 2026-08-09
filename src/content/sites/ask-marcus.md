@@ -2,7 +2,7 @@
 name: Ask Marcus
 url: "https://www.askmarcus.app"
 image: /logos/ask-marcus.png
-screenshot: /screens/ask-marcus.jpg
+screenshot: /screens/ask-marcus.webp
 subcategory: ai-chat
 pricing: free
 tagline: Ask Marcus is a GPT‑4 chatbot that lets users converse with a virtual Marcus Aurelius, providing concise, historically grounded replies that illustrate...

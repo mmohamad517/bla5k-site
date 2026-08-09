@@ -2,7 +2,7 @@
 name: SPAICE
 url: "https://spaice.live"
 image: /logos/spaice.png
-screenshot: /screens/spaice.jpg
+screenshot: /screens/spaice.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Home Updating Space is a collaborative AI tool for project management and code analysis, offering customizable AI instructions, multi-model support, file...

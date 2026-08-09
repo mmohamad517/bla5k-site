@@ -2,7 +2,7 @@
 name: StableCode
 url: "https://stability.ai/news-updates/stablecode-llm-generative-ai-coding"
 image: /logos/stablecode.png
-screenshot: /screens/stablecode.jpg
+screenshot: /screens/stablecode.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: StableCode is an innovative LLM-powered AI tool for coding assistance and learning.

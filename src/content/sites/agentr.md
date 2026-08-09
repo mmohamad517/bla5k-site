@@ -2,7 +2,7 @@
 name: AgentR
 url: "https://agentr.global"
 image: /logos/agentr.png
-screenshot: /screens/agentr.jpg
+screenshot: /screens/agentr.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Agentr is an AI hiring assistant that streamlines recruitment by analyzing over 30 career patterns.

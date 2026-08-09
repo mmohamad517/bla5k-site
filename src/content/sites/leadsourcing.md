@@ -2,7 +2,7 @@
 name: Leadsourcing
 url: "https://leadsourcing.co"
 image: /logos/leadsourcing.png
-screenshot: /screens/leadsourcing.jpg
+screenshot: /screens/leadsourcing.webp
 subcategory: ai-productivity
 pricing: free
 tagline: LeadSourcing is an AI-driven sales tool that simplifies lead generation and meeting scheduling for businesses.

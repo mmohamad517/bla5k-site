@@ -2,7 +2,7 @@
 name: Edge Arena
 url: "https://edgearena.app"
 image: /logos/edgearena-app.png
-screenshot: /screens/edgearena-app.jpg
+screenshot: /screens/edgearena-app.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Edge Arena is a decision-testing platform that runs competing AI agents to pressure-test business choices and produce ranked, actionable execution plans.

@@ -2,7 +2,7 @@
 name: actcast.io
 url: "https://actcast.io"
 image: /logos/actcast-io.png
-screenshot: /screens/actcast-io.jpg
+screenshot: /screens/actcast-io.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Actcast is an IoT platform that runs deep‑learning inference on edge devices, detecting objects such as cats and faces locally.

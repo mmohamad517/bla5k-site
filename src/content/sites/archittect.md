@@ -2,7 +2,7 @@
 name: Archittect
 url: "https://www.archittect.com"
 image: /logos/archittect.png
-screenshot: /screens/archittect.jpg
+screenshot: /screens/archittect.webp
 subcategory: ai-chat
 pricing: free
 tagline: Architecht is an AI-powered code generation tool that simplifies repetitive tasks, enabling developers to concentrate on innovation.

@@ -2,7 +2,7 @@
 name: Hapticlabs
 url: "https://www.hapticlabs.io"
 image: /logos/hapticlabs.png
-screenshot: /screens/hapticlabs.jpg
+screenshot: /screens/hapticlabs.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Hapticlabs provides a no‑code toolkit to design, test, and deploy custom tactile feedback.

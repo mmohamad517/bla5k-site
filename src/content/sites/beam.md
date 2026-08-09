@@ -2,7 +2,7 @@
 name: Beam
 url: "https://www.getbeam.ai/"
 image: /logos/beam.png
-screenshot: /screens/beam.jpg
+screenshot: /screens/beam.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Beam is a lightweight native macOS app that offers a sandboxed ChatGPT interface via a single hotkey.

@@ -2,7 +2,7 @@
 name: BestContent AI
 url: "https://bestcontent.ai"
 image: /logos/bestcontent-ai.png
-screenshot: /screens/bestcontent-ai.jpg
+screenshot: /screens/bestcontent-ai.webp
 subcategory: ai-writing
 pricing: paid
 tagline: BestContent AI is an all‑in‑one content OS that automates social media post creation, caption and hashtag generation, scheduling, and analytics across major...

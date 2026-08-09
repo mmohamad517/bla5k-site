@@ -2,7 +2,7 @@
 name: kimiyi.ai
 url: "https://kimiyi.ai"
 image: /logos/kimiyi-ai.png
-screenshot: /screens/kimiyi-ai.jpg
+screenshot: /screens/kimiyi-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Kimiyi AI is a no-code platform for building customizable AI agents and digital humans, including chat, voice and phone agents, avatar-driven live chat,...

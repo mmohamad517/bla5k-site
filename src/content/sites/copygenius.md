@@ -2,7 +2,7 @@
 name: CopyGenius
 url: "https://copygenius.io"
 image: /logos/copygenius.png
-screenshot: /screens/copygenius.jpg
+screenshot: /screens/copygenius.webp
 subcategory: mkt-social
 pricing: paid
 tagline: CopyGenius is an AI copywriter that quickly generates product descriptions, ad copy, blog outlines, emails, and SEO meta tags from templates, supports over...

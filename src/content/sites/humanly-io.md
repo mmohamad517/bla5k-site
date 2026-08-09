@@ -2,7 +2,7 @@
 name: Humanly.io
 url: "https://humanly.io"
 image: /logos/humanly-io.png
-screenshot: /screens/humanly-io.jpg
+screenshot: /screens/humanly-io.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Humanly is an AI recruiting platform that automates candidate outreach, screening, scheduling, and interviews.

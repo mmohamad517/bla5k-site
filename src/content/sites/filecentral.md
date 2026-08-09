@@ -2,7 +2,7 @@
 name: Filecentral
 url: "https://www.filecentral.io/"
 image: /logos/filecentral.png
-screenshot: /screens/filecentral.jpg
+screenshot: /screens/filecentral.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: FileCentral is an AI-driven file storage solution for professionals, offering secure centralized storage, intelligent search capabilities, user access...

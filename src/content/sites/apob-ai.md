@@ -2,7 +2,7 @@
 name: APOB.AI
 url: "https://app.apob.ai"
 image: /logos/apob-ai.png
-screenshot: /screens/apob-ai.jpg
+screenshot: /screens/apob-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: APOB.AI lets users create custom AI portraits for image and video use, share them with a creator community, and leverage the content as an AI influencer for...

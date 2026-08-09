@@ -2,7 +2,7 @@
 name: AiryChat
 url: "https://airychat.com"
 image: /logos/airychat.png
-screenshot: /screens/airychat.jpg
+screenshot: /screens/airychat.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: AiryChat delivers AI chat for teams, supporting PDFs, CSVs, DOCXs for drafting and data extraction, with unlimited context, web‑search integration, image...

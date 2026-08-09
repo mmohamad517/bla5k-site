@@ -2,7 +2,7 @@
 name: AI or Not
 url: "https://www.aiornot.com"
 image: /logos/ai-or-not.png
-screenshot: /screens/ai-or-not.jpg
+screenshot: /screens/ai-or-not.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: AI Detector identifies AI‑generated content across text, images, audio, and video, supporting common media formats.

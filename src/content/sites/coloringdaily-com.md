@@ -2,7 +2,7 @@
 name: ColoringDaily
 url: "https://coloringdaily.com"
 image: /logos/coloringdaily-com.png
-screenshot: /screens/coloringdaily-com.jpg
+screenshot: /screens/coloringdaily-com.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: ColoringDaily is an AI coloring page generator that turns text prompts and photos into printable line art.

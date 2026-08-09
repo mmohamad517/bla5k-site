@@ -2,7 +2,7 @@
 name: Vibly
 url: "https://vibly.io"
 image: /logos/vibly.png
-screenshot: /screens/vibly.jpg
+screenshot: /screens/vibly.webp
 subcategory: learn-courses
 pricing: paid
 tagline: Vibly unifies coaching operations by letting coaches build profiles, set packages, and onboard clients in one platform.

@@ -2,7 +2,7 @@
 name: Lynote ai detector
 url: "https://lynote.ai/ai-detector"
 image: /logos/lynote-ai-detector.png
-screenshot: /screens/lynote-ai-detector.jpg
+screenshot: /screens/lynote-ai-detector.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Lynote AI Detector analyzes pasted text and uploaded documents (.docx, .pdf, .txt) to detect AI-generated or paraphrased content from models like ChatGPT,...

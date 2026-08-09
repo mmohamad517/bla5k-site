@@ -2,7 +2,7 @@
 name: marketfully.com
 url: "https://marketfully.com"
 image: /logos/marketfully-com.png
-screenshot: /screens/marketfully-com.jpg
+screenshot: /screens/marketfully-com.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: marketfully.com is a multilingual content marketing and localization platform that uses adaptive AI and human editors to create, translate, and adapt...

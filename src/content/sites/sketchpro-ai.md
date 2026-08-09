@@ -2,7 +2,7 @@
 name: SketchPro AI
 url: "https://sketchpro.ai/"
 image: /logos/sketchpro-ai.png
-screenshot: /screens/sketchpro-ai.jpg
+screenshot: /screens/sketchpro-ai.webp
 subcategory: design-graphics
 pricing: paid
 tagline: SketchPro is a native Revit add‑in that uses AI to automate documentation—dimensioning, tagging, sheets, and schedules—from natural‑language commands while...

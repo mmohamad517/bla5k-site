@@ -2,7 +2,7 @@
 name: Leadflowy
 url: "https://leadflowy.com"
 image: /logos/leadflowy.png
-screenshot: /screens/leadflowy.jpg
+screenshot: /screens/leadflowy.webp
 subcategory: ai-productivity
 pricing: free
 tagline: LeadFlowy is an AI-driven lead relationship manager that streamlines lead management through custom flows, automations, unified communication, and scheduling.

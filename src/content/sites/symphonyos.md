@@ -2,7 +2,7 @@
 name: SymphonyOS
 url: "https://symphonyos.co"
 image: /logos/symphonyos.png
-screenshot: /screens/symphonyos.jpg
+screenshot: /screens/symphonyos.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Symphony OS centralizes music‑marketing operations, automating ad creation, audience targeting, and campaign management across Instagram, YouTube, TikTok,...

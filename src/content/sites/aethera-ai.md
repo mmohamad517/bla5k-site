@@ -2,7 +2,7 @@
 name: Aethera AI
 url: "https://aethera.ai"
 image: /logos/aethera-ai.png
-screenshot: /screens/aethera-ai.jpg
+screenshot: /screens/aethera-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Aethera is an AI tool for optimizing knowledge discovery and document management, supporting diverse content import, advanced filtering, multilingual...

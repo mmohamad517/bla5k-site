@@ -2,7 +2,7 @@
 name: Jessica by BetterSpeech
 url: "https://www.betterspeech.com/jessica"
 image: /logos/jessica-by-betterspeech.png
-screenshot: /screens/jessica-by-betterspeech.jpg
+screenshot: /screens/jessica-by-betterspeech.webp
 subcategory: learn-courses
 pricing: paid
 tagline: Jessica is an AI‑powered speech therapy assistant that uses speech recognition to assess patterns, offers on‑demand personalized practice, and delivers...

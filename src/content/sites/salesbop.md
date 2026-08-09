@@ -2,7 +2,7 @@
 name: SalesBop
 url: "https://www.salesbop.io"
 image: /logos/salesbop.png
-screenshot: /screens/salesbop.jpg
+screenshot: /screens/salesbop.webp
 subcategory: learn-courses
 pricing: freemium
 tagline: Salesbop is an AI-driven sales coaching tool that provides real-time guidance during calls, helping sales teams improve performance by 40% through...

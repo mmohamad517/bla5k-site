@@ -2,7 +2,7 @@
 name: Ego Lite
 url: "https://lite.ego.app/"
 image: /logos/lite-ego.png
-screenshot: /screens/lite-ego.jpg
+screenshot: /screens/lite-ego.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: Ego lite is a browser-based platform that runs AI agents for web automation and parallel multitasking, sharing logged-in browser state and enabling...

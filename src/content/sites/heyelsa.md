@@ -2,7 +2,7 @@
 name: Heyelsa
 url: "https://www.heyelsa.ai"
 image: /logos/heyelsa.png
-screenshot: /screens/heyelsa.jpg
+screenshot: /screens/heyelsa.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: "Elsa: AI Crypto Copilot is an integrated platform that simplifies cryptocurrency trading with automated strategies, market monitoring, customizable price..."

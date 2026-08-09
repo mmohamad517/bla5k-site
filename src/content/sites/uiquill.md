@@ -2,7 +2,7 @@
 name: Uiquill
 url: "https://uiquill.com"
 image: /logos/uiquill.png
-screenshot: /screens/uiquill.jpg
+screenshot: /screens/uiquill.webp
 subcategory: ai-writing
 pricing: paid
 tagline: UIQuill integrates with Figma to generate context‑aware copy for text layers, groups, frames, or pages, matching tone, length, and style.

@@ -2,7 +2,7 @@
 name: Seede AI
 url: "https://seede.ai"
 image: /logos/seede-ai.png
-screenshot: /screens/seede-ai.jpg
+screenshot: /screens/seede-ai.webp
 subcategory: design-graphics
 pricing: paid
 tagline: Seede AI is a graphic design tool that enables quick creation of professional visuals like posters and social media posts.

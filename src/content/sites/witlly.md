@@ -2,7 +2,7 @@
 name: Witlly
 url: "http://witlly.com"
 image: /logos/witlly.png
-screenshot: /screens/witlly.jpg
+screenshot: /screens/witlly.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Witlly is an all-in-one AI platform that assists with content creation, image generation, coding support, and includes features like real-time web search,...

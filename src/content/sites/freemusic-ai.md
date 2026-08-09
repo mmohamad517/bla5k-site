@@ -2,7 +2,7 @@
 name: FreeMusic AI
 url: "https://www.freemusic.ai/"
 image: /logos/freemusic-ai.png
-screenshot: /screens/freemusic-ai.jpg
+screenshot: /screens/freemusic-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: FreeMusic AI is an AI music generator that creates original, royalty-free tracks from text prompts or lyrics.

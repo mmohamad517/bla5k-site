@@ -2,7 +2,7 @@
 name: Punchlines AI
 url: "https://jokegpt.vercel.app/"
 image: /logos/punchlines-ai.png
-screenshot: /screens/punchlines-ai.jpg
+screenshot: /screens/punchlines-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Punchlines.ai is an AI tool that creates witty punchlines for daily jokes (8 per day).

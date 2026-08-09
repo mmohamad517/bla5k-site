@@ -2,7 +2,7 @@
 name: NexxtSupport
 url: "https://nexxtsupport.com"
 image: /logos/nexxtsupport.png
-screenshot: /screens/nexxtsupport.jpg
+screenshot: /screens/nexxtsupport.webp
 subcategory: ai-productivity
 pricing: free
 tagline: NexxtSupport is an AI‑first platform that lets businesses train custom chatbots via documents, web links or Notion/Confluence, embed them with a single code...

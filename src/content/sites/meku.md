@@ -2,7 +2,7 @@
 name: Meku
 url: "https://meku.dev"
 image: /logos/meku.png
-screenshot: /screens/meku.jpg
+screenshot: /screens/meku.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Meku is an AI web app builder that simplifies the creation and deployment of scalable web applications.

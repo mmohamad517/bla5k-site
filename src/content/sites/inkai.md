@@ -2,7 +2,7 @@
 name: InkAI
 url: "https://getinkai.com/discount"
 image: /logos/inkai.png
-screenshot: /screens/inkai.jpg
+screenshot: /screens/inkai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Ink AI revolutionizes eBook creation by converting spoken words into fully designed eBooks and flipbooks seamlessly.

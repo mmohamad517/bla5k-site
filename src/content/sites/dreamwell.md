@@ -2,7 +2,7 @@
 name: Dreamwell
 url: "https://www.dreamwell.ai/"
 image: /logos/dreamwell.png
-screenshot: /screens/dreamwell.jpg
+screenshot: /screens/dreamwell.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Dreamwell AI automates influencer prospecting by analyzing brand sites, scoring partners, and providing rate‑optimization formulas.

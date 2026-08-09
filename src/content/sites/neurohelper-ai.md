@@ -2,7 +2,7 @@
 name: Neurohelper AI
 url: "https://neurohelper.ai"
 image: /logos/neurohelper-ai.png
-screenshot: /screens/neurohelper-ai.jpg
+screenshot: /screens/neurohelper-ai.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Neurohelper AI is a unified AI workspace integrating top models for chat, image, video, and audio generation.

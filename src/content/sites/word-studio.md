@@ -2,7 +2,7 @@
 name: Word.studio
 url: "https://word.studio"
 image: /logos/word-studio.png
-screenshot: /screens/word-studio.jpg
+screenshot: /screens/word-studio.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Word.Studio offers 150+ AI-powered tools for content creation, research, and brand development, providing article, essay, and business plan generators,...

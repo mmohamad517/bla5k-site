@@ -2,7 +2,7 @@
 name: Sadako
 url: "https://www.sadako.ai"
 image: /logos/sadako.png
-screenshot: /screens/sadako.jpg
+screenshot: /screens/sadako.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Sadako automates multilingual content creation—articles, product descriptions, social posts, and emails—using pre‑built or custom templates.

@@ -2,7 +2,7 @@
 name: Little-Coder
 url: "https://github.com/itayinbarr/little-coder"
 image: /logos/littlecoder.png
-screenshot: /screens/littlecoder.jpg
+screenshot: /screens/littlecoder.webp
 subcategory: ai-chat
 pricing: free
 tagline: little-coder is a Pi-based coding agent for running 5–25 GB local LLMs via llama.cpp or Ollama, offering Python/Node CLIs and TypeScript extensions,...

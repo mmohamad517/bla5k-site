@@ -2,7 +2,7 @@
 name: MindPlexa
 url: "http://www.mindplexa.com/home"
 image: /logos/mindplexa.png
-screenshot: /screens/mindplexa.jpg
+screenshot: /screens/mindplexa.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Mindplexa is an AI-driven project management platform that transforms ideas into actionable plans, featuring interactive canvases and intelligent nodes for...

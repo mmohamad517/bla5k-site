@@ -2,7 +2,7 @@
 name: Corpdag
 url: "https://corpdaq.com/"
 image: /logos/corpdag.png
-screenshot: /screens/corpdag.jpg
+screenshot: /screens/corpdag.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Corpdaq uses AI to convert receipts and financial snapshots into structured data for quick analysis, guides SMB owners through project planning, scores...

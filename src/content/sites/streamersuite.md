@@ -2,7 +2,7 @@
 name: StreamerSuite
 url: "https://streamersuite.com"
 image: /logos/streamersuite.png
-screenshot: /screens/streamersuite.jpg
+screenshot: /screens/streamersuite.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: StreamerSuite is an all-in-one platform for streamers, offering customizable profiles, audience analytics, and DMCA tools.

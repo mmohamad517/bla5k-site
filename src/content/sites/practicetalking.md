@@ -2,7 +2,7 @@
 name: Practicetalking
 url: "https://www.practicetalking.net/"
 image: /logos/practicetalking.png
-screenshot: /screens/practicetalking.jpg
+screenshot: /screens/practicetalking.webp
 subcategory: learn-courses
 pricing: freemium
 tagline: PracticeTalking is a conversational AI platform that lets users rehearse dialogues with virtual personas, including celebrities and interviewers.

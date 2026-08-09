@@ -2,7 +2,7 @@
 name: Frankenfile
 url: "https://frankenfile.com/"
 image: /logos/frankenfile.png
-screenshot: /screens/frankenfile.jpg
+screenshot: /screens/frankenfile.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Frankenfile is a macOS desktop app that automatically converts, resizes, and crops images, videos, audio, and PDFs locally, providing quick file...

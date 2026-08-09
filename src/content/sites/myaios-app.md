@@ -2,7 +2,7 @@
 name: aiOS
 url: "https://myaios.app"
 image: /logos/myaios-app.png
-screenshot: /screens/myaios-app.jpg
+screenshot: /screens/myaios-app.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: aiOS is an AI marketing automation platform that orchestrates GPT, Claude, and Gemini models with 1,200+ agentic skills to automate content creation, ad...

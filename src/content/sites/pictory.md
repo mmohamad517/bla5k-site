@@ -2,7 +2,7 @@
 name: Pictory
 url: https://pictory.ai
 image: /logos/pictory.png
-screenshot: /screens/pictory.jpg
+screenshot: /screens/pictory.webp
 subcategory: ai-video-audio
 pricing: freemium
 tagline: Turn scripts, articles, and long videos into narrated short videos.

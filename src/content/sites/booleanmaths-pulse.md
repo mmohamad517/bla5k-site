@@ -2,7 +2,7 @@
 name: BooleanMaths Pulse
 url: "https://booleanmaths.com"
 image: /logos/booleanmaths-pulse.png
-screenshot: /screens/booleanmaths-pulse.jpg
+screenshot: /screens/booleanmaths-pulse.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Booleanmaths is a marketing attribution tool that consolidates data from multiple sources to track customer journeys and measure conversions.

@@ -2,7 +2,7 @@
 name: Syft assist ai
 url: "https://www.syftanalytics.com"
 image: /logos/syft-assist-ai.png
-screenshot: /screens/syft-assist-ai.jpg
+screenshot: /screens/syft-assist-ai.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Syft Analytics delivers AI‑powered dashboards and forecasting for accountants, analysts, and managers, consolidating data from accounting, e‑commerce,...

@@ -2,7 +2,7 @@
 name: PatentDrawAI
 url: "https://patentdrawai.com"
 image: /logos/patentdrawai.png
-screenshot: /screens/patentdrawai.jpg
+screenshot: /screens/patentdrawai.webp
 subcategory: ai-chat
 pricing: paid
 tagline: PatentDrawAI consolidates the IP lifecycle into one platform, generating patent drafts from plain English and providing real‑time prior‑art searches,...

@@ -2,7 +2,7 @@
 name: inBuild
 url: "https://www.inbuild.ai"
 image: /logos/inbuild.png
-screenshot: /screens/inbuild.jpg
+screenshot: /screens/inbuild.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: inBuild automates construction billing and financial workflows for contractors, subcontractors, and accounting teams, centralizing invoices and payables,...

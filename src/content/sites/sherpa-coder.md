@@ -2,7 +2,7 @@
 name: Sherpa Coder
 url: "https://www.sherpacoder.dev"
 image: /logos/sherpa-coder.png
-screenshot: /screens/sherpa-coder.jpg
+screenshot: /screens/sherpa-coder.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Sherpa Coder enhances VS Code for developers by integrating OpenAI assistants for context-aware suggestions, custom assistants, and secure account...

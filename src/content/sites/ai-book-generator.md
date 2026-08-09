@@ -2,7 +2,7 @@
 name: AI Book Generator
 url: "https://www.aibookgenerator.net"
 image: /logos/ai-book-generator.png
-screenshot: /screens/ai-book-generator.jpg
+screenshot: /screens/ai-book-generator.webp
 subcategory: ai-writing
 pricing: paid
 tagline: "AI Book Generator lets authors produce full books in three steps: choose a title/genre, plan chapters with AI prompts, and export the manuscript."

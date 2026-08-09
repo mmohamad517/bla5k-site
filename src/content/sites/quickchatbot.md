@@ -2,7 +2,7 @@
 name: QuickChatbot
 url: "https://fluttydev.gumroad.com/l/QuickChatbotOpenaiChatPdfChatgptcsvchatgptyoutubesummary"
 image: /logos/quickchatbot.png
-screenshot: /screens/quickchatbot.jpg
+screenshot: /screens/quickchatbot.webp
 subcategory: ai-chat
 pricing: paid
 tagline: QuickChatbot lets users converse with GPT‑3 to answer questions, process PDFs/TXT for keyword searching, summarization, and insight extraction, upload CSVs...

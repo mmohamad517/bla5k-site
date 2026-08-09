@@ -2,7 +2,7 @@
 name: CopyMonkey
 url: "https://copymonkey.ai/?via=topaitools"
 image: /logos/copymonkey.png
-screenshot: /screens/copymonkey.jpg
+screenshot: /screens/copymonkey.webp
 subcategory: ai-writing
 pricing: paid
 tagline: CopyMonkey is an AI‑powered Amazon listing generator that creates keyword‑optimized titles, bullets, and descriptions by analyzing competitors and keyword...

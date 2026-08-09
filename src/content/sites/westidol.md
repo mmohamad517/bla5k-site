@@ -2,7 +2,7 @@
 name: Westidol
 url: "https://www.westidol.com/"
 image: /logos/westidol.png
-screenshot: /screens/westidol.jpg
+screenshot: /screens/westidol.webp
 subcategory: ai-image
 pricing: paid
 tagline: West Idol generates high‑quality character portraits from uploaded photos or new faces, with style selection, AI inpainting, background removal,...

@@ -2,7 +2,7 @@
 name: To3D.AI
 url: "https://to3d.ai"
 image: /logos/to3d-ai.png
-screenshot: /screens/to3d-ai.jpg
+screenshot: /screens/to3d-ai.webp
 subcategory: design-3d
 pricing: freemium
 tagline: To3D.AI converts text prompts and 2D images into production-ready 3D models with optimized topology, PBR textures, quad remeshing, LODs, auto-rigging and...

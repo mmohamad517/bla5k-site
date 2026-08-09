@@ -2,7 +2,7 @@
 name: CodeMate
 url: "https://www.codemate.ai/"
 image: /logos/codemate.png
-screenshot: /screens/codemate.jpg
+screenshot: /screens/codemate.webp
 subcategory: ai-chat
 pricing: free
 tagline: CodeMate AI is a VS Code plugin that translates natural‑language prompts into code, providing pull‑request reviews, bug and security analysis, refactoring,...

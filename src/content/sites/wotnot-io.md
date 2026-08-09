@@ -2,7 +2,7 @@
 name: wotnot.io
 url: "https://wotnot.io"
 image: /logos/wotnot-io.png
-screenshot: /screens/wotnot-io.jpg
+screenshot: /screens/wotnot-io.webp
 subcategory: ai-chat
 pricing: paid
 tagline: WotNot is a no‑code AI agent platform that builds multilingual chatbots from websites and documents.

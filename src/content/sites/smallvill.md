@@ -2,7 +2,7 @@
 name: SmallVill
 url: "https://smallvill.com"
 image: /logos/smallvill.png
-screenshot: /screens/smallvill.jpg
+screenshot: /screens/smallvill.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: SmallVill is a virtual environment that simulates interactions among multiple AI agents—including historical figures—within a modern village.

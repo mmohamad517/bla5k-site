@@ -2,7 +2,7 @@
 name: TheCartoonist
 url: "https://thecartoonist.studio"
 image: /logos/thecartoonist-studio.png
-screenshot: /screens/thecartoonist-studio.jpg
+screenshot: /screens/thecartoonist-studio.webp
 subcategory: ai-image
 pricing: free
 tagline: thecartoonist.studio is a face-to-cartoon generator that uses a FaceCap™ engine to preserve facial likeness in 4K PNG outputs with transparent backgrounds.

@@ -2,7 +2,7 @@
 name: Neurture
 url: "https://neurtureapp.com"
 image: /logos/neurture.png
-screenshot: /screens/neurture.jpg
+screenshot: /screens/neurture.webp
 subcategory: learn-courses
 pricing: paid
 tagline: Neurture is a mobile app that assists adults in managing compulsive behaviors such as alcohol, vaping, gambling, and screen time.

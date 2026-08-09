@@ -2,7 +2,7 @@
 name: cortexlabs.ai
 url: "https://cortexlabs.ai"
 image: /logos/cortexlabs-ai.png
-screenshot: /screens/cortexlabs-ai.jpg
+screenshot: /screens/cortexlabs-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Cortex is a blockchain platform that integrates AI into decentralized applications, enabling on-chain AI inference with GPU resources.

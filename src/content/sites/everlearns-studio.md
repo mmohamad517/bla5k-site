@@ -2,7 +2,7 @@
 name: EverLearns Studio
 url: "https://generator.everlearns.com"
 image: /logos/everlearns-studio.png
-screenshot: /screens/everlearns-studio.jpg
+screenshot: /screens/everlearns-studio.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Quinnsy automatically generates full course curricula from provided topics, references, and media.

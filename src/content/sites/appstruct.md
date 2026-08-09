@@ -2,7 +2,7 @@
 name: AppStruct
 url: "https://appstruct.ai"
 image: /logos/appstruct.png
-screenshot: /screens/appstruct.jpg
+screenshot: /screens/appstruct.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Appstruct is a no-code app builder that allows users to create mobile, web, and desktop applications visually.

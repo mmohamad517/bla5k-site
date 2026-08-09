@@ -2,7 +2,7 @@
 name: Ninjachat
 url: "https://ninjachat.ai"
 image: /logos/ninjachat.png
-screenshot: /screens/ninjachat.jpg
+screenshot: /screens/ninjachat.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: NinjaChat consolidates dozens of large language models (GPT‑5, Claude, Gemini, etc.) into a single interface, offering text, image, and video creation, live...

@@ -2,7 +2,7 @@
 name: Chat100.ai
 url: "https://chat100.ai/"
 image: /logos/chat100-ai.png
-screenshot: /screens/chat100-ai.jpg
+screenshot: /screens/chat100-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Chat100.ai offers a single web interface that integrates GPT‑5.2, GPT‑5.1, GPT‑4o, Grok‑4.1, Grok‑4, Grok‑3, Gemini 3 Pro, and Gemini 3 Flash, enabling...

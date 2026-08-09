@@ -2,7 +2,7 @@
 name: Amara AI
 url: "https://amara.01c.ai/app"
 image: /logos/amara-01c-ai.png
-screenshot: /screens/amara-01c-ai.jpg
+screenshot: /screens/amara-01c-ai.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Unreal Engine plugin that generates production-ready 3D meshes from 2D images, converts image assets into editable UE5 models, and assembles scenes via...

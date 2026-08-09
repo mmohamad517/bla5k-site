@@ -2,7 +2,7 @@
 name: Rendera.ai
 url: "https://www.rendera.ai"
 image: /logos/rendera-ai.png
-screenshot: /screens/rendera-ai.jpg
+screenshot: /screens/rendera-ai.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Rendera is an AI-powered design generator that creates high-quality landscape and interior visualizations from uploaded images, considering climate and...

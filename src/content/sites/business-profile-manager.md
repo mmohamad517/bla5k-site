@@ -2,7 +2,7 @@
 name: Business Profile Manager
 url: "https://localseotoolsandtips.com"
 image: /logos/business-profile-manager.png
-screenshot: /screens/business-profile-manager.jpg
+screenshot: /screens/business-profile-manager.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Rank Google Business Profile offers an AI‑powered dashboard to manage unlimited listings, auto‑reply to reviews with keyword‑rich responses, audit...

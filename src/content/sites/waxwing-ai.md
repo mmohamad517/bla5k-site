@@ -2,7 +2,7 @@
 name: Waxwing.ai
 url: "https://www.waxwing.ai"
 image: /logos/waxwing-ai.png
-screenshot: /screens/waxwing-ai.jpg
+screenshot: /screens/waxwing-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Waxwing.ai is an AI project management tool designed for various marketers, offering personalized marketing strategies and role-based KPI alignment for...

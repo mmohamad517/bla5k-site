@@ -2,7 +2,7 @@
 name: Me.bot
 url: "https://www.me.bot/"
 image: /logos/me-bot.png
-screenshot: /screens/me-bot.jpg
+screenshot: /screens/me-bot.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Me.bot generates a personalized digital avatar from user notes, audio, and recordings, delivering voice‑and‑visual presentations tailored to any audience.

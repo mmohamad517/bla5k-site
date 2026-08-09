@@ -2,7 +2,7 @@
 name: Getgro.io
 url: "https://getgro.io"
 image: /logos/getgro-io.png
-screenshot: /screens/getgro-io.jpg
+screenshot: /screens/getgro-io.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Getgro centralizes live chat, email, WhatsApp, Instagram and other channels into one support dashboard.

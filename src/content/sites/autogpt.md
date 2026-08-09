@@ -2,7 +2,7 @@
 name: AutoGPT
 url: "https://github.com/Significant-Gravitas/AutoGPT"
 image: /logos/autogpt.png
-screenshot: /screens/autogpt.jpg
+screenshot: /screens/autogpt.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: AutoGPT is an open-source AI tool that revolutionizes natural language processing and automates various tasks.

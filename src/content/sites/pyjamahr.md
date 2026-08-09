@@ -2,7 +2,7 @@
 name: PyjamaHR
 url: "https://pyjamahr.com/"
 image: /logos/pyjamahr.png
-screenshot: /screens/pyjamahr.jpg
+screenshot: /screens/pyjamahr.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: PyjamaHR is an ATS that centralizes job postings, automates resume parsing and AI matching, screens candidates, schedules interviews via Teams and Zoom,...

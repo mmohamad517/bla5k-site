@@ -2,7 +2,7 @@
 name: Aiwrita
 url: "https://www.sallygilespottery.com/"
 image: /logos/aiwrita.png
-screenshot: /screens/aiwrita.jpg
+screenshot: /screens/aiwrita.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: AI Writa is a free AI copywriting assistant that generates unique marketing content quickly using customizable templates.

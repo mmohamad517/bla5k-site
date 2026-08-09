@@ -2,7 +2,7 @@
 name: SaasLink
 url: "https://saaslink.pro"
 image: /logos/saaslink.png
-screenshot: /screens/saaslink.jpg
+screenshot: /screens/saaslink.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Saaslink is an AI-driven content generation tool for SaaS founders, enabling them to create platform-optimized posts for multiple channels swiftly.

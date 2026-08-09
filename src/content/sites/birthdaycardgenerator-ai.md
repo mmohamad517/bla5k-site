@@ -2,7 +2,7 @@
 name: BirthdayCardGenerator AI
 url: "https://birthdaycardgenerator.ai/"
 image: /logos/birthdaycardgenerator-ai.png
-screenshot: /screens/birthdaycardgenerator-ai.jpg
+screenshot: /screens/birthdaycardgenerator-ai.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: birthdaycardgenerator.ai is an AI tool that creates personalized birthday cards, posters, and invitations from text prompts and up to three reference images.

@@ -2,7 +2,7 @@
 name: The Lastly
 url: "https://thelistly.com"
 image: /logos/the-lastly.png
-screenshot: /screens/the-lastly.jpg
+screenshot: /screens/the-lastly.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Listly AI quickly generates accurate real‑estate descriptions from property details and photos.

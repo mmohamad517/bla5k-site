@@ -2,7 +2,7 @@
 name: Huewheel
 url: "https://huewheel.com"
 image: /logos/huewheel.png
-screenshot: /screens/huewheel.jpg
+screenshot: /screens/huewheel.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: Huewheel is an AI color palette generator that transforms verbal concepts into customized color schemes.

@@ -2,7 +2,7 @@
 name: iSwift.dev
 url: "https://www.iswift.dev"
 image: /logos/iswift-dev.png
-screenshot: /screens/iswift-dev.jpg
+screenshot: /screens/iswift-dev.webp
 subcategory: nc-builders
 pricing: paid
 tagline: Build SwiftUI Based iOS Apps in Minutes AI streamlines app development for iPhone, iPad, Apple Watch, and Mac by rapidly generating SwiftUI code, offering...

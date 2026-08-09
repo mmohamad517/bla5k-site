@@ -2,7 +2,7 @@
 name: Rage Filter
 url: "https://ragefilter.com"
 image: /logos/rage-filter.png
-screenshot: /screens/rage-filter.jpg
+screenshot: /screens/rage-filter.webp
 subcategory: learn-courses
 pricing: freemium
 tagline: RageFilter is an AI-powered toxic conversation simulator for safely practicing conflict response with archetypal antagonists like gaslighters and narcissists.

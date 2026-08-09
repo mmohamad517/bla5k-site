@@ -2,7 +2,7 @@
 name: Superintelligent
 url: "https://besuper.ai/"
 image: /logos/superintelligent.png
-screenshot: /screens/superintelligent.jpg
+screenshot: /screens/superintelligent.webp
 subcategory: fin-fintech
 pricing: free
 tagline: Superintelligent is an AI enablement platform that streamlines AI adoption within organizations, offering a Use Case Registry, collaborative...

@@ -2,7 +2,7 @@
 name: LeadSlide
 url: "https://leadslide.com"
 image: /logos/leadslide.png
-screenshot: /screens/leadslide.jpg
+screenshot: /screens/leadslide.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Leadslide AI automates ebook creation and email funnels on WordPress, generating ChatGPT‑based PDFs, landing pages, and follow‑up emails.

@@ -2,7 +2,7 @@
 name: LivePortrait AI
 url: "https://liveportraitai.com"
 image: /logos/liveportrait-ai.png
-screenshot: /screens/liveportrait-ai.jpg
+screenshot: /screens/liveportrait-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: LivePortrait AI animates still portraits by detecting facial keypoints, creating realistic head movements, blinking, and mouth expressions.

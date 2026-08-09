@@ -2,7 +2,7 @@
 name: anki-decks.com
 url: "https://anki-decks.com"
 image: /logos/anki-decks-com.png
-screenshot: /screens/anki-decks-com.jpg
+screenshot: /screens/anki-decks-com.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: AnkiDecks automatically turns PDFs, PowerPoints, Word files, ePub, and YouTube videos into Anki flashcards in seconds.

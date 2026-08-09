@@ -2,7 +2,7 @@
 name: STORI AI
 url: "https://storiai.com"
 image: /logos/stori-ai.png
-screenshot: /screens/stori-ai.jpg
+screenshot: /screens/stori-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: STORI automates end‑to‑end go‑to‑market planning and content creation.

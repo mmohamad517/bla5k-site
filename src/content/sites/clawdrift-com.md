@@ -2,7 +2,7 @@
 name: ClawDrift
 url: "https://clawdrift.com"
 image: /logos/clawdrift-com.png
-screenshot: /screens/clawdrift-com.jpg
+screenshot: /screens/clawdrift-com.webp
 subcategory: ai-chat
 pricing: paid
 tagline: ClawDrift deploys personal AI assistants to Telegram, Discord, or WhatsApp in under a minute with no-code automated setup.

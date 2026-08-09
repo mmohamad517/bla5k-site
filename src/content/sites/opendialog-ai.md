@@ -2,7 +2,7 @@
 name: opendialog.ai
 url: "https://opendialog.ai"
 image: /logos/opendialog-ai.png
-screenshot: /screens/opendialog-ai.jpg
+screenshot: /screens/opendialog-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: OpenDialog is an enterprise AI platform that deploys purpose‑built agents for regulated insurance workflows, boosting quote conversions, automating policy...

@@ -2,7 +2,7 @@
 name: Hyring
 url: "https://hyring.com"
 image: /logos/hyring.png
-screenshot: /screens/hyring.jpg
+screenshot: /screens/hyring.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Hyring is an AI recruiting software that enhances the hiring process with features like video and phone interviews, resume screening, and live coding...

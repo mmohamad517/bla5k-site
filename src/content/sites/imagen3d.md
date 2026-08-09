@@ -2,7 +2,7 @@
 name: Imagen3D
 url: "https://imagen3d.org"
 image: /logos/imagen3d.png
-screenshot: /screens/imagen3d.jpg
+screenshot: /screens/imagen3d.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Imagen3D converts single- or multi-view photos into production-ready, watertight 3D models with clean topology and baked PBR textures, exporting common...

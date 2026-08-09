@@ -2,7 +2,7 @@
 name: Rodin
 url: "https://hyper3d.ai"
 image: /logos/rodin.png
-screenshot: /screens/rodin.jpg
+screenshot: /screens/rodin.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Rodin is an AI-powered 3D model generator that enables users to create high-quality assets using bounding box control and multi-view fusion.

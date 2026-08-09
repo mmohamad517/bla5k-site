@@ -2,7 +2,7 @@
 name: SmythOS
 url: "https://smythos.com"
 image: /logos/smythos.png
-screenshot: /screens/smythos.jpg
+screenshot: /screens/smythos.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Smythos is an AI agent creation platform that allows users to build and deploy agents effortlessly using templates and a drag-and-drop interface, supporting...

@@ -2,7 +2,7 @@
 name: Uniplan.ai
 url: "https://uniplan.ai"
 image: /logos/uniplan-ai.png
-screenshot: /screens/uniplan-ai.jpg
+screenshot: /screens/uniplan-ai.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Uniplan is an AI-powered business planning platform that quickly generates customized business plans from user input.

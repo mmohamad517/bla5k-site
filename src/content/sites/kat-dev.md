@@ -2,7 +2,7 @@
 name: kat dev
 url: "https://kat-dev.dev"
 image: /logos/kat-dev.png
-screenshot: /screens/kat-dev.jpg
+screenshot: /screens/kat-dev.webp
 subcategory: ai-chat
 pricing: free
 tagline: Kat Dev is an AI code intelligence tool that assists software engineers by generating high-quality code, implementing features, fixing bugs, and optimizing...

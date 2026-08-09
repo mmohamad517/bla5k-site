@@ -2,7 +2,7 @@
 name: Shmooz AI
 url: "https://shmooz.ai"
 image: /logos/shmooz-ai.png
-screenshot: /screens/shmooz-ai.jpg
+screenshot: /screens/shmooz-ai.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Shmooz AI is an AI assistant on WhatsApp, Telegram, and web that uses ChatGPT, Claude, Flux to generate and style images, convert text to voice/music,...

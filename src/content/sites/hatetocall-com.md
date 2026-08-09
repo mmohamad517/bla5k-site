@@ -2,7 +2,7 @@
 name: HateToCall.com
 url: "https://HateToCall.com"
 image: /logos/hatetocall-com.png
-screenshot: /screens/hatetocall-com.jpg
+screenshot: /screens/hatetocall-com.webp
 subcategory: nc-automation
 pricing: free
 tagline: HateToCall.com is an AI tool that manages phone calls on behalf of users, handling tasks like bill negotiations and appointment scheduling while minimizing...

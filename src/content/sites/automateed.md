@@ -2,7 +2,7 @@
 name: Automateed
 url: "https://automateed.com"
 image: /logos/automateed.png
-screenshot: /screens/automateed.jpg
+screenshot: /screens/automateed.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Automateed uses conversational AI to draft full books—up to 150+ pages—adding illustrations and covers.

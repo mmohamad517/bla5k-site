@@ -2,7 +2,7 @@
 name: SoundBoost.ai
 url: "https://soundboost.ai"
 image: /logos/soundboost-ai.png
-screenshot: /screens/soundboost-ai.jpg
+screenshot: /screens/soundboost-ai.webp
 subcategory: ai-video-audio
 pricing: freemium
 tagline: SoundBoost.ai offers rapid, prompt-driven online mastering with genre-aware AI profiles, stem splitting, LUFS/loudness analysis, true-peak limiting,...

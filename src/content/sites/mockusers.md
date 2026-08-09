@@ -2,7 +2,7 @@
 name: MockUsers
 url: "https://mockusers.xyz"
 image: /logos/mockusers.png
-screenshot: /screens/mockusers.jpg
+screenshot: /screens/mockusers.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: MockUsers analyzes landing pages, auto-detects ideal customer profiles and deploys AI visitor agents to simulate behavior, pinpoint sentence-level doubts...

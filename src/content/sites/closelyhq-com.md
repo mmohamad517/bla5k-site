@@ -2,7 +2,7 @@
 name: Closelyhq.com
 url: "https://closelyhq.com/"
 image: /logos/closelyhq-com.png
-screenshot: /screens/closelyhq-com.jpg
+screenshot: /screens/closelyhq-com.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Closely automates LinkedIn and email outreach, generating personalized messages and consolidating replies in a unified inbox.

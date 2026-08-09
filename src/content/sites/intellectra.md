@@ -2,7 +2,7 @@
 name: Intellectra
 url: "https://intellectra.io"
 image: /logos/intellectra.png
-screenshot: /screens/intellectra.jpg
+screenshot: /screens/intellectra.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Intellectra centralizes digital offerings for coaches and creators, enabling course creation, community building, and sales management.

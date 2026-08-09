@@ -2,7 +2,7 @@
 name: ZeroClaw
 url: "https://github.com/openagen/zeroclaw"
 image: /logos/zeroclaw.png
-screenshot: /screens/zeroclaw.jpg
+screenshot: /screens/zeroclaw.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: Zeroclaw is a Rust-based AI assistant framework delivering a compact low-latency runtime with trait-based, pluggable components, unified API for 22+...

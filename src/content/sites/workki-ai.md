@@ -2,7 +2,7 @@
 name: Workki AI
 url: "https://www.workkiai.com"
 image: /logos/workki-ai.png
-screenshot: /screens/workki-ai.jpg
+screenshot: /screens/workki-ai.webp
 subcategory: ai-chat
 pricing: free
 tagline: Workki AI is a web platform that uses AI to detect fake news and fact‑check academic papers, corporate documents, and news articles.

@@ -2,7 +2,7 @@
 name: Get Simple Chat
 url: "http://getsimplechat.com/"
 image: /logos/get-simple-chat.png
-screenshot: /screens/get-simple-chat.jpg
+screenshot: /screens/get-simple-chat.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Get Simple Chat is a chatbot builder offering 52 pre-built templates for 50+ industries, with preset question flows and knowledge skeletons for quick...

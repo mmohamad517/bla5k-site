@@ -2,7 +2,7 @@
 name: MixHub AI
 url: "https://mixhubai.com"
 image: /logos/mixhub-ai.png
-screenshot: /screens/mixhub-ai.jpg
+screenshot: /screens/mixhub-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: MixHub AI is a versatile platform for content creation, offering text-to-video, image-to-video, and video style transfer capabilities.

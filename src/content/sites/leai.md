@@ -2,7 +2,7 @@
 name: LEAi
 url: "https://learnexperts.ai/about-leai/"
 image: /logos/leai.png
-screenshot: /screens/leai.jpg
+screenshot: /screens/leai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: LEAi converts documents, presentations, webpages, and video into structured courses, auto‑generating objectives, instructional text, assessments, and...

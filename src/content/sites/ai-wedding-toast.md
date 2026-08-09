@@ -2,7 +2,7 @@
 name: AI Wedding Toast
 url: "https://aiweddingtoast.com"
 image: /logos/ai-wedding-toast.png
-screenshot: /screens/ai-wedding-toast.jpg
+screenshot: /screens/ai-wedding-toast.webp
 subcategory: ai-chat
 pricing: free
 tagline: AI Wedding Toast auto‑writes personalized wedding speeches and vows in under two minutes.

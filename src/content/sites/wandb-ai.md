@@ -2,7 +2,7 @@
 name: wandb.ai
 url: "https://wandb.ai"
 image: /logos/wandb-ai.png
-screenshot: /screens/wandb-ai.jpg
+screenshot: /screens/wandb-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Weights & Biases is an AI developer platform that simplifies machine learning experiments with tools for tracking, visualizing, and optimizing models.

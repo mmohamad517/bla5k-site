@@ -2,7 +2,7 @@
 name: Slogan Generator
 url: "https://aiseo.ai/?fpr=aitools"
 image: /logos/slogan-generator.png
-screenshot: /screens/slogan-generator.jpg
+screenshot: /screens/slogan-generator.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Aiseo is an AI-powered free online tool that helps businesses generate catchy, memorable, and effective slogans in 25 different languages with various...

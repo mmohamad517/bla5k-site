@@ -2,7 +2,7 @@
 name: HeyVoli
 url: "https://heyvoli.com/"
 image: /logos/heyvoli.png
-screenshot: /screens/heyvoli.jpg
+screenshot: /screens/heyvoli.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: HeyVoli is an all-in-one AI tool for writing, copywriting, and voiceover generation.

@@ -2,7 +2,7 @@
 name: Cohere
 url: "https://cohere.io/"
 image: /logos/cohere.png
-screenshot: /screens/cohere.jpg
+screenshot: /screens/cohere.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Coher is an AI tool that automates customer support, resolves up to 60% of tickets, provides personalized answers, and optimizes customer flow.

@@ -2,7 +2,7 @@
 name: Starnus
 url: "https://starnus.com/"
 image: /logos/starnus.png
-screenshot: /screens/starnus.jpg
+screenshot: /screens/starnus.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Starnus is an autonomous AI sales employee that persistently executes multi-day tasks based on user-defined goals, providing updates and integrating...

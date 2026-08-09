@@ -2,7 +2,7 @@
 name: Hyrproz
 url: "https://www.hyrproz.com"
 image: /logos/hyrproz.png
-screenshot: /screens/hyrproz.jpg
+screenshot: /screens/hyrproz.webp
 subcategory: fin-fintech
 pricing: paid
 tagline: Hyrproz is a fractional hiring marketplace that pairs employers with pre‑screened, part‑time executives (CTO, CFO, CMO, VP of Sales, Product Lead).

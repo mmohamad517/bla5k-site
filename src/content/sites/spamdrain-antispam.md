@@ -2,7 +2,7 @@
 name: Spamdrain antispam
 url: "https://spamdrain.com/en/index.html"
 image: /logos/spamdrain-antispam.png
-screenshot: /screens/spamdrain-antispam.jpg
+screenshot: /screens/spamdrain-antispam.webp
 subcategory: nc-automation
 pricing: freemium
 tagline: Effortlessly declutter your inbox with SpamDrain Anti-Spam AI Tool.

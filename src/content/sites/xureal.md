@@ -2,7 +2,7 @@
 name: Xureal
 url: "https://xureal.com"
 image: /logos/xureal.png
-screenshot: /screens/xureal.jpg
+screenshot: /screens/xureal.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Elevux merges AI and metaverse technology to deliver rapid, scalable virtual sales enablement and training.

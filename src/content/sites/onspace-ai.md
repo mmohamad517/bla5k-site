@@ -2,7 +2,7 @@
 name: OnSpace.AI
 url: "https://www.onspace.ai"
 image: /logos/onspace-ai.png
-screenshot: /screens/onspace-ai.jpg
+screenshot: /screens/onspace-ai.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: OnSpace.AI is a no-code AI app builder for creating cross-platform mobile apps with photorealistic designs and real-time previews.

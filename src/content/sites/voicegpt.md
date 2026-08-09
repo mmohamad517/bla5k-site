@@ -2,7 +2,7 @@
 name: VoiceGPT
 url: "https://voicegpt.net/"
 image: /logos/voicegpt.png
-screenshot: /screens/voicegpt.jpg
+screenshot: /screens/voicegpt.webp
 subcategory: ai-chat
 pricing: free
 tagline: VoiceGPT lets Android users chat with ChatGPT via voice, offering hotword activation, multilingual input/output, and unlimited free messaging.

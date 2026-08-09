@@ -2,7 +2,7 @@
 name: Detecting-AI.com
 url: "https://detecting-ai.com"
 image: /logos/detecting-ai-com.png
-screenshot: /screens/detecting-ai-com.jpg
+screenshot: /screens/detecting-ai-com.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Detecting‑AI scans text in 50+ languages, marking AI‑generated sentences with probability scores.

@@ -2,7 +2,7 @@
 name: Pixels2Flutter
 url: "https://pixels2flutter.dev/"
 image: /logos/pixels2flutter.png
-screenshot: /screens/pixels2flutter.jpg
+screenshot: /screens/pixels2flutter.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Pixel2Flutter is an AI-assisted migration tool that converts Google's Pixel UI components to Flutter widgets, simplifying the process of porting Android...

@@ -2,7 +2,7 @@
 name: ChatronAI
 url: "https://chatronai.com/"
 image: /logos/chatronai.png
-screenshot: /screens/chatronai.jpg
+screenshot: /screens/chatronai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: ChatronAI is an AI-powered content generator that can create unique SEO-optimized content, images, and codes 10 times faster than traditional methods.

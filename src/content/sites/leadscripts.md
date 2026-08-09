@@ -2,7 +2,7 @@
 name: LeadScripts
 url: "https://leadscripts.co/"
 image: /logos/leadscripts.png
-screenshot: /screens/leadscripts.jpg
+screenshot: /screens/leadscripts.webp
 subcategory: ai-writing
 pricing: paid
 tagline: LeadScripts auto‑generates marketing scripts from a product URL, extracting 80+ details and targeting five customer‑persona stages.

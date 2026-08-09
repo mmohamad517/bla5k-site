@@ -2,7 +2,7 @@
 name: ExpenseMonkey
 url: "https://www.expensemonkey.io/"
 image: /logos/expensemonkey.png
-screenshot: /screens/expensemonkey.jpg
+screenshot: /screens/expensemonkey.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: ExpenseMonkey is a streamlined expense management tool designed for freelancers, small businesses, and teams, offering mobile receipt scanning, automated...

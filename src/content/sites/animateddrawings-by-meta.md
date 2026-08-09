@@ -2,7 +2,7 @@
 name: AnimatedDrawings by Meta
 url: "https://sketch.metademolab.com/"
 image: /logos/animateddrawings-by-meta.png
-screenshot: /screens/animateddrawings-by-meta.jpg
+screenshot: /screens/animateddrawings-by-meta.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Animated Drawings AI by Meta AI Research animates static children's drawings, providing an easy interface for character animation and boosting storytelling...

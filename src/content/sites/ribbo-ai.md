@@ -2,7 +2,7 @@
 name: Ribbo AI
 url: "https://www.ribbo.ai"
 image: /logos/ribbo-ai.png
-screenshot: /screens/ribbo-ai.jpg
+screenshot: /screens/ribbo-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Ribbo AI trains AI customer-support agents on your documents and website content, deployable across web chat, WhatsApp, and Slack.

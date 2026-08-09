@@ -2,7 +2,7 @@
 name: Chatbuild ai
 url: "https://www.chatbuild.io"
 image: /logos/chatbuild-ai.png
-screenshot: /screens/chatbuild-ai.jpg
+screenshot: /screens/chatbuild-ai.webp
 subcategory: nc-builders
 pricing: paid
 tagline: Create a custom AI chatbot without coding.

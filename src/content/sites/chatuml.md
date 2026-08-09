@@ -2,7 +2,7 @@
 name: ChatUML
 url: "https://chatuml.com"
 image: /logos/chatuml.png
-screenshot: /screens/chatuml.jpg
+screenshot: /screens/chatuml.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: ChatUML is a desktop AI‑assisted diagram generator that turns textual descriptions into UML, flowcharts, and architecture diagrams.

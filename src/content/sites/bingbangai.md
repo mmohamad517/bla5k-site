@@ -2,7 +2,7 @@
 name: BingBangAI
 url: "https://bingbang.ai/"
 image: /logos/bingbangai.png
-screenshot: /screens/bingbangai.jpg
+screenshot: /screens/bingbangai.webp
 subcategory: ai-writing
 pricing: paid
 tagline: BingBang.ai offers 80+ AI writing tools, a GPT‑4 chatbot, prompt library, voice commands, and image generation.

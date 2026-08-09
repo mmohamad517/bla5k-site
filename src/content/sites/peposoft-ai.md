@@ -2,7 +2,7 @@
 name: PepoSoft AI
 url: "https://www.peposoft.ai"
 image: /logos/peposoft-ai.png
-screenshot: /screens/peposoft-ai.jpg
+screenshot: /screens/peposoft-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: PepoSoft AI generates plagiarism‑free, human‑like text for blogs, articles, social media, and product descriptions in 95+ languages.

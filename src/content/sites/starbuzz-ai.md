@@ -2,7 +2,7 @@
 name: Starbuzz.ai
 url: "https://starbuzz.ai"
 image: /logos/starbuzz-ai.png
-screenshot: /screens/starbuzz-ai.jpg
+screenshot: /screens/starbuzz-ai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Starbuzz.ai streamlines influencer marketing by recommending creators, auto‑generating briefs and budgets, tracking posts in real time, calculating instant...

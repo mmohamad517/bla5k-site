@@ -2,7 +2,7 @@
 name: GPTBox
 url: "https://www.gptbox.app"
 image: /logos/gptbox.png
-screenshot: /screens/gptbox.jpg
+screenshot: /screens/gptbox.webp
 subcategory: ai-chat
 pricing: free
 tagline: gptbox is a Windows application that integrates ChatGPT into the taskbar, offering AI-powered assistance for composing emails, drafting documents, and...

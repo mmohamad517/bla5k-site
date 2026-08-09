@@ -2,7 +2,7 @@
 name: Formsflow
 url: "https://formsflow.ai"
 image: /logos/formsflow.png
-screenshot: /screens/formsflow.jpg
+screenshot: /screens/formsflow.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Formsflow.ai is a low-code platform for creating forms, automating workflows, and managing data.

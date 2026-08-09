@@ -2,7 +2,7 @@
 name: Fusion Compose
 url: "http://fusioncompose.com/"
 image: /logos/fusion-compose.png
-screenshot: /screens/fusion-compose.jpg
+screenshot: /screens/fusion-compose.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Fusion Compose is a user-friendly chat UI that seamlessly integrates with the GPT-4 API, as well as GPT-4 Turbo and GPT-3.5 Turbo.

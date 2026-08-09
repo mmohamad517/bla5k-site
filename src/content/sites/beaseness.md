@@ -2,7 +2,7 @@
 name: Beaseness
 url: "https://www.beaseness.com"
 image: /logos/beaseness.png
-screenshot: /screens/beaseness.jpg
+screenshot: /screens/beaseness.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Beaseness quickly validates business ideas and generates AI-powered business plans, offering insights on viability, risks, and potential.

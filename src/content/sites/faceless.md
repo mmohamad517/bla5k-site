@@ -2,7 +2,7 @@
 name: Faceless
 url: "https://faceless.video"
 image: /logos/faceless.png
-screenshot: /screens/faceless.jpg
+screenshot: /screens/faceless.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Faceless.video automates full video production—script, edit, publish—without on‑screen talent.

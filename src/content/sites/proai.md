@@ -2,7 +2,7 @@
 name: ProAI
 url: "https://app.fundingpath.ai/proai"
 image: /logos/proai.png
-screenshot: /screens/proai.jpg
+screenshot: /screens/proai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: ProAI is an AI-powered platform offering tailored solutions for business planning, funding, and market research.

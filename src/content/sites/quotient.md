@@ -2,7 +2,7 @@
 name: Quotient
 url: "https://www.getquotient.ai"
 image: /logos/quotient.png
-screenshot: /screens/quotient.jpg
+screenshot: /screens/quotient.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Quotient centralizes campaign planning, content creation, orchestration, and analytics.

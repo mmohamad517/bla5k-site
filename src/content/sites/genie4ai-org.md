@@ -2,7 +2,7 @@
 name: Genie4 AI
 url: "https://www.genie4ai.org/"
 image: /logos/genie4ai-org.png
-screenshot: /screens/genie4ai-org.jpg
+screenshot: /screens/genie4ai-org.webp
 subcategory: design-3d
 pricing: freemium
 tagline: genie4ai.org is a browser-based AI that creates interactive 3D worlds from text or images in real-time.

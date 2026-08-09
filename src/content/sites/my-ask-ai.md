@@ -2,7 +2,7 @@
 name: My Ask AI
 url: "https://myaskai.com/compare/freshdesk-vs-intercom-ai-pricing?utm_source=landing_page"
 image: /logos/my-ask-ai.png
-screenshot: /screens/my-ask-ai.jpg
+screenshot: /screens/my-ask-ai.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: My AskAI integrates into helpdesk platforms, automatically answering up to 75 % of tickets by learning from internal docs.

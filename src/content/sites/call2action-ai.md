@@ -2,7 +2,7 @@
 name: Call2action AI
 url: "http://call2action.ai"
 image: /logos/call2action-ai.png
-screenshot: /screens/call2action-ai.jpg
+screenshot: /screens/call2action-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Call2Action is an AI recruiting software that automates interview scheduling and conducts live video interviews.

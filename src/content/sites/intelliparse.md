@@ -2,7 +2,7 @@
 name: IntelliParse
 url: "https://intelliparse.vercel.app/"
 image: /logos/intelliparse.png
-screenshot: /screens/intelliparse.jpg
+screenshot: /screens/intelliparse.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: IntelliParse is an AI document management tool that transforms PDFs into interactive experiences, offering features like intelligent chat memory, advanced...

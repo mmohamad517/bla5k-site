@@ -2,7 +2,7 @@
 name: TailorTalk
 url: "https://tailortalk.ai"
 image: /logos/tailortalk.png
-screenshot: /screens/tailortalk.jpg
+screenshot: /screens/tailortalk.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: TailorTalk is an AI sales agent that automates sales processes on platforms like WhatsApp and Instagram, enabling lead follow-ups, 24/7 support, secure...

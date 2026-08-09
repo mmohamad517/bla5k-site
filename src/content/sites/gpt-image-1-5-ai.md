@@ -2,7 +2,7 @@
 name: GPT Image 1.5 AI
 url: "https://nanobnana.com/"
 image: /logos/gpt-image-1-5-ai.png
-screenshot: /screens/gpt-image-1-5-ai.jpg
+screenshot: /screens/gpt-image-1-5-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: GPT Image 1.5 AI is a high-speed image generator that creates high-resolution visuals from text prompts.

@@ -2,7 +2,7 @@
 name: AI Profile Pictures
 url: "https://www.aiprofilepictures.com/"
 image: /logos/ai-profile-pictures.png
-screenshot: /screens/ai-profile-pictures.jpg
+screenshot: /screens/ai-profile-pictures.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: The AI tool generates profile pictures using machine learning and allows users to purchase credits for over 200 images, with the option to upload photos to...

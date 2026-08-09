@@ -2,7 +2,7 @@
 name: Marlee
 url: "https://getmarlee.com/"
 image: /logos/coach-marlee.png
-screenshot: /screens/coach-marlee.jpg
+screenshot: /screens/coach-marlee.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Marlee is an AI platform that measures up to 48 work motivations with high reliability, delivering insights that personalize communication, boost teamwork,...

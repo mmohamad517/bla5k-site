@@ -2,7 +2,7 @@
 name: Effy
 url: "https://www.effy.ai/"
 image: /logos/effy.png
-screenshot: /screens/effy.jpg
+screenshot: /screens/effy.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Effy AI unifies 360° reviews, OKR tracking, and goal setting into one workflow.

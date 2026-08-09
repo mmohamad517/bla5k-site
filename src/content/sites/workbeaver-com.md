@@ -2,7 +2,7 @@
 name: WorkBeaver
 url: "https://workbeaver.com/"
 image: /logos/workbeaver-com.png
-screenshot: /screens/workbeaver-com.jpg
+screenshot: /screens/workbeaver-com.webp
 subcategory: nc-automation
 pricing: freemium
 tagline: WorkBeaver is an AI automation platform that eliminates manual data entry by running agentic workflows inside existing web tools and local files.

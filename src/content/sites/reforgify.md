@@ -2,7 +2,7 @@
 name: Reforgify
 url: "https://reforgify.com"
 image: /logos/reforgify.png
-screenshot: /screens/reforgify.jpg
+screenshot: /screens/reforgify.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: AI platform that aggregates public startup data, letting users search VC‑backed ideas by industry, user group, or JTBD and filter by launch date, geography,...

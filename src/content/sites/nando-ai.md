@@ -2,7 +2,7 @@
 name: Nando.ai
 url: "https://nando.ai"
 image: /logos/nando-ai.png
-screenshot: /screens/nando-ai.jpg
+screenshot: /screens/nando-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Nando.ai is an AI tool for online businesses, leveraging GPT-4 tech and preset prompts to create high-converting copy in multiple languages.

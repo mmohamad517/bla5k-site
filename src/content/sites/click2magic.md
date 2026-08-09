@@ -2,7 +2,7 @@
 name: Click2Magic
 url: "https://www.click2magic.com"
 image: /logos/click2magic.png
-screenshot: /screens/click2magic.jpg
+screenshot: /screens/click2magic.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Click2Magic embeds live chat into websites and mobile apps, supporting text, audio, video, and file exchanges.

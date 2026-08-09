@@ -2,7 +2,7 @@
 name: Alomana
 url: "https://alomana.com"
 image: /logos/alomana-com.png
-screenshot: /screens/alomana-com.jpg
+screenshot: /screens/alomana-com.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: alomana.com is an enterprise AI autonomy platform that deploys customizable AI agents for business automation and data analysis.

@@ -2,7 +2,7 @@
 name: Prompt.fun
 url: "https://prompt.fun"
 image: /logos/prompt-fun.png
-screenshot: /screens/prompt-fun.jpg
+screenshot: /screens/prompt-fun.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Prompt.fun is a collaborative platform that connects users with expert prompt engineers, facilitating real-time feedback and file sharing to enhance the...

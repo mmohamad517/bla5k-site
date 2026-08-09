@@ -2,7 +2,7 @@
 name: Modor
 url: "https://modor.io"
 image: /logos/modor.png
-screenshot: /screens/modor.jpg
+screenshot: /screens/modor.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: Modor generates realistic product and branding mockups from uploaded designs using AI-assisted placement, lighting and shadow adjustments across 10,000+...

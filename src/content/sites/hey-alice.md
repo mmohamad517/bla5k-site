@@ -2,7 +2,7 @@
 name: Alice App
 url: "https://www.heyalice.app/"
 image: /logos/hey-alice.png
-screenshot: /screens/hey-alice.jpg
+screenshot: /screens/hey-alice.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Alice is an AI assistant for macOS, Windows, and Linux that launches via hotkey, stores context locally, supports multiple LLMs through API keys, offers...

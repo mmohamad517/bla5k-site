@@ -2,7 +2,7 @@
 name: Boundary AI
 url: "https://www.boundaryml.com/"
 image: /logos/boundary-ai.png
-screenshot: /screens/boundary-ai.jpg
+screenshot: /screens/boundary-ai.webp
 subcategory: ai-chat
 pricing: paid
 tagline: BAML is a structured text generation tool that improves data processing for developers by correcting common JSON issues, supporting dynamic prompts, and...

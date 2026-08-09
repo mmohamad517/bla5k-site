@@ -2,7 +2,7 @@
 name: Datavise
 url: "https://www.datavise.ai"
 image: /logos/datavise.png
-screenshot: /screens/datavise.jpg
+screenshot: /screens/datavise.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Datavise provides generative AI, RAG and LLM integration with AI agents for automated workflows, combined with data architecture, governance and cloud AI...

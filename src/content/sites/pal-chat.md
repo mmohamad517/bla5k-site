@@ -2,7 +2,7 @@
 name: Pal Chat
 url: "https://apps.apple.com/us/app/pal-chat-ai-chat-client/id6447545085"
 image: /logos/pal-chat.png
-screenshot: /screens/pal-chat.jpg
+screenshot: /screens/pal-chat.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Pal Chat is an AI chat client for iPhone and iPad supporting multiple models like GPT-4o and DALL-E 3.

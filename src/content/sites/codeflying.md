@@ -2,7 +2,7 @@
 name: codeflying
 url: "https://www.codeflying.app/"
 image: /logos/codeflying.png
-screenshot: /screens/codeflying.jpg
+screenshot: /screens/codeflying.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Codeflying is an app builder that allows users to rapidly prototype and launch full-stack applications.

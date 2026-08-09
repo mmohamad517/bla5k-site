@@ -2,7 +2,7 @@
 name: Meshrefinery
 url: "https://meshrefinery.com"
 image: /logos/meshrefinery-com.png
-screenshot: /screens/meshrefinery-com.jpg
+screenshot: /screens/meshrefinery-com.webp
 subcategory: design-3d
 pricing: freemium
 tagline: meshrefinery.com is a browser-based 3D model repair and conversion tool that runs locally via WebAssembly, fixing open edges and non-manifold geometry to...

@@ -2,7 +2,7 @@
 name: Mixpeek
 url: "https://mixpeek.com/"
 image: /logos/mixpeek.png
-screenshot: /screens/mixpeek.jpg
+screenshot: /screens/mixpeek.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Mixpeek indexes videos, images, and documents into searchable vector embeddings, extracting scenes, transcripts, faces, brands, and entities.

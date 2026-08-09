@@ -2,7 +2,7 @@
 name: Appsmith
 url: "https://www.appsmith.com/ai"
 image: /logos/appsmith.png
-screenshot: /screens/appsmith.jpg
+screenshot: /screens/appsmith.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Appsmith is an open‑source low‑code platform enabling developers and analysts to build custom apps via drag‑and‑drop widgets and code‑first IDE.

@@ -2,7 +2,7 @@
 name: Steppit
 url: "https://www.steppit.com/"
 image: /logos/steppit.png
-screenshot: /screens/steppit.jpg
+screenshot: /screens/steppit.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Steppit lets teachers and educators build, produce, and deliver structured courses using drag‑and‑drop modules, AI‑generated scripts, in‑app video/audio...

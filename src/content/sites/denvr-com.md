@@ -2,7 +2,7 @@
 name: denvr.com
 url: "https://denvr.com"
 image: /logos/denvr-com.png
-screenshot: /screens/denvr-com.jpg
+screenshot: /screens/denvr-com.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Denvr is a sovereign AI cloud and private platform on Canadian/US infrastructure, providing on-demand and reserved GPU compute (NVIDIA H200/H100/A100, Intel...

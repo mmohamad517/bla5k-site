@@ -2,7 +2,7 @@
 name: Filepower AI
 url: "https://filepower.ai"
 image: /logos/filepower-ai.png
-screenshot: /screens/filepower-ai.jpg
+screenshot: /screens/filepower-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: FilePower AI lets users chat with PDFs, PPTs, Excel, and Word files, summarizing, translating, and organizing them into a searchable library.

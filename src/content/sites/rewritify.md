@@ -2,7 +2,7 @@
 name: Rewritify
 url: "https://rewritify.ai"
 image: /logos/rewritify.png
-screenshot: /screens/rewritify.jpg
+screenshot: /screens/rewritify.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Rewritify AI transforms AI‑generated text into natural, human‑like prose in 50+ languages while preserving meaning and keyword density.

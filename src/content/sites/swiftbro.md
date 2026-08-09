@@ -2,7 +2,7 @@
 name: Swiftbro
 url: "https://www.swiftbro.com"
 image: /logos/swiftbro.png
-screenshot: /screens/swiftbro.jpg
+screenshot: /screens/swiftbro.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Swiftbro is an AI content generation tool that enables users to quickly create high-quality articles.

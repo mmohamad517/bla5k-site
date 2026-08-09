@@ -2,7 +2,7 @@
 name: CallPrompter.app
 url: "https://callprompter.app"
 image: /logos/callprompter-app.png
-screenshot: /screens/callprompter-app.jpg
+screenshot: /screens/callprompter-app.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: CallPrompter.app is a real-time AI call coaching tool that provides reps with hidden, context-aware prompts and objection responses during live calls.

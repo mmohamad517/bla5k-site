@@ -2,7 +2,7 @@
 name: ImagenMIA.com
 url: "https://imagenmia.lemonsqueezy.com"
 image: /logos/imagenmia-com.png
-screenshot: /screens/imagenmia-com.jpg
+screenshot: /screens/imagenmia-com.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Imagenmia is an AI tool that generates personalized profile pictures based on user preferences.

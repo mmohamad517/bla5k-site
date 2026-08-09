@@ -2,7 +2,7 @@
 name: AIScanner.io
 url: "https://aiscanner.io/"
 image: /logos/aiscanner-io.png
-screenshot: /screens/aiscanner-io.jpg
+screenshot: /screens/aiscanner-io.webp
 subcategory: ai-productivity
 pricing: free
 tagline: AIScanner.io is a tool that detects AI-generated text from major models like GPT and Claude, providing a 0–100 authenticity score in seconds.

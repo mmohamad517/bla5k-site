@@ -2,7 +2,7 @@
 name: AI Spy
 url: "https://www.ai-spy.xyz/"
 image: /logos/ai-spy.png
-screenshot: /screens/ai-spy.jpg
+screenshot: /screens/ai-spy.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Ai‑Spy analyzes MP3/WAV files to distinguish human from AI‑generated speech.

@@ -2,7 +2,7 @@
 name: NA.VI
 url: "https://www.eduplay.ai/navi"
 image: /logos/na-vi.png
-screenshot: /screens/na-vi.jpg
+screenshot: /screens/na-vi.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: NAVI is an AI learning companion that creates personalized study plans, offers real‑time chat, instant feedback, and adaptive quizzes.

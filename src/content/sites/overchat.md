@@ -2,7 +2,7 @@
 name: Overchat
 url: "https://overchat.ai/"
 image: /logos/overchat.png
-screenshot: /screens/overchat.jpg
+screenshot: /screens/overchat.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Overchat is a versatile AI app that integrates multiple AI models like ChatGPT, Claude, and Gemini for dynamic text generation, summarization, coding...

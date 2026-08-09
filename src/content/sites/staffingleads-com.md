@@ -2,7 +2,7 @@
 name: StaffingLeads
 url: "https://staffingleads.com/"
 image: /logos/staffingleads-com.png
-screenshot: /screens/staffingleads-com.jpg
+screenshot: /screens/staffingleads-com.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: StaffingLeads is a real-time hiring alert platform that scans company career portals and ATS feeds to deliver verified hiring manager contacts and role...

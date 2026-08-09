@@ -2,7 +2,7 @@
 name: GoProfiles
 url: "https://www.goprofiles.io"
 image: /logos/goprofiles.png
-screenshot: /screens/goprofiles.jpg
+screenshot: /screens/goprofiles.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: GoProfiles is an AI‑powered employee directory that syncs real‑time HRIS data, provides an AI assistant for coworker insights, visualizes global teams with...

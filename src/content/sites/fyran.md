@@ -2,7 +2,7 @@
 name: FYRAN
 url: "https://fyran.site"
 image: /logos/fyran.png
-screenshot: /screens/fyran.jpg
+screenshot: /screens/fyran.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Fyran is an AI chatbot builder that easily generates advanced bots from uploaded files like PDF or MP3.

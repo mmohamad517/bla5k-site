@@ -2,7 +2,7 @@
 name: Cosine
 url: "https://www.cosine.sh"
 image: /logos/cosine.png
-screenshot: /screens/cosine.jpg
+screenshot: /screens/cosine.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Cosine is an on‑prem or VPC‑hosted AI assistant for software engineering that integrates with GitHub, Jira, Slack, and other tools to draft pull requests,...

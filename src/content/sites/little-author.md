@@ -2,7 +2,7 @@
 name: Little Author
 url: "https://bluegiraffelabs.com"
 image: /logos/little-author.png
-screenshot: /screens/little-author.jpg
+screenshot: /screens/little-author.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: BlueGiraffeLabs delivers end‑to‑end mobile app development, designing architecture, databases, APIs, authentication, and AI prompt engineering.

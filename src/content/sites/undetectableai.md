@@ -2,7 +2,7 @@
 name: UndetectableAI
 url: "https://www.undetectableai.ai"
 image: /logos/undetectableai.png
-screenshot: /screens/undetectableai.jpg
+screenshot: /screens/undetectableai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Uncheck AI detects AI‑generated content and rewrites it to evade detection while preserving meaning, grammar, and style.

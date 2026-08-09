@@ -2,7 +2,7 @@
 name: AI Renamer
 url: "https://airenamer.app"
 image: /logos/ai-renamer.png
-screenshot: /screens/ai-renamer.jpg
+screenshot: /screens/ai-renamer.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: AI Renamer automates file renaming by analyzing content, including EXIF data, and offers features like smart recognition, custom rules, and batch processing.

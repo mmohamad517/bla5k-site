@@ -2,7 +2,7 @@
 name: Dewstack
 url: "https://www.dewstack.com/"
 image: /logos/dewstack.png
-screenshot: /screens/dewstack.jpg
+screenshot: /screens/dewstack.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Dewstack is an AI‑powered knowledge‑base and SOP platform that consolidates documents from Notion, Google Docs, Confluence, GitHub, PDFs, and more.

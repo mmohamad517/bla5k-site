@@ -2,7 +2,7 @@
 name: RooCode
 url: "https://github.com/RooCodeInc/Roo-Code"
 image: /logos/roo-code.png
-screenshot: /screens/roo-code.jpg
+screenshot: /screens/roo-code.webp
 subcategory: ai-chat
 pricing: free
 tagline: Roo Code is an AI-powered coding assistant that integrates with VS Code, enabling developers to automate tasks, execute commands, and optimize code.

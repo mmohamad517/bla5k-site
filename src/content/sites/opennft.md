@@ -2,7 +2,7 @@
 name: OpenNFT
 url: "https://www.open-nft.tech"
 image: /logos/opennft.png
-screenshot: /screens/opennft.jpg
+screenshot: /screens/opennft.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: OpenNFT turns JPEGs into NFTs with a single click, no coding or online account needed.

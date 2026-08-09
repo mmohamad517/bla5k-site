@@ -2,7 +2,7 @@
 name: Korbit
 url: "https://www.korbit.ai/"
 image: /logos/korbit.png
-screenshot: /screens/korbit.jpg
+screenshot: /screens/korbit.webp
 subcategory: dev-code
 pricing: freemium
 tagline: Korbit AI streamlines code reviews by automatically generating pull request descriptions, detecting issues with contextual feedback, and providing...

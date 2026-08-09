@@ -2,7 +2,7 @@
 name: Whismer
 url: "https://whismer.com/"
 image: /logos/whismer.png
-screenshot: /screens/whismer.jpg
+screenshot: /screens/whismer.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Whismer lets users build AI chatbots by uploading PDFs, DOCs, CSVs, TXT, web links, and notes.

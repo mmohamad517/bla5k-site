@@ -2,7 +2,7 @@
 name: Defang
 url: "https://defang.io"
 image: /logos/defang.png
-screenshot: /screens/defang.jpg
+screenshot: /screens/defang.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Defang is a cloud application development tool that streamlines project creation, deployment, and debugging.

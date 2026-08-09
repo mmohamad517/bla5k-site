@@ -2,7 +2,7 @@
 name: Appforcestudio
 url: "https://appforcestudio.com"
 image: /logos/appforcestudio.png
-screenshot: /screens/appforcestudio.jpg
+screenshot: /screens/appforcestudio.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: AppForceStudio is an AI‑driven platform that lets users design, build, and deploy iOS, Android, and web apps through a canvas with drag‑and‑drop and...

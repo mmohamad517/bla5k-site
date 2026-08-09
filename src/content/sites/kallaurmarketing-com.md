@@ -2,7 +2,7 @@
 name: kallaurmarketing.com
 url: "https://kallaurmarketing.com"
 image: /logos/kallaurmarketing-com.png
-screenshot: /screens/kallaurmarketing-com.jpg
+screenshot: /screens/kallaurmarketing-com.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Kallaur Marketing provides growth strategy, AI-driven analytics, paid search and social advertising, landing page and funnel development, and brand design...

@@ -2,7 +2,7 @@
 name: Learnt.ai
 url: "https://learnt.ai"
 image: /logos/learnt-ai.png
-screenshot: /screens/learnt-ai.jpg
+screenshot: /screens/learnt-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Learnt.ai is an AI‑powered platform for educators that turns prompts into course outlines, interactive activities, scenario questions, facilitator guides,...

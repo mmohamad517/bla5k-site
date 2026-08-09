@@ -2,7 +2,7 @@
 name: Saufter
 url: "https://www.saufter.io"
 image: /logos/saufter.png
-screenshot: /screens/saufter.jpg
+screenshot: /screens/saufter.webp
 subcategory: nc-automation
 pricing: paid
 tagline: Saufter automates drip campaigns, using real‑time behavior tracking to deliver AI‑generated email, SMS, in‑app, and WhatsApp messages.

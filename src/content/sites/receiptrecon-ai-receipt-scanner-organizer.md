@@ -2,7 +2,7 @@
 name: ReceiptRecon
 url: "https://www.receiptrecon.com"
 image: /logos/receiptrecon-ai-receipt-scanner-organizer.png
-screenshot: /screens/receiptrecon-ai-receipt-scanner-organizer.jpg
+screenshot: /screens/receiptrecon-ai-receipt-scanner-organizer.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: ReceiptRecon is a QuickBooks-integrated tool that automatically captures, categorizes, and syncs receipt data to streamline expense tracking.

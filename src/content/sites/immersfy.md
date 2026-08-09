@@ -2,7 +2,7 @@
 name: Immersfy
 url: "https://immersfy.com"
 image: /logos/immersfy.png
-screenshot: /screens/immersfy.jpg
+screenshot: /screens/immersfy.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Immersfy is a storyboarding tool that rapidly transforms scripts into detailed visual representations, enhancing pre-production efficiency.

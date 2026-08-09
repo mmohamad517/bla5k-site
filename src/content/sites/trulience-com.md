@@ -2,7 +2,7 @@
 name: trulience.com
 url: "https://trulience.com"
 image: /logos/trulience-com.png
-screenshot: /screens/trulience-com.jpg
+screenshot: /screens/trulience-com.webp
 subcategory: ai-image
 pricing: paid
 tagline: Trulience.com is an innovative digital avatar platform powered by conversational AI and UE4 technology.

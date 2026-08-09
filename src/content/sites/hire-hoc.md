@@ -2,7 +2,7 @@
 name: Hire Hoc
 url: "https://hirehoc.com/"
 image: /logos/hire-hoc.png
-screenshot: /screens/hire-hoc.jpg
+screenshot: /screens/hire-hoc.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Hire Hoc automates hiring by generating job descriptions, shortlisting candidates, and delivering one‑way video assessments.

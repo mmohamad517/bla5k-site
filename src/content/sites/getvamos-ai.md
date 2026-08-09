@@ -2,7 +2,7 @@
 name: Vamos AI
 url: "https://getvamos.ai"
 image: /logos/getvamos-ai.png
-screenshot: /screens/getvamos-ai.jpg
+screenshot: /screens/getvamos-ai.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Vamos is an AI content research and creation platform that mines live social media for trending short-form videos, analyzes competitors and visual...

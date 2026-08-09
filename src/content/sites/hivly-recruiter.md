@@ -2,7 +2,7 @@
 name: Hivly Recruiter
 url: "https://www.hivly.org"
 image: /logos/hivly-recruiter.png
-screenshot: /screens/hivly-recruiter.jpg
+screenshot: /screens/hivly-recruiter.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: Hivly is an AI recruitment tool that automates interviews and candidate assessments, allowing for real-time evaluations and detailed reporting.

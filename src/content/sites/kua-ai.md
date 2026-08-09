@@ -2,7 +2,7 @@
 name: Kua.ai
 url: "https://Kua.ai"
 image: /logos/kua-ai.png
-screenshot: /screens/kua-ai.jpg
+screenshot: /screens/kua-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Kua.ai is an AI-powered ecommerce tool enhancing listings by optimizing, rewriting with popular keywords, conducting quality audits, identifying...

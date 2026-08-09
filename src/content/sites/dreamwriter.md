@@ -2,7 +2,7 @@
 name: Dreamwriter
 url: "https://dreamwriter.ai"
 image: /logos/dreamwriter.png
-screenshot: /screens/dreamwriter.jpg
+screenshot: /screens/dreamwriter.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Dreamwriter converts sales and marketing briefs into branded decks, one‑pager briefs, and emails within seconds.

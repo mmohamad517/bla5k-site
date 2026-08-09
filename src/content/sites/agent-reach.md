@@ -2,7 +2,7 @@
 name: Agent Reach
 url: "https://github.com/Panniantong/Agent-Reach"
 image: /logos/agent-reach.png
-screenshot: /screens/agent-reach.jpg
+screenshot: /screens/agent-reach.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: agent-reach gives AI agents one-command access to web and social platforms (Twitter/X, Reddit, YouTube, Bilibili, Xiaohongshu, GitHub, LinkedIn, V2EX,...

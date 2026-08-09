@@ -2,7 +2,7 @@
 name: PC Builder AI
 url: "https://www.pcbuilderai.com"
 image: /logos/pc-builder-ai.png
-screenshot: /screens/pc-builder-ai.jpg
+screenshot: /screens/pc-builder-ai.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: PC Builder AI helps users customize and build PCs by generating tailored configurations based on budget and preferences.

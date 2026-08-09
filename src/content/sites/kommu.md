@@ -2,7 +2,7 @@
 name: Kommu
 url: "https://kommu.ai"
 image: /logos/kommu.png
-screenshot: /screens/kommu.jpg
+screenshot: /screens/kommu.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Kommuassist is an AI-driven home assistant with advanced safety and convenience features.

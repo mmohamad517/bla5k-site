@@ -2,7 +2,7 @@
 name: SMSGenius
 url: "https://www.smsgenius.io"
 image: /logos/smsgenius.png
-screenshot: /screens/smsgenius.jpg
+screenshot: /screens/smsgenius.webp
 subcategory: mkt-social
 pricing: paid
 tagline: SMSGenius is an SMS marketing platform that tracks clicks, conversions, and micro‑conversions in real time, offers dynamic personalization and A/B testing,...

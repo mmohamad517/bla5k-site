@@ -2,7 +2,7 @@
 name: Scout by Asseter.ai
 url: "https://asseter.ai/"
 image: /logos/scout-by-asseter-ai.png
-screenshot: /screens/scout-by-asseter-ai.jpg
+screenshot: /screens/scout-by-asseter-ai.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Discover Asseter.ai, an AI-powered srearch for CG artists.

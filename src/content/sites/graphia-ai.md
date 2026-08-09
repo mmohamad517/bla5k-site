@@ -2,7 +2,7 @@
 name: Graphia ai
 url: "https://www.graphia.ai"
 image: /logos/graphia-ai.png
-screenshot: /screens/graphia-ai.jpg
+screenshot: /screens/graphia-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Graphia AI is a versatile platform for generating text, images, and voice content using advanced AI models.

@@ -2,7 +2,7 @@
 name: Airtable AI assistant
 url: "https://www.airtable.com/platform/ai"
 image: /logos/airtable-ai-assistant.png
-screenshot: /screens/airtable-ai-assistant.jpg
+screenshot: /screens/airtable-ai-assistant.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Airtable Assistant is a no-code app-building platform that enhances workflows with AI, offering task automation, customizable visualizations, and reporting...

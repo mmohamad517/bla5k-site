@@ -2,7 +2,7 @@
 name: ZAPRO AI
 url: "https://zapro.ai"
 image: /logos/zapro-ai.png
-screenshot: /screens/zapro-ai.jpg
+screenshot: /screens/zapro-ai.webp
 subcategory: fin-fintech
 pricing: paid
 tagline: Zapro unifies vendor onboarding, purchase requisition, approval workflows, and payment processing, offering real‑time inventory visibility, spend analytics,...

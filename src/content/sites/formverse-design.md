@@ -2,7 +2,7 @@
 name: Formverse.design
 url: "https://formverse.design/landing"
 image: /logos/formverse-design.png
-screenshot: /screens/formverse-design.jpg
+screenshot: /screens/formverse-design.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Formverse.design is a generative 3D AI tool that turns text prompts and photos into production-ready models.

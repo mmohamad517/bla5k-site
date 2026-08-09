@@ -2,7 +2,7 @@
 name: a0.dev
 url: "https://a0.dev"
 image: /logos/a0-dev.png
-screenshot: /screens/a0-dev.jpg
+screenshot: /screens/a0-dev.webp
 subcategory: nc-builders
 pricing: paid
 tagline: a0.dev is an AI-driven platform for developing mobile applications for iOS and Android.

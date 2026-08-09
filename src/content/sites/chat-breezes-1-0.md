@@ -2,7 +2,7 @@
 name: Chat Breezes 1.0
 url: "https://www.chatbreezes.com"
 image: /logos/chat-breezes-1-0.png
-screenshot: /screens/chat-breezes-1-0.jpg
+screenshot: /screens/chat-breezes-1-0.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Chat Breezes centralizes WhatsApp, Instagram, Facebook, X, and more into a single inbox.

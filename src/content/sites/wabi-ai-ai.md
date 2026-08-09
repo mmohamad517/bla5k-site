@@ -2,7 +2,7 @@
 name: Wabi AI
 url: "https://wabiai.ai/"
 image: /logos/wabi-ai-ai.png
-screenshot: /screens/wabi-ai-ai.jpg
+screenshot: /screens/wabi-ai-ai.webp
 subcategory: nc-builders
 pricing: paid
 tagline: Wabi.ai is a personal software platform that enables users to create mini-apps from simple prompts.

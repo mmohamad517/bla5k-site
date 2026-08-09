@@ -2,7 +2,7 @@
 name: Vorsto AI
 url: "https://www.vorsto.io"
 image: /logos/vorsto-ai.png
-screenshot: /screens/vorsto-ai.jpg
+screenshot: /screens/vorsto-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: WalkRideGo plans routes for walkers, cyclists, tour groups, and businesses.

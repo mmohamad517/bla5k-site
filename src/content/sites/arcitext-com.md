@@ -2,7 +2,7 @@
 name: Arcitext.com
 url: "https://www.arcitext.com"
 image: /logos/arcitext-com.png
-screenshot: /screens/arcitext-com.jpg
+screenshot: /screens/arcitext-com.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Arcitext is an AI-assisted writing platform that captures a user's voice from URLs and samples, generates reusable brand profiles, offers chat-based...

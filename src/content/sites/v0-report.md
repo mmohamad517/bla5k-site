@@ -2,7 +2,7 @@
 name: v0 report
 url: "https://v0.report/"
 image: /logos/v0-report.png
-screenshot: /screens/v0-report.jpg
+screenshot: /screens/v0-report.webp
 subcategory: fin-fintech
 pricing: paid
 tagline: v0 Report is an AI‑powered platform that produces professional reports, essays, literature reviews, and business documents from plain text or PDFs within...

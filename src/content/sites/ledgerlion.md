@@ -2,7 +2,7 @@
 name: LedgerLion
 url: "https://ledgerlion.ai/"
 image: /logos/ledgerlion.png
-screenshot: /screens/ledgerlion.jpg
+screenshot: /screens/ledgerlion.webp
 subcategory: ai-chat
 pricing: paid
 tagline: LedgerLion auto‑categorizes transactions in real time, supports custom rules, and imports bank, card, and payment statements for automatic reconciliation.

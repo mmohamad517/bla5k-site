@@ -2,7 +2,7 @@
 name: SummaVerse
 url: "http://summaverse.com"
 image: /logos/summaverse.png
-screenshot: /screens/summaverse.jpg
+screenshot: /screens/summaverse.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: SummaVerse converts PDFs and scanned documents into concise summaries—extractive, abstractive, bullet, key points, or chronological—within a click.

@@ -2,7 +2,7 @@
 name: Color Fuse AI
 url: "https://colorfuseai.com"
 image: /logos/color-fuse-ai.png
-screenshot: /screens/color-fuse-ai.jpg
+screenshot: /screens/color-fuse-ai.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: Generate AI‑powered color palettes and apply them instantly across Adobe Illustrator, Photoshop 2022+, and Figma.

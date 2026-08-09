@@ -2,7 +2,7 @@
 name: image-to-3d.ai
 url: "https://image-to-3d.ai/"
 image: /logos/image-to-3d-ai.png
-screenshot: /screens/image-to-3d-ai.jpg
+screenshot: /screens/image-to-3d-ai.webp
 subcategory: design-3d
 pricing: freemium
 tagline: image-to-3d.ai is an AI-powered 3D model generator that transforms single images or text prompts into production-ready assets, supporting both textured...

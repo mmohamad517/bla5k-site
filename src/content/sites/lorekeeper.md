@@ -2,7 +2,7 @@
 name: LoreKeeper
 url: "https://lorekeeper.com/"
 image: /logos/lorekeeper.png
-screenshot: /screens/lorekeeper.jpg
+screenshot: /screens/lorekeeper.webp
 subcategory: ai-writing
 pricing: free
 tagline: LoreKeeper is a TTRPG preparation platform that lets users import PDFs, images or text to build a knowledge base, chat with characters, generate portraits,...

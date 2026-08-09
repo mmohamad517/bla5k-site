@@ -2,7 +2,7 @@
 name: Peek AI
 url: "https://prateekkeshari.gumroad.com/l/peek"
 image: /logos/peek-ai.png
-screenshot: /screens/peek-ai.jpg
+screenshot: /screens/peek-ai.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Peek is a macOS menu‑bar app that lets you access multiple AI chatbots—ChatGPT, Gemini, Claude, etc.—without API keys.

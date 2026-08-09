@@ -2,7 +2,7 @@
 name: Recursechat
 url: "https://recurse.chat"
 image: /logos/recursechat.png
-screenshot: /screens/recursechat.jpg
+screenshot: /screens/recursechat.webp
 subcategory: ai-chat
 pricing: paid
 tagline: RecurseChat is a macOS app that runs large language models locally, offering offline AI with a floating chat window, file‑based RAG, support for multiple...

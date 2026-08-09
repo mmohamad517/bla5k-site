@@ -2,7 +2,7 @@
 name: Mix Check Studio
 url: "https://mixcheckstudio.roexaudio.com"
 image: /logos/mixcheckstudio-roexaudio-com.png
-screenshot: /screens/mixcheckstudio-roexaudio-com.jpg
+screenshot: /screens/mixcheckstudio-roexaudio-com.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Mix Check Studio analyzes WAV/FLAC/MP3 mixes to deliver detailed tonal, loudness, stereo width, clipping, masking and dynamic-range metrics, plus Mastering+...

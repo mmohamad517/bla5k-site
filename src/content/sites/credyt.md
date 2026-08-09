@@ -2,7 +2,7 @@
 name: Credyt
 url: "https://credyt.ai"
 image: /logos/credyt.png
-screenshot: /screens/credyt.jpg
+screenshot: /screens/credyt.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Credyt is a wallet-native real-time billing engine for AI products that applies usage-based, event- and dimensional pricing, records token-level fees,...

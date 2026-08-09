@@ -2,7 +2,7 @@
 name: zeni.ai
 url: "https://zeni.ai"
 image: /logos/zeni-ai.png
-screenshot: /screens/zeni-ai.jpg
+screenshot: /screens/zeni-ai.webp
 subcategory: ai-chat
 pricing: paid
 tagline: ZENI is an AI-based platform for startups, automating financial data processing and providing real-time insights.

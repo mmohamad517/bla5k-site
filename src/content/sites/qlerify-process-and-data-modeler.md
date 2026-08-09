@@ -2,7 +2,7 @@
 name: Qlerify Process and Data Modeler
 url: "https://www.qlerify.com"
 image: /logos/qlerify-process-and-data-modeler.png
-screenshot: /screens/qlerify-process-and-data-modeler.jpg
+screenshot: /screens/qlerify-process-and-data-modeler.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Qlerify is an AI‑powered modeling platform that supports domain‑driven design, event storming, process mapping, user story mapping, and code generation.

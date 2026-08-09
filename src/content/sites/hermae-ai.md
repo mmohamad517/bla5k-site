@@ -2,7 +2,7 @@
 name: Hermae AI
 url: "https://www.hermae.com/"
 image: /logos/hermae-ai.png
-screenshot: /screens/hermae-ai.jpg
+screenshot: /screens/hermae-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Hermae was an AI assistant that accelerated product shipping for enterprise design systems by converting Storybook documentation into Markdown, generating...

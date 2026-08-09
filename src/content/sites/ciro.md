@@ -2,7 +2,7 @@
 name: Ciro
 url: "https://www.ciro.io"
 image: /logos/ciro.png
-screenshot: /screens/ciro.jpg
+screenshot: /screens/ciro.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Ciro is an AI tool that automates prospecting for sales teams by generating detailed prospect lists from a database of over 500 million contacts.

@@ -2,7 +2,7 @@
 name: Mechanic For A Chat
 url: "https://mechanic.fora.chat/"
 image: /logos/mechanic-for-a-chat.png
-screenshot: /screens/mechanic-for-a-chat.jpg
+screenshot: /screens/mechanic-for-a-chat.webp
 subcategory: ent-travel
 pricing: freemium
 tagline: Mechanic For A Chat is a 24/7 AI diagnostic chatbot that lets users describe car symptoms and receive instant engine, warning-light, or mechanical issue...

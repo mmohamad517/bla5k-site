@@ -2,7 +2,7 @@
 name: Aithenticate
 url: "https://aithenticate.org"
 image: /logos/aithenticate.png
-screenshot: /screens/aithenticate.jpg
+screenshot: /screens/aithenticate.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Aithenticate enhances AI transparency by allowing users to easily disclose content origins—AI-generated or human-created—through a WordPress plug-in.

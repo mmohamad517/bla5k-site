@@ -2,7 +2,7 @@
 name: Oi
 url: "https://www.oioioi.ai"
 image: /logos/oioioi-ai.png
-screenshot: /screens/oioioi-ai.jpg
+screenshot: /screens/oioioi-ai.webp
 subcategory: nc-automation
 pricing: freemium
 tagline: Oi is a platform that creates a unified ‘shared brain’ for organizations, connecting all AI tools like ChatGPT through MCP to share contexts, workflows, and...

@@ -2,7 +2,7 @@
 name: Intentsify
 url: "https://intentsify.io"
 image: /logos/intentsify.png
-screenshot: /screens/intentsify.jpg
+screenshot: /screens/intentsify.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Intentsify aggregates 1.1 trillion intent signals monthly from 460,000+ sites, pinpointing in‑market accounts and delivering persona‑level insights.

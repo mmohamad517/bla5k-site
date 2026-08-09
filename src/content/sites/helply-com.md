@@ -2,7 +2,7 @@
 name: Helply.com
 url: "https://helply.com/"
 image: /logos/helply-com.png
-screenshot: /screens/helply-com.jpg
+screenshot: /screens/helply-com.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Helply is an AI customer support platform that automates tier-1 helpdesk tasks, handling billing lookups, invoice delivery, plan changes and refunds,...

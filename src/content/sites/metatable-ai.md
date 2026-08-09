@@ -2,7 +2,7 @@
 name: Metatable.ai
 url: "https://metatable.ai"
 image: /logos/metatable-ai.png
-screenshot: /screens/metatable-ai.jpg
+screenshot: /screens/metatable-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Metatable is an AI-driven development platform that provides a seamless development experience with no coding required for developers to construct complete...

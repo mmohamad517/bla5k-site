@@ -2,7 +2,7 @@
 name: RecruitCRM
 url: "https://recruitcrm.io/"
 image: /logos/recruitcrm.png
-screenshot: /screens/recruitcrm.jpg
+screenshot: /screens/recruitcrm.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Recruit CRM is an AI‑powered ATS and CRM for recruiters.

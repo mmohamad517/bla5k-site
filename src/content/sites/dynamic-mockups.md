@@ -2,7 +2,7 @@
 name: Dynamic Mockups
 url: "https://dynamicmockups.com"
 image: /logos/dynamic-mockups.png
-screenshot: /screens/dynamic-mockups.jpg
+screenshot: /screens/dynamic-mockups.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: Scale offers a user-friendly platform for creating customizable product mockups for items like apparel and mugs.

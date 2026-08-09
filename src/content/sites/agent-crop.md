@@ -2,7 +2,7 @@
 name: Agent Crop
 url: "https://agentcrop.com"
 image: /logos/agent-crop.png
-screenshot: /screens/agent-crop.jpg
+screenshot: /screens/agent-crop.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Agent Crop is a mobile app that instantly detects crop diseases and identifies plant species from PNG, JPG, or JPEG images up to 50 MB.

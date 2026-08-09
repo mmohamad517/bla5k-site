@@ -2,7 +2,7 @@
 name: CapitalConnector.ai
 url: "https://capitalconnector.ai"
 image: /logos/capitalconnector-ai.png
-screenshot: /screens/capitalconnector-ai.jpg
+screenshot: /screens/capitalconnector-ai.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: CapitalConnector.ai provides a searchable database of 97,500+ investor and advisor contacts with emails, phones, and social links, plus AI-assisted...

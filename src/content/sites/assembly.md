@@ -2,7 +2,7 @@
 name: Assembly
 url: "https://www.joinassembly.com/"
 image: /logos/assembly.png
-screenshot: /screens/assembly.jpg
+screenshot: /screens/assembly.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Assembly is an employee recognition platform that automates peer shout‑outs, milestone celebrations, and point‑based rewards.

@@ -2,7 +2,7 @@
 name: CourseGenie
 url: "https://www.coursegenie.ai/"
 image: /logos/coursegenie.png
-screenshot: /screens/coursegenie.jpg
+screenshot: /screens/coursegenie.webp
 subcategory: ai-image
 pricing: freemium
 tagline: CourseGenie automates course outlines, lesson plans, quizzes, and activities, freeing teachers to focus on instruction.

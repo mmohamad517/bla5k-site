@@ -2,7 +2,7 @@
 name: Helploom
 url: "https://helploom.com"
 image: /logos/helploom.png
-screenshot: /screens/helploom.jpg
+screenshot: /screens/helploom.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Helploom combines live chat, a shared inbox and an AI chatbot trained on your knowledge base to automate 24/7 multilingual support, searchable help center,...

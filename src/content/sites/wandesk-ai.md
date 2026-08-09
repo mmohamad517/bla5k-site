@@ -2,7 +2,7 @@
 name: WanDesk AI
 url: "https://wandesk.ai"
 image: /logos/wandesk-ai.png
-screenshot: /screens/wandesk-ai.jpg
+screenshot: /screens/wandesk-ai.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: WanDesk AI is a local desktop workspace for building and running AI-powered apps, modules, and interactive fiction from natural language descriptions.

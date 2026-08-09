@@ -2,7 +2,7 @@
 name: Tobira AI
 url: "https://tobira.ai/"
 image: /logos/tobira-ai.png
-screenshot: /screens/tobira-ai.jpg
+screenshot: /screens/tobira-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: tobira is an AI agent network issuing public @handles to capture and route inbound requests.

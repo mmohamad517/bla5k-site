@@ -2,7 +2,7 @@
 name: CREV
 url: "https://crevcli.com"
 image: /logos/crev.png
-screenshot: /screens/crev.jpg
+screenshot: /screens/crev.webp
 subcategory: dev-code
 pricing: paid
 tagline: Crev is a command-line tool for AI-driven code reviews, enabling developers to bundle entire codebases for efficient review.

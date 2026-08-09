@@ -2,7 +2,7 @@
 name: Cookup.ai
 url: "https://cookup.ai"
 image: /logos/cookup-ai.png
-screenshot: /screens/cookup-ai.jpg
+screenshot: /screens/cookup-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Cookup.AI is an AI‑powered personal assistant that analyzes user location, culinary preferences, and dining history to offer tailored restaurant suggestions.

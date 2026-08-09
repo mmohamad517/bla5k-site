@@ -2,7 +2,7 @@
 name: Bolt.diy
 url: "https://github.com/stackblitz-labs/bolt.diy"
 image: /logos/bolt-diy.png
-screenshot: /screens/bolt-diy.jpg
+screenshot: /screens/bolt-diy.webp
 subcategory: ai-chat
 pricing: free
 tagline: Bolt.diy is an open-source AI-powered platform for developing, running, and deploying full-stack web applications using multiple LLMs.

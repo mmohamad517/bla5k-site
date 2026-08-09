@@ -2,7 +2,7 @@
 name: Audio Cut
 url: "https://audiocut.io/"
 image: /logos/audio-cut.png
-screenshot: /screens/audio-cut.jpg
+screenshot: /screens/audio-cut.webp
 subcategory: ai-writing
 pricing: free
 tagline: Audio Cut is a browser-based tool for trimming and cutting audio files without installation.

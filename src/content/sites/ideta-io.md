@@ -2,7 +2,7 @@
 name: ideta.io
 url: "https://ideta.io"
 image: /logos/ideta-io.png
-screenshot: /screens/ideta-io.jpg
+screenshot: /screens/ideta-io.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: Ideta lets users build and manage AI agents—chatbots, callbots, mailbots—without coding.

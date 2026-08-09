@@ -2,7 +2,7 @@
 name: Writechamp.io
 url: "https://writechamp.io"
 image: /logos/writechamp-io.png
-screenshot: /screens/writechamp-io.jpg
+screenshot: /screens/writechamp-io.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Writechamp automates blog posts, product descriptions, and marketing copy with 70+ generators, including SEO tools and ad copy.

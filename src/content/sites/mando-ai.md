@@ -2,7 +2,7 @@
 name: Mando AI
 url: "https://mando.cx"
 image: /logos/mando-ai.png
-screenshot: /screens/mando-ai.jpg
+screenshot: /screens/mando-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Mando AI offers 24/7 customer service for SMEs by managing queries across platforms with customizable AI agents.

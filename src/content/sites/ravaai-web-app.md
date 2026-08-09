@@ -2,7 +2,7 @@
 name: Rava AI
 url: "https://ravaai.web.app"
 image: /logos/ravaai-web-app.png
-screenshot: /screens/ravaai-web-app.jpg
+screenshot: /screens/ravaai-web-app.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: Rava AI automates go-to-market strategy, market analysis, and content creation for startups and investors, producing investor-ready pitch decks,...

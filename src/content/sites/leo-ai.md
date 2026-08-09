@@ -2,7 +2,7 @@
 name: Leo.AI
 url: "https://www.getleo.ai/"
 image: /logos/leo-ai.png
-screenshot: /screens/leo-ai.jpg
+screenshot: /screens/leo-ai.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Leo AI is an AI platform for mechanical engineering teams that integrates with PLM systems.

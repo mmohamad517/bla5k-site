@@ -2,7 +2,7 @@
 name: MaxAEO
 url: "https://maxaeo.ai"
 image: /logos/maxaeo-ai.png
-screenshot: /screens/maxaeo-ai.jpg
+screenshot: /screens/maxaeo-ai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: maxaeo tracks brand visibility across major AI platforms (ChatGPT, Gemini, Perplexity, Claude, Copilot, Grok), reporting mention rates, recommendation...

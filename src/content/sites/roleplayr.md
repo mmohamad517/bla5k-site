@@ -2,7 +2,7 @@
 name: Roleplayr
 url: "https://roleplayr.ai/"
 image: /logos/roleplayr.png
-screenshot: /screens/roleplayr.jpg
+screenshot: /screens/roleplayr.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Right‑click any online image to launch a local AI chat that interprets the picture and answers context‑aware questions.

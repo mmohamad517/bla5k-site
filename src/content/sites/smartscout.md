@@ -2,7 +2,7 @@
 name: SmartScout
 url: "https://www.smartscout.com/ai-listing-architect"
 image: /logos/smartscout.png
-screenshot: /screens/smartscout.jpg
+screenshot: /screens/smartscout.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: AI Listing Architect simplifies the process of creating optimized Amazon listings in minutes.

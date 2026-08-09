@@ -2,7 +2,7 @@
 name: OrgaNice
 url: "https://organice.app"
 image: /logos/organice.png
-screenshot: /screens/organice.jpg
+screenshot: /screens/organice.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: OrgaNice is an AI‑powered Slack‑first platform that automatically builds and updates org charts, tracks milestones, manages PTO and remote work requests,...

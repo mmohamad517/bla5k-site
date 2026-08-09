@@ -2,7 +2,7 @@
 name: YesChat AI
 url: "https://www.yeschat.ai"
 image: /logos/yeschat-ai.png
-screenshot: /screens/yeschat-ai.jpg
+screenshot: /screens/yeschat-ai.webp
 subcategory: ai-chat
 pricing: paid
 tagline: YesChat.ai unifies chat, music, video, and image generation in a browser platform, offering DeepSeek‑R1, GPT‑4o, and Claude 3.5 Sonnet for conversation,...

@@ -2,7 +2,7 @@
 name: ChatASK
 url: "https://apps.apple.com/us/app/ai-chatbot-assistant-chatask/id6612032749"
 image: /logos/chatask.png
-screenshot: /screens/chatask.jpg
+screenshot: /screens/chatask.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Chatask is an AI chatbot assistant that offers features like AI image generation, math problem solving, voice typing, and web page summarization.

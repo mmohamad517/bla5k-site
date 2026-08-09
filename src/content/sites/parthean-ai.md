@@ -2,7 +2,7 @@
 name: Parthean AI
 url: "https://www.parthean.com"
 image: /logos/parthean-ai.png
-screenshot: /screens/parthean-ai.jpg
+screenshot: /screens/parthean-ai.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Parthean automates client onboarding, data extraction, and research for financial advisors.

@@ -2,7 +2,7 @@
 name: Fullpilot
 url: "https://fullpilot.com"
 image: /logos/fullpilot.png
-screenshot: /screens/fullpilot.jpg
+screenshot: /screens/fullpilot.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Fullpilot automates 24/7 end‑to‑end go‑to‑market tasks with AI agents for outbound prospecting, multi‑channel sequencing, follow‑up nurturing, and content...

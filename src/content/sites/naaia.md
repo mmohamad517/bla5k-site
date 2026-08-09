@@ -2,7 +2,7 @@
 name: Naaia
 url: "https://naaia.ai/homepage/"
 image: /logos/naaia.png
-screenshot: /screens/naaia.jpg
+screenshot: /screens/naaia.webp
 subcategory: fin-fintech
 pricing: paid
 tagline: Naaia is an AI compliance platform that converts regulations into actionable workflows, supports the EU AI Act and global standards, tracks AI inventories,...

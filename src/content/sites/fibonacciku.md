@@ -2,7 +2,7 @@
 name: FibonacciKu
 url: "https://www.fibonacciku.com"
 image: /logos/fibonacciku.png
-screenshot: /screens/fibonacciku.jpg
+screenshot: /screens/fibonacciku.webp
 subcategory: ai-writing
 pricing: free
 tagline: AI‑driven study aid for teachers and students offering secure, teacher‑approved learning support.

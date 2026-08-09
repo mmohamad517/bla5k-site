@@ -2,7 +2,7 @@
 name: CarBeast
 url: "https://carbeast.com"
 image: /logos/carbeast.png
-screenshot: /screens/carbeast.jpg
+screenshot: /screens/carbeast.webp
 subcategory: ent-travel
 pricing: paid
 tagline: CarBeast uses AI to analyze vehicle symptoms, delivering instant diagnosis, cost estimates, and future maintenance forecasts.

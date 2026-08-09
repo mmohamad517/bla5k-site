@@ -2,7 +2,7 @@
 name: Cosmos
 url: "https://meetcosmos.com"
 image: /logos/meetcosmos-com.png
-screenshot: /screens/meetcosmos-com.jpg
+screenshot: /screens/meetcosmos-com.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Cosmos automates creation and scheduling of text, image and video content in a consistent brand voice, using built-in generation, camera/motion control and...

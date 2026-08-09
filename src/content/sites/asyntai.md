@@ -2,7 +2,7 @@
 name: Asyntai
 url: "https://asyntai.com/"
 image: /logos/asyntai.png
-screenshot: /screens/asyntai.jpg
+screenshot: /screens/asyntai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Asyntai is a customizable AI chat support tool that provides instant, brand-aligned responses.

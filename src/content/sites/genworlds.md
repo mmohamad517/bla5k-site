@@ -2,7 +2,7 @@
 name: GenWorlds
 url: "https://genworlds.com"
 image: /logos/genworlds.png
-screenshot: /screens/genworlds.jpg
+screenshot: /screens/genworlds.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: GenWorlds is an event‑driven framework for building scalable multi‑agent systems in generative AI worlds, supporting custom agents, objects, goals, memory...

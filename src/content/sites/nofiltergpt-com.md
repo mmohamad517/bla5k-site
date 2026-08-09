@@ -2,7 +2,7 @@
 name: NoFilterGpt.com
 url: "https://nofiltergpt.com"
 image: /logos/nofiltergpt-com.png
-screenshot: /screens/nofiltergpt-com.jpg
+screenshot: /screens/nofiltergpt-com.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Nofiltergpt is an AI chat tool that offers anonymous and unfiltered conversations.

@@ -2,7 +2,7 @@
 name: Hana
 url: "https://hana.hanabitech.com"
 image: /logos/hana.png
-screenshot: /screens/hana.jpg
+screenshot: /screens/hana.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Hana AI Assistant integrates with Google Chat to deliver instant answers, drafts, and conversation summaries.

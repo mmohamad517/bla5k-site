@@ -2,7 +2,7 @@
 name: HumanCircles.AI
 url: "https://www.humancircles.ai"
 image: /logos/humancircles-ai.png
-screenshot: /screens/humancircles-ai.jpg
+screenshot: /screens/humancircles-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Human Circles AI is a LinkedIn-enhancing Chrome extension utilizing generative AI.

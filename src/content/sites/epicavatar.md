@@ -2,7 +2,7 @@
 name: EpicAvatar
 url: "https://epic-avatar.com/"
 image: /logos/epicavatar.png
-screenshot: /screens/epicavatar.jpg
+screenshot: /screens/epicavatar.webp
 subcategory: ai-image
 pricing: paid
 tagline: Epic Avatar uses AI to turn 15–20 uploaded photos into 200 unique avatars, blending your likeness with themes like celebrity, historical or space motifs.

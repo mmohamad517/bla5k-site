@@ -2,7 +2,7 @@
 name: i10X.ai
 url: "https://www.i10x.ai"
 image: /logos/i10x-ai.png
-screenshot: /screens/i10x-ai.jpg
+screenshot: /screens/i10x-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: i10X.ai is a marketplace offering 500+ specialized AI agents and tools for tasks like business strategy, content creation, and visual processing.

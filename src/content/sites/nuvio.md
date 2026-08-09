@@ -2,7 +2,7 @@
 name: Nuvio
 url: "https://www.nuvio.io"
 image: /logos/nuvio.png
-screenshot: /screens/nuvio.jpg
+screenshot: /screens/nuvio.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Nuvio is a financial analytics tool that streamlines accounting processes, offering real-time analytics, customizable dashboards, and automatic report...

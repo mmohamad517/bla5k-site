@@ -2,7 +2,7 @@
 name: letterpal
 url: "https://www.letterpal.io/"
 image: /logos/letterpal.png
-screenshot: /screens/letterpal.jpg
+screenshot: /screens/letterpal.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Letterpal is an AI‑driven newsletter generator that surfaces relevant topics from curated news, web, Google, and RSS feeds, then writes complete articles in...

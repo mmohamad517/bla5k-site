@@ -2,7 +2,7 @@
 name: Book AI
 url: "https://thedisc.xyz/"
 image: /logos/book-ai.png
-screenshot: /screens/book-ai.jpg
+screenshot: /screens/book-ai.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Book AI produces complete 10,000‑150,000‑word manuscripts in minutes, covering fiction, self‑help, business, and educational genres.

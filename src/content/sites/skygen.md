@@ -2,7 +2,7 @@
 name: Skygen
 url: "https://skygen.ai/"
 image: /logos/skygen.png
-screenshot: /screens/skygen.jpg
+screenshot: /screens/skygen.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Skygen is an AI task automation platform that uses a visual editor to build and schedule workflows across systems and teams.

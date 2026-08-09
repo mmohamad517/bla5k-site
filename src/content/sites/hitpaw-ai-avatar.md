@@ -2,7 +2,7 @@
 name: HitPaw AI Avatar
 url: "https://www.hitpaw.com/ai-avatar.html"
 image: /logos/hitpaw-ai-avatar.png
-screenshot: /screens/hitpaw-ai-avatar.jpg
+screenshot: /screens/hitpaw-ai-avatar.webp
 subcategory: ai-image
 pricing: freemium
 tagline: HitPaw AI Avatar enables quick creation of realistic talking avatars with lip sync, 400+ voices, 40+ languages, and voice cloning.

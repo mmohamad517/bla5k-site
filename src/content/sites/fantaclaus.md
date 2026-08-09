@@ -2,7 +2,7 @@
 name: Fantaclaus
 url: "https://fantaclaus.com"
 image: /logos/fantaclaus.png
-screenshot: /screens/fantaclaus.jpg
+screenshot: /screens/fantaclaus.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: InteligenAI delivers full‑stack AI development, guiding projects from concept through production, featuring agentic frameworks, SFT+RLHF fine‑tuning,...

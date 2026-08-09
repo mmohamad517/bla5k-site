@@ -2,7 +2,7 @@
 name: Toolbaz
 url: "https://toolbaz.com/"
 image: /logos/toolbaz.png
-screenshot: /screens/toolbaz.jpg
+screenshot: /screens/toolbaz.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: ToolBaz offers 85+ free AI tools powered by GPT‑5, Claude, Gemini, Meta‑AI for content marketing, business communication, creative and academic writing, and...

@@ -2,7 +2,7 @@
 name: Sprites.ai
 url: "https://www.sprites.ai"
 image: /logos/sprites-ai.png
-screenshot: /screens/sprites-ai.jpg
+screenshot: /screens/sprites-ai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Sprites AI is an AI copilot for performance marketing that automates Google Ads, Meta Ads and SEO workflows—building campaigns, generating ads and...

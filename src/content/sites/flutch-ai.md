@@ -2,7 +2,7 @@
 name: flutch.ai
 url: "https://flutch.ai"
 image: /logos/flutch-ai.png
-screenshot: /screens/flutch-ai.jpg
+screenshot: /screens/flutch-ai.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: flutch.ai is a no-code platform for businesses to build and manage custom AI agents that automate processes.

@@ -2,7 +2,7 @@
 name: merge.dev
 url: "https://www.merge.dev/"
 image: /logos/merge-dev.png
-screenshot: /screens/merge-dev.jpg
+screenshot: /screens/merge-dev.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: "merge.devis a get touch: an AI chatbot and conversational platform that automates lead generation and customer support across web chat, SMS, and social..."

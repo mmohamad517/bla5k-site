@@ -2,7 +2,7 @@
 name: Siedesk
 url: "https://siedesk.com/en"
 image: /logos/siedesk-help-center-knowledge-base.png
-screenshot: /screens/siedesk-help-center-knowledge-base.jpg
+screenshot: /screens/siedesk-help-center-knowledge-base.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Siedesk is an AI‑powered platform that builds and manages knowledge bases, FAQ pages, and help centers.

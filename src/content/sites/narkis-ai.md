@@ -2,7 +2,7 @@
 name: Narkis.ai
 url: "https://narkis.ai"
 image: /logos/narkis-ai.png
-screenshot: /screens/narkis-ai.jpg
+screenshot: /screens/narkis-ai.webp
 subcategory: ai-image
 pricing: paid
 tagline: Narkis.ai builds a personal AI model from a few high‑quality images in under three minutes, enabling unlimited headshots, social media portraits, and...

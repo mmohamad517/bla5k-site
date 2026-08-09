@@ -2,7 +2,7 @@
 name: Bannerbot
 url: "https://www.bannerbot.xyz"
 image: /logos/bannerbot.png
-screenshot: /screens/bannerbot.jpg
+screenshot: /screens/bannerbot.webp
 subcategory: design-graphics
 pricing: free
 tagline: BannerBot is a free AI banner maker that allows users to create customizable promotional banners with ease.

@@ -2,7 +2,7 @@
 name: Seedream 4.5
 url: "https://seed.bytedance.com/en/seedream4_5"
 image: /logos/seedream-4-5.png
-screenshot: /screens/seedream-4-5.jpg
+screenshot: /screens/seedream-4-5.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Seedream 4.5 is an image-generation and editing model offering precise subject identification, controlled multi-image edits, consistent character and pose...

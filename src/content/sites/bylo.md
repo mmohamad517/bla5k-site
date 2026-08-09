@@ -2,7 +2,7 @@
 name: Bylo.ai
 url: https://bylo.ai/
 image: /logos/bylo.png
-screenshot: /screens/bylo.jpg
+screenshot: /screens/bylo.webp
 subcategory: ai-image
 tagline: "Free AI image generator — create images from text descriptions quickly and easily."
 tags: [bylo, ai image generator, free, text-to-image, easy]

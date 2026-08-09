@@ -2,7 +2,7 @@
 name: 1min.AI
 url: "https://dealify.com/products/1minai?deal=topaitools#erid41833804"
 image: /logos/1min-ai.png
-screenshot: /screens/1min-ai.jpg
+screenshot: /screens/1min-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: 1minAI unifies text, image, audio, and video AI tools in one interface, supporting GPT‑4, Gemini, Claude, and Mistral.

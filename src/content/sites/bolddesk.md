@@ -2,7 +2,7 @@
 name: BoldDesk
 url: "https://www.bolddesk.com"
 image: /logos/bolddesk.png
-screenshot: /screens/bolddesk.jpg
+screenshot: /screens/bolddesk.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: BoldDesk centralizes ticketing, live chat, and omnichannel messages into one inbox.

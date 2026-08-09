@@ -2,7 +2,7 @@
 name: PlanPros.ai
 url: "https://planpros.ai"
 image: /logos/plan-pros-ai.png
-screenshot: /screens/plan-pros-ai.jpg
+screenshot: /screens/plan-pros-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: PlanPros AI Business Plan Generator creates comprehensive business plans in minutes by guiding users through questions on model, market, competition, and...

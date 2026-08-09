@@ -2,7 +2,7 @@
 name: AskCory.ai
 url: "https://www.askcory.ai"
 image: /logos/askcory-ai.png
-screenshot: /screens/askcory-ai.jpg
+screenshot: /screens/askcory-ai.webp
 subcategory: mkt-social
 pricing: paid
 tagline: AskCory generates tailored marketing plans, tactics, and ready‑made content such as social posts, blogs, and presentations within minutes.

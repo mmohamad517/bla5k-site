@@ -2,7 +2,7 @@
 name: Gista
 url: "https://gista.co/"
 image: /logos/gista.png
-screenshot: /screens/gista.jpg
+screenshot: /screens/gista.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Gista turns a website into a chatbot that crawls key pages and captures visitor data such as name, email, company, and service interest.

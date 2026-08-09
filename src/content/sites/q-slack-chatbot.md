@@ -2,7 +2,7 @@
 name: Q Slack Chatbot
 url: "https://q-bot.suchica.com/"
 image: /logos/q-slack-chatbot.png
-screenshot: /screens/q-slack-chatbot.jpg
+screenshot: /screens/q-slack-chatbot.webp
 subcategory: nc-builders
 pricing: paid
 tagline: Q is a Slack‑integrated GPT assistant invoked with @Q that reads URLs and files, follows custom instructions, and offers unlimited chat history, advanced...

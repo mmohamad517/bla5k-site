@@ -2,7 +2,7 @@
 name: Flutter
 url: "https://shipflutter.com/"
 image: /logos/flutter.png
-screenshot: /screens/flutter.jpg
+screenshot: /screens/flutter.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: ShipFlutter is a customizable boilerplate starter kit for Flutter, enabling rapid project generation with an AI builder.

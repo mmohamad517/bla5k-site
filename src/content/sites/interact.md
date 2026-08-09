@@ -2,7 +2,7 @@
 name: Interact
 url: "http://interact.xobin.com"
 image: /logos/interact.png
-screenshot: /screens/interact.jpg
+screenshot: /screens/interact.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Xobin is an AI‑powered assessment platform offering over 3,400 skill tests, 2,500 role‑specific evaluations, secure proctoring, automated grading, and API...

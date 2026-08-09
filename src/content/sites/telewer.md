@@ -2,7 +2,7 @@
 name: Telewer
 url: "https://telewer.com/"
 image: /logos/telewer.png
-screenshot: /screens/telewer.jpg
+screenshot: /screens/telewer.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Telewer is a no-code platform for creating AI-powered Telegram bots, featuring chat, media generation, and image recognition.

@@ -2,7 +2,7 @@
 name: TeqID - Connect
 url: "https://teqid.org"
 image: /logos/teqid-connect.png
-screenshot: /screens/teqid-connect.jpg
+screenshot: /screens/teqid-connect.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Teqid is an AI-driven B2B lead generation tool that automates the identification of qualified leads by analyzing ideal customer profiles, providing enriched...

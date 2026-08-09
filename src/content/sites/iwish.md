@@ -2,7 +2,7 @@
 name: iWish
 url: "https://www.iwish.ai"
 image: /logos/iwish.png
-screenshot: /screens/iwish.jpg
+screenshot: /screens/iwish.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: iWish AI simulates realistic sales conversations, generating tailored scripts and call prompts that mirror a company’s specific objections and narratives.

@@ -2,7 +2,7 @@
 name: Radical Human Intelligence™
 url: "https://radicalcustomerexperience.com"
 image: /logos/radical-human-intelligencetm.png
-screenshot: /screens/radical-human-intelligencetm.jpg
+screenshot: /screens/radical-human-intelligencetm.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Radical Human Intelligence™ is an AI tool that employs a 3 R methodology (empathy, vulnerability, authentic investment) to enhance stakeholder connections...

@@ -2,7 +2,7 @@
 name: writewithspiral.com
 url: "https://writewithspiral.com"
 image: /logos/writewithspiral-com.png
-screenshot: /screens/writewithspiral-com.jpg
+screenshot: /screens/writewithspiral-com.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Spiral is an AI writing partner that asks targeted questions to clarify intent, generates multiple draft angles, learns brand voice from examples, ingests...

@@ -2,7 +2,7 @@
 name: Cogniroot
 url: "https://cogniroot.com"
 image: /logos/cogniroot.png
-screenshot: /screens/cogniroot.jpg
+screenshot: /screens/cogniroot.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Cogniroot AI Assistant offers automated chat support across websites, WhatsApp, and phone calls, with a customizable chatbot builder.

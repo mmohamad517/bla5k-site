@@ -2,7 +2,7 @@
 name: Anantya.ai
 url: "https://anantya.ai"
 image: /logos/anantya-ai.png
-screenshot: /screens/anantya-ai.jpg
+screenshot: /screens/anantya-ai.webp
 subcategory: ai-chat
 pricing: free
 tagline: Anantya.ai connects businesses to customers via the WhatsApp Business API, offering broadcast campaigns, automated order/payment notifications, live chat,...

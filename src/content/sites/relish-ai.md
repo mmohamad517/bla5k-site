@@ -2,7 +2,7 @@
 name: Relish.ai
 url: "https://relish.ai"
 image: /logos/relish-ai.png
-screenshot: /screens/relish-ai.jpg
+screenshot: /screens/relish-ai.webp
 subcategory: nc-builders
 pricing: free
 tagline: Relish AI is a Shopify chatbot that automates sales and support conversations, offering real‑time product search, FAQ answers, abandoned‑cart recovery, and...

@@ -2,7 +2,7 @@
 name: Auto Blogging
 url: "https://autoblogging.io"
 image: /logos/auto-blogging.png
-screenshot: /screens/auto-blogging.jpg
+screenshot: /screens/auto-blogging.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Auto Blogging is an AI tool that automates website blog post generation using real search data.

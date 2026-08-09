@@ -2,7 +2,7 @@
 name: VEGA AI
 url: "https://www.myvega.ai"
 image: /logos/vega-ai.png
-screenshot: /screens/vega-ai.jpg
+screenshot: /screens/vega-ai.webp
 subcategory: ai-image
 pricing: free
 tagline: Vega AI is an AI-driven learning platform that offers personalized course creation, 24/7 student support, adaptive testing, and real-time data insights,...

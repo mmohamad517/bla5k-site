@@ -2,7 +2,7 @@
 name: OpenInterpreter
 url: "https://www.openinterpreter.com/"
 image: /logos/openinterpreter-com.png
-screenshot: /screens/openinterpreter-com.jpg
+screenshot: /screens/openinterpreter-com.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Openinterpreter is an open-source AI coding agent that runs in the terminal or as a desktop app, enabling code editing, command execution, and test...

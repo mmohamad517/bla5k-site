@@ -2,7 +2,7 @@
 name: Sketch2scheme
 url: "https://sketch2scheme.com"
 image: /logos/sketch2scheme.png
-screenshot: /screens/sketch2scheme.jpg
+screenshot: /screens/sketch2scheme.webp
 subcategory: ai-image
 pricing: paid
 tagline: Sketch2scheme uses AI to convert hand‑drawn flowcharts and textual descriptions into clean digital diagrams.

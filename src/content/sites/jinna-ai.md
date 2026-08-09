@@ -2,7 +2,7 @@
 name: Jinna.ai
 url: "https://jinna.ai"
 image: /logos/jinna-ai.png
-screenshot: /screens/jinna-ai.jpg
+screenshot: /screens/jinna-ai.webp
 subcategory: ai-chat
 pricing: free
 tagline: Jinna.ai is an AI-native business operating system that helps solopreneurs manage administrative tasks efficiently, offering invoicing, smart reminders,...

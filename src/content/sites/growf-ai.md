@@ -2,7 +2,7 @@
 name: Growf AI
 url: "https://www.growf.io"
 image: /logos/growf-ai.png
-screenshot: /screens/growf-ai.jpg
+screenshot: /screens/growf-ai.webp
 subcategory: nc-automation
 pricing: freemium
 tagline: Growf is an AI operating system for marketing agencies that centralizes data, workflows, and tools.

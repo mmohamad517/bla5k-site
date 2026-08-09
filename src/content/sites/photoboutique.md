@@ -2,7 +2,7 @@
 name: PhotoBoutique
 url: "https://photoboutique.app/en/"
 image: /logos/photoboutique.png
-screenshot: /screens/photoboutique.jpg
+screenshot: /screens/photoboutique.webp
 subcategory: ai-image
 pricing: freemium
 tagline: PhotoBoutique trains an AI model on 10‑35 uploaded face photos in about an hour, then generates high‑resolution avatars, professional headshots, and...

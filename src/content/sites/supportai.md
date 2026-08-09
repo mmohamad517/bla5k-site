@@ -2,7 +2,7 @@
 name: SupportAI
 url: "https://supportai.com"
 image: /logos/supportai.png
-screenshot: /screens/supportai.jpg
+screenshot: /screens/supportai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: SupportAI integrates ChatGPT to create personalized AI chatbots for real-time customer assistance.

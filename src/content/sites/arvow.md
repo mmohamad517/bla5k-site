@@ -2,7 +2,7 @@
 name: Arvow
 url: "https://arvow.com"
 image: /logos/arvow.png
-screenshot: /screens/arvow.jpg
+screenshot: /screens/arvow.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Arvow is an AI SEO writing and content automation platform that generates, optimizes and publishes SEO-ready HTML articles with images, videos, schema, meta...

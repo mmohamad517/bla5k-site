@@ -2,7 +2,7 @@
 name: Zaayve AI
 url: "https://zaayve.com"
 image: /logos/zaayve-ai.png
-screenshot: /screens/zaayve-ai.jpg
+screenshot: /screens/zaayve-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Zaayve merges AI content generation with family health management.

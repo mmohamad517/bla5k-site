@@ -2,7 +2,7 @@
 name: greatcontent.com
 url: "https://greatcontent.com"
 image: /logos/greatcontent-com.png
-screenshot: /screens/greatcontent-com.jpg
+screenshot: /screens/greatcontent-com.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Greatcontent is a content creation and localization platform that connects teams with 30,000+ vetted writers, editors, and translators to produce scalable,...

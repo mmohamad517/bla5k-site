@@ -2,7 +2,7 @@
 name: Trophi AI
 url: "https://www.trophi.ai/"
 image: /logos/trophi-ai.png
-screenshot: /screens/trophi-ai.jpg
+screenshot: /screens/trophi-ai.webp
 subcategory: learn-courses
 pricing: paid
 tagline: Trophi AI is a real-time coaching and telemetry analysis app for sim racers and competitive gamers.

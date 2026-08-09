@@ -2,7 +2,7 @@
 name: Dealight
 url: "https://www.dealight.ai/"
 image: /logos/dealight.png
-screenshot: /screens/dealight.jpg
+screenshot: /screens/dealight.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Dealight AI automates LinkedIn outreach by generating adaptive AI‑crafted messages, analyzing prospect data, and tracking engagement to optimize campaigns.

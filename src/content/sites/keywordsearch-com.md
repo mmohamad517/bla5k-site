@@ -2,7 +2,7 @@
 name: KeywordSearch.com
 url: "https://www.keywordsearch.com/"
 image: /logos/keywordsearch-com.png
-screenshot: /screens/keywordsearch-com.jpg
+screenshot: /screens/keywordsearch-com.webp
 subcategory: mkt-social
 pricing: paid
 tagline: KeywordSearch analyzes business data to pinpoint high‑performing keywords and build targeted Google/YouTube ad audiences instantly.

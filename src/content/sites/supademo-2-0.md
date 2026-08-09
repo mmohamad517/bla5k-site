@@ -2,7 +2,7 @@
 name: Supademo 2.0
 url: "https://supademo.com"
 image: /logos/supademo-2-0.png
-screenshot: /screens/supademo-2-0.jpg
+screenshot: /screens/supademo-2-0.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Supademo records user interactions and auto‑generates guided walkthroughs for web, mobile, and desktop apps.

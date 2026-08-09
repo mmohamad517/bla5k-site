@@ -2,7 +2,7 @@
 name: Chat EQ
 url: "https://chateq.com"
 image: /logos/chat-eq.png
-screenshot: /screens/chat-eq.jpg
+screenshot: /screens/chat-eq.webp
 subcategory: learn-courses
 pricing: freemium
 tagline: ChatEQ uses AI to analyze conversation scenarios, offering evidence‑based feedback, emotional insights, and dialogue strategies.

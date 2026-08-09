@@ -2,7 +2,7 @@
 name: VanillaHR Hiring Platform
 url: "https://www.vanillahr.com/"
 image: /logos/vanillahr-hiring-platform.png
-screenshot: /screens/vanillahr-hiring-platform.jpg
+screenshot: /screens/vanillahr-hiring-platform.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: VanillaHR is an AI‑driven applicant tracking system that automates resume screening, candidate matching, and video interviews.

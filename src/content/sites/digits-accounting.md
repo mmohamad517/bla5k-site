@@ -2,7 +2,7 @@
 name: Digits — Accounting
 url: "https://digits.com"
 image: /logos/digits-accounting.png
-screenshot: /screens/digits-accounting.jpg
+screenshot: /screens/digits-accounting.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Digits is an advanced AI tool transforming accounting processes with automated bookkeeping, financial analysis, and insightful reports.

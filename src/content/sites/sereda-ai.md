@@ -2,7 +2,7 @@
 name: Sereda AI
 url: "https://sereda.ai"
 image: /logos/sereda-ai.png
-screenshot: /screens/sereda-ai.jpg
+screenshot: /screens/sereda-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Sereda AI is an HCM and LMS that centralizes knowledge with a searchable knowledge base and AI assistant, offers course and onboarding builders, employee...

@@ -2,7 +2,7 @@
 name: Latta AI
 url: "https://latta.ai"
 image: /logos/latta-ai.png
-screenshot: /screens/latta-ai.jpg
+screenshot: /screens/latta-ai.webp
 subcategory: dev-code
 pricing: freemium
 tagline: Latta is an AI tool that helps developers efficiently fix non-working code by providing integrated bug detection, session recording, and automatic task...

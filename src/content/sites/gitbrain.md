@@ -2,7 +2,7 @@
 name: GitBrain
 url: "https://gitbrain.dev/"
 image: /logos/gitbrain.png
-screenshot: /screens/gitbrain.jpg
+screenshot: /screens/gitbrain.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: GitBrain is a macOS AI‑powered Git client that auto‑splits changes into AI‑generated commits, lets developers edit, reorder, or merge them, and summarizes...

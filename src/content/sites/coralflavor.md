@@ -2,7 +2,7 @@
 name: Coralflavor
 url: "https://coralflavor.com"
 image: /logos/coralflavor.png
-screenshot: /screens/coralflavor.jpg
+screenshot: /screens/coralflavor.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: coralflavor provides secure, unfiltered AI chat for adults with configurable conversation history (auto-save, disable, burn/delete), file uploads...

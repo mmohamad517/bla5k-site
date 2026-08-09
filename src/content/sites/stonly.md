@@ -2,7 +2,7 @@
 name: Stonly
 url: "https://stonly.com"
 image: /logos/stonly.png
-screenshot: /screens/stonly.jpg
+screenshot: /screens/stonly.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Stonly is a knowledge management platform that enables the creation of interactive guides to enhance self-service support.

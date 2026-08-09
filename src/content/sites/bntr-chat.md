@@ -2,7 +2,7 @@
 name: bntr Chat
 url: "https://www.bntr.ai"
 image: /logos/bntr-chat.png
-screenshot: /screens/bntr-chat.jpg
+screenshot: /screens/bntr-chat.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: bntr is an AI-driven platform offering Australian voice and chat solutions for enhanced communication.

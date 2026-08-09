@@ -2,7 +2,7 @@
 name: Competitors App
 url: "https://competitors.app"
 image: /logos/competitors-app.png
-screenshot: /screens/competitors-app.jpg
+screenshot: /screens/competitors-app.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Competitors App tracks competitor activity across email, social, website, SEO, ads, reviews, and PR.

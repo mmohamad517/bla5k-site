@@ -2,7 +2,7 @@
 name: devstral2
 url: "http://devstral2.com"
 image: /logos/devstral2.png
-screenshot: /screens/devstral2.jpg
+screenshot: /screens/devstral2.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: "Devstral2 is a 123B-parameter coding model with a 256K-token context window for agentic coding: autonomous multi-file editing, refactoring, bug..."

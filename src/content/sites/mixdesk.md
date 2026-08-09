@@ -2,7 +2,7 @@
 name: Mixdesk
 url: "https://mixdesk.com"
 image: /logos/mixdesk.png
-screenshot: /screens/mixdesk.jpg
+screenshot: /screens/mixdesk.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Mixdesk is an AI-driven platform that integrates multiple communication channels for global marketing and customer service.

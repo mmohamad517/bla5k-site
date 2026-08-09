@@ -2,7 +2,7 @@
 name: SalesHero.io
 url: "https://saleshero.io/"
 image: /logos/saleshero-io.png
-screenshot: /screens/saleshero-io.jpg
+screenshot: /screens/saleshero-io.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: SalesHero.io boosts sales team productivity by automating tasks such as coaching, deal analysis, and meeting support.

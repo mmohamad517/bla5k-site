@@ -2,7 +2,7 @@
 name: FloorPlanAI
 url: "https://floorplanai.net/"
 image: /logos/floorplanai-net.png
-screenshot: /screens/floorplanai-net.jpg
+screenshot: /screens/floorplanai-net.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: FloorPlanAI is a text-to-floorplan generator that creates 2D layouts and downloadable 3D GLB models from plain English prompts.

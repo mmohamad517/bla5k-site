@@ -2,7 +2,7 @@
 name: Drawww
 url: "https://www.drawww.app/"
 image: /logos/drawww.png
-screenshot: /screens/drawww.jpg
+screenshot: /screens/drawww.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: DRO is a drawing practice platform that provides themed sketch prompts across concept art, cartoons, character design, and anime.

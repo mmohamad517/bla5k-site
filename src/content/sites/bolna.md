@@ -2,7 +2,7 @@
 name: Bolna
 url: "https://www.bolna.dev/"
 image: /logos/bolna.png
-screenshot: /screens/bolna.jpg
+screenshot: /screens/bolna.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Bolna AI builds voice agents for 10+ Indian languages, enabling scalable inbound/outbound calls.

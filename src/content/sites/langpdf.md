@@ -2,7 +2,7 @@
 name: LangPDF
 url: "https://www.langpdf.com"
 image: /logos/langpdf.png
-screenshot: /screens/langpdf.jpg
+screenshot: /screens/langpdf.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: LangPDF automatically converts plain‑text prompts into professional PDFs—such as invoices, resumes, contracts, and reports—using smart formatting and preset...

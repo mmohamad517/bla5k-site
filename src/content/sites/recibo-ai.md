@@ -2,7 +2,7 @@
 name: Recibo
 url: "https://recibo.ai"
 image: /logos/recibo-ai.png
-screenshot: /screens/recibo-ai.jpg
+screenshot: /screens/recibo-ai.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Recibo is a sales automation platform for CPG and retail distribution that optimizes field routes and workloads, predicts store-level orders, uses image...

@@ -2,7 +2,7 @@
 name: ReadKidz
 url: "https://www.readkidz.com/"
 image: /logos/readkidz.png
-screenshot: /screens/readkidz.jpg
+screenshot: /screens/readkidz.webp
 subcategory: ai-writing
 pricing: free
 tagline: ReadKidz lets non‑technical users create children’s e‑books, story videos, and series using 100 templates and 60 illustration styles.

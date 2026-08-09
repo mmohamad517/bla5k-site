@@ -2,7 +2,7 @@
 name: Artbreeder
 url: https://www.artbreeder.com
 image: /logos/artbreeder.png
-screenshot: /screens/artbreeder.jpg
+screenshot: /screens/artbreeder.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Breed and blend AI images — faces, landscapes, and characters that evolve.

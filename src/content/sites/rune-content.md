@@ -2,7 +2,7 @@
 name: Rune Content
 url: "https://www.runecontent.com"
 image: /logos/rune-content.png
-screenshot: /screens/rune-content.jpg
+screenshot: /screens/rune-content.webp
 subcategory: ai-image
 pricing: paid
 tagline: RuneContent automatically converts LinkedIn posts, threads, or articles into short educational videos.

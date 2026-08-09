@@ -2,7 +2,7 @@
 name: TypeAI
 url: "https://typeai.app/"
 image: /logos/typeai-app.png
-screenshot: /screens/typeai-app.jpg
+screenshot: /screens/typeai-app.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Write with AI in any app using the latest deep learning models.

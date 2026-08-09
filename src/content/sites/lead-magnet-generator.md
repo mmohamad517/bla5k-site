@@ -2,7 +2,7 @@
 name: Lead Magnet Generator
 url: "https://leadmagnetgenerator.com/"
 image: /logos/lead-magnet-generator.png
-screenshot: /screens/lead-magnet-generator.jpg
+screenshot: /screens/lead-magnet-generator.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Lead Magnet Generator uses AI to produce custom eBooks, whitepapers, checklists, and guides that attract leads.

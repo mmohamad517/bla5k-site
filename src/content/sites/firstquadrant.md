@@ -2,7 +2,7 @@
 name: FirstQuadrant
 url: "https://firstquadrant.ai"
 image: /logos/firstquadrant.png
-screenshot: /screens/firstquadrant.jpg
+screenshot: /screens/firstquadrant.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: FirstQuadrant is an AI-driven sales execution platform that streamlines B2B sales processes by managing pipelines, optimizing relationships, and automating...

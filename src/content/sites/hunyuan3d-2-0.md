@@ -2,7 +2,7 @@
 name: Hunyuan3D 2.0
 url: "https://3d-models.hunyuan.tencent.com"
 image: /logos/hunyuan3d-2-0.png
-screenshot: /screens/hunyuan3d-2-0.jpg
+screenshot: /screens/hunyuan3d-2-0.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Tencent Hunyuan 3D is an open-source generative model for creating high-quality 3D assets, offering tools for realistic PBR materials and textures, with...

@@ -2,7 +2,7 @@
 name: OpenCode.ai
 url: "https://opencode.ai/"
 image: /logos/opencode-ai.png
-screenshot: /screens/opencode-ai.jpg
+screenshot: /screens/opencode-ai.webp
 subcategory: ai-chat
 pricing: free
 tagline: OpenCode.ai is an open-source AI coding agent that runs directly in your terminal, IDE, or desktop.

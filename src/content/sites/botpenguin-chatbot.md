@@ -2,7 +2,7 @@
 name: BotPenguin Chatbot
 url: "https://botpenguin.com"
 image: /logos/botpenguin-chatbot.png
-screenshot: /screens/botpenguin-chatbot.jpg
+screenshot: /screens/botpenguin-chatbot.webp
 subcategory: ai-chat
 pricing: paid
 tagline: BotPenguin lets users build code‑free chatbots for websites, WhatsApp, Facebook, Instagram, Telegram, and Microsoft Teams.

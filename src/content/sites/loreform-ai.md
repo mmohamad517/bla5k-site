@@ -2,7 +2,7 @@
 name: Loreform AI
 url: "https://www.loreform.ai/"
 image: /logos/loreform-ai.png
-screenshot: /screens/loreform-ai.jpg
+screenshot: /screens/loreform-ai.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Loreform AI is an AI-powered miniature generator that creates custom, 3D-printable STL files for tabletop RPGs and wargames from text or images.

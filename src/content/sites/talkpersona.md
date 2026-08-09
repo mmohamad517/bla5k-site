@@ -2,7 +2,7 @@
 name: TalkPersona
 url: "https://talkpersona.com"
 image: /logos/talkpersona.png
-screenshot: /screens/talkpersona.jpg
+screenshot: /screens/talkpersona.webp
 subcategory: ai-chat
 pricing: free
 tagline: TalkPersona is a free AI video chatbot that enables real-time, human-like conversations with virtual avatars.

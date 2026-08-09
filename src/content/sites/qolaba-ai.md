@@ -2,7 +2,7 @@
 name: Qolaba AI
 url: "https://www.qolaba.ai/"
 image: /logos/qolaba-ai.png
-screenshot: /screens/qolaba-ai.jpg
+screenshot: /screens/qolaba-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Qolaba AI Studio is a powerful generative AI platform for content creators, designers, and businesses, offering AI-driven text generation, image creation,...

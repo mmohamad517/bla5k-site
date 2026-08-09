@@ -2,7 +2,7 @@
 name: Agent.exe
 url: "https://github.com/corbt/agent.exe"
 image: /logos/agent-exe.png
-screenshot: /screens/agent-exe.jpg
+screenshot: /screens/agent-exe.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: Agent.exe is an AI tool that enables users to interact with their local computer systems effortlessly.

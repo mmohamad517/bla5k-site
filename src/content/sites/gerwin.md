@@ -2,7 +2,7 @@
 name: Gerwin
 url: "https://gerwin.io/"
 image: /logos/gerwin.png
-screenshot: /screens/gerwin.jpg
+screenshot: /screens/gerwin.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Gerwin AI is a unified Russian‑language platform offering 150+ AI models for text, image, video, and audio generation.

@@ -2,7 +2,7 @@
 name: AIxBlock
 url: "https://aixblock.io"
 image: /logos/aixblock-io.png
-screenshot: /screens/aixblock-io.jpg
+screenshot: /screens/aixblock-io.webp
 subcategory: ai-video-audio
 pricing: paid
 tagline: AIxBlock supplies enterprise-grade speech and language training data—voice, audio and text across 100+ languages—offering licensed catalogs, custom...

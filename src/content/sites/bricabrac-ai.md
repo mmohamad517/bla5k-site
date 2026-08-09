@@ -2,7 +2,7 @@
 name: Bricabrac AI
 url: "https://bricabrac.ai"
 image: /logos/bricabrac-ai.png
-screenshot: /screens/bricabrac-ai.jpg
+screenshot: /screens/bricabrac-ai.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Bricabrac AI is an AI-based platform for creating web applications with minimal coding.

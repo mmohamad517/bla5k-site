@@ -2,7 +2,7 @@
 name: Booke AI
 url: "https://booke.ai/"
 image: /logos/booke-ai.png
-screenshot: /screens/booke-ai.jpg
+screenshot: /screens/booke-ai.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Booke AI automates bookkeeping in QuickBooks Online, Xero, and Zoho Books, using OCR to match invoices and receipts, flag missing evidence, suggest...

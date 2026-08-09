@@ -2,7 +2,7 @@
 name: isFake AI
 url: "https://isfake.ai/"
 image: /logos/isfake-ai.png
-screenshot: /screens/isfake-ai.jpg
+screenshot: /screens/isfake-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: isFake.ai is a deepfake detection tool that identifies AI-generated content across text, images, audio, and video.

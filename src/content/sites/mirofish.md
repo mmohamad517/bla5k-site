@@ -2,7 +2,7 @@
 name: MiroFish
 url: "https://github.com/666ghj/MiroFish"
 image: /logos/mirofish.png
-screenshot: /screens/mirofish.jpg
+screenshot: /screens/mirofish.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: mirofish is a swarm-intelligence prediction engine that extracts seed inputs (news, policies, financial signals) to run large-scale multi-agent simulations...

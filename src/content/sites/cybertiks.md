@@ -2,7 +2,7 @@
 name: Cybertiks
 url: "https://cybertiks.com"
 image: /logos/cybertiks.png
-screenshot: /screens/cybertiks.jpg
+screenshot: /screens/cybertiks.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Cybertiks uses satellite imagery and AI to provide accurate soil nutrient, texture, and mineral data for agricultural fields.

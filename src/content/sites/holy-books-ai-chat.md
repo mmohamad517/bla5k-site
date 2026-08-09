@@ -2,7 +2,7 @@
 name: Holy Books AI Chat
 url: "https://apps.apple.com/us/app/holy-books-ai-bible-chat/id6670575751"
 image: /logos/holy-books-ai-chat.png
-screenshot: /screens/holy-books-ai-chat.jpg
+screenshot: /screens/holy-books-ai-chat.webp
 subcategory: ai-chat
 pricing: free
 tagline: Holy Books AI Chat offers users a platform to explore the teachings of the Quran, Bible, and Torah.

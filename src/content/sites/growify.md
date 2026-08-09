@@ -2,7 +2,7 @@
 name: Growify
 url: "https://growify.ai"
 image: /logos/growify.png
-screenshot: /screens/growify.jpg
+screenshot: /screens/growify.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Growify is a marketing attribution and analytics software that enables users to track marketing performance across channels, offering multi-touch...

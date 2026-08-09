@@ -2,7 +2,7 @@
 name: Gemini Spark
 url: "https://gemini.google/overview/agent/spark/"
 image: /logos/gemini-spark.png
-screenshot: /screens/gemini-spark.jpg
+screenshot: /screens/gemini-spark.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Gemini Spark is a background personal AI agent that automates Google Workspace tasks—summarizing and prioritizing email, extracting receipts and leads,...

@@ -2,7 +2,7 @@
 name: Agihalo
 url: "https://www.agihalo.com"
 image: /logos/agihalo.png
-screenshot: /screens/agihalo.jpg
+screenshot: /screens/agihalo.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Agihalo LLM Router for Agent connects multi-agent systems to multiple LLMs with routing logic, per-agent API keys, unified SDK, and autonomous USDC...

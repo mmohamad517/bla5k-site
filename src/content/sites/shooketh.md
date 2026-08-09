@@ -2,7 +2,7 @@
 name: Shooketh
 url: "https://shooketh-ai.vercel.app/"
 image: /logos/shooketh.png
-screenshot: /screens/shooketh.jpg
+screenshot: /screens/shooketh.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Shooketh is an AI bot fine‑tuned on Shakespeare that generates authentic Shakespearean text and answers questions about the plays.

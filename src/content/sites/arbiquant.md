@@ -2,7 +2,7 @@
 name: Arbiquant
 url: "https://arbiquant-ch.com/"
 image: /logos/arbiquant.png
-screenshot: /screens/arbiquant.jpg
+screenshot: /screens/arbiquant.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Arbiquant is a cryptocurrency trading platform offering customizable charts, real-time data, and advanced analysis tools for traders of all levels.

@@ -2,7 +2,7 @@
 name: Thoughtly
 url: "https://thought.ly/"
 image: /logos/thoughtly.png
-screenshot: /screens/thoughtly.jpg
+screenshot: /screens/thoughtly.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: Thoughtly automates inbound/outbound calls with code‑free voice agents that integrate CRM, calendars and SaaS tools.

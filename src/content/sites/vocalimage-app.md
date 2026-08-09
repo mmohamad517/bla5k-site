@@ -2,7 +2,7 @@
 name: vocalimage.app
 url: "https://www.vocalimage.app/en/"
 image: /logos/vocalimage-app.png
-screenshot: /screens/vocalimage-app.jpg
+screenshot: /screens/vocalimage-app.webp
 subcategory: learn-courses
 pricing: free
 tagline: Vocal Image is an AI-based coaching app that improves speaking skills through personalized voice assessments and targeted programs for speech recovery,...

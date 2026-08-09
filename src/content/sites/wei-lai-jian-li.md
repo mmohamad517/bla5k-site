@@ -2,7 +2,7 @@
 name: 未来简历
 url: "https://futurecv.cn"
 image: /logos/wei-lai-jian-li.png
-screenshot: /screens/wei-lai-jian-li.jpg
+screenshot: /screens/wei-lai-jian-li.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: FutureResume is an AI‑powered tool that analyzes your existing résumé and a target job description, extracts key skills, writes STAR‑based content,...

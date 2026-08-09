@@ -2,7 +2,7 @@
 name: CYTK
 url: "https://cytk.com"
 image: /logos/cytk-com.png
-screenshot: /screens/cytk-com.jpg
+screenshot: /screens/cytk-com.webp
 subcategory: fin-fintech
 pricing: free
 tagline: CYTK transforms maintenance manuals, multimedia and service data into a mobile AI search platform for technicians, delivering on-site, voice-enabled access...

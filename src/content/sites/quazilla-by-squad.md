@@ -2,7 +2,7 @@
 name: Quazilla by Squad
 url: "https://www.joinsquad.co/quazilla"
 image: /logos/quazilla-by-squad.png
-screenshot: /screens/quazilla-by-squad.jpg
+screenshot: /screens/quazilla-by-squad.webp
 subcategory: learn-courses
 pricing: freemium
 tagline: Quazilla is a ChatGPT‑powered personal coach that customizes goal‑setting and habit‑building.

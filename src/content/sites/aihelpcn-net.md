@@ -2,7 +2,7 @@
 name: aihelpcn.net
 url: "https://aihelpcn.net"
 image: /logos/aihelpcn-net.png
-screenshot: /screens/aihelpcn-net.jpg
+screenshot: /screens/aihelpcn-net.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: AIHelp is a customer‑service platform offering AI‑powered chatbots, live messaging, push notifications, and auto‑form tools.

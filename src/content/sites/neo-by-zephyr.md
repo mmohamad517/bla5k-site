@@ -2,7 +2,7 @@
 name: Neo by zephyr
 url: "https://www.zephyrglobal.co"
 image: /logos/neo-by-zephyr.png
-screenshot: /screens/neo-by-zephyr.jpg
+screenshot: /screens/neo-by-zephyr.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Zephyr Global offers AI‑powered virtual workforce solutions that deliver instant IT support for Microsoft, AWS, Cisco, Dell, Oracle, and Google Cloud...

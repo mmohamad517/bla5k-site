@@ -2,7 +2,7 @@
 name: Odyssei
 url: "https://odyssei.io"
 image: /logos/odyssei.png
-screenshot: /screens/odyssei.jpg
+screenshot: /screens/odyssei.webp
 subcategory: nc-automation
 pricing: freemium
 tagline: Site Mover AI is a seamless solution for transferring website files to a new host.

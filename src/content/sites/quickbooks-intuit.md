@@ -2,7 +2,7 @@
 name: Quickbooks - intuit
 url: "https://quickbooks.intuit.com/"
 image: /logos/quickbooks-intuit.png
-screenshot: /screens/quickbooks-intuit.jpg
+screenshot: /screens/quickbooks-intuit.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: QuickBooks is a cloud-based accounting platform that automates bookkeeping, invoicing, payroll, and expense tracking for small businesses.

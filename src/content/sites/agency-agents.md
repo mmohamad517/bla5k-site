@@ -2,7 +2,7 @@
 name: Agency-agents
 url: "https://github.com/msitarzewski/agency-agents"
 image: /logos/agency-agents.png
-screenshot: /screens/agency-agents.jpg
+screenshot: /screens/agency-agents.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Agency-agents is a GitHub repository of specialized AI agent templates and production-ready workflows.

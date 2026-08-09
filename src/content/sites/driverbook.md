@@ -2,7 +2,7 @@
 name: Driverbook
 url: "https://driverbook.io"
 image: /logos/driverbook.png
-screenshot: /screens/driverbook.jpg
+screenshot: /screens/driverbook.webp
 subcategory: ent-travel
 pricing: freemium
 tagline: Driverbook is a vehicle‑management app that logs trips, maintenance, and mileage.

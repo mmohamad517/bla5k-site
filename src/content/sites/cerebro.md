@@ -2,7 +2,7 @@
 name: Cerebro
 url: "https://heycerebro.com"
 image: /logos/cerebro.png
-screenshot: /screens/cerebro.jpg
+screenshot: /screens/cerebro.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Cerebro is an AI-powered knowledge management tool that consolidates information from various sources, enabling efficient retrieval of insights through...

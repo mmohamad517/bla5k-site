@@ -2,7 +2,7 @@
 name: Colby AI
 url: "https://getcolby.com"
 image: /logos/colby-ai.png
-screenshot: /screens/colby-ai.jpg
+screenshot: /screens/colby-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Colby AI is a voice-powered Salesforce assistant that automates CRM updates, notes, and lead research via real-time web searches.

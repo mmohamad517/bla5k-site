@@ -2,7 +2,7 @@
 name: agentafk
 url: "https://agentafk.com/"
 image: /logos/agentafk-com.png
-screenshot: /screens/agentafk-com.jpg
+screenshot: /screens/agentafk-com.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: agentafk is an open-source unattended runtime for coding agents that enforces permission boundaries, explicit terminal states, and local trace history.

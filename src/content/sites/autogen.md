@@ -2,7 +2,7 @@
 name: AutoGen
 url: "https://microsoft.github.io/autogen/"
 image: /logos/autogen.png
-screenshot: /screens/autogen.jpg
+screenshot: /screens/autogen.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: Autogen is an advanced AI tool for building AI agents large language model applications, offering a multi-agent conversation framework and optimized API for...

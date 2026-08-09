@@ -2,7 +2,7 @@
 name: Uncheck AI
 url: "https://uncheck.ai"
 image: /logos/uncheck-ai.png
-screenshot: /screens/uncheck-ai.jpg
+screenshot: /screens/uncheck-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Uncheck AI evaluates text for AI signatures, then rewrites it into human‑like, spam‑free prose that passes detectors such as GPTZero, Turnitin, Copyleaks,...

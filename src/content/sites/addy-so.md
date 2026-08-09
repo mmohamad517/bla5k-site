@@ -2,7 +2,7 @@
 name: Addy.so
 url: "https://addy.so"
 image: /logos/addy-so.png
-screenshot: /screens/addy-so.jpg
+screenshot: /screens/addy-so.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Addy AI automates mortgage loan origination and document processing with 24/7 AI agents that review files, flag issues, analyze AUS findings, generate...

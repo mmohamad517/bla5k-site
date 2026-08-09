@@ -2,7 +2,7 @@
 name: CryptoDo
 url: "https://cryptodo.app"
 image: /logos/cryptodo.png
-screenshot: /screens/cryptodo.jpg
+screenshot: /screens/cryptodo.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: CryptoDo is a no‑code, multi‑chain web3 builder that lets non‑technical users deploy smart contracts and dApps within minutes.

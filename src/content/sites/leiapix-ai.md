@@ -2,7 +2,7 @@
 name: Leiapix AI
 url: "https://leiapix-ai.com"
 image: /logos/leiapix-ai.png
-screenshot: /screens/leiapix-ai.jpg
+screenshot: /screens/leiapix-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Leiapix AI converts 2‑D photos into animated 3‑D visuals with AI depth mapping, supporting JPEG/PNG and outputting GIFs or videos.

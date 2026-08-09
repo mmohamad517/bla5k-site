@@ -2,7 +2,7 @@
 name: Skywork.ai
 url: "https://skywork.ai/"
 image: /logos/skywork-ai.png
-screenshot: /screens/skywork-ai.jpg
+screenshot: /screens/skywork-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Skywork.ai is a versatile AI workspace agent that can analyze data, manage content, and integrate with 300+ tools to streamline market research, stock...

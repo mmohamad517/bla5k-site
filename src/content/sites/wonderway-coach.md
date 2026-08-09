@@ -2,7 +2,7 @@
 name: Wonderway Coach
 url: "https://www.wonderway.io/ai-coach"
 image: /logos/wonderway-coach.png
-screenshot: /screens/wonderway-coach.jpg
+screenshot: /screens/wonderway-coach.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Wonderway AI Coach is an AI-powered sales coaching tool that provides personalized feedback to sales reps, tracks their performance, and prioritizes call...

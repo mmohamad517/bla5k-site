@@ -2,7 +2,7 @@
 name: Anything
 url: "https://www.createanything.com"
 image: /logos/anything.png
-screenshot: /screens/anything.jpg
+screenshot: /screens/anything.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Anything is an AI app builder that enables users to create mobile apps and websites without coding.

@@ -2,7 +2,7 @@
 name: Chatronix
 url: "https://chatronix.ai"
 image: /logos/chatronix.png
-screenshot: /screens/chatronix.jpg
+screenshot: /screens/chatronix.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Chatronix.ai is a multi-AI conversational platform that offers over 550 prompts for tailored content generation across industries.

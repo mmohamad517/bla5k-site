@@ -2,7 +2,7 @@
 name: BePurple.ai
 url: "https://www.bepurple.ai/"
 image: /logos/bepurple-ai.png
-screenshot: /screens/bepurple-ai.jpg
+screenshot: /screens/bepurple-ai.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Converts product specs into phased, trackable tickets and coordinated cross-repo pull requests using codebase-aware agents; decomposes features, runs...

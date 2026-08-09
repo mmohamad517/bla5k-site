@@ -2,7 +2,7 @@
 name: CleverAI
 url: "https://www.cleverai.ai"
 image: /logos/cleverai.png
-screenshot: /screens/cleverai.jpg
+screenshot: /screens/cleverai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: CleverAI is an all‑in‑one multimodal AI platform offering chat, image generation, video editing, PDF extraction/summarization/Q&A, smart search, mindmaps...

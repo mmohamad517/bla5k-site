@@ -2,7 +2,7 @@
 name: Pancake AI
 url: "https://getpancake.ai/"
 image: /logos/pancake-ai.png
-screenshot: /screens/pancake-ai.jpg
+screenshot: /screens/pancake-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Pancake AI is an AI cofounder that automates core business functions like sales, marketing, engineering, and support using context-aware autonomous agents.

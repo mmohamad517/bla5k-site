@@ -2,7 +2,7 @@
 name: AINIRO
 url: "https://ainiro.io"
 image: /logos/ainiro.png
-screenshot: /screens/ainiro.jpg
+screenshot: /screens/ainiro.webp
 subcategory: ai-chat
 pricing: paid
 tagline: AINIRO Magic Cloud is an open‑source low‑code platform that turns plain‑English commands into full‑stack apps, APIs, and AI agents.

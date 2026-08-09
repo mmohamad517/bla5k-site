@@ -2,7 +2,7 @@
 name: Todook bot
 url: "https://todook.io"
 image: /logos/todook-bot.png
-screenshot: /screens/todook-bot.jpg
+screenshot: /screens/todook-bot.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Todook is a 24/7 AI assistant that automates customer inquiries and sales across social channels.

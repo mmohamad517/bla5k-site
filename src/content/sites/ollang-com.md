@@ -2,7 +2,7 @@
 name: ollang.com
 url: "https://ollang.com"
 image: /logos/ollang-com.png
-screenshot: /screens/ollang-com.jpg
+screenshot: /screens/ollang-com.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Ollang is a localization platform that automates dubbing, subtitles, closed captions and metadata in 100+ languages, combining studio-quality voice...

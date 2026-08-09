@@ -2,7 +2,7 @@
 name: pixu.ai
 url: "https://pixu.ai/pixu/"
 image: /logos/pixu-ai.png
-screenshot: /screens/pixu-ai.jpg
+screenshot: /screens/pixu-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Pixu.ai is a cutting-edge AI tool for creating authentic images with 100% face likeness in seconds.

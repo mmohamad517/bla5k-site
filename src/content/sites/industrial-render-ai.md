@@ -2,7 +2,7 @@
 name: Industrial Render AI
 url: "https://industrial-render.com"
 image: /logos/industrial-render-ai.png
-screenshot: /screens/industrial-render-ai.jpg
+screenshot: /screens/industrial-render-ai.webp
 subcategory: design-3d
 pricing: paid
 tagline: Industrial Render AI converts sketches, photos, or simple models into studio‑grade 3D renderings instantly, offering preset styles for mood and realistic...

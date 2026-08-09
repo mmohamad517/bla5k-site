@@ -2,7 +2,7 @@
 name: Botsheets AI Writer
 url: "https://botsheets.com"
 image: /logos/botsheets-ai-writer.png
-screenshot: /screens/botsheets-ai-writer.jpg
+screenshot: /screens/botsheets-ai-writer.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Botsheets automates marketing and data capture with chatbots that integrate directly with Google Sheets.

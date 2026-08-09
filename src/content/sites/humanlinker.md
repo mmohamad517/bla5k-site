@@ -2,7 +2,7 @@
 name: Humanlinker
 url: "https://www.humanlinker.com"
 image: /logos/humanlinker.png
-screenshot: /screens/humanlinker.jpg
+screenshot: /screens/humanlinker.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Humanlinker automates prospecting and integrates with CRMs (HubSpot, Salesforce, Dynamics) and email/calendar services (Outlook, Gmail, Google Calendar,...

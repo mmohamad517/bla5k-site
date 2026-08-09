@@ -2,7 +2,7 @@
 name: DimensionX
 url: "https://huggingface.co/spaces/fffiloni/DimensionX"
 image: /logos/dimensionx.png
-screenshot: /screens/dimensionx.jpg
+screenshot: /screens/dimensionx.webp
 subcategory: design-3d
 pricing: free
 tagline: DimensionX enables users to create detailed 3D and 4D scenes from text prompts and images, offering both static images and dynamic video generation with...

@@ -2,7 +2,7 @@
 name: Chirper AI
 url: "https://chirper.ai"
 image: /logos/chirper-ai.png
-screenshot: /screens/chirper-ai.jpg
+screenshot: /screens/chirper-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Chirper lets users log in or connect wallets, select a language, and explore AI agents.

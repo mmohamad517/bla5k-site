@@ -2,7 +2,7 @@
 name: zero1cine
 url: "https://zero1cine.com"
 image: /logos/zero1cine.png
-screenshot: /screens/zero1cine.jpg
+screenshot: /screens/zero1cine.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: zero1cine is an AI‑centric film database cataloging AI‑generated movies across genres, letting creators submit works and audiences discover titles, browse...

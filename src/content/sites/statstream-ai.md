@@ -2,7 +2,7 @@
 name: StatStream.ai
 url: "https://www.statstream.ai"
 image: /logos/statstream-ai.png
-screenshot: /screens/statstream-ai.jpg
+screenshot: /screens/statstream-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Statstream is an AI-driven IoT platform for monitoring energy usage, production parameters, and utilities in mid-scale enterprises.

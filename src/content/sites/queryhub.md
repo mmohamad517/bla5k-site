@@ -2,7 +2,7 @@
 name: QueryHub
 url: "https://www.queryhub.info"
 image: /logos/queryhub.png
-screenshot: /screens/queryhub.jpg
+screenshot: /screens/queryhub.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: QueryHub is an AI-powered collaborative learning platform with an interactive forum, 24/7 chatbot assistance, smart search, resource sharing, and document...

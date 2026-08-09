@@ -2,7 +2,7 @@
 name: Easylist
 url: "https://ilistingai.com/"
 image: /logos/easylist.png
-screenshot: /screens/easylist.jpg
+screenshot: /screens/easylist.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: iListingAI is an AI‑driven inventory platform that quickly produces legally compliant inspection reports by capturing audio and photos, auto‑categorizing...

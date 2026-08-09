@@ -2,7 +2,7 @@
 name: Fulgent ai
 url: "https://fulgentai.com"
 image: /logos/fulgent-ai.png
-screenshot: /screens/fulgent-ai.jpg
+screenshot: /screens/fulgent-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Fulgent AI is an advanced headshot and avatar generator that creates realistic images in various styles, including professional and fantasy themes.

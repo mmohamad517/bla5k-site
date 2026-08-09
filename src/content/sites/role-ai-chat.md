@@ -2,7 +2,7 @@
 name: Role AI Chat
 url: "https://roleai.chat"
 image: /logos/role-ai-chat.png
-screenshot: /screens/role-ai-chat.jpg
+screenshot: /screens/role-ai-chat.webp
 subcategory: ai-chat
 pricing: free
 tagline: Free AI Chat Legends enables unlimited anonymous conversations with iconic leaders and characters, such as Charlie Munger and Cristiano Ronaldo.

@@ -2,7 +2,7 @@
 name: Fini
 url: "https://www.usefini.com/"
 image: /logos/fini.png
-screenshot: /screens/fini.jpg
+screenshot: /screens/fini.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Fini AI’s Sophie autonomously resolves ~80 % of customer queries, boosts CSAT by ~10 %, cuts support costs by 50 %, and performs refunds, updates, and...

@@ -2,7 +2,7 @@
 name: Painted Saintly
 url: "https://www.paintedsaintly.com/"
 image: /logos/painted-saintly.png
-screenshot: /screens/painted-saintly.jpg
+screenshot: /screens/painted-saintly.webp
 subcategory: design-graphics
 pricing: paid
 tagline: Painted Saintly turns photos into Renaissance‑style saint portraits, producing high‑resolution images in under 30 seconds.

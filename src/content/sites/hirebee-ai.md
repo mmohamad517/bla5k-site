@@ -2,7 +2,7 @@
 name: Hirebee.ai
 url: "https://hirebee.ai/"
 image: /logos/hirebee-ai.png
-screenshot: /screens/hirebee-ai.jpg
+screenshot: /screens/hirebee-ai.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Hirebee is an applicant tracking system that automates recruitment workflows, distributes openings to 3,000+ global job boards, and integrates candidate...

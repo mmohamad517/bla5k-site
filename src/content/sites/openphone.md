@@ -2,7 +2,7 @@
 name: Quo
 url: "https://www.quo.com/"
 image: /logos/openphone.png
-screenshot: /screens/openphone.jpg
+screenshot: /screens/openphone.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Quo is a business phone system that centralizes calls, SMS, voicemails, recordings, and contact history into shared inboxes.

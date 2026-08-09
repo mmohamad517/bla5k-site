@@ -2,7 +2,7 @@
 name: Seismic
 url: "https://seismic.com"
 image: /logos/seismic.png
-screenshot: /screens/seismic.jpg
+screenshot: /screens/seismic.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Seismic Platform centralizes content, playbooks, and digital rooms, delivering real‑time buyer insights and AI recommendations.

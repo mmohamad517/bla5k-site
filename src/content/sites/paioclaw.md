@@ -2,7 +2,7 @@
 name: PaioClaw
 url: "https://paioclaw.ai/"
 image: /logos/paioclaw.png
-screenshot: /screens/paioclaw.jpg
+screenshot: /screens/paioclaw.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: "PaioClaw is an AI platform for building and deploying persistent, autonomous agents (\"claws\") in under 60 seconds, featuring a marketplace of 2,000+ skills..."

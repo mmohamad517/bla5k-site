@@ -2,7 +2,7 @@
 name: Sandra AI
 url: "https://www.sandra-ai.com"
 image: /logos/sandra-ai.png
-screenshot: /screens/sandra-ai.jpg
+screenshot: /screens/sandra-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Sandra AI automates call routing, SMS/WhatsApp, and chatbot interactions for automotive dealerships.

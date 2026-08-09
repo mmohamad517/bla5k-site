@@ -2,7 +2,7 @@
 name: Dynaboard AI
 url: "https://dynaboard.com/"
 image: /logos/dynaboard-ai.png
-screenshot: /screens/dynaboard-ai.jpg
+screenshot: /screens/dynaboard-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Dynaboard AI is a suite of AI functionalities that automates UI generation, code generation, and code refactoring for custom software development using...

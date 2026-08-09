@@ -2,7 +2,7 @@
 name: Fiddler AI
 url: "https://www.fiddler.ai"
 image: /logos/fiddler-ai.png
-screenshot: /screens/fiddler-ai.jpg
+screenshot: /screens/fiddler-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Fiddler AI is an observability platform for monitoring AI models, focusing on performance assessment, anomaly detection, and explainable AI.

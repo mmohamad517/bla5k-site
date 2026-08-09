@@ -2,7 +2,7 @@
 name: Formation IA
 url: "https://www.formations-ia.pro"
 image: /logos/formation-ia.png
-screenshot: /screens/formation-ia.jpg
+screenshot: /screens/formation-ia.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Formation IA‑Pro teaches users to use ChatGPT and MidJourney for automating repetitive tasks, speeding research, and improving quality.

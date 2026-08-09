@@ -2,7 +2,7 @@
 name: Venture Matching
 url: "https://parsers.vc"
 image: /logos/venture-matching.png
-screenshot: /screens/venture-matching.jpg
+screenshot: /screens/venture-matching.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Venture Matching AI by Parsers Inc.

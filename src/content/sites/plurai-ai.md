@@ -2,7 +2,7 @@
 name: Plurai AI
 url: "https://www.plurai.ai/"
 image: /logos/plurai-ai.png
-screenshot: /screens/plurai-ai.jpg
+screenshot: /screens/plurai-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Simulation-driven platform that evaluates and monitors AI agents across modalities with realistic multi-turn scenarios, CI/CD-integrated automated tests,...

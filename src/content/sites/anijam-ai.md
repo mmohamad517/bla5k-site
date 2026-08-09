@@ -2,7 +2,7 @@
 name: Anijam.ai
 url: "https://www.anijam.ai"
 image: /logos/anijam-ai.png
-screenshot: /screens/anijam-ai.jpg
+screenshot: /screens/anijam-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Anijam is an AI animation agent offering text-to-animation, 2D/3D character creation, an animation-optimized lip-sync engine with customizable voices, a...

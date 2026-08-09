@@ -2,7 +2,7 @@
 name: Smartick
 url: https://www.smartick.com/
 image: /logos/smartick.png
-screenshot: /screens/smartick.jpg
+screenshot: /screens/smartick.webp
 subcategory: learn-courses
 tagline: "AI-adaptive math program for kids — 15 minutes a day builds lasting math skills."
 tags: [smartick, math, kids, education, adaptive learning]

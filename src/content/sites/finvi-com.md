@@ -2,7 +2,7 @@
 name: finvi.com
 url: "https://finvi.com"
 image: /logos/finvi-com.png
-screenshot: /screens/finvi-com.jpg
+screenshot: /screens/finvi-com.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Velosidy is a SaaS collections platform that automates workflows with RPA and AI, cuts manual effort and errors, segments accounts, provides real‑time...

@@ -2,7 +2,7 @@
 name: gpt-oss playground
 url: "https://gpt-oss.com"
 image: /logos/gpt-oss-playground.png
-screenshot: /screens/gpt-oss-playground.jpg
+screenshot: /screens/gpt-oss-playground.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: gpt-oss playground provides open-weight demos of gpt-oss-120b and 20b for infrastructure testing, distributed and on-device inference, benchmarking, API...

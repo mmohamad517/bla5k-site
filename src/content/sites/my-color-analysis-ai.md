@@ -2,7 +2,7 @@
 name: My Color Analysis AI
 url: "https://mycoloranalysis.ai"
 image: /logos/my-color-analysis-ai.png
-screenshot: /screens/my-color-analysis-ai.jpg
+screenshot: /screens/my-color-analysis-ai.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: My Color Analysis AI quickly identifies your personalized color palette from your photo, offering seasonal color suggestions for outfits and makeup.

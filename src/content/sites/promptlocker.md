@@ -2,7 +2,7 @@
 name: PromptLocker
 url: "https://www.promptlocker.ai"
 image: /logos/promptlocker.png
-screenshot: /screens/promptlocker.jpg
+screenshot: /screens/promptlocker.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: PromptLocker is an on‑prem/cloud governance layer that keeps client data in your account, logs every AI interaction in an append‑only audit trail,...

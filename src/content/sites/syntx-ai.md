@@ -2,7 +2,7 @@
 name: SYNTX.AI
 url: "https://syntx.ai/"
 image: /logos/syntx-ai.png
-screenshot: /screens/syntx-ai.jpg
+screenshot: /screens/syntx-ai.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Syntx.ai provides web and Telegram-bot access, letting users sign in with Telegram or email, link Google to sync settings and data across devices, manage...

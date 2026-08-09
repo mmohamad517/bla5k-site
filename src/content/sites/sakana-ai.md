@@ -2,7 +2,7 @@
 name: Sakana Fugu
 url: "https://sakana.ai/fugu/"
 image: /logos/sakana-ai.png
-screenshot: /screens/sakana-ai.jpg
+screenshot: /screens/sakana-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: sakana.ai’s Fugu is a multi-agent orchestration model that dynamically assembles specialist AI teams (thinker, worker, verifier) to automate multi-step...

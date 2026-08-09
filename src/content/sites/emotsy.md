@@ -2,7 +2,7 @@
 name: Emotsy
 url: "https://www.emotsy.com"
 image: /logos/emotsy.png
-screenshot: /screens/emotsy.jpg
+screenshot: /screens/emotsy.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Emotsy converts followers into owned contacts and delivers behavior‑driven email and chat campaigns.

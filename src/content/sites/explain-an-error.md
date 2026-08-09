@@ -2,7 +2,7 @@
 name: Explain An Error
 url: "https://explain.whybug.com/"
 image: /logos/explain-an-error.png
-screenshot: /screens/explain-an-error.jpg
+screenshot: /screens/explain-an-error.webp
 subcategory: dev-code
 pricing: freemium
 tagline: Explain by Whybug uses a large language model trained on StackExchange data to analyze code errors.

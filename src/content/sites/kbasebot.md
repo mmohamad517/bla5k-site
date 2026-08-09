@@ -2,7 +2,7 @@
 name: KBaseBot
 url: "https://kbasebot.com/maintenance"
 image: /logos/kbasebot.png
-screenshot: /screens/kbasebot.jpg
+screenshot: /screens/kbasebot.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: KBaseBot is an AI tool powered by GPT-4 that creates customizable chatbots for smooth customer support and lead generation.

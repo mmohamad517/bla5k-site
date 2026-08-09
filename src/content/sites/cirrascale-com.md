@@ -2,7 +2,7 @@
 name: cirrascale.com
 url: "https://cirrascale.com"
 image: /logos/cirrascale-com.png
-screenshot: /screens/cirrascale-com.jpg
+screenshot: /screens/cirrascale-com.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Cirrascale offers a private AI cloud that supports training and inference on AMD, Cerebras, NVIDIA, and Qualcomm accelerators.

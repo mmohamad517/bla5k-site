@@ -2,7 +2,7 @@
 name: ImagineQR - gameofprompts.ai
 url: "https://www.gameofprompts.ai"
 image: /logos/imagineqr-gameofprompts-ai.png
-screenshot: /screens/imagineqr-gameofprompts-ai.jpg
+screenshot: /screens/imagineqr-gameofprompts-ai.webp
 subcategory: mkt-social
 pricing: free
 tagline: Unlock Power AI allows users to create customizable QR codes that link to various digital content.

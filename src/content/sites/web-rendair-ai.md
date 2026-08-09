@@ -2,7 +2,7 @@
 name: Rendair
 url: "https://web.rendair.ai"
 image: /logos/web-rendair-ai.png
-screenshot: /screens/web-rendair-ai.jpg
+screenshot: /screens/web-rendair-ai.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Rendair AI converts sketches, 2D plans and 3D models (SketchUp, Rhino, Revit, ArchiCAD, Blender, AutoCAD) into photorealistic renders and animations, with...

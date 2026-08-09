@@ -2,7 +2,7 @@
 name: Zefram
 url: "https://zefram.com"
 image: /logos/zefram.png
-screenshot: /screens/zefram.jpg
+screenshot: /screens/zefram.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Zefram is an AI tool that streamlines contact information management for sales teams, enabling efficient discovery and verification of leads.

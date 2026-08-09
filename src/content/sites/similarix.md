@@ -2,7 +2,7 @@
 name: Similarix
 url: "https://similarix.com"
 image: /logos/similarix.png
-screenshot: /screens/similarix.jpg
+screenshot: /screens/similarix.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Similarix adds semantic search to Amazon S3 buckets, enabling text or image queries without altering files.

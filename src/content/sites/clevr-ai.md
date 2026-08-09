@@ -2,7 +2,7 @@
 name: CLEVR AI
 url: "https://clevr.ai/"
 image: /logos/clevr-ai.png
-screenshot: /screens/clevr-ai.jpg
+screenshot: /screens/clevr-ai.webp
 subcategory: fin-fintech
 pricing: paid
 tagline: ClevrAI centralizes audience behavior, campaign, and content performance across social, search, and web channels, providing real‑time engagement metrics,...

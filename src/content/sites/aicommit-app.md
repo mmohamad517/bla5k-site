@@ -2,7 +2,7 @@
 name: AICommit.app
 url: "https://aicommit.app"
 image: /logos/aicommit-app.png
-screenshot: /screens/aicommit-app.jpg
+screenshot: /screens/aicommit-app.webp
 subcategory: ai-chat
 pricing: paid
 tagline: AICommit is a JetBrains IDE plugin that auto‑generates context‑aware commit messages from the staged diff with a single click.

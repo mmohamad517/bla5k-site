@@ -2,7 +2,7 @@
 name: Picsi.Ai
 url: "https://www.picsi.ai/en/"
 image: /logos/picsi-ai.png
-screenshot: /screens/picsi-ai.jpg
+screenshot: /screens/picsi-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Picsi.ai by InsightFace is an AI tool that enables users to seamlessly morph, age, and animate faces.

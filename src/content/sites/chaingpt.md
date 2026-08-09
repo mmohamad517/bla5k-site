@@ -2,7 +2,7 @@
 name: ChainGPT
 url: "https://www.chaingpt.org/"
 image: /logos/chaingpt.png
-screenshot: /screens/chaingpt.jpg
+screenshot: /screens/chaingpt.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Chaingpt is an AI platform for cryptocurrency and blockchain technology assistance that offers unlimited solutions and use cases.

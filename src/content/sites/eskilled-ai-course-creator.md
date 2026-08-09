@@ -2,7 +2,7 @@
 name: Eskilled ai course creator
 url: "https://aicoursecreator.eskilled.io/"
 image: /logos/eskilled-ai-course-creator.png
-screenshot: /screens/eskilled-ai-course-creator.jpg
+screenshot: /screens/eskilled-ai-course-creator.webp
 subcategory: ai-image
 pricing: paid
 tagline: Eskilled AI Course Creator offers intuitive templates and adaptive learning paths for creating engaging courses.

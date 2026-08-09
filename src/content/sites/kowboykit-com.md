@@ -2,7 +2,7 @@
 name: Kowboykit.com
 url: "https://kowboykit.com"
 image: /logos/kowboykit-com.png
-screenshot: /screens/kowboykit-com.jpg
+screenshot: /screens/kowboykit-com.webp
 subcategory: mkt-social
 pricing: paid
 tagline: KowboyKit is an AI‑powered platform that centralizes server building, landing page creation, and analytics for affiliate campaigns.

@@ -2,7 +2,7 @@
 name: SalesTable AI
 url: "https://salestable.ai"
 image: /logos/salestable-ai.png
-screenshot: /screens/salestable-ai.jpg
+screenshot: /screens/salestable-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Salestable AI Sales Manager enhances sales team effectiveness with AI-driven training, real-time assistance during calls, and centralized content management.

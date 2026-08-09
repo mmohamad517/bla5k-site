@@ -2,7 +2,7 @@
 name: Vibecode
 url: "https://vibecodeapp.com"
 image: /logos/vibecode.png
-screenshot: /screens/vibecode.jpg
+screenshot: /screens/vibecode.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: VibeCode is a no-code app development platform that enables users to design, customize, and launch mobile apps with templates, real-time collaboration, and...

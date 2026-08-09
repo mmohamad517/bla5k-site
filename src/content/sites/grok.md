@@ -2,7 +2,7 @@
 name: Grok
 url: https://grok.com
 image: /logos/grok.png
-screenshot: /screens/grok.jpg
+screenshot: /screens/grok.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: xAI's AI assistant — real-time X data, fewer filters, and a direct personality.

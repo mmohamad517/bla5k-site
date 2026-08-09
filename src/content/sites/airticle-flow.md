@@ -2,7 +2,7 @@
 name: AIrticle flow
 url: "https://airticle-flow.com"
 image: /logos/airticle-flow.png
-screenshot: /screens/airticle-flow.jpg
+screenshot: /screens/airticle-flow.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: AIrticle‑flow generates hundreds of unique, SEO‑optimized articles from a single prompt, letting marketers and bloggers scale content production.

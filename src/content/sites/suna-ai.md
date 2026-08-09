@@ -2,7 +2,7 @@
 name: Suna AI
 url: "https://www.suna.so/"
 image: /logos/suna-ai.png
-screenshot: /screens/suna-ai.jpg
+screenshot: /screens/suna-ai.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: Kortix Suna is an open-source AI agent designed for personal and professional use, supporting TypeScript and Python.

@@ -2,7 +2,7 @@
 name: Netwrck AI Chatbots
 url: "https://netwrck.com"
 image: /logos/netwrck-ai-chatbots.png
-screenshot: /screens/netwrck-ai-chatbots.jpg
+screenshot: /screens/netwrck-ai-chatbots.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Netwrck AI chatbots is a platform that offers a wide variety of AI characters, infinite AI-drawn adventures narrated by AI chatbots and Anime characters,...

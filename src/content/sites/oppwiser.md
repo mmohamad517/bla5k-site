@@ -2,7 +2,7 @@
 name: Oppwiser
 url: "https://oppwiser.com"
 image: /logos/oppwiser.png
-screenshot: /screens/oppwiser.jpg
+screenshot: /screens/oppwiser.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Oppwiser is an AI revenue-discovery platform for account-based sales and B2B prospecting that identifies lookalike companies, scores net-new accounts from a...

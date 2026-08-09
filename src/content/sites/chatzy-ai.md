@@ -2,7 +2,7 @@
 name: Chatzy AI
 url: "https://chatzy.ai/"
 image: /logos/chatzy-ai.png
-screenshot: /screens/chatzy-ai.jpg
+screenshot: /screens/chatzy-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Chatzy AI is an API-first platform that automates customer conversations across WhatsApp, voice, and web while driving qualified leads from Meta ads and...

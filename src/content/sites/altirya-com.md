@@ -2,7 +2,7 @@
 name: Altirya
 url: "https://altirya.com"
 image: /logos/altirya-com.png
-screenshot: /screens/altirya-com.jpg
+screenshot: /screens/altirya-com.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Altirya is an AI project management copilot that converts goals into structured roadmaps, Gantt/Kanban/To‑Do views, tasks, dependencies, milestones,...

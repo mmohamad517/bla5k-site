@@ -2,7 +2,7 @@
 name: TableSprint
 url: "https://www.tablesprint.com/"
 image: /logos/tablesprint.png
-screenshot: /screens/tablesprint.jpg
+screenshot: /screens/tablesprint.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Tablesprint is an AI-driven platform that enables users to create and manage custom applications easily, integrating data from tools like WhatsApp and Excel...

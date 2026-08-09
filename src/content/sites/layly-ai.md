@@ -2,7 +2,7 @@
 name: Layly - AI
 url: "https://www.layly.ai"
 image: /logos/layly-ai.png
-screenshot: /screens/layly-ai.jpg
+screenshot: /screens/layly-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Layly is an Ethereum-based AI tool combating fake news and deepfakes by analyzing images, videos, and audios.

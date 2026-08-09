@@ -2,7 +2,7 @@
 name: ProfilePicture.AI
 url: "https://www.profilepicture.ai/?via=topaitools"
 image: /logos/profilepicture-ai.png
-screenshot: /screens/profilepicture-ai.jpg
+screenshot: /screens/profilepicture-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: PFP.AI produces studio‑quality profile pictures from a single high‑definition photo, offering preset styles for professional, minimalist, fashion,...

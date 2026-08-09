@@ -2,7 +2,7 @@
 name: VibeBot
 url: "https://vibebot.gg"
 image: /logos/vibebot.png
-screenshot: /screens/vibebot.jpg
+screenshot: /screens/vibebot.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: VibeBot is a multifunctional Discord bot that streamlines server management with AI-powered moderation, translation, and chatbot features alongside music...

@@ -2,7 +2,7 @@
 name: SectorFlow AI
 url: "https://sectorflow.ai/"
 image: /logos/sectorflow-ai.png
-screenshot: /screens/sectorflow-ai.jpg
+screenshot: /screens/sectorflow-ai.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: SectorFlow AI Agents connects to Salesforce, Microsoft 365, HubSpot, Slack, and Zendesk to automate document processing, invoices, and customer support.

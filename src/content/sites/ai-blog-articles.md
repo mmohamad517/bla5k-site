@@ -2,7 +2,7 @@
 name: AI Blog Articles
 url: "https://getaiblogarticles.com"
 image: /logos/ai-blog-articles.png
-screenshot: /screens/ai-blog-articles.jpg
+screenshot: /screens/ai-blog-articles.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: "AI Blog Articles creates SEO-optimized blog posts from a topic in two steps: instant keyword list and editable outline, then one-click generation of fully..."

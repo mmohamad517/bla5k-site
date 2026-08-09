@@ -2,7 +2,7 @@
 name: CodeGrow
 url: "https://codegrowai.com"
 image: /logos/codegrow.png
-screenshot: /screens/codegrow.jpg
+screenshot: /screens/codegrow.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Codegrow is an AI-driven platform for developing iOS applications, allowing users to generate, build, and launch apps with minimal coding.

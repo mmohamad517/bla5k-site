@@ -2,7 +2,7 @@
 name: 3D House Planner
 url: "https://3dhouseplanner.com"
 image: /logos/3d-house-planner.png
-screenshot: /screens/3d-house-planner.jpg
+screenshot: /screens/3d-house-planner.webp
 subcategory: design-3d
 pricing: freemium
 tagline: 3D House Planner is a web-based application that enables users to create detailed 3D home designs.

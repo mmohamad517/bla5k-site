@@ -2,7 +2,7 @@
 name: SalesCloser
 url: "https://salescloser.ai/"
 image: /logos/salescloser.png
-screenshot: /screens/salescloser.jpg
+screenshot: /screens/salescloser.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: SalesCloser.ai is a powerful AI sales tool that revolutionizes the way sales teams perform.

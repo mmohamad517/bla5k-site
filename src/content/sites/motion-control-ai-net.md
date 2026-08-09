@@ -2,7 +2,7 @@
 name: Motion Control AI
 url: "https://motion-control-ai.net/"
 image: /logos/motion-control-ai-net.png
-screenshot: /screens/motion-control-ai-net.jpg
+screenshot: /screens/motion-control-ai-net.webp
 subcategory: ai-image
 pricing: freemium
 tagline: motion-control-ai.net is an AI video generator that extracts full-body motion, facial expressions, hand gestures, and lip sync from a reference video to...

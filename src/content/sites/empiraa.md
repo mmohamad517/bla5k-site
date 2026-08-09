@@ -2,7 +2,7 @@
 name: Empiraa
 url: "https://www.empiraa.com/"
 image: /logos/empiraa.png
-screenshot: /screens/empiraa.jpg
+screenshot: /screens/empiraa.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Empiraa is a strategic management tool that streamlines planning and execution, aligning business vision with actionable strategies.

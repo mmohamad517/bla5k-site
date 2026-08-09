@@ -2,7 +2,7 @@
 name: Contract Power AI
 url: "https://contractpower.ai"
 image: /logos/contract-power-ai.png
-screenshot: /screens/contract-power-ai.jpg
+screenshot: /screens/contract-power-ai.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: ContractPower uses AI to extract obligations from renewable energy contracts, track deadlines, manage documents, and analyze regulatory changes.

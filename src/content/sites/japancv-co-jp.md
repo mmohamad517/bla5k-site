@@ -2,7 +2,7 @@
 name: japancv.co.jp
 url: "https://www.softbank.jp/corp/news/press/sbkk/2025/20251126_01/"
 image: /logos/japancv-co-jp.png
-screenshot: /screens/japancv-co-jp.jpg
+screenshot: /screens/japancv-co-jp.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: JCV Cloud provides real‑time facial recognition for secure access, attendance, password‑less login, payment, loyalty, and compliance verification.

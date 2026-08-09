@@ -2,7 +2,7 @@
 name: GoSearch AI Enterprise Search
 url: "https://www.gosearch.ai"
 image: /logos/gosearch-ai-enterprise-search.png
-screenshot: /screens/gosearch-ai-enterprise-search.jpg
+screenshot: /screens/gosearch-ai-enterprise-search.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: GoSearch consolidates indexed and non‑indexed data from 100+ apps, letting teams query across email, chat, documents, and private files with AI assistants.

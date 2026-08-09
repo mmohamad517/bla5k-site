@@ -2,7 +2,7 @@
 name: MLflow
 url: "https://www.mlflow.org/"
 image: /logos/mlflow.png
-screenshot: /screens/mlflow.jpg
+screenshot: /screens/mlflow.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: MLflow is an open‑source AI engineering platform that tracks LLM and agent execution, monitors performance, cost, and safety, manages prompts, and supports...

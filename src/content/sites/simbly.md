@@ -2,7 +2,7 @@
 name: Simbly
 url: "https://www.simbly.ai"
 image: /logos/simbly.png
-screenshot: /screens/simbly.jpg
+screenshot: /screens/simbly.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Generate a 25‑page, bank‑compliant business plan in seconds.

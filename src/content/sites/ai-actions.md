@@ -2,7 +2,7 @@
 name: AI Actions
 url: "https://sindresorhus.com/ai-actions"
 image: /logos/ai-actions.png
-screenshot: /screens/ai-actions.jpg
+screenshot: /screens/ai-actions.webp
 subcategory: ai-chat
 pricing: free
 tagline: AI Actions is a powerful tool that provides additional AI-related actions and shortcuts on macOS, including the ability to interact with the ChatGPT API.

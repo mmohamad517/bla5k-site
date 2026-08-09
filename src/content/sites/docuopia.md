@@ -2,7 +2,7 @@
 name: Docuopia
 url: "https://www.docuopia.com"
 image: /logos/docuopia.png
-screenshot: /screens/docuopia.jpg
+screenshot: /screens/docuopia.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Docuopia is an AI‑powered assistant that drafts product requirements, help docs, wikis, and marketing copy from brief prompts.

@@ -2,7 +2,7 @@
 name: "Re:catch"
 url: "https://recatch.cc"
 image: /logos/re-catch.png
-screenshot: /screens/re-catch.jpg
+screenshot: /screens/re-catch.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Catch automates lead qualification, routing, and scheduling for a streamlined sales pipeline.

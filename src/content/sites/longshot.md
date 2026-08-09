@@ -2,7 +2,7 @@
 name: LongShot
 url: "https://www.longshot.ai/?deal=topaitools"
 image: /logos/longshot.png
-screenshot: /screens/longshot.jpg
+screenshot: /screens/longshot.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Longshot AI is an AI-powered writing tool that generates engaging and SEO-optimized long-form content quickly, offering features like fact-checking, custom...

@@ -2,7 +2,7 @@
 name: Copilot Hub
 url: "https://copilothub.ai"
 image: /logos/copilot-hub.png
-screenshot: /screens/copilot-hub.jpg
+screenshot: /screens/copilot-hub.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Devv is an AI coding agent that builds full‑stack web applications from textual prompts, offering native integrations for authentication, language‑model...

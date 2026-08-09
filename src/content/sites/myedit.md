@@ -2,7 +2,7 @@
 name: MyEdit
 url: https://myedit.online/
 image: /logos/myedit.png
-screenshot: /screens/myedit.jpg
+screenshot: /screens/myedit.webp
 subcategory: ai-video-audio
 tagline: "Online AI audio and photo editor — remove noise, enhance audio, and edit images free."
 tags: [myedit, audio editor, photo editor, ai, online, free]

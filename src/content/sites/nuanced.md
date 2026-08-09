@@ -2,7 +2,7 @@
 name: Nuanced
 url: "https://www.nuanced.dev/"
 image: /logos/nuanced.png
-screenshot: /screens/nuanced.jpg
+screenshot: /screens/nuanced.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Nuanced is an AI tool that detects authenticity in digital content, differentiating genuine human-created content from AI-generated material.

@@ -2,7 +2,7 @@
 name: Routerra
 url: "https://routerra.io"
 image: /logos/routerra.png
-screenshot: /screens/routerra.jpg
+screenshot: /screens/routerra.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: Routerra optimizes delivery and fleet routes with AI-assisted bulk stop import, traffic-aware routing, stop constraints (time windows, priorities), vehicle...

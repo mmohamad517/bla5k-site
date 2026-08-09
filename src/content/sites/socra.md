@@ -2,7 +2,7 @@
 name: Socra
 url: "https://socra.com/"
 image: /logos/socra.png
-screenshot: /screens/socra.jpg
+screenshot: /screens/socra.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Socra unifies task management, team communication, and AI collaboration in one interface.

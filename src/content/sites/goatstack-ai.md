@@ -2,7 +2,7 @@
 name: GoatStack.AI
 url: "https://goatstack.ai"
 image: /logos/goatstack-ai.png
-screenshot: /screens/goatstack-ai.jpg
+screenshot: /screens/goatstack-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: GoatStack.AI is an AI-powered newsletter agent that handpicks crucial scientific papers from leading research centers, specializing in AI advancements and...

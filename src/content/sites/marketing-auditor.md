@@ -2,7 +2,7 @@
 name: Marketing Auditor
 url: "https://www.marketingauditor.com/"
 image: /logos/marketing-auditor.png
-screenshot: /screens/marketing-auditor.jpg
+screenshot: /screens/marketing-auditor.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Marketing Auditor is a versatile tool for evaluating digital marketing campaigns.

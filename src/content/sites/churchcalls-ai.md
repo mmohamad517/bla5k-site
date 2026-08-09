@@ -2,7 +2,7 @@
 name: ChurchCalls.ai
 url: "https://www.churchcalls.ai"
 image: /logos/churchcalls-ai.png
-screenshot: /screens/churchcalls-ai.jpg
+screenshot: /screens/churchcalls-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: ChurchCalls.ai is an AI solution for church ministries that handles calls 24/7, directs inquiries to the right departments, and generates automated call...

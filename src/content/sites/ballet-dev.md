@@ -2,7 +2,7 @@
 name: Ballet
 url: "https://www.ballet.dev/"
 image: /logos/ballet-dev.png
-screenshot: /screens/ballet-dev.jpg
+screenshot: /screens/ballet-dev.webp
 subcategory: nc-automation
 pricing: paid
 tagline: Ballet automates revenue-stack workflows with plain-English outcome definitions.

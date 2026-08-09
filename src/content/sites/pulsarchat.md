@@ -2,7 +2,7 @@
 name: PulsarChat
 url: "https://pulsarchat.com/"
 image: /logos/pulsarchat.png
-screenshot: /screens/pulsarchat.jpg
+screenshot: /screens/pulsarchat.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: PulsarChat is a supercharged chatbot powered by ChatGPT, offering an enhanced chat experience.

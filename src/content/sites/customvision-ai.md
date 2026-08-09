@@ -2,7 +2,7 @@
 name: Customvision.ai
 url: "https://customvision.ai"
 image: /logos/customvision-ai.png
-screenshot: /screens/customvision-ai.jpg
+screenshot: /screens/customvision-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Custom Vision enables developers to create custom image classification and object detection models by uploading labeled images or auto‑tagging unlabelled sets.

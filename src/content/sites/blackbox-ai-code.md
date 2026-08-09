@@ -2,7 +2,7 @@
 name: Blackbox AI Code
 url: "https://blackbox.ink"
 image: /logos/blackbox-ai-code.png
-screenshot: /screens/blackbox-ai-code.jpg
+screenshot: /screens/blackbox-ai-code.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Blackbox AI Code is an AI coding assistant and autonomous agent platform that accelerates software development.

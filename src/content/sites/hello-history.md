@@ -2,7 +2,7 @@
 name: Hello History
 url: "https://www.hellohistory.ai/"
 image: /logos/hello-history.png
-screenshot: /screens/hello-history.jpg
+screenshot: /screens/hello-history.webp
 subcategory: ai-chat
 pricing: free
 tagline: Hello History is an AI-powered chat platform that lets users converse with historical figures such as Cleopatra, Einstein, and Buddha.

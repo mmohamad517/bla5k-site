@@ -2,7 +2,7 @@
 name: RealEngineersai
 url: "https://realengineersai.com"
 image: /logos/realengineersai.png
-screenshot: /screens/realengineersai.jpg
+screenshot: /screens/realengineersai.webp
 subcategory: ai-chat
 pricing: free
 tagline: RealEngineers AI revolutionizes engineering hiring by utilizing project-based profiles and advanced matching algorithms.

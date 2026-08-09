@@ -2,7 +2,7 @@
 name: My Waifus
 url: "https://teaseme.ai/"
 image: /logos/my-waifus.png
-screenshot: /screens/my-waifus.jpg
+screenshot: /screens/my-waifus.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: MyWaifus.ai is an AI-powered tool for creating and exploring a collection of safe for work waifus.

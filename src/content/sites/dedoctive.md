@@ -2,7 +2,7 @@
 name: Dedoctive
 url: "https://dedoctive.ai"
 image: /logos/dedoctive.png
-screenshot: /screens/dedoctive.jpg
+screenshot: /screens/dedoctive.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Dedoctive is an AI tool that uses NLP and reasoning to convert unstructured text into structured data and knowledge graphs.

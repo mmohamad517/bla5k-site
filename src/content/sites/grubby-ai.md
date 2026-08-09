@@ -2,7 +2,7 @@
 name: Grubby.ai
 url: "https://grubby.ai/"
 image: /logos/grubby-ai.png
-screenshot: /screens/grubby-ai.jpg
+screenshot: /screens/grubby-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Grubby AI converts AI-generated content into human-like text, enabling it to evade detection systems.

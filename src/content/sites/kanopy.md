@@ -2,7 +2,7 @@
 name: Kanopy
 url: https://www.kanopy.com/
 image: /logos/kanopy.png
-screenshot: /screens/kanopy.jpg
+screenshot: /screens/kanopy.webp
 subcategory: ent-streaming
 pricing: free
 tagline: "Free, ad-free movies with your library card — award-winning films, documentaries, and classics."

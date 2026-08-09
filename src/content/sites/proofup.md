@@ -2,7 +2,7 @@
 name: Proofup
 url: "https://www.proofup.com"
 image: /logos/proofup.png
-screenshot: /screens/proofup.jpg
+screenshot: /screens/proofup.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: ProofUp uses OCR, NLP, and large language models to process rental applications, detecting fraud via PDF byte analysis, verifying IDs with facial...

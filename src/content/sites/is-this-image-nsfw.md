@@ -2,7 +2,7 @@
 name: Is This Image NSFW?
 url: "https://nsfw.m1guelpf.me/"
 image: /logos/is-this-image-nsfw.png
-screenshot: /screens/is-this-image-nsfw.jpg
+screenshot: /screens/is-this-image-nsfw.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Analyzes if an image is safe for work or not using AI.

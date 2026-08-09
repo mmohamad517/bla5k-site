@@ -2,7 +2,7 @@
 name: Skarbe
 url: "https://skarbe.com/"
 image: /logos/skarbe.png
-screenshot: /screens/skarbe.jpg
+screenshot: /screens/skarbe.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Skarbe automates lead follow‑up and qualification for sales teams, capturing contacts from forms, emails, and meetings.

@@ -2,7 +2,7 @@
 name: Qlone
 url: "https://www.qlone.pro/"
 image: /logos/qlone.png
-screenshot: /screens/qlone.jpg
+screenshot: /screens/qlone.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Qlone is a mobile photogrammetry scanner that captures objects and faces, producing textured mesh models exported as STL, OBJ, or GLB.

@@ -2,7 +2,7 @@
 name: AI Resume Checker
 url: "https://www.resumechecker.ai/"
 image: /logos/ai-resume-checker.png
-screenshot: /screens/ai-resume-checker.jpg
+screenshot: /screens/ai-resume-checker.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: AI Powered Resume Checker scans PDF resumes for ATS compatibility, spelling, grammar, keyword alignment, formatting, and impact statements, delivering a...

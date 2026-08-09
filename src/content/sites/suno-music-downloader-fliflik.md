@@ -2,7 +2,7 @@
 name: Suno Music Downloader - Flikflik
 url: "https://online.fliflik.com/suno-downloader/"
 image: /logos/suno-music-downloader-fliflik.png
-screenshot: /screens/suno-music-downloader-fliflik.jpg
+screenshot: /screens/suno-music-downloader-fliflik.webp
 subcategory: ai-writing
 pricing: free
 tagline: Suno Music Downloader is a web-based tool for downloading Suno AI-generated songs in high-quality MP3 format.

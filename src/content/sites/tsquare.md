@@ -2,7 +2,7 @@
 name: Tsquare
 url: "https://www.tsquare.ai/"
 image: /logos/tsquare.png
-screenshot: /screens/tsquare.jpg
+screenshot: /screens/tsquare.webp
 subcategory: design-3d
 pricing: paid
 tagline: Tsquare AI offers an AI‑powered 2D/3D product viewer with real‑time switching and immersive visualization.

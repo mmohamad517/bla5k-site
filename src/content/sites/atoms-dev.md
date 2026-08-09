@@ -2,7 +2,7 @@
 name: ATOMS
 url: "https://atoms.dev/"
 image: /logos/atoms-dev.png
-screenshot: /screens/atoms-dev.jpg
+screenshot: /screens/atoms-dev.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: ATOMS uses AI-assisted development to rapidly prototype apps and demos, enabling fast product validation and internal testing, with built-in workflow...

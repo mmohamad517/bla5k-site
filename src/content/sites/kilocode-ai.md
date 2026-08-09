@@ -2,7 +2,7 @@
 name: Kilo Code AI
 url: "https://kilocode.ai"
 image: /logos/kilocode-ai.png
-screenshot: /screens/kilocode-ai.jpg
+screenshot: /screens/kilocode-ai.webp
 subcategory: ai-chat
 pricing: free
 tagline: Kilo Code is an open-source AI agent extension for VS Code that enhances coding efficiency by generating code, automating tasks, and providing intelligent...

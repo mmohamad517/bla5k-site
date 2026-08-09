@@ -2,7 +2,7 @@
 name: Winware
 url: "https://www.winware.ai/"
 image: /logos/winware.png
-screenshot: /screens/winware.jpg
+screenshot: /screens/winware.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Winware recruits LinkedIn‑verified professionals for B2B studies, using AI moderation to conduct real‑time interviews.

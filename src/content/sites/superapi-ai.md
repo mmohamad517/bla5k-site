@@ -2,7 +2,7 @@
 name: SuperAPI.ai
 url: "https://www.alicent.com/fi"
 image: /logos/superapi-ai.png
-screenshot: /screens/superapi-ai.jpg
+screenshot: /screens/superapi-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: SuperAPI.ai is a digital sales analyst for public sector and enterprise sales that continuously monitors hundreds of public sources to surface tender...

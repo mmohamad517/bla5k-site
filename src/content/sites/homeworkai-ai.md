@@ -2,7 +2,7 @@
 name: HomeworkAI.ai
 url: "https://homeworkai.ai/"
 image: /logos/homeworkai-ai.png
-screenshot: /screens/homeworkai-ai.jpg
+screenshot: /screens/homeworkai-ai.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Homework AI processes uploaded images or text files, delivering step‑by‑step solutions for math, science, literature, and history.

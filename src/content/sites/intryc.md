@@ -2,7 +2,7 @@
 name: Intryc
 url: "https://intryc.com"
 image: /logos/intryc.png
-screenshot: /screens/intryc.jpg
+screenshot: /screens/intryc.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Intryc is an AI QA platform for customer experience teams that automates ticket evaluation with customizable scorecards, generates realistic simulations for...

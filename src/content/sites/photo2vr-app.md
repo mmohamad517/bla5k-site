@@ -2,7 +2,7 @@
 name: photo2vr.app
 url: "https://photo2vr.app"
 image: /logos/photo2vr-app.png
-screenshot: /screens/photo2vr-app.jpg
+screenshot: /screens/photo2vr-app.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Photo2VR.app converts 2D images into immersive 3D visuals for VR headsets using an AI engine.

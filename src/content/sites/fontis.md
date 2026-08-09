@@ -2,7 +2,7 @@
 name: Fontis
 url: "https://fontis.ai/"
 image: /logos/fontis.png
-screenshot: /screens/fontis.jpg
+screenshot: /screens/fontis.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: Fontis.ai turns AI-generated images into on‑demand physical prints.

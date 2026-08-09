@@ -2,7 +2,7 @@
 name: Responso
 url: "https://responso.com"
 image: /logos/responso.png
-screenshot: /screens/responso.jpg
+screenshot: /screens/responso.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Responso is an AI-driven helpdesk tool for e-commerce that automates up to 70% of customer inquiries, streamlines communication across platforms, and...

@@ -2,7 +2,7 @@
 name: Bitwave Agentic - KubeClaw
 url: "https://www.bitwave.io/blog/introducing-bitwave-agentic"
 image: /logos/bitwave-agentic-kubeclaw.png
-screenshot: /screens/bitwave-agentic-kubeclaw.jpg
+screenshot: /screens/bitwave-agentic-kubeclaw.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Bitwave Agentic KubeClaw is a platform that automates on-chain accounting and financial workflows for crypto-native teams, while providing a governance...

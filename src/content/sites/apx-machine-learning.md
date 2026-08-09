@@ -2,7 +2,7 @@
 name: ApX Machine Learning
 url: https://apxml.com
 image: /logos/apx-machine-learning.png
-screenshot: /screens/apx-machine-learning.jpg
+screenshot: /screens/apx-machine-learning.webp
 subcategory: dev-play
 tagline: Free LLM engineering tools and courses — a VRAM calculator, GPU cost comparison, model directory and benchmarks, plus open-access AI/ML courses.
 tags:

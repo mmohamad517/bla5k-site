@@ -2,7 +2,7 @@
 name: Correctify
 url: "https://correctify.com.cy"
 image: /logos/correctify.png
-screenshot: /screens/correctify.jpg
+screenshot: /screens/correctify.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Correctify is an AI menu maker for restaurants and hotels that replaces spreadsheets with structured blocks, offering AI proofreading across...

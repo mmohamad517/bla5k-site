@@ -2,7 +2,7 @@
 name: Balm.ai
 url: "https://www.balm.ai"
 image: /logos/balm-ai.png
-screenshot: /screens/balm-ai.jpg
+screenshot: /screens/balm-ai.webp
 subcategory: learn-courses
 pricing: paid
 tagline: Balm.ai delivers personalized, evidence‑based care for women with PCOS, offering tailored nutrition and exercise plans, hormone‑specific supplement...

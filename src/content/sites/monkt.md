@@ -2,7 +2,7 @@
 name: Monkt
 url: "https://monkt.com"
 image: /logos/monkt.png
-screenshot: /screens/monkt.jpg
+screenshot: /screens/monkt.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Monkt is a document transformation tool that converts various file types into AI-ready Markdown and structured JSON.

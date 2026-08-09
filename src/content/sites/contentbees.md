@@ -2,7 +2,7 @@
 name: ContentBees
 url: "https://contentbees.com"
 image: /logos/contentbees.png
-screenshot: /screens/contentbees.jpg
+screenshot: /screens/contentbees.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Contentbees is a content curation tool that helps marketers and bloggers discover, organize, and share relevant content from over 50,000 sources, enhancing...

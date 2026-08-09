@@ -2,7 +2,7 @@
 name: Thrivebase
 url: "https://www.thrivebase.ai"
 image: /logos/thrivebase.png
-screenshot: /screens/thrivebase.jpg
+screenshot: /screens/thrivebase.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Thrivebase lets businesses build GPT‑3.5 or GPT‑4 powered chatbots without coding.

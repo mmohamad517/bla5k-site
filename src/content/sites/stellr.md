@@ -2,7 +2,7 @@
 name: Stellr
 url: "https://getstellr.io"
 image: /logos/stellr.png
-screenshot: /screens/stellr.jpg
+screenshot: /screens/stellr.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Sahil is an AI-powered electronic lab notebook for bio-pharma professionals, offering easy document management, rapid search capabilities, and streamlined...

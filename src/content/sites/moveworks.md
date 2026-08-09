@@ -2,7 +2,7 @@
 name: Moveworks
 url: "https://www.moveworks.com/"
 image: /logos/moveworks.png
-screenshot: /screens/moveworks.jpg
+screenshot: /screens/moveworks.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Moveworks unifies search and action across enterprise apps, delivering end‑to‑end task automation for HR, IT, finance, and more.

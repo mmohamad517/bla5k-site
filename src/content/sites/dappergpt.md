@@ -2,7 +2,7 @@
 name: DapperGPT
 url: "https://dappergpt.com/"
 image: /logos/dappergpt.png
-screenshot: /screens/dappergpt.jpg
+screenshot: /screens/dappergpt.webp
 subcategory: ai-chat
 pricing: free
 tagline: DapperGPT consolidates multiple AI models—OpenAI, Anthropic, Gemini, Mistral, Grok, and Llama—into one chat interface that supports images, documents, and...

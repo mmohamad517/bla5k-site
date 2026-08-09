@@ -2,7 +2,7 @@
 name: PictureMaker AI
 url: "https://www.picturemaker.ai/"
 image: /logos/picturemaker-ai.png
-screenshot: /screens/picturemaker-ai.jpg
+screenshot: /screens/picturemaker-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: PictureMaker is an AI image and video creation platform that generates avatars, logos, cartoons, and edited visuals from text prompts or uploads.

@@ -2,7 +2,7 @@
 name: Claude Skills for iOS
 url: https://github.com/rshankras/claude-code-apple-skills
 image: /logos/claude-skills-for-ios.png
-screenshot: /screens/claude-skills-for-ios.jpg
+screenshot: /screens/claude-skills-for-ios.webp
 subcategory: dev-ai-agents
 tags:
   - ai agents

@@ -2,7 +2,7 @@
 name: UltimateAI
 url: "https://ultimateai.io"
 image: /logos/ultimateai.png
-screenshot: /screens/ultimateai.jpg
+screenshot: /screens/ultimateai.webp
 subcategory: ai-chat
 pricing: free
 tagline: "UltimateAI is a SaaS plugin providing cutting-edge AI functionalities: intelligent text generation, human-like voice conversions, AI chatbots, and code..."

@@ -2,7 +2,7 @@
 name: Dreamina
 url: "https://dreamina.capcut.com/"
 image: /logos/dreamina-ai.png
-screenshot: /screens/dreamina-ai.jpg
+screenshot: /screens/dreamina-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Dreamina is an AI image and video generator offering text-to-image and image-to-image synthesis, multi-layer editing (inpaint/expand/remove), style/pose...

@@ -2,7 +2,7 @@
 name: daily.dev Recruiter
 url: "https://recruiter.daily.dev/"
 image: /logos/daily-dev-recruiter.png
-screenshot: /screens/daily-dev-recruiter.jpg
+screenshot: /screens/daily-dev-recruiter.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: daily.dev Recruiter is a developer-first hiring platform that intelligently matches technical recruiters with active engineers using behavioral signals.

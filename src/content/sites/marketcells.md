@@ -2,7 +2,7 @@
 name: Marketcells
 url: "https://marketcells.io"
 image: /logos/marketcells.png
-screenshot: /screens/marketcells.jpg
+screenshot: /screens/marketcells.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Marketcells.io centralizes social media management, letting specialists schedule posts across major platforms from one dashboard.

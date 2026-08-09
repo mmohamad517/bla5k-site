@@ -2,7 +2,7 @@
 name: Fineguide.ai
 url: "https://fineguide.ai"
 image: /logos/fineguide-ai.png
-screenshot: /screens/fineguide-ai.jpg
+screenshot: /screens/fineguide-ai.webp
 subcategory: nc-builders
 pricing: paid
 tagline: Fineguide.ai automates customer chat responses on Facebook, Instagram, TikTok, Telegram, and websites.

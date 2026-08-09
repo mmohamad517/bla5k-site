@@ -2,7 +2,7 @@
 name: Firebender
 url: "https://firebender.com"
 image: /logos/firebender.png
-screenshot: /screens/firebender.jpg
+screenshot: /screens/firebender.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Firebender is an Android Studio AI agent that auto‑generates feature code, applies fixes with refactoring, debugger, and Logcat, and converts Figma designs...

@@ -2,7 +2,7 @@
 name: Adlas.io
 url: "https://adlas.io"
 image: /logos/adlas-io.png
-screenshot: /screens/adlas-io.jpg
+screenshot: /screens/adlas-io.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Adlas.io simplifies Google Ads campaign management by generating customized ad creatives, supporting multiple websites, and providing real-time performance...

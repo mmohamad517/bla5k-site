@@ -2,7 +2,7 @@
 name: HousePlan
 url: "https://houseplan.io/"
 image: /logos/houseplan.png
-screenshot: /screens/houseplan.jpg
+screenshot: /screens/houseplan.webp
 subcategory: design-graphics
 pricing: paid
 tagline: HousePlan is an AI house plan generator that creates and edits 2D, 2.5D, and 3D floor plans from image uploads or text prompts.

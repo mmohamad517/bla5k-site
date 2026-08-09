@@ -2,7 +2,7 @@
 name: DOO
 url: "https://doo.ooo"
 image: /logos/doo.png
-screenshot: /screens/doo.jpg
+screenshot: /screens/doo.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: DOO consolidates chat, email, WhatsApp, Instagram, and website messages into a single inbox, offering multilingual AI agents that handle text, voice,...

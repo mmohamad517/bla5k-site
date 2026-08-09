@@ -2,7 +2,7 @@
 name: Penny AI - Social selling
 url: "https://getpenny.com/"
 image: /logos/penny-ai-social-selling.png
-screenshot: /screens/penny-ai-social-selling.jpg
+screenshot: /screens/penny-ai-social-selling.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Penny AI is an AI platform for social selling that offers daily action tasks, custom sales scripts, and learning modules.

@@ -2,7 +2,7 @@
 name: Waakif
 url: "https://www.waakif.com"
 image: /logos/waakif.png
-screenshot: /screens/waakif.jpg
+screenshot: /screens/waakif.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: Waakif integrates POS, online storefronts, and order management for restaurants, retail, salons, and spas, offering real‑time inventory, QR menus, table...

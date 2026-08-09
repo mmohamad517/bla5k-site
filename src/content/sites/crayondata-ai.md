@@ -2,7 +2,7 @@
 name: crayondata.ai
 url: "https://crayondata.ai"
 image: /logos/crayondata-ai.png
-screenshot: /screens/crayondata-ai.jpg
+screenshot: /screens/crayondata-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Crayon Data Tangram is an enterprise, model- and vendor-agnostic AI platform offering 200+ pre-built use cases, reusable agents, and modular components for...

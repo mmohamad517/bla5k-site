@@ -2,7 +2,7 @@
 name: JD Generator
 url: "https://hirequotient.com/free-jd-generator"
 image: /logos/jd-generator.png
-screenshot: /screens/jd-generator.jpg
+screenshot: /screens/jd-generator.webp
 subcategory: ai-productivity
 pricing: free
 tagline: HireQuotient uses AI to generate full, industry‑aligned job descriptions in seconds, offering editable templates, keyword analysis, DEI‑optimized language,...

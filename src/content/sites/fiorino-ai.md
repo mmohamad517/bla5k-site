@@ -2,7 +2,7 @@
 name: Fiorino AI
 url: "https://fiorinoai.tech"
 image: /logos/fiorino-ai.png
-screenshot: /screens/fiorino-ai.jpg
+screenshot: /screens/fiorino-ai.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Fiorino.ai is an open-source AI cost management tool that helps SaaS owners track and optimize AI spending.

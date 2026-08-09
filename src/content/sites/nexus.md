@@ -2,7 +2,7 @@
 name: Nexus
 url: "https://me.sh/nexus"
 image: /logos/nexus.png
-screenshot: /screens/nexus.jpg
+screenshot: /screens/nexus.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Nexus is an AI navigator designed to assist users in navigating their entire network by providing answers and insights related to network relationships.

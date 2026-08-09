@@ -2,7 +2,7 @@
 name: Adminer
 url: "https://adminer.pro"
 image: /logos/adminer.png
-screenshot: /screens/adminer.jpg
+screenshot: /screens/adminer.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Adminer delivers competitive intelligence for e‑commerce, agencies, and info‑producers, revealing real‑time best‑selling products in Brazil and globally.

@@ -2,7 +2,7 @@
 name: Inkrify
 url: "https://inkrify.com"
 image: /logos/inkrify.png
-screenshot: /screens/inkrify.jpg
+screenshot: /screens/inkrify.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Inkrify is an AI-powered book writing platform that helps users create professional-quality manuscripts efficiently.

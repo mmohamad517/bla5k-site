@@ -2,7 +2,7 @@
 name: Funny Duck
 url: "https://wequ.net"
 image: /logos/funny-duck.png
-screenshot: /screens/funny-duck.jpg
+screenshot: /screens/funny-duck.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Funny Duck is an AI-powered mobile voice assistant that facilitates computer and IoT device control via voice commands.

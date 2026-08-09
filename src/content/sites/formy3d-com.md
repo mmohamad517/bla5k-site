@@ -2,7 +2,7 @@
 name: Formy3d.com
 url: "https://formy3d.com/"
 image: /logos/formy3d-com.png
-screenshot: /screens/formy3d-com.jpg
+screenshot: /screens/formy3d-com.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Formy 3D converts natural-language prompts and 2D images into textured, production-ready 3D assets with optimized topology and PBR textures.

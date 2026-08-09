@@ -2,7 +2,7 @@
 name: Intrvuz
 url: "https://intrvuz.com"
 image: /logos/intrvuz.png
-screenshot: /screens/intrvuz.jpg
+screenshot: /screens/intrvuz.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Intrvuz automates high‑volume hiring with 24/7 AI interviews in 57 languages, real‑time proctoring, facial and voice ID checks, CV screening,...

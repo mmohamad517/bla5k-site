@@ -2,7 +2,7 @@
 name: Z.ai
 url: "https://chat.z.ai"
 image: /logos/z-ai.png
-screenshot: /screens/z-ai.jpg
+screenshot: /screens/z-ai.webp
 subcategory: ai-chat
 pricing: free
 tagline: Z.ai chat is an AI-driven conversational tool that utilizes advanced natural language processing to facilitate interactive dialogue and deep search for...

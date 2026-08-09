@@ -2,7 +2,7 @@
 name: Recap NFT Gallery
 url: "https://recap.io"
 image: /logos/recap-nft-gallery-with-ai-appraisals.png
-screenshot: /screens/recap-nft-gallery-with-ai-appraisals.jpg
+screenshot: /screens/recap-nft-gallery-with-ai-appraisals.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Recap is a UK crypto‑tax platform that aggregates all transactions from exchanges and on‑chain wallets, provides real‑time portfolio tracking, automatically...

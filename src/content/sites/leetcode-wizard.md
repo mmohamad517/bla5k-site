@@ -2,7 +2,7 @@
 name: Leetcode wizard
 url: "https://leetcodewizard.io"
 image: /logos/leetcode-wizard.png
-screenshot: /screens/leetcode-wizard.jpg
+screenshot: /screens/leetcode-wizard.webp
 subcategory: ai-chat
 pricing: free
 tagline: Leetcode Wizard is a desktop app that AI‑analyzes any Leetcode question, ranks algorithms by time complexity, auto‑generates code and edge‑case tests,...

@@ -2,7 +2,7 @@
 name: Swaap v2
 url: "https://www.swaap.finance"
 image: /logos/swaap-v2.png
-screenshot: /screens/swaap-v2.jpg
+screenshot: /screens/swaap-v2.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Swaap is an AI-powered AMM platform (Automated Market Maker) that enhances yield and mitigates volatility via sophisticated market-making tactics.

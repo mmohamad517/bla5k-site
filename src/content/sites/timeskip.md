@@ -2,7 +2,7 @@
 name: TimeSkip
 url: "https://timeskip.io"
 image: /logos/timeskip.png
-screenshot: /screens/timeskip.jpg
+screenshot: /screens/timeskip.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Timeskip AI is a Chrome extension that automates the creation of SEO-optimized chapters for YouTube videos, podcasts, and webinars, enhancing...

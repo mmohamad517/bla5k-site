@@ -2,7 +2,7 @@
 name: Glitter AI
 url: "https://www.glitter.io/"
 image: /logos/glitter-io.png
-screenshot: /screens/glitter-io.jpg
+screenshot: /screens/glitter-io.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Glitter AI transforms video or screen‑capture recordings into structured step‑by‑step guides, SOPs, and onboarding documents.

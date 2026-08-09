@@ -2,7 +2,7 @@
 name: Consistent Character AI Generator
 url: "https://consistentcharacterai.com"
 image: /logos/consistent-character-ai-generator-com.png
-screenshot: /screens/consistent-character-ai-generator-com.jpg
+screenshot: /screens/consistent-character-ai-generator-com.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: The Consistent Character AI Generator is an AI tool that creates consistent character images from a single photo, enabling diverse pose, expression, and...

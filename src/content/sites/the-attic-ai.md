@@ -2,7 +2,7 @@
 name: The Attic AI
 url: "https://www.theattic.ai"
 image: /logos/the-attic-ai.png
-screenshot: /screens/the-attic-ai.jpg
+screenshot: /screens/the-attic-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Attic AI offers no‑code tools to create and deploy custom LLMs that convert internal documents into searchable knowledge bases, automate grant and proposal...

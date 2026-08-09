@@ -2,7 +2,7 @@
 name: Anchain.ai
 url: "https://anchain.ai"
 image: /logos/anchain-ai.png
-screenshot: /screens/anchain-ai.jpg
+screenshot: /screens/anchain-ai.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: AnChainAI delivers AI‑powered blockchain forensics, real‑time crypto payment screening and cross‑chain analysis for 70+ blockchains.

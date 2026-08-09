@@ -2,7 +2,7 @@
 name: Music Prompt Generator
 url: "https://sunoprompt.com"
 image: /logos/music-prompt-generator.png
-screenshot: /screens/music-prompt-generator.jpg
+screenshot: /screens/music-prompt-generator.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Suno Prompt is an AI tool that generates song styles and lyrics in multiple languages.

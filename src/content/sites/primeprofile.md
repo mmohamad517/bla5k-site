@@ -2,7 +2,7 @@
 name: Primeprofile
 url: "https://primeprofile.io/"
 image: /logos/primeprofile.png
-screenshot: /screens/primeprofile.jpg
+screenshot: /screens/primeprofile.webp
 subcategory: ai-image
 pricing: paid
 tagline: PRIME Profile uses AI to train a personalized diffusion model from 10–20 uploaded photos in under ten minutes, then produces unlimited high‑resolution (up...

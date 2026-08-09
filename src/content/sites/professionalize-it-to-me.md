@@ -2,7 +2,7 @@
 name: Professionalize It To Me
 url: "https://www.professionalizeitto.me/"
 image: /logos/professionalize-it-to-me.png
-screenshot: /screens/professionalize-it-to-me.jpg
+screenshot: /screens/professionalize-it-to-me.webp
 subcategory: ai-writing
 pricing: paid
 tagline: AI-powered tool for converting informal messages to formal ones Copywriting Subscription

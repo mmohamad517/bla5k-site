@@ -2,7 +2,7 @@
 name: Coursable.io
 url: "https://coursable.io/"
 image: /logos/coursable-io.png
-screenshot: /screens/coursable-io.jpg
+screenshot: /screens/coursable-io.webp
 subcategory: ai-image
 pricing: paid
 tagline: Coursable centralizes course materials, auto‑generates flashcards, quizzes, and summaries from PDFs, slides, videos, and research papers, and lets users...

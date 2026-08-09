@@ -2,7 +2,7 @@
 name: ContractorCounter
 url: "https://www.contractorcounter.com/ai-construction-takeoff"
 image: /logos/contractorcounter-com.png
-screenshot: /screens/contractorcounter-com.jpg
+screenshot: /screens/contractorcounter-com.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: ContractorCounter is an AI-powered construction takeoff tool that lets you measure and markup PDF drawings directly in your browser.

@@ -2,7 +2,7 @@
 name: Alpha3D
 url: "https://alpha3d.io"
 image: /logos/alpha3d.png
-screenshot: /screens/alpha3d.jpg
+screenshot: /screens/alpha3d.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Alpha3D AI 3D Model Generator converts text or 2‑D images into fully textured 3‑D meshes in seconds, producing 4K textures ready for game engines, VR, and...

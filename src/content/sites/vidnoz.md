@@ -2,7 +2,7 @@
 name: Vidnoz
 url: https://www.vidnoz.com
 image: /logos/vidnoz.png
-screenshot: /screens/vidnoz.jpg
+screenshot: /screens/vidnoz.webp
 subcategory: ai-video-audio
 pricing: freemium
 tagline: Free AI video tools — avatars, talking photos, and video generation.

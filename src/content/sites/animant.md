@@ -2,7 +2,7 @@
 name: Animant
 url: "https://animant.co/"
 image: /logos/animant.png
-screenshot: /screens/animant.jpg
+screenshot: /screens/animant.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Animant blends text, audio, video, and 3D into interactive presentations, auto‑generating chapter sections and syncing 3D model rotation with speech.

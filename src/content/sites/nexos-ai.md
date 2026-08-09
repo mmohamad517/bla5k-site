@@ -2,7 +2,7 @@
 name: Nexos AI
 url: "https://nexos.ai/"
 image: /logos/nexos-ai.png
-screenshot: /screens/nexos-ai.jpg
+screenshot: /screens/nexos-ai.webp
 subcategory: nc-automation
 pricing: freemium
 tagline: Nexos.ai is an all-in-one AI platform designed to boost team productivity through no-code automation and multi-model AI, offering customizable ‘AI Agents’...

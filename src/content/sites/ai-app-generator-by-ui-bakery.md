@@ -2,7 +2,7 @@
 name: AI App Generator by UI Bakery
 url: "https://uibakery.io/ai-app-generator"
 image: /logos/ai-app-generator-by-ui-bakery.png
-screenshot: /screens/ai-app-generator-by-ui-bakery.jpg
+screenshot: /screens/ai-app-generator-by-ui-bakery.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: AI App Generator by UI Bakery is a low‑code platform that creates web apps from a single text prompt using drag‑and‑drop UI, workflow automations, and...

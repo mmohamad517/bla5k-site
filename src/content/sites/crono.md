@@ -2,7 +2,7 @@
 name: Crono
 url: "https://www.crono.one"
 image: /logos/crono.png
-screenshot: /screens/crono.jpg
+screenshot: /screens/crono.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Crono is a sales automation platform for B2B teams, enabling task automation, centralized data management, advanced analytics, and AI-driven lead generation...

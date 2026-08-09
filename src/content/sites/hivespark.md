@@ -2,7 +2,7 @@
 name: HiveSpark
 url: "https://hivespark.io"
 image: /logos/hivespark.png
-screenshot: /screens/hivespark.jpg
+screenshot: /screens/hivespark.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: HiveSpark AI automates essential startup tasks—pitch decks, market research, competitor analysis, funding plans, go‑to‑market strategies, product roadmaps,...

@@ -2,7 +2,7 @@
 name: GPTKit
 url: "https://gptkit.ai/"
 image: /logos/gptkit.png
-screenshot: /screens/gptkit.jpg
+screenshot: /screens/gptkit.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Gptkit is an AI tool that detects and classifies human-written and machine-generated text using a multi-model approach with accuracy up to 93%.

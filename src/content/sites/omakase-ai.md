@@ -2,7 +2,7 @@
 name: Omakase.ai
 url: "https://www.omakase.ai/"
 image: /logos/omakase-ai.png
-screenshot: /screens/omakase-ai.jpg
+screenshot: /screens/omakase-ai.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Omakase.ai is a voice AI chatbot that converts websites into interactive voice sales agents for real-time customer conversations.

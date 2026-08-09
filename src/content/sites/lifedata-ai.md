@@ -2,7 +2,7 @@
 name: lifedata.ai
 url: "http://lifedata.ai"
 image: /logos/lifedata-ai.png
-screenshot: /screens/lifedata-ai.jpg
+screenshot: /screens/lifedata-ai.webp
 subcategory: nc-automation
 pricing: freemium
 tagline: Lifedata is a WhatsApp data platform that automates marketing, manages customer loyalty, and enhances communication, enabling businesses to capture...

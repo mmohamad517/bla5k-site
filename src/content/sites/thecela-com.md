@@ -2,7 +2,7 @@
 name: thecela.com
 url: "https://thecela.com"
 image: /logos/thecela-com.png
-screenshot: /screens/thecela-com.jpg
+screenshot: /screens/thecela-com.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Cela platform offers interactive 3D product visualization and AR try‑on for e‑commerce, supporting responsive design and cart integration.

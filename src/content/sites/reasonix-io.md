@@ -2,7 +2,7 @@
 name: Reasonix
 url: "https://reasonix.io/"
 image: /logos/reasonix-io.png
-screenshot: /screens/reasonix-io.jpg
+screenshot: /screens/reasonix-io.webp
 subcategory: ai-chat
 pricing: free
 tagline: Reasonix.io is a terminal-native AI coding agent that leverages Deepseek’s byte-stable prefix cache to achieve 90%+ cache hits, slashing input-token costs...

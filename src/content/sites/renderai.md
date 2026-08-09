@@ -2,7 +2,7 @@
 name: RenderAI
 url: "https://renderai.app/"
 image: /logos/renderai.png
-screenshot: /screens/renderai.jpg
+screenshot: /screens/renderai.webp
 subcategory: design-3d
 pricing: freemium
 tagline: RenderAI is a web-based tool that transforms hand-drawn sketches and 3D models into photorealistic 4K renders and animations in seconds.

@@ -2,7 +2,7 @@
 name: Dhime
 url: "https://www.dhime.in"
 image: /logos/dhime.png
-screenshot: /screens/dhime.jpg
+screenshot: /screens/dhime.webp
 subcategory: learn-courses
 pricing: freemium
 tagline: Dhime is an AI-driven dance coaching platform offering personalized video tutorials and instant performance feedback, allowing users to learn and practice...

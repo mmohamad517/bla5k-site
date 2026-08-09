@@ -2,7 +2,7 @@
 name: "ChatGPT on Google: Search with Chat GPT"
 url: "https://chromewebstore.google.com/"
 image: /logos/chatgpt-google-search.png
-screenshot: /screens/chatgpt-google-search.jpg
+screenshot: /screens/chatgpt-google-search.webp
 subcategory: ai-chat
 pricing: free
 tagline: Get the ChatGPT on Google Extension now and discover a world of knowledge and fun with ChatGPT by your side.

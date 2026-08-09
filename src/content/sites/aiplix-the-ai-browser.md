@@ -2,7 +2,7 @@
 name: AiPlix - The AI Browser
 url: "https://apps.apple.com/us/app/enigma-the-ai-browser/id6452501744"
 image: /logos/aiplix-the-ai-browser.png
-screenshot: /screens/aiplix-the-ai-browser.jpg
+screenshot: /screens/aiplix-the-ai-browser.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Aiplix is an AI-driven browser that enhances online information consumption by autonomously navigating the web, categorizing browsing history, managing...

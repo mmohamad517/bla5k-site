@@ -2,7 +2,7 @@
 name: Trae AI
 url: "https://www.trae.ai/"
 image: /logos/trae.png
-screenshot: /screens/trae.jpg
+screenshot: /screens/trae.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Trae is an adaptive AI-powered IDE that boosts coding efficiency through dynamic task allocation, real-time previews, multimodal understanding of images,...

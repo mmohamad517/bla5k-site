@@ -2,7 +2,7 @@
 name: Well Me Right
 url: "https://www.wellmeright.com/"
 image: /logos/well-me-right.png
-screenshot: /screens/well-me-right.jpg
+screenshot: /screens/well-me-right.webp
 subcategory: learn-courses
 pricing: paid
 tagline: Well Me Right connects users with certified wellness professionals for personalized 1‑on‑1 virtual coaching.

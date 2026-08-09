@@ -2,7 +2,7 @@
 name: Vheer
 url: https://vheer.com/
 image: /logos/vheer.png
-screenshot: /screens/vheer.jpg
+screenshot: /screens/vheer.webp
 subcategory: ai-image
 tagline: "AI headshot generator — professional photos from selfies for LinkedIn and business profiles."
 tags: [vheer, ai headshots, professional photos, linkedin, business]

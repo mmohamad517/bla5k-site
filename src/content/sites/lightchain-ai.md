@@ -2,7 +2,7 @@
 name: Lightchain ai
 url: "https://lightchain.ai/"
 image: /logos/lightchain-ai.png
-screenshot: /screens/lightchain-ai.jpg
+screenshot: /screens/lightchain-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Lightchain AI is a blockchain ecosystem that integrates AI into decentralized applications using a Proof of Intelligence (POI) consensus.

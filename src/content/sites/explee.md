@@ -2,7 +2,7 @@
 name: Explee
 url: "https://explee.com/"
 image: /logos/explee.png
-screenshot: /screens/explee.jpg
+screenshot: /screens/explee.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Explee is an AI-powered search and discovery tool for finding companies and professionals.

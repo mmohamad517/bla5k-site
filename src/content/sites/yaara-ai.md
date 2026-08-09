@@ -2,7 +2,7 @@
 name: Yaara.ai
 url: "https://yaara.ai/?via=topaitools"
 image: /logos/yaara-ai.png
-screenshot: /screens/yaara-ai.jpg
+screenshot: /screens/yaara-ai.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Yaara is an AI writing assistant that produces ads, emails, blogs, website copy, social media posts, and presentations in 26 languages using context‑aware...

@@ -2,7 +2,7 @@
 name: PetlyCare
 url: "https://petlycare.com"
 image: /logos/petlycare.png
-screenshot: /screens/petlycare.jpg
+screenshot: /screens/petlycare.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: Petly is a dog groomer software that streamlines operations for pet service providers with lead management, automated quotes, client database, payment...

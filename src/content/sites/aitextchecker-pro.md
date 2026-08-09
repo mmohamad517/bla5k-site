@@ -2,7 +2,7 @@
 name: AITextChecker.pro
 url: "https://www.aitextchecker.pro"
 image: /logos/aitextchecker-pro.png
-screenshot: /screens/aitextchecker-pro.jpg
+screenshot: /screens/aitextchecker-pro.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: AITextChecker.pro is an AI-powered tool that detects AI-generated content from models like ChatGPT, GPT-4, and others with over 97% accuracy.

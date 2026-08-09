@@ -2,7 +2,7 @@
 name: CopyOwl.ai
 url: "https://copyowl.ai"
 image: /logos/copyowl-ai.png
-screenshot: /screens/copyowl-ai.jpg
+screenshot: /screens/copyowl-ai.webp
 subcategory: ai-writing
 pricing: free
 tagline: CopyOwl.ai is an AI writing tool that aids in researching, citing, and composing various content types, offering customizable tone and style options while...

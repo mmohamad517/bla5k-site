@@ -2,7 +2,7 @@
 name: Claude AI
 url: "https://claude.ai"
 image: /logos/claude.png
-screenshot: /screens/claude.jpg
+screenshot: /screens/claude.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Claude is an advanced AI assistant designed for a variety of tasks, including code generation, writing, productivity enhancement, and business automation.

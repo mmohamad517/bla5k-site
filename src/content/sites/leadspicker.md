@@ -2,7 +2,7 @@
 name: Leadspicker
 url: "https://leadspicker.com"
 image: /logos/leadspicker.png
-screenshot: /screens/leadspicker.jpg
+screenshot: /screens/leadspicker.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Leadspicker is an AI tool that automates lead generation and outreach on LinkedIn and email.

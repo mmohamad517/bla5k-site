@@ -2,7 +2,7 @@
 name: Why Try AI
 url: "https://www.whytryai.com"
 image: /logos/why-try-ai.png
-screenshot: /screens/why-try-ai.jpg
+screenshot: /screens/why-try-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Why Try AI is a Substack newsletter that curates free AI tools for image‑to‑video, voice cloning, and prompt generation.

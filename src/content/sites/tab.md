@@ -2,7 +2,7 @@
 name: Tab
 url: "https://withtab.blog"
 image: /logos/tab.png
-screenshot: /screens/tab.jpg
+screenshot: /screens/tab.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Tab - Automated Blog generates high-quality, SEO-optimized content for both traditional and AI-driven search platforms.

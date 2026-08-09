@@ -2,7 +2,7 @@
 name: Rapidbott
 url: "https://rapidbott.cloud"
 image: /logos/rapidbott.png
-screenshot: /screens/rapidbott.jpg
+screenshot: /screens/rapidbott.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Rapidbott is a no‑code chatbot platform for deploying conversational agents on 12+ channels—Facebook, WhatsApp, Telegram, Slack, SMS—using a drag‑and‑drop...

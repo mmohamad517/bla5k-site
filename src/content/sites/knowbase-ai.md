@@ -2,7 +2,7 @@
 name: Knowbase
 url: "https://www.knowbase.ai/"
 image: /logos/knowbase-ai.png
-screenshot: /screens/knowbase-ai.jpg
+screenshot: /screens/knowbase-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Knowbase.ai turns PDFs, Word, PowerPoint, text, audio, video, and YouTube links into a searchable knowledge base, delivering AI‑generated answers with...

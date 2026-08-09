@@ -2,7 +2,7 @@
 name: AI CEO Coach
 url: "https://www.glenngow.com/"
 image: /logos/ai-ceo-coach.png
-screenshot: /screens/ai-ceo-coach.jpg
+screenshot: /screens/ai-ceo-coach.webp
 subcategory: learn-courses
 pricing: free
 tagline: The AI CEO Coach by Glenn Gow is an innovative tool that provides personalized guidance to CEOs.

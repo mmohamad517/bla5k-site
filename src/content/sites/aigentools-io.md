@@ -2,7 +2,7 @@
 name: AIGenTools
 url: "https://aigentools.io"
 image: /logos/aigentools-io.png
-screenshot: /screens/aigentools-io.jpg
+screenshot: /screens/aigentools-io.webp
 subcategory: ai-image
 pricing: freemium
 tagline: aigentools.io is a unified AI platform for chat, image, and video generation, combining models like GPT, Claude, and Kling into one workflow.

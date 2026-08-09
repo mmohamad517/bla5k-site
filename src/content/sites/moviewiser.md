@@ -2,7 +2,7 @@
 name: MovieWiser
 url: "https://moviewiser.com"
 image: /logos/moviewiser.png
-screenshot: /screens/moviewiser.jpg
+screenshot: /screens/moviewiser.webp
 subcategory: ai-writing
 pricing: free
 tagline: MovieWiser uses AI to give mood‑based movie and series suggestions, pinpointing where titles stream.

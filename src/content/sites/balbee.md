@@ -2,7 +2,7 @@
 name: Balbee
 url: "https://apptork.com/"
 image: /logos/balbee.png
-screenshot: /screens/balbee.jpg
+screenshot: /screens/balbee.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Balbee is an AI journal assistant that enhances journaling with personalized insights, mood tracking, and smart organization.

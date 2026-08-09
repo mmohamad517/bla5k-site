@@ -2,7 +2,7 @@
 name: Goose AI agent
 url: "https://goose-docs.ai/"
 image: /logos/goose-ai-agent.png
-screenshot: /screens/goose-ai-agent.jpg
+screenshot: /screens/goose-ai-agent.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Goose is an open-source, extensible AI agent for code automation and LLM-driven developer workflows.

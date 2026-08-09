@@ -2,7 +2,7 @@
 name: Pseudoface
 url: "https://www.pseudoface.com"
 image: /logos/pseudoface.png
-screenshot: /screens/pseudoface.jpg
+screenshot: /screens/pseudoface.webp
 subcategory: design-graphics
 pricing: paid
 tagline: Pseudoface generates realistic masks that preserve facial authenticity for full‑body videos and images, enabling anonymous content creation.

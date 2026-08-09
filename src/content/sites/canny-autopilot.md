@@ -2,7 +2,7 @@
 name: Canny Autopilot
 url: "https://canny.io"
 image: /logos/canny-autopilot.png
-screenshot: /screens/canny-autopilot.jpg
+screenshot: /screens/canny-autopilot.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Canny is a customer feedback management tool that centralizes user input, streamlines feature request tracking, and integrates with project management...

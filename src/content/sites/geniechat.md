@@ -2,7 +2,7 @@
 name: Geniechat
 url: "https://geniechat.com"
 image: /logos/geniechat.png
-screenshot: /screens/geniechat.jpg
+screenshot: /screens/geniechat.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Geniechat is a mobile keyboard that stores text, emojis, links, images, PDFs, and short videos in a searchable, customizable interface.

@@ -2,7 +2,7 @@
 name: MIND-Interview
 url: "https://www.mind-interview.com/en/"
 image: /logos/mind-interview.png
-screenshot: /screens/mind-interview.jpg
+screenshot: /screens/mind-interview.webp
 subcategory: learn-courses
 pricing: paid
 tagline: MIND Interview streamlines enterprise hiring by automating resume parsing, AI‑powered video interview scoring, and generating encrypted radar reports.

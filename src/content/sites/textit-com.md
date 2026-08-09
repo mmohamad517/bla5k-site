@@ -2,7 +2,7 @@
 name: textit.com
 url: "https://textit.com"
 image: /logos/textit-com.png
-screenshot: /screens/textit-com.jpg
+screenshot: /screens/textit-com.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: TextIt lets users build and deploy interactive chatbots via a drag‑and‑drop flow designer, supporting omni‑channel messaging (Facebook, WhatsApp, SMS, etc.).

@@ -2,7 +2,7 @@
 name: Ai Picasso
 url: "https://aipicasso.app/"
 image: /logos/aipicasso.png
-screenshot: /screens/aipicasso.jpg
+screenshot: /screens/aipicasso.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: AI Picasso lets users create custom illustrations by entering prompts and choosing styles.

@@ -2,7 +2,7 @@
 name: SalesTarget.ai
 url: "https://salestarget.ai/"
 image: /logos/salestarget-ai.png
-screenshot: /screens/salestarget-ai.jpg
+screenshot: /screens/salestarget-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: SalesTarget.ai is a sales platform offering lead generation, automated email outreach, and CRM management with access to 50 million verified leads.

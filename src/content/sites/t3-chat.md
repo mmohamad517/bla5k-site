@@ -2,7 +2,7 @@
 name: T3 Chat
 url: "https://t3.chat"
 image: /logos/t3-chat.png
-screenshot: /screens/t3-chat.jpg
+screenshot: /screens/t3-chat.webp
 subcategory: ai-chat
 pricing: paid
 tagline: t3 chat is an AI assistant that facilitates efficient communication and information exchange through enhanced search capabilities and mobile access.

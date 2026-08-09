@@ -2,7 +2,7 @@
 name: BotByte
 url: "https://botbyte.vercel.app/"
 image: /logos/botbyte.png
-screenshot: /screens/botbyte.jpg
+screenshot: /screens/botbyte.webp
 subcategory: ai-chat
 pricing: paid
 tagline: BotByte AI lets users build code‑free chatbots, websites, and visual workflows with plain‑English prompts.

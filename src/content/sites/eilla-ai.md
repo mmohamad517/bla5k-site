@@ -2,7 +2,7 @@
 name: Eilla AI
 url: "https://eilla.ai/"
 image: /logos/eilla-ai.png
-screenshot: /screens/eilla-ai.jpg
+screenshot: /screens/eilla-ai.webp
 subcategory: fin-fintech
 pricing: paid
 tagline: Eilla AI accelerates M&A for SMBs by combining senior advisors with machine‑learning.

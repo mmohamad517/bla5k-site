@@ -2,7 +2,7 @@
 name: Sorted Wallet
 url: "https://sorted.io"
 image: /logos/sorted-io.png
-screenshot: /screens/sorted-io.jpg
+screenshot: /screens/sorted-io.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: Sorted Wallet is a cross-device crypto wallet for sending, receiving, and cashing out Bitcoin and USDT via Lightning and stablecoin rails, enabling instant...

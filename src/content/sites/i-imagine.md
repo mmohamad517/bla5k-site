@@ -2,7 +2,7 @@
 name: I IMAGINE
 url: "https://iimagine.ai"
 image: /logos/i-imagine.png
-screenshot: /screens/i-imagine.jpg
+screenshot: /screens/i-imagine.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: IIMAGINE is a personalized AI operating system that learns your work habits, stores a secure knowledge base, and automates repetitive tasks for...

@@ -2,7 +2,7 @@
 name: chatgpt-plus pro充值
 url: "https://gpt-plus.ai/"
 image: /logos/chatgpt-plus-prochong-zhi.png
-screenshot: /screens/chatgpt-plus-prochong-zhi.jpg
+screenshot: /screens/chatgpt-plus-prochong-zhi.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: ChatGPT Plus Pro充值 is a subscription activation service for ChatGPT Plus and ChatGPT Pro, enabling direct account upgrades without requiring passwords by...

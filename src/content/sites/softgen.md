@@ -2,7 +2,7 @@
 name: Softgen
 url: "https://softgen.ai"
 image: /logos/softgen.png
-screenshot: /screens/softgen.jpg
+screenshot: /screens/softgen.webp
 subcategory: nc-builders
 pricing: paid
 tagline: Softgen transforms natural‑language specs into Next.js apps, integrating Supabase, Vercel, and GitHub for database, deployment, and version control.

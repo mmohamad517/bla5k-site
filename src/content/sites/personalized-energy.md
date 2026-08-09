@@ -2,7 +2,7 @@
 name: Personalized Energy
 url: "https://www.personalized.energy"
 image: /logos/personalized-energy.png
-screenshot: /screens/personalized-energy.jpg
+screenshot: /screens/personalized-energy.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Personalized.energy uses AI to search and compare electricity plans based on a home address, analyzing location and usage to recommend the best options...

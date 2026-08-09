@@ -2,7 +2,7 @@
 name: scal-e.com
 url: "https://scal-e.com"
 image: /logos/scal-e-com.png
-screenshot: /screens/scal-e-com.jpg
+screenshot: /screens/scal-e-com.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Scal-e is an agile marketing platform that consolidates customer data, adheres to regulatory compliance, and provides audience segmentation, personalized...

@@ -2,7 +2,7 @@
 name: TeraBox AI
 url: "https://www.terabox.com"
 image: /logos/terabox-ai.png
-screenshot: /screens/terabox-ai.jpg
+screenshot: /screens/terabox-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: TeraBox’s offers Tera AI Assistant, streamline productivity by providing instant answers, automating presentation creation, generating content, and...

@@ -2,7 +2,7 @@
 name: Duomly
 url: "https://www.duomly.com"
 image: /logos/duomly-interact.png
-screenshot: /screens/duomly-interact.jpg
+screenshot: /screens/duomly-interact.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Duomly delivers bite‑sized, interactive courses in entrepreneurship, AI, management, marketing, sales, personal development, and IT.

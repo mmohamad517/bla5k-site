@@ -2,7 +2,7 @@
 name: Outpost crm
 url: "https://outpost-crm.app"
 image: /logos/outpost-crm.png
-screenshot: /screens/outpost-crm.jpg
+screenshot: /screens/outpost-crm.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Outpost is an AI‑powered CRM that automates routine sales tasks for real‑estate agents and founders.

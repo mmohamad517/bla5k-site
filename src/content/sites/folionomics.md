@@ -2,7 +2,7 @@
 name: Folionomics
 url: "https://www.folionomics.com/"
 image: /logos/folionomics.png
-screenshot: /screens/folionomics.jpg
+screenshot: /screens/folionomics.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Folionomics is a multi-chain crypto portfolio management tool that helps users optimize investments across various blockchains through AI-driven insights,...

@@ -2,7 +2,7 @@
 name: Docu-Chat
 url: "https://docu-chat-blue.vercel.app/"
 image: /logos/docu-chat.png
-screenshot: /screens/docu-chat.jpg
+screenshot: /screens/docu-chat.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Docu-Chat is an AI tool that enables users to interact with documents through a chat interface, allowing for efficient information extraction and analysis...

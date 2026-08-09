@@ -2,7 +2,7 @@
 name: Serviceaide.com
 url: "https://serviceaide.com"
 image: /logos/serviceaide-com.png
-screenshot: /screens/serviceaide-com.jpg
+screenshot: /screens/serviceaide-com.webp
 subcategory: ai-chat
 pricing: free
 tagline: Serviceaide Luma Virtual Agent is an AI‑powered assistant inside the Serviceaide Digital Service Management Platform.

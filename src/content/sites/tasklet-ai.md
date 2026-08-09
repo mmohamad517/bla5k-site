@@ -2,7 +2,7 @@
 name: Tasklet.ai
 url: "https://tasklet.ai/"
 image: /logos/tasklet-ai.png
-screenshot: /screens/tasklet-ai.jpg
+screenshot: /screens/tasklet-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Tasklet.ai is a workflow automation tool that uses webhooks to capture external events like email opens and calendar bookings, then triggers automated...

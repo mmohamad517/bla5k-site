@@ -2,7 +2,7 @@
 name: Fortune
 url: "https://www.fortune.app"
 image: /logos/fortune.png
-screenshot: /screens/fortune.jpg
+screenshot: /screens/fortune.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Fortune is an AI‑powered accounting tool that automates bookkeeping for small businesses and freelancers.

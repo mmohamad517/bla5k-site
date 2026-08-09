@@ -2,7 +2,7 @@
 name: JS2TS
 url: "https://js2ts.com"
 image: /logos/js2ts.png
-screenshot: /screens/js2ts.jpg
+screenshot: /screens/js2ts.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: JS2TS converts JavaScript to TypeScript with a single button click, adding type annotations while preserving functionality.

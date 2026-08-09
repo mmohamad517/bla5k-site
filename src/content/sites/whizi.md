@@ -2,7 +2,7 @@
 name: Whizi
 url: "https://whizi.io"
 image: /logos/whizi.png
-screenshot: /screens/whizi.jpg
+screenshot: /screens/whizi.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Whizi is an AI chat platform that integrates over 200 advanced models for tasks like writing, brainstorming, and coding.

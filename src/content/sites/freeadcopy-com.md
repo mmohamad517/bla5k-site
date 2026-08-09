@@ -2,7 +2,7 @@
 name: freeadcopy.com
 url: "https://freeadcopy.com"
 image: /logos/freeadcopy-com.png
-screenshot: /screens/freeadcopy-com.jpg
+screenshot: /screens/freeadcopy-com.webp
 subcategory: ai-writing
 pricing: free
 tagline: FreeAdCopy uses GPT‑4 and 25+ years of copywriting expertise to generate ads, emails, social posts, and landing pages from brief prompts.

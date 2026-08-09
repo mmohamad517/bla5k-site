@@ -2,7 +2,7 @@
 name: Jeeves.Ai
 url: "https://jeeves.ai"
 image: /logos/jeeves-ai.png
-screenshot: /screens/jeeves-ai.jpg
+screenshot: /screens/jeeves-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Jeeves.Ai delivers GPT‑3/4 chat assistance and a library of editable business, legal, and marketing templates—including contracts, SEO and influencer...

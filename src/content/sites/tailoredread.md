@@ -2,7 +2,7 @@
 name: TailoredRead
 url: "https://tailoredread.com"
 image: /logos/tailoredread.png
-screenshot: /screens/tailoredread.jpg
+screenshot: /screens/tailoredread.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: TailoredRead generates personalized nonfiction books based on user-selected subjects and goals, streamlining learning by consolidating relevant information...

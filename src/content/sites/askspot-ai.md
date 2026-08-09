@@ -2,7 +2,7 @@
 name: AskSpot.ai
 url: "https://askspot.ai"
 image: /logos/askspot-ai.png
-screenshot: /screens/askspot-ai.jpg
+screenshot: /screens/askspot-ai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: AskSpot is an AI chatbot platform for marketing and web development agencies, enabling the creation, customization, and reselling of chatbots.

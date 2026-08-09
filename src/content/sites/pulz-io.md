@@ -2,7 +2,7 @@
 name: Pulz.io
 url: "https://pulz.io"
 image: /logos/pulz-io.png
-screenshot: /screens/pulz-io.jpg
+screenshot: /screens/pulz-io.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: Pulz.io is a AI-driven platform that boosts user engagement and conversion rates through personalized interactions, adaptive forms, and data-driven insights.

@@ -2,7 +2,7 @@
 name: Jasper Art
 url: "https://www.jasper.ai/image/pipelines"
 image: /logos/jasper-art.png
-screenshot: /screens/jasper-art.jpg
+screenshot: /screens/jasper-art.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Jasper AI is a powerful tool that can help you create high-quality images, and other content in just minutes with advanced AI capabilities.

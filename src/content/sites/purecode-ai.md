@@ -2,7 +2,7 @@
 name: PureCode AI
 url: "https://purecode.ai"
 image: /logos/purecode-ai.png
-screenshot: /screens/purecode-ai.jpg
+screenshot: /screens/purecode-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: PureCode AI assists enterprise teams in managing legacy codebases with features like automated refactoring, bug fixing, and UI generation.

@@ -2,7 +2,7 @@
 name: AI Thingy
 url: "https://aithingy.co"
 image: /logos/ai-thingy.png
-screenshot: /screens/ai-thingy.jpg
+screenshot: /screens/ai-thingy.webp
 subcategory: ai-writing
 pricing: paid
 tagline: AI Thingy is an AI‑driven content generator that creates ads, blogs, emails, and social posts in seconds, automatically inserting SEO keywords.

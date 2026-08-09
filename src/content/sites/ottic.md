@@ -2,7 +2,7 @@
 name: Ottic
 url: "https://ottic.ai"
 image: /logos/ottic.png
-screenshot: /screens/ottic.jpg
+screenshot: /screens/ottic.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Ottic automates junior HR roles with AI agents running in isolated Docker containers and scoped permissions.

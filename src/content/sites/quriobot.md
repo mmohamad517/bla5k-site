@@ -2,7 +2,7 @@
 name: Quriobot
 url: "https://quriobot.com"
 image: /logos/quriobot.png
-screenshot: /screens/quriobot.jpg
+screenshot: /screens/quriobot.webp
 subcategory: nc-builders
 pricing: free
 tagline: Quriobot is a no-code chatbot builder with drag-and-drop flow design, templates, conditional logic and form-based lead capture to automate FAQs, qualify...

@@ -2,7 +2,7 @@
 name: Nume
 url: "https://www.nume.ai/"
 image: /logos/nume.png
-screenshot: /screens/nume.jpg
+screenshot: /screens/nume.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Nume.AI is an AI-driven CFO tool designed for startup founders, providing real-time financial monitoring, insightful reports, and automated board updates.

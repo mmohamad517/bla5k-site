@@ -2,7 +2,7 @@
 name: wizart.ai
 url: "https://wizart.ai"
 image: /logos/wizart-ai.png
-screenshot: /screens/wizart-ai.jpg
+screenshot: /screens/wizart-ai.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Wizart provides AI-driven product visualization for manufacturers and retailers, generating photorealistic renders, interactive configurators, and SEO-ready...

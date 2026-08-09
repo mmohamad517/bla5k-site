@@ -2,7 +2,7 @@
 name: Narrato Workspace
 url: "https://www.typeface.ai:443/"
 image: /logos/narrato-workspace.png
-screenshot: /screens/narrato-workspace.jpg
+screenshot: /screens/narrato-workspace.webp
 subcategory: ai-writing
 pricing: free
 tagline: Narrato unifies content planning, creation, and publishing in one interface, auto‑generating briefs, outlines, copy, and SEO‑optimized text.

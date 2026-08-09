@@ -2,7 +2,7 @@
 name: Owlbot.ai
 url: "https://www.owlbot.ai/"
 image: /logos/owlbot-ai.png
-screenshot: /screens/owlbot-ai.jpg
+screenshot: /screens/owlbot-ai.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Owlbot is an AI chatbot platform that aggregates data from documents, markdown, webpages, and APIs, delivering instant multilingual answers in 95 languages.

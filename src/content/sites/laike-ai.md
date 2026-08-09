@@ -2,7 +2,7 @@
 name: Laike AI
 url: "https://laike.ai"
 image: /logos/laike-ai.png
-screenshot: /screens/laike-ai.jpg
+screenshot: /screens/laike-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Laike AI is a versatile creative suite for generating videos, images, and text.

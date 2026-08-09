@@ -2,7 +2,7 @@
 name: WebAssistants.ai
 url: "https://webassistants.ai/"
 image: /logos/webassistants-ai.png
-screenshot: /screens/webassistants-ai.jpg
+screenshot: /screens/webassistants-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Webassistants.ai offers customizable AI assistants that integrate easily into websites and applications.

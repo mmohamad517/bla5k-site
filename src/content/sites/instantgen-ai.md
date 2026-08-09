@@ -2,7 +2,7 @@
 name: Instantgen ai
 url: "https://instantgen.ai"
 image: /logos/instantgen-ai.png
-screenshot: /screens/instantgen-ai.jpg
+screenshot: /screens/instantgen-ai.webp
 subcategory: mkt-social
 pricing: free
 tagline: Instantgen AI offers AI‑powered generators for text and images across marketing channels.

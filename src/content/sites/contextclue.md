@@ -2,7 +2,7 @@
 name: ContextClue
 url: "https://context-clue.com/"
 image: /logos/contextclue.png
-screenshot: /screens/contextclue.jpg
+screenshot: /screens/contextclue.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: ContextClue transforms CAD, PDF, ERP and planning files into queryable knowledge graphs, enabling semantic search and automated generation of SOPs,...

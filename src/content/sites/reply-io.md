@@ -2,7 +2,7 @@
 name: Reply.io
 url: "https://reply.io/"
 image: /logos/reply-io.png
-screenshot: /screens/reply-io.jpg
+screenshot: /screens/reply-io.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Reply.io automates personalized cold email and LinkedIn outreach, using AI-driven customization and real‑time B2B contact data.

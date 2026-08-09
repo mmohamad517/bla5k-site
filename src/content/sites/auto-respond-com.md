@@ -2,7 +2,7 @@
 name: auto-respond.com
 url: "https://auto-respond.com"
 image: /logos/auto-respond-com.png
-screenshot: /screens/auto-respond-com.jpg
+screenshot: /screens/auto-respond-com.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Yelp Auto Responder is an AI voice agent that answers leads across Yelp, Thumbtack, Facebook and Google, instantly qualifying inquiries, generating quotes,...

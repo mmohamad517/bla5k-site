@@ -2,7 +2,7 @@
 name: mdhub
 url: "https://www.mdhub.ai"
 image: /logos/mdhub.png
-screenshot: /screens/mdhub.jpg
+screenshot: /screens/mdhub.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: mdhub automates behavioral health clinic operations—patient intake, provider matching, insurance eligibility, clinical documentation, claim submission,...

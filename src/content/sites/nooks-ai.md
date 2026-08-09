@@ -2,7 +2,7 @@
 name: Nooks ai
 url: "https://www.nooks.ai"
 image: /logos/nooks-ai.png
-screenshot: /screens/nooks-ai.jpg
+screenshot: /screens/nooks-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Nooks unifies AI sequencing, dialing, intent signals, and coaching in one outbound workspace.

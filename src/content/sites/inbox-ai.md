@@ -2,7 +2,7 @@
 name: Inbox AI
 url: "https://inbox-ai.app"
 image: /logos/inbox-ai.png
-screenshot: /screens/inbox-ai.jpg
+screenshot: /screens/inbox-ai.webp
 subcategory: nc-automation
 pricing: free
 tagline: Inbox AI is a voice-driven automation tool for macOS that streamlines email management and task processing.

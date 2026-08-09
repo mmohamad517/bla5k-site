@@ -2,7 +2,7 @@
 name: Teammates.ai
 url: "https://www.teammates.ai"
 image: /logos/teammates-ai.png
-screenshot: /screens/teammates-ai.jpg
+screenshot: /screens/teammates-ai.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Teammates.ai is a platform offering autonomous AI teammates that manage business functions with 24/7 human-like interactions in 50+ languages.

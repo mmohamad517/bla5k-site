@@ -2,7 +2,7 @@
 name: DEXTER
 url: https://github.com/virattt/dexter
 image: /logos/dexter.png
-screenshot: /screens/dexter.jpg
+screenshot: /screens/dexter.webp
 subcategory: fin-investing
 tagline: Autonomous AI agent for deep financial research and investment analysis with real-time data
 tags:

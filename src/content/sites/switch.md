@@ -2,7 +2,7 @@
 name: Switch
 url: "https://switchphone.ai"
 image: /logos/switch.png
-screenshot: /screens/switch.jpg
+screenshot: /screens/switch.webp
 subcategory: nc-automation
 pricing: freemium
 tagline: Switch is an AI-driven platform for phone and messaging workflows, offering web/mobile apps, APIs and integrations, account and access management,...

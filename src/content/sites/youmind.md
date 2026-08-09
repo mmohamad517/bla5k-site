@@ -2,7 +2,7 @@
 name: YouMind
 url: "https://youmind.com"
 image: /logos/youmind.png
-screenshot: /screens/youmind.jpg
+screenshot: /screens/youmind.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Youmind is an AI creation studio for personalized learning and idea management, allowing users to capture and organize inspiration from various formats,...

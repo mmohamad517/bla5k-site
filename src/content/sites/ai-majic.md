@@ -2,7 +2,7 @@
 name: AI Majic
 url: "https://aimajic.com/"
 image: /logos/ai-majic.png
-screenshot: /screens/ai-majic.jpg
+screenshot: /screens/ai-majic.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: aimajic.com offers a secure platform for purchasing domain names.

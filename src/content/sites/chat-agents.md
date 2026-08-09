@@ -2,7 +2,7 @@
 name: Chat Agents
 url: "https://www.chatagents.io"
 image: /logos/chat-agents.png
-screenshot: /screens/chat-agents.jpg
+screenshot: /screens/chat-agents.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Chatagents is a no-code AI chatbot builder that creates on-brand chatbots from your website, files and FAQs, delivering source-based answers, built-in...

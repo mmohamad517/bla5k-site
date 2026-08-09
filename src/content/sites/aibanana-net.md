@@ -2,7 +2,7 @@
 name: AIBanana.net
 url: "https://aibanana.net"
 image: /logos/aibanana-net.png
-screenshot: /screens/aibanana-net.jpg
+screenshot: /screens/aibanana-net.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: AIBanana.net is an AI image generator that creates and edits images from text descriptions in seconds.

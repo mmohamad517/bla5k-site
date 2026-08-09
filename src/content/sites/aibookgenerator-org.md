@@ -2,7 +2,7 @@
 name: AI Book Generator
 url: "https://www.aibookgenerator.org"
 image: /logos/aibookgenerator-org.png
-screenshot: /screens/aibookgenerator-org.jpg
+screenshot: /screens/aibookgenerator-org.webp
 subcategory: ai-writing
 pricing: paid
 tagline: AIBookGenerator.org is a powerful AI tool that helps users effortlessly generate unique book ideas by customizing titles, plots, genres, and tones.

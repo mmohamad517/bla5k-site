@@ -2,7 +2,7 @@
 name: LinkedIn Post Generator
 url: "https://www.postgenerator.app"
 image: /logos/linkedin-post-generator.png
-screenshot: /screens/linkedin-post-generator.jpg
+screenshot: /screens/linkedin-post-generator.webp
 subcategory: ai-writing
 pricing: free
 tagline: Generates list-format LinkedIn posts (books, companies, brands) using curated templates and styles from top creators, with customizable prompts,...

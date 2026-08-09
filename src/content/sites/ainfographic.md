@@ -2,7 +2,7 @@
 name: Ainfographic
 url: "https://ainfographic.com"
 image: /logos/ainfographic.png
-screenshot: /screens/ainfographic.jpg
+screenshot: /screens/ainfographic.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Ainfographic simplifies infographic creation by converting text into visual formats using AI.

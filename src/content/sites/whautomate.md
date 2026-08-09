@@ -2,7 +2,7 @@
 name: Whautomate
 url: "https://app.whautomate.com"
 image: /logos/whautomate.png
-screenshot: /screens/whautomate.jpg
+screenshot: /screens/whautomate.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: WHAutomate is a customer engagement platform that simplifies communication through personalized messages and targeted campaigns.

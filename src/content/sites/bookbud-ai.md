@@ -2,7 +2,7 @@
 name: BookBud.ai
 url: "https://www.bookbud.ai"
 image: /logos/bookbud-ai.png
-screenshot: /screens/bookbud-ai.jpg
+screenshot: /screens/bookbud-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: BookBud.ai lets self‑published authors generate, edit, and publish fiction and non‑fiction in ebook, print, and audiobook formats.

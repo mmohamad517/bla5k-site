@@ -2,7 +2,7 @@
 name: Miraga AI
 url: "https://www.vmiraga.com/"
 image: /logos/miraga-ai.png
-screenshot: /screens/miraga-ai.jpg
+screenshot: /screens/miraga-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Miraga AI is a realistic image and video generator that turns text prompts into photo-realistic visuals and short clips.

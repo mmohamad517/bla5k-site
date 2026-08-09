@@ -2,7 +2,7 @@
 name: Find Affiliates
 url: "https://www.findaffiliates.online/"
 image: /logos/find-affiliates.png
-screenshot: /screens/find-affiliates.jpg
+screenshot: /screens/find-affiliates.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Find Affiliates aggregates affiliate and referral programs across industries such as SaaS, e‑commerce, finance, marketing, and AI tools.

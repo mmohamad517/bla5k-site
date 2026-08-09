@@ -2,7 +2,7 @@
 name: Learn Copywriting
 url: "https://learncopywriting.com"
 image: /logos/learn-copywriting.png
-screenshot: /screens/learn-copywriting.jpg
+screenshot: /screens/learn-copywriting.webp
 subcategory: ai-writing
 pricing: free
 tagline: Learn Copywriting is an interactive platform for improving copywriting skills through daily writing tasks, real-time feedback, and a structured environment.

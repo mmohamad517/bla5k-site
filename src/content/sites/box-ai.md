@@ -2,7 +2,7 @@
 name: Box AI
 url: "https://www.box.com"
 image: /logos/box-ai.png
-screenshot: /screens/box-ai.jpg
+screenshot: /screens/box-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Box AI is a secure and compliant enterprise-grade AI tool that offers end-to-end data protection, collaboration features, workflow automation, and...

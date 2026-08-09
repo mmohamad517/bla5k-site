@@ -2,7 +2,7 @@
 name: ACME.BOT
 url: "https://acme.bot"
 image: /logos/acme-bot.png
-screenshot: /screens/acme-bot.jpg
+screenshot: /screens/acme-bot.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: ACME.BOT is an AI-powered tool for SEO content generation and diagram illustration that researches, writes, and auto-publishes articles.

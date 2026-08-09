@@ -2,7 +2,7 @@
 name: Coursology
 url: "https://coursology.io"
 image: /logos/coursology.png
-screenshot: /screens/coursology.jpg
+screenshot: /screens/coursology.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: AI Homework Helper delivers instant, subject‑specific aid across Economics, Language, Geometry, Literature, Math, General Chemistry, Physics, and History.

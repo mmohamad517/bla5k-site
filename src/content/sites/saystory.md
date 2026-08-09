@@ -2,7 +2,7 @@
 name: saystory
 url: "https://saystory.co"
 image: /logos/saystory.png
-screenshot: /screens/saystory.jpg
+screenshot: /screens/saystory.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Saystory turns voice notes into LinkedIn, Instagram, and Twitter posts, captions, scripts, and branded images using 100+ templates, a teleprompter, and...

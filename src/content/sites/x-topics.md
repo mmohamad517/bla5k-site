@@ -2,7 +2,7 @@
 name: X Topics
 url: "https://xtopics.co"
 image: /logos/x-topics.png
-screenshot: /screens/x-topics.jpg
+screenshot: /screens/x-topics.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Xtopics lets Threads creators discover trending topics via word clouds, analyze engagement and views, filter posts or replies, compare similar subjects, and...

@@ -2,7 +2,7 @@
 name: Onyx.app
 url: "https://onyx.app/"
 image: /logos/onyx-app.png
-screenshot: /screens/onyx-app.jpg
+screenshot: /screens/onyx-app.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Onyx.app is a conversational AI platform that combines chat-based search, configurable agents, and action orchestration for teams.

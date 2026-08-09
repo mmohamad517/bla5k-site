@@ -2,7 +2,7 @@
 name: Creatus
 url: "https://creatus.ai/"
 image: /logos/creatus.png
-screenshot: /screens/creatus.jpg
+screenshot: /screens/creatus.webp
 subcategory: ai-writing
 pricing: free
 tagline: CREATUS.AI provides an AI‑native workspace with 35+ models and 90 integrations for image editing, animation, music production, and more.

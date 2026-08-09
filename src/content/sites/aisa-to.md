@@ -2,7 +2,7 @@
 name: AISA.to
 url: "https://aisa.to"
 image: /logos/aisa-to.png
-screenshot: /screens/aisa-to.jpg
+screenshot: /screens/aisa-to.webp
 subcategory: learn-courses
 pricing: free
 tagline: AISA.to is an AI-powered skills assessment tool that delivers a personalized 20-minute evaluation, role-based persona classification, and a verifiable...

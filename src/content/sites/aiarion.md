@@ -2,7 +2,7 @@
 name: AIArion
 url: "https://aiarion.com"
 image: /logos/aiarion.png
-screenshot: /screens/aiarion.jpg
+screenshot: /screens/aiarion.webp
 subcategory: ai-chat
 pricing: free
 tagline: Aiarion offers a curated collection of AI prompts focused on personal development, career growth, and productivity, integrating the Ikigai framework for...

@@ -2,7 +2,7 @@
 name: EOSI Finance
 url: "https://eosifinance.org"
 image: /logos/eosi-finance.png
-screenshot: /screens/eosi-finance.jpg
+screenshot: /screens/eosi-finance.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: EOSI Finance is an AI-driven crypto platform facilitating automated trading and investment by users copying expert traders' strategies via Web3 wallets.

@@ -2,7 +2,7 @@
 name: Adaptiv Academy
 url: "https://app.adaptiv.me/app/home"
 image: /logos/adaptiv-academy.png
-screenshot: /screens/adaptiv-academy.jpg
+screenshot: /screens/adaptiv-academy.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Adaptiv Academy is an AI-powered tool that offers personalized online courses, track progress and earn rewards through adaptive learning, searchable...

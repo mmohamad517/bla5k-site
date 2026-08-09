@@ -2,7 +2,7 @@
 name: GPT-3 AI Avatar
 url: "https://overment.gumroad.com/l/avatar"
 image: /logos/gpt-3-ai-avatar.png
-screenshot: /screens/gpt-3-ai-avatar.jpg
+screenshot: /screens/gpt-3-ai-avatar.webp
 subcategory: ai-image
 pricing: free
 tagline: No‑code AI Avatar links AI with no‑code platforms, storing notes for contextual conversations, offering text‑to‑speech, short‑ and long‑term memory, and...

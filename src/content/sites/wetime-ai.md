@@ -2,7 +2,7 @@
 name: Wetime ai
 url: "https://www.wetime.ai"
 image: /logos/wetime-ai.png
-screenshot: /screens/wetime-ai.jpg
+screenshot: /screens/wetime-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Smart IPTV Solutions for Hotels utilize AI to analyze traveler data and preferences, offering personalized recommendations to enhance guest experiences.

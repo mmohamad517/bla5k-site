@@ -2,7 +2,7 @@
 name: WhatsApp Warmup Tool
 url: "https://warmer.wadesk.io/"
 image: /logos/whatsapp-warmup-tool.png
-screenshot: /screens/whatsapp-warmup-tool.jpg
+screenshot: /screens/whatsapp-warmup-tool.webp
 subcategory: nc-automation
 pricing: freemium
 tagline: WhatsApp Warmup Tool is an AI-powered platform that safeguards and scales bulk messaging operations.

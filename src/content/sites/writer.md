@@ -2,7 +2,7 @@
 name: Writer
 url: "https://writer.com/"
 image: /logos/writer.png
-screenshot: /screens/writer.jpg
+screenshot: /screens/writer.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: WRITER is an enterprise AI agent platform that builds, deploys, and governs agentic workflows using LLMs and a knowledge graph.

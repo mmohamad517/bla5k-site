@@ -2,7 +2,7 @@
 name: SuperWriter AI
 url: "https://www.superwriter.io"
 image: /logos/superwriter-ai.png
-screenshot: /screens/superwriter-ai.jpg
+screenshot: /screens/superwriter-ai.webp
 subcategory: ai-writing
 pricing: paid
 tagline: SuperWriter generates SEO-optimized blogs and articles using real-time web research across 120+ sources to surface current keywords and trends, producing...

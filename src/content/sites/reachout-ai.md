@@ -2,7 +2,7 @@
 name: Reachout.ai
 url: "https://reachout.ai/"
 image: /logos/reachout-ai.png
-screenshot: /screens/reachout-ai.jpg
+screenshot: /screens/reachout-ai.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: "Reachout.AI is a personalization platform for automated 1:1 video messaging that helps founders and sales teams break through inbox clutter and drive..."

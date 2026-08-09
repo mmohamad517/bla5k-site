@@ -2,7 +2,7 @@
 name: Decisions.com
 url: "https://decisions.com"
 image: /logos/decisions-com.png
-screenshot: /screens/decisions-com.jpg
+screenshot: /screens/decisions-com.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Decisions is a low‑code platform that unites a visual rules engine, workflow management, AI orchestration, and process mining.

@@ -2,7 +2,7 @@
 name: Coachchat
 url: "https://coachchat.me"
 image: /logos/coachchat.png
-screenshot: /screens/coachchat.jpg
+screenshot: /screens/coachchat.webp
 subcategory: learn-courses
 pricing: freemium
 tagline: Coachchat is a 24/7 AI voice tutor that monitors your screen in real time, providing spoken step‑by‑step guidance and instant visual feedback.

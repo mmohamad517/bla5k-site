@@ -2,7 +2,7 @@
 name: ChatWise
 url: "https://chatwise.app"
 image: /logos/chatwise.png
-screenshot: /screens/chatwise.jpg
+screenshot: /screens/chatwise.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Chatwise is a versatile AI chatbot that enhances productivity with multi-modal support for various LLMs, prioritizes user privacy by storing data locally,...

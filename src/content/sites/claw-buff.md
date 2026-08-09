@@ -2,7 +2,7 @@
 name: Claw Buff
 url: "https://clawbuff.com"
 image: /logos/claw-buff.png
-screenshot: /screens/claw-buff.jpg
+screenshot: /screens/claw-buff.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Claw Buff is a platform for deploying and managing OpenClaw AI agents with a ~30-second setup.

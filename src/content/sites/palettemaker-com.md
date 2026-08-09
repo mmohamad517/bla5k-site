@@ -2,7 +2,7 @@
 name: palettemaker.com
 url: "https://palettemaker.com"
 image: /logos/palettemaker-com.png
-screenshot: /screens/palettemaker-com.jpg
+screenshot: /screens/palettemaker-com.webp
 subcategory: design-graphics
 pricing: free
 tagline: Palettemaker is an AI‑powered color palette generator that lets designers and non‑designers create, tweak, and preview color schemes in real‑world design...

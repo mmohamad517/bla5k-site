@@ -2,7 +2,7 @@
 name: ZeroGPT.CC
 url: "https://zerogpt.cc/"
 image: /logos/zerogpt-cc.png
-screenshot: /screens/zerogpt-cc.jpg
+screenshot: /screens/zerogpt-cc.webp
 subcategory: ai-productivity
 pricing: free
 tagline: ZeroGPT detects AI‑generated text from models such as GPT‑4, LLaMA, Claude, and Jasper.

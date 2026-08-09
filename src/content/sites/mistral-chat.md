@@ -2,7 +2,7 @@
 name: Le Chat - Mistral
 url: "https://chat.mistral.ai/chat"
 image: /logos/mistral-chat.png
-screenshot: /screens/mistral-chat.jpg
+screenshot: /screens/mistral-chat.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Le Chat is an AI assistant that simplifies tasks from everyday questions to complex projects.

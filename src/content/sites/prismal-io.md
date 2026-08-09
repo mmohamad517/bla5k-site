@@ -2,7 +2,7 @@
 name: Prismal.io
 url: "https://www.prismal.io"
 image: /logos/prismal-io.png
-screenshot: /screens/prismal-io.jpg
+screenshot: /screens/prismal-io.webp
 subcategory: design-3d
 pricing: freemium
 tagline: PRISMAL creates immersive Web3 and tech brand experiences — 3D websites, spatial environments, Webflow development, Unity/Spatial.io integrations and GSAP...

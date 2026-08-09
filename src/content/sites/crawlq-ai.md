@@ -2,7 +2,7 @@
 name: CrawlQ.ai
 url: "https://crawlq.ai/?_get=topaitools"
 image: /logos/crawlq-ai.png
-screenshot: /screens/crawlq-ai.jpg
+screenshot: /screens/crawlq-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: CrawlQ AI consolidates documents, media, and metadata into a single auditable source, enabling two‑way retrieval‑augmented generation across multiple LLMs.

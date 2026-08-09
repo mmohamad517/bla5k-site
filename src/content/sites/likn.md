@@ -2,7 +2,7 @@
 name: LIKN
 url: "https://www.likn.co/en/"
 image: /logos/likn.png
-screenshot: /screens/likn.jpg
+screenshot: /screens/likn.webp
 subcategory: ai-writing
 pricing: free
 tagline: Likn is a cutting-edge AI tool that seamlessly connects web2 to web3, simplifying NFT minting from any content URL.

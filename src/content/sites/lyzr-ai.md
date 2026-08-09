@@ -2,7 +2,7 @@
 name: Lyzr AI
 url: "https://www.lyzr.ai/"
 image: /logos/lyzr-ai.png
-screenshot: /screens/lyzr-ai.jpg
+screenshot: /screens/lyzr-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Lyzr is an AI agent platform for rapid deployment of agents in banking, insurance, HR, marketing, sales, and support.

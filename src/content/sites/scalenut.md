@@ -2,7 +2,7 @@
 name: Scalenut
 url: "https://www.scalenut.com/?fpr=topaitools"
 image: /logos/scalenut.png
-screenshot: /screens/scalenut.jpg
+screenshot: /screens/scalenut.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Scalenut AI Copywriter generates ad copy, social media posts, and articles by integrating keyword research, SERP analysis, and content planning.

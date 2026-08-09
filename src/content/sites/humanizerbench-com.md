@@ -2,7 +2,7 @@
 name: HumanizerBench
 url: "https://humanizerbench.com/"
 image: /logos/humanizerbench-com.png
-screenshot: /screens/humanizerbench-com.jpg
+screenshot: /screens/humanizerbench-com.webp
 subcategory: ai-productivity
 pricing: free
 tagline: HumanizerBench is a public benchmark and leaderboard that evaluates AI text humanizers on detector bypass rate, meaning preservation, and readability.

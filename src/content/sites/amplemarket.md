@@ -2,7 +2,7 @@
 name: Amplemarket
 url: "https://amplemarket.com"
 image: /logos/amplemarket.png
-screenshot: /screens/amplemarket.jpg
+screenshot: /screens/amplemarket.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Amplemarket uses AI to generate high‑quality leads, analyze intent signals and competitive data, and create personalized multichannel outreach.

@@ -2,7 +2,7 @@
 name: ActiveCampaign AI
 url: "https://www.activecampaign.com/platform/artificial-intelligence"
 image: /logos/activecampaign-ai.png
-screenshot: /screens/activecampaign-ai.jpg
+screenshot: /screens/activecampaign-ai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: ActiveCampaign AI is a powerful integrated platform that enhances marketing campaigns through intelligent customer segmentation, optimized scheduling, and...

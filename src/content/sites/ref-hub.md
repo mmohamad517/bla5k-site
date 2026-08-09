@@ -2,7 +2,7 @@
 name: Ref hub
 url: "https://www.refhub.com.au"
 image: /logos/ref-hub.png
-screenshot: /screens/ref-hub.jpg
+screenshot: /screens/ref-hub.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: RefHub automates reference requests, reminders, and fraud detection while AI templates and grading build assessments.

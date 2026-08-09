@@ -2,7 +2,7 @@
 name: CoPaw
 url: "https://copaw.agentscope.io/"
 image: /logos/copaw-bot.png
-screenshot: /screens/copaw-bot.jpg
+screenshot: /screens/copaw-bot.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: CoPaw is an open-source, modular AI agent workstation (Agentscope) for local or cloud deployment, unifying model layers, plugins and long-term memory.

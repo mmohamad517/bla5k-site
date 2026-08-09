@@ -2,7 +2,7 @@
 name: Peony
 url: "https://www.peony.ink/"
 image: /logos/peony-ink.png
-screenshot: /screens/peony-ink.jpg
+screenshot: /screens/peony-ink.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Peony.ink is a virtual data room with AI Q&A, auto-indexing, and smart search, enabling instant answers from uploaded documents.

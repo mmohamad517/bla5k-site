@@ -2,7 +2,7 @@
 name: Layla
 url: "https://www.layla-network.ai/"
 image: /logos/layla.png
-screenshot: /screens/layla.jpg
+screenshot: /screens/layla.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Introducing Layla, the world's first private AI assistant that resides directly on your phone.

@@ -2,7 +2,7 @@
 name: Chat2Code
 url: "https://chat2code.dev"
 image: /logos/chat2code.png
-screenshot: /screens/chat2code.jpg
+screenshot: /screens/chat2code.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Chat2Code converts natural‑language prompts into ready‑to‑use Vue, React, or React‑TS web components, auto‑installing libraries such as Zustand or usehooks‑ts.

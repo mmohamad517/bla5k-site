@@ -2,7 +2,7 @@
 name: Legal Intern AI
 url: "https://legalinternai.com"
 image: /logos/legal-intern-ai.png
-screenshot: /screens/legal-intern-ai.jpg
+screenshot: /screens/legal-intern-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Legal Intern AI automates legal documentation by converting audio input into accurate legal documents, enhancing productivity while minimizing human error.

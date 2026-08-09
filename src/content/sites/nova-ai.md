@@ -2,7 +2,7 @@
 name: Nova AI
 url: "https://novaapp.ai/"
 image: /logos/nova-ai.png
-screenshot: /screens/nova-ai.jpg
+screenshot: /screens/nova-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Nova is an all-in-one AI chatbot built on multiple models, offering versatile support for tasks like answering questions, assisting with homework,...

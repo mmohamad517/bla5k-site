@@ -2,7 +2,7 @@
 name: imagetovideoaifree.com
 url: "https://imagetovideoaifree.com"
 image: /logos/imagetovideoaifree-com.png
-screenshot: /screens/imagetovideoaifree-com.jpg
+screenshot: /screens/imagetovideoaifree-com.webp
 subcategory: ai-image
 pricing: freemium
 tagline: imagetovideoaifree.com is a free AI tool that converts static photos into short animated clips by defining camera motion and style.

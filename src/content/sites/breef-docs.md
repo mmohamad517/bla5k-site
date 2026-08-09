@@ -2,7 +2,7 @@
 name: Breef Docs
 url: "https://breefdocs.com"
 image: /logos/breef-docs.png
-screenshot: /screens/breef-docs.jpg
+screenshot: /screens/breef-docs.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Breef Docs is an AI-powered knowledge base that enhances team collaboration by enabling secure document creation, management, and sharing.

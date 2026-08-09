@@ -2,7 +2,7 @@
 name: Looti
 url: "https://www.looti.io/"
 image: /logos/looti.png
-screenshot: /screens/looti.jpg
+screenshot: /screens/looti.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Looti AI is a B2B growth tool that offers features such as AI-generated leads, task management, team collaboration, audience discovery, and advanced...

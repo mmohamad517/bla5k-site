@@ -2,7 +2,7 @@
 name: Chainrel
 url: "https://chainrel.com"
 image: /logos/chainrel.png
-screenshot: /screens/chainrel.jpg
+screenshot: /screens/chainrel.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Chainrel delivers real‑time blockchain event alerts to backend services via webhooks, Slack, and Discord, supporting major EVM chains.

@@ -2,7 +2,7 @@
 name: ChatOne
 url: "https://chatone.io/"
 image: /logos/chatone.png
-screenshot: /screens/chatone.jpg
+screenshot: /screens/chatone.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: ChatOne is a multimodal AI chatbot platform that allows users to compare responses from multiple AI models, including ChatGPT and Claude, all in real time,...

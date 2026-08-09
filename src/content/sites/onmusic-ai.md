@@ -2,7 +2,7 @@
 name: OnMusic AI
 url: "https://onmusic.ai/"
 image: /logos/onmusic-ai.png
-screenshot: /screens/onmusic-ai.jpg
+screenshot: /screens/onmusic-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: OnMusic AI is a browser-based AI music generator that creates full songs with vocals, melodies, and instrumentals from mood, genre, lyrics, or short prompts.

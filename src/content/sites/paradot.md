@@ -2,7 +2,7 @@
 name: Paradot
 url: "https://www.paradot.ai"
 image: /logos/paradot.png
-screenshot: /screens/paradot.jpg
+screenshot: /screens/paradot.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Paradot is a conversational AI for text and voice chat that provides on-demand question answering, drafting and task assistance, preserves conversational...

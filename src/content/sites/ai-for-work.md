@@ -2,7 +2,7 @@
 name: Ai for Work
 url: "https://www.aiforwork.co"
 image: /logos/ai-for-work.png
-screenshot: /screens/ai-for-work.jpg
+screenshot: /screens/ai-for-work.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: AI for Work offers a library of 2,000+ ChatGPT prompts organized by department, allowing professionals to quickly find role‑specific prompts and create...

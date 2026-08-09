@@ -2,7 +2,7 @@
 name: Pinku.ai
 url: "https://pinku.ai"
 image: /logos/pinku-ai.png
-screenshot: /screens/pinku-ai.jpg
+screenshot: /screens/pinku-ai.webp
 subcategory: ai-image
 pricing: paid
 tagline: Pinku.ai is an AI character image generator specializing in consistent anime, cartoon, and gaming avatars.

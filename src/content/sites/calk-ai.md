@@ -2,7 +2,7 @@
 name: Calk AI
 url: "https://www.calk-ai.com/"
 image: /logos/calk-ai.png
-screenshot: /screens/calk-ai.jpg
+screenshot: /screens/calk-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Calk AI is a customizable AI assistant platform designed to boost business productivity by integrating data across tools like Notion, HubSpot, and Google Drive.

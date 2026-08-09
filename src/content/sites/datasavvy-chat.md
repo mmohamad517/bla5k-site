@@ -2,7 +2,7 @@
 name: DataSavvy.Chat
 url: "https://datasavvy.chat"
 image: /logos/datasavvy-chat.png
-screenshot: /screens/datasavvy-chat.jpg
+screenshot: /screens/datasavvy-chat.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: DataSavvy.chat lets businesses create AI chat assistants without coding, training on FAQs, PDFs, catalogs, and web content.

@@ -2,7 +2,7 @@
 name: Bahama
 url: "https://www.bahama.ai/"
 image: /logos/bahama.png
-screenshot: /screens/bahama.jpg
+screenshot: /screens/bahama.webp
 subcategory: fin-fintech
 pricing: free
 tagline: Bahama.ai helps businesses integrate customized AI solutions to automate repetitive tasks like data entry and report generation.

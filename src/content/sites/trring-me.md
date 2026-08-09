@@ -2,7 +2,7 @@
 name: Trring Me
 url: "https://trringme.com"
 image: /logos/trring-me.png
-screenshot: /screens/trring-me.jpg
+screenshot: /screens/trring-me.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: WhatsApp Business Solution is an omnichannel platform that enhances customer engagement with customizable chatbots, bulk messaging, a shared inbox, and live...

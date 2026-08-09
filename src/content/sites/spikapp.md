@@ -2,7 +2,7 @@
 name: SpikApp
 url: "https://spikapp.com"
 image: /logos/spikapp.png
-screenshot: /screens/spikapp.jpg
+screenshot: /screens/spikapp.webp
 subcategory: learn-courses
 pricing: freemium
 tagline: SpikApp is an AI communication coach offering real-time vocal and body-language analysis (pace, tone, fillers, eye contact, expressions, posture), recorded...

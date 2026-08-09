@@ -2,7 +2,7 @@
 name: SpreeAI
 url: "https://spreeai.com/"
 image: /logos/spreeai.png
-screenshot: /screens/spreeai.jpg
+screenshot: /screens/spreeai.webp
 subcategory: design-3d
 pricing: freemium
 tagline: SpreeAI is an AI-powered tool that offers photorealistic virtual try-ons for fashion e-commerce, enhancing customer engagement and decision-making while...

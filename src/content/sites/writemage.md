@@ -2,7 +2,7 @@
 name: WriteMage
 url: "https://writemage.com/"
 image: /logos/writemage.png
-screenshot: /screens/writemage.jpg
+screenshot: /screens/writemage.webp
 subcategory: ai-writing
 pricing: paid
 tagline: WriteMage overlays ChatGPT across macOS/iOS apps, preserving session memory and local labeled chat history.

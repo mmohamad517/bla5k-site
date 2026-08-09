@@ -2,7 +2,7 @@
 name: SEO45™ AI
 url: "https://seo45.com"
 image: /logos/seo45tm-ai.png
-screenshot: /screens/seo45tm-ai.jpg
+screenshot: /screens/seo45tm-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: AI Blog Management streamlines content creation and publishing by automating the workflow for generating optimized articles.

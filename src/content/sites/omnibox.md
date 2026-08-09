@@ -2,7 +2,7 @@
 name: OmniBox
 url: "https://www.omnibox.pro"
 image: /logos/omnibox.png
-screenshot: /screens/omnibox.jpg
+screenshot: /screens/omnibox.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: OmniBox is an AI knowledge companion that streamlines content collection by saving web pages and documents with a single click.

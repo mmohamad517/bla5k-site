@@ -2,7 +2,7 @@
 name: Extrapolate
 url: "https://extrapolate.app/"
 image: /logos/extrapolate.png
-screenshot: /screens/extrapolate.jpg
+screenshot: /screens/extrapolate.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Upload a photo to view AI‑generated aging projections at 10, 20, and 90 years, browse a gallery of 377.9 k reference images, manage privacy, and follow...

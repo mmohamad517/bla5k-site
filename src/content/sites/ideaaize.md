@@ -2,7 +2,7 @@
 name: IdeaAize
 url: "https://dealify.com/products/ideaaize?deal=topaitools#erid41833846"
 image: /logos/ideaaize.png
-screenshot: /screens/ideaaize.jpg
+screenshot: /screens/ideaaize.webp
 subcategory: ai-chat
 pricing: paid
 tagline: IdeaAize unifies content, image, code, chatbot, voice, and transcription tools on one dashboard.

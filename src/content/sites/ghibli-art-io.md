@@ -2,7 +2,7 @@
 name: Ghibli-art.io
 url: "http://ghibli-art.io/"
 image: /logos/ghibli-art-io.png
-screenshot: /screens/ghibli-art-io.jpg
+screenshot: /screens/ghibli-art-io.webp
 subcategory: ai-image
 pricing: freemium
 tagline: ghibli-art.io is an AI tool that transforms photos into Ghibli-inspired, painterly anime art with cinematic lighting and soft palettes.

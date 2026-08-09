@@ -2,7 +2,7 @@
 name: Token Radar
 url: "https://tokenradar.ai"
 image: /logos/token-radar.png
-screenshot: /screens/token-radar.jpg
+screenshot: /screens/token-radar.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Token Radar is a crypto analytics platform that enables investors to identify top-performing tokens and market trends through a real-time dashboard, social...

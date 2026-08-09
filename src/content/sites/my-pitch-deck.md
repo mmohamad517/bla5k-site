@@ -2,7 +2,7 @@
 name: My Pitch Deck
 url: "https://mypitchdeck.com/"
 image: /logos/my-pitch-deck.png
-screenshot: /screens/my-pitch-deck.jpg
+screenshot: /screens/my-pitch-deck.webp
 subcategory: fin-fintech
 pricing: paid
 tagline: MY PITCH DECK uses GPT‑4 to generate a custom, editable pitch deck outline in minutes.

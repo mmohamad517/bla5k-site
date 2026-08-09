@@ -2,7 +2,7 @@
 name: ImageToVideos.ai
 url: "https://image-to-video.ai"
 image: /logos/imagetovideos-ai.png
-screenshot: /screens/imagetovideos-ai.jpg
+screenshot: /screens/imagetovideos-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: ImageToVideo.ai is a browser-based AI tool that converts static images into short, animated videos.

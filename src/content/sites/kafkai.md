@@ -2,7 +2,7 @@
 name: Kafkai
 url: "https://kafkai.com/en/?via=topaitools"
 image: /logos/kafkai.png
-screenshot: /screens/kafkai.jpg
+screenshot: /screens/kafkai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Kafkai is an AI content generation tool that creates unique and SEO-friendly articles, saving time on research and allowing users to focus on editing and...

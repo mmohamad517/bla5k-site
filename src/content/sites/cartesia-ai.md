@@ -2,7 +2,7 @@
 name: cartesia.ai
 url: "https://cartesia.ai/sonic"
 image: /logos/cartesia-ai.png
-screenshot: /screens/cartesia-ai.jpg
+screenshot: /screens/cartesia-ai.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Cartesia.ai is a multimodal intelligence platform that enables real-time, on-device inference with a focus on privacy and dynamic learning.

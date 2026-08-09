@@ -2,7 +2,7 @@
 name: Notation
 url: "https://notation.so"
 image: /logos/notation.png
-screenshot: /screens/notation.jpg
+screenshot: /screens/notation.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Notation is a CLI that pushes Markdown from a repo to a Notion page or static site.

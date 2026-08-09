@@ -2,7 +2,7 @@
 name: Evov.ai
 url: "https://evov.ai"
 image: /logos/evov-ai.png
-screenshot: /screens/evov-ai.jpg
+screenshot: /screens/evov-ai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: EVOV AI generates personalized marketing plans and multi‑modal content for brands, influencers, and solopreneurs.

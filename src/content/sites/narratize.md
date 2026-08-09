@@ -2,7 +2,7 @@
 name: Narratize
 url: "https://www.narratize.com"
 image: /logos/narratize.png
-screenshot: /screens/narratize.jpg
+screenshot: /screens/narratize.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Narratize consolidates product knowledge into searchable hubs, auto‑generating and updating technical and regulatory documents.

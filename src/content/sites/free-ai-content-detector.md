@@ -2,7 +2,7 @@
 name: AI Content Detector - Leap
 url: "https://www.tryleap.ai/tools/ai-content-detector"
 image: /logos/free-ai-content-detector.png
-screenshot: /screens/free-ai-content-detector.jpg
+screenshot: /screens/free-ai-content-detector.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: AI Content Detector analyzes text to determine whether a human or AI wrote it.

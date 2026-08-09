@@ -2,7 +2,7 @@
 name: Ideator AI
 url: "https://www.ideator.design/"
 image: /logos/ideator-ai.png
-screenshot: /screens/ideator-ai.jpg
+screenshot: /screens/ideator-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Ideator AI is an innovative tool for designers and innovators, featuring iterative functionality to generate interactive variations while preserving the...

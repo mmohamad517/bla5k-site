@@ -2,7 +2,7 @@
 name: AIPal
 url: "https://www.atom.com/name/Aipal.io"
 image: /logos/aipal.png
-screenshot: /screens/aipal.jpg
+screenshot: /screens/aipal.webp
 subcategory: ai-chat
 pricing: free
 tagline: Chat, write, reply, translate, and more on any webpage, powered by cutting-edge AI models such as GPT-4, Claude 3, and Gemini.

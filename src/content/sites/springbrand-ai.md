@@ -2,7 +2,7 @@
 name: Springbrand AI
 url: "https://springbrand.ai/"
 image: /logos/springbrand-ai.png
-screenshot: /screens/springbrand-ai.jpg
+screenshot: /screens/springbrand-ai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Springbrand AI is a service marketplace that matches buyers with vetted providers for SEO, e-commerce, and content work.

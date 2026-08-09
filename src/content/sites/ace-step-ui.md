@@ -2,7 +2,7 @@
 name: ACE-Step UI
 url: https://github.com/fspecii/ace-step-ui
 image: /logos/ace-step-ui.png
-screenshot: /screens/ace-step-ui.jpg
+screenshot: /screens/ace-step-ui.webp
 subcategory: ai-video-audio
 tagline: A free, open-source Suno alternative — generate full songs locally on your own GPU with a polished interface
 tags:

@@ -2,7 +2,7 @@
 name: Liars.AI
 url: "https://liars.ai"
 image: /logos/liars-ai.png
-screenshot: /screens/liars-ai.jpg
+screenshot: /screens/liars-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Liars.ai analyzes uploaded videos to detect potential deception by evaluating facial expressions, body language, and vocal tones.

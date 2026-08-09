@@ -2,7 +2,7 @@
 name: Babble
 url: "https://babble-ai.com/"
 image: /logos/babble.png
-screenshot: /screens/babble.jpg
+screenshot: /screens/babble.webp
 subcategory: nc-builders
 pricing: paid
 tagline: Babble AI offers a no‑code chatbot builder that trains on text documents, supports multi‑language interactions, and integrates with CRMs.

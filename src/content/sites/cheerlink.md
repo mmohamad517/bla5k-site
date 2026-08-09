@@ -2,7 +2,7 @@
 name: Cheerlink
 url: "https://www.cheerlink.app/"
 image: /logos/cheerlink.png
-screenshot: /screens/cheerlink.jpg
+screenshot: /screens/cheerlink.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Cheerlink unifies product research, market analysis, social media automation, email marketing, and ad management for e‑commerce.

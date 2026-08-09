@@ -2,7 +2,7 @@
 name: AI Art Create
 url: "https://aiartcreate.com/"
 image: /logos/aiartcreate-com.png
-screenshot: /screens/aiartcreate-com.jpg
+screenshot: /screens/aiartcreate-com.webp
 subcategory: ai-image
 pricing: freemium
 tagline: aiartcreate.com is a multi-model AI generator that unifies Seedance, Kling AI, VEO 3, and more under one prompt interface and credit balance.

@@ -2,7 +2,7 @@
 name: Describa
 url: "https://describa.ai"
 image: /logos/describa.png
-screenshot: /screens/describa.jpg
+screenshot: /screens/describa.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Describa converts product images into SEO‑optimized descriptions in seconds, adding keyword targeting, benefit statements, and sales triggers.

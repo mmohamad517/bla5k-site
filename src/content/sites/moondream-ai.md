@@ -2,7 +2,7 @@
 name: Moondream
 url: "https://moondream.ai"
 image: /logos/moondream-ai.png
-screenshot: /screens/moondream-ai.jpg
+screenshot: /screens/moondream-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Moondream provides vision AI for real-time image and video analysis—object detection, counting, scene reasoning—plus automatic media tagging and metadata...

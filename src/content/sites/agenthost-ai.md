@@ -2,7 +2,7 @@
 name: Agenthost.ai
 url: "https://www.agenthost.ai"
 image: /logos/agenthost-ai.png
-screenshot: /screens/agenthost-ai.jpg
+screenshot: /screens/agenthost-ai.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Agenthost lets users build AI agents for customer support, sales, marketing, and education without coding.

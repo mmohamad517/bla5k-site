@@ -2,7 +2,7 @@
 name: hiroscope.ai
 url: "https://hiroscope.ai"
 image: /logos/hiroscope-ai.png
-screenshot: /screens/hiroscope-ai.jpg
+screenshot: /screens/hiroscope-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Hioscope.ai automates video interview screening, parsing job keywords, matching resumes, and scoring skills and personality.

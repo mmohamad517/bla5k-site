@@ -2,7 +2,7 @@
 name: Brick'd
 url: "https://reezavatar.shop/"
 image: /logos/brick-d.png
-screenshot: /screens/brick-d.jpg
+screenshot: /screens/brick-d.webp
 subcategory: ai-image
 pricing: paid
 tagline: ReezAvatar turns any photo into a LEGO‑style mini‑figurine using GPT‑4o.

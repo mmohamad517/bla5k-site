@@ -2,7 +2,7 @@
 name: SurfSense
 url: "https://www.surfsense.com/"
 image: /logos/surfsense.png
-screenshot: /screens/surfsense.jpg
+screenshot: /screens/surfsense.webp
 subcategory: ai-productivity
 pricing: free
 tagline: SurfSense is an open-source team collaboration tool built as an alternative to NotebookLM, connecting LLMs to internal knowledge sources for real-time chat,...

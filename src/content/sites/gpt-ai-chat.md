@@ -2,7 +2,7 @@
 name: GPT AI Chat
 url: "https://gptaichat.org"
 image: /logos/gpt-ai-chat.png
-screenshot: /screens/gpt-ai-chat.jpg
+screenshot: /screens/gpt-ai-chat.webp
 subcategory: ai-chat
 pricing: free
 tagline: GPT AI Chat enables unlimited AI-powered conversations, utilizing advanced ChatGPT technology.

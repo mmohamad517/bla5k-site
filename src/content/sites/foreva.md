@@ -2,7 +2,7 @@
 name: ForEva
 url: "https://foreva.ai/"
 image: /logos/foreva.png
-screenshot: /screens/foreva.jpg
+screenshot: /screens/foreva.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: For Eva is an AI-powered voice ordering and call management tool for restaurants, automating phone orders, reservations, and inquiries 24/7.

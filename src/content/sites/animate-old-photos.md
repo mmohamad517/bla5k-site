@@ -2,7 +2,7 @@
 name: Animate old photos
 url: "https://animateoldphotos.org"
 image: /logos/animate-old-photos.png
-screenshot: /screens/animate-old-photos.jpg
+screenshot: /screens/animate-old-photos.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Animate Old Photos is an online tool that transforms static images into animated videos using AI.

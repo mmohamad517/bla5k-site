@@ -2,7 +2,7 @@
 name: Gpt4sales
 url: "https://www.gpt4sales.ai"
 image: /logos/gpt4sales.png
-screenshot: /screens/gpt4sales.jpg
+screenshot: /screens/gpt4sales.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: GPT4Sales is an AI sales assistant that plugs directly into WhatsApp and Instagram, automating multi‑media messaging without code.

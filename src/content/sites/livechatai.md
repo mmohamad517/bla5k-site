@@ -2,7 +2,7 @@
 name: LiveChatAI
 url: "https://livechatai.com"
 image: /logos/livechatai.png
-screenshot: /screens/livechatai.jpg
+screenshot: /screens/livechatai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: LiveChatAI uses GPT‑4o to transform a knowledge base into a chatbot that auto‑resolves ~70 % of tickets.

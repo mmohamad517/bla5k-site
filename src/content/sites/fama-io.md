@@ -2,7 +2,7 @@
 name: fama.io
 url: "https://fama.io"
 image: /logos/fama-io.png
-screenshot: /screens/fama-io.jpg
+screenshot: /screens/fama-io.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Fama analyzes public digital footprints across thousands of sources to surface professional attributes, detect misconduct indicators (fraud, harassment,...

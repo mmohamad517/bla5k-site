@@ -2,7 +2,7 @@
 name: RapidNative
 url: "https://www.rapidnative.com"
 image: /logos/rapidnative.png
-screenshot: /screens/rapidnative.jpg
+screenshot: /screens/rapidnative.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Rapidnative is an AI-driven code generator for mobile apps using React Native and Expo.

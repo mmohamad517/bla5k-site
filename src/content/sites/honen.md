@@ -2,7 +2,7 @@
 name: Honen
 url: "https://honen.com/"
 image: /logos/honen.png
-screenshot: /screens/honen.jpg
+screenshot: /screens/honen.webp
 subcategory: ai-image
 pricing: free
 tagline: Honen is an AI-powered course authoring and LMS platform that transforms documents, videos, and images into full training courses with auto-generated...

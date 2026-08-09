@@ -2,7 +2,7 @@
 name: Joinery
 url: "https://www.teamjoinery.com"
 image: /logos/joinery.png
-screenshot: /screens/joinery.jpg
+screenshot: /screens/joinery.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Joinery is an AI recruitment tool that streamlines hiring with candidate summary cards, bias-free scoring, automated resume parsing, and anonymized...

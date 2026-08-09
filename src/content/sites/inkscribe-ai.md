@@ -2,7 +2,7 @@
 name: Inkscribe AI
 url: "https://inkscribe.ai"
 image: /logos/inkscribe-ai.png
-screenshot: /screens/inkscribe-ai.jpg
+screenshot: /screens/inkscribe-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Inkscribe AI is an advanced document management tool utilizing OCR to digitize and edit handwritten and complex text documents with high accuracy.

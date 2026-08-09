@@ -2,7 +2,7 @@
 name: Promo.ai
 url: "https://promo.ai"
 image: /logos/promo-ai.png
-screenshot: /screens/promo-ai.jpg
+screenshot: /screens/promo-ai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Promo helps you quickly create and send personalized newsletters using your latest content.

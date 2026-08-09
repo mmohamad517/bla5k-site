@@ -2,7 +2,7 @@
 name: Celebrity Agent
 url: "https://pro.celebrityagent.com"
 image: /logos/pro-celebrityagent-com.png
-screenshot: /screens/pro-celebrityagent-com.jpg
+screenshot: /screens/pro-celebrityagent-com.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Celebrity Agent uses predictive analytics and MLS, title, and CRM data to surface high‑intent seller and off‑market leads, automate event‑triggered...

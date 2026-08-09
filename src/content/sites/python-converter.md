@@ -2,7 +2,7 @@
 name: Python Converter
 url: "https://pythonconvert.com"
 image: /logos/python-converter.png
-screenshot: /screens/python-converter.jpg
+screenshot: /screens/python-converter.webp
 subcategory: ai-chat
 pricing: free
 tagline: Python Converter is an online tool that efficiently translates code between Python and various programming languages, while also handling Python type...

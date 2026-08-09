@@ -2,7 +2,7 @@
 name: ChatGPT for WhatsApp
 url: "https://aoq.me"
 image: /logos/chatgpt-for-whatsapp.png
-screenshot: /screens/chatgpt-for-whatsapp.jpg
+screenshot: /screens/chatgpt-for-whatsapp.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Agent for WhatsApp is a Chrome extension that adds AI‑powered conversation management to WhatsApp Web.

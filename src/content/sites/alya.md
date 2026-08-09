@@ -2,7 +2,7 @@
 name: Alya
 url: "https://alyatherapist.xyz"
 image: /logos/alya.png
-screenshot: /screens/alya.jpg
+screenshot: /screens/alya.webp
 subcategory: learn-courses
 pricing: freemium
 tagline: Alya is an AI-powered therapy chat application that offers personalized mental health support in 22 languages.

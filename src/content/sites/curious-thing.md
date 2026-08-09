@@ -2,7 +2,7 @@
 name: Curious thing
 url: "https://curiousthing.io"
 image: /logos/curious-thing.png
-screenshot: /screens/curious-thing.jpg
+screenshot: /screens/curious-thing.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Curious Thing AI offers customizable voice assistants Lucy and Sam for businesses.

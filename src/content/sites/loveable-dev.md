@@ -2,7 +2,7 @@
 name: Loveable.dev
 url: "https://lovable.dev/"
 image: /logos/loveable-dev.png
-screenshot: /screens/loveable-dev.jpg
+screenshot: /screens/loveable-dev.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Lovable is an AI-powered tool that transforms ideas into functional applications without coding, acting as a superhuman full-stack engineer.

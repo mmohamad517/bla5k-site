@@ -2,7 +2,7 @@
 name: Aleah
 url: "https://aleahai.com/"
 image: /logos/aleah.png
-screenshot: /screens/aleah.jpg
+screenshot: /screens/aleah.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Aleah AI is an advanced language-agnostic content creation tool powered by AI.

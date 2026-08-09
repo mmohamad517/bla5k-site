@@ -2,7 +2,7 @@
 name: Polymet
 url: "https://polymet.ai"
 image: /logos/polymet.png
-screenshot: /screens/polymet.jpg
+screenshot: /screens/polymet.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Polymet is an AI-driven design tool for quick idea prototyping and product design.

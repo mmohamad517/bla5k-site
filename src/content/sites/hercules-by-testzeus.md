@@ -2,7 +2,7 @@
 name: Hercules by TestZeus
 url: "https://testzeus.com/hercules"
 image: /logos/hercules-by-testzeus.png
-screenshot: /screens/hercules-by-testzeus.jpg
+screenshot: /screens/hercules-by-testzeus.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: TestZeus is an open‑source autonomous testing agent that runs Gherkin tests without coding.

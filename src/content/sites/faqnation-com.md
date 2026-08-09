@@ -2,7 +2,7 @@
 name: Faqnation.com
 url: "https://faqnation.com"
 image: /logos/faqnation-com.png
-screenshot: /screens/faqnation-com.jpg
+screenshot: /screens/faqnation-com.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: FAQ Nation is an AI-based tool for managing FAQs, offering automated creation, customizable templates, and keyword search.

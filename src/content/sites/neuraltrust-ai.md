@@ -2,7 +2,7 @@
 name: NeuralTrust
 url: "https://neuraltrust.ai/"
 image: /logos/neuraltrust-ai.png
-screenshot: /screens/neuraltrust-ai.jpg
+screenshot: /screens/neuraltrust-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: NeuralTrust is an AI agent security platform that discovers, inventories, and governs autonomous agents across cloud, hybrid, and on-prem environments,...

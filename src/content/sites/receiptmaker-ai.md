@@ -2,7 +2,7 @@
 name: ReceiptMaker AI
 url: "https://receiptmaker.ai/"
 image: /logos/receiptmaker-ai.png
-screenshot: /screens/receiptmaker-ai.jpg
+screenshot: /screens/receiptmaker-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: ReceiptMaker is an online receipt generator offering over 100 customizable templates for retail, restaurant, taxi, and service businesses.

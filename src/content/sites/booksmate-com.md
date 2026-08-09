@@ -2,7 +2,7 @@
 name: Booksmate
 url: "https://booksmate.com/"
 image: /logos/booksmate-com.png
-screenshot: /screens/booksmate-com.jpg
+screenshot: /screens/booksmate-com.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Booksmate.com is an AI-powered tool that automates invoice and receipt capture by scanning emails, supplier portals, and over 400 websites to extract...

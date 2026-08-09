@@ -2,7 +2,7 @@
 name: Harvey
 url: "https://hiverhq.com/ai-in-customer-support"
 image: /logos/harvey.png
-screenshot: /screens/harvey.jpg
+screenshot: /screens/harvey.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Harvey can improve customer support satisfaction by accurately identifying conversation context and offering intelligent suggestions to agents.

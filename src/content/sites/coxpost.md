@@ -2,7 +2,7 @@
 name: CoxPost
 url: "https://www.coxpost.com"
 image: /logos/coxpost.png
-screenshot: /screens/coxpost.jpg
+screenshot: /screens/coxpost.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: CoxPost is an AI-driven social media management tool that automates comments/replies on Facebook & Instagram.

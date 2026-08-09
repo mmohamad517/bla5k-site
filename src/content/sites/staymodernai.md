@@ -2,7 +2,7 @@
 name: StayModernAI
 url: "https://www.staymodern.ai"
 image: /logos/staymodernai.png
-screenshot: /screens/staymodernai.jpg
+screenshot: /screens/staymodernai.webp
 subcategory: fin-fintech
 pricing: paid
 tagline: StayModernAI provides tailored AI solutions for small and medium businesses, offering industry-specific analysis, vendor matching with pre-vetted providers,...

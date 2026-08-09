@@ -2,7 +2,7 @@
 name: Autopailot
 url: "https://www.autopailot.com/"
 image: /logos/autopailot.png
-screenshot: /screens/autopailot.jpg
+screenshot: /screens/autopailot.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Autopilot is an AI-powered customer support tool that automates responses to customer questions using machine learning and a knowledge base, allowing users...

@@ -2,7 +2,7 @@
 name: Truelark.com
 url: "https://www.getweave.com/truelark/"
 image: /logos/truelark-com.png
-screenshot: /screens/truelark-com.jpg
+screenshot: /screens/truelark-com.webp
 subcategory: nc-automation
 pricing: freemium
 tagline: TrueLark is an AI client communications tool that automates messaging and appointment scheduling, enhancing customer engagement.

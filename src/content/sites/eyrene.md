@@ -2,7 +2,7 @@
 name: Eyrene
 url: "https://eyrene.com"
 image: /logos/eyrene.png
-screenshot: /screens/eyrene.jpg
+screenshot: /screens/eyrene.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Eyrene is an AI mobile platform that recognizes products, prices, promos, and planogram items in real time on Android and iOS without internet.

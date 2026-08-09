@@ -2,7 +2,7 @@
 name: AteneAI
 url: "https://ateneai.com/"
 image: /logos/ateneai.png
-screenshot: /screens/ateneai.jpg
+screenshot: /screens/ateneai.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: AteneAI tracks brand mentions across AI platforms like ChatGPT and Gemini, providing sentiment analysis, share‑of‑voice metrics, real‑time alerts,...

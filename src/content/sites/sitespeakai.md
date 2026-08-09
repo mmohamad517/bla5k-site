@@ -2,7 +2,7 @@
 name: SiteSpeakAI
 url: "https://sitespeak.ai"
 image: /logos/sitespeakai.png
-screenshot: /screens/sitespeakai.jpg
+screenshot: /screens/sitespeakai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: SiteSpeakAI automates customer support with a custom-trained GPT chatbot, handling up to 300 tickets monthly.

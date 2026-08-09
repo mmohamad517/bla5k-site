@@ -2,7 +2,7 @@
 name: TheDrive AI
 url: "https://thedrive.ai/"
 image: /logos/thedrive-ai.png
-screenshot: /screens/thedrive-ai.jpg
+screenshot: /screens/thedrive-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Drive AI automates document ingestion, OCR, indexing and content-aware organization across email, cloud, Slack/Teams and mobile scans.

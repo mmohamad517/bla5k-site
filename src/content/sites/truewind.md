@@ -2,7 +2,7 @@
 name: Truewind
 url: "https://www.truewind.ai/"
 image: /logos/truewind.png
-screenshot: /screens/truewind.jpg
+screenshot: /screens/truewind.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Truewind automates journal entry creation from upstream documents, handling coding, reconciliation, and close management with rule‑based schedules and flux...

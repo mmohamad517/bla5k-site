@@ -2,7 +2,7 @@
 name: Invocom
 url: "https://invocom.io"
 image: /logos/invocom.png
-screenshot: /screens/invocom.jpg
+screenshot: /screens/invocom.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: "Tool Description: Invocom is an AI-driven chatbot that assists businesses in lead qualification, automated customer support, and enhances interactions."

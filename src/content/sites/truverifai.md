@@ -2,7 +2,7 @@
 name: TruVerifAI
 url: "https://truverif.ai/auth/login"
 image: /logos/truverifai.png
-screenshot: /screens/truverifai.jpg
+screenshot: /screens/truverifai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: TruVerifAI is a multi-model AI platform that validates and compares outputs across different AI engines.

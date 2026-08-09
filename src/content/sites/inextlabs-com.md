@@ -2,7 +2,7 @@
 name: inextlabs.com
 url: "https://inextlabs.com"
 image: /logos/inextlabs-com.png
-screenshot: /screens/inextlabs-com.jpg
+screenshot: /screens/inextlabs-com.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: EngageAI automates customer conversations across chat, voice, and avatar channels, handling tickets, FAQs, and service requests.

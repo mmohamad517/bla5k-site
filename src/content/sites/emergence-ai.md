@@ -2,7 +2,7 @@
 name: Emergence AI
 url: "https://www.emergence.ai"
 image: /logos/emergence-ai.png
-screenshot: /screens/emergence-ai.jpg
+screenshot: /screens/emergence-ai.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Emergence AI is a platform for enterprises to create and manage intelligent agents, streamlining workflows by automating tasks, analyzing data, and...

@@ -2,7 +2,7 @@
 name: aporia.com
 url: "https://www.aporia.com/"
 image: /logos/aporia-com.png
-screenshot: /screens/aporia-com.jpg
+screenshot: /screens/aporia-com.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Aporia is an AI control platform at aporia.com that guarantees Gen AI integrity through policy enforcement, data protection, and compliance enhancement.

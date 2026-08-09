@@ -2,7 +2,7 @@
 name: Conversion Blitz
 url: "https://conversionblitz.com/"
 image: /logos/conversion-blitz.png
-screenshot: /screens/conversion-blitz.jpg
+screenshot: /screens/conversion-blitz.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Conversion Blitz uses AI to extract and filter contact data from websites and social networks by job title, location, industry, and company size.

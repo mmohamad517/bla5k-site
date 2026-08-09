@@ -2,7 +2,7 @@
 name: Rochat-AI Chatbot
 url: "https://upro.ai"
 image: /logos/rochat-ai-chatbot.png
-screenshot: /screens/rochat-ai-chatbot.jpg
+screenshot: /screens/rochat-ai-chatbot.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Rochat lets users create and chat with custom AI characters across devices.

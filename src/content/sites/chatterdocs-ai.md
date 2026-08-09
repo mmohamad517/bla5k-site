@@ -2,7 +2,7 @@
 name: Chatterdocs
 url: "https://chatterdocs.ai/"
 image: /logos/chatterdocs-ai.png
-screenshot: /screens/chatterdocs-ai.jpg
+screenshot: /screens/chatterdocs-ai.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Chatterdocs lets businesses create GPT chatbots in minutes by importing data from web pages, PDFs, CSV, Markdown, audio, and Notion.

@@ -2,7 +2,7 @@
 name: HappyCapy.ai
 url: "https://happycapy.ai/"
 image: /logos/happycapy-ai.png
-screenshot: /screens/happycapy-ai.jpg
+screenshot: /screens/happycapy-ai.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: happycapy runs AI agents and skill modules directly in the browser, offering GUI and CLI interfaces, a skills store, browser automation, private sandboxed...

@@ -2,7 +2,7 @@
 name: MonAi
 url: "https://get-monai.app"
 image: /logos/monai.png
-screenshot: /screens/monai.jpg
+screenshot: /screens/monai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Monai is an AI-powered expense tracker that simplifies recording via voice messages, categorizes expenses, secures data in private iCloud, and facilitates...

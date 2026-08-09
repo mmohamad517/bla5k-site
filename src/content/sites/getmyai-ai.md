@@ -2,7 +2,7 @@
 name: GetMyAI
 url: "https://www.getmyai.ai"
 image: /logos/getmyai-ai.png
-screenshot: /screens/getmyai-ai.jpg
+screenshot: /screens/getmyai-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: GetMyAI.ai is a no-code platform for building and deploying custom AI support agents trained on your documents.

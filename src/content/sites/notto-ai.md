@@ -2,7 +2,7 @@
 name: Notto AI
 url: "https://nottoai.com/"
 image: /logos/notto-ai.png
-screenshot: /screens/notto-ai.jpg
+screenshot: /screens/notto-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Notto AI is a centralized multi-model chat platform providing instant access to over 16 leading AI models.

@@ -2,7 +2,7 @@
 name: Hermes Agent
 url: "https://github.com/nousresearch/hermes-agent"
 image: /logos/hermes-agent.png
-screenshot: /screens/hermes-agent.jpg
+screenshot: /screens/hermes-agent.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: Hermes Agent is an open-source agent framework for building and deploying autonomous AI agents and developer workflows, offering multi-model adapters,...

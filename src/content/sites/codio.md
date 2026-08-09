@@ -2,7 +2,7 @@
 name: CODIO
 url: "https://medicodio.com"
 image: /logos/codio.png
-screenshot: /screens/codio.jpg
+screenshot: /screens/codio.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Medicodio is an AI‑driven medical coding platform that automates coding, auditing, and documentation improvement.

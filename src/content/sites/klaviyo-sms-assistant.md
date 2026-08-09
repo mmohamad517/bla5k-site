@@ -2,7 +2,7 @@
 name: Klaviyo SMS Assistant
 url: "https://www.klaviyo.com/blog/sms-assistant"
 image: /logos/klaviyo-sms-assistant.png
-screenshot: /screens/klaviyo-sms-assistant.jpg
+screenshot: /screens/klaviyo-sms-assistant.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: SMS Assist is a new feature within the Klaviyo platform that generates compliant SMS copy using AI and provides three message options to pre-established...

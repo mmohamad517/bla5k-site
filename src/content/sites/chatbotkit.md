@@ -2,7 +2,7 @@
 name: ChatBotKit
 url: "https://chatbotkit.com/?via=topaitools"
 image: /logos/chatbotkit.png
-screenshot: /screens/chatbotkit.jpg
+screenshot: /screens/chatbotkit.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: ChatBotKit is an AI agent platform enabling developers to create, test, and deploy autonomous agents for apps, websites, and messaging services.

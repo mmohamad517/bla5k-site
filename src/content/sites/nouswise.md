@@ -2,7 +2,7 @@
 name: Nouswise
 url: "https://nouswise.com/homepage"
 image: /logos/nouswise.png
-screenshot: /screens/nouswise.jpg
+screenshot: /screens/nouswise.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Nouswise is a research platform that centralizes information management by allowing users to curate personal libraries, conduct multimodal searches, and...

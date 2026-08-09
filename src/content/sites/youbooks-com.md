@@ -2,7 +2,7 @@
 name: Youbooks.com
 url: "https://youbooks.com"
 image: /logos/youbooks-com.png
-screenshot: /screens/youbooks-com.jpg
+screenshot: /screens/youbooks-com.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Youbooks transforms uploaded PDFs, DOCX, TXT, or transcripts into structured non‑fiction chapters, augments them with web research, allows voice training...

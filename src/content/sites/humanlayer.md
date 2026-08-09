@@ -2,7 +2,7 @@
 name: HumanLayer
 url: "https://humanlayer.dev"
 image: /logos/humanlayer.png
-screenshot: /screens/humanlayer.jpg
+screenshot: /screens/humanlayer.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: HumanLayer is an open-source IDE and orchestration layer for AI coding agents, managing parallel Claude Code sessions, multiclaude workflows, worktrees and...

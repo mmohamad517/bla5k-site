@@ -2,7 +2,7 @@
 name: Cline - Claude Dev
 url: "https://github.com/cline/cline"
 image: /logos/cline-claude-dev.png
-screenshot: /screens/cline-claude-dev.jpg
+screenshot: /screens/cline-claude-dev.webp
 subcategory: ai-chat
 pricing: free
 tagline: Cline is an autonomous coding agent integrated into your IDE, enhancing software development through precise file management, command execution, and web...

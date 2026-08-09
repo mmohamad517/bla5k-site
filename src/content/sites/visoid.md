@@ -2,7 +2,7 @@
 name: Visoid
 url: "https://www.visoid.com/"
 image: /logos/visoid.png
-screenshot: /screens/visoid.jpg
+screenshot: /screens/visoid.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Visoid is an architectural visualization tool that uses AI to streamline the workflow and eliminate the need for extensive scene building, lighting and...

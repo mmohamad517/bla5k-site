@@ -2,7 +2,7 @@
 name: Outspeak AI
 url: "https://outspeak.ai"
 image: /logos/outspeak-ai.png
-screenshot: /screens/outspeak-ai.jpg
+screenshot: /screens/outspeak-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Outspeak converts text or audio into lip‑synced videos using AI avatars and voice generation, offering avatar creation from models or photos, voice cloning...

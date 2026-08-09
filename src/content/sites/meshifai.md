@@ -2,7 +2,7 @@
 name: MeshifAI
 url: "http://meshifai.com"
 image: /logos/meshifai.png
-screenshot: /screens/meshifai.jpg
+screenshot: /screens/meshifai.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Meshifai is a text-to-3D generation platform that converts textual descriptions into 3D models in about 30 seconds, supporting integration with APIs and...

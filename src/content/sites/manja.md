@@ -2,7 +2,7 @@
 name: Manja
 url: "https://manja.ai/"
 image: /logos/manja.png
-screenshot: /screens/manja.jpg
+screenshot: /screens/manja.webp
 subcategory: learn-courses
 pricing: paid
 tagline: Manja AI delivers real‑time coaching with on‑screen battle cards during demos and calls.

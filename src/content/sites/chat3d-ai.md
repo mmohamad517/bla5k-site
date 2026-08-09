@@ -2,7 +2,7 @@
 name: Chat3D.ai
 url: "https://chat3d.ai/"
 image: /logos/chat3d-ai.png
-screenshot: /screens/chat3d-ai.jpg
+screenshot: /screens/chat3d-ai.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Chat3D is an AI-driven tool for generating 3D assets from text, sketches, or images.

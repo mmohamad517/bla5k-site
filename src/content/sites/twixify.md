@@ -2,7 +2,7 @@
 name: Twixify
 url: "https://www.twixify.com"
 image: /logos/twixify.png
-screenshot: /screens/twixify.jpg
+screenshot: /screens/twixify.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Twixify refines AI-generated text, enhancing its human-like quality and making it undetectable by AI detection systems.

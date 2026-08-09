@@ -2,7 +2,7 @@
 name: Trellus
 url: "https://trellus.ai"
 image: /logos/trellus.png
-screenshot: /screens/trellus.jpg
+screenshot: /screens/trellus.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Trellus embeds a parallel dialer into sales engagement tools, enabling up to five simultaneous calls, automated voicemail drops, and number health checks.

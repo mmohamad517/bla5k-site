@@ -2,7 +2,7 @@
 name: Tenhaw.com
 url: "https://www.tenhaw.com"
 image: /logos/tenhaw-com.png
-screenshot: /screens/tenhaw-com.jpg
+screenshot: /screens/tenhaw-com.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Tenhaw delivers Outcomes as a Service, starting with a 20‑minute discovery and a 90‑day plan to reset priorities.

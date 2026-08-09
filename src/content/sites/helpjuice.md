@@ -2,7 +2,7 @@
 name: Helpjuice
 url: "https://helpjuice.com/"
 image: /logos/helpjuice.png
-screenshot: /screens/helpjuice.jpg
+screenshot: /screens/helpjuice.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Helpjuice is a knowledge base software that centralizes FAQs, guides, and SOPs, enhancing internal knowledge sharing and customer support.

@@ -2,7 +2,7 @@
 name: ZeroBot
 url: "https://www.zerobot.ai"
 image: /logos/zerobot.png
-screenshot: /screens/zerobot.jpg
+screenshot: /screens/zerobot.webp
 subcategory: ai-chat
 pricing: paid
 tagline: ZeroBot lets users create role‑specific AI agents with custom voice, avatar, and behavior, supporting GPT‑5, Gemini, Claude, Llama, and Qwen.

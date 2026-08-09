@@ -2,7 +2,7 @@
 name: AI Voice Detector
 url: "https://aivoicedetector.com/"
 image: /logos/ai-voice-detector.png
-screenshot: /screens/ai-voice-detector.jpg
+screenshot: /screens/ai-voice-detector.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: AI Voice Detector identifies AI‑generated speech with up to 99 % accuracy.

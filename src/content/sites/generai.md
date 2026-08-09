@@ -2,7 +2,7 @@
 name: Generai
 url: "https://generai.art/"
 image: /logos/generai.png
-screenshot: /screens/generai.jpg
+screenshot: /screens/generai.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: Generai is an AI tool that generates personalized art pieces and prints based on user descriptions using advanced algorithms and fast GPUs.

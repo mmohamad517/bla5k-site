@@ -2,7 +2,7 @@
 name: bookbyanyone.com
 url: "https://bookbyanyone.com"
 image: /logos/bookbyanyone-com.png
-screenshot: /screens/bookbyanyone-com.jpg
+screenshot: /screens/bookbyanyone-com.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: An AI platform that converts a brief questionnaire into a 200‑page personalized book featuring the recipient’s name, interests, and photos.

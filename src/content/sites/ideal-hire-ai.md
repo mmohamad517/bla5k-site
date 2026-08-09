@@ -2,7 +2,7 @@
 name: Ideal Hire AI
 url: "https://idealhireai.com"
 image: /logos/ideal-hire-ai.png
-screenshot: /screens/ideal-hire-ai.jpg
+screenshot: /screens/ideal-hire-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Ideal Hire AI analyzes applicant data to identify skills, cultural fit, and career potential, reducing time‑to‑hire and improving selection quality.

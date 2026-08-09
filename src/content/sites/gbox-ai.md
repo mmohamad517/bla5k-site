@@ -2,7 +2,7 @@
 name: GBOX AI
 url: "https://gbox.ai"
 image: /logos/gbox-ai.png
-screenshot: /screens/gbox-ai.jpg
+screenshot: /screens/gbox-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: GBOX provides browser, Android, and Linux sandboxes plus RL environments for training, testing, and reproducible evaluation of agents.

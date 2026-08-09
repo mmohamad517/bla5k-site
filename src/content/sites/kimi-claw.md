@@ -2,7 +2,7 @@
 name: Kimi Claw
 url: "https://www.kimi.com/resources/kimi-claw-introduction"
 image: /logos/kimi-claw.png
-screenshot: /screens/kimi-claw.jpg
+screenshot: /screens/kimi-claw.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Kimi Claw provides one-click cloud deployment for OpenClaw, launching 24/7 AI agents and swarms with persistent memory and customizable personalities,...

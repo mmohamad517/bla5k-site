@@ -2,7 +2,7 @@
 name: Ghost Engineer
 url: "https://ghostengineer.com"
 image: /logos/ghost-engineer.png
-screenshot: /screens/ghost-engineer.jpg
+screenshot: /screens/ghost-engineer.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Ghost Engineer is an AI coding interview assistant that helps software engineers by providing instant coding solutions through screenshots and voice commands.

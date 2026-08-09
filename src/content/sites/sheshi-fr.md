@@ -2,7 +2,7 @@
 name: Sheshi FR
 url: "https://sheshi.ai"
 image: /logos/sheshi-fr.png
-screenshot: /screens/sheshi-fr.jpg
+screenshot: /screens/sheshi-fr.webp
 subcategory: ai-chat
 pricing: free
 tagline: Sheshi AI is a unified, AI-powered financial reporting tool that streamlines and standardizes processes.

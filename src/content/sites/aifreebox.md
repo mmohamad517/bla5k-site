@@ -2,7 +2,7 @@
 name: AIFreeBox
 url: "https://aifreebox.com"
 image: /logos/aifreebox.png
-screenshot: /screens/aifreebox.jpg
+screenshot: /screens/aifreebox.webp
 subcategory: ai-chat
 pricing: free
 tagline: AIFreeBox is a platform offering over 500 AI tools for content creation.

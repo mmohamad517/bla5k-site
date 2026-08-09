@@ -2,7 +2,7 @@
 name: AiSDR
 url: "https://aisdr.com/"
 image: /logos/aisdr.png
-screenshot: /screens/aisdr.jpg
+screenshot: /screens/aisdr.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: AiSDR automates outbound prospecting, lead research, and personalized outreach across email, phone, and LinkedIn using intent‑first targeting and live AI...

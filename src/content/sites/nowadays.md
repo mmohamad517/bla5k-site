@@ -2,7 +2,7 @@
 name: Nowadays
 url: "https://www.getnowadays.com/"
 image: /logos/nowadays.png
-screenshot: /screens/nowadays.jpg
+screenshot: /screens/nowadays.webp
 subcategory: fin-fintech
 pricing: paid
 tagline: Nowadays consolidates venue sourcing, budget tracking, registration, and vendor coordination into a single interface.

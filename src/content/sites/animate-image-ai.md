@@ -2,7 +2,7 @@
 name: Animate Image AI
 url: "https://animateimage.net"
 image: /logos/animate-image-ai.png
-screenshot: /screens/animate-image-ai.jpg
+screenshot: /screens/animate-image-ai.webp
 subcategory: ai-image
 pricing: free
 tagline: Animate Image AI turns static photos into animated MP4/GIF/WebM/MOV videos, applying facial and context-aware object motion for portraits, products and...

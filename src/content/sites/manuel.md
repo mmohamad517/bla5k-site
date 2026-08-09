@@ -2,7 +2,7 @@
 name: Manuel
 url: "https://manuel.chat/en"
 image: /logos/manuel.png
-screenshot: /screens/manuel.jpg
+screenshot: /screens/manuel.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Manuel is an AI assistant for installation companies, providing instant access to thousands of fault codes, guides, and maintenance tips for heat pumps and...

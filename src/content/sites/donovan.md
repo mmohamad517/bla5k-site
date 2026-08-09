@@ -2,7 +2,7 @@
 name: Donovan
 url: "https://scale.com/donovan-trial"
 image: /logos/donovan.png
-screenshot: /screens/donovan.jpg
+screenshot: /screens/donovan.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Donovan provides a no‑code Agent Factory that builds and connects AI agents for mission‑critical government and defense workflows.

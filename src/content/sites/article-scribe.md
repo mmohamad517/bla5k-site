@@ -2,7 +2,7 @@
 name: Article Scribe
 url: "https://article-scribe.com/"
 image: /logos/article-scribe.png
-screenshot: /screens/article-scribe.jpg
+screenshot: /screens/article-scribe.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Article Scribe is a content generation tool that helps create unique product descriptions, blog posts, and social media content.

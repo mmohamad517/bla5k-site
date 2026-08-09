@@ -2,7 +2,7 @@
 name: Affpilot AI
 url: "https://affpilot.com/"
 image: /logos/affpilot-ai.png
-screenshot: /screens/affpilot-ai.jpg
+screenshot: /screens/affpilot-ai.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Affpilot automatically generates bulk articles, reviews, and comparisons from keyword prompts, publishes to WordPress, Blogger, Medium, and integrates...

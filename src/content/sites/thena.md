@@ -2,7 +2,7 @@
 name: Thena
 url: "https://thena.ai"
 image: /logos/thena.png
-screenshot: /screens/thena.jpg
+screenshot: /screens/thena.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Thena is an AI-driven customer support platform for B2B teams that consolidates communication across Slack, email, and chat.

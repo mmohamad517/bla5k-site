@@ -2,7 +2,7 @@
 name: AItoGrow
 url: "https://aitogrow.com/"
 image: /logos/aitogrow.png
-screenshot: /screens/aitogrow.jpg
+screenshot: /screens/aitogrow.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: AItoGrow aggregates AI tools for startup growth, categorizing solutions in marketing, outreach, recruiting, SEO, productivity, and creative content.

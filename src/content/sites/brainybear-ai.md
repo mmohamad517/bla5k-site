@@ -2,7 +2,7 @@
 name: Brainybear.ai
 url: "https://brainybear.ai/"
 image: /logos/brainybear-ai.png
-screenshot: /screens/brainybear-ai.jpg
+screenshot: /screens/brainybear-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Brainybear lets teams create AI agents that extend chatbots on websites and messaging apps without coding.

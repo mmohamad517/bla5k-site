@@ -2,7 +2,7 @@
 name: CoinLore
 url: "https://www.coinlore.com/crypto-news"
 image: /logos/coinlore.png
-screenshot: /screens/coinlore.jpg
+screenshot: /screens/coinlore.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: CoinLore delivers a real‑time news feed and market data for over 14,000 cryptocurrencies, offering charts, rankings, portfolio tools, and a profit calculator.

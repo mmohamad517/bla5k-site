@@ -2,7 +2,7 @@
 name: Krikey.ai
 url: "https://www.krikey.ai/"
 image: /logos/krikey-ai.png
-screenshot: /screens/krikey-ai.jpg
+screenshot: /screens/krikey-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Krikey AI turns text or video into animated characters—talking avatars, NPCs, cartoons—using an editor that offers motion‑capture style animations,...

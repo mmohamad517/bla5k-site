@@ -2,7 +2,7 @@
 name: Hypotenuse AI
 url: "https://www.hypotenuse.ai/?via=topaitools"
 image: /logos/hypotenuse-ai.png
-screenshot: /screens/hypotenuse-ai.jpg
+screenshot: /screens/hypotenuse-ai.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Hypotenuse AI automates product data and content creation for e‑commerce, generating titles, descriptions, alt text, and enriching attributes across...

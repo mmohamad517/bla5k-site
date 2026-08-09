@@ -2,7 +2,7 @@
 name: Loopa
 url: "https://www.loopa.im/"
 image: /logos/loopa.png
-screenshot: /screens/loopa.jpg
+screenshot: /screens/loopa.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Loopa is a multi-agent AI platform that automates workflows and content creation—from PDF summarization and slide generation to video production and...

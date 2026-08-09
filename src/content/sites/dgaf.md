@@ -2,7 +2,7 @@
 name: DGAF
 url: "https://dgaf.ai"
 image: /logos/dgaf.png
-screenshot: /screens/dgaf.jpg
+screenshot: /screens/dgaf.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: dgaf.ai provides an unrestricted AI chat experience, allowing users to engage in open dialogue without content filters.

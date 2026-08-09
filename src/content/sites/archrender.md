@@ -2,7 +2,7 @@
 name: ArchRender
 url: "https://archrender.ai"
 image: /logos/archrender.png
-screenshot: /screens/archrender.jpg
+screenshot: /screens/archrender.webp
 subcategory: design-3d
 pricing: freemium
 tagline: ArchRender is an AI rendering platform that generates photorealistic architectural visualizations from imported 3D models in seconds.

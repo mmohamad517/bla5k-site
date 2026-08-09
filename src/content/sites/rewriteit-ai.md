@@ -2,7 +2,7 @@
 name: ReWriteIt AI
 url: "https://rewriteit.ai"
 image: /logos/rewriteit-ai.png
-screenshot: /screens/rewriteit-ai.jpg
+screenshot: /screens/rewriteit-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Rewriteit.ai is an AI tool that efficiently rewrites content, enhancing writing skills across genres like emails and papers.

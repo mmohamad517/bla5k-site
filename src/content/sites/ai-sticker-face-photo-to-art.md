@@ -2,7 +2,7 @@
 name: AI Sticker
 url: "https://apps.apple.com/us/app/ai-sticker-face-sticker-emoji/id6478588473"
 image: /logos/ai-sticker-face-photo-to-art.png
-screenshot: /screens/ai-sticker-face-photo-to-art.jpg
+screenshot: /screens/ai-sticker-face-photo-to-art.webp
 subcategory: design-graphics
 pricing: free
 tagline: AI Sticker is an application for creating personalized stickers from photos.

@@ -2,7 +2,7 @@
 name: Unfold AI
 url: "https://unfoldai.io"
 image: /logos/unfold-ai.png
-screenshot: /screens/unfold-ai.jpg
+screenshot: /screens/unfold-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Unfold AI is a cutting-edge coding assistant that enhances developer efficiency by offering instant error fixes and supporting 20 programming languages.

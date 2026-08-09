@@ -2,7 +2,7 @@
 name: Query craft
 url: "https://querycraft.ai"
 image: /logos/query-craft.png
-screenshot: /screens/query-craft.jpg
+screenshot: /screens/query-craft.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Query Craft translates plain language into Jira Query Language (JQL), enabling teams to quickly generate accurate issue filters.

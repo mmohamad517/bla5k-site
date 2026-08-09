@@ -2,7 +2,7 @@
 name: MobiRest POS
 url: "https://mobirest.business"
 image: /logos/mobirest-pos.png
-screenshot: /screens/mobirest-pos.jpg
+screenshot: /screens/mobirest-pos.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: Mobirest is a cloud-based POS system for the hospitality industry, offering features like sales tracking, inventory management, staff scheduling, and...

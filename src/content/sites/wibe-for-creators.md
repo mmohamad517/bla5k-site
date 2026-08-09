@@ -2,7 +2,7 @@
 name: Wibe for creators
 url: "https://wibe.so"
 image: /logos/wibe-for-creators.png
-screenshot: /screens/wibe-for-creators.jpg
+screenshot: /screens/wibe-for-creators.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Wibe is a community-first creator platform for building direct audience relationships, managing memberships, selling digital products and services, bundling...

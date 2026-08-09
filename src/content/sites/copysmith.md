@@ -2,7 +2,7 @@
 name: Copysmith
 url: "https://copysmith.ai/"
 image: /logos/copysmith.png
-screenshot: /screens/copysmith.jpg
+screenshot: /screens/copysmith.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Copysmith delivers AI‑powered tools for SEO‑friendly content creation.

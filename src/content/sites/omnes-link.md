@@ -2,7 +2,7 @@
 name: Omnes.link
 url: "https://omnes.link/dashboard"
 image: /logos/omnes-link.png
-screenshot: /screens/omnes-link.jpg
+screenshot: /screens/omnes-link.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Omnes.link is an all-in-one digital tool featuring short links, QR codes, vCards, and AI-driven text/image generation.

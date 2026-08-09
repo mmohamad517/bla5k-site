@@ -2,7 +2,7 @@
 name: TextTo3D
 url: "https://text-to-3d.app"
 image: /logos/textto3d.png
-screenshot: /screens/textto3d.jpg
+screenshot: /screens/textto3d.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Text 3D Model is a mobile app that converts text into customizable 3D models for iOS and Android.

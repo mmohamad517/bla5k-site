@@ -2,7 +2,7 @@
 name: aiCode.fail
 url: "https://aicode.fail"
 image: /logos/aicode-fail.png
-screenshot: /screens/aicode-fail.jpg
+screenshot: /screens/aicode-fail.webp
 subcategory: dev-code
 pricing: freemium
 tagline: aiCode.fail reviews generated code independently of chat context, supports all languages without compiling, detects hallucinations and security issues, and...

@@ -2,7 +2,7 @@
 name: RADiCAL
 url: "https://www.autodesk.com/products/flow-studio/"
 image: /logos/radical.png
-screenshot: /screens/radical.jpg
+screenshot: /screens/radical.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Radical is a web-based 3D content creation platform that allows users to design, animate, and collaborate in real-time with AI tools, featuring markerless...

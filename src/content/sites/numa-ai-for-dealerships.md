@@ -2,7 +2,7 @@
 name: Numa
 url: "https://numa.com"
 image: /logos/numa-ai-for-dealerships.png
-screenshot: /screens/numa-ai-for-dealerships.jpg
+screenshot: /screens/numa-ai-for-dealerships.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Numa unifies dealership voice, email, and text into a Smart Inbox, using AI to draft responses, generate leads, detect dissatisfaction, and monitor service...

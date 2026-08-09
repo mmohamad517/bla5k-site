@@ -2,7 +2,7 @@
 name: Magic Bookifier
 url: "https://magicbookifier.ai"
 image: /logos/magic-bookifier.png
-screenshot: /screens/magic-bookifier.jpg
+screenshot: /screens/magic-bookifier.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Magic Bookifier is an AI writing aid that assists book creation by providing top-notch questions and answers.

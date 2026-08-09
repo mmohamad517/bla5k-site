@@ -2,7 +2,7 @@
 name: AutoCoder
 url: "https://www.autocoder.cc"
 image: /logos/autocoder.png
-screenshot: /screens/autocoder.jpg
+screenshot: /screens/autocoder.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Autocoder.cc is a full-stack coding tool that generates front-end, back-end, and database components through conversational interaction, offering...

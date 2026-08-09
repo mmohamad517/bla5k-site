@@ -2,7 +2,7 @@
 name: API Hub
 url: "https://api-hub.org"
 image: /logos/api-hub.png
-screenshot: /screens/api-hub.jpg
+screenshot: /screens/api-hub.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: API Hub is a centralized platform offering enterprise-grade MCP API solutions for seamless integration with AI agents.

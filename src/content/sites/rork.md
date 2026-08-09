@@ -2,7 +2,7 @@
 name: Rork
 url: "https://rork.com"
 image: /logos/rork.png
-screenshot: /screens/rork.jpg
+screenshot: /screens/rork.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Rork is an AI platform for creating cross-platform mobile apps quickly using Expo and React Native.

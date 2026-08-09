@@ -2,7 +2,7 @@
 name: devstral-2-vibe-cli
 url: "https://mistral.ai/news/devstral-2-vibe-cli"
 image: /logos/devstral-2-vibe-cli.png
-screenshot: /screens/devstral-2-vibe-cli.jpg
+screenshot: /screens/devstral-2-vibe-cli.webp
 subcategory: ai-chat
 pricing: free
 tagline: Devstral 2 and Devstral Small 2 are open-source coding models designed for autonomous code automation and development, offering state-of-the-art performance...

@@ -2,7 +2,7 @@
 name: SyntrofAI
 url: "https://syntrofai.com"
 image: /logos/syntrofai.png
-screenshot: /screens/syntrofai.jpg
+screenshot: /screens/syntrofai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: SyntrofAI is a multi-agent operating system that coordinates AI agents to design, execute, and share end-to-end workflows, enabling persistent memory,...

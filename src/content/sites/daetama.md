@@ -2,7 +2,7 @@
 name: Daetama
 url: "https://daetama.io"
 image: /logos/daetama.png
-screenshot: /screens/daetama.jpg
+screenshot: /screens/daetama.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Daetama is a comprehensive data science preparation tool that offers a wide variety of SQL questions from top companies for real-world practice, job board...

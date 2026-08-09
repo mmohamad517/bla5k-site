@@ -2,7 +2,7 @@
 name: Genie 3 World
 url: "https://genie3world.com"
 image: /logos/genie-3-world.png
-screenshot: /screens/genie-3-world.jpg
+screenshot: /screens/genie-3-world.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Genie 3 World allows users to create realistic 3D virtual environments from text prompts.

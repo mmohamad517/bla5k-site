@@ -2,7 +2,7 @@
 name: Epicly AI
 url: "https://www.epicly.ai"
 image: /logos/epicly-ai.png
-screenshot: /screens/epicly-ai.jpg
+screenshot: /screens/epicly-ai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Epicly AI streamlines digital ad campaign creation, enabling faster content production and consistent brand management.

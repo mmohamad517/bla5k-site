@@ -2,7 +2,7 @@
 name: Chronox AI
 url: "https://chronox.ai"
 image: /logos/chronox-ai.png
-screenshot: /screens/chronox-ai.jpg
+screenshot: /screens/chronox-ai.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Chronox AI provides no-code chat and voice bots for automating customer service across platforms like WhatsApp and Instagram.

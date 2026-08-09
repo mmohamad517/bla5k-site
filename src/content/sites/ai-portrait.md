@@ -2,7 +2,7 @@
 name: AI-Portrait
 url: "https://www.ai-portraits.org/"
 image: /logos/ai-portrait.png
-screenshot: /screens/ai-portrait.jpg
+screenshot: /screens/ai-portrait.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: AI Portrait Generator turns a single selfie into over 2,000 AI‑style portraits—including ID photos, comics, oil paintings, cartoons, anime, and...

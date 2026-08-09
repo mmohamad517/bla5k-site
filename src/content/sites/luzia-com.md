@@ -2,7 +2,7 @@
 name: luzia.com
 url: "https://luzia.com"
 image: /logos/luzia-com.png
-screenshot: /screens/luzia-com.jpg
+screenshot: /screens/luzia-com.webp
 subcategory: ai-chat
 pricing: free
 tagline: "Luzia is a cross-platform AI assistant on web, iOS, Android and WhatsApp offering conversational chat and task workflows: text and image generation and..."

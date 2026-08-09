@@ -2,7 +2,7 @@
 name: AI Detector Pro
 url: "https://aidetector.pro/"
 image: /logos/aidetector-pro.png
-screenshot: /screens/aidetector-pro.jpg
+screenshot: /screens/aidetector-pro.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: AI Detector Pro provides comprehensive recognition of AI-generated text and includes advanced features to manage AI generation reports efficiently.

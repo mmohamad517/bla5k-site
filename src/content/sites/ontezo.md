@@ -2,7 +2,7 @@
 name: Ontezo
 url: "https://www.ontezo.com/project-management-software"
 image: /logos/ontezo.png
-screenshot: /screens/ontezo.jpg
+screenshot: /screens/ontezo.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Ontezo is an AI-driven project management tool that enhances team productivity with features like AI-generated user stories, an AI Scrum Master, reporting...

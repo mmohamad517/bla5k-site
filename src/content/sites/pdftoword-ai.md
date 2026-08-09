@@ -2,7 +2,7 @@
 name: PDFtoword AI
 url: "https://www.pdftoword.ai/"
 image: /logos/pdftoword-ai.png
-screenshot: /screens/pdftoword-ai.jpg
+screenshot: /screens/pdftoword-ai.webp
 subcategory: ai-productivity
 pricing: free
 tagline: PDFtoword is a comprehensive online PDF toolkit offering 24 tools for converting, editing, organizing, and securing documents.

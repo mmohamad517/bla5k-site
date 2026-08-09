@@ -2,7 +2,7 @@
 name: Paymefy
 url: "https://www.paymefy.com/"
 image: /logos/paymefy.png
-screenshot: /screens/paymefy.jpg
+screenshot: /screens/paymefy.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Paymefy automates accounts‑receivable by integrating with ERP, CRM, and billing systems.

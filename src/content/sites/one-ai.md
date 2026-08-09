@@ -2,7 +2,7 @@
 name: One AI
 url: "https://one.ai"
 image: /logos/one-ai.png
-screenshot: /screens/one-ai.jpg
+screenshot: /screens/one-ai.webp
 subcategory: nc-automation
 pricing: freemium
 tagline: OneAI’s AI Phone Call Agent automates phone, SMS, and WhatsApp campaigns with an AI‑native dialer, real‑time lead qualification, CRM integration, 5‑second...

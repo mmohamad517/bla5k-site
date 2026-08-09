@@ -2,7 +2,7 @@
 name: Image3D AI
 url: "https://www.aiimageto3d.com"
 image: /logos/image3d-ai.png
-screenshot: /screens/image3d-ai.jpg
+screenshot: /screens/image3d-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Image3D AI converts 2D images, including PNG, JPEG and WEBP, into editable 3D models (STL, OBJ, GLB) via single-image or multi-view reconstruction, with...

@@ -2,7 +2,7 @@
 name: zesh.ai
 url: "https://zesh.ai"
 image: /logos/zesh-ai.png
-screenshot: /screens/zesh-ai.jpg
+screenshot: /screens/zesh-ai.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: Zesh AI Layer is a Web3 AI agent platform for KOL discovery, community engagement and campaign optimization, offering predictive influence scoring,...

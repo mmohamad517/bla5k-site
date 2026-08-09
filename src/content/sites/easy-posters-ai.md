@@ -2,7 +2,7 @@
 name: Easy Posters AI
 url: "https://www.easypostersai.com/"
 image: /logos/easy-posters-ai.png
-screenshot: /screens/easy-posters-ai.jpg
+screenshot: /screens/easy-posters-ai.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: Easy Posters AI is an intuitive AI-driven tool that enables users to create high-quality, custom posters effortlessly.

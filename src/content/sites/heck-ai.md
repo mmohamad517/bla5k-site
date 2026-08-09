@@ -2,7 +2,7 @@
 name: HECK.AI
 url: "https://heck.ai"
 image: /logos/heck-ai.png
-screenshot: /screens/heck-ai.jpg
+screenshot: /screens/heck-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: HECK.AI is a free, no-registration platform offering instant access to AI-powered conversations for tasks like writing, translation, and coding.

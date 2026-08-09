@@ -2,7 +2,7 @@
 name: Bulk Rename Utility
 url: "https://bulk-rename-utility.com/"
 image: /logos/bulk-rename-utility.png
-screenshot: /screens/bulk-rename-utility.jpg
+screenshot: /screens/bulk-rename-utility.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Web‑based AI bulk renamer that processes files locally, interpreting natural‑language instructions for batch renaming, numbering, or pattern rules.

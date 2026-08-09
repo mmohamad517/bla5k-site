@@ -2,7 +2,7 @@
 name: AI Survey Maker
 url: "https://www.responsly.com/surveys/ai-survey-generator/"
 image: /logos/ai-survey-maker.png
-screenshot: /screens/ai-survey-maker.jpg
+screenshot: /screens/ai-survey-maker.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: AI Survey Generator drafts surveys within seconds, offering diverse question types, adaptive and skip logic, and score calculators.

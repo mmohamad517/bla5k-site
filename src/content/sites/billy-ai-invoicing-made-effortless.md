@@ -2,7 +2,7 @@
 name: Billy
 url: "https://getbilly.co"
 image: /logos/billy-ai-invoicing-made-effortless.png
-screenshot: /screens/billy-ai-invoicing-made-effortless.jpg
+screenshot: /screens/billy-ai-invoicing-made-effortless.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Billy creates professional invoices from a single prompt, integrates Stripe for credit card, Apple Pay, Google Pay payments, tracks view status in real...

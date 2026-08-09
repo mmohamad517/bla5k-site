@@ -2,7 +2,7 @@
 name: Uchat
 url: "https://uchat.au"
 image: /logos/uchat.png
-screenshot: /screens/uchat.jpg
+screenshot: /screens/uchat.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: UChat AI Agent creates no‑code chatbots for Web, WhatsApp, Messenger, Instagram, Telegram, and SMS via a drag‑and‑drop builder.

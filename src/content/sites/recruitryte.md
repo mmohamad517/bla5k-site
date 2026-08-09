@@ -2,7 +2,7 @@
 name: recruitRyte
 url: "https://recruitryte.com"
 image: /logos/recruitryte.png
-screenshot: /screens/recruitryte.jpg
+screenshot: /screens/recruitryte.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Recruitryte is an AI recruitment sourcing platform that enhances hiring with candidate matching, automated outreach, and job description analysis.

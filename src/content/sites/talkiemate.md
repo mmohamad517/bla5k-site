@@ -2,7 +2,7 @@
 name: Talkiemate
 url: "https://talkiemate.com"
 image: /logos/talkiemate.png
-screenshot: /screens/talkiemate.jpg
+screenshot: /screens/talkiemate.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Talkiemate AI Companion offers personalized virtual personas for engaging conversations.

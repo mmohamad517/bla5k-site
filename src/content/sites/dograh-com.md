@@ -2,7 +2,7 @@
 name: Dograh
 url: "https://www.dograh.com/"
 image: /logos/dograh-com.png
-screenshot: /screens/dograh-com.jpg
+screenshot: /screens/dograh-com.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Dograh is an open-source VAPI alternative for building self-deployed AI voice agents, offering a no-code drag-and-drop builder, telephony and multilingual...

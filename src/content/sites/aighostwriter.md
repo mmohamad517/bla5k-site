@@ -2,7 +2,7 @@
 name: AIGhostwriter
 url: "https://ghostthewriter.com"
 image: /logos/aighostwriter.png
-screenshot: /screens/aighostwriter.jpg
+screenshot: /screens/aighostwriter.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Ghostwriting service allows users to create content inspired by renowned authors like Jane Austen and Mark Twain.

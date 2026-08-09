@@ -2,7 +2,7 @@
 name: CodingFleet
 url: "https://codingfleet.com"
 image: /logos/codingfleet.png
-screenshot: /screens/codingfleet.jpg
+screenshot: /screens/codingfleet.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: CodingFleet is a comprehensive AI-powered coding suite designed to streamline programming workflows.

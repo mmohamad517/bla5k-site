@@ -2,7 +2,7 @@
 name: ArbitrageScanner.io
 url: "https://arbitragescanner.io"
 image: /logos/arbitragescanner-io.png
-screenshot: /screens/arbitragescanner-io.jpg
+screenshot: /screens/arbitragescanner-io.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Crypto Arbitrage Bot identifies price discrepancies across over 40 exchanges, enabling users to execute profitable trades.

@@ -2,7 +2,7 @@
 name: Meshy AI
 url: "https://meshy.ai"
 image: /logos/meshy.png
-screenshot: /screens/meshy.jpg
+screenshot: /screens/meshy.webp
 subcategory: design-3d
 pricing: paid
 tagline: Meshy AI is an AI 3D model generator that creates production-ready assets from text or images.

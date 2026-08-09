@@ -2,7 +2,7 @@
 name: Flow Leads
 url: "https://flowleads.co"
 image: /logos/flow-leads.png
-screenshot: /screens/flow-leads.jpg
+screenshot: /screens/flow-leads.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Flow Leads is an e-commerce lead generation tool that provides access to over 12 million stores, offering decision-makers' contact information for targeted...

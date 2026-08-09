@@ -2,7 +2,7 @@
 name: Pika
 url: "https://pika.art/"
 image: /logos/pika-art.png
-screenshot: /screens/pika-art.jpg
+screenshot: /screens/pika-art.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Pika is an AI video creation and editing platform (web, mobile, API) offering photo-to-video transforms, preset effects (PikaScenes, PikaSwaps,...

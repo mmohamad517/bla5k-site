@@ -2,7 +2,7 @@
 name: Atomic Bot
 url: "https://atomicbot.ai/"
 image: /logos/atomic-bot.png
-screenshot: /screens/atomic-bot.jpg
+screenshot: /screens/atomic-bot.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Atomic Bot is an AI assistant that centralizes productivity workflows like email, calendar, and document management.

@@ -2,7 +2,7 @@
 name: Needle.app
 url: "https://needle.app/"
 image: /logos/needle-app.png
-screenshot: /screens/needle-app.jpg
+screenshot: /screens/needle-app.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Needle.app is a knowledge threading platform that centralizes documents, apps, and data into a searchable AI knowledge base.

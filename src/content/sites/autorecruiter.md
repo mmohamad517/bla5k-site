@@ -2,7 +2,7 @@
 name: AutoRecruiter
 url: "https://goodspace.ai/hirer"
 image: /logos/autorecruiter.png
-screenshot: /screens/autorecruiter.jpg
+screenshot: /screens/autorecruiter.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: GoodSpace AI is an AI‑driven recruitment platform linking Indian job seekers and employers.

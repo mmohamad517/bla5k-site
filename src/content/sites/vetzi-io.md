@@ -2,7 +2,7 @@
 name: Vetzi.io
 url: "https://vetzi.io"
 image: /logos/vetzi-io.png
-screenshot: /screens/vetzi-io.jpg
+screenshot: /screens/vetzi-io.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: AI Vet Scribe converts visit recordings and notes into structured SOAP clinical records, client emails, and discharge instructions using customizable...

@@ -2,7 +2,7 @@
 name: Assistive Chat
 url: "https://assistive.chat/product/chat"
 image: /logos/assistive-chat.png
-screenshot: /screens/assistive-chat.jpg
+screenshot: /screens/assistive-chat.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Assistive Chat is a GPT‑4 multimodal assistant that creates and converts text, images, videos, audio, and code.

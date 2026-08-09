@@ -2,7 +2,7 @@
 name: SnapMeasureAI
 url: "https://snapmeasureai.com"
 image: /logos/snapmeasureai.png
-screenshot: /screens/snapmeasureai.jpg
+screenshot: /screens/snapmeasureai.webp
 subcategory: ai-chat
 pricing: free
 tagline: SnapMeasureAI is a cloud-based AI that creates accurate 3D body measurements from two smartphone photos in under ten seconds, extracting 10,000+ points.

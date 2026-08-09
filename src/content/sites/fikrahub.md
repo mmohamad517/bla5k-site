@@ -2,7 +2,7 @@
 name: FikraHub
 url: "https://fikrahub.com"
 image: /logos/fikrahub.png
-screenshot: /screens/fikrahub.jpg
+screenshot: /screens/fikrahub.webp
 subcategory: ai-chat
 pricing: paid
 tagline: FikraHub is an AI‑driven platform for ideation, hackathon management, and custom innovation solutions.

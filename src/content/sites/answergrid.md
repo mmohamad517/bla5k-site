@@ -2,7 +2,7 @@
 name: AnswerGrid
 url: "https://answergrid.ai"
 image: /logos/answergrid.png
-screenshot: /screens/answergrid.jpg
+screenshot: /screens/answergrid.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: AnswerGrid is an AI consulting tool that streamlines proposal drafting and due diligence research, integrating data from various sources.

@@ -2,7 +2,7 @@
 name: ChatBetter
 url: "https://www.chatbetter.com/"
 image: /logos/chatbetter.png
-screenshot: /screens/chatbetter.jpg
+screenshot: /screens/chatbetter.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: ChatBetter is a unified AI platform that automatically selects and chains the best language models for any query or complex task.

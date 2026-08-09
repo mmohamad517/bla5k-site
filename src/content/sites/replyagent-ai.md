@@ -2,7 +2,7 @@
 name: ReplyAgent
 url: "https://www.replyagent.ai/"
 image: /logos/replyagent-ai.png
-screenshot: /screens/replyagent-ai.jpg
+screenshot: /screens/replyagent-ai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: ReplyAgent.ai is an AI-powered Reddit marketing tool that automatically finds relevant conversations and generates authentic, context-aware comments.

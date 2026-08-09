@@ -2,7 +2,7 @@
 name: Juphy 3.0
 url: "https://juphy.com"
 image: /logos/juphy-3-0.png
-screenshot: /screens/juphy-3-0.jpg
+screenshot: /screens/juphy-3-0.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Juphy is a 24/7 AI sales assistant for Shopify that automates product recommendations, answers FAQs, tracks orders, and manages Instagram Direct messages.

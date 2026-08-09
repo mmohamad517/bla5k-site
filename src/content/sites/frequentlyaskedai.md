@@ -2,7 +2,7 @@
 name: FrequentlyAskedAI
 url: "https://www.infaq.ai/"
 image: /logos/frequentlyaskedai.png
-screenshot: /screens/frequentlyaskedai.jpg
+screenshot: /screens/frequentlyaskedai.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: InFAQ is an AI tool that automates precise response generation to customer queries.

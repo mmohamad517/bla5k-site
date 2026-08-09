@@ -2,7 +2,7 @@
 name: Moss
 url: "http://mossai.site"
 image: /logos/moss-ai-chat-genie-chatbot.png
-screenshot: /screens/moss-ai-chat-genie-chatbot.jpg
+screenshot: /screens/moss-ai-chat-genie-chatbot.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: MOSS AI lets businesses build AGI‑ready office and entertainment apps using hire‑able AI agents.

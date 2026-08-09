@@ -2,7 +2,7 @@
 name: Negotyum
 url: "https://www.negotyum.com"
 image: /logos/negotyum.png
-screenshot: /screens/negotyum.jpg
+screenshot: /screens/negotyum.webp
 subcategory: fin-fintech
 pricing: free
 tagline: Negotyum Business Idea Test uses AI analytics to evaluate startup concepts, scoring over 100 factors such as industry, scalability, margins, and investment...

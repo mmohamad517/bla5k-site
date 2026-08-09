@@ -2,7 +2,7 @@
 name: Animatives
 url: "https://animatives.com"
 image: /logos/animatives.png
-screenshot: /screens/animatives.jpg
+screenshot: /screens/animatives.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Animatives lets iPhone/iPad users create stop‑motion, timelapse, and mixed‑media videos with frame‑by‑frame control, combining photos, drawings, virtual...

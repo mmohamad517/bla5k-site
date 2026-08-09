@@ -2,7 +2,7 @@
 name: CopyRemix
 url: "https://copyremix.com"
 image: /logos/copyremix.png
-screenshot: /screens/copyremix.jpg
+screenshot: /screens/copyremix.webp
 subcategory: mkt-social
 pricing: paid
 tagline: CopyRemix is a tool that transforms testimonials into compelling case studies quickly.

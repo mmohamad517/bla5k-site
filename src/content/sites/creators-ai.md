@@ -2,7 +2,7 @@
 name: Creators' AI
 url: "https://thecreatorsai.com"
 image: /logos/creators-ai.png
-screenshot: /screens/creators-ai.jpg
+screenshot: /screens/creators-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Creators' AI is a weekly Substack newsletter delivering curated AI industry updates, tool releases, and practical case studies for developers, creators, and...

@@ -2,7 +2,7 @@
 name: OctoBot
 url: "https://www.octobot.cloud"
 image: /logos/octobot.png
-screenshot: /screens/octobot.jpg
+screenshot: /screens/octobot.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Octobot is an automated trading platform for cryptocurrency investors, enabling diversified strategies like dollar-cost averaging.

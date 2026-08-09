@@ -2,7 +2,7 @@
 name: Higress
 url: "https://higress.ai"
 image: /logos/higress.png
-screenshot: /screens/higress.jpg
+screenshot: /screens/higress.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Higress.ai is an AI gateway solution that integrates over 100 large language models, streamlining API management with a unified protocol, semantic caching,...

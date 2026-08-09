@@ -2,7 +2,7 @@
 name: ClevopyAi
 url: "https://clevopy.ai/"
 image: /logos/clevopyai.png
-screenshot: /screens/clevopyai.jpg
+screenshot: /screens/clevopyai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: ClevopyAI generates blog posts, ad copy, social media content, product descriptions, and video topics using customizable templates.

@@ -2,7 +2,7 @@
 name: buzzleads.io
 url: "https://buzzleads.io"
 image: /logos/buzzleads-io.png
-screenshot: /screens/buzzleads-io.jpg
+screenshot: /screens/buzzleads-io.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: BuzzLeads consolidates sales, marketing, and customer engagement for small businesses into a single CRM.

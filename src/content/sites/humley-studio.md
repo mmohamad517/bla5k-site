@@ -2,7 +2,7 @@
 name: Humley Studio
 url: "https://humleyai.com"
 image: /logos/humley-studio.png
-screenshot: /screens/humley-studio.jpg
+screenshot: /screens/humley-studio.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Humley delivers context‑aware, hallucination‑free AI assistants powered by large language models, integrating enterprise knowledge bases across web, voice,...

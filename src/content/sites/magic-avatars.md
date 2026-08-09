@@ -2,7 +2,7 @@
 name: Magic Avatars
 url: "https://land.prisma-ai.com/magic-avatars/"
 image: /logos/magic-avatars.png
-screenshot: /screens/magic-avatars.jpg
+screenshot: /screens/magic-avatars.webp
 subcategory: ai-image
 pricing: freemium
 tagline: "Lensa: Magic Avatars converts a single portrait into multiple high‑resolution stylized avatars, preserving facial details while offering diverse artistic..."

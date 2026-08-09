@@ -2,7 +2,7 @@
 name: Alita
 url: "https://theAlita.com"
 image: /logos/alita.png
-screenshot: /screens/alita.jpg
+screenshot: /screens/alita.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Alita aggregates 350 M+ social profiles and 180 M B2B contacts, offering AI‑driven ad optimization and segmentation.

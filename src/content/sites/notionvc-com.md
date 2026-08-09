@@ -2,7 +2,7 @@
 name: NotionVC.com
 url: "https://www.notionvc.com"
 image: /logos/notionvc-com.png
-screenshot: /screens/notionvc-com.jpg
+screenshot: /screens/notionvc-com.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: NotionVC supplies VC teams with customizable Notion templates for deal‑flow management, fundraising CRM, portfolio tracking, and network oversight.

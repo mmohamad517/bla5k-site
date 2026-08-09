@@ -2,7 +2,7 @@
 name: Just Think AI
 url: "https://justthink.ai"
 image: /logos/just-think-ai.png
-screenshot: /screens/just-think-ai.jpg
+screenshot: /screens/just-think-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Just Think AI offers a single platform for AI‑generated content, including chatbot research, text‑to‑speech, text‑to‑image, and image‑to‑video.

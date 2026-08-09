@@ -2,7 +2,7 @@
 name: OpenArt Director
 url: "https://openart.ai/director"
 image: /logos/openart-director.png
-screenshot: /screens/openart-director.jpg
+screenshot: /screens/openart-director.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Openart AI director is an end-to-end AI video and image production platform with scene and asset generation, timeline editing, soundtrack integration and...

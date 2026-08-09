@@ -2,7 +2,7 @@
 name: Starving Robots AI
 url: "https://www.starvingrobots.com"
 image: /logos/starving-robots-ai.png
-screenshot: /screens/starving-robots-ai.jpg
+screenshot: /screens/starving-robots-ai.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: Starving Robots AI generates high-quality custom art prints using advanced upscaling technology.

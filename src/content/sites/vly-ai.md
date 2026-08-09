@@ -2,7 +2,7 @@
 name: Vly AI
 url: "https://vly.ai"
 image: /logos/vly-ai.png
-screenshot: /screens/vly-ai.jpg
+screenshot: /screens/vly-ai.webp
 subcategory: nc-builders
 pricing: paid
 tagline: vly.ai is a full‑stack web builder that embeds AI engines (Claude, Codex, Gemini) into its IDE, offering real‑time REST queries, one‑click publishing,...

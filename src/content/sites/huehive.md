@@ -2,7 +2,7 @@
 name: HueHive
 url: "https://huehive.co"
 image: /logos/huehive.png
-screenshot: /screens/huehive.jpg
+screenshot: /screens/huehive.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: HueHive is an AI‑driven palette generator that quickly creates colors, extracts dominant hues from photos, builds gradients, converts HEX/RGB/HSL/CMYK,...

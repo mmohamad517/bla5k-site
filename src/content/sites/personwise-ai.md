@@ -2,7 +2,7 @@
 name: Personwise AI
 url: "https://personwise.ai"
 image: /logos/personwise-ai.png
-screenshot: /screens/personwise-ai.jpg
+screenshot: /screens/personwise-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Personwise is a digital-human course creation engine that turns a single-line topic prompt into a complete e-learning course with research, narration, and...

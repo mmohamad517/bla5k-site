@@ -2,7 +2,7 @@
 name: TradeInt
 url: "https://www.tradeint.com"
 image: /logos/tradeint.png
-screenshot: /screens/tradeint.jpg
+screenshot: /screens/tradeint.webp
 subcategory: fin-fintech
 pricing: paid
 tagline: TradeInt™ offers global trade data, shipment and bill‑of‑lading records for 200+ countries, enabling users to locate prospects, filter by HS codes, analyze...

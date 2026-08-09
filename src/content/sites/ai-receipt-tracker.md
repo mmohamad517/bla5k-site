@@ -2,7 +2,7 @@
 name: AI Receipt Tracker
 url: "https://www.aireceipttracker.com/"
 image: /logos/ai-receipt-tracker.png
-screenshot: /screens/ai-receipt-tracker.jpg
+screenshot: /screens/ai-receipt-tracker.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: AI Receipt Tracker automates receipt capture via email, mobile photos, and PDFs.

@@ -2,7 +2,7 @@
 name: TextBrew
 url: "https://textbrew.ai/"
 image: /logos/textbrew.png
-screenshot: /screens/textbrew.jpg
+screenshot: /screens/textbrew.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Textbrew is an automated product description generator for e-commerce, creating accurate and SEO-optimized content quickly.

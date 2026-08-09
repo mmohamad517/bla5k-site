@@ -2,7 +2,7 @@
 name: CopilotKit
 url: "https://www.copilotkit.ai"
 image: /logos/copilotkit.png
-screenshot: /screens/copilotkit.jpg
+screenshot: /screens/copilotkit.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Copilotkit accelerates copilot creation with AI features for knowledge retrieval, context understanding, and text editing enhancements.

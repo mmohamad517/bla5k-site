@@ -2,7 +2,7 @@
 name: Lover Snap
 url: "https://loversnap.com"
 image: /logos/lover-snap.png
-screenshot: /screens/lover-snap.jpg
+screenshot: /screens/lover-snap.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Lover Snap is an iOS app that creates virtual characters from user photos and places them in customizable scenes.

@@ -2,7 +2,7 @@
 name: Sparky
 url: "https://www.sparkylife.co"
 image: /logos/sparky.png
-screenshot: /screens/sparky.jpg
+screenshot: /screens/sparky.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Sparky is an AI-driven journaling and note-taking app that enhances focus and productivity through guided sessions, personalized reflections, and structured...

@@ -2,7 +2,7 @@
 name: WriteCap
 url: "https://writecap.co/"
 image: /logos/writecap.png
-screenshot: /screens/writecap.jpg
+screenshot: /screens/writecap.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: "WriteCap AI Caption Generator: An intuitive tool for creating captivating social media captions swiftly."

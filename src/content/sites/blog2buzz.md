@@ -2,7 +2,7 @@
 name: Blog2Buzz
 url: "https://blog2buzz.vercel.app/"
 image: /logos/blog2buzz.png
-screenshot: /screens/blog2buzz.jpg
+screenshot: /screens/blog2buzz.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Blog2Buzz automates blog discovery and content creation by summarizing trending posts and generating shareable tweets.

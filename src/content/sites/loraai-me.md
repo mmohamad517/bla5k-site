@@ -2,7 +2,7 @@
 name: Lora AI
 url: "https://loraai.me/"
 image: /logos/loraai-me.png
-screenshot: /screens/loraai-me.jpg
+screenshot: /screens/loraai-me.webp
 subcategory: ai-image
 pricing: paid
 tagline: Lora AI is a no-code AI image generator that transforms text prompts and optional reference images into high-resolution artwork using pre-trained or...

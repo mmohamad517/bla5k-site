@@ -2,7 +2,7 @@
 name: DomainsGPT
 url: "https://oneword.domains/domains-gpt"
 image: /logos/domainsgpt.png
-screenshot: /screens/domainsgpt.jpg
+screenshot: /screens/domainsgpt.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: DomainsGPT is an AI tool that generates brandable and memorable domain names using OpenAI, Vercel, and Edge Functions.

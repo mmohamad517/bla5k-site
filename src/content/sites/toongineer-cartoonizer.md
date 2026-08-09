@@ -2,7 +2,7 @@
 name: Toongineer Cartoonizer
 url: "https://vanceai.com/toongineer-cartoonizer/"
 image: /logos/toongineer-cartoonizer.png
-screenshot: /screens/toongineer-cartoonizer.jpg
+screenshot: /screens/toongineer-cartoonizer.webp
 subcategory: ai-image
 pricing: paid
 tagline: Toongineer Cartoonizer turns JPEG, PNG, or JPG photos into cartoon images with anime, Disney, Ghibli, or comics styles.

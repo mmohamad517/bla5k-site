@@ -2,7 +2,7 @@
 name: Themis For Crypto
 url: "https://themisforcrypto.com"
 image: /logos/themis-for-crypto.png
-screenshot: /screens/themis-for-crypto.jpg
+screenshot: /screens/themis-for-crypto.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Themis is an AI-driven trading platform that allows users to create automated trading strategies, backtest them using machine learning, and track...

@@ -2,7 +2,7 @@
 name: Tiledesk
 url: "https://tiledesk.com/"
 image: /logos/tiledesk.png
-screenshot: /screens/tiledesk.jpg
+screenshot: /screens/tiledesk.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Tiledesk AI OS enables businesses to create and deploy no‑code AI agents across WhatsApp, Messenger, email, SMS, and custom channels.

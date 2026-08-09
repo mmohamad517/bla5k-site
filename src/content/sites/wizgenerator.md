@@ -2,7 +2,7 @@
 name: WizGenerator
 url: "https://wizgenerator.com/"
 image: /logos/wizgenerator.png
-screenshot: /screens/wizgenerator.jpg
+screenshot: /screens/wizgenerator.webp
 subcategory: mkt-social
 pricing: free
 tagline: WizGenerator offer a suite of tools to enhance creativity for marketing, social media, and business needs.

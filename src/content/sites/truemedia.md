@@ -2,7 +2,7 @@
 name: TrueMedia
 url: "https://www.truemedia.org/"
 image: /logos/truemedia.png
-screenshot: /screens/truemedia.jpg
+screenshot: /screens/truemedia.webp
 subcategory: ai-productivity
 pricing: free
 tagline: TrueMedia.org offers AI-driven tools to detect political deepfakes on social media platforms, helping users assess the authenticity of video and audio content.

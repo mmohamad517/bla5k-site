@@ -2,7 +2,7 @@
 name: Stable Audio
 url: https://www.stableaudio.com/
 image: /logos/stable-audio.png
-screenshot: /screens/stable-audio.jpg
+screenshot: /screens/stable-audio.webp
 subcategory: ai-video-audio
 tagline: "AI music and sound effects generator from Stability AI — open-weight models trained on fully licensed data."
 tags:

@@ -2,7 +2,7 @@
 name: amara
 url: "https://amara.care"
 image: /logos/amara.png
-screenshot: /screens/amara.jpg
+screenshot: /screens/amara.webp
 subcategory: fin-fintech
 pricing: paid
 tagline: Amara automates product sales and appointment booking on WhatsApp for salons, spas, and barbershops.

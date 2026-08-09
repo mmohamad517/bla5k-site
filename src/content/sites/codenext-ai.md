@@ -2,7 +2,7 @@
 name: CodeNext AI
 url: "https://codenext.ai"
 image: /logos/codenext-ai.png
-screenshot: /screens/codenext-ai.jpg
+screenshot: /screens/codenext-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Codenext.ai accelerates iOS and macOS app development with context-aware code completion, a natural language chat feature for code generation, and an...

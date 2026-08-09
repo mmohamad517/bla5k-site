@@ -2,7 +2,7 @@
 name: GenZWrite
 url: "https://genzwrite.com"
 image: /logos/genzwrite.png
-screenshot: /screens/genzwrite.jpg
+screenshot: /screens/genzwrite.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: GenZWrite humanizes AI output by rewriting text into natural, context-aware prose across modes—Academic, Social, DM, Hustle—producing role-specific tones,...

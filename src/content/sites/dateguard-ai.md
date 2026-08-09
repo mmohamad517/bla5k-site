@@ -2,7 +2,7 @@
 name: DateGuard.ai
 url: "https://dateguard.ai"
 image: /logos/dateguard-ai.png
-screenshot: /screens/dateguard-ai.jpg
+screenshot: /screens/dateguard-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: DateGuard.ai is a platform-agnostic biometric liveness tool that verifies online dating profiles in seconds, detecting bots, stolen photos, and impersonation.

@@ -2,7 +2,7 @@
 name: LIveX AI
 url: "https://livex.ai"
 image: /logos/livex-ai.png
-screenshot: /screens/livex-ai.jpg
+screenshot: /screens/livex-ai.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Livex AI enhances customer interactions through AI chat, voice agents, and search, automating engagement to reduce churn and support costs.

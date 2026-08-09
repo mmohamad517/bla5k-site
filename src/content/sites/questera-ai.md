@@ -2,7 +2,7 @@
 name: Questera AI
 url: "https://questera.ai"
 image: /logos/questera-ai.png
-screenshot: /screens/questera-ai.jpg
+screenshot: /screens/questera-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Questera automates personalized customer engagement with AI agents for email, ads and omni-channel journeys, unifying audience data, building and optimizing...

@@ -2,7 +2,7 @@
 name: Brella
 url: "https://brella.io"
 image: /logos/brella.png
-screenshot: /screens/brella.jpg
+screenshot: /screens/brella.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Brella is an event platform for virtual, physical, and hybrid events that uses AI matchmaking to pair attendees, collects post‑event lead scans and ratings,...

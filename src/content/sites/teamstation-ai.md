@@ -2,7 +2,7 @@
 name: TeamStation AI
 url: "https://www.teamstation.dev"
 image: /logos/teamstation-ai.png
-screenshot: /screens/teamstation-ai.jpg
+screenshot: /screens/teamstation-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: TeamStation AI delivers real‑time engineering capacity and health telemetry to executive dashboards, automates onboarding, payroll, and benefits, secures...

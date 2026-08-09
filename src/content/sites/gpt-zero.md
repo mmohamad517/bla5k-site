@@ -2,7 +2,7 @@
 name: GPT Zero
 url: "https://gptzero.me/"
 image: /logos/gpt-zero.png
-screenshot: /screens/gpt-zero.jpg
+screenshot: /screens/gpt-zero.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: GPTZero AI Detector scans documents for potential AI-generated content, providing in-depth results on AI probabilities, vocabulary analysis, and...

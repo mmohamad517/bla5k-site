@@ -2,7 +2,7 @@
 name: MultipleChat
 url: "https://multiple.chat/"
 image: /logos/multiplechat.png
-screenshot: /screens/multiplechat.jpg
+screenshot: /screens/multiplechat.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: MultipleChat integrates ChatGPT, Claude, Gemini, Grok, and Perplexity into a single prompt, displaying each model’s output side‑by‑side.

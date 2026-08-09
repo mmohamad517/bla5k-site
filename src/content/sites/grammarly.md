@@ -2,7 +2,7 @@
 name: Grammarly
 url: https://grammarly.com
 image: /logos/grammarly.png
-screenshot: /screens/grammarly.jpg
+screenshot: /screens/grammarly.webp
 subcategory: write-grammar
 pricing: freemium
 tagline: The AI writing assistant that checks grammar, tone, and clarity everywhere you type.

@@ -2,7 +2,7 @@
 name: PortraitArt
 url: "https://portraitart.app/photo-to-coloring-page"
 image: /logos/portraitart.png
-screenshot: /screens/portraitart.jpg
+screenshot: /screens/portraitart.webp
 subcategory: nc-builders
 pricing: paid
 tagline: PortraitArt converts uploaded photos into custom coloring pages and diverse styles—oil, watercolor, sketch, cartoon, pop art, etc.

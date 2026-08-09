@@ -2,7 +2,7 @@
 name: Letterdrop
 url: "https://letterdrop.com/"
 image: /logos/letterdrop.png
-screenshot: /screens/letterdrop.jpg
+screenshot: /screens/letterdrop.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: Letterdrop aggregates public, competitor, and job‑change signals to identify high‑intent prospects.

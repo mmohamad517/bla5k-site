@@ -2,7 +2,7 @@
 name: Daymi
 url: "https://daymi.ai"
 image: /logos/daymi.png
-screenshot: /screens/daymi.jpg
+screenshot: /screens/daymi.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Daymi is a personal AI assistant that mimics your voice and style in conversations.

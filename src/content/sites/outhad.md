@@ -2,7 +2,7 @@
 name: Outhad
 url: "https://outhad.com"
 image: /logos/outhad.png
-screenshot: /screens/outhad.jpg
+screenshot: /screens/outhad.webp
 subcategory: mkt-social
 pricing: free
 tagline: Outhad AI is a real-time customer activation platform that unifies data, automates customer journeys, and delivers personalized experiences using AI.

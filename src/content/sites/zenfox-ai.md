@@ -2,7 +2,7 @@
 name: Zenfox AI
 url: "https://zenfox.ai"
 image: /logos/zenfox-ai.png
-screenshot: /screens/zenfox-ai.jpg
+screenshot: /screens/zenfox-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Zenfox.ai is an agentic AI platform that connects 3,000+ apps (Gmail, Slack, CRM, etc.) to execute real-system tasks and automate end-to-end workflows using...

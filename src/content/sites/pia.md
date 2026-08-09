@@ -2,7 +2,7 @@
 name: PIA
 url: "https://www.piax.org"
 image: /logos/pia.png
-screenshot: /screens/pia.jpg
+screenshot: /screens/pia.webp
 subcategory: ai-chat
 pricing: free
 tagline: Pia Personal Intelligence Assistant enhances productivity with chat functions, image/video search, and file upload support.

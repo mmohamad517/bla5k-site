@@ -2,7 +2,7 @@
 name: Walter writes AI
 url: "https://walterwrites.ai/"
 image: /logos/walter-writes-ai.png
-screenshot: /screens/walter-writes-ai.jpg
+screenshot: /screens/walter-writes-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Walter Writes AI enhances AI-generated content by refining its structure and tone, making it indistinguishable from human writing.

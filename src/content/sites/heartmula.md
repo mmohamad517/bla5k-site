@@ -2,7 +2,7 @@
 name: HeartMuLa
 url: https://heart-mula.com/
 image: /logos/heartmula.png
-screenshot: /screens/heartmula.jpg
+screenshot: /screens/heartmula.webp
 subcategory: ai-video-audio
 tagline: "AI music generator — creates full songs with vocals from text prompts using a 3-billion-parameter model, with royalty-free commercial licensing."
 tags:

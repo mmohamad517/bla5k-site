@@ -2,7 +2,7 @@
 name: Yield Seeker
 url: "https://yieldseeker.xyz"
 image: /logos/yield-seeker.png
-screenshot: /screens/yield-seeker.jpg
+screenshot: /screens/yield-seeker.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Yield Seeker is an AI-driven platform that optimizes stablecoin yields by analyzing DeFi protocols in real-time.

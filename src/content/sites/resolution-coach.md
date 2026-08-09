@@ -2,7 +2,7 @@
 name: Resolution Coach
 url: "https://resolutioncoach.co"
 image: /logos/resolution-coach.png
-screenshot: /screens/resolution-coach.jpg
+screenshot: /screens/resolution-coach.webp
 subcategory: learn-courses
 pricing: paid
 tagline: Resolution Coach is an AI tool that offers personalized coaching and daily accountability for achieving New Year's resolutions.

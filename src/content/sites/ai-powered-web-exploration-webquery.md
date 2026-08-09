@@ -2,7 +2,7 @@
 name: AI
 url: "https://www.webquery.net"
 image: /logos/ai-powered-web-exploration-webquery.png
-screenshot: /screens/ai-powered-web-exploration-webquery.jpg
+screenshot: /screens/ai-powered-web-exploration-webquery.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: WebQuery lets users load URLs to build an indexed knowledge base that can be queried in natural language.

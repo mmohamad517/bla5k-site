@@ -2,7 +2,7 @@
 name: Elium.com
 url: "https://elium.com"
 image: /logos/elium-com.png
-screenshot: /screens/elium-com.jpg
+screenshot: /screens/elium-com.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Elium centralizes corporate data, providing instant AI‑generated answers and AI‑enhanced search.

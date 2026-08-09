@@ -2,7 +2,7 @@
 name: Magicley AI
 url: "https://magicley.com/"
 image: /logos/magicley-ai.png
-screenshot: /screens/magicley-ai.jpg
+screenshot: /screens/magicley-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Magicley AI is a comprehensive content creation tool that offers AI-generated text and images, custom templates, voice cloning, and chatbot features,...

@@ -2,7 +2,7 @@
 name: Oven AI
 url: "https://oveners.com"
 image: /logos/oven-ai.png
-screenshot: /screens/oven-ai.jpg
+screenshot: /screens/oven-ai.webp
 subcategory: design-3d
 pricing: paid
 tagline: Oven AI is a 3D icon generator that enables designers and developers to create customizable, high-quality icons.

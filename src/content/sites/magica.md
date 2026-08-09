@@ -2,7 +2,7 @@
 name: Magica
 url: "https://magica.com/"
 image: /logos/magica.png
-screenshot: /screens/magica.jpg
+screenshot: /screens/magica.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Magica is an all-in-one AI agent platform that unifies text, image, audio, and video generation to automate complex creative workflows.

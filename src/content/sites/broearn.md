@@ -2,7 +2,7 @@
 name: Broearn
 url: "https://www.broearn.com"
 image: /logos/broearn.png
-screenshot: /screens/broearn.jpg
+screenshot: /screens/broearn.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: Broearn Browser is a Web 3.0 browser with an integrated multi‑chain wallet and smart‑contract functionality.

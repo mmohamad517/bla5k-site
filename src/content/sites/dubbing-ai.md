@@ -2,7 +2,7 @@
 name: Dubbing AI
 url: https://dubbing.ai/
 image: /logos/dubbing-ai.png
-screenshot: /screens/dubbing-ai.jpg
+screenshot: /screens/dubbing-ai.webp
 subcategory: ai-video-audio
 tagline: "AI dubbing and voice cloning — translate videos into 30+ languages with your voice."
 tags: [dubbing ai, voice cloning, translation, multilingual, video]

@@ -2,7 +2,7 @@
 name: Dualite
 url: "https://dualite.dev"
 image: /logos/dualite.png
-screenshot: /screens/dualite.jpg
+screenshot: /screens/dualite.webp
 subcategory: nc-builders
 pricing: paid
 tagline: Dualite is an AI-driven platform enabling users to create functional mobile and web applications without coding.

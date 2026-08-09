@@ -2,7 +2,7 @@
 name: Etsy generator
 url: "https://etsygenerator.com"
 image: /logos/etsy-generator.png
-screenshot: /screens/etsy-generator.jpg
+screenshot: /screens/etsy-generator.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: EtsyGenerator, an AI-powered tool to maximize Etsy shop potential.

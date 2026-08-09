@@ -2,7 +2,7 @@
 name: SaaSy Trends
 url: "https://saasytrends.com"
 image: /logos/saasy-trends.png
-screenshot: /screens/saasy-trends.jpg
+screenshot: /screens/saasy-trends.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: Saasy Trends is a newsletter offering access to a database of over 30,000 SaaS startups.

@@ -2,7 +2,7 @@
 name: Giti
 url: "https://giti.ai/"
 image: /logos/giti.png
-screenshot: /screens/giti.jpg
+screenshot: /screens/giti.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Giti ChatGPT is a multilingual AI chatbot that generates text in 130+ languages.

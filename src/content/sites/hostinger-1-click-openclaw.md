@@ -2,7 +2,7 @@
 name: Hostinger | 1-Click OpenClaw
 url: "https://www.hostinger.com/openclaw"
 image: /logos/hostinger-1-click-openclaw.png
-screenshot: /screens/hostinger-1-click-openclaw.jpg
+screenshot: /screens/hostinger-1-click-openclaw.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: 1-Click OpenClaw is a domain management tool that performs instant WHOIS lookups to check availability, verify ownership, and view registration details.

@@ -2,7 +2,7 @@
 name: artvisual.ai
 url: "https://artvisual.ai/"
 image: /logos/artvisual-ai.png
-screenshot: /screens/artvisual-ai.jpg
+screenshot: /screens/artvisual-ai.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: Artvisual.ai is an AI‑driven platform that transforms images into custom wall art, canvas prints, and posters using algorithmic brushwork.

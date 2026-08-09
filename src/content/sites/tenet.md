@@ -2,7 +2,7 @@
 name: Tenet
 url: "https://yourtenet.com/"
 image: /logos/tenet.png
-screenshot: /screens/tenet.jpg
+screenshot: /screens/tenet.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Tenet is a comprehensive AI marketing agent that automates research, strategy, content creation, and SEO for lean teams.

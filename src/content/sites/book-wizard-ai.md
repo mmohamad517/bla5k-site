@@ -2,7 +2,7 @@
 name: Book Wizard AI
 url: "https://bookwizardai.com"
 image: /logos/book-wizard-ai.png
-screenshot: /screens/book-wizard-ai.jpg
+screenshot: /screens/book-wizard-ai.webp
 subcategory: ai-writing
 pricing: paid
 tagline: "Book Wizard AI automates book creation: input title, description, and audience, and it generates a structured table of contents, full chapter content, and..."

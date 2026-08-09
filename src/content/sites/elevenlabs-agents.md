@@ -2,7 +2,7 @@
 name: Elevenlabs Agents
 url: "https://elevenlabs.io/agents"
 image: /logos/elevenlabs-agents.png
-screenshot: /screens/elevenlabs-agents.jpg
+screenshot: /screens/elevenlabs-agents.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: ElevenAgents is a platform for building and deploying multilingual AI voice and chat agents across channels like phone and web.

@@ -2,7 +2,7 @@
 name: PennyFlo
 url: "https://www.pennyflo.io/"
 image: /logos/pennyflo.png
-screenshot: /screens/pennyflo.jpg
+screenshot: /screens/pennyflo.webp
 subcategory: ai-productivity
 pricing: free
 tagline: PennyFlo is an AI tool specifically designed for small businesses and freelancers, providing streamlined cash flow management through features like cash...

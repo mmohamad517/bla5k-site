@@ -2,7 +2,7 @@
 name: "Re:amaze"
 url: "https://reamaze.com"
 image: /logos/re-amaze.png
-screenshot: /screens/re-amaze.jpg
+screenshot: /screens/re-amaze.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: "Re:amaze unifies email, chat, social, SMS, VoIP, video, and push into a shared inbox, uses AI to draft replies, summarize, and analyze sentiment."

@@ -2,7 +2,7 @@
 name: Chatnra
 url: "https://www.chatnra.com/"
 image: /logos/chatnra.png
-screenshot: /screens/chatnra.jpg
+screenshot: /screens/chatnra.webp
 subcategory: fin-fintech
 pricing: paid
 tagline: ChatNRA offers online formation and ongoing compliance for U.S.

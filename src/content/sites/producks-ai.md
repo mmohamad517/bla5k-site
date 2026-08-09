@@ -2,7 +2,7 @@
 name: Producks AI
 url: "https://producks.ai"
 image: /logos/producks-ai.png
-screenshot: /screens/producks-ai.jpg
+screenshot: /screens/producks-ai.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Producks.ai automatically generates SEO‑optimized product titles and descriptions from product photos, extracting key visual attributes and assembling...

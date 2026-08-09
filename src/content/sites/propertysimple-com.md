@@ -2,7 +2,7 @@
 name: propertysimple.com
 url: "https://propertysimple.com"
 image: /logos/propertysimple-com.png
-screenshot: /screens/propertysimple-com.jpg
+screenshot: /screens/propertysimple-com.webp
 subcategory: mkt-social
 pricing: paid
 tagline: propertysimple.com is a real estate marketing platform that automates social media ads and content for listings.

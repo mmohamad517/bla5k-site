@@ -2,7 +2,7 @@
 name: voicy.ai
 url: "https://voicy.ai"
 image: /logos/voicy-ai.png
-screenshot: /screens/voicy-ai.jpg
+screenshot: /screens/voicy-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Voicy.AI automates customer interactions for offline commerce, handling calls, texts, chat, and voice in real time.

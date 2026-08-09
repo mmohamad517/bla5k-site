@@ -2,7 +2,7 @@
 name: TeamSmart
 url: "https://askai.free/team-ai"
 image: /logos/teamsmart.png
-screenshot: /screens/teamsmart.jpg
+screenshot: /screens/teamsmart.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: TeamSmart.ai deploys autonomous AI agents that automate complex business workflows, learning from interactions and making independent decisions.

@@ -2,7 +2,7 @@
 name: fieldnotes.ai
 url: "https://fieldnotes.ai"
 image: /logos/fieldnotes-ai.png
-screenshot: /screens/fieldnotes-ai.jpg
+screenshot: /screens/fieldnotes-ai.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: Fieldnotes.ai is an AI platform for real estate professionals, automating lead management and follow-ups through voice, text, and email.

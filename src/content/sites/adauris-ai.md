@@ -2,7 +2,7 @@
 name: Adauris AI
 url: "https://adauris.ai"
 image: /logos/adauris-ai.png
-screenshot: /screens/adauris-ai.jpg
+screenshot: /screens/adauris-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Adauris converts written content into podcast-ready audio using automated script generation and multilingual TTS (50+ voices), offers distribution and...

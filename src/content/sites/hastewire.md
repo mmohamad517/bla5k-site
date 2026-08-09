@@ -2,7 +2,7 @@
 name: Hastewire
 url: "https://hastewire.com"
 image: /logos/hastewire.png
-screenshot: /screens/hastewire.jpg
+screenshot: /screens/hastewire.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Hastewire is an AI platform that humanizes content and detects AI-generated text.

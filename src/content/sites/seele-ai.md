@@ -2,7 +2,7 @@
 name: SEELE AI
 url: "https://www.seeles.ai/home"
 image: /logos/seele-ai.png
-screenshot: /screens/seele-ai.jpg
+screenshot: /screens/seele-ai.webp
 subcategory: design-3d
 pricing: freemium
 tagline: SEELE AI is a multimodal AI tool that transforms text into dynamic 3D game worlds with infinite remixing capabilities.

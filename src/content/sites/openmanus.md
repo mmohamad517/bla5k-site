@@ -2,7 +2,7 @@
 name: OpenManus
 url: "https://github.com/mannaandpoem/OpenManus"
 image: /logos/openmanus.png
-screenshot: /screens/openmanus.jpg
+screenshot: /screens/openmanus.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: OpenManus is an open-source framework for building AI agents, offering flexibility and ease of use.

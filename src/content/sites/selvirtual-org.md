@@ -2,7 +2,7 @@
 name: selvirtual.org
 url: "https://confinor.com/"
 image: /logos/selvirtual-org.png
-screenshot: /screens/selvirtual-org.jpg
+screenshot: /screens/selvirtual-org.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: SelvioQuant is a mobile-first cryptocurrency exchange with synchronized web access, BRL support, recurring buys, bank/card funding, portfolio aggregation,...

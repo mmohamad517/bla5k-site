@@ -2,7 +2,7 @@
 name: Voyp
 url: "https://voyp.app/"
 image: /logos/voyp.png
-screenshot: /screens/voyp.jpg
+screenshot: /screens/voyp.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Voyp is an AI call agent that schedules appointments, reservations, and phone tasks via voice or text, auto‑adds events, records calls, supports multiple...

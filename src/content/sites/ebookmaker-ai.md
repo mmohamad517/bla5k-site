@@ -2,7 +2,7 @@
 name: ebookmaker.ai
 url: "https://www.ebookmaker.ai"
 image: /logos/ebookmaker-ai.png
-screenshot: /screens/ebookmaker-ai.jpg
+screenshot: /screens/ebookmaker-ai.webp
 subcategory: ai-writing
 pricing: free
 tagline: Ebookmaker turns a title or brief description into a fully structured e‑book, letting users choose chapters, edit text, insert images, tweak layout, add...

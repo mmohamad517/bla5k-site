@@ -2,7 +2,7 @@
 name: VibeMe AI
 url: "https://www.vibemeai.net/"
 image: /logos/vibeme-ai.png
-screenshot: /screens/vibeme-ai.jpg
+screenshot: /screens/vibeme-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: VibeMe AI is an end-to-end creative studio that lets you generate original songs, synthesize vocals, and turn text ideas into music videos.

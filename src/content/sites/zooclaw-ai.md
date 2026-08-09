@@ -2,7 +2,7 @@
 name: Zooclaw AI
 url: "https://zooclaw.ai/"
 image: /logos/zooclaw-ai.png
-screenshot: /screens/zooclaw-ai.jpg
+screenshot: /screens/zooclaw-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Zooclaw provides role-ready AI specialist teams with built-in workflows, tools, and context for tasks; intelligent routing to top models, persistent...

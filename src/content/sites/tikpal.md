@@ -2,7 +2,7 @@
 name: Tikpal
 url: "https://tikpal.ai"
 image: /logos/tikpal.png
-screenshot: /screens/tikpal.jpg
+screenshot: /screens/tikpal.webp
 subcategory: ai-video-audio
 pricing: free
 tagline: Tikpal is an AI voice recorder that captures and organizes audio using a four-microphone array, AI noise reduction, and multi-agent workflows with...

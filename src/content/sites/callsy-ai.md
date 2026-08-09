@@ -2,7 +2,7 @@
 name: Callsy AI
 url: "https://www.callsy.ai/"
 image: /logos/callsy-ai.png
-screenshot: /screens/callsy-ai.jpg
+screenshot: /screens/callsy-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Callsy.ai is an AI inbound sales agent that calls demo-form submitters within 90 seconds, qualifies leads using configurable playbooks, and hot-routes...

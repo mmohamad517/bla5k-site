@@ -2,7 +2,7 @@
 name: getsleek.ai
 url: "https://getsleek.ai"
 image: /logos/getsleek-ai.png
-screenshot: /screens/getsleek-ai.jpg
+screenshot: /screens/getsleek-ai.webp
 subcategory: mkt-social
 pricing: free
 tagline: Sleek AI is an all-in-one marketing automation platform utilizing AI for campaign management and optimization.

@@ -2,7 +2,7 @@
 name: socialprofiler.com
 url: "https://socialprofiler.com/"
 image: /logos/socialprofiler-com.png
-screenshot: /screens/socialprofiler-com.jpg
+screenshot: /screens/socialprofiler-com.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: socialprofiler.com is a platform for instant social media background checks and screening for candidate vetting, due diligence, and investigations.It...

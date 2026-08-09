@@ -2,7 +2,7 @@
 name: BloggerAI
 url: "https://bloggerai.app/"
 image: /logos/bloggerai.png
-screenshot: /screens/bloggerai.jpg
+screenshot: /screens/bloggerai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: BloggerAI uses GPT to create, rewrite, summarize, and translate blog content into 10+ languages.

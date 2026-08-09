@@ -2,7 +2,7 @@
 name: Memno
 url: "https://www.memno.ai"
 image: /logos/memno.png
-screenshot: /screens/memno.jpg
+screenshot: /screens/memno.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Memno is a privacy-first personal AI assistant that builds a personal knowledge graph from photos, documents, voice notes, emails, contacts and calendars to...

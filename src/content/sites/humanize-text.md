@@ -2,7 +2,7 @@
 name: Humanize Text
 url: "https://humanizetext.ai"
 image: /logos/humanize-text.png
-screenshot: /screens/humanize-text.jpg
+screenshot: /screens/humanize-text.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Humanize Text AI rewrites AI‑generated content into natural, human‑like prose, removing detectable patterns so it passes tools like Turnitin.

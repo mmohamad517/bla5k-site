@@ -2,7 +2,7 @@
 name: MyGPT
 url: "https://mygpt.thesamur.ai/"
 image: /logos/mygpt.png
-screenshot: /screens/mygpt.jpg
+screenshot: /screens/mygpt.webp
 subcategory: ai-chat
 pricing: free
 tagline: A free and fast Chat interface powered by ChatGPT API with prompts support, which can be enhanced by installing plugins via MyGPT, requiring an OpenAI API key.

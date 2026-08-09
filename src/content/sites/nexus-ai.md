@@ -2,7 +2,7 @@
 name: Nexus AI
 url: "https://mynexusai.com/"
 image: /logos/nexus-ai.png
-screenshot: /screens/nexus-ai.jpg
+screenshot: /screens/nexus-ai.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Nexus AI generates articles, research text, and citations while providing AI‑generated images and text‑to‑speech.

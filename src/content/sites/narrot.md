@@ -2,7 +2,7 @@
 name: Narrot
 url: "https://narrot.org/"
 image: /logos/narrot.png
-screenshot: /screens/narrot.jpg
+screenshot: /screens/narrot.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Narrot is an AI‑powered customer support API that delivers instant, context‑aware responses in multiple languages.

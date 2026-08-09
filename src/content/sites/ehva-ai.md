@@ -2,7 +2,7 @@
 name: EHVA.ai
 url: "https://ehva.ai"
 image: /logos/ehva-ai.png
-screenshot: /screens/ehva-ai.jpg
+screenshot: /screens/ehva-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Ehva is a conversational AI tool that enhances business phone communication by managing high call volumes, integrating with existing systems, and providing...

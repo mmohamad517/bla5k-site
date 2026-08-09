@@ -2,7 +2,7 @@
 name: Storylyft
 url: "https://www.storylyft.com"
 image: /logos/storylyft.png
-screenshot: /screens/storylyft.jpg
+screenshot: /screens/storylyft.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Storylyft AI allows users to create customizable digital avatars and stories, offering both public and private settings.

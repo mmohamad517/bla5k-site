@@ -2,7 +2,7 @@
 name: CoinSignal
 url: "https://www.coinsignal.app"
 image: /logos/coinsignal.png
-screenshot: /screens/coinsignal.jpg
+screenshot: /screens/coinsignal.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: CoinSignal is an AI-driven platform for cryptocurrency market analysis, offering real-time insights and over 100 daily trading signals for major...

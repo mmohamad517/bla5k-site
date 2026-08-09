@@ -2,7 +2,7 @@
 name: simbla.com
 url: "https://simbla.com"
 image: /logos/simbla-com.png
-screenshot: /screens/simbla-com.jpg
+screenshot: /screens/simbla-com.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Simbla is an AI-driven, no-code CRM that generates tailored cloud CRMs from natural-language requirements, providing contact and pipeline management,...

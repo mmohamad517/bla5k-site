@@ -2,7 +2,7 @@
 name: trellis-2.net
 url: "https://trellis-2.net/"
 image: /logos/trellis-2-net.png
-screenshot: /screens/trellis-2-net.jpg
+screenshot: /screens/trellis-2-net.webp
 subcategory: design-3d
 pricing: freemium
 tagline: trellis-2.net is a 3D asset generator that turns images or text prompts into textured models with clear geometry.

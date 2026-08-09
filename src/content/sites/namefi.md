@@ -2,7 +2,7 @@
 name: Namefi
 url: "https://www.namefi.io"
 image: /logos/namefi.png
-screenshot: /screens/namefi.jpg
+screenshot: /screens/namefi.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Namefi is a blockchain-based domain trading platform that enables users to register and import domains as NFTs across 329 TLDs.

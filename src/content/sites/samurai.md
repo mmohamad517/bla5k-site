@@ -2,7 +2,7 @@
 name: SamurAi
 url: "https://www.thesamur.ai/"
 image: /logos/samurai.png
-screenshot: /screens/samurai.jpg
+screenshot: /screens/samurai.webp
 subcategory: nc-builders
 pricing: free
 tagline: SamurAI is a community chatbot built on ChatGPT that allows you to create, manage, and grow your community on Discord through features such as creating...

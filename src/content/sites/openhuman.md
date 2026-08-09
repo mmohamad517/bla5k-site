@@ -2,7 +2,7 @@
 name: OpenHuman
 url: "https://github.com/tinyhumansai/openhuman"
 image: /logos/openhuman.png
-screenshot: /screens/openhuman.jpg
+screenshot: /screens/openhuman.webp
 subcategory: ai-chat
 pricing: free
 tagline: OpenHuman is an open-source personal AI framework for private, on‑premises deployments and local model execution, providing an agent framework, prompt...

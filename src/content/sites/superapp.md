@@ -2,7 +2,7 @@
 name: Superapp
 url: "https://www.superappp.com"
 image: /logos/superapp.png
-screenshot: /screens/superapp.jpg
+screenshot: /screens/superapp.webp
 subcategory: nc-builders
 pricing: paid
 tagline: Superapp generates production-ready native Swift iPhone apps from plain-English descriptions, using AI to design screens, assemble Swift code, and guide App...

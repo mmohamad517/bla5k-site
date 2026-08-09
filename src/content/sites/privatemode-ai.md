@@ -2,7 +2,7 @@
 name: Privatemode AI
 url: "https://www.privatemode.ai/de"
 image: /logos/privatemode-ai.png
-screenshot: /screens/privatemode-ai.jpg
+screenshot: /screens/privatemode-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Privatemode AI is a privacy-first AI assistant and inference API that ensures user data remains encrypted at all times, even during processing.

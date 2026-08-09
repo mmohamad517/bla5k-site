@@ -2,7 +2,7 @@
 name: Coachit AI
 url: "https://coachit.ai/"
 image: /logos/coachit-ai.png
-screenshot: /screens/coachit-ai.jpg
+screenshot: /screens/coachit-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Coachit AI is a comprehensive all-in-one tool for content creators and marketers, offering AI-powered features like a writer, image generator, chatbots, and...

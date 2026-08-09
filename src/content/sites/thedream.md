@@ -2,7 +2,7 @@
 name: TheDream
 url: "https://thedream.ai/"
 image: /logos/thedream.png
-screenshot: /screens/thedream.jpg
+screenshot: /screens/thedream.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: TheDream.ai is an AI tool that creates perfect AI pictures, Instagram posts, LinkedIn photos, photoshoots, AI avatars and allows users to choose from a...

@@ -2,7 +2,7 @@
 name: AutoPitch.ai
 url: "https://autopitch.ai"
 image: /logos/autopitch-ai.png
-screenshot: /screens/autopitch-ai.jpg
+screenshot: /screens/autopitch-ai.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: AutoPitch automates account research from multiple data sources, producing detailed prospect profiles, fit analyses, and role‑specific outreach emails.

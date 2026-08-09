@@ -2,7 +2,7 @@
 name: Slicker
 url: "https://www.slickerhq.com/"
 image: /logos/slicker.png
-screenshot: /screens/slicker.jpg
+screenshot: /screens/slicker.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Slicker is an AI‑driven payment recovery platform that analyzes failed recurring transactions to choose the optimal retry or communication strategy.

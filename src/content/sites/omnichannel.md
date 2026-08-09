@@ -2,7 +2,7 @@
 name: OmniChannel
 url: "https://www.omni.us"
 image: /logos/omnichannel.png
-screenshot: /screens/omnichannel.jpg
+screenshot: /screens/omnichannel.webp
 subcategory: nc-automation
 pricing: freemium
 tagline: Omni Channel Outreach System automates and centralizes outbound campaigns across email, LinkedIn, and other platforms.

@@ -2,7 +2,7 @@
 name: BookScribi
 url: "https://bookscribi.com"
 image: /logos/bookscribi.png
-screenshot: /screens/bookscribi.jpg
+screenshot: /screens/bookscribi.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Bookscribi is an AI platform for creating non-fiction books and poetry, allowing users to generate manuscripts through topic input.

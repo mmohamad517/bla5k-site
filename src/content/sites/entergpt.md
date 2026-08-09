@@ -2,7 +2,7 @@
 name: EnterGPT
 url: "https://entergpt.com/"
 image: /logos/entergpt.png
-screenshot: /screens/entergpt.jpg
+screenshot: /screens/entergpt.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: EnterGPT offers innovative AI solutions for businesses with a focus on data security and operational collaboration using cutting-edge features and leading...

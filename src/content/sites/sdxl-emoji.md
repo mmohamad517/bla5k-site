@@ -2,7 +2,7 @@
 name: SDXL emoji
 url: "https://replicate.com/fofr/sdxl-emoji"
 image: /logos/sdxl-emoji.png
-screenshot: /screens/sdxl-emoji.jpg
+screenshot: /screens/sdxl-emoji.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: The fofr/sdxl-emoji AI tool is an API that generates images based on Apple emojis with various features and a fast runtime of 15.18 seconds.

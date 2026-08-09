@@ -2,7 +2,7 @@
 name: Launchpad Stack
 url: "https://launchpadstack.com"
 image: /logos/launchpad-stack.png
-screenshot: /screens/launchpad-stack.jpg
+screenshot: /screens/launchpad-stack.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Launchpad Stack is a full-stack development tool that generates custom, interoperable code packages based on user inputs, streamlining the deployment of...

@@ -2,7 +2,7 @@
 name: HireTechies
 url: "https://www.hiretechies.net"
 image: /logos/hiretechies.png
-screenshot: /screens/hiretechies.jpg
+screenshot: /screens/hiretechies.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: HireTechies centralizes IT hiring with an AI applicant tracking system that automates resume screening and candidate matching, schedules interviews,...

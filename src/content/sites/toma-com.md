@@ -2,7 +2,7 @@
 name: toma.com
 url: "https://toma.com"
 image: /logos/toma-com.png
-screenshot: /screens/toma-com.jpg
+screenshot: /screens/toma-com.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Toma is a dealership AI platform that automates inbound/outbound call handling, appointment scheduling, recall outreach and message routing for service...

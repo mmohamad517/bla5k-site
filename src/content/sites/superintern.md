@@ -2,7 +2,7 @@
 name: SuperIntern
 url: "https://www.superintern.ai"
 image: /logos/superintern.png
-screenshot: /screens/superintern.jpg
+screenshot: /screens/superintern.webp
 subcategory: nc-automation
 pricing: paid
 tagline: SuperIntern is an all-in-one AI workplace assistant that automates meeting summaries, email triage, scheduling, and social media publishing.

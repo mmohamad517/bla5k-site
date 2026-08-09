@@ -2,7 +2,7 @@
 name: Dropchat
 url: "https://dropchat.co/"
 image: /logos/dropchat.png
-screenshot: /screens/dropchat.jpg
+screenshot: /screens/dropchat.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Dropchat is a no-code chatbot builder that imports PDFs, YouTube videos, and webpages to train assistants.

@@ -2,7 +2,7 @@
 name: YACSS
 url: "https://yacss.site"
 image: /logos/yacss.png
-screenshot: /screens/yacss.jpg
+screenshot: /screens/yacss.webp
 subcategory: ai-writing
 pricing: paid
 tagline: YACSS automatically generates static HTML sites from a keyword, integrates with major cloud hosts for backlinking, builds up to 500 pages per site, supports...

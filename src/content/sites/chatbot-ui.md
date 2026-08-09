@@ -2,7 +2,7 @@
 name: Chatbot UI
 url: "https://www.chatbotui.com/"
 image: /logos/chatbot-ui.png
-screenshot: /screens/chatbot-ui.jpg
+screenshot: /screens/chatbot-ui.webp
 subcategory: nc-builders
 pricing: free
 tagline: Open source chatbot UI for cloning OpenAI's GPT chat UI Chatbot builder Free

@@ -2,7 +2,7 @@
 name: atriumhq.com
 url: "https://www.fullcast.com/product/fullcast-performance/"
 image: /logos/atriumhq-com.png
-screenshot: /screens/atriumhq-com.jpg
+screenshot: /screens/atriumhq-com.webp
 subcategory: learn-courses
 pricing: paid
 tagline: Fullcast Performance integrates with CRM, data warehouses, and communication tools to unify sales planning and execution.

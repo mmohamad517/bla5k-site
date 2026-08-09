@@ -2,7 +2,7 @@
 name: Shakespeare.diy
 url: "https://shakespeare.diy/"
 image: /logos/shakespeare-diy.png
-screenshot: /screens/shakespeare-diy.jpg
+screenshot: /screens/shakespeare-diy.webp
 subcategory: nc-builders
 pricing: free
 tagline: Shakespeare is an open-source AI builder for decentralized applications, featuring community-driven apps for social connectivity, private journaling, task...

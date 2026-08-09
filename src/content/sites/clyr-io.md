@@ -2,7 +2,7 @@
 name: Clyr
 url: "https://clyr.io"
 image: /logos/clyr-io.png
-screenshot: /screens/clyr-io.jpg
+screenshot: /screens/clyr-io.webp
 subcategory: ai-chat
 pricing: free
 tagline: Clyr centralizes expense and bill management for field and finance teams, offering real-time receipt capture, AI-driven transaction coding and matching,...

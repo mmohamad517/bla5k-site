@@ -2,7 +2,7 @@
 name: AutoResponder
 url: "https://www.autoresponder.ai/"
 image: /logos/autoresponder.png
-screenshot: /screens/autoresponder.jpg
+screenshot: /screens/autoresponder.webp
 subcategory: ai-chat
 pricing: free
 tagline: AutoResponder.ai automates messaging on WhatsApp, Facebook Messenger, Instagram, Telegram, Signal, and Viber by delivering predefined replies.

@@ -2,7 +2,7 @@
 name: DevBooster
 url: "https://devbooster.ai"
 image: /logos/devbooster.png
-screenshot: /screens/devbooster.jpg
+screenshot: /screens/devbooster.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: DevBooster is an AI coding assistant that enhances productivity by providing real-time code validation, intelligent code translation across 100+ languages,...

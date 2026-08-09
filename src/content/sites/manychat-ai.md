@@ -2,7 +2,7 @@
 name: Manychat AI
 url: "https://manychat.com/product/ai"
 image: /logos/manychat-ai.png
-screenshot: /screens/manychat-ai.jpg
+screenshot: /screens/manychat-ai.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: ManyChat is a multi-channel chatbot and messaging automation platform (Messenger, Instagram, WhatsApp, SMS, email) offering a visual flow builder, audience...

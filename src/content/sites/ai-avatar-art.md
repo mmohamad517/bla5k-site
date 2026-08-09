@@ -2,7 +2,7 @@
 name: AI Avatar Art
 url: "https://ai-avatar.art/"
 image: /logos/ai-avatar-art.png
-screenshot: /screens/ai-avatar-art.jpg
+screenshot: /screens/ai-avatar-art.webp
 subcategory: ai-image
 pricing: freemium
 tagline: AI Avatar Art creates realistic talking videos from photos, generating personalized avatars with natural expressions and lip-sync in 40+ languages.

@@ -2,7 +2,7 @@
 name: Bookeeping AI
 url: "https://bookeeping.ai"
 image: /logos/ai-bookkeeping.png
-screenshot: /screens/ai-bookkeeping.jpg
+screenshot: /screens/ai-bookkeeping.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: AI Bookkeeping is an AI-powered accounting tool that automates bookkeeping, invoicing, and financial document analysis through chat-based management.

@@ -2,7 +2,7 @@
 name: Myreader AI
 url: "https://myreader.ai"
 image: /logos/myreader-ai.png
-screenshot: /screens/myreader-ai.jpg
+screenshot: /screens/myreader-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Myreader is an AI reading assistant that accepts PDFs, EPUBs, YouTube videos, and web articles, enabling chat‑based queries, concise summaries, contextual...

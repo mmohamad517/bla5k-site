@@ -2,7 +2,7 @@
 name: Roadway
 url: "https://www.roadwayai.com/"
 image: /logos/roadway.png
-screenshot: /screens/roadway.jpg
+screenshot: /screens/roadway.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Roadway aggregates performance‑marketing data from multiple sources into a single warehouse‑native workspace, enabling cross‑channel attribution, KPI...

@@ -2,7 +2,7 @@
 name: ChatScopeAI
 url: "https://chat.datascope.io/"
 image: /logos/chatscopeai.png
-screenshot: /screens/chatscopeai.jpg
+screenshot: /screens/chatscopeai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: ChatScope AI embeds in Slack, providing instant ChatGPT, DALL‑E, Bard access via direct messages and commands.

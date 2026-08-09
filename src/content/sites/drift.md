@@ -2,7 +2,7 @@
 name: Drift
 url: "https://www.drift.com/"
 image: /logos/drift.png
-screenshot: /screens/drift.jpg
+screenshot: /screens/drift.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Drift is an AI chat agent that engages visitors, answers questions, qualifies leads, and routes them to reps or meetings.

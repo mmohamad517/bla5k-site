@@ -2,7 +2,7 @@
 name: Novu Connect
 url: "https://novu.co/connect"
 image: /logos/novu-connect.png
-screenshot: /screens/novu-connect.jpg
+screenshot: /screens/novu-connect.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Novu Connect deploys managed Claude agents across Slack, Teams, WhatsApp, email and more while preserving a single conversational thread.

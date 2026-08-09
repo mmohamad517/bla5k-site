@@ -2,7 +2,7 @@
 name: Ebi.Ai
 url: "https://ebi.ai/"
 image: /logos/ebi-ai.png
-screenshot: /screens/ebi-ai.jpg
+screenshot: /screens/ebi-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: EBI AI is a cloud platform that lets businesses build, launch, and manage AI assistants via drag‑and‑drop.

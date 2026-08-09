@@ -2,7 +2,7 @@
 name: Liftlio
 url: "https://liftlio.com"
 image: /logos/liftlio-com.png
-screenshot: /screens/liftlio-com.jpg
+screenshot: /screens/liftlio-com.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Liftlio automates SaaS content marketing by generating SEO-optimized posts, repurposing and distributing platform-specific content across communities,...

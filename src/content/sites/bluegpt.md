@@ -2,7 +2,7 @@
 name: BlueGPT
 url: "https://bluegpt.app"
 image: /logos/bluegpt.png
-screenshot: /screens/bluegpt.jpg
+screenshot: /screens/bluegpt.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: BlueGPT combines article drafting, visual asset creation, and document analysis in one platform.

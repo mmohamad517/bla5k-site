@@ -2,7 +2,7 @@
 name: TheLibrarian.io
 url: "https://thelibrarian.io/"
 image: /logos/thelibrarian-io.png
-screenshot: /screens/thelibrarian-io.jpg
+screenshot: /screens/thelibrarian-io.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: TheLibrarian.io is an AI-driven personal assistant that integrates with WhatsApp and automates email drafting, scheduling, and calendar management while...

@@ -2,7 +2,7 @@
 name: AI Comic Factory
 url: "https://aicomicfactory.com/"
 image: /logos/ai-comic-factory.png
-screenshot: /screens/ai-comic-factory.jpg
+screenshot: /screens/ai-comic-factory.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: AI-powered comic creation tool that enables users to easily generate diverse and engaging comics using multiple styles, layouts, and customization options.

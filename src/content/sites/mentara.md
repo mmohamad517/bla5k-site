@@ -2,7 +2,7 @@
 name: Mentara
 url: "https://mentara.io"
 image: /logos/mentara.png
-screenshot: /screens/mentara.jpg
+screenshot: /screens/mentara.webp
 subcategory: learn-courses
 pricing: paid
 tagline: Mentara is an AI-powered coaching tool that helps founders practice investor pitches and business conversations through roleplay scenarios, goal tracking,...

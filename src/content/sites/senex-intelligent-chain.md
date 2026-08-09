@@ -2,7 +2,7 @@
 name: SENEX Intelligent Chain
 url: "https://senexic.com"
 image: /logos/senex-intelligent-chain.png
-screenshot: /screens/senex-intelligent-chain.jpg
+screenshot: /screens/senex-intelligent-chain.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: SENEX Intelligent Chain is a privacy‑compliant AI‑over‑blockchain platform that stores data on a decentralized network, enabling secure, distributed AI...

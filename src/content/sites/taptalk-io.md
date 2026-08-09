@@ -2,7 +2,7 @@
 name: taptalk.io
 url: "https://taptalk.io"
 image: /logos/taptalk-io.png
-screenshot: /screens/taptalk-io.jpg
+screenshot: /screens/taptalk-io.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: TapTalk unifies WhatsApp, Instagram, Facebook Messenger, Twitter DM, LINE, Telegram, and email into a single dashboard for sales, marketing, and support.

@@ -2,7 +2,7 @@
 name: Detector AI
 url: "https://www.detectorai.io/"
 image: /logos/detector-ai-io.png
-screenshot: /screens/detector-ai-io.jpg
+screenshot: /screens/detector-ai-io.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Detector AI is a free text detector that identifies AI-generated text from models like ChatGPT, Claude, and Gemini using advanced NLP algorithms.

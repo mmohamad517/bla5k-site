@@ -2,7 +2,7 @@
 name: IdeaverseAI
 url: "https://ideaverse.ai/login?authRedirect=%2F"
 image: /logos/ideaverseai.png
-screenshot: /screens/ideaverseai.jpg
+screenshot: /screens/ideaverseai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Ideaverse AI is a web platform offering 100+ AI models for text-to-image and text-to-video generation, plus batch processing, templates, model comparison,...

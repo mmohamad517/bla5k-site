@@ -2,7 +2,7 @@
 name: Plagiarismsearch.com
 url: "https://plagiarismsearch.com"
 image: /logos/plagiarismsearch-com.png
-screenshot: /screens/plagiarismsearch-com.jpg
+screenshot: /screens/plagiarismsearch-com.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: PlagiarismSearch.com compares submitted text to a vast database of web pages, journals, and printed sources, highlighting matches and providing similarity...

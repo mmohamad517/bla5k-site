@@ -2,7 +2,7 @@
 name: moyoNote
 url: "https://moyonote.com"
 image: /logos/moyonote.png
-screenshot: /screens/moyonote.jpg
+screenshot: /screens/moyonote.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: MoyoNote is an organizing tool that manages various file types and creates a knowledge base.

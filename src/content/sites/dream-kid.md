@@ -2,7 +2,7 @@
 name: Dream Kid
 url: "https://www.dreamkid.ai"
 image: /logos/dream-kid.png
-screenshot: /screens/dream-kid.jpg
+screenshot: /screens/dream-kid.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Dream Kid AI creates personalized children’s books for kids in hospitals, recording name, age, and medical details to tailor narratives.

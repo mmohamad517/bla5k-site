@@ -2,7 +2,7 @@
 name: BotGPT
 url: "https://bot.wordgptpro.com/"
 image: /logos/botgpt.png
-screenshot: /screens/botgpt.jpg
+screenshot: /screens/botgpt.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: BotGPT is a data‑driven chatbot that embeds in minutes, pulling content from PDFs or website crawls to create a virtual assistant.

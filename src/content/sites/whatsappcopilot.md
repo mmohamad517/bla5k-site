@@ -2,7 +2,7 @@
 name: WhatsAppCopilot
 url: "https://tapai.aicanvas.app/whatsapp-copilot"
 image: /logos/whatsappcopilot.png
-screenshot: /screens/whatsappcopilot.jpg
+screenshot: /screens/whatsappcopilot.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: WhatsAppCopilot is an iOS app that auto‑extracts WhatsApp messages and, using GPT‑4o, generates quick, personalized replies in multiple styles.

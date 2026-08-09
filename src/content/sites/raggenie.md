@@ -2,7 +2,7 @@
 name: RAGGENIE
 url: "https://www.raggenie.com"
 image: /logos/raggenie.png
-screenshot: /screens/raggenie.jpg
+screenshot: /screens/raggenie.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Raggenie is a low-code platform for building conversational AI tools, allowing users to create custom generative applications by integrating various data...

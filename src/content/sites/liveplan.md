@@ -2,7 +2,7 @@
 name: LivePlan
 url: "https://www.liveplan.com/"
 image: /logos/liveplan.png
-screenshot: /screens/liveplan.jpg
+screenshot: /screens/liveplan.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: LivePlan is a business plan software that helps entrepreneurs create detailed plans with AI assistance, offering sample plans, financial forecasting, and...

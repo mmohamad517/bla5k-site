@@ -2,7 +2,7 @@
 name: AIOAI
 url: "https://aioai.co"
 image: /logos/aioai.png
-screenshot: /screens/aioai.jpg
+screenshot: /screens/aioai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: "#aioai.co integrates Sedo domain parking to aid website owners in the efficient sale of their domains."

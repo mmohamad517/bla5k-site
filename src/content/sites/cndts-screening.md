@@ -2,7 +2,7 @@
 name: CNDTS Screening
 url: "https://candidatescreenings.com"
 image: /logos/cndts-screening.png
-screenshot: /screens/cndts-screening.jpg
+screenshot: /screens/cndts-screening.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Candidate Screening Software utilizes AI for efficient hiring by offering customizable assessments, instant results, video interviews, and seamless...

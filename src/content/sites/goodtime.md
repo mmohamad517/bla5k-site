@@ -2,7 +2,7 @@
 name: GoodTime
 url: "https://goodtime.io/products/hire/"
 image: /logos/goodtime.png
-screenshot: /screens/goodtime.jpg
+screenshot: /screens/goodtime.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: GoodTime is an AI-powered interview scheduling software that automates candidate screening and coordination across SMS, WhatsApp, and a self-scheduling portal.

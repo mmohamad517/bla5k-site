@@ -2,7 +2,7 @@
 name: Colocio ai
 url: "https://www.colocio.com"
 image: /logos/colocio-ai.png
-screenshot: /screens/colocio-ai.jpg
+screenshot: /screens/colocio-ai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Colocio AI streamlines online marketing by automating campaign creation and evaluation, generating high-converting ad copy, and scheduling content across...

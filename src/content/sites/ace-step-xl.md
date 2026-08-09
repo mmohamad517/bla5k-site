@@ -2,7 +2,7 @@
 name: ACE-Step 1.5 XL
 url: https://github.com/Runware/ACE-Step-1.5-XL
 image: /logos/ace-step-xl.png
-screenshot: /screens/ace-step-xl.jpg
+screenshot: /screens/ace-step-xl.webp
 subcategory: ai-video-audio
 tagline: "The larger, higher-quality version of ACE-Step — a 4-billion-parameter music generation model for superior audio fidelity."
 tags:

@@ -2,7 +2,7 @@
 name: Crafted™
 url: "https://www.we-crafted.com"
 image: /logos/craftedtm.png
-screenshot: /screens/craftedtm.jpg
+screenshot: /screens/craftedtm.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: crafted™ is an AI framework for enterprises and startups that enables the deployment of customizable AI agents.

@@ -2,7 +2,7 @@
 name: Localazy
 url: "https://localazy.com"
 image: /logos/localazy.png
-screenshot: /screens/localazy.jpg
+screenshot: /screens/localazy.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Localazy is a localization tool that streamlines translation management for various formats and frameworks, offering automated workflows, translation...

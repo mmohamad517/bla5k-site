@@ -2,7 +2,7 @@
 name: Swayclip AI
 url: "https://swayclip.com/"
 image: /logos/swayclip-ai.png
-screenshot: /screens/swayclip-ai.jpg
+screenshot: /screens/swayclip-ai.webp
 subcategory: ai-image
 pricing: paid
 tagline: Swayclip AI is a unified browser-based workspace for generating cinematic videos, editorial images, and short music tracks from text prompts or reference...

@@ -2,7 +2,7 @@
 name: neuroflash
 url: "https://app.neuroflash.com:443/free?fpr=topaitools"
 image: /logos/neuroflash.png
-screenshot: /screens/neuroflash.jpg
+screenshot: /screens/neuroflash.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: A platform for AI-powered text and image generation, offering tools for content creation, natural language processing, machine learning, text summarization,...

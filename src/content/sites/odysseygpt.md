@@ -2,7 +2,7 @@
 name: OdysseyGPT
 url: "https://odysseygpt.ai"
 image: /logos/odysseygpt.png
-screenshot: /screens/odysseygpt.jpg
+screenshot: /screens/odysseygpt.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: OdysseyGPT is an AI document intelligence tool for enterprises, enabling natural-language queries across large document sets, providing citation-backed...

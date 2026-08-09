@@ -2,7 +2,7 @@
 name: FloCareer
 url: "https://www.flocareer.com"
 image: /logos/flocareer.png
-screenshot: /screens/flocareer.jpg
+screenshot: /screens/flocareer.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: FloCareer offers automated, AI‑guided and expert‑led interview workflows for technical, non‑technical, and campus hiring.

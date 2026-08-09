@@ -2,7 +2,7 @@
 name: Filmbase
 url: "https://www.filmbase.io"
 image: /logos/filmbase.png
-screenshot: /screens/filmbase.jpg
+screenshot: /screens/filmbase.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: FilmBase is production management software that uses on-device AI to automate script breakdowns and tagging, optimize scheduling and stripboards, manage...

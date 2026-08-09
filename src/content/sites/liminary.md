@@ -2,7 +2,7 @@
 name: Liminary
 url: "https://liminary.io/"
 image: /logos/liminary.png
-screenshot: /screens/liminary.jpg
+screenshot: /screens/liminary.webp
 subcategory: ai-chat
 pricing: free
 tagline: Liminary is an AI tool for knowledge retrieval and management, capturing information from web pages, PDFs, and videos.

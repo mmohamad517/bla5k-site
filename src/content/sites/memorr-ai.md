@@ -2,7 +2,7 @@
 name: Memorr.ai
 url: "https://www.memorr.ai"
 image: /logos/memorr-ai.png
-screenshot: /screens/memorr-ai.jpg
+screenshot: /screens/memorr-ai.webp
 subcategory: ai-chat
 pricing: free
 tagline: Memorr.AI is a Mac/Windows desktop app that preserves context across AI chats using a split-screen chat plus visual memory canvas, enabling branching...

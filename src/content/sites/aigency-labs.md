@@ -2,7 +2,7 @@
 name: Aigency Labs
 url: "https://www.aigencylabs.com"
 image: /logos/aigency-labs.png
-screenshot: /screens/aigency-labs.jpg
+screenshot: /screens/aigency-labs.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Aigency Labs offers AI‑powered video editing, color grading, audio enhancement, visual effects, and up to 16 monthly YouTube videos with keyword research...

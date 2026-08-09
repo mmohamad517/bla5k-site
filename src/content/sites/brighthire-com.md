@@ -2,7 +2,7 @@
 name: Brighthire.com
 url: "https://brighthire.com"
 image: /logos/brighthire-com.png
-screenshot: /screens/brighthire-com.jpg
+screenshot: /screens/brighthire-com.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: BrightHire automates first‑round interviews with an AI interviewer, records and transcribes sessions, and produces real‑time interview guides, scorecards,...

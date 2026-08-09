@@ -2,7 +2,7 @@
 name: AISHA AI
 url: "https://aisha.ai/"
 image: /logos/aisha-ai.png
-screenshot: /screens/aisha-ai.jpg
+screenshot: /screens/aisha-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: AISHA is a mobile AI chat assistant that centers Black sources and historical context to deliver culturally grounded, context-aware answers, personalized...

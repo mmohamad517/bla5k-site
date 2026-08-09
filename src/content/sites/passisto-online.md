@@ -2,7 +2,7 @@
 name: Passisto Online
 url: "https://www.passisto.com/en"
 image: /logos/passisto-online.png
-screenshot: /screens/passisto-online.jpg
+screenshot: /screens/passisto-online.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Passisto is an AI-driven chatbot that enhances user engagement on websites through real-time, human-like interactions.

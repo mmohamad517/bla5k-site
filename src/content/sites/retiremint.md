@@ -2,7 +2,7 @@
 name: RetireMint
 url: "https://retiremint.ca"
 image: /logos/retiremint.png
-screenshot: /screens/retiremint.jpg
+screenshot: /screens/retiremint.webp
 subcategory: ai-chat
 pricing: free
 tagline: RetireMint is a Canadian retirement platform that delivers free expert assessments across finance, health, travel, estate, insurance, and downsizing.

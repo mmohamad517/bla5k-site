@@ -2,7 +2,7 @@
 name: EasyAI
 url: "https://www.easygenerator.com/en/"
 image: /logos/easyai.png
-screenshot: /screens/easyai.jpg
+screenshot: /screens/easyai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: "EasyAI's Course Creation Tool: Personalize eLearning Experiences with AI & Manage Consent."

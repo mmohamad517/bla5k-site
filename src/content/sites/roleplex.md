@@ -2,7 +2,7 @@
 name: Roleplex
 url: "https://www.roleplex.com"
 image: /logos/roleplex.png
-screenshot: /screens/roleplex.jpg
+screenshot: /screens/roleplex.webp
 subcategory: ai-chat
 pricing: free
 tagline: Roleplex lets users create or find AI role‑playing characters and chat via text or voice, including popular game personas.

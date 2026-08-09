@@ -2,7 +2,7 @@
 name: Leapsome
 url: "https://www.leapsome.com"
 image: /logos/leapsome.png
-screenshot: /screens/leapsome.jpg
+screenshot: /screens/leapsome.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Leapsome is an AI-powered HR software that streamlines employee records, onboarding, performance reviews, and goal setting, while providing actionable...

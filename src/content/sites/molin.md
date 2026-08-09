@@ -2,7 +2,7 @@
 name: Molin
 url: "https://molin.ai/"
 image: /logos/molin.png
-screenshot: /screens/molin.jpg
+screenshot: /screens/molin.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Molin AI is a powerful partner for writing that generates content instantly.It helps passing plagiarism checks and writing in multiple languages.

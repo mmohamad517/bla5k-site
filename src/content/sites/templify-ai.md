@@ -2,7 +2,7 @@
 name: Templify.ai
 url: "https://templify.ai/"
 image: /logos/templify-ai.png
-screenshot: /screens/templify-ai.jpg
+screenshot: /screens/templify-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Templify.ai is an AI-powered content generator that streamlines content creation by offering ready-to-use templates for unique and engaging content.

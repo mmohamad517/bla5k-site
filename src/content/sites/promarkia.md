@@ -2,7 +2,7 @@
 name: Promarkia
 url: "https://www.promarkia.com"
 image: /logos/promarkia.png
-screenshot: /screens/promarkia.jpg
+screenshot: /screens/promarkia.webp
 subcategory: mkt-social
 pricing: free
 tagline: ProMarkia is an AI marketing platform that automates various marketing tasks, including report generation, SEO analysis, and content creation.

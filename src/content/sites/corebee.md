@@ -2,7 +2,7 @@
 name: Corebee
 url: "https://corebee.ai/"
 image: /logos/corebee.png
-screenshot: /screens/corebee.jpg
+screenshot: /screens/corebee.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Corebee is an AI-native customer support platform that automates ticket resolution and routine tasks using a three-tier AI architecture.

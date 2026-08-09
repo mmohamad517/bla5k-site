@@ -2,7 +2,7 @@
 name: Strategy-First AI
 url: "https://strategyfirstai.gumroad.com/l/personaandusp"
 image: /logos/strategy-first-ai.png
-screenshot: /screens/strategy-first-ai.jpg
+screenshot: /screens/strategy-first-ai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Generate customer personas and unique selling propositions through an AI questionnaire, delivering data‑backed brand strategy recommendations by email in...

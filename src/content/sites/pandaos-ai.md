@@ -2,7 +2,7 @@
 name: PandaOS AI
 url: "https://pandaos.ai/"
 image: /logos/pandaos-ai.png
-screenshot: /screens/pandaos-ai.jpg
+screenshot: /screens/pandaos-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: pandaos.ai is a local AI workstation that unifies code, tools, and AI agents into a single desktop workspace, preserving context across projects.

@@ -2,7 +2,7 @@
 name: rowy.io
 url: "https://rowy.io"
 image: /logos/rowy-io.png
-screenshot: /screens/rowy-io.jpg
+screenshot: /screens/rowy-io.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Rowy provides a low-code backend for Google Cloud/Firebase, exposing Firestore in a spreadsheet UI, enabling inline backend functions, API and job...

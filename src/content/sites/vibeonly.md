@@ -2,7 +2,7 @@
 name: VibeOnly
 url: "https://www.vibeonly.ai"
 image: /logos/vibeonly.png
-screenshot: /screens/vibeonly.jpg
+screenshot: /screens/vibeonly.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: VibeOnly assesses candidates' AI and coding proficiency using real-world challenges, automated scoring, and metrics like prompting, problem-solving, speed,...

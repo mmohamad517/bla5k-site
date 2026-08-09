@@ -2,7 +2,7 @@
 name: "Off/Script: Design, Earn, Shop"
 url: "https://offscriptmtl.com/"
 image: /logos/off-script-design-earn-shop.png
-screenshot: /screens/off-script-design-earn-shop.jpg
+screenshot: /screens/off-script-design-earn-shop.webp
 subcategory: ai-writing
 pricing: free
 tagline: off/script is a community-led product creation platform enabling users to bring their product ideas to life for free.

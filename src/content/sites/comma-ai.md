@@ -2,7 +2,7 @@
 name: Comma AI
 url: "https://comma.ai/"
 image: /logos/comma-ai.png
-screenshot: /screens/comma-ai.jpg
+screenshot: /screens/comma-ai.webp
 subcategory: ent-travel
 pricing: paid
 tagline: Comma.ai offers an advanced driving assistance system using openpilot software, featuring lane centering, adaptive cruise control, and dashcam recording.

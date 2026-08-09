@@ -2,7 +2,7 @@
 name: CourseMind
 url: "https://coursemind.io/"
 image: /logos/coursemind.png
-screenshot: /screens/coursemind.jpg
+screenshot: /screens/coursemind.webp
 subcategory: ai-image
 pricing: freemium
 tagline: CourseMind is an AI-powered tool that helps efficiently manage online schools or organizations by providing course creation tools and marketing strategies...

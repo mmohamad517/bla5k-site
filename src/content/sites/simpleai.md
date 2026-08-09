@@ -2,7 +2,7 @@
 name: SimpleAI
 url: "https://simplai.ai/"
 image: /logos/simpleai.png
-screenshot: /screens/simpleai.jpg
+screenshot: /screens/simpleai.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: SimplAI is an agentic AI platform that allows users to create and deploy AI applications with minimal technical expertise.

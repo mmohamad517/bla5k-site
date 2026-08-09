@@ -2,7 +2,7 @@
 name: imagetovideoai.pro
 url: "https://imagetovideoai.pro/"
 image: /logos/imagetovideoai-pro.png
-screenshot: /screens/imagetovideoai-pro.jpg
+screenshot: /screens/imagetovideoai-pro.webp
 subcategory: ai-image
 pricing: freemium
 tagline: imagetovideoai.pro is an AI tool that transforms static images into cinematic video clips with camera controls, keyframes, and audio.

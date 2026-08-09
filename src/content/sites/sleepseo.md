@@ -2,7 +2,7 @@
 name: Sleepseo
 url: "https://sleepseo.com"
 image: /logos/sleepseo.png
-screenshot: /screens/sleepseo.jpg
+screenshot: /screens/sleepseo.webp
 subcategory: ai-writing
 pricing: free
 tagline: sleepseo automates blog content generation, producing dozens of titles and posts for a month in minutes.

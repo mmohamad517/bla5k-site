@@ -2,7 +2,7 @@
 name: chatzap.co
 url: "https://chatzap.co"
 image: /logos/chatzap-co.png
-screenshot: /screens/chatzap-co.jpg
+screenshot: /screens/chatzap-co.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Chatzap is an AI sales assistant that learns from website content to engage visitors, collect leads, and adapt responses in real time.

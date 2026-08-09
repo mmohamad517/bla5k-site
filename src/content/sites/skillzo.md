@@ -2,7 +2,7 @@
 name: Skillzo
 url: "https://skillzo.tech"
 image: /logos/skillzo.png
-screenshot: /screens/skillzo.jpg
+screenshot: /screens/skillzo.webp
 subcategory: learn-courses
 pricing: freemium
 tagline: Skillzo is an AI career coach that utilizes the GROW model to help users set SMART goals and create actionable plans for skill development and career...

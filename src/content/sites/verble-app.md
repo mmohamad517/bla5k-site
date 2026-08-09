@@ -2,7 +2,7 @@
 name: Verble
 url: "https://www.verble.app/"
 image: /logos/verble-app.png
-screenshot: /screens/verble-app.jpg
+screenshot: /screens/verble-app.webp
 subcategory: learn-courses
 pricing: freemium
 tagline: Verble is an AI speech-writing assistant that helps users master verbal persuasion and storytelling by guiding them in creating speeches for various...

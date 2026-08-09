@@ -2,7 +2,7 @@
 name: Involve.me
 url: "https://www.involve.me/?red=topait"
 image: /logos/involve-me.png
-screenshot: /screens/involve-me.jpg
+screenshot: /screens/involve-me.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Involve.me is an AI-powered platform for creating interactive funnels, forms, and quizzes that generate, qualify, and convert leads.

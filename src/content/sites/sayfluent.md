@@ -2,7 +2,7 @@
 name: SayFluent
 url: "https://www.sayfluent.com"
 image: /logos/sayfluent.png
-screenshot: /screens/sayfluent.jpg
+screenshot: /screens/sayfluent.webp
 subcategory: learn-courses
 pricing: freemium
 tagline: SayFluent is an AI-driven English coaching tool that utilizes YouTube Shorts for real-time listening and speaking practice.

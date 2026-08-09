@@ -2,7 +2,7 @@
 name: WriteABookAI
 url: "https://WriteABookAI.com"
 image: /logos/writeabookai.png
-screenshot: /screens/writeabookai.jpg
+screenshot: /screens/writeabookai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: writeabookai enables professionals to efficiently turn their expertise into published books.

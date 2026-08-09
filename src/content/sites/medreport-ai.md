@@ -2,7 +2,7 @@
 name: MedReport AI
 url: "https://medreport.ai"
 image: /logos/medreport-ai.png
-screenshot: /screens/medreport-ai.jpg
+screenshot: /screens/medreport-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: MedReport AI is a clinical documentation tool that generates Medicare reports, session summaries, and referral letters instantly.

@@ -2,7 +2,7 @@
 name: Easy-Peasy.AI
 url: "https://easy-peasy.ai/"
 image: /logos/easy-peasy-ai.png
-screenshot: /screens/easy-peasy-ai.jpg
+screenshot: /screens/easy-peasy-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Easy‑Peasy.AI combines web‑browsing AI agents, code execution, chart and presentation generators, image and video creation, audio transcription and music...

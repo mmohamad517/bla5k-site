@@ -2,7 +2,7 @@
 name: Pydantic AI
 url: "https://ai.pydantic.dev/"
 image: /logos/pydantic-ai.png
-screenshot: /screens/pydantic-ai.jpg
+screenshot: /screens/pydantic-ai.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: PydanticAI is a Python framework for developing generative AI applications, featuring type-safe responses, integration with various LLMs, real-time...

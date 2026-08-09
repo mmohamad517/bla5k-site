@@ -2,7 +2,7 @@
 name: ChatOn
 url: "https://apps.apple.com/us/app/chaton-ai-chat-bot-assistant/id1661308505"
 image: /logos/chaton.png
-screenshot: /screens/chaton.jpg
+screenshot: /screens/chaton.webp
 subcategory: nc-builders
 pricing: free
 tagline: Chaton is a versatile AI chatbot assistant app that offers a range of writing and communication tools, including text-to-image conversion, grammar checking,...

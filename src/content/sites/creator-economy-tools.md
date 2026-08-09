@@ -2,7 +2,7 @@
 name: Creator Economy Tools
 url: "https://creatoreconomytools.com"
 image: /logos/creator-economy-tools.png
-screenshot: /screens/creator-economy-tools.jpg
+screenshot: /screens/creator-economy-tools.webp
 subcategory: ai-writing
 pricing: paid
 tagline: 1min.AI aggregates leading language models—ChatGPT, Claude, Gemini—into one interface, streamlining content creation, copywriting, script and social‑media...

@@ -2,7 +2,7 @@
 name: Buzr AI
 url: "https://www.buzr.org"
 image: /logos/buzr-ai.png
-screenshot: /screens/buzr-ai.jpg
+screenshot: /screens/buzr-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Buzr AI is an advanced voice-powered tool that streamlines business operations by managing appointments, reservations, support queries, and more.

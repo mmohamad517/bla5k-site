@@ -2,7 +2,7 @@
 name: Regie
 url: "https://www.regie.ai/"
 image: /logos/regie.png
-screenshot: /screens/regie.jpg
+screenshot: /screens/regie.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Regie.ai is an AI-powered content creation and management platform that generates custom content tailored to user needs and provides analytics to track...

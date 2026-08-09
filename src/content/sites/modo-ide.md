@@ -2,7 +2,7 @@
 name: Modo IDE
 url: "https://github.com/mohshomis/modo"
 image: /logos/modo-ide.png
-screenshot: /screens/modo-ide.jpg
+screenshot: /screens/modo-ide.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Modo IDE is an open-source desktop AI IDE that uses a spec-driven workflow to turn prompts into requirements, code, and persistent tasks.

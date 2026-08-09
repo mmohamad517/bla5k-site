@@ -2,7 +2,7 @@
 name: DeepRFP
 url: "https://deeprfp.com"
 image: /logos/deeprfp.png
-screenshot: /screens/deeprfp.jpg
+screenshot: /screens/deeprfp.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: DeepRFP is an AI-driven software that automates RFP responses, enhancing proposal writing efficiency.

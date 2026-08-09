@@ -2,7 +2,7 @@
 name: Thirdi
 url: "https://thirdi.ai"
 image: /logos/thirdi.png
-screenshot: /screens/thirdi.jpg
+screenshot: /screens/thirdi.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Third i consolidates Google, Meta, TikTok, LinkedIn Ads, and GA4 data into a single workspace.

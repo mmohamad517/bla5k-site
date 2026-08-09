@@ -2,7 +2,7 @@
 name: Edward
 url: "https://www.edward.ai/"
 image: /logos/edward.png
-screenshot: /screens/edward.jpg
+screenshot: /screens/edward.webp
 subcategory: fin-fintech
 pricing: paid
 tagline: Edward AI is an enterprise-grade AI tool that enhances security and compliance through tailored experiences, providing seamless integrations across multiple...

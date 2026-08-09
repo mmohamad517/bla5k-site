@@ -2,7 +2,7 @@
 name: Blue
 url: "https://meetblue.ai/"
 image: /logos/blue-chatgpt-for-mac.png
-screenshot: /screens/blue-chatgpt-for-mac.jpg
+screenshot: /screens/blue-chatgpt-for-mac.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Blue is a macOS app that integrates ChatGPT capabilities for tasks like summarizing and translating, enhancing productivity.

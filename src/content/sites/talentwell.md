@@ -2,7 +2,7 @@
 name: TalentWell
 url: "https://talentwell.app"
 image: /logos/talentwell.png
-screenshot: /screens/talentwell.jpg
+screenshot: /screens/talentwell.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: TalentWell is an AI-driven talent acquisition platform that helps mission-driven companies build tailored talent pools, facilitating candidate engagement...

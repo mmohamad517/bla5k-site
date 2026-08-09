@@ -2,7 +2,7 @@
 name: remko online (for Whatsapp)
 url: "https://remkoweingarten.com/"
 image: /logos/remko-online-for-whatsapp.png
-screenshot: /screens/remko-online-for-whatsapp.jpg
+screenshot: /screens/remko-online-for-whatsapp.webp
 subcategory: nc-builders
 pricing: free
 tagline: ChatGPT for WhatsApp brings GPT‑4 chat into the messaging app, enabling quick document drafting, legal research, proofreading, image generation, quizzes,...

@@ -2,7 +2,7 @@
 name: Ecosia AI
 url: "https://www.ecosia.org/ai-chat/"
 image: /logos/ecosia-ai.png
-screenshot: /screens/ecosia-ai.jpg
+screenshot: /screens/ecosia-ai.webp
 subcategory: ai-chat
 pricing: free
 tagline: Ecosia is a privacy-minded search engine with an integrated AI chat that combines web, image, video, news, maps and shopping results, offers summarization,...

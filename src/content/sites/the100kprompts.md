@@ -2,7 +2,7 @@
 name: The100kPrompts
 url: "https://the100kprompts.com"
 image: /logos/the100kprompts.png
-screenshot: /screens/the100kprompts.jpg
+screenshot: /screens/the100kprompts.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: the100kprompts is a vast database of over 100,000 AI prompts, covering 500+ niches.

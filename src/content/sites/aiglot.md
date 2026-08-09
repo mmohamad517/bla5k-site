@@ -2,7 +2,7 @@
 name: Aiglot
 url: "https://aiglot.com"
 image: /logos/aiglot.png
-screenshot: /screens/aiglot.jpg
+screenshot: /screens/aiglot.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Aiglot is a multilingual SEO blogging platform that automates content generation and translation in over 100 languages.

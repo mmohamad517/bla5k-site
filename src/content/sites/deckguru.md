@@ -2,7 +2,7 @@
 name: DeckGuru
 url: "https://deckguru.netlify.app/"
 image: /logos/deckguru.png
-screenshot: /screens/deckguru.jpg
+screenshot: /screens/deckguru.webp
 subcategory: fin-fintech
 pricing: free
 tagline: DeckGuru AI analyzes uploaded PDF pitch decks (≤20 MB, 20 pages) and offers quick, actionable feedback on structure, content, visuals, storytelling, and...

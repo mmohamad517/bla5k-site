@@ -2,7 +2,7 @@
 name: June AI
 url: "https://www.june.so/ai"
 image: /logos/june-ai.png
-screenshot: /screens/june-ai.jpg
+screenshot: /screens/june-ai.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: June is an AI‑driven analytics platform for B2B SaaS that lets teams query user data via SQL or natural language.

@@ -2,7 +2,7 @@
 name: Corgea
 url: "https://corgea.com"
 image: /logos/corgea.png
-screenshot: /screens/corgea.jpg
+screenshot: /screens/corgea.webp
 subcategory: dev-code
 pricing: freemium
 tagline: Corgea is an AI tool that expedites vulnerability detection and repair in codes for security teams.

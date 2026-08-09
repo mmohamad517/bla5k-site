@@ -2,7 +2,7 @@
 name: EzRemove.ai
 url: https://ezremove.ai/
 image: /logos/ezremove.png
-screenshot: /screens/ezremove.jpg
+screenshot: /screens/ezremove.webp
 subcategory: util-images
 pricing: freemium
 tagline: "Remove image backgrounds instantly with AI — free, fast, and automatic."

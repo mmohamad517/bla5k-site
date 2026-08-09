@@ -2,7 +2,7 @@
 name: Swishy AI
 url: "https://www.swishy.ai/"
 image: /logos/swishy-ai.png
-screenshot: /screens/swishy-ai.jpg
+screenshot: /screens/swishy-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Swishy is an AI-powered motion design and animation tool that rapidly creates stunning visuals, offering pre-built templates and dynamic animation...

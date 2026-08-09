@@ -2,7 +2,7 @@
 name: Powerdrill
 url: "https://powerdrill.ai"
 image: /logos/powerdrill.png
-screenshot: /screens/powerdrill.jpg
+screenshot: /screens/powerdrill.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Powerdrill Bloom is an AI assistant platform that lets teams collaborate via a sidebar, using agents to analyze data and produce insights on topics, product...

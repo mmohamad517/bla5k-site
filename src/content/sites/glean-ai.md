@@ -2,7 +2,7 @@
 name: Glean AI
 url: "https://www.glean.ai/"
 image: /logos/glean-ai.png
-screenshot: /screens/glean-ai.jpg
+screenshot: /screens/glean-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Glean.ai automates accounts payable workflows—data extraction, coding, approvals, payments—while providing spend analytics, anomaly detection, and vendor...

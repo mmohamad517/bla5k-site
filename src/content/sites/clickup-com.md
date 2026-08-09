@@ -2,7 +2,7 @@
 name: Clickup
 url: "https://clickup.com"
 image: /logos/clickup-com.png
-screenshot: /screens/clickup-com.jpg
+screenshot: /screens/clickup-com.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: ClickUp is a work-management platform that unifies project planning, AI agents, time tracking, docs, whiteboards and team chat.

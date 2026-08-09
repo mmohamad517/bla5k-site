@@ -2,7 +2,7 @@
 name: Vuala 1.0
 url: "https://vualapp.com"
 image: /logos/vuala-1-0.png
-screenshot: /screens/vuala-1-0.jpg
+screenshot: /screens/vuala-1-0.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Vuala automates invoice capture by extracting documents from email and 7,000 supplier portals, routing them to accounting platforms such as QuickBooks,...

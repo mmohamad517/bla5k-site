@@ -2,7 +2,7 @@
 name: Lamatic.ai
 url: "https://lamatic.ai"
 image: /logos/lamatic-ai.png
-screenshot: /screens/lamatic-ai.jpg
+screenshot: /screens/lamatic-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Lamatic AI is a visual flow builder platform that lets teams design, test, and deploy generative AI and agentic apps using over 100 models and data sources.

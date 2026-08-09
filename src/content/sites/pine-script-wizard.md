@@ -2,7 +2,7 @@
 name: Pine Script Wizard
 url: "https://www.pinescriptwizard.com/"
 image: /logos/pine-script-wizard.png
-screenshot: /screens/pine-script-wizard.jpg
+screenshot: /screens/pine-script-wizard.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Pine Script Wizard generates TradingView Pine Script code from natural‑language descriptions, supports version 4/5, and offers iterative debugging via error...

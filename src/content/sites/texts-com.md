@@ -2,7 +2,7 @@
 name: texts.com
 url: "https://texts.com"
 image: /logos/texts-com.png
-screenshot: /screens/texts-com.jpg
+screenshot: /screens/texts-com.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Texts AI Tool unifies messaging across platforms, prioritizing privacy.

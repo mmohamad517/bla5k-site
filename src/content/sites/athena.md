@@ -2,7 +2,7 @@
 name: Athena
 url: "https://www.apac.ai/"
 image: /logos/athena.png
-screenshot: /screens/athena.jpg
+screenshot: /screens/athena.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Athena is an AI tool that simplifies goal setting into actionable software with automation and API options for websites, available for personal and...

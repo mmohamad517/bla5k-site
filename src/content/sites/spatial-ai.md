@@ -2,7 +2,7 @@
 name: Spatial.ai
 url: "https://www.spatial.ai/"
 image: /logos/spatial-ai.png
-screenshot: /screens/spatial-ai.jpg
+screenshot: /screens/spatial-ai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Spatial.ai is an AI tool that uses web and mobile activities to provide real-time behavior segmentation for various industries through their Personalive™...

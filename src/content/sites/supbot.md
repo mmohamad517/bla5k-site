@@ -2,7 +2,7 @@
 name: SupBot
 url: "https://supbot.io"
 image: /logos/supbot.png
-screenshot: /screens/supbot.jpg
+screenshot: /screens/supbot.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: SupBot is an AI‑powered support bot that can be embedded with minimal code.

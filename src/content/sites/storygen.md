@@ -2,7 +2,7 @@
 name: StoryGen
 url: "https://story-gen.onrender.com/"
 image: /logos/storygen.png
-screenshot: /screens/storygen.jpg
+screenshot: /screens/storygen.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: StoryGen generates written stories and optional audio narrations via ElevenLabs voice, offering a simple interface for genre, length, and voice selection.

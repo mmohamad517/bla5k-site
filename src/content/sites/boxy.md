@@ -2,7 +2,7 @@
 name: Boxy
 url: "https://codesandbox.io/blog/meet-boxy-ai-coding-assistant"
 image: /logos/boxy.png
-screenshot: /screens/boxy.jpg
+screenshot: /screens/boxy.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Boxy is an AI coding assistant that enhances the coding experience, speeds up machine performance, provides useful features like code reviews, sandboxes and...

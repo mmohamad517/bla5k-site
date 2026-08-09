@@ -2,7 +2,7 @@
 name: Contenov
 url: "https://www.contenov.com"
 image: /logos/contenov.png
-screenshot: /screens/contenov.jpg
+screenshot: /screens/contenov.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Contenov generates SEO-focused content briefs by analyzing top-ranking competitor articles to extract structure, keywords, search intent and content gaps,...

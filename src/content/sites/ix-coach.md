@@ -2,7 +2,7 @@
 name: IX Coach
 url: "https://www.ixcoach.com/"
 image: /logos/ix-coach.png
-screenshot: /screens/ix-coach.jpg
+screenshot: /screens/ix-coach.webp
 subcategory: learn-courses
 pricing: freemium
 tagline: ix Coach is an AI-powered interdisciplinary coaching tool that aims to improve various areas of life.

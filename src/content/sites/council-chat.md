@@ -2,7 +2,7 @@
 name: Council Chat
 url: "https://aicouncilchat.com/"
 image: /logos/council-chat.png
-screenshot: /screens/council-chat.jpg
+screenshot: /screens/council-chat.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Council Chat is a multi-model AI platform that lets users run debates across models, aggregate votes, and synthesize consensus answers.

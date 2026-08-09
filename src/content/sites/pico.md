@@ -2,7 +2,7 @@
 name: Pico
 url: "https://picoapps.xyz/metagpt"
 image: /logos/pico.png
-screenshot: /screens/pico.jpg
+screenshot: /screens/pico.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Pico is a microapp builder powered by GPT for creating custom apps quickly.

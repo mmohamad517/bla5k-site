@@ -2,7 +2,7 @@
 name: Dr. FeelGood
 url: "https://drfeelgood.coach"
 image: /logos/dr-feelgood.png
-screenshot: /screens/dr-feelgood.jpg
+screenshot: /screens/dr-feelgood.webp
 subcategory: learn-courses
 pricing: free
 tagline: FeelGood is a 24/7 AI coach that tracks a single project, delivering daily check‑ins, reminders, and personalized encouragement based on a user’s personality.

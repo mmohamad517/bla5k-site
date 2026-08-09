@@ -2,7 +2,7 @@
 name: Everyprompt
 url: "https://everyprompt.com"
 image: /logos/everyprompt.png
-screenshot: /screens/everyprompt.jpg
+screenshot: /screens/everyprompt.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Everyprompt is a web‑based playground for GPT models that supports testing, building, and deploying APIs with CI/CD, live dashboards, SQL conversion,...

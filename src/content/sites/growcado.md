@@ -2,7 +2,7 @@
 name: Growcado
 url: "https://growcado.io"
 image: /logos/growcado.png
-screenshot: /screens/growcado.jpg
+screenshot: /screens/growcado.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Growcado connects first-party Shopify, Klaviyo and analytics data to deliver no-code on-site personalization.

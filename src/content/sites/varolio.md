@@ -2,7 +2,7 @@
 name: Varolio
 url: "https://varolio.io/"
 image: /logos/varolio.png
-screenshot: /screens/varolio.jpg
+screenshot: /screens/varolio.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Varolio turns email threads into structured cases with AI, automating routing, SLA tracking, and workflow for logistics, professional services, marketing,...

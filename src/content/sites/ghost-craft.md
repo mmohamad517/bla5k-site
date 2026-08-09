@@ -2,7 +2,7 @@
 name: Ghost Craft
 url: "https://ghostcraft.ai/"
 image: /logos/ghost-craft.png
-screenshot: /screens/ghost-craft.jpg
+screenshot: /screens/ghost-craft.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Ghost Craft is an AI‑powered platform that auto‑generates, rewrites, and clusters trending news content, offering bulk rewrite, pillar‑post creation,...

@@ -2,7 +2,7 @@
 name: FastTrackr AI
 url: "https://fasttrackr.ai"
 image: /logos/fasttrackr-ai.png
-screenshot: /screens/fasttrackr-ai.jpg
+screenshot: /screens/fasttrackr-ai.webp
 subcategory: nc-automation
 pricing: freemium
 tagline: FastTrackr AI is a productivity tool that automates routine tasks via WhatsApp, including meeting scheduling and email drafting.

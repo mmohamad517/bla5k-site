@@ -2,7 +2,7 @@
 name: DollMe
 url: "https://dollme.app"
 image: /logos/dollme.png
-screenshot: /screens/dollme.jpg
+screenshot: /screens/dollme.webp
 subcategory: ai-image
 pricing: freemium
 tagline: DollMe.app is an AI tool for creating and customizing virtual dolls, enabling unique selfies for social media.

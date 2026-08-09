@@ -2,7 +2,7 @@
 name: Fin2 by Intercom
 url: "https://fin.ai/?redirect_from=%2Fsupport-for-customers%2Fai-agent"
 image: /logos/fin-by-intercom.png
-screenshot: /screens/fin-by-intercom.jpg
+screenshot: /screens/fin-by-intercom.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: The Fin2 AI chatbot is an AI-powered customer service tool that accurately answers customer questions and reduces support volume and resolution times.

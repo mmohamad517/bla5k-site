@@ -2,7 +2,7 @@
 name: AIDocumentMaker
 url: "https://www.aidocumentmaker.com"
 image: /logos/aidocumentmaker.png
-screenshot: /screens/aidocumentmaker.jpg
+screenshot: /screens/aidocumentmaker.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: AI Document Maker automates professional document creation, producing contracts, proposals, and forms within 30 seconds.

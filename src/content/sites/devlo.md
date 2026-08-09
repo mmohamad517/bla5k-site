@@ -2,7 +2,7 @@
 name: devlo
 url: "https://devlo.ai/"
 image: /logos/devlo.png
-screenshot: /screens/devlo.jpg
+screenshot: /screens/devlo.webp
 subcategory: dev-code
 pricing: paid
 tagline: devlo lets teams build, edit, and ship code from a browser, eliminating local tooling.

@@ -2,7 +2,7 @@
 name: CoinFeeds.io
 url: "https://coinfeeds.io/"
 image: /logos/coinfeeds-io.png
-screenshot: /screens/coinfeeds-io.jpg
+screenshot: /screens/coinfeeds-io.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Coinfeeds AI supplies AI agents for crypto exchanges and funds, offering portfolio monitoring, personalized news feeds, and NLP‑as‑a‑Service.

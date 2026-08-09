@@ -2,7 +2,7 @@
 name: Trading Edge AI
 url: "https://tradingedge-ai.com/"
 image: /logos/trading-edge-ai.png
-screenshot: /screens/trading-edge-ai.jpg
+screenshot: /screens/trading-edge-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Trading Edge AI is an AI-powered crypto investing platform that offers real-time analysis, automated bots, and customizable tools.

@@ -2,7 +2,7 @@
 name: DaVinci AI
 url: "https://davinci.ai/"
 image: /logos/davinci-ai.png
-screenshot: /screens/davinci-ai.jpg
+screenshot: /screens/davinci-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: DaVinci is an all-in-one generative media platform utilizing over 50 AI models to swiftly create high-quality visual content for diverse channels, including...

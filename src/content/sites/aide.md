@@ -2,7 +2,7 @@
 name: Aide
 url: "https://aide.app/"
 image: /logos/aide.png
-screenshot: /screens/aide.jpg
+screenshot: /screens/aide.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Aide deploys AI agents across platforms like Zendesk, Shopify, and Salesforce to automate ticket conversations, auto‑tag, route, and trigger actions.

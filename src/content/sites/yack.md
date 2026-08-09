@@ -2,7 +2,7 @@
 name: Yack
 url: "https://www.yack.fyi/"
 image: /logos/yack.png
-screenshot: /screens/yack.jpg
+screenshot: /screens/yack.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Yack is an AI tool designed for Apple Silicon models from 2020 onwards with markdown support, multiple themes, keyboard-first design, and upcoming features...

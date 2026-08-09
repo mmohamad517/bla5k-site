@@ -2,7 +2,7 @@
 name: Tavus
 url: "https://www.tavus.io/"
 image: /logos/tavus.png
-screenshot: /screens/tavus.jpg
+screenshot: /screens/tavus.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: The Tavus AI Human tool creates lifelike, interactive AI agents that feel like talking to a real person, offering customizable conversational experiences...

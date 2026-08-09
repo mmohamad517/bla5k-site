@@ -2,7 +2,7 @@
 name: Pic Copilot
 url: "https://www.piccopilot.com/"
 image: /logos/pic-copilot.png
-screenshot: /screens/pic-copilot.jpg
+screenshot: /screens/pic-copilot.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Pic Copilot AI provides e‑commerce brands with AI‑driven image creation, including virtual try‑on, model swaps, background removal, color adjustments, and...

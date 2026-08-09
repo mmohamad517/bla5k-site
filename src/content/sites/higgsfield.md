@@ -2,7 +2,7 @@
 name: Higgsfield AI
 url: https://higgsfield.ai
 image: /logos/higgsfield.png
-screenshot: /screens/higgsfield.jpg
+screenshot: /screens/higgsfield.webp
 subcategory: ai-video-audio
 pricing: freemium
 tagline: Cinematic AI video and image generation — with real-time editing controls.

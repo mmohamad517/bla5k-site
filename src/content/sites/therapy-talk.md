@@ -2,7 +2,7 @@
 name: Therapy Talk
 url: "https://therapytalk.io"
 image: /logos/therapy-talk.png
-screenshot: /screens/therapy-talk.jpg
+screenshot: /screens/therapy-talk.webp
 subcategory: learn-courses
 pricing: freemium
 tagline: Therapy Talk is a mental health platform offering AI-assisted chat therapy, combining licensed therapist oversight with personalized support for conditions...

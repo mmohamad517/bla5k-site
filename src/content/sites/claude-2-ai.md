@@ -2,7 +2,7 @@
 name: Finechat.ai
 url: "https://finechat.ai"
 image: /logos/claude-2-ai.png
-screenshot: /screens/claude-2-ai.jpg
+screenshot: /screens/claude-2-ai.webp
 subcategory: ai-productivity
 pricing: free
 tagline: FineChat.ai offers free access to GPT-4 technology for generating high-quality content.

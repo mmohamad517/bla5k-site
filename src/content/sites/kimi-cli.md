@@ -2,7 +2,7 @@
 name: Kimi - CLI
 url: "https://moonshotai.github.io/kimi-cli/en/"
 image: /logos/kimi-cli.png
-screenshot: /screens/kimi-cli.jpg
+screenshot: /screens/kimi-cli.webp
 subcategory: ai-chat
 pricing: free
 tagline: Kimi Code CLI is an intelligent command-line assistant for developers and DevOps, unifying CLI search, guides, config references, release notes, and...

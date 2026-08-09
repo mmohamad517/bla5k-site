@@ -2,7 +2,7 @@
 name: Reviewly ai
 url: "https://reviewly.ai"
 image: /logos/reviewly-ai.png
-screenshot: /screens/reviewly-ai.jpg
+screenshot: /screens/reviewly-ai.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Reviewly gathers Google reviews via SMS, QR, NFC, and review plates, automates request sending, analyzes sentiment, drafts responses, offers scheduling,...

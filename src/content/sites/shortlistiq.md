@@ -2,7 +2,7 @@
 name: ShortlistIQ
 url: "https://www.shortlistiq.com/"
 image: /logos/shortlistiq.png
-screenshot: /screens/shortlistiq.jpg
+screenshot: /screens/shortlistiq.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: ShortlistIQ automates first‑round interviews with conversational AI, allowing recruiters to create custom avatars that match company culture, support...

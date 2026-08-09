@@ -2,7 +2,7 @@
 name: Zentask
 url: "https://zentask.ai/"
 image: /logos/zentask.png
-screenshot: /screens/zentask.jpg
+screenshot: /screens/zentask.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Zentask unifies access to top AI models—ChatGPT, Claude, Gemini Pro, Stable Diffusion, DALL‑E, and Flux—via a single subscription.

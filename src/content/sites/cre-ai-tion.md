@@ -2,7 +2,7 @@
 name: cre[ai]tion
 url: "https://creaition.io"
 image: /logos/cre-ai-tion.png
-screenshot: /screens/cre-ai-tion.jpg
+screenshot: /screens/cre-ai-tion.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Creaiton is a visual design platform that leverages AI to generate and refine designs, support real-time collaboration, and enable users to track creative...

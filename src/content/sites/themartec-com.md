@@ -2,7 +2,7 @@
 name: themartec.com
 url: "https://themartec.com"
 image: /logos/themartec-com.png
-screenshot: /screens/themartec-com.jpg
+screenshot: /screens/themartec-com.webp
 subcategory: ai-writing
 pricing: free
 tagline: themartec.com is an AI-powered talent marketing platform that centralizes employee advocacy and content creation.

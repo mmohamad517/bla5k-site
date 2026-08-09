@@ -2,7 +2,7 @@
 name: Undetectable AI
 url: "https://undetectable.ai/"
 image: /logos/undetectable-ai.png
-screenshot: /screens/undetectable-ai.jpg
+screenshot: /screens/undetectable-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Undetectable AI scans text and images for signatures of models like GPT‑4, Gemini, and Claude, combining multiple engine results into a probability score.

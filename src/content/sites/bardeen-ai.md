@@ -2,7 +2,7 @@
 name: Bardeen AI
 url: "https://bardeen.ai/"
 image: /logos/bardeen-ai.png
-screenshot: /screens/bardeen-ai.jpg
+screenshot: /screens/bardeen-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Bardeen automates lead generation by scraping web data, using AI to research and qualify prospects, and enriching contacts with verified emails and phone...

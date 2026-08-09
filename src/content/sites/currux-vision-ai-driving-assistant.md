@@ -2,7 +2,7 @@
 name: Currux Vision
 url: "https://currux.vision"
 image: /logos/currux-vision-ai-driving-assistant.png
-screenshot: /screens/currux-vision-ai-driving-assistant.jpg
+screenshot: /screens/currux-vision-ai-driving-assistant.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Currux Vision processes CCTV video for real‑time monitoring, enforcement, and safety.

@@ -2,7 +2,7 @@
 name: Emma AI
 url: "https://getemma.ai"
 image: /logos/emma-ai.png
-screenshot: /screens/emma-ai.jpg
+screenshot: /screens/emma-ai.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Emma lets teams build custom GPT‑4 chatbots that pull data from documents, spreadsheets, databases, or APIs.

@@ -2,7 +2,7 @@
 name: Baby Maker & Baby Face Generator
 url: "https://www.babyfacegenerator.com"
 image: /logos/baby-maker-baby-face-generator.png
-screenshot: /screens/baby-maker-baby-face-generator.jpg
+screenshot: /screens/baby-maker-baby-face-generator.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Baby Face Generator uses AI to produce realistic future‑baby portraits from two parent photos by analyzing up to 70 facial traits.

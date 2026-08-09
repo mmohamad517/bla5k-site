@@ -2,7 +2,7 @@
 name: PDFgear
 url: "https://www.pdfgear.com"
 image: /logos/pdfgear.png
-screenshot: /screens/pdfgear.jpg
+screenshot: /screens/pdfgear.webp
 subcategory: ai-productivity
 pricing: free
 tagline: PDFgear is a cross‑platform PDF editor that allows editing of text, images, shapes, and form fields; supports annotations, batch conversion to...

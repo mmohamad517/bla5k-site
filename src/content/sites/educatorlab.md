@@ -2,7 +2,7 @@
 name: EducatorLab
 url: "https://educatorlab.org"
 image: /logos/educatorlab.png
-screenshot: /screens/educatorlab.jpg
+screenshot: /screens/educatorlab.webp
 subcategory: ai-image
 pricing: paid
 tagline: Educator Lab uses AI to generate compliant lesson plans, worksheets, and activities for all grades and subjects.

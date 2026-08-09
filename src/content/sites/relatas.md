@@ -2,7 +2,7 @@
 name: Relatas
 url: "https://relatas.com"
 image: /logos/relatas.png
-screenshot: /screens/relatas.jpg
+screenshot: /screens/relatas.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Relatas automates sales analytics by linking activity, pipeline, quotations, and forecasting with minimal manual input.

@@ -2,7 +2,7 @@
 name: Leader menu
 url: "https://leadermenu.com"
 image: /logos/leader-menu.png
-screenshot: /screens/leader-menu.jpg
+screenshot: /screens/leader-menu.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Leader Menu centralizes AI‑generated leadership content, offering structured articles, case studies, templates, and dashboards for decision‑making,...

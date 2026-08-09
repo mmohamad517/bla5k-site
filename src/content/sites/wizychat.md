@@ -2,7 +2,7 @@
 name: WizyChat
 url: "https://wizy.chat/"
 image: /logos/wizychat.png
-screenshot: /screens/wizychat.jpg
+screenshot: /screens/wizychat.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: WizyChat builds AI chatbots from website content, crawling data and training GPT‑4 for understanding.

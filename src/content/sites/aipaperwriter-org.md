@@ -2,7 +2,7 @@
 name: aipaperwriter.org
 url: "https://aipaperwriter.org"
 image: /logos/aipaperwriter-org.png
-screenshot: /screens/aipaperwriter-org.jpg
+screenshot: /screens/aipaperwriter-org.webp
 subcategory: ai-chat
 pricing: free
 tagline: AI Paper Writer Online drafts essays, research papers, and reports from user‑specified topics, pulls data from multiple sources, auto‑formats citations...

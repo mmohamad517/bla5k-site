@@ -2,7 +2,7 @@
 name: TapNow AI
 url: https://tapnow.ai/
 image: /logos/tapnow-ai.png
-screenshot: /screens/tapnow-ai.jpg
+screenshot: /screens/tapnow-ai.webp
 subcategory: ai-video-audio
 tagline: "AI avatar video generator — create talking-head videos from text for marketing."
 tags: [tapnow, ai avatar, video, talking head, marketing]

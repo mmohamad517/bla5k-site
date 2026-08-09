@@ -2,7 +2,7 @@
 name: AIImageDetector.info
 url: "https://aiimagedetector.info/"
 image: /logos/aiimagedetector-info.png
-screenshot: /screens/aiimagedetector-info.jpg
+screenshot: /screens/aiimagedetector-info.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: The AI Image Detector employs a multi-signal forensic screening approach to determine if an image is AI-generated.

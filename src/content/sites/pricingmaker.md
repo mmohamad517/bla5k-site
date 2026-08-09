@@ -2,7 +2,7 @@
 name: PricingMaker
 url: "https://pricingmaker.com/"
 image: /logos/pricingmaker.png
-screenshot: /screens/pricingmaker.jpg
+screenshot: /screens/pricingmaker.webp
 subcategory: fin-fintech
 pricing: paid
 tagline: Pricing Maker is an AI-driven tool that analyzes market dynamics to generate optimal pricing strategies for SaaS, physical, and digital products, helping...

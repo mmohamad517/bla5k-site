@@ -2,7 +2,7 @@
 name: MemoHugs
 url: "https://memohugs.com"
 image: /logos/memohugs.png
-screenshot: /screens/memohugs.jpg
+screenshot: /screens/memohugs.webp
 subcategory: ai-image
 pricing: freemium
 tagline: MemoHugs captures personal memories through chat, documents, photos, and video to build a memoir dataset.

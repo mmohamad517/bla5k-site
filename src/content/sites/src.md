@@ -2,7 +2,7 @@
 name: SRC
 url: "https://sharedrecruiting.co/"
 image: /logos/src.png
-screenshot: /screens/src.jpg
+screenshot: /screens/src.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Shared Recruiting Co.

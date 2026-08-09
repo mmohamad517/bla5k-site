@@ -2,7 +2,7 @@
 name: Shap-e
 url: "https://github.com/openai/shap-e"
 image: /logos/shap-e.png
-screenshot: /screens/shap-e.jpg
+screenshot: /screens/shap-e.webp
 subcategory: design-3d
 pricing: free
 tagline: OpenAI's shap-e is a Python-based tool for generating 3D objects conditioned on text and images.

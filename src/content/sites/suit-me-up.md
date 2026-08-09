@@ -2,7 +2,7 @@
 name: Suit Me Up
 url: "https://suitmeup.pictures/"
 image: /logos/suit-me-up.png
-screenshot: /screens/suit-me-up.jpg
+screenshot: /screens/suit-me-up.webp
 subcategory: ai-image
 pricing: free
 tagline: SuitMeUp uses AI to convert 2‑5 casual selfies into 24 studio‑quality professional headshots in a realistic suit, delivering high‑resolution images for...

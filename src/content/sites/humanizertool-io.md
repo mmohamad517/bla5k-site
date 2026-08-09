@@ -2,7 +2,7 @@
 name: HumanizerTool
 url: "https://www.humanizertool.io"
 image: /logos/humanizertool-io.png
-screenshot: /screens/humanizertool-io.jpg
+screenshot: /screens/humanizertool-io.webp
 subcategory: ai-writing
 pricing: free
 tagline: humanizertool.io is an AI-to-human text converter that rewrites AI-generated content into natural, human-style writing.

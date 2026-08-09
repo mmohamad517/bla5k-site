@@ -2,7 +2,7 @@
 name: GapScout
 url: "https://gapscout.com/"
 image: /logos/gapscout.png
-screenshot: /screens/gapscout.jpg
+screenshot: /screens/gapscout.webp
 subcategory: mkt-social
 pricing: free
 tagline: Gapscout is an AI-driven market research tool that helps businesses identify gaps in the market, find new opportunities, and improve their sales potential...

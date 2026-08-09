@@ -2,7 +2,7 @@
 name: Semihuman.Ai
 url: "https://www.semihuman.ai"
 image: /logos/semihuman-ai.png
-screenshot: /screens/semihuman-ai.jpg
+screenshot: /screens/semihuman-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Semihuman.ai converts AI‑generated text into natural, undetectable prose that passes Turnitin, GPTZero, and ZeroGPT.

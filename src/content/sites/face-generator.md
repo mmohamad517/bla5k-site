@@ -2,7 +2,7 @@
 name: Face-generator
 url: "https://generated.photos/face-generator"
 image: /logos/face-generator.png
-screenshot: /screens/face-generator.jpg
+screenshot: /screens/face-generator.webp
 subcategory: ai-image
 pricing: paid
 tagline: Face Generator produces real‑time photo‑realistic faces with adjustable gender, age, emotion, skin tone, hair, and accessories.

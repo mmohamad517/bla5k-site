@@ -2,7 +2,7 @@
 name: personifyinc.com
 url: "https://personifyinc.com"
 image: /logos/personifyinc-com.png
-screenshot: /screens/personifyinc-com.jpg
+screenshot: /screens/personifyinc-com.webp
 subcategory: ai-image
 pricing: paid
 tagline: Personify lets users build 3D avatars in VRoidStudio, import them into ChromaCam or Presenter, and display them in Zoom, Teams, Webex, Google Meet, and...

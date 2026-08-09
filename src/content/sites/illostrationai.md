@@ -2,7 +2,7 @@
 name: IllostrationAI
 url: "https://www.illostration.com/"
 image: /logos/illostrationai.png
-screenshot: /screens/illostrationai.jpg
+screenshot: /screens/illostrationai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Illustration AI creates images from text, letting users pick styles, upload CSVs for bulk production, edit backgrounds, and export high‑res PNGs or SVGs.

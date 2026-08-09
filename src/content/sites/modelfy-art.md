@@ -2,7 +2,7 @@
 name: Modelfy 3D
 url: "https://modelfy.art/"
 image: /logos/modelfy-art.png
-screenshot: /screens/modelfy-art.jpg
+screenshot: /screens/modelfy-art.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Modelfy 3D is an AI tool that converts 2D images into textured, production-ready 3D models.

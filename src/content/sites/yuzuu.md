@@ -2,7 +2,7 @@
 name: Yuzuu
 url: "https://yuzuu.co"
 image: /logos/yuzuu.png
-screenshot: /screens/yuzuu.jpg
+screenshot: /screens/yuzuu.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Yuzuu converts uploaded product images into realistic studio and lifestyle shots, preserving proportions, colors, textures, and packaging.

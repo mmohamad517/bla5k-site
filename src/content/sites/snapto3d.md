@@ -2,7 +2,7 @@
 name: SnapTo3D
 url: "https://www.snapto3d.dev/"
 image: /logos/snapto3d.png
-screenshot: /screens/snapto3d.jpg
+screenshot: /screens/snapto3d.webp
 subcategory: design-3d
 pricing: freemium
 tagline: SnapTo3D is a tool that converts photos into customizable 3D characters and scenes for printing or digital use.

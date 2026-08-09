@@ -2,7 +2,7 @@
 name: MyPaste
 url: "https://mypaste.dev"
 image: /logos/mypaste.png
-screenshot: /screens/mypaste.jpg
+screenshot: /screens/mypaste.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: mypaste is an AI-powered code pasting tool for Github users.

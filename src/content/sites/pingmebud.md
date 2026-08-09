@@ -2,7 +2,7 @@
 name: PingMeBud
 url: "https://www.pingmebud.com/"
 image: /logos/pingmebud.png
-screenshot: /screens/pingmebud.jpg
+screenshot: /screens/pingmebud.webp
 subcategory: ai-video-audio
 pricing: freemium
 tagline: PingMeBud is a macOS menu bar app that monitors meeting audio locally on Apple Silicon, sending real-time alerts for specific keywords without joining calls.

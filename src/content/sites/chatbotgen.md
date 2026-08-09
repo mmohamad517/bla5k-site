@@ -2,7 +2,7 @@
 name: ChatbotGen
 url: "https://www.chatbotgen.com"
 image: /logos/chatbotgen.png
-screenshot: /screens/chatbotgen.jpg
+screenshot: /screens/chatbotgen.webp
 subcategory: ai-chat
 pricing: paid
 tagline: ChatbotGen builds AI chatbots for WhatsApp, Telegram, websites, and direct links without coding.

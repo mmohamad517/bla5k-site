@@ -2,7 +2,7 @@
 name: Well Embed
 url: "https://embed.wellapp.ai"
 image: /logos/well-embed.png
-screenshot: /screens/well-embed.jpg
+screenshot: /screens/well-embed.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Well Embed provides a unified API and connector suite for automated invoice and receipt retrieval from email, portals, cloud storage, chat apps and vendor...

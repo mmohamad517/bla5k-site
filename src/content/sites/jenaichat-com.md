@@ -2,7 +2,7 @@
 name: JenAI Chat
 url: "https://jenaichat.com"
 image: /logos/jenaichat-com.png
-screenshot: /screens/jenaichat-com.jpg
+screenshot: /screens/jenaichat-com.webp
 subcategory: ai-chat
 pricing: paid
 tagline: JenAI Chat is an Android AI chat app that connects to GPT-3.5/4/4o and Gemini Pro for conversational and document tasks, offering bidirectional voice,...

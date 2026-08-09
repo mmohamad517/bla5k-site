@@ -2,7 +2,7 @@
 name: ComplyAssistant
 url: "https://complyassistant.com"
 image: /logos/complyassistant.png
-screenshot: /screens/complyassistant.jpg
+screenshot: /screens/complyassistant.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: ComplyAssistant is a healthcare-focused GRC platform that manages HIPAA, NIST and HITRUST compliance with vendor and audit management, policy controls, a...

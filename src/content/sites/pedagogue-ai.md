@@ -2,7 +2,7 @@
 name: Pedagogue AI
 url: "https://pedagogue.io"
 image: /logos/pedagogue-ai.png
-screenshot: /screens/pedagogue-ai.jpg
+screenshot: /screens/pedagogue-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Pedagogue offers UK schools a 70‑minute AI micro‑learning program covering fundamentals, classroom use, and responsible practice.

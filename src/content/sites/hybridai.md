@@ -2,7 +2,7 @@
 name: HybridAI
 url: "https://hybridai.one"
 image: /logos/hybridai.png
-screenshot: /screens/hybridai.jpg
+screenshot: /screens/hybridai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: HybridAI enables users to create intelligent chatbots and virtual agents with emotional awareness for various business objectives.

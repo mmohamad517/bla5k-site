@@ -2,7 +2,7 @@
 name: OneTone.ai
 url: "https://onetone.ai/"
 image: /logos/onetone-ai.png
-screenshot: /screens/onetone-ai.jpg
+screenshot: /screens/onetone-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: OneTone.ai is an AI-powered platform designed to improve communication and decision making for customer-focused companies with small business needs.

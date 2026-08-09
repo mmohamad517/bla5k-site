@@ -2,7 +2,7 @@
 name: Graphicinfo
 url: "https://graphicinfo.cc"
 image: /logos/graphicinfo.png
-screenshot: /screens/graphicinfo.jpg
+screenshot: /screens/graphicinfo.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Transforms raw data into instant infographics with a single AI‑click workflow.

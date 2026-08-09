@@ -2,7 +2,7 @@
 name: Applicant AI
 url: "https://applicantai.com"
 image: /logos/applicant-ai.png
-screenshot: /screens/applicant-ai.jpg
+screenshot: /screens/applicant-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Applicant AI is an AI-powered platform that automates, optimizes, and streamlines recruitment and onboarding processes, assesses candidates, and provides...

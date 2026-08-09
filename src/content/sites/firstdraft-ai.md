@@ -2,7 +2,7 @@
 name: FirstDraft AI
 url: "https://firstdraftai.io"
 image: /logos/firstdraft-ai.png
-screenshot: /screens/firstdraft-ai.jpg
+screenshot: /screens/firstdraft-ai.webp
 subcategory: ai-writing
 pricing: paid
 tagline: FirstDraft AI generates full articles with one click.

@@ -2,7 +2,7 @@
 name: Coval
 url: "https://www.coval.dev"
 image: /logos/coval.png
-screenshot: /screens/coval.jpg
+screenshot: /screens/coval.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Coval lets teams test, monitor, and manage conversational AI agents by simulating thousands of realistic interactions, tracking metrics such as latency and...

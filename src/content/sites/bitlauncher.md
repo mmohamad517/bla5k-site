@@ -2,7 +2,7 @@
 name: Bitlauncher
 url: "https://bitlauncher.ai"
 image: /logos/bitlauncher.png
-screenshot: /screens/bitlauncher.jpg
+screenshot: /screens/bitlauncher.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Bitlauncher facilitates startup funding through a batch auction system for equitable price discovery.

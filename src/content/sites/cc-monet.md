@@ -2,7 +2,7 @@
 name: "cc:Monet"
 url: "https://www.ccmonet.ai/"
 image: /logos/cc-monet.png
-screenshot: /screens/cc-monet.jpg
+screenshot: /screens/cc-monet.webp
 subcategory: ai-chat
 pricing: paid
 tagline: ccMonet AI Finance Assistant automates bookkeeping for SMEs by extracting multilingual receipts, invoices, and bank statements, mapping them to charts of...

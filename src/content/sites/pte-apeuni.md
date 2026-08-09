@@ -2,7 +2,7 @@
 name: PTE APEUni
 url: https://www.apeuni.com/
 image: /logos/pte-apeuni.png
-screenshot: /screens/pte-apeuni.jpg
+screenshot: /screens/pte-apeuni.webp
 subcategory: learn-courses
 tagline: "AI-powered PTE exam preparation — practice tests and instant scoring for English proficiency."
 tags: [pte, apeuni, english test, exam, preparation]

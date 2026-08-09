@@ -2,7 +2,7 @@
 name: Voqal Assistant
 url: "https://voqal.dev"
 image: /logos/voqal-assistant.png
-screenshot: /screens/voqal-assistant.jpg
+screenshot: /screens/voqal-assistant.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Voqal lets developers control IDEs, generate code, and run tasks with natural voice, no wake word.

@@ -2,7 +2,7 @@
 name: CodeReviewBot.AI
 url: "https://codereviewbot.ai"
 image: /logos/codereviewbot-ai.png
-screenshot: /screens/codereviewbot-ai.jpg
+screenshot: /screens/codereviewbot-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: AI Code Review Bot automatically scans GitHub pull requests for bugs, security flaws, and performance issues across multiple languages.

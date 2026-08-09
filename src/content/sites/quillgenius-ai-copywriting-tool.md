@@ -2,7 +2,7 @@
 name: QuillGenius AI Copywriting Tool
 url: "https://dealify.com/products/quillgenius?deal=topaitools#erid41833840"
 image: /logos/quillgenius-ai-copywriting-tool.png
-screenshot: /screens/quillgenius-ai-copywriting-tool.jpg
+screenshot: /screens/quillgenius-ai-copywriting-tool.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: QuillGenius is a versatile AI tool offering seamless content creation solutions like article generation, blog post creation, AI voiceovers, image creation,...

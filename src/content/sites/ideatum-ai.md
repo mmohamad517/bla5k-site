@@ -2,7 +2,7 @@
 name: ideatum.ai
 url: "https://www.ideatum.ai"
 image: /logos/ideatum-ai.png
-screenshot: /screens/ideatum-ai.jpg
+screenshot: /screens/ideatum-ai.webp
 subcategory: ai-image
 pricing: free
 tagline: Ideatum generates color palettes, font pairings, sizing ratios and responsive mood boards from a single prompt, producing export-ready style guides and...

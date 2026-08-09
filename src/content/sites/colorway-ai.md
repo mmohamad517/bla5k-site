@@ -2,7 +2,7 @@
 name: Colorway AI
 url: "https://colorway.ai"
 image: /logos/colorway-ai.png
-screenshot: /screens/colorway-ai.jpg
+screenshot: /screens/colorway-ai.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Colorway AI generates black‑and‑white line‑art pages from prompts, including letters, characters, quotes, and fantasy scenes with thick contours.

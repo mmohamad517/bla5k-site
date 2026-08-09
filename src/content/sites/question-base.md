@@ -2,7 +2,7 @@
 name: Question Base
 url: "https://www.questionbase.com/"
 image: /logos/question-base.png
-screenshot: /screens/question-base.jpg
+screenshot: /screens/question-base.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Question Base is an AI agent for Slack that instantly answers queries by retrieving information from Google Drive, Confluence, Notion, Salesforce, and...

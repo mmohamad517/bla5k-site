@@ -2,7 +2,7 @@
 name: Noah AI
 url: "https://tavrn.art/noah/"
 image: /logos/noah-ai.png
-screenshot: /screens/noah-ai.jpg
+screenshot: /screens/noah-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Noah is a powerful chatbot with seamless integration with popular productivity tools and various pricing plans.

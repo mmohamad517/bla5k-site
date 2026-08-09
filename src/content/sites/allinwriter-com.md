@@ -2,7 +2,7 @@
 name: AllinWriter.com
 url: "https://allinwriter.com"
 image: /logos/allinwriter-com.png
-screenshot: /screens/allinwriter-com.jpg
+screenshot: /screens/allinwriter-com.webp
 subcategory: mkt-social
 pricing: paid
 tagline: AllinWriter is an AI‑powered platform that generates blog posts, product descriptions, and voiceovers, and automates social‑media publishing.

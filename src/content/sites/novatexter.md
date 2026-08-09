@@ -2,7 +2,7 @@
 name: Novatexter
 url: "https://novatexter.com/"
 image: /logos/novatexter.png
-screenshot: /screens/novatexter.jpg
+screenshot: /screens/novatexter.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Introducing AI Helper ChatGPT Models, an AI-powered tool that maximizes productivity by utilizing the latest chatGPT models.

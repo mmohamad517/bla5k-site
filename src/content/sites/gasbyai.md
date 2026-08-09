@@ -2,7 +2,7 @@
 name: GasbyAI
 url: "https://gasbyai.com"
 image: /logos/gasbyai.png
-screenshot: /screens/gasbyai.jpg
+screenshot: /screens/gasbyai.webp
 subcategory: ai-chat
 pricing: free
 tagline: GasbyAI is an AI chat platform that integrates GPT, Claude, Gemini, and more, offering automated copywriting, coding help, image and audio transcription,...

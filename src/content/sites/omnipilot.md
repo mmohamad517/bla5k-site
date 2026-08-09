@@ -2,7 +2,7 @@
 name: Omnipilot
 url: "https://omnipilot.ai/"
 image: /logos/omnipilot.png
-screenshot: /screens/omnipilot.jpg
+screenshot: /screens/omnipilot.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Omnipilot is a macOS AI copilot that types in any app, offering context‑aware email drafting, Bash assistance, and streamlined updates.

@@ -2,7 +2,7 @@
 name: Coursebox.ai
 url: "https://www.coursebox.ai/"
 image: /logos/coursebox-ai.png
-screenshot: /screens/coursebox-ai.jpg
+screenshot: /screens/coursebox-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Coursebox is an AI course creator tool that generates draft course structure and content in seconds, offers a drag-and-drop builder, and features such as...

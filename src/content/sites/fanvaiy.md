@@ -2,7 +2,7 @@
 name: Fanvaiy
 url: "https://fanvaiy.com"
 image: /logos/fanvaiy.png
-screenshot: /screens/fanvaiy.jpg
+screenshot: /screens/fanvaiy.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Fanvaiy is a blogging platform that enables creators to publish SEO-friendly content with ease.

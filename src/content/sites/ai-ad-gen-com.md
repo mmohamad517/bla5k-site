@@ -2,7 +2,7 @@
 name: AI Ad Gen
 url: "https://ai-ad-gen.com/"
 image: /logos/ai-ad-gen-com.png
-screenshot: /screens/ai-ad-gen-com.jpg
+screenshot: /screens/ai-ad-gen-com.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: ai-ad-gen.com is a tool that instantly converts a single product photo into platform-optimized ad creatives and lifestyle visuals for TikTok, Amazon, and...

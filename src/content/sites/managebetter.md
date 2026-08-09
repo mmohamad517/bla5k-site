@@ -2,7 +2,7 @@
 name: Managebetter
 url: "https://managebetter.com/"
 image: /logos/managebetter.png
-screenshot: /screens/managebetter.jpg
+screenshot: /screens/managebetter.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: ManageBetter uses AI to automate performance reviews, offering one‑click generation, analytics, 360° feedback, milestone tracking, coaching tools, and...

@@ -2,7 +2,7 @@
 name: Quidget
 url: "https://quidget.lemonsqueezy.com"
 image: /logos/quidget.png
-screenshot: /screens/quidget.jpg
+screenshot: /screens/quidget.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Quidget is an AI chat builder that enhances customer interactions by utilizing knowledge bases for instant answers.

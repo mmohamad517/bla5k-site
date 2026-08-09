@@ -2,7 +2,7 @@
 name: Google Antigravity
 url: https://antigravity.google
 image: /logos/google-antigravity.png
-screenshot: /screens/google-antigravity.jpg
+screenshot: /screens/google-antigravity.webp
 subcategory: dev-ai-agents
 tagline: Google's agent-first development platform — a desktop app, terminal CLI, IDE, and SDK built around one shared agent harness.
 tags:

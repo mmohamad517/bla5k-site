@@ -2,7 +2,7 @@
 name: TrendWhisperer
 url: "https://trendwhisperer.ai"
 image: /logos/trendwhisperer.png
-screenshot: /screens/trendwhisperer.jpg
+screenshot: /screens/trendwhisperer.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: TrendWhisperer delivers real‑time crypto chart analysis with GPT, blending multiple technical indicators to generate signals and predictions.

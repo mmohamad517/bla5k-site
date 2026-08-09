@@ -2,7 +2,7 @@
 name: Ocular AI
 url: "https://useocular.com"
 image: /logos/ocular-ai.png
-screenshot: /screens/ocular-ai.jpg
+screenshot: /screens/ocular-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Ocular AI unifies multimodal data from cloud, local, and external sources into a single catalog for search, versioning, and AI‑assisted labeling with...

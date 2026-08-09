@@ -2,7 +2,7 @@
 name: PlusGO
 url: "https://plusgo.pro"
 image: /logos/plusgo.png
-screenshot: /screens/plusgo.jpg
+screenshot: /screens/plusgo.webp
 subcategory: ai-chat
 pricing: paid
 tagline: "Chinese-language guide for ChatGPT Plus recharge and usage: step-by-step payment and subscription management."

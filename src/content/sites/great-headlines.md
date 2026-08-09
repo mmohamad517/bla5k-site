@@ -2,7 +2,7 @@
 name: Great Headlines
 url: "https://greatheadlines.ai/"
 image: /logos/great-headlines.png
-screenshot: /screens/great-headlines.jpg
+screenshot: /screens/great-headlines.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Great Headlines is an AI‑driven generator that delivers concise, attention‑grabbing copy using proven marketing frameworks.

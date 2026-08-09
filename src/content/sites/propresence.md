@@ -2,7 +2,7 @@
 name: ProPresence
 url: "https://propresence.com.au"
 image: /logos/propresence.png
-screenshot: /screens/propresence.jpg
+screenshot: /screens/propresence.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: Propresence is an AI tool that enhances LinkedIn profiles for executives, helping them build a professional brand and share expertise.

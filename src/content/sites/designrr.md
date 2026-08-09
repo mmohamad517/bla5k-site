@@ -2,7 +2,7 @@
 name: Designrr
 url: "https://designrr.io"
 image: /logos/designrr.png
-screenshot: /screens/designrr.jpg
+screenshot: /screens/designrr.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Designrr converts blog posts, Word/Google Docs, PDFs, audio and video into ebooks, PDFs, flipbooks and blog posts, using automatic transcription, templates...

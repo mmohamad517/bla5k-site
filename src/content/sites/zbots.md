@@ -2,7 +2,7 @@
 name: ZBots
 url: "https://ZFireMedia.com"
 image: /logos/zbots.png
-screenshot: /screens/zbots.jpg
+screenshot: /screens/zbots.webp
 subcategory: nc-builders
 pricing: paid
 tagline: ZBots is a 24/7 AI chatbot that can be embedded with a single line of code.

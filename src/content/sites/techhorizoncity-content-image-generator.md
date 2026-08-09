@@ -2,7 +2,7 @@
 name: TechhorizonCity Content & Image Generator
 url: "https://techhorizoncity.com/content-generator-with-images/"
 image: /logos/techhorizoncity-content-image-generator.png
-screenshot: /screens/techhorizoncity-content-image-generator.jpg
+screenshot: /screens/techhorizoncity-content-image-generator.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Generate articles up to 2000 words with integrated images.

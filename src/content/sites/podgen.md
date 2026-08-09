@@ -2,7 +2,7 @@
 name: Podgen
 url: "https://podgen.io"
 image: /logos/podgen.png
-screenshot: /screens/podgen.jpg
+screenshot: /screens/podgen.webp
 subcategory: ai-image
 pricing: freemium
 tagline: PodGen.io converts text, YouTube videos and PDFs into podcast-ready audio with 50+ voices, voice cloning, multi-host and multilingual support, offering...

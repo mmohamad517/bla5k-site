@@ -2,7 +2,7 @@
 name: Ai linkedin banners
 url: "https://ailinkedinbanners.com"
 image: /logos/ai-linkedin-banners.png
-screenshot: /screens/ai-linkedin-banners.jpg
+screenshot: /screens/ai-linkedin-banners.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: AI LinkedIn Banners automatically generates a personalized banner from an uploaded resume, using computer‑vision and natural‑language processing to extract...

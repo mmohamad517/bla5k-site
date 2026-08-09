@@ -2,7 +2,7 @@
 name: Unifie by Typeless
 url: "https://www.unifie.app"
 image: /logos/unifie-by-typeless.png
-screenshot: /screens/unifie-by-typeless.jpg
+screenshot: /screens/unifie-by-typeless.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Unifie is an AI-powered research assistant that organizes knowledge and enhances note-taking.

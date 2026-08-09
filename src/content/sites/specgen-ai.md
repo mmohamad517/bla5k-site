@@ -2,7 +2,7 @@
 name: Specgen.ai
 url: "https://specgen.ai"
 image: /logos/specgen-ai.png
-screenshot: /screens/specgen-ai.jpg
+screenshot: /screens/specgen-ai.webp
 subcategory: fin-fintech
 pricing: paid
 tagline: Specgen automates tender responses by processing PDFs, DOCX, XLSX, PPTX, extracting requirements, and generating targeted replies within user templates.

@@ -2,7 +2,7 @@
 name: AI Plagiarism Checker
 url: "https://plagiarismcheck.org/ai-detector/"
 image: /logos/ai-plagiarism-checker.png
-screenshot: /screens/ai-plagiarism-checker.jpg
+screenshot: /screens/ai-plagiarism-checker.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: The AI plagiarism checker from plagiarismcheck.org uses advanced AI technology to detect AI-generated content and plagiarism, supports various file formats,...

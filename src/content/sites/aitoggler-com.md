@@ -2,7 +2,7 @@
 name: aiToggler
 url: "https://aitoggler.com/"
 image: /logos/aitoggler-com.png
-screenshot: /screens/aitoggler-com.jpg
+screenshot: /screens/aitoggler-com.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: aiToggler.com is a centralized hub for 300+ AI models across text, image, video, audio, and 3D generation.

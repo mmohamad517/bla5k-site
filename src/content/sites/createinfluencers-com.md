@@ -2,7 +2,7 @@
 name: createinfluencers.com
 url: "https://createinfluencers.com"
 image: /logos/createinfluencers-com.png
-screenshot: /screens/createinfluencers-com.jpg
+screenshot: /screens/createinfluencers-com.webp
 subcategory: ai-image
 pricing: freemium
 tagline: CreateInfluencers generates realistic images and short videos of virtual influencers, offering themed photo packs and customizable character templates, face...

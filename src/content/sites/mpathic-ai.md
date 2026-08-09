@@ -2,7 +2,7 @@
 name: mpathic.ai
 url: "https://mpathic.ai"
 image: /logos/mpathic-ai.png
-screenshot: /screens/mpathic-ai.jpg
+screenshot: /screens/mpathic-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: mpathic AI provides end‑to‑end safety evaluation for AI models, covering policy creation, red‑team testing, and live monitoring.

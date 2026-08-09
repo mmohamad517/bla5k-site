@@ -2,7 +2,7 @@
 name: Content Redefined
 url: "https://contentredefined.ai"
 image: /logos/content-redefined.png
-screenshot: /screens/content-redefined.jpg
+screenshot: /screens/content-redefined.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Content Redefined is an AI platform that generates SEO‑ and geo‑optimized articles based on user‑selected keywords, tone, and length.

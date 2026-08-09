@@ -2,7 +2,7 @@
 name: Avatar 2
 url: "https://avatar2.ai"
 image: /logos/avatar-2.png
-screenshot: /screens/avatar-2.jpg
+screenshot: /screens/avatar-2.webp
 subcategory: ai-image
 pricing: free
 tagline: Avatar 2 converts a front-facing portrait and audio (or TTS) into HD talking avatar videos with precise lip-sync, micro-expression facial animation, and...

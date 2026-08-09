@@ -2,7 +2,7 @@
 name: TitleMaster AI
 url: "https://titlemaster.aikc.net/"
 image: /logos/titlemaster-ai.png
-screenshot: /screens/titlemaster-ai.jpg
+screenshot: /screens/titlemaster-ai.webp
 subcategory: ai-writing
 pricing: paid
 tagline: TitleMaster AI generates up to ten headline options per query using GPT‑4 and Claude, producing question, how‑to, and listicle styles.

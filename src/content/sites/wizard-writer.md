@@ -2,7 +2,7 @@
 name: Wizard Writer
 url: "https://wizardwriter.greenrobot.com"
 image: /logos/wizard-writer.png
-screenshot: /screens/wizard-writer.jpg
+screenshot: /screens/wizard-writer.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Wizard Writer is an AI tool that automates blog article generation based on keywords, offering SEO optimization, editable content, and a scheduling feature...

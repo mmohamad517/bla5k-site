@@ -2,7 +2,7 @@
 name: Startup Pitch Generator
 url: "https://tally.so/r/npeJgq"
 image: /logos/startup-pitch-generator.png
-screenshot: /screens/startup-pitch-generator.jpg
+screenshot: /screens/startup-pitch-generator.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: Startup Pitch Generator transforms brief project and audience details into a concise defining sentence, elevator pitch, and suggested business model.

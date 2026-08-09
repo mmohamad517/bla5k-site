@@ -2,7 +2,7 @@
 name: TenderCrunch
 url: "https://tendercrunch.com"
 image: /logos/tendercrunch.png
-screenshot: /screens/tendercrunch.jpg
+screenshot: /screens/tendercrunch.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: TenderCrunch automates procurement responses, ingesting technical files and past bids into a structured knowledge base.

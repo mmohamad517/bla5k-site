@@ -2,7 +2,7 @@
 name: Ain Finance
 url: "https://ain.finance"
 image: /logos/ain-finance.png
-screenshot: /screens/ain-finance.jpg
+screenshot: /screens/ain-finance.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: Defiai is an AI-powered platform enabling seamless crypto operations, connecting over 401 wallets across 13 blockchains.

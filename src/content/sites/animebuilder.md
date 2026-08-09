@@ -2,7 +2,7 @@
 name: AnimeBuilder
 url: "https://animebuilder.com/"
 image: /logos/animebuilder.png
-screenshot: /screens/animebuilder.jpg
+screenshot: /screens/animebuilder.webp
 subcategory: ai-image
 pricing: free
 tagline: AnimeBuilder is a web‑based AI that turns photos or text prompts into high‑resolution anime‑style images.

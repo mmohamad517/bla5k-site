@@ -2,7 +2,7 @@
 name: BotStacks
 url: "https://www.botstacks.ai/"
 image: /logos/botstacks.png
-screenshot: /screens/botstacks.jpg
+screenshot: /screens/botstacks.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: BotStacks is a no‑code platform that builds AI chatbots for Wix, Squarespace, Bubble, Framer, and Webflow sites.

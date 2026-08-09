@@ -2,7 +2,7 @@
 name: Askgiraffe
 url: "https://askgiraffe.com"
 image: /logos/askgiraffe.png
-screenshot: /screens/askgiraffe.jpg
+screenshot: /screens/askgiraffe.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: AskGiraffe delivers AI‑driven feasibility assessments and strategic guidance for early‑stage startups.

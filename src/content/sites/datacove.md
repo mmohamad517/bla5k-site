@@ -2,7 +2,7 @@
 name: datacove
 url: "https://www.datacove.ai"
 image: /logos/datacove.png
-screenshot: /screens/datacove.jpg
+screenshot: /screens/datacove.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: DataCove AI is a document intelligence platform that enhances legal, HR, and compliance workflows through generative AI and machine learning, enabling...

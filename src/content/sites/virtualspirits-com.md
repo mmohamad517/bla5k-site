@@ -2,7 +2,7 @@
 name: Virtualspirits.com
 url: "https://virtualspirits.com"
 image: /logos/virtualspirits-com.png
-screenshot: /screens/virtualspirits-com.jpg
+screenshot: /screens/virtualspirits-com.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: VirtualSpirits offers a no‑code visual editor to build chatbots for websites, WhatsApp, Messenger, Instagram, and SMS.

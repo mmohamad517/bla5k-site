@@ -2,7 +2,7 @@
 name: CheckforAi
 url: "https://checkforai.com/"
 image: /logos/checkforai.png
-screenshot: /screens/checkforai.jpg
+screenshot: /screens/checkforai.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Checkforai is an AI tool that detects AI-generated content in written text, ensuring authenticity and helping prevent plagiarism and search engine penalization.

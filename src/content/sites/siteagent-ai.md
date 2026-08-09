@@ -2,7 +2,7 @@
 name: SiteAgent.AI
 url: "https://siteagent.ai"
 image: /logos/siteagent-ai.png
-screenshot: /screens/siteagent-ai.jpg
+screenshot: /screens/siteagent-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: SiteAgent.AI is a cutting-edge AI tool that transforms website experiences through voice and text personalized interactions.

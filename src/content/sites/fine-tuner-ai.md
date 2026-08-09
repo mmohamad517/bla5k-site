@@ -2,7 +2,7 @@
 name: Fine-Tuner.ai
 url: "https://fine-tuner.ai/"
 image: /logos/fine-tuner-ai.png
-screenshot: /screens/fine-tuner-ai.jpg
+screenshot: /screens/fine-tuner-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Fine-tuner is a no-code platform for building sophisticated AI agents with pre-built templates, step-by-step guidance, and customizable AI agents that can...

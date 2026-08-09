@@ -2,7 +2,7 @@
 name: The Brain
 url: "https://www.thebrain.com/ai"
 image: /logos/the-brain.png
-screenshot: /screens/the-brain.jpg
+screenshot: /screens/the-brain.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: TheBrain is an AI‑enabled mind‑mapping platform that integrates ChatGPT for real‑time idea generation and refinement.

@@ -2,7 +2,7 @@
 name: Headstarter
 url: "https://theheadstarter.com"
 image: /logos/headstarter.png
-screenshot: /screens/headstarter.jpg
+screenshot: /screens/headstarter.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Headstarter lets engineers practice coding, system design, and collaboration with AI agents.

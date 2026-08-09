@@ -2,7 +2,7 @@
 name: Serviceware ITFM
 url: "https://serviceware-se.com/en/solutions/it-financial-management"
 image: /logos/serviceware-itfm.png
-screenshot: /screens/serviceware-itfm.jpg
+screenshot: /screens/serviceware-itfm.webp
 subcategory: fin-fintech
 pricing: paid
 tagline: Serviceware ITFM is an AI-driven platform that integrates planning, budgeting, and billing to automate financial operations.

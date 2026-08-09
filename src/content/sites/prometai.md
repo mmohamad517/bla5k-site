@@ -2,7 +2,7 @@
 name: PrometAI
 url: "https://prometai.app/"
 image: /logos/prometai.png
-screenshot: /screens/prometai.jpg
+screenshot: /screens/prometai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: The PrometAI AI Business Plan Generator simplifies business plan creation with strategic guidance, AI-assisted content generation, and expert valuation tools.

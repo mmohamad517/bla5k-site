@@ -2,7 +2,7 @@
 name: Instantpersonas
 url: "https://instantpersonas.com"
 image: /logos/instantpersonas.png
-screenshot: /screens/instantpersonas.jpg
+screenshot: /screens/instantpersonas.webp
 subcategory: mkt-social
 pricing: paid
 tagline: InstantPersonas automatically creates detailed user personas from limited input, revealing motivations, preferences, and behaviors.

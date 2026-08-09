@@ -2,7 +2,7 @@
 name: Mydetectai
 url: "https://www.mydetectai.com"
 image: /logos/mydetectai.png
-screenshot: /screens/mydetectai.jpg
+screenshot: /screens/mydetectai.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: AI Detector identifies AI-generated content in videos, images, audio, and text.

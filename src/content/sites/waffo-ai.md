@@ -2,7 +2,7 @@
 name: Waffo.ai
 url: "https://waffo.ai"
 image: /logos/waffo-ai.png
-screenshot: /screens/waffo-ai.jpg
+screenshot: /screens/waffo-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Handles subscription billing, global payments and multi-currency processing, plus tax registration, calculation and remittance.

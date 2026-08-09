@@ -2,7 +2,7 @@
 name: Dentrochat
 url: "https://dentro.chat"
 image: /logos/dentrochat.png
-screenshot: /screens/dentrochat.jpg
+screenshot: /screens/dentrochat.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: DentroChat is a GDPR‑compliant chatbot running on European infrastructure, keeping all user data inside the EU.

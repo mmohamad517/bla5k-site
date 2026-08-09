@@ -2,7 +2,7 @@
 name: Letters from Santa
 url: "https://northpole.direct"
 image: /logos/letters-from-santa.png
-screenshot: /screens/letters-from-santa.jpg
+screenshot: /screens/letters-from-santa.webp
 subcategory: ai-writing
 pricing: free
 tagline: Generates AI-personalized Santa letters using a child’s name, achievements and custom messages; provides editable templates, multi-recipient support,...

@@ -2,7 +2,7 @@
 name: Kopyst
 url: "https://kopyst.com"
 image: /logos/kopyst.png
-screenshot: /screens/kopyst.jpg
+screenshot: /screens/kopyst.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: Kopyst is a documentation tool that enhances workflow efficiency by capturing and recording content.

@@ -2,7 +2,7 @@
 name: Outchat
 url: "https://www.outchat.ai"
 image: /logos/outchat.png
-screenshot: /screens/outchat.jpg
+screenshot: /screens/outchat.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Outchat allows users to create customized AI chat applications that enhance client interactions.

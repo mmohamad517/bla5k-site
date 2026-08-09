@@ -2,7 +2,7 @@
 name: Copyrocket AI Assistant
 url: "https://promptslove.com/"
 image: /logos/copyrocket-ai-assistant.png
-screenshot: /screens/copyrocket-ai-assistant.jpg
+screenshot: /screens/copyrocket-ai-assistant.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: CopyRocket AI facilitates efficient content creation across text, images, code, and voice.

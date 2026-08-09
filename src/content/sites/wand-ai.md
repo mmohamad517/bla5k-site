@@ -2,7 +2,7 @@
 name: Wand AI
 url: "https://wand.ai/"
 image: /logos/wand-ai.png
-screenshot: /screens/wand-ai.jpg
+screenshot: /screens/wand-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Wand enables governments and enterprises to build, manage, and scale hybrid AI agent and human workforces.

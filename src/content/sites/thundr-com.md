@@ -2,7 +2,7 @@
 name: Thundr
 url: "https://thundr.com"
 image: /logos/thundr-com.png
-screenshot: /screens/thundr-com.jpg
+screenshot: /screens/thundr-com.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Thundr is a random video chat app that instantly connects users for one-on-one video or text conversations, with interest and location filters, customizable...

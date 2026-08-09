@@ -2,7 +2,7 @@
 name: AI Writer - SpellCopy
 url: "https://apps.apple.com/us/app/undetectable-ai/id1662248382"
 image: /logos/ai-writer-spellcopy.png
-screenshot: /screens/ai-writer-spellcopy.jpg
+screenshot: /screens/ai-writer-spellcopy.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: SpellCopy is an AI-powered app that helps you generate compelling text for all your marketing materials.

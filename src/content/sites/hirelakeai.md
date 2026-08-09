@@ -2,7 +2,7 @@
 name: HireLakeAI
 url: "https://hirelake.ai/"
 image: /logos/hirelakeai.png
-screenshot: /screens/hirelakeai.jpg
+screenshot: /screens/hirelakeai.webp
 subcategory: ai-productivity
 pricing: free
 tagline: HireLakeAI is an AI‑powered recruitment platform that parses resumes, matches candidates to job descriptions, scores communication skills, and outputs...

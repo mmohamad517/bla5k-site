@@ -2,7 +2,7 @@
 name: Sudo AI
 url: "https://sudoapp.dev"
 image: /logos/sudo-ai.png
-screenshot: /screens/sudo-ai.jpg
+screenshot: /screens/sudo-ai.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: Sudo is a multi-model API platform offering a single endpoint and SDKs for Python/TypeScript to access GPT-4, Claude, and open-source LLMs for text, image,...

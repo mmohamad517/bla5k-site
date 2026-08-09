@@ -2,7 +2,7 @@
 name: Automaticall
 url: "https://automaticall.io"
 image: /logos/automaticall.png
-screenshot: /screens/automaticall.jpg
+screenshot: /screens/automaticall.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Automaticall is an AI call assistant that operates 24/7, supporting multiple languages and seamless scheduling integration.

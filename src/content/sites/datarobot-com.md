@@ -2,7 +2,7 @@
 name: datarobot.com
 url: "https://datarobot.com"
 image: /logos/datarobot-com.png
-screenshot: /screens/datarobot-com.jpg
+screenshot: /screens/datarobot-com.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: DataRobot is an enterprise agent workforce platform for building, deploying, and governing production-grade AI agents across on-prem, hybrid, and...

@@ -2,7 +2,7 @@
 name: ChainIntelGPT
 url: "http://click-v4.exmainclcknew.com/click?i=DajAKIMVlAM_0"
 image: /logos/chainintelgpt.png
-screenshot: /screens/chainintelgpt.jpg
+screenshot: /screens/chainintelgpt.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: ChainIntelGPT is a sophisticated search engine tool that uses natural language processing to provide insights on crypto and blockchain data in real-time.

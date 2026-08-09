@@ -2,7 +2,7 @@
 name: Plazbot
 url: "https://www.plazbot.com"
 image: /logos/plazbot.png
-screenshot: /screens/plazbot.jpg
+screenshot: /screens/plazbot.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Plazbot permite crear, desplegar y escalar agentes de IA en WhatsApp y otros canales, con SDK TypeScript, widgets web, editor no-code, integración...

@@ -2,7 +2,7 @@
 name: HitPublish.ai
 url: "https://www.hitpublish.ai/"
 image: /logos/hitpublish-ai.png
-screenshot: /screens/hitpublish-ai.jpg
+screenshot: /screens/hitpublish-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: HitPublish.ai is an AI-powered content automation platform for WordPress that streamlines writing, formatting, SEO optimization, and bulk publishing.

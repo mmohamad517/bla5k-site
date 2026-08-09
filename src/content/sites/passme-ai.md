@@ -2,7 +2,7 @@
 name: PassMe ai
 url: "https://passme.ai"
 image: /logos/passme-ai.png
-screenshot: /screens/passme-ai.jpg
+screenshot: /screens/passme-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: PassMe AI generates human-like content designed to evade AI detection systems.

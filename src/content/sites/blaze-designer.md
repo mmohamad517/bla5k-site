@@ -2,7 +2,7 @@
 name: Blaze Designer
 url: "https://www.blaze.ai"
 image: /logos/blaze-designer.png
-screenshot: /screens/blaze-designer.jpg
+screenshot: /screens/blaze-designer.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Blaze is an AI-driven content creation tool that generates personalized social media, blog posts, and newsletters efficiently.

@@ -2,7 +2,7 @@
 name: FL0
 url: "https://www.fl0.com"
 image: /logos/fl0.png
-screenshot: /screens/fl0.jpg
+screenshot: /screens/fl0.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: FL0 uses AI to capture real‑time intent signals, enrich contact data, and segment leads.

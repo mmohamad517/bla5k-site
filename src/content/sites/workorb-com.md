@@ -2,7 +2,7 @@
 name: workorb.com
 url: "https://workorb.com"
 image: /logos/workorb-com.png
-screenshot: /screens/workorb-com.jpg
+screenshot: /screens/workorb-com.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Workorb AI automates proposal and RFP workflows—scoring go/no-go decisions and leveling bids—while generating consistent proposals and responses from...

@@ -2,7 +2,7 @@
 name: Cronbot.AI
 url: "https://cronbot.ai"
 image: /logos/cronbot-ai.png
-screenshot: /screens/cronbot-ai.jpg
+screenshot: /screens/cronbot-ai.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Cronbot is a no-code chatbot platform for websites and SaaS that enables embed deployment, multi-channel integrations, a built-in CRM with lead capture and...

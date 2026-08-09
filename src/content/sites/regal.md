@@ -2,7 +2,7 @@
 name: REGAL
 url: "https://regal.ai"
 image: /logos/regal.png
-screenshot: /screens/regal.jpg
+screenshot: /screens/regal.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Regal is an AI agent platform that streamlines customer interactions through autonomous agents and unified communication channels.

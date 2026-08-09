@@ -2,7 +2,7 @@
 name: Open-codereview AI
 url: "https://open-codereview.ai/"
 image: /logos/open-codereview-ai.png
-screenshot: /screens/open-codereview-ai.jpg
+screenshot: /screens/open-codereview-ai.webp
 subcategory: ai-chat
 pricing: free
 tagline: open-codereview.ai is a privacy-first AI code review tool that generates precise line-level comments using LLMs, supporting multiple model providers and 10+...

@@ -2,7 +2,7 @@
 name: 101.school
 url: "https://101.school"
 image: /logos/101-school.png
-screenshot: /screens/101-school.jpg
+screenshot: /screens/101-school.webp
 subcategory: ai-image
 pricing: freemium
 tagline: 101.school lets users create personalized courses or select from STEM, humanities, business, and skill subjects.

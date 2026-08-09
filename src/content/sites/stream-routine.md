@@ -2,7 +2,7 @@
 name: Stream Routine
 url: "https://streamroutine.com/chatgpt-twitch-chatbot"
 image: /logos/stream-routine.png
-screenshot: /screens/stream-routine.jpg
+screenshot: /screens/stream-routine.webp
 subcategory: nc-automation
 pricing: freemium
 tagline: ChatGPT Twitch ChatBot, part of StreamRoutine, logs chat, lets users create custom commands, and offers real‑time ChatGPT interactions.

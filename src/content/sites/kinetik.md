@@ -2,7 +2,7 @@
 name: Kinetik
 url: "https://kineto.app/kinetik"
 image: /logos/kinetik.png
-screenshot: /screens/kinetik.jpg
+screenshot: /screens/kinetik.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Kinetikis a data-driven content intelligence platform that transforms analytics into creative direction and actionable recommendations.

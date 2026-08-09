@@ -2,7 +2,7 @@
 name: Platus (YC F24)
 url: "https://platus.com"
 image: /logos/platus-yc-f24.png
-screenshot: /screens/platus-yc-f24.jpg
+screenshot: /screens/platus-yc-f24.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Platus automates legal tasks by offering tools for drafting, signing, and notarizing documents.

@@ -2,7 +2,7 @@
 name: Meta AI Demos
 url: "https://aidemos.meta.com"
 image: /logos/meta-ai-demos.png
-screenshot: /screens/meta-ai-demos.jpg
+screenshot: /screens/meta-ai-demos.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Meta AI Demos is a catalog of experimental models and interactive technical demos from Meta Research, enabling developers and researchers to test...

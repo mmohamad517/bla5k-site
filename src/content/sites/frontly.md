@@ -2,7 +2,7 @@
 name: Frontly
 url: "https://frontly.ai"
 image: /logos/frontly.png
-screenshot: /screens/frontly.jpg
+screenshot: /screens/frontly.webp
 subcategory: nc-builders
 pricing: free
 tagline: Frontly is a no-code AI app builder that generates and edits custom software from natural-language prompts, combining a visual editor, templates, client...

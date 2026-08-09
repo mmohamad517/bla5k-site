@@ -2,7 +2,7 @@
 name: Grantboost
 url: "https://www.grantboost.io/"
 image: /logos/grantboost.png
-screenshot: /screens/grantboost.jpg
+screenshot: /screens/grantboost.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: AI‑powered platform that gathers organization details via a survey to generate customized grant proposal drafts.

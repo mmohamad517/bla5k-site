@@ -2,7 +2,7 @@
 name: ZeroGPT Plus
 url: "https://www.zerogpt.plus/"
 image: /logos/zerogpt-plus.png
-screenshot: /screens/zerogpt-plus.jpg
+screenshot: /screens/zerogpt-plus.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: ZeroGPT Plus detects AI‑generated text from models such as ChatGPT, Gemini, and Claude with high accuracy.

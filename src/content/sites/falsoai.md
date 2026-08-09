@@ -2,7 +2,7 @@
 name: FalsoAI
 url: "https://www.falsoai.com/"
 image: /logos/falsoai.png
-screenshot: /screens/falsoai.jpg
+screenshot: /screens/falsoai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: FalsoAI is a psycho-security platform that uses behavioral AI to detect cognitive manipulation and persuasion tactics in digital content.

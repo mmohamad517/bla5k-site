@@ -2,7 +2,7 @@
 name: Thunder
 url: "https://web.thunder.vc"
 image: /logos/thunder.png
-screenshot: /screens/thunder.jpg
+screenshot: /screens/thunder.webp
 subcategory: fin-fintech
 pricing: free
 tagline: Thunder uses AI-driven deal matching and automated warm email introductions to connect founders, GPs, VCs, family offices, and accredited investors.

@@ -2,7 +2,7 @@
 name: Xdge AI
 url: "https://xdge.ai"
 image: /logos/xdge-ai.png
-screenshot: /screens/xdge-ai.jpg
+screenshot: /screens/xdge-ai.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: Xdge offers AI agents, enterprise search and automated workflows across Slack, Gmail, Jira, Notion and meetings—providing transcription, summaries,...

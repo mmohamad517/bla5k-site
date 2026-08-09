@@ -2,7 +2,7 @@
 name: GetFloorPlan
 url: "https://getfloorplan.com/"
 image: /logos/getfloorplan.png
-screenshot: /screens/getfloorplan.jpg
+screenshot: /screens/getfloorplan.webp
 subcategory: design-graphics
 pricing: paid
 tagline: Getfloorplan converts JPG, PNG, or PDF floor plans into detailed 2D and 3D visualizations, including full‑color renders and 360° virtual tours.

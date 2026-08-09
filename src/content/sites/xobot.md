@@ -2,7 +2,7 @@
 name: Xobot
 url: "https://xobot.co"
 image: /logos/xobot.png
-screenshot: /screens/xobot.jpg
+screenshot: /screens/xobot.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Xobot is an AI-driven voice bot platform that enhances customer interactions through appointment scheduling, lead generation, and FAQ responses, seamlessly...

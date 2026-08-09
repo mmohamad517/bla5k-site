@@ -2,7 +2,7 @@
 name: SuperExpert AI
 url: "https://superexpert.ai/"
 image: /logos/superexpert-ai.png
-screenshot: /screens/superexpert-ai.jpg
+screenshot: /screens/superexpert-ai.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: SuperExpert AI is an open-source platform for building and deploying multi-task AI agents without coding, featuring RAG for document retrieval and custom...

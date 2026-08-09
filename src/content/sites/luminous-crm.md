@@ -2,7 +2,7 @@
 name: Luminous crm
 url: "https://luminouscrm.com"
 image: /logos/luminous-crm.png
-screenshot: /screens/luminous-crm.jpg
+screenshot: /screens/luminous-crm.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Luminous CRM is a WhatsApp engagement platform using the official API to send bulk promos, run AI‑driven chatbots, and support multi‑agent live chat.

@@ -2,7 +2,7 @@
 name: arcloop
 url: "https://arcloop.ai"
 image: /logos/arcloop-ai.png
-screenshot: /screens/arcloop-ai.jpg
+screenshot: /screens/arcloop-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: arcloop.ai is an AI-driven anime video creation engine that transforms scripts or text prompts into fully animated sequences with original characters,...

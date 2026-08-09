@@ -2,7 +2,7 @@
 name: Soon app
 url: "https://www.soon.app/"
 image: /logos/soon-app.png
-screenshot: /screens/soon-app.jpg
+screenshot: /screens/soon-app.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Soon automates crypto trades through popular exchanges, offering scheduled buying/selling, auto‑pilot profit‑realization, reimbursement for daily expenses,...

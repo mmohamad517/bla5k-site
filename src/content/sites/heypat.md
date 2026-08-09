@@ -2,7 +2,7 @@
 name: HeyPat
 url: "https://www.heypat.ai/"
 image: /logos/heypat.png
-screenshot: /screens/heypat.jpg
+screenshot: /screens/heypat.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: HeyPat.ai is a conversational AI assistant that delivers instant answers on various topics through messaging platforms like Telegram and WhatsApp.

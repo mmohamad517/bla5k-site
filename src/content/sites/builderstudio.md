@@ -2,7 +2,7 @@
 name: BuilderStudio
 url: "https://builderstudio.dev"
 image: /logos/builderstudio.png
-screenshot: /screens/builderstudio.jpg
+screenshot: /screens/builderstudio.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: BuilderStudio is a native macOS IDE for building, previewing, and deploying AI-assisted web and desktop apps with local-first, sandboxed workflows.

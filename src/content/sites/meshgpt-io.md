@@ -2,7 +2,7 @@
 name: MeshGPT.io
 url: "https://meshgpt.io/"
 image: /logos/meshgpt-io.png
-screenshot: /screens/meshgpt-io.jpg
+screenshot: /screens/meshgpt-io.webp
 subcategory: design-3d
 pricing: free
 tagline: MeshGPT.io is an AI 3D model generator that converts text and images into production-ready assets with auto-generated PBR materials, UVs, and clean topology.

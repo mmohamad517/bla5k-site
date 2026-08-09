@@ -2,7 +2,7 @@
 name: "Tabby: AI Bookkeeper"
 url: "https://usetabby.com"
 image: /logos/tabby-ai-bookkeeper.png
-screenshot: /screens/tabby-ai-bookkeeper.jpg
+screenshot: /screens/tabby-ai-bookkeeper.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Tabby is AI bookkeeping for freelancers and small businesses that syncs bank/card data via Plaid, automates transaction categorization and reconciliation,...

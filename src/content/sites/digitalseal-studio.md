@@ -2,7 +2,7 @@
 name: DigitalSeal Studio
 url: "https://sealsdigital.com"
 image: /logos/digitalseal-studio.png
-screenshot: /screens/digitalseal-studio.jpg
+screenshot: /screens/digitalseal-studio.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Online Rubber Stamp Maker Free enables users to create custom digital stamps with adjustable design features.

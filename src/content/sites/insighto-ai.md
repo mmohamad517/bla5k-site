@@ -2,7 +2,7 @@
 name: Insighto.ai
 url: "https://insighto.ai"
 image: /logos/insighto-ai.png
-screenshot: /screens/insighto-ai.jpg
+screenshot: /screens/insighto-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Insighto.ai is an AI agent builder that simplifies the creation, customization, and deployment of AI agents for various purposes.

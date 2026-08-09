@@ -2,7 +2,7 @@
 name: Gitwit
 url: "https://www.gitwit.dev/"
 image: /logos/gitwit.png
-screenshot: /screens/gitwit.jpg
+screenshot: /screens/gitwit.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: GitWit is an open‑source, AI‑native browser IDE that supports syntax highlighting, auto‑completion, and real‑time collaboration.

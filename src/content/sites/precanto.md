@@ -2,7 +2,7 @@
 name: Precanto
 url: "https://precanto.com"
 image: /logos/precanto.png
-screenshot: /screens/precanto.jpg
+screenshot: /screens/precanto.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Precanto uses AI to deliver real‑time financial forecasts, headcount models, and predicted statements by automatically consolidating data from ERP, HRIS,...

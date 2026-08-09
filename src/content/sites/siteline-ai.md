@@ -2,7 +2,7 @@
 name: Siteline.ai
 url: "https://siteline.ai/"
 image: /logos/siteline-ai.png
-screenshot: /screens/siteline-ai.jpg
+screenshot: /screens/siteline-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Siteline.ai is an AI agent analytics platform that tracks bot visits, citations, and query-level impressions across major AI platforms.

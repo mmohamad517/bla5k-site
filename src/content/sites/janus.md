@@ -2,7 +2,7 @@
 name: Janus
 url: "https://withjanus.com"
 image: /logos/janus.png
-screenshot: /screens/janus.jpg
+screenshot: /screens/janus.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Janus is an end-to-end simulation engine for evaluating AI agents, automating benchmark generation and creating diverse simulation environments.

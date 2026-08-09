@@ -2,7 +2,7 @@
 name: Social Bellow
 url: "https://www.socialbellow.com/"
 image: /logos/social-bellow.png
-screenshot: /screens/social-bellow.jpg
+screenshot: /screens/social-bellow.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Social Bellow is an AI assistant that quickly generates and refines captions, blog posts, and marketing copy from prompts.

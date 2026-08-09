@@ -2,7 +2,7 @@
 name: Whisp
 url: "https://heywhisp.com"
 image: /logos/whisp.png
-screenshot: /screens/whisp.jpg
+screenshot: /screens/whisp.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Whisp converts spoken requirements into production-ready web apps, generating frontend, backend, database schemas, authentication, and integrations with...

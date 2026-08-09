@@ -2,7 +2,7 @@
 name: WA Sender
 url: "https://wasender.wadesk.io/"
 image: /logos/wa-sender.png
-screenshot: /screens/wa-sender.jpg
+screenshot: /screens/wa-sender.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: WA Sender is a bulk WhatsApp messaging tool for mass campaigns, scheduling, and group outreach.

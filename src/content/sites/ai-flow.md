@@ -2,7 +2,7 @@
 name: AI-Flow
 url: "https://ai-flow.net"
 image: /logos/ai-flow.png
-screenshot: /screens/ai-flow.jpg
+screenshot: /screens/ai-flow.webp
 subcategory: ai-chat
 pricing: paid
 tagline: AI-Flow is a no‑code platform enabling creators to build and run AI workflows via drag‑and‑drop, integrating models from OpenAI, StabilityAI, Anthropic, and...

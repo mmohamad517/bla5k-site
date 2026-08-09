@@ -2,7 +2,7 @@
 name: Feedyou.ai
 url: "https://feedyou.ai"
 image: /logos/feedyou-ai.png
-screenshot: /screens/feedyou-ai.jpg
+screenshot: /screens/feedyou-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Feedyou lets businesses build and deploy chatbots, voice assistants, email bots, and knowledge bases across web, mobile, messaging, and internal tools.

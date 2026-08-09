@@ -2,7 +2,7 @@
 name: AI Action Figure Generator
 url: "https://aiactionfiguregenerator.net/"
 image: /logos/ai-action-figure-generator.png
-screenshot: /screens/ai-action-figure-generator.jpg
+screenshot: /screens/ai-action-figure-generator.webp
 subcategory: design-3d
 pricing: free
 tagline: AI Action Figure Generator is a tool that transforms detailed character descriptions into customizable, high-quality action figure designs.

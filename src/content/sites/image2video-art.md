@@ -2,7 +2,7 @@
 name: image2video.art
 url: "https://image2video.art/"
 image: /logos/image2video-art.png
-screenshot: /screens/image2video-art.jpg
+screenshot: /screens/image2video-art.webp
 subcategory: ai-image
 pricing: freemium
 tagline: image2video.art is an AI tool that transforms static photos into dynamic videos with audio sync, multi-shot sequencing, and subject consistency across frames.

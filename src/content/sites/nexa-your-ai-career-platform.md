@@ -2,7 +2,7 @@
 name: Nexa
 url: "https://trynexa.com/"
 image: /logos/nexa-your-ai-career-platform.png
-screenshot: /screens/nexa-your-ai-career-platform.jpg
+screenshot: /screens/nexa-your-ai-career-platform.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Nexa AI delivers an end‑to‑end workforce platform with AI career advisors for learners and recruiter agents for enterprises.

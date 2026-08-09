@@ -2,7 +2,7 @@
 name: Alle-AI
 url: "https://alle-ai.com"
 image: /logos/alle-ai.png
-screenshot: /screens/alle-ai.jpg
+screenshot: /screens/alle-ai.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Alle‑AI aggregates and compares outputs from multiple generative AI models, delivering unified results while reducing bias and hallucinations through...

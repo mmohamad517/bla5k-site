@@ -2,7 +2,7 @@
 name: Xbot77.com
 url: "https://xbot77.com"
 image: /logos/xbot77-com.png
-screenshot: /screens/xbot77-com.jpg
+screenshot: /screens/xbot77-com.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Xbot77.com is an AI agent platform for building and deploying task-specific agents with integrated data controls and CRM.

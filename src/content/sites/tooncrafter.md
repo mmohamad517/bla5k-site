@@ -2,7 +2,7 @@
 name: ToonCrafter
 url: "https://toon-crafter.com"
 image: /logos/tooncrafter.png
-screenshot: /screens/tooncrafter.jpg
+screenshot: /screens/tooncrafter.webp
 subcategory: ai-image
 pricing: freemium
 tagline: ToonCrafter turns 2‑4 static cartoon images into 8 fps, 512×512 MP4 clips by interpolating keyframes.

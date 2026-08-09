@@ -2,7 +2,7 @@
 name: Chat KJV
 url: "https://chatkjv.com"
 image: /logos/chat-kjv.png
-screenshot: /screens/chat-kjv.jpg
+screenshot: /screens/chat-kjv.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: ChatKJV is a chat interface for the King James Bible that returns contextually relevant passages, offers natural-language scripture search, verse lookup,...

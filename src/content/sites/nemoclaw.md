@@ -2,7 +2,7 @@
 name: NemoClaw
 url: "https://github.com/NVIDIA/NemoClaw"
 image: /logos/nemoclaw.png
-screenshot: /screens/nemoclaw.jpg
+screenshot: /screens/nemoclaw.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: NEMOCLAW is an open-source NVIDIA enterprise AI agent platform for deploying, managing and scaling autonomous agents.

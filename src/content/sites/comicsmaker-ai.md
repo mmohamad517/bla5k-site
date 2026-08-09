@@ -2,7 +2,7 @@
 name: ComicsMaker.ai
 url: "https://www.comicsmaker.ai/"
 image: /logos/comicsmaker-ai.png
-screenshot: /screens/comicsmaker-ai.jpg
+screenshot: /screens/comicsmaker-ai.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: ComicsMaker lets creators design characters, generate scenes, and layout pages with AI.

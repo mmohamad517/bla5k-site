@@ -2,7 +2,7 @@
 name: Read Their Lips
 url: "https://www.readtheirlips.com/"
 image: /logos/read-their-lips.png
-screenshot: /screens/read-their-lips.jpg
+screenshot: /screens/read-their-lips.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Read Lips is a video processing tool that enhances lip-reading by analyzing uploaded videos.

@@ -2,7 +2,7 @@
 name: AI Accounting Apps
 url: "https://www.aiaccountingapps.com"
 image: /logos/ai-accounting-apps.png
-screenshot: /screens/ai-accounting-apps.jpg
+screenshot: /screens/ai-accounting-apps.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: AI Accounting Apps offers a searchable directory of over 300 AI‑powered accounting tools across finance functions like AP/AR automation, data extraction,...

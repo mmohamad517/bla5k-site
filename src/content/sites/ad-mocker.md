@@ -2,7 +2,7 @@
 name: Ad Mocker
 url: "https://admocker.com"
 image: /logos/ad-mocker.png
-screenshot: /screens/ad-mocker.jpg
+screenshot: /screens/ad-mocker.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: Ad Mocker produces realistic ad previews for Facebook, Instagram, Google Display Network, and YouTube, allowing teams to adjust headlines, images, and...

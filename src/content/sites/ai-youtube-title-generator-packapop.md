@@ -2,7 +2,7 @@
 name: AI YouTube Title Generator- PackaPop
 url: "https://packapop.com/pages/youtube-title-generator"
 image: /logos/ai-youtube-title-generator-packapop.png
-screenshot: /screens/ai-youtube-title-generator-packapop.jpg
+screenshot: /screens/ai-youtube-title-generator-packapop.webp
 subcategory: ai-writing
 pricing: free
 tagline: AI YouTube Title-Generator-PackaPopis a free tool that generates engaging, data-driven video titles to boost click-through rates.

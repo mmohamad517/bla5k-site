@@ -2,7 +2,7 @@
 name: AiScribbler
 url: "https://aiscribbler.co"
 image: /logos/aiscribbler.png
-screenshot: /screens/aiscribbler.jpg
+screenshot: /screens/aiscribbler.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Lennart Process Instrumentation and Automation Systems supplies instrumentation and automation solutions for oil & gas, petrochemicals, utilities, metals,...

@@ -2,7 +2,7 @@
 name: Promptologer
 url: "https://promptologer.com"
 image: /logos/promptologer.png
-screenshot: /screens/promptologer.jpg
+screenshot: /screens/promptologer.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Promptologer lets users create, showcase, and monetize GPT prompts without coding.

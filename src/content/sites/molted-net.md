@@ -2,7 +2,7 @@
 name: Molted
 url: "https://www.molted.net/managed-ai-agent-platform"
 image: /logos/molted-net.png
-screenshot: /screens/molted-net.jpg
+screenshot: /screens/molted-net.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Molted.net is a sales call intelligence tool that automates discovery call transcription, summarization, and CRM syncing.

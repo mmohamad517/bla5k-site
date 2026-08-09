@@ -2,7 +2,7 @@
 name: APIMart
 url: "https://apimart.ai"
 image: /logos/apimart.png
-screenshot: /screens/apimart.jpg
+screenshot: /screens/apimart.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: APIMart provides a unified OpenAI-compatible API exposing 500+ models (GPT-5, Claude, Sora, Flux) for chat, streaming, function calling, vision, image/video...

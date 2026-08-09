@@ -2,7 +2,7 @@
 name: Chattee
 url: "https://chattee.ai/"
 image: /logos/chattee.png
-screenshot: /screens/chattee.jpg
+screenshot: /screens/chattee.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Chattee is an AI app builder that converts plain-English prompts into full-stack web applications with databases, auth, and workflows.

@@ -2,7 +2,7 @@
 name: Clacky
 url: "https://clacky.ai"
 image: /logos/clacky.png
-screenshot: /screens/clacky.jpg
+screenshot: /screens/clacky.webp
 subcategory: nc-builders
 pricing: paid
 tagline: Clackyai enables users to create and monetize applications quickly with customizable features like authentication and payment processing.

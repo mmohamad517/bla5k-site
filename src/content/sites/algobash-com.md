@@ -2,7 +2,7 @@
 name: Algobash.com
 url: "https://www.algobash.com/en/"
 image: /logos/algobash-com.png
-screenshot: /screens/algobash-com.jpg
+screenshot: /screens/algobash-com.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Algobash is an assessment platform that streamlines hiring with AI-driven interviews, coding tests, and evaluations for data handling, culture fit,...

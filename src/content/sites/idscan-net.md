@@ -2,7 +2,7 @@
 name: Idscan.net
 url: "https://www.idscan.net"
 image: /logos/idscan-net.png
-screenshot: /screens/idscan-net.jpg
+screenshot: /screens/idscan-net.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: IDScan.net offers an AI‑driven identity verification platform that scans passports, driver’s licenses, and mobile IDs using UV/IR imaging and deep‑fake...

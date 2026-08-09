@@ -2,7 +2,7 @@
 name: Perspective
 url: "https://perspective.technology/"
 image: /logos/perspective.png
-screenshot: /screens/perspective.jpg
+screenshot: /screens/perspective.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Perspective is an AI tool offering access to over 50 advanced models for text, code, images, video, and audio.

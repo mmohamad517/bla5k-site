@@ -2,7 +2,7 @@
 name: Tryitonai
 url: "https://www.tryitonai.com/"
 image: /logos/tryitonai.png
-screenshot: /screens/tryitonai.jpg
+screenshot: /screens/tryitonai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Try it on AI generates professional headshots for individuals and teams, offering Express mode for quick social‑profile shots, Creative Studio for custom...

@@ -2,7 +2,7 @@
 name: enqAI
 url: "https://www.enqai.com/"
 image: /logos/enqai.png
-screenshot: /screens/enqai.jpg
+screenshot: /screens/enqai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: "enqai\" is a decentralized AI tool that prioritizes autonomy and security by offering uncensorable solutions."

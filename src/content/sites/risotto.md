@@ -2,7 +2,7 @@
 name: Risotto
 url: "https://www.tryrisotto.com"
 image: /logos/risotto.png
-screenshot: /screens/risotto.jpg
+screenshot: /screens/risotto.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Risotto is an AI help‑desk that automates first‑level support for IT, HR, legal, finance, engineering, and security.

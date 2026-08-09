@@ -2,7 +2,7 @@
 name: NinjaTools
 url: "https://ninjatools.ai"
 image: /logos/ninjatools.png
-screenshot: /screens/ninjatools.jpg
+screenshot: /screens/ninjatools.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: NinjaTools is an AI workspace that integrates various functionalities, offering tools for image generation, music creation, and document analysis.

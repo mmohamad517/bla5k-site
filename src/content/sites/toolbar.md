@@ -2,7 +2,7 @@
 name: Toolbar
 url: "https://usetool.bar"
 image: /logos/toolbar.png
-screenshot: /screens/toolbar.jpg
+screenshot: /screens/toolbar.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Fastest Feedback Tool Agencies facilitates collaboration on digital projects by allowing real-time bug reporting directly on the website.

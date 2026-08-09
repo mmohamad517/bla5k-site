@@ -2,7 +2,7 @@
 name: ChatBees.AI
 url: "https://www.chatbees.ai"
 image: /logos/chatbees-ai.png
-screenshot: /screens/chatbees-ai.jpg
+screenshot: /screens/chatbees-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: ChatBees builds knowledge graphs from past tickets and connects to HubSpot, Confluence, Notion, and Google Drive.

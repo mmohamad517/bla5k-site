@@ -2,7 +2,7 @@
 name: EssayFlow ai
 url: "https://www.essayflow.ai"
 image: /logos/essayflow-ai.png
-screenshot: /screens/essayflow-ai.jpg
+screenshot: /screens/essayflow-ai.webp
 subcategory: ai-chat
 pricing: free
 tagline: EssayFlow creates essays that evade detection by GPTZero, ZeroGPT, and Turnitin, offering customizable topic, length, and language settings.

@@ -2,7 +2,7 @@
 name: Perplexity Computer
 url: "https://www.perplexity.ai/computer"
 image: /logos/perplexity-computer.png
-screenshot: /screens/perplexity-computer.jpg
+screenshot: /screens/perplexity-computer.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Perplexity.ai provides AI-powered search and question answering that combines web-sourced results with concise summaries, linked source citations, and excerpts.

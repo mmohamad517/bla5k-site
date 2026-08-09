@@ -2,7 +2,7 @@
 name: ibex-ai.com
 url: "https://ibex-ai.com"
 image: /logos/ibex-ai-com.png
-screenshot: /screens/ibex-ai-com.jpg
+screenshot: /screens/ibex-ai-com.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: ibex offers AI-powered cancer diagnostics with innovative deep learning technology.

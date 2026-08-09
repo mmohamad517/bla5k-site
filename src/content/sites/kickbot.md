@@ -2,7 +2,7 @@
 name: KickBot
 url: "https://kickbot.com/"
 image: /logos/kickbot.png
-screenshot: /screens/kickbot.jpg
+screenshot: /screens/kickbot.webp
 subcategory: nc-builders
 pricing: free
 tagline: KickBot is a cloud‑based platform for Kick streamers that unifies chat management, customizable widgets, real‑time alerts, and moderation.

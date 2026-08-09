@@ -2,7 +2,7 @@
 name: Qwikrank
 url: "https://qwikrank.com"
 image: /logos/qwikrank.png
-screenshot: /screens/qwikrank.jpg
+screenshot: /screens/qwikrank.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: QwikRank is an AI-driven SEO content creation tool that automates keyword research, content writing, and publishing.

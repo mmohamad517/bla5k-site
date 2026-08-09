@@ -2,7 +2,7 @@
 name: Aritect
 url: "https://aritect.com"
 image: /logos/aritect.png
-screenshot: /screens/aritect.jpg
+screenshot: /screens/aritect.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Aritect is a Solana-based risk intelligence platform and $ARITECT token offering wallet scoring, on-chain credit history and behavioral analytics via REST...

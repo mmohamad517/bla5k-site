@@ -2,7 +2,7 @@
 name: techtrust.ai
 url: "https://techtrust.ai"
 image: /logos/techtrust-ai.png
-screenshot: /screens/techtrust-ai.jpg
+screenshot: /screens/techtrust-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Techtrust.ai lets early‑stage AI startups submit progress updates that are automatically verified and converted into investor‑ready credibility signals.

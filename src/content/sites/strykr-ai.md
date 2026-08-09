@@ -2,7 +2,7 @@
 name: Strykr.ai
 url: "https://strykr.ai"
 image: /logos/strykr-ai.png
-screenshot: /screens/strykr-ai.jpg
+screenshot: /screens/strykr-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Strykr.ai provides real-time market intelligence and AI-driven volatility alerts across crypto and multi-chain assets, scoring macro events, screening...

@@ -2,7 +2,7 @@
 name: Chatgpt Work
 url: "https://openai.com/chatgpt-work/"
 image: /logos/chatgpt-work.png
-screenshot: /screens/chatgpt-work.jpg
+screenshot: /screens/chatgpt-work.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: ChatGPT Work (GPT-5.6) consolidates context from files, apps, and 1,400+ plugins to generate documents, spreadsheets, presentations, dashboards, and...

@@ -2,7 +2,7 @@
 name: BotDistrikt
 url: "https://www.botdistrikt.com/"
 image: /logos/botdistrikt.png
-screenshot: /screens/botdistrikt.jpg
+screenshot: /screens/botdistrikt.webp
 subcategory: mkt-social
 pricing: free
 tagline: BotDistrikt lets businesses build AI chatbots that track clicks, impressions, and conversions.

@@ -2,7 +2,7 @@
 name: ANUMA AI
 url: "https://www.anuma.ai/"
 image: /logos/anuma-ai.png
-screenshot: /screens/anuma-ai.jpg
+screenshot: /screens/anuma-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: ANUMA AI is a private, local-first chat platform that uses a unified memory layer to preserve full conversation context when switching between AI models.

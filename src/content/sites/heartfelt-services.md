@@ -2,7 +2,7 @@
 name: Heartfelt Services
 url: "https://heartfelt.services"
 image: /logos/heartfelt-services.png
-screenshot: /screens/heartfelt-services.jpg
+screenshot: /screens/heartfelt-services.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Heartfelt Services delivers AI‑driven therapeutic conversations.

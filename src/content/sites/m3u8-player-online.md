@@ -2,7 +2,7 @@
 name: m3u8 player online
 url: "https://m3u8-player.net/"
 image: /logos/m3u8-player-online.png
-screenshot: /screens/m3u8-player-online.jpg
+screenshot: /screens/m3u8-player-online.webp
 subcategory: ai-productivity
 pricing: free
 tagline: m3u8 player online is a browser-based HLS player and downloader that plays live and on-demand streams with adaptive bitrate switching, while also enabling...

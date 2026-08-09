@@ -2,7 +2,7 @@
 name: 3D AI Studio
 url: "https://3daistudio.com"
 image: /logos/3d-ai-studio.png
-screenshot: /screens/3d-ai-studio.jpg
+screenshot: /screens/3d-ai-studio.webp
 subcategory: design-3d
 pricing: paid
 tagline: 3D AI Studio turns text prompts and images into production‑ready 3D models with AI‑generated PBR textures, automated remeshing, and export to FBX, GLB, OBJ,...

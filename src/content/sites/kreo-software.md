@@ -2,7 +2,7 @@
 name: Kreo Software
 url: "https://www.kreo.net"
 image: /logos/kreo-software.png
-screenshot: /screens/kreo-software.jpg
+screenshot: /screens/kreo-software.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Kreo Construction Takeoff AI Software optimizes building projects by automating measurements, producing precise reports, and fostering team collaboration.

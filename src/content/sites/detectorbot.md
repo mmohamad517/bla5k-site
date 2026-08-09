@@ -2,7 +2,7 @@
 name: DetectorBot
 url: "https://www.aidetectorbot.ai/"
 image: /logos/detectorbot.png
-screenshot: /screens/detectorbot.jpg
+screenshot: /screens/detectorbot.webp
 subcategory: ai-productivity
 pricing: free
 tagline: AI Detector analyzes texts of at least 80 words to identify AI-generated content from various models.

@@ -2,7 +2,7 @@
 name: Linked API
 url: "https://linkedapi.io"
 image: /logos/linked-api.png
-screenshot: /screens/linked-api.jpg
+screenshot: /screens/linked-api.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: LinkedIn API is a secure interface for managing LinkedIn accounts and automating outreach, messaging, and engagement.

@@ -2,7 +2,7 @@
 name: mocku.com
 url: "https://mocku.com"
 image: /logos/mocku-com.png
-screenshot: /screens/mocku-com.jpg
+screenshot: /screens/mocku-com.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Mocku is a mockup generator for products, devices, apparel and packaging that converts uploads into ready-to-use visuals using templates, style presets and...

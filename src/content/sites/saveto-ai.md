@@ -2,7 +2,7 @@
 name: Saveto AI
 url: "https://saveto.ai/"
 image: /logos/saveto-ai.png
-screenshot: /screens/saveto-ai.jpg
+screenshot: /screens/saveto-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Saveto AI is an all-in-one AI content creation and collaboration platform for teams.

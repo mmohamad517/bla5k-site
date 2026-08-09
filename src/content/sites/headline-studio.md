@@ -2,7 +2,7 @@
 name: Headline Studio
 url: "https://coschedule.com/headline-studio"
 image: /logos/headline-studio.png
-screenshot: /screens/headline-studio.jpg
+screenshot: /screens/headline-studio.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Headline Studio uses AI to generate platform‑specific headlines and gives data‑driven feedback on word balance, character limits, and keyword relevance.

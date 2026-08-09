@@ -2,7 +2,7 @@
 name: AIEasyUse
 url: "https://www.aieasyuse.com"
 image: /logos/aieasyuse.png
-screenshot: /screens/aieasyuse.jpg
+screenshot: /screens/aieasyuse.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: AIEasyUse is an AI tool offering 60+ templates for swift content creation.

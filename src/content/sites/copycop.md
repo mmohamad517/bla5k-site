@@ -2,7 +2,7 @@
 name: CopyCop
 url: "https://copycopai.com/"
 image: /logos/copycop.png
-screenshot: /screens/copycop.jpg
+screenshot: /screens/copycop.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Copycop AI automatically generates Facebook ad copy that complies with current policy rules.

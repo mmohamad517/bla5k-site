@@ -2,7 +2,7 @@
 name: DM Champ
 url: "https://dmchamp.com/"
 image: /logos/dm-champ.png
-screenshot: /screens/dm-champ.jpg
+screenshot: /screens/dm-champ.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: DM Champ is an AI-driven sales assistance tool for WhatsApp and Instagram that automates lead generation and appointment bookings, personalizes...

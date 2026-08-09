@@ -2,7 +2,7 @@
 name: Interview Solver
 url: "https://interviewsolver.com"
 image: /logos/interview-solver.png
-screenshot: /screens/interview-solver.jpg
+screenshot: /screens/interview-solver.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Interview Solver is a desktop AI copilot that supplies real‑time code and system‑design solutions during coding interviews, accepting screenshots, voice,...

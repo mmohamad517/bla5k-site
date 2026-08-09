@@ -2,7 +2,7 @@
 name: Chat-gpt.photos
 url: "https://chat-gpt.photos/"
 image: /logos/chat-gpt-photos.png
-screenshot: /screens/chat-gpt-photos.jpg
+screenshot: /screens/chat-gpt-photos.webp
 subcategory: ai-writing
 pricing: paid
 tagline: ChatGPT Image Generator converts detailed text prompts into high‑resolution images, offering realistic to surreal styles, up to 4K, adjustable color,...

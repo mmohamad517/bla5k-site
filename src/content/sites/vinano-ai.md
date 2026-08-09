@@ -2,7 +2,7 @@
 name: ViNano AI
 url: "https://vinano.ai"
 image: /logos/vinano-ai.png
-screenshot: /screens/vinano-ai.jpg
+screenshot: /screens/vinano-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: ViNano AI is a browser-based creation suite for generating and editing images and videos from text prompts.

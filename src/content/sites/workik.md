@@ -2,7 +2,7 @@
 name: Workik
 url: "https://workik.com"
 image: /logos/workik.png
-screenshot: /screens/workik.jpg
+screenshot: /screens/workik.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Workik AI enhances the software development lifecycle by providing AI-powered assistance for generating context-specific code, automating tasks, and...

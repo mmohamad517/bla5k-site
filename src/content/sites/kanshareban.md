@@ -2,7 +2,7 @@
 name: KanShareBan
 url: "https://www.kanshareban.com"
 image: /logos/kanshareban.png
-screenshot: /screens/kanshareban.jpg
+screenshot: /screens/kanshareban.webp
 subcategory: ai-productivity
 pricing: free
 tagline: KanShareBan lets users create and share public Kanban boards, enabling collaboration and iterative task improvement.

@@ -2,7 +2,7 @@
 name: Averi
 url: "https://averi.ai"
 image: /logos/averi.png
-screenshot: /screens/averi.jpg
+screenshot: /screens/averi.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Averi AI streamlines marketing strategies by offering data analysis, rapid content creation, and access to a network of over 2,500 vetted marketers,...

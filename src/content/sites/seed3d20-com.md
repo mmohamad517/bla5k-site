@@ -2,7 +2,7 @@
 name: Seed3D20.com
 url: "https://www.seed3d20.com"
 image: /logos/seed3d20-com.png
-screenshot: /screens/seed3d20-com.jpg
+screenshot: /screens/seed3d20-com.webp
 subcategory: design-3d
 pricing: freemium
 tagline: seed3d20.com is an AI 3D model generator that converts text prompts and reference images into export-ready assets.

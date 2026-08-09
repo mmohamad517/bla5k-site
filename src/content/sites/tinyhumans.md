@@ -2,7 +2,7 @@
 name: TinyHumans
 url: "https://tinyhumans.ai"
 image: /logos/tinyhumans.png
-screenshot: /screens/tinyhumans.jpg
+screenshot: /screens/tinyhumans.webp
 subcategory: ai-chat
 pricing: free
 tagline: TinyHumans is a platform for building practical AI products and personal assistants, offering OpenHuman for individual workflow support and Neocortex for...

@@ -2,7 +2,7 @@
 name: Intellecta
 url: "https://intellecta.io"
 image: /logos/intellecta.png
-screenshot: /screens/intellecta.jpg
+screenshot: /screens/intellecta.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Intellecta supplies autonomous AI agents for Shopify, automatically creating product pages, managing content, and handling customer chats.

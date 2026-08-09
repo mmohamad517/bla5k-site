@@ -2,7 +2,7 @@
 name: MuckBrass
 url: "https://www.muckbrass.com/"
 image: /logos/muckbrass.png
-screenshot: /screens/muckbrass.jpg
+screenshot: /screens/muckbrass.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: MuckBrass helps aspiring entrepreneurs discover and validate startup ideas using AI.

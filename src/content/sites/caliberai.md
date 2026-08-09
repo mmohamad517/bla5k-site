@@ -2,7 +2,7 @@
 name: CaliberAI
 url: "https://caliberai.net"
 image: /logos/caliberai.png
-screenshot: /screens/caliberai.jpg
+screenshot: /screens/caliberai.webp
 subcategory: ai-chat
 pricing: paid
 tagline: CaliberAI scans articles, user comments, and legacy content for defamation, hate, and harmful material.

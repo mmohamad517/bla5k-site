@@ -2,7 +2,7 @@
 name: POSTAUTOPSY
 url: "https://postautopsy.com"
 image: /logos/postautopsy.png
-screenshot: /screens/postautopsy.jpg
+screenshot: /screens/postautopsy.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: PostAutopsy analyzes LinkedIn draft posts and scores them, offering actionable feedback on clarity, tone, structure, readability, engagement and hashtags.

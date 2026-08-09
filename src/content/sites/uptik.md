@@ -2,7 +2,7 @@
 name: Uptik
 url: "https://uptik.app"
 image: /logos/uptik.png
-screenshot: /screens/uptik.jpg
+screenshot: /screens/uptik.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Uptk is an affiliate outreach tool for TikTok sellers, enabling targeted marketing to over 3,000 affiliates daily.

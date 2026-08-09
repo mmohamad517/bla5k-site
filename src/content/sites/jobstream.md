@@ -2,7 +2,7 @@
 name: JobStream
 url: "https://jobstream.uk"
 image: /logos/jobstream.png
-screenshot: /screens/jobstream.jpg
+screenshot: /screens/jobstream.webp
 subcategory: ai-chat
 pricing: free
 tagline: JobStream uses GPT‑4 to auto‑generate cover letters and answer application questions from a Chrome extension‑selected job description.

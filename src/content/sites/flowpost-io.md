@@ -2,7 +2,7 @@
 name: Flowpost.io
 url: "https://flowpost.io"
 image: /logos/flowpost-io.png
-screenshot: /screens/flowpost-io.jpg
+screenshot: /screens/flowpost-io.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Flowpost is an AI tool that helps users create LinkedIn carousels and posts quickly by selecting topics, tones, and formats.

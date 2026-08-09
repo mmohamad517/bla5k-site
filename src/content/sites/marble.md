@@ -2,7 +2,7 @@
 name: Marble
 url: "https://marble.worldlabs.ai"
 image: /logos/marble.png
-screenshot: /screens/marble.jpg
+screenshot: /screens/marble.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Marble generates persistent 3D worlds from text, images, video, panoramas, or 3D models, offers image stitching, a Studio editor with style presets,...

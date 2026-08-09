@@ -2,7 +2,7 @@
 name: turtle
 url: "https://turtlee.in"
 image: /logos/turtle.png
-screenshot: /screens/turtle.jpg
+screenshot: /screens/turtle.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Turtle Try AI is an AI-driven unified CRM that streamlines customer journey management, featuring automated bookings, live chat, support tickets, and...

@@ -2,7 +2,7 @@
 name: Archistar
 url: "https://www.archistar.ai/for-architects"
 image: /logos/archistar.png
-screenshot: /screens/archistar.jpg
+screenshot: /screens/archistar.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: AI PreCheck for Industry & Certifiers evaluates architectural plans against zoning and building codes at the design stage.

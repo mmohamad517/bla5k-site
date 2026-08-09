@@ -2,7 +2,7 @@
 name: Bitscale
 url: "https://bitscale.ai/"
 image: /logos/bitscale.png
-screenshot: /screens/bitscale.jpg
+screenshot: /screens/bitscale.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Bitscale consolidates data from 100+ sources, offering verified numbers, intent signals, and a 300M‑record database to build and automate personalized...

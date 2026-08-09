@@ -2,7 +2,7 @@
 name: Avallon
 url: "https://www.avallon.ai"
 image: /logos/avallon.png
-screenshot: /screens/avallon.jpg
+screenshot: /screens/avallon.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Avallon provides AI agents that automate claims intake and processing—capturing losses via phone, email, or upload, extracting and indexing document data,...

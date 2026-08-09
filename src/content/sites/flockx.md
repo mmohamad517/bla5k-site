@@ -2,7 +2,7 @@
 name: Flockx
 url: "https://flockx.io"
 image: /logos/flockx.png
-screenshot: /screens/flockx.jpg
+screenshot: /screens/flockx.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: FlockX enables businesses to create no-code AI agents for automating repetitive tasks, leveraging existing knowledge bases for accurate responses.

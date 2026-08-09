@@ -2,7 +2,7 @@
 name: Endgame 2.0
 url: "https://www.endgame.io"
 image: /logos/endgame-2-0.png
-screenshot: /screens/endgame-2-0.jpg
+screenshot: /screens/endgame-2-0.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Endgame is an AI tool for sales professionals that streamlines account research and planning by aggregating data from multiple sources.

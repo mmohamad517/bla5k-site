@@ -2,7 +2,7 @@
 name: somatalabs.ai
 url: "https://somatalabs.ai"
 image: /logos/somatalabs-ai.png
-screenshot: /screens/somatalabs-ai.jpg
+screenshot: /screens/somatalabs-ai.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Somata Labs generates accurate, production-ready human meshes in real time from a single image or biometric prompt, automating mesh creation, rigging, and...

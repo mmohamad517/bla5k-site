@@ -2,7 +2,7 @@
 name: THERAi
 url: "https://www.therai.me/"
 image: /logos/therai.png
-screenshot: /screens/therai.jpg
+screenshot: /screens/therai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: OwnAI is an AI assistant that remembers prior conversations for personalized responses.

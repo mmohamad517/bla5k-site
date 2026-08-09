@@ -2,7 +2,7 @@
 name: Fabric - augmenting humans using AI
 url: "https://github.com/danielmiessler/fabric"
 image: /logos/fabric-augmenting-humans-using-ai.png
-screenshot: /screens/fabric-augmenting-humans-using-ai.jpg
+screenshot: /screens/fabric-augmenting-humans-using-ai.webp
 subcategory: ai-chat
 pricing: free
 tagline: Fabric is an open-source AI framework that enhances productivity by offering a modular structure and crowdsourced AI prompts for tasks like summarizing...

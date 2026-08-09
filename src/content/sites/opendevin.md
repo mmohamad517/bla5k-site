@@ -2,7 +2,7 @@
 name: OpenDevin
 url: "https://github.com/OpenHands/OpenHands"
 image: /logos/opendevin.png
-screenshot: /screens/opendevin.jpg
+screenshot: /screens/opendevin.webp
 subcategory: ai-chat
 pricing: free
 tagline: OpenDevin is an open-source project replicating and enhancing Devin, an AI engineer for software tasks.

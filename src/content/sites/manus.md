@@ -2,7 +2,7 @@
 name: Manus
 url: https://manus.im
 image: /logos/manus.png
-screenshot: /screens/manus.jpg
+screenshot: /screens/manus.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: A general-purpose AI agent that gets things done — Manus researches, codes, builds, designs, and executes multi-step tasks end-to-end.

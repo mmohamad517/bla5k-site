@@ -2,7 +2,7 @@
 name: Resoume
 url: "https://www.resoume.com/"
 image: /logos/resoume.png
-screenshot: /screens/resoume.jpg
+screenshot: /screens/resoume.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Resoum is an AI-powered resume builder tool with features like multiple templates, language support, custom domain solutions, CV score, AI assistance,...

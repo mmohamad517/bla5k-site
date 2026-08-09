@@ -2,7 +2,7 @@
 name: Truebees
 url: "https://truebees.eu/site/"
 image: /logos/truebees.png
-screenshot: /screens/truebees.jpg
+screenshot: /screens/truebees.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Introducing Truebees, the first deepfakes detector designed to combat the spread of AI-generated portraits on social media platforms.

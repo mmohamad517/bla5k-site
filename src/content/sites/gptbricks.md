@@ -2,7 +2,7 @@
 name: GPTBricks
 url: "https://www.gptbricks.com/"
 image: /logos/gptbricks.png
-screenshot: /screens/gptbricks.jpg
+screenshot: /screens/gptbricks.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: "GPTBricks: No-code platform for AI chatbot creation using OpenAI's GPT-4 technology, allowing easy customization of conversational flows, integration of..."

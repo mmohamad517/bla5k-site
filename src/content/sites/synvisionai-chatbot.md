@@ -2,7 +2,7 @@
 name: SynVisionAI Chatbot
 url: "https://synvision.ai"
 image: /logos/synvisionai-chatbot.png
-screenshot: /screens/synvisionai-chatbot.jpg
+screenshot: /screens/synvisionai-chatbot.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: SynVision AI is a no-code platform that quickly trains custom virtual assistants from user data.

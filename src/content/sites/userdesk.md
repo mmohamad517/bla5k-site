@@ -2,7 +2,7 @@
 name: Userdesk
 url: "https://userdesk.io"
 image: /logos/userdesk.png
-screenshot: /screens/userdesk.jpg
+screenshot: /screens/userdesk.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Userdesk builds no-code, ChatGPT-like chatbots trained on websites, Notion, PDFs and Google Drive to automate support and lead generation via widgets,...

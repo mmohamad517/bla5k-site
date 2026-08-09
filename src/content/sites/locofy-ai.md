@@ -2,7 +2,7 @@
 name: Locofy.ai
 url: "https://www.locofy.ai"
 image: /logos/locofy-ai.png
-screenshot: /screens/locofy-ai.jpg
+screenshot: /screens/locofy-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Locofy.ai is an AI-driven tool that expedites design-to-code workflows using intelligent models.

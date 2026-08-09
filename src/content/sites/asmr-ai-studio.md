@@ -2,7 +2,7 @@
 name: ASMR AI Studio
 url: "https://asmrai.studio"
 image: /logos/asmr-ai-studio.png
-screenshot: /screens/asmr-ai-studio.jpg
+screenshot: /screens/asmr-ai-studio.webp
 subcategory: ai-image
 pricing: paid
 tagline: ASMR AI Studio generates ready-to-publish ASMR videos from text prompts or templates, offering 50+ categories, idea-to-video workflow, integrated...

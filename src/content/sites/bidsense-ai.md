@@ -2,7 +2,7 @@
 name: BidSense AI
 url: "https://bidsense.ai"
 image: /logos/bidsense-ai.png
-screenshot: /screens/bidsense-ai.jpg
+screenshot: /screens/bidsense-ai.webp
 subcategory: fin-fintech
 pricing: paid
 tagline: Bidsense AI streamlines government contracting with an AI-powered dashboard for contract analysis, smart partner matching, an interactive proposal...

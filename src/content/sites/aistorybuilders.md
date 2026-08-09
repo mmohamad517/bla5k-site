@@ -2,7 +2,7 @@
 name: AIStoryBuilders
 url: "https://aistorybuilders.com/"
 image: /logos/aistorybuilders.png
-screenshot: /screens/aistorybuilders.jpg
+screenshot: /screens/aistorybuilders.webp
 subcategory: ai-writing
 pricing: free
 tagline: AIStoryBuilders lets authors organize characters, settings, and plot details in a structured database.

@@ -2,7 +2,7 @@
 name: Monyble
 url: "https://monyble.com"
 image: /logos/monyble.png
-screenshot: /screens/monyble.jpg
+screenshot: /screens/monyble.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Monyble is a no‑code AI platform for non‑technical teams to build chatbots, customer‑service agents, marketing automation, HR tools, and analytics.

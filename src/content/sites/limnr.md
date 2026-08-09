@@ -2,7 +2,7 @@
 name: Limnr
 url: "http://limnr.com/"
 image: /logos/limnr.png
-screenshot: /screens/limnr.jpg
+screenshot: /screens/limnr.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Limnr AI is a versatile AI photo generator tool that allows users to create unique images by training AI models.

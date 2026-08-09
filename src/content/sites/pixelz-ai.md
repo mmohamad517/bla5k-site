@@ -2,7 +2,7 @@
 name: Pixelz AI
 url: "http://ww80.pixelz.ai/?subid1=fdee20a8-926e-11f1-94cc-25ac9112c10c"
 image: /logos/pixelz-ai.png
-screenshot: /screens/pixelz-ai.jpg
+screenshot: /screens/pixelz-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Pixelz AI is an AI tool that generates unique and realistic images, avatars, and text using AI algorithms.

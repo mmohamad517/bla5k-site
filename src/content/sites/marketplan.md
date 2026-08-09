@@ -2,7 +2,7 @@
 name: Marketplan
 url: "https://marketplan.io/"
 image: /logos/marketplan.png
-screenshot: /screens/marketplan.jpg
+screenshot: /screens/marketplan.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: The All In One Marketing Platform provides comprehensive tools for marketing teams to manage and track their plans and campaigns on multiple platforms,...

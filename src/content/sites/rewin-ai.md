@@ -2,7 +2,7 @@
 name: Rewin AI
 url: "https://rewin.ai/en"
 image: /logos/rewin-ai.png
-screenshot: /screens/rewin-ai.jpg
+screenshot: /screens/rewin-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Rewin.ai generates YouTube and TikTok scripts by analyzing a video URL, extracting key elements, and producing concise, engaging scripts that match the...

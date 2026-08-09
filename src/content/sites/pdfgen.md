@@ -2,7 +2,7 @@
 name: PDFgen
 url: "https://pdfgen.com/"
 image: /logos/pdfgen.png
-screenshot: /screens/pdfgen.jpg
+screenshot: /screens/pdfgen.webp
 subcategory: ai-productivity
 pricing: free
 tagline: "##pdfgen is an API tool that automates the creation of structured PDF documents from text prompts."

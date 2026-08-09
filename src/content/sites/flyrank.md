@@ -2,7 +2,7 @@
 name: FlyRank
 url: "https://www.flyrank.com"
 image: /logos/flyrank.png
-screenshot: /screens/flyrank.jpg
+screenshot: /screens/flyrank.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Flyrank is an AI-powered content engine that automates SEO-optimized blog content creation.

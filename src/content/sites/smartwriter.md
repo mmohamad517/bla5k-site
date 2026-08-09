@@ -2,7 +2,7 @@
 name: Smartwriter
 url: "https://www.smartwriter.ai/"
 image: /logos/smartwriter.png
-screenshot: /screens/smartwriter.jpg
+screenshot: /screens/smartwriter.webp
 subcategory: ai-writing
 pricing: paid
 tagline: This product uses AI to personalize cold emails and LinkedIn messages for better conversion rates.

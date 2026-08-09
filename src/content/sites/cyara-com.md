@@ -2,7 +2,7 @@
 name: cyara.com
 url: "https://cyara.com"
 image: /logos/cyara-com.png
-screenshot: /screens/cyara-com.jpg
+screenshot: /screens/cyara-com.webp
 subcategory: nc-automation
 pricing: freemium
 tagline: Cyara is an AI-driven platform that automates testing and monitoring of customer interactions across channels.

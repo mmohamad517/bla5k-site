@@ -2,7 +2,7 @@
 name: Relace
 url: "https://www.relace.ai"
 image: /logos/relace.png
-screenshot: /screens/relace.jpg
+screenshot: /screens/relace.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Relace is an AI tool that enhances coding workflows through code retrieval, merging, and generation, facilitating rapid modifications in large codebases...

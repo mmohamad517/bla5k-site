@@ -2,7 +2,7 @@
 name: JetCode
 url: "https://www.jetcode.app"
 image: /logos/jetcode.png
-screenshot: /screens/jetcode.jpg
+screenshot: /screens/jetcode.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: JetCode is an AI-powered tool that converts system requirements into executable code instantly, streamlining software development.

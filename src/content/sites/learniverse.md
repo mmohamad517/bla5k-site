@@ -2,7 +2,7 @@
 name: Learniverse
 url: "https://www.learniverse.pro/"
 image: /logos/learniverse.png
-screenshot: /screens/learniverse.jpg
+screenshot: /screens/learniverse.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Learniverse delivers personalized AI‑generated courses that adapt to your goals and progress.

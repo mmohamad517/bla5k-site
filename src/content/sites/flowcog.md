@@ -2,7 +2,7 @@
 name: FlowCog
 url: "https://flowcog.com/"
 image: /logos/flowcog.png
-screenshot: /screens/flowcog.jpg
+screenshot: /screens/flowcog.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: FlowCog automatically syncs accounting data from QuickBooks, Xero, and Puzzle to create dynamic, real‑time financial projections.

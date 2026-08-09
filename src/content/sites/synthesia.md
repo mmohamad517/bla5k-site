@@ -2,7 +2,7 @@
 name: Synthesia
 url: https://www.synthesia.io
 image: /logos/synthesia.png
-screenshot: /screens/synthesia.jpg
+screenshot: /screens/synthesia.webp
 subcategory: ai-video-audio
 pricing: paid
 tagline: Turn text into studio-quality AI avatar videos — no camera, no actors.

@@ -2,7 +2,7 @@
 name: Sixty
 url: "https://www.sixty.app"
 image: /logos/sixty.png
-screenshot: /screens/sixty.jpg
+screenshot: /screens/sixty.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Sixty AI manages inboxes, schedules, agendas, and meeting briefs, offers custom daily snapshots, alerts on changes, and birthday reminders.

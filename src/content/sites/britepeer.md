@@ -2,7 +2,7 @@
 name: Britepeer
 url: "https://www.britepeer.com"
 image: /logos/britepeer.png
-screenshot: /screens/britepeer.jpg
+screenshot: /screens/britepeer.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Britepeer uses data‑driven matching to connect community members by expertise and interest, automating introductions and tracking engagement.

@@ -2,7 +2,7 @@
 name: Dot App
 url: "https://dotapp.uk/"
 image: /logos/dot-app.png
-screenshot: /screens/dot-app.jpg
+screenshot: /screens/dot-app.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Dot runs the Mistral 7B LLM locally, letting users upload documents and chat offline.

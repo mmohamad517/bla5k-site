@@ -2,7 +2,7 @@
 name: SeedAudio.co
 url: "https://seedaudio.co/"
 image: /logos/seedaudio-co.png
-screenshot: /screens/seedaudio-co.jpg
+screenshot: /screens/seedaudio-co.webp
 subcategory: ai-image
 pricing: freemium
 tagline: seedaudio.co is a multimodal AI audio studio that transforms text, images, and reference clips into layered sound scenes with multi-speaker dialogue,...

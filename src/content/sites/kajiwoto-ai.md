@@ -2,7 +2,7 @@
 name: kajiwoto.ai
 url: "https://kajiwoto.ai/"
 image: /logos/kajiwoto-ai.png
-screenshot: /screens/kajiwoto-ai.jpg
+screenshot: /screens/kajiwoto-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: The AI tool offers advanced features such as voice recognition, image albums, and chat rooms to create AI chat characters for companionship, gaming,...

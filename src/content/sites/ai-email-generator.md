@@ -2,7 +2,7 @@
 name: AI Email Generator
 url: "https://aiemailgenerate.com"
 image: /logos/ai-email-generator.png
-screenshot: /screens/ai-email-generator.jpg
+screenshot: /screens/ai-email-generator.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Emailor generates structured email drafts from a brief intent, audience context, and desired action in seconds.

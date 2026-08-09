@@ -2,7 +2,7 @@
 name: Leverbot
 url: "https://www.leverbot.io"
 image: /logos/leverbot.png
-screenshot: /screens/leverbot.jpg
+screenshot: /screens/leverbot.webp
 subcategory: ai-productivity
 pricing: free
 tagline: LeverBot is a generative AI chatbot that provides 24/7 unified customer support across websites, messenger, and live chat.

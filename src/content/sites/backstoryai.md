@@ -2,7 +2,7 @@
 name: BackstoryAI
 url: "https://www.backstoryai.com"
 image: /logos/backstoryai.png
-screenshot: /screens/backstoryai.jpg
+screenshot: /screens/backstoryai.webp
 subcategory: ai-chat
 pricing: free
 tagline: BackstoryAI is an AI tool that generates complex character backstories and narratives using advanced generative AI technology.

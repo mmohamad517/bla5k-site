@@ -2,7 +2,7 @@
 name: Chatprd
 url: "https://www.chatprd.ai"
 image: /logos/chatprd.png
-screenshot: /screens/chatprd.jpg
+screenshot: /screens/chatprd.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: ChatPRD automates creation of requirement documents, user stories, and technical specs from simple prompts, analyzing research, code, and issues to spot gaps.

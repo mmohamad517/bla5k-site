@@ -2,7 +2,7 @@
 name: Lemonspeak
 url: "https://lemonspeak.com"
 image: /logos/lemonspeak.png
-screenshot: /screens/lemonspeak.jpg
+screenshot: /screens/lemonspeak.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: LemonSpeak turns podcast MP3s into marketing assets—transcripts, diarized speaker tags, summaries, show notes, SEO titles, blog posts, tweets, Q&A polls,...

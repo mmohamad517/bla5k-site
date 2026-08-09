@@ -2,7 +2,7 @@
 name: Gupshup
 url: "https://gupshup.ai"
 image: /logos/gupshup-ai.png
-screenshot: /screens/gupshup-ai.jpg
+screenshot: /screens/gupshup-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Gupshup.ai provides omnichannel conversational AI agents for sales, marketing, and support, enabling automated lead generation, lifecycle outreach, drip...

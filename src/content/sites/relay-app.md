@@ -2,7 +2,7 @@
 name: Relay.app
 url: "https://relay.app"
 image: /logos/relay-app.png
-screenshot: /screens/relay-app.jpg
+screenshot: /screens/relay-app.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Relay.app creates AI agents that automate tasks across apps like Google Workspace, Airtable, Slack, and Asana.

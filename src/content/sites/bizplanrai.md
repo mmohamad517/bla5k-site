@@ -2,7 +2,7 @@
 name: BizplanrAI
 url: "https://bizplanr.ai"
 image: /logos/bizplanrai.png
-screenshot: /screens/bizplanrai.jpg
+screenshot: /screens/bizplanrai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Bizplanr uses AI to generate structured business plans, market analyses, and financial forecasts quickly.

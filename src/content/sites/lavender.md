@@ -2,7 +2,7 @@
 name: Lavender
 url: "https://www.lavender.ai/"
 image: /logos/lavender.png
-screenshot: /screens/lavender.jpg
+screenshot: /screens/lavender.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Lavender is an AI email assistant that analyzes billions of past exchanges to give data‑driven recommendations on tone, structure, and content for sales...

@@ -2,7 +2,7 @@
 name: MagicBlocks
 url: "https://www.magicblocks.ai"
 image: /logos/magicblocks.png
-screenshot: /screens/magicblocks.jpg
+screenshot: /screens/magicblocks.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: MagicBlocks is an AI sales agent platform that boosts website engagement with real-time, personalized conversations.

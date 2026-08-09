@@ -2,7 +2,7 @@
 name: ProQurAI
 url: "https://www.mydigicode.com/ai-powered-procurement/"
 image: /logos/mydigicode-com.png
-screenshot: /screens/mydigicode-com.jpg
+screenshot: /screens/mydigicode-com.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: mydigicode.com proqurai is an ERP-agnostic agentic AI procurement tool that automates the full source-to-contract lifecycle—from intake and RFX drafting to...

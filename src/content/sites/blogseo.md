@@ -2,7 +2,7 @@
 name: BlogSEO
 url: "https://blogseo.io"
 image: /logos/blogseo.png
-screenshot: /screens/blogseo.jpg
+screenshot: /screens/blogseo.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: BlogSEO is an AI blog generator that creates SEO-optimized articles in minutes and publishes them directly to your CMS.

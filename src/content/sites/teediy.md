@@ -2,7 +2,7 @@
 name: TeeDIY
 url: "https://teediy.com/"
 image: /logos/teediy.png
-screenshot: /screens/teediy.jpg
+screenshot: /screens/teediy.webp
 subcategory: design-graphics
 pricing: free
 tagline: TeeDIY is an AI-assisted platform that simplifies custom apparel creation, using templates, text prompts, or photos to generate and edit designs.

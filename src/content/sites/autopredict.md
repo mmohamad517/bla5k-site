@@ -2,7 +2,7 @@
 name: AutoPredict
 url: "https://autopredict.co.uk/"
 image: /logos/autopredict.png
-screenshot: /screens/autopredict.jpg
+screenshot: /screens/autopredict.webp
 subcategory: ent-travel
 pricing: freemium
 tagline: AutoPredict uses AI on 100 million+ data points to forecast vehicle lifespans for specific makes and models, incorporating MOT history.

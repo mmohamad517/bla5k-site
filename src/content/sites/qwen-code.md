@@ -2,7 +2,7 @@
 name: Qwen Code
 url: "https://github.com/QwenLM/qwen-code"
 image: /logos/qwen-code.png
-screenshot: /screens/qwen-code.jpg
+screenshot: /screens/qwen-code.webp
 subcategory: ai-chat
 pricing: free
 tagline: Qwen-Code is an AI-driven coding assistant designed for developers.

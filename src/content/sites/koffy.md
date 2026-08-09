@@ -2,7 +2,7 @@
 name: Koffy
 url: "https://koffy.finance"
 image: /logos/koffy.png
-screenshot: /screens/koffy.jpg
+screenshot: /screens/koffy.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Koffy delivers real‑time crypto news with daily AI summaries, sentiment analysis from social media, and a three‑year archive.

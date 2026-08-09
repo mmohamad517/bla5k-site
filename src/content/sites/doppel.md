@@ -2,7 +2,7 @@
 name: Doppel
 url: "https://apps.apple.com/us/app/doppel-chat-with-any-era/id6448220023"
 image: /logos/doppel.png
-screenshot: /screens/doppel.jpg
+screenshot: /screens/doppel.webp
 subcategory: ai-chat
 pricing: free
 tagline: Doppel - Chat Era is an app with AI personas of famous personalities from various fields for engaging in stimulating conversations and learning about their...

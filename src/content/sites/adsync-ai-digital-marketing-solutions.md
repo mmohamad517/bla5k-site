@@ -2,7 +2,7 @@
 name: AdSync
 url: "https://www.adsyncmarketing.com"
 image: /logos/adsync-ai-digital-marketing-solutions.png
-screenshot: /screens/adsync-ai-digital-marketing-solutions.jpg
+screenshot: /screens/adsync-ai-digital-marketing-solutions.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: AdSync AI centralizes performance marketing, SEO, and automation, delivering real‑time insights and ML‑based budget, audience, and creative recommendations.

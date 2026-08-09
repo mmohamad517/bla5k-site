@@ -2,7 +2,7 @@
 name: Angry Email Translator
 url: "https://angryemailtranslator.com"
 image: /logos/angry-email-translator.png
-screenshot: /screens/angry-email-translator.jpg
+screenshot: /screens/angry-email-translator.webp
 subcategory: ai-writing
 pricing: free
 tagline: Angry Email Translator rewrites angry or confrontational messages into polite, professional emails.

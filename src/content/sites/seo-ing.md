@@ -2,7 +2,7 @@
 name: SEO.ING
 url: "https://www.seo.ing/"
 image: /logos/seo-ing.png
-screenshot: /screens/seo-ing.jpg
+screenshot: /screens/seo-ing.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: seo.ing is an AI-powered writing tool that uses multiple autonomous agents to generate SEO-optimized articles.

@@ -2,7 +2,7 @@
 name: Lip Sync AI
 url: "https://www.lipsyncai.org"
 image: /logos/lip-sync-ai.png
-screenshot: /screens/lip-sync-ai.jpg
+screenshot: /screens/lip-sync-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Generates synchronized lip movements for videos and AI avatars from uploaded or linked video and audio, offering Standard and Precision modes, multi‑speaker...

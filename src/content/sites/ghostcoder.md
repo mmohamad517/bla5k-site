@@ -2,7 +2,7 @@
 name: GhostCoder
 url: "https://ghostcoder.app"
 image: /logos/ghostcoder.png
-screenshot: /screens/ghostcoder.jpg
+screenshot: /screens/ghostcoder.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Ghostcoder is a discreet AI coding assistant that offers real-time coding support during technical interviews and LeetCode problem-solving, using...

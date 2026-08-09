@@ -2,7 +2,7 @@
 name: Chatplayground.ai
 url: "https://www.chatplayground.ai/"
 image: /logos/chatplayground-ai.png
-screenshot: /screens/chatplayground-ai.jpg
+screenshot: /screens/chatplayground-ai.webp
 subcategory: ai-chat
 pricing: paid
 tagline: ChatPlayground lets users compare and interact with 40+ AI models from a single interface, offering live web search, conversation history, document import,...

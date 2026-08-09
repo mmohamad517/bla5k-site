@@ -2,7 +2,7 @@
 name: Influerank
 url: "https://www.influerank.com"
 image: /logos/influerank.png
-screenshot: /screens/influerank.jpg
+screenshot: /screens/influerank.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Influerank is an AI-powered tool that helps marketers find top influencers matching their target audience.

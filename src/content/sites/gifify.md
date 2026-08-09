@@ -2,7 +2,7 @@
 name: Gifify
 url: "https://gififyai.com/"
 image: /logos/gifify.png
-screenshot: /screens/gifify.jpg
+screenshot: /screens/gifify.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Gifify is a versatile AI content generator that transforms text prompts or uploaded images into polished GIFs, short videos, and stylized images.

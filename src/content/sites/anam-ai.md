@@ -2,7 +2,7 @@
 name: Anam.ai
 url: "https://www.anam.ai/"
 image: /logos/anam-ai.png
-screenshot: /screens/anam-ai.jpg
+screenshot: /screens/anam-ai.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Anam.ai provides real-time emotive AI personas through an API, enabling human-like interactions for enhanced customer engagement across various industries.

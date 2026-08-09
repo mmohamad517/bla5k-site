@@ -2,7 +2,7 @@
 name: Interacly AI
 url: "https://pocketpaw.xyz/"
 image: /logos/interacly-ai.png
-screenshot: /screens/interacly-ai.jpg
+screenshot: /screens/interacly-ai.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Interacly AI is a platform for creating and exploring interactive AI chatbots.

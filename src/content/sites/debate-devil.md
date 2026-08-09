@@ -2,7 +2,7 @@
 name: Debate Devil
 url: "https://www.debate-devil.com/en"
 image: /logos/debate-devil.png
-screenshot: /screens/debate-devil.jpg
+screenshot: /screens/debate-devil.webp
 subcategory: learn-courses
 pricing: free
 tagline: DebateDevil lets users create free accounts, store debate history, and engage in live debates.

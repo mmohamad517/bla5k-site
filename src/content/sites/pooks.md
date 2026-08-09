@@ -2,7 +2,7 @@
 name: Pooks
 url: "https://www.pooks.ai/"
 image: /logos/pooks.png
-screenshot: /screens/pooks.jpg
+screenshot: /screens/pooks.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Discover personalized reading with pooks.ai - an AI tool that offers personalized ebooks and audiobooks, tailored to your specific needs, circumstances, and...

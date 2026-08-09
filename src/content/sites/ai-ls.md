@@ -2,7 +2,7 @@
 name: AI LS
 url: "https://ai.ls/"
 image: /logos/ai-ls.png
-screenshot: /screens/ai-ls.jpg
+screenshot: /screens/ai-ls.webp
 subcategory: ai-chat
 pricing: free
 tagline: AI.LS is a sleek, ChatGPT-powered UI tool replacing Poe, offering a free and online alternative for chat-based AI assistants.

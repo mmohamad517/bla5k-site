@@ -2,7 +2,7 @@
 name: CEOfriend.ai
 url: "http://www.ceofriend.ai"
 image: /logos/ceofriend-ai.png
-screenshot: /screens/ceofriend-ai.jpg
+screenshot: /screens/ceofriend-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: ceofriend.ai is an AI advisor platform that delivers competitor analysis, strategic guidance, and board-ready outputs like investor decks, budgets, and SWOT...

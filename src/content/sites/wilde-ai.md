@@ -2,7 +2,7 @@
 name: Wilde AI
 url: "https://wilde.scaleby.ai/en"
 image: /logos/wilde-ai.png
-screenshot: /screens/wilde-ai.jpg
+screenshot: /screens/wilde-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Wilde AI is a cutting-edge tool that generates SEO-optimized, 2000+ word blog posts in English and Arabic with a single click, blending authenticity and...

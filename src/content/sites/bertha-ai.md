@@ -2,7 +2,7 @@
 name: Bertha.ai
 url: "https://bertha.ai/?ref=15137"
 image: /logos/bertha-ai.png
-screenshot: /screens/bertha-ai.jpg
+screenshot: /screens/bertha-ai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Bertha AI integrates with WordPress and Chromium browsers to generate SEO‑optimized titles, meta descriptions, headlines, and long‑form content.

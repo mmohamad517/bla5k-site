@@ -2,7 +2,7 @@
 name: Web3 Summary
 url: "http://www.web3summary.com/"
 image: /logos/web3-summary.png
-screenshot: /screens/web3-summary.jpg
+screenshot: /screens/web3-summary.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: Web3 summary simplifies complex crypto projects using ChatGPT and AI into easy-to-understand explanations.

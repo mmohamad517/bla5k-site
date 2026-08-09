@@ -2,7 +2,7 @@
 name: Plagiarism Guard
 url: "https://workspace.google.com/marketplace/app/plagiarism_guard_plagiarism_ai_text_huma/4560"
 image: /logos/plagiarism-guard.png
-screenshot: /screens/plagiarism-guard.jpg
+screenshot: /screens/plagiarism-guard.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Plagiarism Guard is a real-time plagiarism detection tool that integrates with Google Docs, ensuring text originality for users such as students and...

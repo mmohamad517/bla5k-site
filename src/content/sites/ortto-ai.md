@@ -2,7 +2,7 @@
 name: Ortto AI
 url: "https://ortto.com/ai-marketing-software/"
 image: /logos/ortto-ai.png
-screenshot: /screens/ortto-ai.jpg
+screenshot: /screens/ortto-ai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Otto is an AI-powered email creation tool that helps organizations improve their marketing efforts and predict results.

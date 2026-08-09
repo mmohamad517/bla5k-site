@@ -2,7 +2,7 @@
 name: AIWriteBook
 url: "https://aiwritebook.com/"
 image: /logos/aiwritebook.png
-screenshot: /screens/aiwritebook.jpg
+screenshot: /screens/aiwritebook.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: AIWriteBook is an AI-powered authoring suite that transforms ideas or drafts into complete, publish-ready books.

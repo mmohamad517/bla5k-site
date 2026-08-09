@@ -2,7 +2,7 @@
 name: Deep NostalgiaAi
 url: "https://deepnostalgiaai.com/"
 image: /logos/deep-nostalgiaai.png
-screenshot: /screens/deep-nostalgiaai.jpg
+screenshot: /screens/deep-nostalgiaai.webp
 subcategory: ai-image
 pricing: paid
 tagline: Deep Nostalgia AI Generator animates static family photographs into short videos using deep‑learning algorithms that move facial features.

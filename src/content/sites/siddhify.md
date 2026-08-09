@@ -2,7 +2,7 @@
 name: Siddhify
 url: "https://siddhify.com"
 image: /logos/siddhify.png
-screenshot: /screens/siddhify.jpg
+screenshot: /screens/siddhify.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Siddhify is a project management tool designed for entrepreneurs, offering features for net worth management, milestone creation, and task delegation.

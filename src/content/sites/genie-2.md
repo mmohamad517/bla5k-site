@@ -2,7 +2,7 @@
 name: Genie 2
 url: "https://playgenieai.com"
 image: /logos/genie-2.png
-screenshot: /screens/genie-2.jpg
+screenshot: /screens/genie-2.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Genie 2 is an AI game generator that creates interactive 3D environments from image prompts, featuring sophisticated physics simulations, contextual...

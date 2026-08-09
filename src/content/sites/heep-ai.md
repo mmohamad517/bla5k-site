@@ -2,7 +2,7 @@
 name: Heep AI
 url: "https://heep.ai"
 image: /logos/heep-ai.png
-screenshot: /screens/heep-ai.jpg
+screenshot: /screens/heep-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Heep AI is an AI social media assistant that automates customer interactions on platforms like WhatsApp and Instagram, managing tasks such as reservations...

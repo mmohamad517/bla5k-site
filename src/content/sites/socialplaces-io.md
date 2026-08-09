@@ -2,7 +2,7 @@
 name: socialplaces.io
 url: "https://socialplaces.io"
 image: /logos/socialplaces-io.png
-screenshot: /screens/socialplaces-io.jpg
+screenshot: /screens/socialplaces-io.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Social Places centralizes franchise listing management, reputation monitoring, and local page creation across search engines, directories, and maps.

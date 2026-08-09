@@ -2,7 +2,7 @@
 name: CarConceptsAI
 url: "https://www.carconceptsai.com/"
 image: /logos/carconceptsai.png
-screenshot: /screens/carconceptsai.jpg
+screenshot: /screens/carconceptsai.webp
 subcategory: design-3d
 pricing: paid
 tagline: AI Car Wrap Generator visualizes vehicle wraps by uploading a photo, entering prompts, and generating design renders quickly.

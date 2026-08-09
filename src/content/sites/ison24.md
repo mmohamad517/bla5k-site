@@ -2,7 +2,7 @@
 name: IsOn24
 url: "https://www.ison24.com/"
 image: /logos/ison24.png
-screenshot: /screens/ison24.jpg
+screenshot: /screens/ison24.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: IsOn24 automates call center tasks with AI, handling calls, texts, and chat using pre‑recorded or custom voices.

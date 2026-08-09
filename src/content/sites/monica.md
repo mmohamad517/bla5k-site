@@ -2,7 +2,7 @@
 name: Monica
 url: https://monica.im/
 image: /logos/monica.png
-screenshot: /screens/monica.jpg
+screenshot: /screens/monica.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: "Chrome extension bringing GPT-5, Claude, and Gemini to any webpage—40 free queries/day."

@@ -2,7 +2,7 @@
 name: WhatGPT
 url: "https://whatgpt.app/"
 image: /logos/whatgpt.png
-screenshot: /screens/whatgpt.jpg
+screenshot: /screens/whatgpt.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: WhatGPT is an AI assistant powered by ChatGPT that runs inside WhatsApp, offering quick context‑aware replies and easy web‑link expansion, eliminating...

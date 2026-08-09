@@ -2,7 +2,7 @@
 name: Xavier AI
 url: "https://www.xavier.ai"
 image: /logos/xavier-ai.png
-screenshot: /screens/xavier-ai.jpg
+screenshot: /screens/xavier-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Xavier AI is an AI strategy consultant that generates professional presentation decks in under a minute, supporting 50+ languages.

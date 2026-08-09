@@ -2,7 +2,7 @@
 name: 【Free】humanizeaiwork
 url: "https://www.humanizeaiwork.com"
 image: /logos/free-humanizeaiwork.png
-screenshot: /screens/free-humanizeaiwork.jpg
+screenshot: /screens/free-humanizeaiwork.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Ai Text Humanizer transforms AI-generated content into human-like text across eight tones, enhancing engagement and authenticity.

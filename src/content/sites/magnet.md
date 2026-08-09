@@ -2,7 +2,7 @@
 name: Magnet
 url: "https://www.magnet.run/"
 image: /logos/magnet.png
-screenshot: /screens/magnet.jpg
+screenshot: /screens/magnet.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Magnet is an AI‑native workspace that integrates Claude Code and Code Codex to auto‑learn context, define precise issues, and let teams iterate quickly on...

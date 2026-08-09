@@ -2,7 +2,7 @@
 name: Baked AI
 url: "http://sarai-tid.com/zokvisitor/e4491a58-926e-11f1-8664-120d1131010f/72092e88-2c53-401c-b988-51ef43ce1034?campaignid=e457e763-926e-11f1-8664-120d1131010f"
 image: /logos/baked-ai.png
-screenshot: /screens/baked-ai.jpg
+screenshot: /screens/baked-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Bake is an AI tool that generates unique art from your ideas for printing on various products.

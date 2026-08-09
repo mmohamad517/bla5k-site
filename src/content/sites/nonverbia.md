@@ -2,7 +2,7 @@
 name: Nonverbia
 url: "https://nonverbia.com"
 image: /logos/nonverbia.png
-screenshot: /screens/nonverbia.jpg
+screenshot: /screens/nonverbia.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Stella analyzes nonverbal cues and voice patterns to detect buying intent and resistance, auto-generates call notes and CRM updates, produces stakeholder...

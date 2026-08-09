@@ -2,7 +2,7 @@
 name: Microsoft Edge AI-Browser
 url: "https://explore.microsoft.com/en-us/edge?ep=2188&form=MA14LU&es=375&cs=644894569"
 image: /logos/microsoft-edge-ai-browser.png
-screenshot: /screens/microsoft-edge-ai-browser.jpg
+screenshot: /screens/microsoft-edge-ai-browser.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Microsoft Edge AI-Browser is a Copilot-powered browser for Mac that delivers quick answers and voice navigation.

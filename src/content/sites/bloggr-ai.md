@@ -2,7 +2,7 @@
 name: Bloggr AI
 url: "https://bloggr.ai/"
 image: /logos/bloggr-ai.png
-screenshot: /screens/bloggr-ai.jpg
+screenshot: /screens/bloggr-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Bloggr AI is a AI blog writer that generates SEO-optimized, original content.

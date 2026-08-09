@@ -2,7 +2,7 @@
 name: ZeroGPT Detector
 url: "https://www.zerogptdetector.com/coupons/"
 image: /logos/zerogpt-detector.png
-screenshot: /screens/zerogpt-detector.jpg
+screenshot: /screens/zerogpt-detector.webp
 subcategory: ai-productivity
 pricing: free
 tagline: ZeroGPT Detector is a widely trusted AI-powered plagiarism checker that accurately detects AI-generated content and supports multiple languages.

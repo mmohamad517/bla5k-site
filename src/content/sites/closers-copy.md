@@ -2,7 +2,7 @@
 name: Closers Copy
 url: "https://www.closerscopy.com/"
 image: /logos/closers-copy.png
-screenshot: /screens/closers-copy.jpg
+screenshot: /screens/closers-copy.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: ClosersCopy is an AI-powered tool that generates high-quality content quickly and efficiently with features such as AI-generated content, SEO optimization,...

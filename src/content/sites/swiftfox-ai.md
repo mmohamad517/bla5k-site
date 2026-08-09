@@ -2,7 +2,7 @@
 name: swiftfox.ai
 url: "https://swiftfox.ai"
 image: /logos/swiftfox-ai.png
-screenshot: /screens/swiftfox-ai.jpg
+screenshot: /screens/swiftfox-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Silo provides domain registration, transfer, and management with free WHOIS privacy, protection, and custom records.

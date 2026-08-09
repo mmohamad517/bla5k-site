@@ -2,7 +2,7 @@
 name: Kutt AI
 url: "https://kutt.ai"
 image: /logos/kutt-ai.png
-screenshot: /screens/kutt-ai.jpg
+screenshot: /screens/kutt-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Kutt AI is an AI avatar generator that creates lip-synced, talking avatars from photos with programmable gestures and emotions.

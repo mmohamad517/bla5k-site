@@ -2,7 +2,7 @@
 name: CodeSquire
 url: "https://codesquire.ai/"
 image: /logos/codesquire.png
-screenshot: /screens/codesquire.jpg
+screenshot: /screens/codesquire.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: CodeSquire is an AI‑powered assistant that plugs into Colab, BigQuery, and JupyterLab, delivering real‑time code completions, converting natural‑language...

@@ -2,7 +2,7 @@
 name: MindyGem
 url: "https://www.mindygem.com"
 image: /logos/mindygem.png
-screenshot: /screens/mindygem.jpg
+screenshot: /screens/mindygem.webp
 subcategory: ai-chat
 pricing: free
 tagline: MindyGem automates the creation of product documents, user stories, and technical specs from brief inputs or UI mockups, saves drafting time, stores...

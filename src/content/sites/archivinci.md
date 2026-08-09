@@ -2,7 +2,7 @@
 name: ArchiVinci
 url: "https://www.archivinci.com"
 image: /logos/archivinci.png
-screenshot: /screens/archivinci.jpg
+screenshot: /screens/archivinci.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: ArchiVinci turns sketches, photos, or 3‑D screenshots into photorealistic 4K–8K renders in seconds, all within a browser.

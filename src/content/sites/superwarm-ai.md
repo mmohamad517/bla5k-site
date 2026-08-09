@@ -2,7 +2,7 @@
 name: SuperWarm.AI
 url: "https://superwarm.ai"
 image: /logos/superwarm-ai.png
-screenshot: /screens/superwarm-ai.jpg
+screenshot: /screens/superwarm-ai.webp
 subcategory: fin-fintech
 pricing: free
 tagline: Superwarm.ai is an AI matchmaking platform that connects startups with compatible investors by curating personalized matches based on industry, investment...

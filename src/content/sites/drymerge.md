@@ -2,7 +2,7 @@
 name: DryMerge
 url: "https://drymerge.com/"
 image: /logos/drymerge.png
-screenshot: /screens/drymerge.jpg
+screenshot: /screens/drymerge.webp
 subcategory: nc-automation
 pricing: paid
 tagline: DryMerge automatically syncs email, calendar, and call data across 50+ apps—including Gmail, Outlook, Slack, Teams, and major CRMs—to keep contact, deal,...

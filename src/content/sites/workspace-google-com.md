@@ -2,7 +2,7 @@
 name: Google Workspace
 url: "https://workspace.google.com"
 image: /logos/workspace-google-com.png
-screenshot: /screens/workspace-google-com.jpg
+screenshot: /screens/workspace-google-com.webp
 subcategory: fin-fintech
 pricing: paid
 tagline: Google Workspace is a comprehensive suite of online productivity tools, including Gmail, Drive, Meet, Chat, Calendar, and Docs, designed to facilitate...

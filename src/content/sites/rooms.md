@@ -2,7 +2,7 @@
 name: Rooms
 url: "https://rooms.xyz/"
 image: /logos/rooms.png
-screenshot: /screens/rooms.jpg
+screenshot: /screens/rooms.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Rooms is a web‑ and iOS‑based platform that lets users create, edit, and explore interactive rooms.

@@ -2,7 +2,7 @@
 name: Aigazou
 url: https://aigazou.com/
 image: /logos/aigazou.png
-screenshot: /screens/aigazou.jpg
+screenshot: /screens/aigazou.webp
 subcategory: ai-image
 tagline: "AI image creator with artistic filters and styles — transform photos into art."
 tags: [aigazou, ai art, filters, photo transformation, styles]

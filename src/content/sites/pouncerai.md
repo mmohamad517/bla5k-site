@@ -2,7 +2,7 @@
 name: PouncerAI
 url: "https://pouncer.ai"
 image: /logos/pouncerai.png
-screenshot: /screens/pouncerai.jpg
+screenshot: /screens/pouncerai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: PouncerAI optimizes Upwork profiles with AI‑generated keyword‑rich summaries and offers a proposal generator for tailored cover letters.

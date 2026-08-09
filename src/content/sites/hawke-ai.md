@@ -2,7 +2,7 @@
 name: Hawke AI
 url: "https://hawke.ai/"
 image: /logos/hawke-ai.png
-screenshot: /screens/hawke-ai.jpg
+screenshot: /screens/hawke-ai.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Hawke AI aggregates campaign data into real‑time dashboards, tracks KPIs across accounts, alerts anomalies, offers AI‑driven budget recommendations,...

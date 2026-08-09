@@ -2,7 +2,7 @@
 name: Runner.now
 url: "https://runner.now/"
 image: /logos/runner-now.png
-screenshot: /screens/runner-now.jpg
+screenshot: /screens/runner-now.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Runner is an AI assistant that seamlessly integrates with your existing tools—Gmail, Slack, Notion—to automate workflows, executing tasks like drafting...

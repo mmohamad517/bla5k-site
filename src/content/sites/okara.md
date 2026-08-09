@@ -2,7 +2,7 @@
 name: Okara
 url: "https://okara.ai"
 image: /logos/okara.png
-screenshot: /screens/okara.jpg
+screenshot: /screens/okara.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Okara is a private AI chat platform integrating 20+ open-source language and image models with client-side encryption and user-controlled decryption,...

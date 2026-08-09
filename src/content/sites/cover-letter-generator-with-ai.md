@@ -2,7 +2,7 @@
 name: Cover-letter generator with AI
 url: "https://www.carrilagency.com/cover-letter/"
 image: /logos/cover-letter-generator-with-ai.png
-screenshot: /screens/cover-letter-generator-with-ai.jpg
+screenshot: /screens/cover-letter-generator-with-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: TheToolBus offers free, instant tools for small business owners, including PDF merge/split/compress, Word/Excel conversion, OCR, PowerPoint export, image...

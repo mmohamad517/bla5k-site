@@ -2,7 +2,7 @@
 name: Winston AI
 url: "https://gowinston.ai/?via=topaitools"
 image: /logos/winston-ai.png
-screenshot: /screens/winston-ai.jpg
+screenshot: /screens/winston-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Winston AI is an AI tool that detects AI-generated content and plagiarism.

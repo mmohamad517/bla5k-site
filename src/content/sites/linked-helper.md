@@ -2,7 +2,7 @@
 name: Linked Helper
 url: "https://www.linkedhelper.com/"
 image: /logos/linked-helper.png
-screenshot: /screens/linked-helper.jpg
+screenshot: /screens/linked-helper.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Linked Helper is a LinkedIn automation tool that executes multi-step outreach campaigns and manages lead pipelines.

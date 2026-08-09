@@ -2,7 +2,7 @@
 name: botsplash.com
 url: "https://botsplash.com"
 image: /logos/botsplash-com.png
-screenshot: /screens/botsplash-com.jpg
+screenshot: /screens/botsplash-com.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Botsplash is an AI engagement platform that automates chat, voice and text across web, SMS and RCS, centralizes omnichannel conversations, qualifies leads,...

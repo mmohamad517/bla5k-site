@@ -2,7 +2,7 @@
 name: LegWork App
 url: "https://www.legworkapp.ai"
 image: /logos/legwork-app.png
-screenshot: /screens/legwork-app.jpg
+screenshot: /screens/legwork-app.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Legwork is an AI recruitment partner that streamlines talent tracking with pre-screening interviews and candidate scoring, saving time for your team to...

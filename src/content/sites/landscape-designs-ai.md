@@ -2,7 +2,7 @@
 name: Landscape Designs AI
 url: "https://landscapedesignsai.com"
 image: /logos/landscape-designs-ai.png
-screenshot: /screens/landscape-designs-ai.jpg
+screenshot: /screens/landscape-designs-ai.webp
 subcategory: design-graphics
 pricing: free
 tagline: AI Landscape Design helps users create customized outdoor space designs by uploading garden photos and selecting from over 40 styles.

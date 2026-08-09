@@ -2,7 +2,7 @@
 name: Botphonic.ai
 url: "https://botphonic.ai/"
 image: /logos/botphonic-ai.png
-screenshot: /screens/botphonic-ai.jpg
+screenshot: /screens/botphonic-ai.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Botphonic.ai is an AI call assistant that automates inbound and outbound voice interactions for industries like healthcare and real estate.

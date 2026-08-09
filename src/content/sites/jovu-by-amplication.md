@@ -2,7 +2,7 @@
 name: Jovu by Amplication
 url: "https://amplication.com/jovu--production-ready-ai-code-generation"
 image: /logos/jovu-by-amplication.png
-screenshot: /screens/jovu-by-amplication.jpg
+screenshot: /screens/jovu-by-amplication.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Amplication is an open‑source platform that enables developers to generate backend code, manage projects, and integrate with GitHub and CI workflows.

@@ -2,7 +2,7 @@
 name: Spectrahertz
 url: "https://spectrahertz.com"
 image: /logos/spectrahertz.png
-screenshot: /screens/spectrahertz.jpg
+screenshot: /screens/spectrahertz.webp
 subcategory: ai-video-audio
 pricing: paid
 tagline: Spectrahertz detects AI-generated audio and hidden watermarks with 99.9% accuracy and sub-100 ms latency, removes spectral artifacts, embeds imperceptible...

@@ -2,7 +2,7 @@
 name: Datarails.com
 url: "https://datarails.com"
 image: /logos/datarails-com.png
-screenshot: /screens/datarails-com.jpg
+screenshot: /screens/datarails-com.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Datarails integrates with Excel, automating data consolidation from 200+ accounting, ERP, CRM, bank, and HRIS sources.

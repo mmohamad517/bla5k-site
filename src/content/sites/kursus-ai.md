@@ -2,7 +2,7 @@
 name: Kursus AI
 url: "https://www.kursus-ai.fr"
 image: /logos/kursus-ai.png
-screenshot: /screens/kursus-ai.jpg
+screenshot: /screens/kursus-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Kursus AI is an AI-driven tool for analyzing candidate resumes, streamlining recruitment by allowing bulk CV uploads, tailored job postings, and mobile...

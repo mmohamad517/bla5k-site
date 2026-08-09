@@ -2,7 +2,7 @@
 name: Dashworks
 url: "https://www.dashworks.ai"
 image: /logos/dashworks-ai.png
-screenshot: /screens/dashworks-ai.jpg
+screenshot: /screens/dashworks-ai.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Dashworks offers an AI assistant that pulls real‑time answers from connected apps, knowledge bases, and communication tools without data indexing.

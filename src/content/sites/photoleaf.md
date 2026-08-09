@@ -2,7 +2,7 @@
 name: PhotoLeaf
 url: "https://photoleaf.ai/"
 image: /logos/photoleaf.png
-screenshot: /screens/photoleaf.jpg
+screenshot: /screens/photoleaf.webp
 subcategory: ai-image
 pricing: free
 tagline: PhotoLeaf AI creates photorealistic profile pictures by training on 20 personal photos, generating 300+ images in 50+ styles via Stable Diffusion and...

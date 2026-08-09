@@ -2,7 +2,7 @@
 name: Secret Llama
 url: "http://ww80.secretllama.com/?subid1=a21a6083-926f-11f1-b183-857ab32ecceb"
 image: /logos/secret-llama.png
-screenshot: /screens/secret-llama.jpg
+screenshot: /screens/secret-llama.webp
 subcategory: ai-chat
 pricing: free
 tagline: Secret Llama is a private browser-based chatbot that stores data locally, ensuring enhanced privacy.

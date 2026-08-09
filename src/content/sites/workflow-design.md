@@ -2,7 +2,7 @@
 name: Workflow.Design
 url: "https://www.workflow.design/"
 image: /logos/workflow-design.png
-screenshot: /screens/workflow-design.jpg
+screenshot: /screens/workflow-design.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: "###workflow is a project management tool that enhances creative collaboration by organizing assets, tracking tasks, and managing feedback with features like..."

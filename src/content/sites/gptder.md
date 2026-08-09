@@ -2,7 +2,7 @@
 name: GPTder
 url: "https://www.gptder.com"
 image: /logos/gptder.png
-screenshot: /screens/gptder.jpg
+screenshot: /screens/gptder.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: GPT5账号 supplies verified GPT‑5, GPT‑4, GPT‑3.5, and Claude‑3 APIs with 30‑day validity, password‑free accounts, warranty, and suspension protection.

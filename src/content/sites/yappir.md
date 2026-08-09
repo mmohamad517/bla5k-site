@@ -2,7 +2,7 @@
 name: Yappir
 url: "https://yappir.com"
 image: /logos/yappir.png
-screenshot: /screens/yappir.jpg
+screenshot: /screens/yappir.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Yappir builds chatbots by scanning a site’s content to train an AI that answers visitors in 95 languages.

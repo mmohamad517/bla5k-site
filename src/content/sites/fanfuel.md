@@ -2,7 +2,7 @@
 name: Fanfuel
 url: "https://fanfuel.app"
 image: /logos/fanfuel.png
-screenshot: /screens/fanfuel.jpg
+screenshot: /screens/fanfuel.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Fanfuel is an AI suite for YouTube creators, offering thumbnail generation, script creation, SEO metadata, and conversational analytics, enabling...

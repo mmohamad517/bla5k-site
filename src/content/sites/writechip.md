@@ -2,7 +2,7 @@
 name: Writechip
 url: "https://www.writechip.com"
 image: /logos/writechip.png
-screenshot: /screens/writechip.jpg
+screenshot: /screens/writechip.webp
 subcategory: ai-writing
 pricing: paid
 tagline: WriteChip is an AI article writing tool that generates SEO-friendly content efficiently.

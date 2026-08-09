@@ -2,7 +2,7 @@
 name: RichlyAI
 url: "https://richlyai.com/chat"
 image: /logos/richlyai.png
-screenshot: /screens/richlyai.jpg
+screenshot: /screens/richlyai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: RichlyAI is an AI-driven content generation platform that uses AI to create high-quality marketing copy.

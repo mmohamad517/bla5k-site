@@ -2,7 +2,7 @@
 name: Play2Learn
 url: "https://play2learn.com.br/"
 image: /logos/app-play2learn-com-br.png
-screenshot: /screens/app-play2learn-com-br.jpg
+screenshot: /screens/app-play2learn-com-br.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: Play2Learn converts existing content into gamified training modules, roleplay simulations, and quizzes, automating course creation, integrating with LMS and...

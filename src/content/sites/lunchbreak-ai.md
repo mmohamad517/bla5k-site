@@ -2,7 +2,7 @@
 name: Lunchbreak AI
 url: "https://lunchbreak.ai"
 image: /logos/lunchbreak-ai.png
-screenshot: /screens/lunchbreak-ai.jpg
+screenshot: /screens/lunchbreak-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Lunchbreak AI scans documents with Turnitin, GPTZero and other detectors, highlights AI‑flagged sections, and offers one‑click rewriting that preserves...

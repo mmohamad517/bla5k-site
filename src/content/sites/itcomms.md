@@ -2,7 +2,7 @@
 name: ITComms
 url: "https://ai.itcomms.io/"
 image: /logos/itcomms.png
-screenshot: /screens/itcomms.jpg
+screenshot: /screens/itcomms.webp
 subcategory: mkt-social
 pricing: free
 tagline: An AI-powered press release generator that generates unique and tailored content in minutes.

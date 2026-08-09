@@ -2,7 +2,7 @@
 name: Sugarbug
 url: "https://sugarbug.ai"
 image: /logos/sugarbug.png
-screenshot: /screens/sugarbug.jpg
+screenshot: /screens/sugarbug.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Sugarbug is workflow intelligence that connects your fragmented tools – Linear, GitHub, Figma, Slack, Notion, email, calendars – and builds a living...

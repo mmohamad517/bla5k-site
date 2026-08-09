@@ -2,7 +2,7 @@
 name: NOAN
 url: "https://www.getnoan.com/"
 image: /logos/getnoan.png
-screenshot: /screens/getnoan.jpg
+screenshot: /screens/getnoan.webp
 subcategory: ai-chat
 pricing: paid
 tagline: NOAN is an AI-native business partner designed to streamline operations and decision-making for founders and teams.

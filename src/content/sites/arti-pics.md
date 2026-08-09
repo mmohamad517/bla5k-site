@@ -2,7 +2,7 @@
 name: ARTi.PiCS
 url: "https://arti.pics/"
 image: /logos/arti-pics.png
-screenshot: /screens/arti-pics.jpg
+screenshot: /screens/arti-pics.webp
 subcategory: ai-image
 pricing: freemium
 tagline: AI-Pow Avatar Maker generates 200 unique avatars from uploaded photos in different styles using AI training that can take 2-3 hours.

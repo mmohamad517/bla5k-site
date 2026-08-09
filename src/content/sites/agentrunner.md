@@ -2,7 +2,7 @@
 name: AgentRunner
 url: "https://agentrunner.com"
 image: /logos/agentrunner.png
-screenshot: /screens/agentrunner.jpg
+screenshot: /screens/agentrunner.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: AgentRunner is a workflow builder for AI app development, featuring visual prompt engineering, integration with popular AI models, performance monitoring,...

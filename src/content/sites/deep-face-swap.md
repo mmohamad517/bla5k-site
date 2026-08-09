@@ -2,7 +2,7 @@
 name: Deep Face Swap
 url: "https://deepfaceswap.ai/"
 image: /logos/deep-face-swap.png
-screenshot: /screens/deep-face-swap.jpg
+screenshot: /screens/deep-face-swap.webp
 subcategory: ai-image
 pricing: paid
 tagline: DeepFaceSwap.AI lets users swap faces in photos and videos without watermarks, using GANs for high‑resolution results.

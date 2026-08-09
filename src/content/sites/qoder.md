@@ -2,7 +2,7 @@
 name: Qoder
 url: "https://qoder.com/"
 image: /logos/qoder.png
-screenshot: /screens/qoder.jpg
+screenshot: /screens/qoder.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Qoder is an agentic coding platform that automates software development through autonomous AI agents.

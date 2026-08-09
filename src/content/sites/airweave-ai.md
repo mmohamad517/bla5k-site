@@ -2,7 +2,7 @@
 name: AirWeave AI
 url: "https://airweave.ai/"
 image: /logos/airweave-ai.png
-screenshot: /screens/airweave-ai.jpg
+screenshot: /screens/airweave-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: airweave enables users to create intelligent agents with minimal coding.

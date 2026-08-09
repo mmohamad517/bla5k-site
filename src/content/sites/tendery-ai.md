@@ -2,7 +2,7 @@
 name: Tendery.ai
 url: "https://tendery.ai"
 image: /logos/tendery-ai.png
-screenshot: /screens/tendery-ai.jpg
+screenshot: /screens/tendery-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Tendery automates public tender discovery across Europe, using AI for advanced semantic searches.

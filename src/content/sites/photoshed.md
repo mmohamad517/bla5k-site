@@ -2,7 +2,7 @@
 name: Photoshed
 url: "https://www.photoshed.com"
 image: /logos/photoshed.png
-screenshot: /screens/photoshed.jpg
+screenshot: /screens/photoshed.webp
 subcategory: ai-image
 pricing: paid
 tagline: PhotoShed uses AI to create a digital twin from 20+ selfies, then lets users generate unlimited custom photos of the avatar in any scene.

@@ -2,7 +2,7 @@
 name: Vendra Marketplace
 url: "https://vendra-marketplace.io"
 image: /logos/vendra-marketplace-io.png
-screenshot: /screens/vendra-marketplace-io.jpg
+screenshot: /screens/vendra-marketplace-io.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Vendra Marketplace connects engineers and procurement with vetted US manufacturers for custom parts, offering CAD uploads, automated manufacturability...

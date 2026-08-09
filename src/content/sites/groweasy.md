@@ -2,7 +2,7 @@
 name: GrowEasy
 url: "https://groweasy.ai/"
 image: /logos/groweasy.png
-screenshot: /screens/groweasy.jpg
+screenshot: /screens/groweasy.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: GrowEasy uses AI to generate and continuously optimize banner, video, copy, and lead‑form ads across Google, Instagram, YouTube, and Facebook.

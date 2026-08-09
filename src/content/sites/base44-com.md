@@ -2,7 +2,7 @@
 name: Base44
 url: "https://base44.com/"
 image: /logos/base44-com.png
-screenshot: /screens/base44-com.jpg
+screenshot: /screens/base44-com.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Base44.com is an AI platform that transforms natural language descriptions into fully-functional, deployed web applications.

@@ -2,7 +2,7 @@
 name: Chattie
 url: "https://usechattie.com/"
 image: /logos/chattie.png
-screenshot: /screens/chattie.jpg
+screenshot: /screens/chattie.webp
 subcategory: nc-builders
 pricing: paid
 tagline: Chattie lets web owners embed ChatGPT into their sites, training bots on custom PDFs, DOCX, CSV, etc., while auto‑generating prompts.

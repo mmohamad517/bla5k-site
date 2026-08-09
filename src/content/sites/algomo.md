@@ -2,7 +2,7 @@
 name: Algomo
 url: "https://www.algomo.com"
 image: /logos/algomo.png
-screenshot: /screens/algomo.jpg
+screenshot: /screens/algomo.webp
 subcategory: nc-builders
 pricing: paid
 tagline: newmode.ai delivers real‑time inbound lead qualification by deanonymizing traffic and matching visitors to accounts.

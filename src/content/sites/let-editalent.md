@@ -2,7 +2,7 @@
 name: lET-Editalent
 url: "https://et-editalent.tech"
 image: /logos/let-editalent.png
-screenshot: /screens/let-editalent.jpg
+screenshot: /screens/let-editalent.webp
 subcategory: ai-writing
 pricing: paid
 tagline: LET-Editalent is an AI suite that assists journalists and content teams with SEO optimization, editorial research, and multi-platform formatting.

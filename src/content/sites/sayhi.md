@@ -2,7 +2,7 @@
 name: SayHi
 url: "https://sayhi.pro/"
 image: /logos/sayhi.png
-screenshot: /screens/sayhi.jpg
+screenshot: /screens/sayhi.webp
 subcategory: mkt-social
 pricing: paid
 tagline: SayHi is a Chrome extension that automates LinkedIn outreach by generating personalized messages from a contact’s profile.

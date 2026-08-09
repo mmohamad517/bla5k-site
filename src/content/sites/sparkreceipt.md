@@ -2,7 +2,7 @@
 name: SparkReceipt
 url: "https://www.sparkreceipt.com"
 image: /logos/sparkreceipt.png
-screenshot: /screens/sparkreceipt.jpg
+screenshot: /screens/sparkreceipt.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: SparkReceipt is a comprehensive preaccounting tool that simplifies financial record management through receipt scanning, expense tracking, document...

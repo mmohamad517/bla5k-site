@@ -2,7 +2,7 @@
 name: OpenWorker
 url: "https://openworker.com/"
 image: /logos/openworker.png
-screenshot: /screens/openworker.jpg
+screenshot: /screens/openworker.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: OpenWorker is a platform that connects AI models with everyday tools to automate start-to-finish tasks for teams.

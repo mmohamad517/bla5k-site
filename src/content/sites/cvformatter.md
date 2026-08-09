@@ -2,7 +2,7 @@
 name: CVFormatter
 url: "https://www.cvformatter.co"
 image: /logos/cvformatter.png
-screenshot: /screens/cvformatter.jpg
+screenshot: /screens/cvformatter.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: CVFormatter is an AI-driven resume formatting tool that streamlines the processing of resumes for HR professionals.

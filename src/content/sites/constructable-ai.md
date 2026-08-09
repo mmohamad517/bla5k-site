@@ -2,7 +2,7 @@
 name: Constructable.ai
 url: "https://constructable.ai"
 image: /logos/constructable-ai.png
-screenshot: /screens/constructable-ai.jpg
+screenshot: /screens/constructable-ai.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Constructable centralizes plan review, markups, versioned document histories and issue tracking for preconstruction and field teams.

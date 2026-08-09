@@ -2,7 +2,7 @@
 name: Trendin
 url: "https://www.trendin.so"
 image: /logos/trendin.png
-screenshot: /screens/trendin.jpg
+screenshot: /screens/trendin.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Trendin is an AI content creation platform that streamlines research and curation, helping users identify trending topics and develop SEO-optimized content.

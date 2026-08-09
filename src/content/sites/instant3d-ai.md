@@ -2,7 +2,7 @@
 name: Instant3d.ai
 url: "https://instant3d.ai"
 image: /logos/instant3d-ai.png
-screenshot: /screens/instant3d-ai.jpg
+screenshot: /screens/instant3d-ai.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Instant 3D enables users to create high-quality 3D models from text prompts or 2D images, featuring auto remesh tools and an integrated 3D viewer for easy...

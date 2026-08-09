@@ -2,7 +2,7 @@
 name: EliteInvoice
 url: "https://eliteinvoice.com"
 image: /logos/eliteinvoice.png
-screenshot: /screens/eliteinvoice.jpg
+screenshot: /screens/eliteinvoice.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: EliteInvoice simplifies invoicing for freelancers and small businesses with customizable templates, automated reminders, expense tracking, and financial...

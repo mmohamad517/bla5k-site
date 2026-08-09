@@ -2,7 +2,7 @@
 name: Newmoney.AI
 url: "https://newmoney.ai"
 image: /logos/newmoney-ai.png
-screenshot: /screens/newmoney-ai.jpg
+screenshot: /screens/newmoney-ai.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: Newmoney.AI is an AI‑powered wallet for Bitcoin, Ethereum, Solana, SUI, and fiat that works via WhatsApp, Telegram, SMS, email, and web.

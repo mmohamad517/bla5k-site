@@ -2,7 +2,7 @@
 name: Allyhub
 url: "https://allyhub.com/"
 image: /logos/allyhub.png
-screenshot: /screens/allyhub.jpg
+screenshot: /screens/allyhub.webp
 subcategory: nc-automation
 pricing: freemium
 tagline: Allyhub is an AI platform that automates workflows, generates content, and manages team tasks to centralize project operations.

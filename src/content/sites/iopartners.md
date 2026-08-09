@@ -2,7 +2,7 @@
 name: ioPartners
 url: "https://iopartners.app"
 image: /logos/iopartners.png
-screenshot: /screens/iopartners.jpg
+screenshot: /screens/iopartners.webp
 subcategory: ai-image
 pricing: freemium
 tagline: A browser‑based AI companion that lets you create and customize a 3‑D avatar.

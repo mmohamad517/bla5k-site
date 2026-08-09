@@ -2,7 +2,7 @@
 name: Buzzwriter AI
 url: "https://buzzwriter.ai"
 image: /logos/buzzwriter-ai.png
-screenshot: /screens/buzzwriter-ai.jpg
+screenshot: /screens/buzzwriter-ai.webp
 subcategory: ai-writing
 pricing: paid
 tagline: BuzzWriter AI is an AI content creation tool that enhances SEO through personalized article writing, traffic analysis, and performance analytics.

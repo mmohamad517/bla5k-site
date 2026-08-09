@@ -2,7 +2,7 @@
 name: Botscrew.com
 url: "https://botscrew.com"
 image: /logos/botscrew-com.png
-screenshot: /screens/botscrew-com.jpg
+screenshot: /screens/botscrew-com.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: BotsCrew delivers end‑to‑end conversational AI agents built on GPT‑4o, Llama 3, or RAG.

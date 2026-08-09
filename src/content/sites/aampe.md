@@ -2,7 +2,7 @@
 name: Aampe
 url: "https://www.aampe.com"
 image: /logos/aampe.png
-screenshot: /screens/aampe.jpg
+screenshot: /screens/aampe.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Aampe is an agentic infrastructure for real-time personalization, assigning a dedicated AI agent to each user to run parallel experiments and adapt...

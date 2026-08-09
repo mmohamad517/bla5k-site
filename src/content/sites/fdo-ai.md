@@ -2,7 +2,7 @@
 name: fdo.ai
 url: "https://fdo.ai"
 image: /logos/fdo-ai.png
-screenshot: /screens/fdo-ai.jpg
+screenshot: /screens/fdo-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Edison offers AI‑powered tools for small businesses, automating bookkeeping, guiding strategy, managing marketing campaigns, and delivering real‑time...

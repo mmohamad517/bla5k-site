@@ -2,7 +2,7 @@
 name: Visualizee
 url: "https://visualizee.ai/"
 image: /logos/visualizee.png
-screenshot: /screens/visualizee.jpg
+screenshot: /screens/visualizee.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Visualizee.ai turns plain‑language descriptions into photorealistic 2K/4K renders and motion videos for architects, designers, and developers.

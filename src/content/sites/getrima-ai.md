@@ -2,7 +2,7 @@
 name: Rima AI
 url: "https://www.getrima.ai/"
 image: /logos/getrima-ai.png
-screenshot: /screens/getrima-ai.jpg
+screenshot: /screens/getrima-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Rima automates reconciliation workflows by ingesting bank feeds, GL exports, payroll and vendor statements, using AI to match transactions, flag exceptions,...

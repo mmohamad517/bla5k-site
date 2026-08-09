@@ -2,7 +2,7 @@
 name: Predikt AI
 url: "https://prediktai.com"
 image: /logos/predikt-ai.png
-screenshot: /screens/predikt-ai.jpg
+screenshot: /screens/predikt-ai.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Predikt AI unifies account, resource, project, and finance management, automating opportunity‑to‑contract workflows and generating instant proposals.

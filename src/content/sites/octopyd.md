@@ -2,7 +2,7 @@
 name: Octopyd
 url: "https://www.octopyd.com/"
 image: /logos/octopyd.png
-screenshot: /screens/octopyd.jpg
+screenshot: /screens/octopyd.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Octopyd is an AI-driven recruitment platform that automates sourcing and candidate evaluation with AI agents Levi and Ivy.

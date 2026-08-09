@@ -2,7 +2,7 @@
 name: Quixl.ai
 url: "https://www.quixl.ai"
 image: /logos/quixl-ai.png
-screenshot: /screens/quixl-ai.jpg
+screenshot: /screens/quixl-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Quixl is a no‑code platform for designing, deploying, and managing AI agents.

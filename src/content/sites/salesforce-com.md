@@ -2,7 +2,7 @@
 name: Salesforce
 url: "https://salesforce.com"
 image: /logos/salesforce-com.png
-screenshot: /screens/salesforce-com.jpg
+screenshot: /screens/salesforce-com.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Salesforce is a cloud CRM that centralizes customer, transactional and engagement data and uses agent-based AI (Agentforce) to automate lead qualification,...

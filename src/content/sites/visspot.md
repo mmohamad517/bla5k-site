@@ -2,7 +2,7 @@
 name: Visspot
 url: "https://visspot.com"
 image: /logos/visspot.png
-screenshot: /screens/visspot.jpg
+screenshot: /screens/visspot.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Visspot is an AI tool that simplifies link, image, document, and video conversion into knowledge bases without coding.

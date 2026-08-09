@@ -2,7 +2,7 @@
 name: DHTMLX Chatbot
 url: "https://dhtmlx.com"
 image: /logos/dhtmlx-chatbot.png
-screenshot: /screens/dhtmlx-chatbot.jpg
+screenshot: /screens/dhtmlx-chatbot.webp
 subcategory: ai-chat
 pricing: paid
 tagline: DHTMLX AI Chatbot UI Widget is a lightweight, 65 KB JavaScript component for embedding AI chat interfaces.

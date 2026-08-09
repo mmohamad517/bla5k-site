@@ -2,7 +2,7 @@
 name: Ghostwriter Express
 url: "https://ghostwriter.express"
 image: /logos/ghostwriter-express.png
-screenshot: /screens/ghostwriter-express.jpg
+screenshot: /screens/ghostwriter-express.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Ghostwriter Express is an AI‑driven platform that turns ideas into nonfiction books, offering modular tools for topic, title, TOC, chapters, blurbs, and...

@@ -2,7 +2,7 @@
 name: Nettle.ai
 url: "https://nettle.ai"
 image: /logos/nettle-ai.png
-screenshot: /screens/nettle-ai.jpg
+screenshot: /screens/nettle-ai.webp
 subcategory: ai-image
 pricing: free
 tagline: People Nettle creates customizable, lifelike digital humans for brands, enhancing customer engagement through interactive, voice-responsive avatars powered...

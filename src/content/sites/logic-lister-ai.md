@@ -2,7 +2,7 @@
 name: Logic Lister AI
 url: "https://Logiclister.com"
 image: /logos/logic-lister-ai.png
-screenshot: /screens/logic-lister-ai.jpg
+screenshot: /screens/logic-lister-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Logiclister AI is an ecommerce tool with AI capabilities for generating product descriptions, blog posts, social media content, newsletters, and more.

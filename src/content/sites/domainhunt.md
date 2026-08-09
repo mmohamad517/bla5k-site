@@ -2,7 +2,7 @@
 name: DomainHunt
 url: "https://www.domainhuntai.com/"
 image: /logos/domainhunt.png
-screenshot: /screens/domainhunt.jpg
+screenshot: /screens/domainhunt.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: "Summary: DomainHuntAI is an AI-powered startup domain name generator that simplifies finding the perfect domain name for a business idea."

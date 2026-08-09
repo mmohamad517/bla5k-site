@@ -2,7 +2,7 @@
 name: Surfn
 url: "https://surfn.ai"
 image: /logos/surfn.png
-screenshot: /screens/surfn.jpg
+screenshot: /screens/surfn.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Surfn is a no-code builder for conversational AI pages that use site content, videos and FAQs to deliver context-aware answers, qualify leads with...

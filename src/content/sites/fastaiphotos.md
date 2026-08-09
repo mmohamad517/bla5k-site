@@ -2,7 +2,7 @@
 name: FastAIPhotos
 url: "https://fastaiphotos.com/"
 image: /logos/fastaiphotos.png
-screenshot: /screens/fastaiphotos.jpg
+screenshot: /screens/fastaiphotos.webp
 subcategory: ai-image
 pricing: paid
 tagline: FastAI Photos is an AI platform for generating high-quality images and videos.

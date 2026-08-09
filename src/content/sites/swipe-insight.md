@@ -2,7 +2,7 @@
 name: Swipe Insight
 url: "https://www.swipeinsight.app"
 image: /logos/swipe-insight.png
-screenshot: /screens/swipe-insight.jpg
+screenshot: /screens/swipe-insight.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Swipe Insight delivers daily digital‑marketing and analytics content from 500+ sources via web, iOS, and Android.

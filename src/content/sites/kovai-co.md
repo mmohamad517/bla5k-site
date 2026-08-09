@@ -2,7 +2,7 @@
 name: Kovai.co
 url: "https://www.kovai.co/"
 image: /logos/kovai-co.png
-screenshot: /screens/kovai-co.jpg
+screenshot: /screens/kovai-co.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Kovai.co’s SaaS suite—BizTalk360, Turbo360, and Document360—provides AI-assisted BizTalk Server and Azure monitoring, serverless tracing, automated...

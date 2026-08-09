@@ -2,7 +2,7 @@
 name: AIturnitinchecker.com
 url: "https://aiturnitinchecker.com"
 image: /logos/aiturnitinchecker-com.png
-screenshot: /screens/aiturnitinchecker-com.jpg
+screenshot: /screens/aiturnitinchecker-com.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: aiturnitinchecker.com is a pre-submission integrity screener that runs combined AI detection and plagiarism checks on DOCX, PDF, TXT, or RTF files,...

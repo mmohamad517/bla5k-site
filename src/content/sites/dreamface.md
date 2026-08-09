@@ -2,7 +2,7 @@
 name: Dreamface
 url: "https://www.DreamFaceApp.com"
 image: /logos/dreamface.png
-screenshot: /screens/dreamface.jpg
+screenshot: /screens/dreamface.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Dreamface produces high‑quality AI avatar videos, photos, and voice‑generated content from text or audio in a single click.

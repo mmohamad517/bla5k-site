@@ -2,7 +2,7 @@
 name: Klyra AI
 url: "https://klyra.ai"
 image: /logos/klyra-ai.png
-screenshot: /screens/klyra-ai.jpg
+screenshot: /screens/klyra-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Klyra AI is an AI-powered content creation platform that generates videos, voiceovers, avatars, and images for marketers, educators, and creators.

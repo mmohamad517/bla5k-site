@@ -2,7 +2,7 @@
 name: VectorShift
 url: "https://www.vectorshift.ai"
 image: /logos/vectorshift.png
-screenshot: /screens/vectorshift.jpg
+screenshot: /screens/vectorshift.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: VectorShift is a no‑code AI platform that lets users build AI applications with drag‑and‑drop components.

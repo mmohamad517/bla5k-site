@@ -2,7 +2,7 @@
 name: Sketchme.app
 url: "https://sketchme.app"
 image: /logos/sketchme-app.png
-screenshot: /screens/sketchme-app.jpg
+screenshot: /screens/sketchme-app.webp
 subcategory: ai-image
 pricing: paid
 tagline: SketchMe.App transforms up to five selfies into stylized illustrations within minutes.

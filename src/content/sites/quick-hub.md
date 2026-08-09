@@ -2,7 +2,7 @@
 name: Quick Hub
 url: "https://www.quickhub.ai"
 image: /logos/quick-hub.png
-screenshot: /screens/quick-hub.jpg
+screenshot: /screens/quick-hub.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Quick Hub is an automation tool that centralizes marketing efforts, enabling users to manage communications and campaigns across various platforms from a...

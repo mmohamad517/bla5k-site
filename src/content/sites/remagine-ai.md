@@ -2,7 +2,7 @@
 name: Remagine AI
 url: "https://remagineai.com"
 image: /logos/remagine-ai.png
-screenshot: /screens/remagine-ai.jpg
+screenshot: /screens/remagine-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Remagine AI generates SEO-optimized blog posts, landing pages, social media posts, and ad copy using templates, batch generation, keyword and persona...

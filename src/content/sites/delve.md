@@ -2,7 +2,7 @@
 name: Delve
 url: "https://www.delve.ai/"
 image: /logos/delve.png
-screenshot: /screens/delve.jpg
+screenshot: /screens/delve.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Delve AI helps businesses create data-driven buyer personas for themselves and their competitors in minutes using data from sources like Google Analytics...

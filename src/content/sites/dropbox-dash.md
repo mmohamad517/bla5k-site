@@ -2,7 +2,7 @@
 name: Dropbox Dash
 url: "https://www.dropbox.com/dash"
 image: /logos/dropbox-dash.png
-screenshot: /screens/dropbox-dash.jpg
+screenshot: /screens/dropbox-dash.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Dropbox Dash is an AI-driven search tool unifying data from connected apps & emails.

@@ -2,7 +2,7 @@
 name: CopyNinja
 url: "https://apps.shopify.com/copyninja"
 image: /logos/copyninja.png
-screenshot: /screens/copyninja.jpg
+screenshot: /screens/copyninja.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: CopyNinja, powered by ChatGPT and GPT-3.5, is an AI SEO copywriting tool that simplifies multilingual content creation while boosting SEO performance,...

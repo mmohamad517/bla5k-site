@@ -2,7 +2,7 @@
 name: Story Creator AI
 url: "https://ikontotolink.com/"
 image: /logos/story-creator-ai.png
-screenshot: /screens/story-creator-ai.jpg
+screenshot: /screens/story-creator-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: AI Enriches enables quick creation of custom AI‑generated images for marketing, education, and web use.

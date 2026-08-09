@@ -2,7 +2,7 @@
 name: Deepsearch.name
 url: "https://www.deepsearch.name"
 image: /logos/deepsearch-name.png
-screenshot: /screens/deepsearch-name.jpg
+screenshot: /screens/deepsearch-name.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Deepsearch.name is a name-first people search tool that builds sourced public-web profiles from a person's name.

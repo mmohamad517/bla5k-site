@@ -2,7 +2,7 @@
 name: Percify
 url: "https://percify.io"
 image: /logos/percify.png
-screenshot: /screens/percify.jpg
+screenshot: /screens/percify.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Percify is an AI tool that generates photorealistic avatars from single images, featuring customizable attributes and voice cloning.

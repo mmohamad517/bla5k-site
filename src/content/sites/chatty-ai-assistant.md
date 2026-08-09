@@ -2,7 +2,7 @@
 name: "Chatty: ai assistant"
 url: "https://chattyai.tech"
 image: /logos/chatty-ai-assistant.png
-screenshot: /screens/chatty-ai-assistant.jpg
+screenshot: /screens/chatty-ai-assistant.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Chatty AI offers conversational access to thousands of virtual personas—educators, professionals, historical and fictional characters—using open‑source...

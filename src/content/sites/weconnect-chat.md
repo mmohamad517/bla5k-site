@@ -2,7 +2,7 @@
 name: WeConnect.chat
 url: "https://weconnect.chat"
 image: /logos/weconnect-chat.png
-screenshot: /screens/weconnect-chat.jpg
+screenshot: /screens/weconnect-chat.webp
 subcategory: ai-chat
 pricing: paid
 tagline: WeConnect.chat is a no‑code platform that lets businesses build AI‑powered chatbots with drag‑and‑drop, combining custom AI, rule‑based logic, live chat...

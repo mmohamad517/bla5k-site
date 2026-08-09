@@ -2,7 +2,7 @@
 name: WisdomAI
 url: "https://wisdomai.com/"
 image: /logos/wisdomai.png
-screenshot: /screens/wisdomai.jpg
+screenshot: /screens/wisdomai.webp
 subcategory: learn-courses
 pricing: freemium
 tagline: WisdomAI curates daily 5‑minute summaries of top insights from over 100 creators across YouTube, podcasts, and social media.

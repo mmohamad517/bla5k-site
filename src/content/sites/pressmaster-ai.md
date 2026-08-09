@@ -2,7 +2,7 @@
 name: Pressmaster.ai
 url: "https://www.pressmaster.ai"
 image: /logos/pressmaster-ai.png
-screenshot: /screens/pressmaster-ai.jpg
+screenshot: /screens/pressmaster-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Pressmaster AI automates content creation from ideation to distribution, extracting insights via AI interview, matching voice with a twin model, forecasting...

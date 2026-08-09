@@ -2,7 +2,7 @@
 name: 8arms
 url: "https://www.8arms.ai"
 image: /logos/8arms.png
-screenshot: /screens/8arms.jpg
+screenshot: /screens/8arms.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: 8arms.ai is an AI copywriting tool that simplifies content creation for marketing campaigns, offering features like customizable tones, SEO optimization,...

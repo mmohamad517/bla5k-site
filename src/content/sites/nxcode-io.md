@@ -2,7 +2,7 @@
 name: NxCode
 url: "https://www.nxcode.io"
 image: /logos/nxcode-io.png
-screenshot: /screens/nxcode-io.jpg
+screenshot: /screens/nxcode-io.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: nxcode.io is an AI app builder that transforms plain-English ideas into production-ready web and mobile apps without coding.

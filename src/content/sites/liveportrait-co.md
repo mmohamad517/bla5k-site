@@ -2,7 +2,7 @@
 name: LivePortrait.co
 url: "https://liveportrait.co/"
 image: /logos/liveportrait-co.png
-screenshot: /screens/liveportrait-co.jpg
+screenshot: /screens/liveportrait-co.webp
 subcategory: ai-image
 pricing: freemium
 tagline: LivePortrait is an AI tool that animates portrait photos, transforming static images into dynamic visuals.

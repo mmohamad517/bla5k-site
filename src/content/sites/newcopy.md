@@ -2,7 +2,7 @@
 name: newcopy
 url: "https://newcopy.ai"
 image: /logos/newcopy.png
-screenshot: /screens/newcopy.jpg
+screenshot: /screens/newcopy.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: New Copy is an AI tool for enhancing marketing copy, featuring headline generation, content optimization, and a collaborative workspace.

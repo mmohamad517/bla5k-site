@@ -2,7 +2,7 @@
 name: Img Upscaler
 url: https://imgupscaler.com/
 image: /logos/img-upscaler.png
-screenshot: /screens/img-upscaler.jpg
+screenshot: /screens/img-upscaler.webp
 subcategory: util-images
 tagline: "AI image upscaler — enlarge photos up to 4x without losing quality."
 tags: [img upscaler, upscale, image, ai, enhance, resolution]

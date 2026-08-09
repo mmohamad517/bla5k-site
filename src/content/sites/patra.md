@@ -2,7 +2,7 @@
 name: Patra
 url: "https://patra.app"
 image: /logos/patra.png
-screenshot: /screens/patra.jpg
+screenshot: /screens/patra.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Patra is a natural language assistant that enables Jira ticket management directly within Slack, allowing users to create, update, and track tickets with...

@@ -2,7 +2,7 @@
 name: Flowscript.AI
 url: "https://www.flowscript.ai"
 image: /logos/flowscript-ai.png
-screenshot: /screens/flowscript-ai.jpg
+screenshot: /screens/flowscript-ai.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Flowscript transforms plain‑English requirements into fully functional web apps with minimal coding.

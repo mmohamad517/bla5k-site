@@ -2,7 +2,7 @@
 name: CheckCompany
 url: "https://www.checkcompany.net/"
 image: /logos/checkcompany-net.png
-screenshot: /screens/checkcompany-net.jpg
+screenshot: /screens/checkcompany-net.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: checkcompany.net is a company intelligence platform that verifies legitimacy and analyzes ownership, financial health, and business ecosystems.

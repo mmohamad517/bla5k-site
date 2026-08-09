@@ -2,7 +2,7 @@
 name: Talynce
 url: "https://talynce.com"
 image: /logos/talynce.png
-screenshot: /screens/talynce.jpg
+screenshot: /screens/talynce.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Talynce AI automates hiring by parsing bulk resumes into searchable profiles, conducting AI-driven screening and semantic candidate matching, enabling...

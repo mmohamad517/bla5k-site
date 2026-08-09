@@ -2,7 +2,7 @@
 name: Chat with-AI - Easemate
 url: "https://www.easemate.ai/chat-gpt-free"
 image: /logos/chat-with-ai-easemate.png
-screenshot: /screens/chat-with-ai-easemate.jpg
+screenshot: /screens/chat-with-ai-easemate.webp
 subcategory: ai-chat
 pricing: free
 tagline: Easemate AI is a multimodal notebook combining AI chat and multiple models for research, study, and content workflows, with PDF/OCR Q&A, solvers,...

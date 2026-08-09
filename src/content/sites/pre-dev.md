@@ -2,7 +2,7 @@
 name: pre.dev
 url: "https://pre.dev"
 image: /logos/pre-dev.png
-screenshot: /screens/pre-dev.jpg
+screenshot: /screens/pre-dev.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: pre.dev automates end‑to‑end software development.

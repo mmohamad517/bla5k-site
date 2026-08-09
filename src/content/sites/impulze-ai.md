@@ -2,7 +2,7 @@
 name: impulze.ai
 url: "https://www.impulze.ai"
 image: /logos/impulze-ai.png
-screenshot: /screens/impulze-ai.jpg
+screenshot: /screens/impulze-ai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Impulze.ai centralizes influencer marketing for agencies and brands, offering creator discovery across TikTok, Instagram, and YouTube.

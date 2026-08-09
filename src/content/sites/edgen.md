@@ -2,7 +2,7 @@
 name: Edgen
 url: "https://www.edgen.tech/"
 image: /logos/edgen.png
-screenshot: /screens/edgen.jpg
+screenshot: /screens/edgen.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Edgen is an AI-powered copilot for crypto and stock investors, delivering real-time insights, trading signals, and sentiment analysis to simplify market trends.

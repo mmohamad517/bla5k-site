@@ -2,7 +2,7 @@
 name: MyMind
 url: "https://mymind.com/"
 image: /logos/mymind.png
-screenshot: /screens/mymind.jpg
+screenshot: /screens/mymind.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Cross‑platform personal knowledge manager consolidating notes, bookmarks, articles, images, and quotes into one private space.

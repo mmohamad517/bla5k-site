@@ -2,7 +2,7 @@
 name: Active Recall
 url: "https://www.getrecall.ai"
 image: /logos/active-recall.png
-screenshot: /screens/active-recall.jpg
+screenshot: /screens/active-recall.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Recall is an AI-driven knowledge management tool that organizes and retrieves information efficiently.

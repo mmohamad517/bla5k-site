@@ -2,7 +2,7 @@
 name: Windy
 url: "https://gowindmill.com"
 image: /logos/windy.png
-screenshot: /screens/windy.jpg
+screenshot: /screens/windy.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Windmill is an AI-driven performance review tool that streamlines performance management through real-time feedback, automated agendas, custom surveys, and...

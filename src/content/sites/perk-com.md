@@ -2,7 +2,7 @@
 name: perk.com
 url: "https://perk.com"
 image: /logos/perk-com.png
-screenshot: /screens/perk-com.jpg
+screenshot: /screens/perk-com.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: Perk is an AI platform that consolidates corporate travel booking, expense management, and invoice processing into one interface, enabling self-booking,...

@@ -2,7 +2,7 @@
 name: AI Bypasser AI
 url: "https://aibypasser.pro"
 image: /logos/ai-bypasser-ai.png
-screenshot: /screens/ai-bypasser-ai.jpg
+screenshot: /screens/ai-bypasser-ai.webp
 subcategory: ai-writing
 pricing: paid
 tagline: AI Bypasser rewrites user input in seconds, removing AI signatures to avoid detection by Turnitin, GPTZero, and Originality.ai.

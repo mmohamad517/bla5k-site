@@ -2,7 +2,7 @@
 name: ImageCartoon
 url: "https://imagetocartoon.com/"
 image: /logos/imagecartoon.png
-screenshot: /screens/imagecartoon.jpg
+screenshot: /screens/imagecartoon.webp
 subcategory: ai-image
 pricing: free
 tagline: ImageToCartoon turns JPEG, PNG, or WebP photos into high‑resolution cartoon images directly in the browser.

@@ -2,7 +2,7 @@
 name: SubSeq
 url: "https://subseq.io"
 image: /logos/subseq.png
-screenshot: /screens/subseq.jpg
+screenshot: /screens/subseq.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Subseq is an AI workspace for product teams that automates sprint planning and integrates with tools like Jira and GitHub, providing real-time updates,...

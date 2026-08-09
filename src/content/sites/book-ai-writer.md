@@ -2,7 +2,7 @@
 name: Book AI Writer
 url: "https://www.bookaiwriter.com/"
 image: /logos/book-ai-writer.png
-screenshot: /screens/book-ai-writer.jpg
+screenshot: /screens/book-ai-writer.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: BookAIWriter.com streamlines book creation by converting a simple outline into full chapters and matching cover art.

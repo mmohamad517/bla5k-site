@@ -2,7 +2,7 @@
 name: WaGroup - wadesk.io
 url: "https://wagroup.wadesk.io/"
 image: /logos/wagroup-wadesk-io.png
-screenshot: /screens/wagroup-wadesk-io.jpg
+screenshot: /screens/wagroup-wadesk-io.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: wagroup.wadesk.io is a WhatsApp group finder and community management platform.

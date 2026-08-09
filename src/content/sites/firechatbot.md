@@ -2,7 +2,7 @@
 name: FireChatbot
 url: "https://firechatbot.com"
 image: /logos/firechatbot.png
-screenshot: /screens/firechatbot.jpg
+screenshot: /screens/firechatbot.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Firechatbot is an AI-powered chatbot that integrates into websites to provide instant customer support.

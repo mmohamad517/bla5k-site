@@ -2,7 +2,7 @@
 name: easl
 url: "https://easl.dev/"
 image: /logos/easl-dev.png
-screenshot: /screens/easl-dev.jpg
+screenshot: /screens/easl-dev.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: easl provides instant hosting for AI agent demos and content, publishing Markdown, CSV, JSON, HTML, SVG and Mermaid into interactive preview pages with...

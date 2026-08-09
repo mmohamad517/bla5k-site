@@ -2,7 +2,7 @@
 name: heroify
 url: "https://heroify.lol"
 image: /logos/heroify.png
-screenshot: /screens/heroify.jpg
+screenshot: /screens/heroify.webp
 subcategory: design-3d
 pricing: freemium
 tagline: NeROIC converts single images or 2D sketches into 3‑D models via deep learning, producing meshes, textures, and basic rigging.

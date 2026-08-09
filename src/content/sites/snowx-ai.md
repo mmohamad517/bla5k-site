@@ -2,7 +2,7 @@
 name: SnowX.ai
 url: "https://snowx.ai"
 image: /logos/snowx-ai.png
-screenshot: /screens/snowx-ai.jpg
+screenshot: /screens/snowx-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: SnowX is an AI agent workspace enabling autonomous personal and multi-agent collaboration for on-device or enterprise deployment, automating research,...

@@ -2,7 +2,7 @@
 name: GPT4o.so
 url: "https://gpt4o.so/"
 image: /logos/gpt4o-so-chatgpt-4o-free-online.png
-screenshot: /screens/gpt4o-so-chatgpt-4o-free-online.jpg
+screenshot: /screens/gpt4o-so-chatgpt-4o-free-online.webp
 subcategory: ai-chat
 pricing: paid
 tagline: GPT‑4o is a multimodal AI that processes text, images, and audio in real time, delivering fast, context‑aware responses for dialogue, image analysis, and...

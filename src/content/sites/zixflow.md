@@ -2,7 +2,7 @@
 name: Zixflow
 url: "https://zixflow.com"
 image: /logos/zixflow.png
-screenshot: /screens/zixflow.jpg
+screenshot: /screens/zixflow.webp
 subcategory: nc-automation
 pricing: freemium
 tagline: Zixflow consolidates SMS, WhatsApp, Email, and RCS messaging through a single API, offering automated workflows via visual builder or code, real‑time...

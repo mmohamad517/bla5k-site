@@ -2,7 +2,7 @@
 name: Smplhr
 url: "https://www.smplhr.com"
 image: /logos/smplhr.png
-screenshot: /screens/smplhr.jpg
+screenshot: /screens/smplhr.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: SmplHR is an AI-driven HR platform that simplifies recruitment by matching employers with pre-vetted Southeast Asian talent.

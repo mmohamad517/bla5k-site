@@ -2,7 +2,7 @@
 name: Product Design Studio
 url: "https://www.pietrastudio.com/platform/design-studio"
 image: /logos/product-design-studio.png
-screenshot: /screens/product-design-studio.jpg
+screenshot: /screens/product-design-studio.webp
 subcategory: design-3d
 pricing: paid
 tagline: Pietra Product Design Studio transforms sketches, reference images, or text into detailed 3D product models instantly.

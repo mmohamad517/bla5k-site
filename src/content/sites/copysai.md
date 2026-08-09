@@ -2,7 +2,7 @@
 name: CopysAI
 url: "http://copysai.com/"
 image: /logos/copysai.png
-screenshot: /screens/copysai.jpg
+screenshot: /screens/copysai.webp
 subcategory: ai-writing
 pricing: paid
 tagline: CopysAI automates social‑media publishing on Facebook, Instagram, Twitter, and LinkedIn.

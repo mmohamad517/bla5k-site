@@ -2,7 +2,7 @@
 name: Fuser
 url: "https://fuser.studio"
 image: /logos/fuser.png
-screenshot: /screens/fuser.jpg
+screenshot: /screens/fuser.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Fuser is a multimodal AI workflow platform for creatives offering a single canvas with model-agnostic access to hundreds of generative models, templates and...

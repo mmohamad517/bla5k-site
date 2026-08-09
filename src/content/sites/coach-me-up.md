@@ -2,7 +2,7 @@
 name: Coach Me Up!
 url: "https://coachmeup.ai"
 image: /logos/coach-me-up.png
-screenshot: /screens/coach-me-up.jpg
+screenshot: /screens/coach-me-up.webp
 subcategory: learn-courses
 pricing: freemium
 tagline: AI Career Coach is a 24/7 personal AI coach offering tailored support in interview preparation, resume reviews, and career advancement.

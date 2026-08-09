@@ -2,7 +2,7 @@
 name: Folderer
 url: "https://folderer.com"
 image: /logos/folderer.png
-screenshot: /screens/folderer.jpg
+screenshot: /screens/folderer.webp
 subcategory: ai-chat
 pricing: free
 tagline: Folderer is an AI code‑generation platform that integrates with GitHub, automatically committing code that matches existing style and best practices.

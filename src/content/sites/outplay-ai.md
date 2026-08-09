@@ -2,7 +2,7 @@
 name: Outplay AI
 url: "https://outplay.ai"
 image: /logos/outplay-ai.png
-screenshot: /screens/outplay-ai.jpg
+screenshot: /screens/outplay-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Outplay is a sales engagement platform that centralizes multichannel outreach—email, phone, SMS, WhatsApp, video, and chat—with sequence automation, CRM...

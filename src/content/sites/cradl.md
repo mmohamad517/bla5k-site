@@ -2,7 +2,7 @@
 name: Cradl
 url: "https://www.cradl.ai/"
 image: /logos/cradl.png
-screenshot: /screens/cradl.jpg
+screenshot: /screens/cradl.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: Cradl AI automates extraction of structured data from PDFs, images and scanned documents in 150 languages using OCR and LLMs.

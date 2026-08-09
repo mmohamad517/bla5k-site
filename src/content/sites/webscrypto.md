@@ -2,7 +2,7 @@
 name: WebsCrypto
 url: "https://webscrypto.com"
 image: /logos/webscrypto.png
-screenshot: /screens/webscrypto.jpg
+screenshot: /screens/webscrypto.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: WebsCrypto offers real‑time cryptocurrency news, price data, and analysis for Bitcoin, Ethereum, and altcoins.

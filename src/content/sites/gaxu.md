@@ -2,7 +2,7 @@
 name: Gaxu
 url: "https://gaxu.swai.ai/chat/UvXYuCYQdDW5kmic3yJxio4ITUBZ04Ju"
 image: /logos/gaxu.png
-screenshot: /screens/gaxu.jpg
+screenshot: /screens/gaxu.webp
 subcategory: ai-chat
 pricing: free
 tagline: Meet gaxu, your AI marketing assistant, always on standby to provide insights, competitive analysis, keyword extraction, and quick summarization of content.

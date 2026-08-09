@@ -2,7 +2,7 @@
 name: instapg.es
 url: "https://instapg.es"
 image: /logos/instapg-es.png
-screenshot: /screens/instapg-es.jpg
+screenshot: /screens/instapg-es.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Instapage builds conversion-optimized, mobile-responsive landing pages for social ads using a drag-and-drop editor and templates, with personalization,...

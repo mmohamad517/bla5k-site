@@ -2,7 +2,7 @@
 name: Truffle.bot
 url: "https://truffle.bot/"
 image: /logos/truffle-bot.png
-screenshot: /screens/truffle-bot.jpg
+screenshot: /screens/truffle-bot.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Truffle automatically extracts and summarizes key information from Slack conversations, storing it in a searchable knowledge base.

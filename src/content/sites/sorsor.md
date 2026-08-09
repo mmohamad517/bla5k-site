@@ -2,7 +2,7 @@
 name: SorSor
 url: "https://sorsor.org"
 image: /logos/sorsor.png
-screenshot: /screens/sorsor.jpg
+screenshot: /screens/sorsor.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Learnity is an AI‑driven educational assistant for math and science.

@@ -2,7 +2,7 @@
 name: WeInvest
 url: "https://weinvest.money"
 image: /logos/weinvest.png
-screenshot: /screens/weinvest.jpg
+screenshot: /screens/weinvest.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: WeInvest is an AI‑driven crypto platform featuring a multi‑agent dashboard for real‑time market analysis and automated decisions.

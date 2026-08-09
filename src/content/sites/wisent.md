@@ -2,7 +2,7 @@
 name: Wisent
 url: "https://www.wisent.ai"
 image: /logos/wisent.png
-screenshot: /screens/wisent.jpg
+screenshot: /screens/wisent.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Wisent is an AI engineering platform that enables users to create personalized AI agents quickly, refine their traits, and ensure accurate responses.

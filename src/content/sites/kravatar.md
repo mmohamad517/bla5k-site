@@ -2,7 +2,7 @@
 name: Kravatar
 url: "https://kravatar.com"
 image: /logos/kravatar.png
-screenshot: /screens/kravatar.jpg
+screenshot: /screens/kravatar.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Kravatar generates high‑resolution custom avatars in seconds for gamers, streamers, and professionals.

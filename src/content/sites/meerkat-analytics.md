@@ -2,7 +2,7 @@
 name: meerkat analytics
 url: "https://meerkat.ch"
 image: /logos/meerkat-analytics.png
-screenshot: /screens/meerkat-analytics.jpg
+screenshot: /screens/meerkat-analytics.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Meerkat Analytics aggregates Shopify store data into visual dashboards, segmenting customers and attributing sales to precise touchpoints.

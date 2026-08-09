@@ -2,7 +2,7 @@
 name: Ai book writer
 url: "https://www.aibookwriter.org"
 image: /logos/ai-book-writer.png
-screenshot: /screens/ai-book-writer.jpg
+screenshot: /screens/ai-book-writer.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: AI Book Writer automates full manuscript creation, cover design, and formatting in minutes.

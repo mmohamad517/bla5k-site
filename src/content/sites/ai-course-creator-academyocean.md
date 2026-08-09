@@ -2,7 +2,7 @@
 name: AI Course Creator - AcademyOcean
 url: "https://academyocean.com/ai-course-creator"
 image: /logos/ai-course-creator-academyocean.png
-screenshot: /screens/ai-course-creator-academyocean.jpg
+screenshot: /screens/ai-course-creator-academyocean.webp
 subcategory: ai-image
 pricing: paid
 tagline: AI Course Creator auto‑generates structured courses, lessons, quizzes, multimedia, and certificates in multiple languages, adapting to varied learning styles.

@@ -2,7 +2,7 @@
 name: Kamara
 url: "https://kamaraapp.com/"
 image: /logos/kamara.png
-screenshot: /screens/kamara.jpg
+screenshot: /screens/kamara.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Kamara AI integrates into GitHub, delivering contextual code analysis, automated reviews, bug detection, performance and security checks, and auto‑generates...

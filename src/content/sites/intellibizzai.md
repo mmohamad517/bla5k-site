@@ -2,7 +2,7 @@
 name: IntellibizzAI
 url: "https://intellibizzai.com"
 image: /logos/intellibizzai.png
-screenshot: /screens/intellibizzai.jpg
+screenshot: /screens/intellibizzai.webp
 subcategory: ai-writing
 pricing: paid
 tagline: IntellibizzAI is an AI‑assisted branding platform that defines brand identity, builds conversion‑optimized websites, and supplies a structured content...

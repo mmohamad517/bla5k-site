@@ -2,7 +2,7 @@
 name: onSpark
 url: "http://www.onspark.com"
 image: /logos/onspark.png
-screenshot: /screens/onspark.jpg
+screenshot: /screens/onspark.webp
 subcategory: fin-fintech
 pricing: paid
 tagline: OnSpark is an AI partnership platform that matches founders, creators, and brands with ideal collaborators using voice-guided intake and smart scoring.

@@ -2,7 +2,7 @@
 name: Heatseeker
 url: "https://www.heatseeker.ai/"
 image: /logos/heatseeker.png
-screenshot: /screens/heatseeker.jpg
+screenshot: /screens/heatseeker.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Heatseeker automates live ad experiments, replacing surveys with real‑buyer testing.

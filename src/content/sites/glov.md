@@ -2,7 +2,7 @@
 name: Glov
 url: "https://www.glov.ai"
 image: /logos/glov.png
-screenshot: /screens/glov.jpg
+screenshot: /screens/glov.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Glov enables companies to build AI‑driven products that boost growth, offering conversational commerce, proactive recommendation engines, and expert...

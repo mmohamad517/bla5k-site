@@ -2,7 +2,7 @@
 name: UberCreate
 url: "https://www.askeygeek.com/ubercreate/"
 image: /logos/ubercreate.png
-screenshot: /screens/ubercreate.jpg
+screenshot: /screens/ubercreate.webp
 subcategory: ai-writing
 pricing: paid
 tagline: UberCreate combines GPT‑4, Claude 3, Gemini Pro and image engines to generate articles, code, PDFs, videos, and more from text or images.

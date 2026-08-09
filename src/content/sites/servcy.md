@@ -2,7 +2,7 @@
 name: Servcy
 url: "https://servcy.com"
 image: /logos/servcy.png
-screenshot: /screens/servcy.jpg
+screenshot: /screens/servcy.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Servcy is an AI-powered business optimization tool that consolidates tasks, emails, and documents, prioritizes messages, and answers queries.

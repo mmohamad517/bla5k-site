@@ -2,7 +2,7 @@
 name: Atomic Chat
 url: "https://atomic.chat/"
 image: /logos/atomic-chat.png
-screenshot: /screens/atomic-chat.jpg
+screenshot: /screens/atomic-chat.webp
 subcategory: ai-chat
 pricing: free
 tagline: Atomic Chat is a fully offline, on-device AI chat app for macOS, Windows, Linux, iOS, and Android that runs 1,000+ LLMs locally with built-in agent support,...

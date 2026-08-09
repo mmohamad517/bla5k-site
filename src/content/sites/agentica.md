@@ -2,7 +2,7 @@
 name: Agentica
 url: "https://agentica.genlabs.dev/"
 image: /logos/agentica.png
-screenshot: /screens/agentica.jpg
+screenshot: /screens/agentica.webp
 subcategory: ai-chat
 pricing: free
 tagline: agentica is an open-source AI coding assistant and IDE offering code completion, generation, debugging, review, and PR workflows.

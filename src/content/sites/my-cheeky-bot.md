@@ -2,7 +2,7 @@
 name: My Cheeky Bot
 url: "https://www.mycheekybot.com"
 image: /logos/my-cheeky-bot.png
-screenshot: /screens/my-cheeky-bot.jpg
+screenshot: /screens/my-cheeky-bot.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Cheeky Bot enables businesses to create and deploy custom GPT-based chatbots for automated customer engagement and lead generation.

@@ -2,7 +2,7 @@
 name: LeadFlux AI
 url: "https://skillotaproducts.com/leadflux"
 image: /logos/leadflux-ai.png
-screenshot: /screens/leadflux-ai.jpg
+screenshot: /screens/leadflux-ai.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: LeadFlux AI is an automated lead generation platform that builds targeted campaigns from ICP to outreach.

@@ -2,7 +2,7 @@
 name: PDFCandy PDF Editor
 url: "https://pdfcandy.com/edit-pdf.html"
 image: /logos/pdfcandy-pdf-editor.png
-screenshot: /screens/pdfcandy-pdf-editor.jpg
+screenshot: /screens/pdfcandy-pdf-editor.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: PDF Candy is an online tool for managing PDF files, offering conversion, merging, splitting, editing, compression, and extraction of content.

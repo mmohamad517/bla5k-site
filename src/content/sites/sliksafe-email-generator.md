@@ -2,7 +2,7 @@
 name: SlikSafe Email Generator
 url: "https://www.sliksafe.com/tools/ai-email-generator"
 image: /logos/sliksafe-email-generator.png
-screenshot: /screens/sliksafe-email-generator.jpg
+screenshot: /screens/sliksafe-email-generator.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: AI Email Generator by Slik Safe streamlines email creation by using natural language processing to generate customized, grammatically correct emails.

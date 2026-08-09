@@ -2,7 +2,7 @@
 name: Openfang.sh
 url: "https://www.openfang.sh/"
 image: /logos/openfang-sh.png
-screenshot: /screens/openfang-sh.jpg
+screenshot: /screens/openfang-sh.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: OpenFang.sh is an open-source agent operating system that orchestrates autonomous AI agents and capability packages across macOS, Linux, and Windows.

@@ -2,7 +2,7 @@
 name: socialconnector.io
 url: "https://socialconnector.io"
 image: /logos/socialconnector-io.png
-screenshot: /screens/socialconnector-io.jpg
+screenshot: /screens/socialconnector-io.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Social Connector is an engagement marketing tool that enhances customer interactions through an omni-channel rewards system.

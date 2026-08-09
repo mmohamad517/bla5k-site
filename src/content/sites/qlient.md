@@ -2,7 +2,7 @@
 name: Qlient
 url: "https://www.qlient.ai/"
 image: /logos/qlient.png
-screenshot: /screens/qlient.jpg
+screenshot: /screens/qlient.webp
 subcategory: nc-automation
 pricing: paid
 tagline: "Qlient AI: Revolutionary 24/7 call intake system with lifelike voices."

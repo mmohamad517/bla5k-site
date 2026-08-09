@@ -2,7 +2,7 @@
 name: Convictional
 url: "https://get.convictional.com"
 image: /logos/get-convictional-com.png
-screenshot: /screens/get-convictional-com.jpg
+screenshot: /screens/get-convictional-com.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Handbook-as-code platform storing company policies in the codebase with git-based versioning, pull-request workflows, and audit trails; enables public...

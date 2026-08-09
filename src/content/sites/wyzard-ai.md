@@ -2,7 +2,7 @@
 name: Wyzard.ai
 url: "https://wyzard.ai"
 image: /logos/wyzard-ai.png
-screenshot: /screens/wyzard-ai.jpg
+screenshot: /screens/wyzard-ai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Wyzard.ai enhances inbound marketing by utilizing AI-driven agents to engage website visitors and convert them into leads.

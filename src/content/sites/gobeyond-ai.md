@@ -2,7 +2,7 @@
 name: gobeyond.ai
 url: "https://gobeyond.ai"
 image: /logos/gobeyond-ai.png
-screenshot: /screens/gobeyond-ai.jpg
+screenshot: /screens/gobeyond-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: GoBeyond AI Co-Pilot combines social media data and AI psychometrics to create personalized messages for improved audience engagement and conversion rates.

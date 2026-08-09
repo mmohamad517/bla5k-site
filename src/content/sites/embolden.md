@@ -2,7 +2,7 @@
 name: Embolden
 url: "https://www.embolden.co/?via=topaitools"
 image: /logos/embolden.png
-screenshot: /screens/embolden.jpg
+screenshot: /screens/embolden.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Embolden is an AI writing platform tailored for e‑commerce.

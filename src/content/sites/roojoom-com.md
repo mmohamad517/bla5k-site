@@ -2,7 +2,7 @@
 name: Roojoom.com
 url: "https://roojoom.com"
 image: /logos/roojoom-com.png
-screenshot: /screens/roojoom-com.jpg
+screenshot: /screens/roojoom-com.webp
 subcategory: mkt-social
 pricing: free
 tagline: Roojoom offers AI‑powered customer journey orchestration that adapts in real time across web, mobile, and voice.

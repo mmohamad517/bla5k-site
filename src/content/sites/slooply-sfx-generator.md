@@ -2,7 +2,7 @@
 name: Slooply SFX Generator
 url: "https://slooply.com/ai/sound-effect"
 image: /logos/slooply-sfx-generator.png
-screenshot: /screens/slooply-sfx-generator.jpg
+screenshot: /screens/slooply-sfx-generator.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Slooply SFX Generator is a text‑to‑sound effect AI that creates custom, royalty‑free audio for games, films, and music.

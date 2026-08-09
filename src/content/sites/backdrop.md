@@ -2,7 +2,7 @@
 name: Backdrop
 url: "https://www.backdropagent.com/"
 image: /logos/backdrop.png
-screenshot: /screens/backdrop.jpg
+screenshot: /screens/backdrop.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Backdrop automates accounts payable for corporate and project teams by extracting invoices from email, categorizing them, matching to purchase orders, and...

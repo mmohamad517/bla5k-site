@@ -2,7 +2,7 @@
 name: brandwell.ai
 url: "https://brandwell.ai"
 image: /logos/brandwell-ai.png
-screenshot: /screens/brandwell-ai.jpg
+screenshot: /screens/brandwell-ai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: BrandWell is an intent-led GTM platform combining intent data, visitor identification, ABM audience management, contact enrichment, ad sync, programmatic...

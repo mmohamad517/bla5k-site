@@ -2,7 +2,7 @@
 name: Behavly
 url: "https://www.behavly.com/"
 image: /logos/behavly.png
-screenshot: /screens/behavly.jpg
+screenshot: /screens/behavly.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Behavly analyzes website content, design, and user flow to provide data‑driven suggestions for headlines, CTAs, visual consistency, copy, button colors,...

@@ -2,7 +2,7 @@
 name: Peoplexbot
 url: "https://www.peoplexbot.com/"
 image: /logos/peoplexbot.png
-screenshot: /screens/peoplexbot.jpg
+screenshot: /screens/peoplexbot.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: PeoplexBot offers AI‑driven HR consulting for small companies, building policy frameworks, onboarding, performance and compensation plans.

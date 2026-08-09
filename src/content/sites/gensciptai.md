@@ -2,7 +2,7 @@
 name: GenSciptAI
 url: "http://genscriptai.com"
 image: /logos/gensciptai.png
-screenshot: /screens/gensciptai.jpg
+screenshot: /screens/gensciptai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: GenScript AI is a platform for the media and entertainment industry that generates original, plagiarism-free scripts while ensuring copyright clearance and...

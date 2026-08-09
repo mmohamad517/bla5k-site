@@ -2,7 +2,7 @@
 name: AirPrompt
 url: "https://airprompt.ai"
 image: /logos/airprompt.png
-screenshot: /screens/airprompt.jpg
+screenshot: /screens/airprompt.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Airprompt simplifies AI prompt creation and sharing with user-friendly forms.

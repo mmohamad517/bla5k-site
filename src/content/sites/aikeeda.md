@@ -2,7 +2,7 @@
 name: AIkeeda
 url: "https://www.aikeeda.com/register?aff=NA0VKOGNPXZT"
 image: /logos/aikeeda.png
-screenshot: /screens/aikeeda.jpg
+screenshot: /screens/aikeeda.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Aikeeda is an all-in-one AI platform that revolutionizes content creation and boosts productivity by providing AI text, image, code, and chatbot generation...

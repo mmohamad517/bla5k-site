@@ -2,7 +2,7 @@
 name: MindForest
 url: "https://mindforest.ai/"
 image: /logos/mindforest.png
-screenshot: /screens/mindforest.jpg
+screenshot: /screens/mindforest.webp
 subcategory: learn-courses
 pricing: paid
 tagline: MindForest offers 24/7 AI mental‑wellness coaching, emotion‑processing prompts, psychometric assessments, and personalized action plans.

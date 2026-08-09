@@ -2,7 +2,7 @@
 name: MindMac
 url: "https://mindmac.app/"
 image: /logos/mindmac.png
-screenshot: /screens/mindmac.jpg
+screenshot: /screens/mindmac.webp
 subcategory: ai-chat
 pricing: paid
 tagline: MindMac is a native macOS client that integrates ChatGPT, Azure OpenAI, Gemini, and Claude on the desktop.

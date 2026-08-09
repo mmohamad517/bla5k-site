@@ -2,7 +2,7 @@
 name: Ask Elle
 url: "https://www.askelle.me"
 image: /logos/ask-elle.png
-screenshot: /screens/ask-elle.jpg
+screenshot: /screens/ask-elle.webp
 subcategory: ai-image
 pricing: freemium
 tagline: AskElle is a conversational AI for iOS that gives instant dating advice via voice‑enabled avatar chat, covering topics like asking out, breakups, and charisma.

@@ -2,7 +2,7 @@
 name: Gallabox
 url: "https://gallabox.com"
 image: /logos/gallabox.png
-screenshot: /screens/gallabox.jpg
+screenshot: /screens/gallabox.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Gallabox is a conversational AI platform for WhatsApp that automates customer interactions.

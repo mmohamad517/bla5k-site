@@ -2,7 +2,7 @@
 name: Dropy AI
 url: "https://www.dropy.ai/"
 image: /logos/dropy-ai.png
-screenshot: /screens/dropy-ai.jpg
+screenshot: /screens/dropy-ai.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Dropy.AI automates dropshipping by curating winning products, offering one‑click Shopify imports, and integrating Zendrop and AliExpress.

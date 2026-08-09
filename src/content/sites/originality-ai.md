@@ -2,7 +2,7 @@
 name: Originality.AI
 url: "https://originality.ai/?lmref=J0mDUA"
 image: /logos/originality-ai.png
-screenshot: /screens/originality-ai.jpg
+screenshot: /screens/originality-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Originality.ai evaluates text for AI generation, plagiarism, factual accuracy, readability, grammar, and SEO.

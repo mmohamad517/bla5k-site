@@ -2,7 +2,7 @@
 name: Officely AI
 url: "https://officely.ai"
 image: /logos/officely-ai.png
-screenshot: /screens/officely-ai.jpg
+screenshot: /screens/officely-ai.webp
 subcategory: nc-builders
 pricing: paid
 tagline: Officely AI is a low-code platform that enables users to create and manage AI workflows tailored to organizational needs, providing full control over AI...

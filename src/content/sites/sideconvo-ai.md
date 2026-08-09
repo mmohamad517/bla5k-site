@@ -2,7 +2,7 @@
 name: Sideconvo.ai
 url: "https://www.sideconvo.ai"
 image: /logos/sideconvo-ai.png
-screenshot: /screens/sideconvo-ai.jpg
+screenshot: /screens/sideconvo-ai.webp
 subcategory: nc-builders
 pricing: paid
 tagline: Sideconvo.ai is an AI-powered plugin that acts as a 24/7 virtual assistant for your website.

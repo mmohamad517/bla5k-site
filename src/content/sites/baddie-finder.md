@@ -2,7 +2,7 @@
 name: Baddie Finder
 url: "https://baddiefinder.com"
 image: /logos/baddie-finder.png
-screenshot: /screens/baddie-finder.jpg
+screenshot: /screens/baddie-finder.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Baddie Finder automates Tinder and Bumble swipes by evaluating profile photos with an AI model.

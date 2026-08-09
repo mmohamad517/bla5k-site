@@ -2,7 +2,7 @@
 name: Dext
 url: "https://dext.com/"
 image: /logos/dext-com.png
-screenshot: /screens/dext-com.jpg
+screenshot: /screens/dext-com.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Dext automates receipt and invoice capture for small businesses and accountants, using AI to extract and categorize line-item data, sync transactions with...

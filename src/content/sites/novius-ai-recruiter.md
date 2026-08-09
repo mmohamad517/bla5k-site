@@ -2,7 +2,7 @@
 name: Novius AI Recruiter
 url: "https://www.novius.ai"
 image: /logos/novius-ai-recruiter.png
-screenshot: /screens/novius-ai-recruiter.jpg
+screenshot: /screens/novius-ai-recruiter.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Novius is a recruitment automation tool that streamlines hiring by creating job descriptions, providing advanced candidate matching, and offering seamless...

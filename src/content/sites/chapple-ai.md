@@ -2,7 +2,7 @@
 name: Chapple.ai
 url: "https://chapple.ai/"
 image: /logos/chapple-ai.png
-screenshot: /screens/chapple-ai.jpg
+screenshot: /screens/chapple-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Chapple is an advanced platform that offers AI-driven tools for marketers, developers, and creative individuals, aiming to enhance efficiency, boost...

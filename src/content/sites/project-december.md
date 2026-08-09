@@ -2,7 +2,7 @@
 name: Project December
 url: "https://projectdecember.net"
 image: /logos/project-december.png
-screenshot: /screens/project-december.jpg
+screenshot: /screens/project-december.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Project December is an AI tool that creates immersive text conversations with both living and deceased individuals, providing a distinctive and captivating...

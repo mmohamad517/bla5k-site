@@ -2,7 +2,7 @@
 name: ASCN.AI
 url: "https://ascn.ai/"
 image: /logos/ascn-ai.png
-screenshot: /screens/ascn-ai.jpg
+screenshot: /screens/ascn-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Ascn.ai is a no-code platform for creating custom AI agents and automating crypto workflows.

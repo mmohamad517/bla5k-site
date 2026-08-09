@@ -2,7 +2,7 @@
 name: DepthFlow
 url: "https://depthflow.io/"
 image: /logos/depthflow-io.png
-screenshot: /screens/depthflow-io.jpg
+screenshot: /screens/depthflow-io.webp
 subcategory: design-3d
 pricing: paid
 tagline: depthflow.io is an AI platform that transforms 2D images into volumetric 3D scenes and motion videos.

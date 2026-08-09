@@ -2,7 +2,7 @@
 name: Cinnamon.ai
 url: "https://cinnamon.ai"
 image: /logos/cinnamon-ai.png
-screenshot: /screens/cinnamon-ai.jpg
+screenshot: /screens/cinnamon-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Cinnamon AI is a document platform that uses Flax Scanner OCR without manual templates, integrates RAG for instant, context‑aware queries, and supports...

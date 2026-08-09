@@ -2,7 +2,7 @@
 name: Beamcast
 url: "https://beamcast.app"
 image: /logos/beamcast.png
-screenshot: /screens/beamcast.jpg
+screenshot: /screens/beamcast.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Beamcast is a browser extension that lets users run AI commands on any website.

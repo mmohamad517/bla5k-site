@@ -2,7 +2,7 @@
 name: Strama
 url: "https://strama.ai"
 image: /logos/strama.png
-screenshot: /screens/strama.jpg
+screenshot: /screens/strama.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Strama is a sales outreach tool that streamlines prospecting by generating personalized messages based on LinkedIn profiles.

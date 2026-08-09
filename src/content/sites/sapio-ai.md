@@ -2,7 +2,7 @@
 name: Sapio AI
 url: "https://sapioai.net/"
 image: /logos/sapio-ai.png
-screenshot: /screens/sapio-ai.jpg
+screenshot: /screens/sapio-ai.webp
 subcategory: learn-courses
 pricing: free
 tagline: Sapio AI is an AI‑powered coaching platform offering 25+ conversation scenarios in 10 languages.

@@ -2,7 +2,7 @@
 name: Generate Proposal
 url: "https://generateproposal.com"
 image: /logos/generate-proposal.png
-screenshot: /screens/generate-proposal.jpg
+screenshot: /screens/generate-proposal.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Chrome extension that auto‑generates proposals by parsing job posts and user instructions.

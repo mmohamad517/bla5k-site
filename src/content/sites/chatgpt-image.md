@@ -2,7 +2,7 @@
 name: ChatGPT Images
 url: "https://chatgpt.com/images"
 image: /logos/chatgpt-image.png
-screenshot: /screens/chatgpt-image.jpg
+screenshot: /screens/chatgpt-image.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: OpenAI’s ChatGPT Images, powered by GPT Image 1.5, elevates creative workflows by offering rapid, precise image generation and editing directly within ChatGPT.

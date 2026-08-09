@@ -2,7 +2,7 @@
 name: CyberSeal AI
 url: "https://www.cyberseal.ai"
 image: /logos/cyberseal-ai.png
-screenshot: /screens/cyberseal-ai.jpg
+screenshot: /screens/cyberseal-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: CyberSeal AI is an advanced anti-cheating solution that detects AI-generated cheating methods like deepfakes and voice synthesis.

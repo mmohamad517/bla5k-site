@@ -2,7 +2,7 @@
 name: Upass
 url: "https://upass.ai"
 image: /logos/upass.png
-screenshot: /screens/upass.jpg
+screenshot: /screens/upass.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: uPass AI rewrites AI‑generated content to lower detection scores from Turnitin, GPTZero, and Copyleaks.

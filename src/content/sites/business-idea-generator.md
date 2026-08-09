@@ -2,7 +2,7 @@
 name: Business Idea Generator
 url: "https://www.bizideas.ai/"
 image: /logos/business-idea-generator.png
-screenshot: /screens/business-idea-generator.jpg
+screenshot: /screens/business-idea-generator.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Kocobe is an AI-powered tool that generates business ideas quickly and provides a range of options in seconds.

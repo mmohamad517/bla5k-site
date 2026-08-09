@@ -2,7 +2,7 @@
 name: Productlane
 url: "https://productlane.com"
 image: /logos/productlane.png
-screenshot: /screens/productlane.jpg
+screenshot: /screens/productlane.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Productlane is a customer support feedback system that centralizes communication across multiple channels, prioritizes user feedback, and provides a public...

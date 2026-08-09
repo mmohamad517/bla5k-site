@@ -2,7 +2,7 @@
 name: Client Hub
 url: "https://clienthub.app"
 image: /logos/client-hub.png
-screenshot: /screens/client-hub.jpg
+screenshot: /screens/client-hub.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Client Hub streamlines accounting practice management with task automation, a client portal, and document exchange.

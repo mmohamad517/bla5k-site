@@ -2,7 +2,7 @@
 name: RGX Tools
 url: "https://rgx.tools/"
 image: /logos/rgx-tools.png
-screenshot: /screens/rgx-tools.jpg
+screenshot: /screens/rgx-tools.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: rgx.tools uses GPT‑3.5‑Turbo to translate natural‑language prompts into readable regular expressions, providing code snippets for JavaScript, Python, Java,...

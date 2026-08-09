@@ -2,7 +2,7 @@
 name: Botowski
 url: "https://www.botowski.com/"
 image: /logos/botowski.png
-screenshot: /screens/botowski.jpg
+screenshot: /screens/botowski.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Botowski generates original articles, product descriptions, emails, slogans, and more from a simple topic prompt.

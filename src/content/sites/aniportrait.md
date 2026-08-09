@@ -2,7 +2,7 @@
 name: AniPortrait
 url: "https://github.com/Zejun-Yang/AniPortrait"
 image: /logos/aniportrait.png
-screenshot: /screens/aniportrait.jpg
+screenshot: /screens/aniportrait.webp
 subcategory: ai-image
 pricing: free
 tagline: AniPortrait is a framework for generating high-quality animations driven by audio and reference portrait images.

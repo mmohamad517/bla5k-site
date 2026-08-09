@@ -2,7 +2,7 @@
 name: VoiceDrop
 url: "https://www.voicedrop.ai/"
 image: /logos/voicedrop.png
-screenshot: /screens/voicedrop.jpg
+screenshot: /screens/voicedrop.webp
 subcategory: ai-chat
 pricing: paid
 tagline: VoiceDrop delivers ringless voicemail using AI voice cloning from a short sample.

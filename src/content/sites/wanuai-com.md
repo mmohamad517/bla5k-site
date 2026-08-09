@@ -2,7 +2,7 @@
 name: Wanuai
 url: "https://wanuai.com"
 image: /logos/wanuai-com.png
-screenshot: /screens/wanuai-com.jpg
+screenshot: /screens/wanuai-com.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: WanuAI is a content generation platform combining AI chat, image and code generation, SEO and metadata tools, 72+ templates, multilingual plagiarism-free...

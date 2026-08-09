@@ -2,7 +2,7 @@
 name: ChatTube
 url: "https://chattube.io/"
 image: /logos/chattube.png
-screenshot: /screens/chattube.jpg
+screenshot: /screens/chattube.webp
 subcategory: ai-chat
 pricing: paid
 tagline: ChatTube lets users converse in real‑time with any YouTube video, asking questions, summarizing content, locating key moments, translating, and generating...

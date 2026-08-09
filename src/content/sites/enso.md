@@ -2,7 +2,7 @@
 name: enso
 url: "https://enso.bot"
 image: /logos/enso.png
-screenshot: /screens/enso.jpg
+screenshot: /screens/enso.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Enso automates business workflows with AI agents that run continuously, bundling 5–8 agents for tasks such as content creation, lead qualification, and...

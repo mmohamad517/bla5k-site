@@ -2,7 +2,7 @@
 name: Blueprint
 url: "https://scopeblueprint.com"
 image: /logos/blueprint.png
-screenshot: /screens/blueprint.jpg
+screenshot: /screens/blueprint.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Blueprint is an AI-based scope management tool that helps project teams define, track, and manage project requirements effectively.

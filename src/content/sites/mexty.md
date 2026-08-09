@@ -2,7 +2,7 @@
 name: Mexty
 url: "https://mexty.ai/"
 image: /logos/mexty.png
-screenshot: /screens/mexty.jpg
+screenshot: /screens/mexty.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Mexty is an AI-powered platform for creating interactive and personalized learning content, including courses, quizzes, and assessments.

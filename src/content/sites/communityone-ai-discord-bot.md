@@ -2,7 +2,7 @@
 name: CommunityOne AI Discord Bot
 url: "https://communityone.io/"
 image: /logos/communityone-ai-discord-bot.png
-screenshot: /screens/communityone-ai-discord-bot.jpg
+screenshot: /screens/communityone-ai-discord-bot.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: CommunityOne is a Discord AI bot that enhances community engagement through analytics tracking, a knowledge-based chatbot, personalized quests, growth...

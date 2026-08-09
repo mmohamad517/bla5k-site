@@ -2,7 +2,7 @@
 name: Creative Score
 url: "https://creativescore.ai"
 image: /logos/creative-score.png
-screenshot: /screens/creative-score.jpg
+screenshot: /screens/creative-score.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Creative Score is an AI tool that analyzes marketing creatives, identifying weaknesses and predicting performance using scientific principles.

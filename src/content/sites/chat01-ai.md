@@ -2,7 +2,7 @@
 name: Chat01.ai
 url: "https://chat01.ai/en"
 image: /logos/chat01-ai.png
-screenshot: /screens/chat01-ai.jpg
+screenshot: /screens/chat01-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Chat01.ai is an AI conversational tool leveraging OpenAI's models, enabling users to tackle complex problems across science, coding, and mathematics.

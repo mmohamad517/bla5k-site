@@ -2,7 +2,7 @@
 name: WAlink
 url: "https://link.wadesk.io"
 image: /logos/walink.png
-screenshot: /screens/walink.jpg
+screenshot: /screens/walink.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: WAlink is a WhatsApp link generator that creates click-to-chat links and QR codes with pre-filled messages for marketing and lead capture.

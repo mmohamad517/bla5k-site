@@ -2,7 +2,7 @@
 name: Rhythmic
 url: "https://gorhythmic.com"
 image: /logos/rhythmic.png
-screenshot: /screens/rhythmic.jpg
+screenshot: /screens/rhythmic.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Rhythmic is an AI-driven product management tool that enhances team collaboration, automates workflows, and generates accurate project estimates.

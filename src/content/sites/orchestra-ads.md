@@ -2,7 +2,7 @@
 name: Orchestra Ads
 url: "https://www.orchestra-ads.ai"
 image: /logos/orchestra-ads.png
-screenshot: /screens/orchestra-ads.jpg
+screenshot: /screens/orchestra-ads.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Orchestra Ads is an AI marketing platform that unifies strategy, content, email, ads, and SEO into a single workflow, analyzing your website to generate...

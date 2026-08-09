@@ -2,7 +2,7 @@
 name: papermerge.com
 url: "https://papermerge.com"
 image: /logos/papermerge-com.png
-screenshot: /screens/papermerge-com.jpg
+screenshot: /screens/papermerge-com.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Papermerge DMS is open‑source document management storing, indexing, and searching PDFs, JPEGs, TIFFs.

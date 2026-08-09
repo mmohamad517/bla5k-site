@@ -2,7 +2,7 @@
 name: Flowise
 url: "https://flowiseai.com/"
 image: /logos/flowise.png
-screenshot: /screens/flowise.jpg
+screenshot: /screens/flowise.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Flowise lets teams build AI agents and conversational systems via a visual drag‑and‑drop editor powered by LangChain.

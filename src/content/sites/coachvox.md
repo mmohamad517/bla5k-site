@@ -2,7 +2,7 @@
 name: Coachvox
 url: "https://coachvox.ai/"
 image: /logos/coachvox.png
-screenshot: /screens/coachvox.jpg
+screenshot: /screens/coachvox.webp
 subcategory: learn-courses
 pricing: paid
 tagline: Coachvox delivers a 24/7 conversational AI that mirrors a coach’s unique style.

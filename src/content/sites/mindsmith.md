@@ -2,7 +2,7 @@
 name: MindSmith
 url: "https://www.mindsmith.ai/"
 image: /logos/mindsmith.png
-screenshot: /screens/mindsmith.jpg
+screenshot: /screens/mindsmith.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Mindsmith is an AI-powered tool that simplifies instructional processes by generating high-quality on-demand learning content, providing a user-friendly...

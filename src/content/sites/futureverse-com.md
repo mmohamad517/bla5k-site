@@ -2,7 +2,7 @@
 name: Futureverse.com
 url: "https://futureverse.com"
 image: /logos/futureverse-com.png
-screenshot: /screens/futureverse-com.jpg
+screenshot: /screens/futureverse-com.webp
 subcategory: nc-builders
 pricing: paid
 tagline: Futureverse offers a platform for developing scalable metaverse applications with tools for user onboarding, 3D asset creation, payment integration, and...

@@ -2,7 +2,7 @@
 name: Regex.ai
 url: "https://regex.ai/"
 image: /logos/regex-ai.png
-screenshot: /screens/regex-ai.jpg
+screenshot: /screens/regex-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Regex.ai generates regular expression patterns from highlighted text snippets, offering syntax validation and instant matching feedback.

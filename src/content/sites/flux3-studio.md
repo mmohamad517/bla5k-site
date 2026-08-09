@@ -2,7 +2,7 @@
 name: Flux3.studio
 url: "https://flux3.studio/"
 image: /logos/flux3-studio.png
-screenshot: /screens/flux3-studio.jpg
+screenshot: /screens/flux3-studio.webp
 subcategory: ai-image
 pricing: paid
 tagline: flux3.studio is an all-in-one AI studio for generating and editing images and video with synchronized audio, using structured visual briefs to maintain...

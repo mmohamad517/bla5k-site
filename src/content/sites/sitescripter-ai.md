@@ -2,7 +2,7 @@
 name: SiteScripter AI
 url: "https://www.sitescripter.co/"
 image: /logos/sitescripter-ai.png
-screenshot: /screens/sitescripter-ai.jpg
+screenshot: /screens/sitescripter-ai.webp
 subcategory: nc-automation
 pricing: paid
 tagline: SiteScripter AI is a Chrome extension that automates web tasks—auto‑filling forms, summarizing pages, and providing a chat interface.

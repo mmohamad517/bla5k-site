@@ -2,7 +2,7 @@
 name: Sommel-ai
 url: "https://www.sommel-ai.app"
 image: /logos/sommel-ai.png
-screenshot: /screens/sommel-ai.jpg
+screenshot: /screens/sommel-ai.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Sommel‑ai analyzes menu or dish photos to extract ingredients and suggest wine pairings.

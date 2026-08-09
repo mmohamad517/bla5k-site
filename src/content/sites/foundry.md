@@ -2,7 +2,7 @@
 name: Foundry
 url: "https://www.thefoundryai.com"
 image: /logos/foundry.png
-screenshot: /screens/foundry.jpg
+screenshot: /screens/foundry.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Foundry AI enables users to create AI agents using simple prompts, combining automation with human oversight.

@@ -2,7 +2,7 @@
 name: Meet Alfred
 url: "https://meetalfred.com"
 image: /logos/meet-alfred.png
-screenshot: /screens/meet-alfred.jpg
+screenshot: /screens/meet-alfred.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Meet Alfred is a LinkedIn automation tool that facilitates multi-channel outreach with features like automated messaging, AI-driven lead finding, a...

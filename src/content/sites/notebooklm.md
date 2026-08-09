@@ -2,7 +2,7 @@
 name: NotebookLM
 url: https://notebooklm.google.com/
 image: /logos/notebooklm.png
-screenshot: /screens/notebooklm.jpg
+screenshot: /screens/notebooklm.webp
 subcategory: ai-productivity
 pricing: free
 tagline: "Google AI research assistant — upload documents and get answers grounded in YOUR sources."

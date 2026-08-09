@@ -2,7 +2,7 @@
 name: Coffice
 url: "https://expireddomains.com/domain/coffice.chat?utm_source=redi"
 image: /logos/coffice.png
-screenshot: /screens/coffice.jpg
+screenshot: /screens/coffice.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Coffice embeds in Slack to enable real‑time peer recognition by awarding points with tags and reasons.

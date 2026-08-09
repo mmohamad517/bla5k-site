@@ -2,7 +2,7 @@
 name: Happy Oyster AI
 url: "https://www.happyoysterai.net"
 image: /logos/happyoysterai-net.png
-screenshot: /screens/happyoysterai-net.jpg
+screenshot: /screens/happyoysterai-net.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Happy Oyster AI is a real-time AI studio that generates continuous, physics-consistent 3D worlds from text, voice, or images.

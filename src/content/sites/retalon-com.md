@@ -2,7 +2,7 @@
 name: retalon.com
 url: "https://retalon.com"
 image: /logos/retalon-com.png
-screenshot: /screens/retalon-com.jpg
+screenshot: /screens/retalon-com.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: "Retalon: AI tool for retail intelligence, providing predictive analytics from planning to markdowns."

@@ -2,7 +2,7 @@
 name: Reflection 70B
 url: "https://reflection70b.net"
 image: /logos/reflection-70b.png
-screenshot: /screens/reflection-70b.jpg
+screenshot: /screens/reflection-70b.webp
 subcategory: dev-code
 pricing: freemium
 tagline: Reflection 70B is an open‑source 70 B Llama 3.1‑based model that uses real‑time reflection tuning for self‑correction.

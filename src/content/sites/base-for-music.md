@@ -2,7 +2,7 @@
 name: Base for music
 url: "https://www.baseformusic.com"
 image: /logos/base-for-music.png
-screenshot: /screens/base-for-music.jpg
+screenshot: /screens/base-for-music.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Base for Music centralizes marketing data for music entities, delivering real‑time campaign analytics, Spotify popularity scores, and audience profiling.

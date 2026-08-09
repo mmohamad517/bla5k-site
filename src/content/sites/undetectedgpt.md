@@ -2,7 +2,7 @@
 name: UndetectedGPT
 url: "https://www.undetectedgpt.ai"
 image: /logos/undetectedgpt.png
-screenshot: /screens/undetectedgpt.jpg
+screenshot: /screens/undetectedgpt.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: UndetectedGPT is an AI tool that humanizes AI-generated text to bypass detection.

@@ -2,7 +2,7 @@
 name: Xreacher
 url: "https://xreacher.com"
 image: /logos/xreacher.png
-screenshot: /screens/xreacher.jpg
+screenshot: /screens/xreacher.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Xreacher is a Twitter outreach automation tool that enables users to send up to 450 direct messages daily, scrape leads, analyze campaign performance, and...

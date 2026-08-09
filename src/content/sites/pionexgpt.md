@@ -2,7 +2,7 @@
 name: PionexGPT
 url: "https://www.pionex.com"
 image: /logos/pionexgpt.png
-screenshot: /screens/pionexgpt.jpg
+screenshot: /screens/pionexgpt.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: Pionex Trading Bot is an all-inclusive crypto trading platform featuring spot/futures bots, asset conversion, profit-taking tools, risk management, demo...

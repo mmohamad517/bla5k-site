@@ -2,7 +2,7 @@
 name: Virtual Scale
 url: "https://www.virtualscale.com/en/"
 image: /logos/virtual-scale.png
-screenshot: /screens/virtual-scale.jpg
+screenshot: /screens/virtual-scale.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Virtual Scale provides AI-driven virtual teams for multi-channel customer engagement, enabling seamless interactions via voice, chat, and SMS.

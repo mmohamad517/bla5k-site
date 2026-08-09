@@ -2,7 +2,7 @@
 name: VetRec
 url: "https://vetrec.io"
 image: /logos/vetrec.png
-screenshot: /screens/vetrec.jpg
+screenshot: /screens/vetrec.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Vet AI Scribe by VetRec simplifies veterinary documentation with a one-click recording feature, generating SOAP-style notes within 30 seconds.

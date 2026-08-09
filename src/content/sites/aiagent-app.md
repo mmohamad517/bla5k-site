@@ -2,7 +2,7 @@
 name: AiAgent.app
 url: "https://aiagent.app"
 image: /logos/aiagent-app.png
-screenshot: /screens/aiagent-app.jpg
+screenshot: /screens/aiagent-app.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: AI Agent is a web app that allows users to create customized AI agents to perform specific tasks and achieve goals.

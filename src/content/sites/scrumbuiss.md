@@ -2,7 +2,7 @@
 name: Scrumbuiss
 url: "https://www.scrumbuiss.com/"
 image: /logos/scrumbuiss.png
-screenshot: /screens/scrumbuiss.jpg
+screenshot: /screens/scrumbuiss.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Scrumbuiss is an AI-powered project management tool that enhances team collaboration, streamlines workflows, and boosts productivity.

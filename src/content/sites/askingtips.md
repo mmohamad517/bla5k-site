@@ -2,7 +2,7 @@
 name: AskingTips
 url: "https://askingtips.com"
 image: /logos/askingtips.png
-screenshot: /screens/askingtips.jpg
+screenshot: /screens/askingtips.webp
 subcategory: mkt-social
 pricing: free
 tagline: AskingTips is an AI platform for digital marketing and content creation, offering ad copy generation, SEO tools, coding solutions, and writing aids to help...

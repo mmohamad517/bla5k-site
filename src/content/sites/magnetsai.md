@@ -2,7 +2,7 @@
 name: MagnetsAI
 url: "https://magnetsai.com/"
 image: /logos/magnetsai.png
-screenshot: /screens/magnetsai.jpg
+screenshot: /screens/magnetsai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Magnets AI is an AI-powered lead forms tool that provides hyper-personalized content, easy creation and embedding of forms, and lead tracking features.

@@ -2,7 +2,7 @@
 name: AI Animate Image
 url: "https://www.aianimateimage.org/"
 image: /logos/ai-animate-image-org.png
-screenshot: /screens/ai-animate-image-org.jpg
+screenshot: /screens/ai-animate-image-org.webp
 subcategory: ai-image
 pricing: freemium
 tagline: AI Animate Image is an online tool that uses AI to transform static photos into dynamic animations with various styles.

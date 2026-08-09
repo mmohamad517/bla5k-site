@@ -2,7 +2,7 @@
 name: CodeMaker
 url: "https://beta.codemaker.ai"
 image: /logos/beta-codemaker-ai.png
-screenshot: /screens/beta-codemaker-ai.jpg
+screenshot: /screens/beta-codemaker-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: CodeMaker AI provides context-aware code completion and generation using file-level context, plus inline and automated documentation, batch directory-wide...

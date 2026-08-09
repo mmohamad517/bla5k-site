@@ -2,7 +2,7 @@
 name: bestchat.com
 url: "https://bestchat.com"
 image: /logos/bestchat-com.png
-screenshot: /screens/bestchat-com.jpg
+screenshot: /screens/bestchat-com.webp
 subcategory: ai-productivity
 pricing: free
 tagline: BestChat automates support, lead qualification, and product recommendations for Shopify, Wix, and WordPress stores.

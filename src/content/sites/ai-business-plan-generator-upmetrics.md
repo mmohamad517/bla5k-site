@@ -2,7 +2,7 @@
 name: AI Business Plan Generator - Upmetrics
 url: "https://upmetrics.co/business-tools/free-ai-business-plan-generator"
 image: /logos/ai-business-plan-generator-upmetrics.png
-screenshot: /screens/ai-business-plan-generator-upmetrics.jpg
+screenshot: /screens/ai-business-plan-generator-upmetrics.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Upmetrics AI Business Plan Generator simplifies creating business plans in 10 minutes with AI writing and financial assistance, pitch deck generator, and...

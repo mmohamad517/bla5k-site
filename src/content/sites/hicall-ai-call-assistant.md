@@ -2,7 +2,7 @@
 name: "HiCall: AI Call Assistant"
 url: "https://apps.apple.com/us/app/hicall-ai-call-assistant/id6476257066"
 image: /logos/hicall-ai-call-assistant.png
-screenshot: /screens/hicall-ai-call-assistant.jpg
+screenshot: /screens/hicall-ai-call-assistant.webp
 subcategory: nc-automation
 pricing: free
 tagline: Hicall is an AI call assistant that manages missed calls, blocks spam, and filters robotic callers.

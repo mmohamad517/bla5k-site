@@ -2,7 +2,7 @@
 name: Kore.ai
 url: "https://kore.ai/"
 image: /logos/kore-ai.png
-screenshot: /screens/kore-ai.jpg
+screenshot: /screens/kore-ai.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Kore.ai Agent Platform delivers customizable AI agents for banking, healthcare, retail, and other industries.

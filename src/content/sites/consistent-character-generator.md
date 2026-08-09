@@ -2,7 +2,7 @@
 name: Consistent Character Generator
 url: "https://aiconsistentcharacter.com"
 image: /logos/consistent-character-generator.png
-screenshot: /screens/consistent-character-generator.jpg
+screenshot: /screens/consistent-character-generator.webp
 subcategory: ai-image
 pricing: paid
 tagline: Consistent Character AI generates multiple image variations of a single character, preserving identity and style.

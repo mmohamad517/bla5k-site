@@ -2,7 +2,7 @@
 name: MindOS
 url: "https://mindos.com/"
 image: /logos/mindos.png
-screenshot: /screens/mindos.jpg
+screenshot: /screens/mindos.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: MindOS provides a Personal AI that simplifies workflows and enhances expertise through an AI team in various fields.

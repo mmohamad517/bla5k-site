@@ -2,7 +2,7 @@
 name: Bolt AI Dev
 url: "https://boltai.dev"
 image: /logos/bolt-ai-dev.png
-screenshot: /screens/bolt-ai-dev.jpg
+screenshot: /screens/bolt-ai-dev.webp
 subcategory: nc-builders
 pricing: free
 tagline: BoltAI.dev is a no-code platform for web UI development, offering a drag-and-drop interface and AI-driven tools for prototyping.

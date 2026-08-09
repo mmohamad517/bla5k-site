@@ -2,7 +2,7 @@
 name: Calldesk
 url: "https://calldesk.ai/"
 image: /logos/calldesk.png
-screenshot: /screens/calldesk.jpg
+screenshot: /screens/calldesk.webp
 subcategory: ai-productivity
 pricing: free
 tagline: CallDesk is an AI voice agent platform that automates customer inquiries, boosting self-service rates to 80%.

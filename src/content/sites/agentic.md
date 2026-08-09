@@ -2,7 +2,7 @@
 name: Agentic
 url: "https://www.beagentic.com/"
 image: /logos/agentic.png
-screenshot: /screens/agentic.jpg
+screenshot: /screens/agentic.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Agentic Mission Control Blog automates blog creation by deploying AI agents to research, outline, and draft content with a Notion‑style editor.

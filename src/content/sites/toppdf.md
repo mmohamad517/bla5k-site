@@ -2,7 +2,7 @@
 name: TopPDF
 url: "https://www.toppdf.co"
 image: /logos/toppdf.png
-screenshot: /screens/toppdf.jpg
+screenshot: /screens/toppdf.webp
 subcategory: ai-productivity
 pricing: free
 tagline: AI PDF Tools offers robust features for editing, translating, compressing, merging, and converting PDF documents.

@@ -2,7 +2,7 @@
 name: Intervidy
 url: "https://www.intervidy.com"
 image: /logos/intervidy.png
-screenshot: /screens/intervidy.jpg
+screenshot: /screens/intervidy.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Intervidy evaluates CVs against job specs, scoring strengths and gaps.

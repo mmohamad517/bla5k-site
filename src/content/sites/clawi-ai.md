@@ -2,7 +2,7 @@
 name: Clawi.ai
 url: "https://clawi.ai/"
 image: /logos/clawi-ai.png
-screenshot: /screens/clawi-ai.jpg
+screenshot: /screens/clawi-ai.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Clawi.ai is a cloud-based personal AI assistant that connects to popular messaging apps to automate tasks and manage workflows via chat.

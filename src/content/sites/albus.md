@@ -2,7 +2,7 @@
 name: Albus
 url: "https://www.springworks.in/"
 image: /logos/albus.png
-screenshot: /screens/albus.jpg
+screenshot: /screens/albus.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Albus is an AI-powered knowledge bot for Slack that streamlines internal communication, saves time, and provides valuable analytics by answering employees'...

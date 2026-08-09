@@ -2,7 +2,7 @@
 name: ContentDetector.ai
 url: "https://contentdetector.ai/"
 image: /logos/contentdetector-ai.png
-screenshot: /screens/contentdetector-ai.jpg
+screenshot: /screens/contentdetector-ai.webp
 subcategory: ai-productivity
 pricing: free
 tagline: ContentDetector.AI is a free tool that identifies AI-generated written text, including Chat GPT and GPT 3 content, and provides an estimated percentage...

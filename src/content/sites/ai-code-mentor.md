@@ -2,7 +2,7 @@
 name: AI Code Mentor
 url: "https://code-mentor.ai/"
 image: /logos/ai-code-mentor.png
-screenshot: /screens/ai-code-mentor.jpg
+screenshot: /screens/ai-code-mentor.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: AI Code Mentor analyzes pasted JavaScript, Python, HTML, and CSS, providing detailed explanations, complexity metrics, automated refactoring, and...

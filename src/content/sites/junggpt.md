@@ -2,7 +2,7 @@
 name: JungGPT
 url: "https://jung-gpt.com/"
 image: /logos/junggpt.png
-screenshot: /screens/junggpt.jpg
+screenshot: /screens/junggpt.webp
 subcategory: learn-courses
 pricing: freemium
 tagline: Introducing Jung GPT, a groundbreaking AI chat support tool that offers emotional insights through contemplative conversations.

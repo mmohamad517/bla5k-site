@@ -2,7 +2,7 @@
 name: AI-Painted Romantic Printed Portraits
 url: "https://imajinn.ai/portrait"
 image: /logos/ai-painted-romantic-printed-portraits.png
-screenshot: /screens/ai-painted-romantic-printed-portraits.jpg
+screenshot: /screens/ai-painted-romantic-printed-portraits.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Imajinn AI provides various tools such as portrait creator, AI-paint portrait generator, custom children's book creator, AI photobooth, and print/framing...

@@ -2,7 +2,7 @@
 name: Codel
 url: "https://rangerdevv.gumroad.com/l/CodeI"
 image: /logos/codel.png
-screenshot: /screens/codel.jpg
+screenshot: /screens/codel.webp
 subcategory: ai-chat
 pricing: free
 tagline: CodeI is an AI code assistant that delivers ready‑to‑use snippets for multiple languages and frameworks, offers debugging support, explains error messages...

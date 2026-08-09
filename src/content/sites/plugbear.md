@@ -2,7 +2,7 @@
 name: PlugBear
 url: "https://plugbear.io"
 image: /logos/plugbear.png
-screenshot: /screens/plugbear.jpg
+screenshot: /screens/plugbear.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Runbear is an AI teammate that answers questions before users read messages, integrating with Slack, Teams, email, and 2,000+ tools, learning context to...

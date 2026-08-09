@@ -2,7 +2,7 @@
 name: Ava PLS
 url: "https://www.avapls.com"
 image: /logos/ava-pls.png
-screenshot: /screens/ava-pls.jpg
+screenshot: /screens/ava-pls.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Ava is an open‑source desktop app that runs language models locally using llama.cpp, offering a GUI or headless mode.

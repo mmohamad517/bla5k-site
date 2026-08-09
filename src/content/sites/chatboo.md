@@ -2,7 +2,7 @@
 name: ChatBoo
 url: "https://chatboo.app"
 image: /logos/chatboo.png
-screenshot: /screens/chatboo.jpg
+screenshot: /screens/chatboo.webp
 subcategory: ai-image
 pricing: paid
 tagline: ChatBoo lets you chat, voice‑call, and share images with customizable AI companions on iOS, Android, and web.

@@ -2,7 +2,7 @@
 name: SuperAGI
 url: "https://superagi.com"
 image: /logos/superagi.png
-screenshot: /screens/superagi.jpg
+screenshot: /screens/superagi.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: SuperAGI is an open-source autonomous AI framework for building and managing efficient and reliable autonomous agents that learn and improve over time.

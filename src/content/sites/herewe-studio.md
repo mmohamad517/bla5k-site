@@ -2,7 +2,7 @@
 name: Herewe Studio
 url: "https://herewe.framer.website/"
 image: /logos/herewe-studio.png
-screenshot: /screens/herewe-studio.jpg
+screenshot: /screens/herewe-studio.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Herewe Studio offers a web‑based 3D modeling studio that lets users build metaverse scenes without a heavy engine.

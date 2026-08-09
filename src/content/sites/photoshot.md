@@ -2,7 +2,7 @@
 name: Photoshot
 url: "https://photoshot.app/"
 image: /logos/photoshot.png
-screenshot: /screens/photoshot.jpg
+screenshot: /screens/photoshot.webp
 subcategory: ai-image
 pricing: paid
 tagline: Photoshot lets users upload multiple selfies to train a personalized AI model, automatically producing high‑resolution (4K) portraits that reflect their...

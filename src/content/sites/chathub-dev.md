@@ -2,7 +2,7 @@
 name: ChatHub.dev
 url: "https://www.chathub.dev/en/"
 image: /logos/chathub-dev.png
-screenshot: /screens/chathub-dev.jpg
+screenshot: /screens/chathub-dev.webp
 subcategory: ai-chat
 pricing: paid
 tagline: ChatHub is an AI-driven chatbot platform utilizing ChatGPT for smooth integration across popular chat channels and web platforms.

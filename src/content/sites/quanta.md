@@ -2,7 +2,7 @@
 name: Quanta
 url: "https://www.usequanta.com"
 image: /logos/quanta.png
-screenshot: /screens/quanta.jpg
+screenshot: /screens/quanta.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Quanta is a real-time accounting tool that streamlines financial management with continuous accounting, simplifies tax filing, and offers AI-powered...

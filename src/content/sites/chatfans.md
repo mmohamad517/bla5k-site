@@ -2,7 +2,7 @@
 name: ChatFans
 url: "https://www.chatfans.ai/"
 image: /logos/chatfans.png
-screenshot: /screens/chatfans.jpg
+screenshot: /screens/chatfans.webp
 subcategory: ai-image
 pricing: free
 tagline: ChatFans uses AI to connect fans with celebrities and influencers through real‑time, personalized chatbot conversations.

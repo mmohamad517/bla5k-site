@@ -2,7 +2,7 @@
 name: Bookwiz
 url: "https://bookwiz.io/"
 image: /logos/bookwiz.png
-screenshot: /screens/bookwiz.jpg
+screenshot: /screens/bookwiz.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Bookwiz is an AI‑powered writing platform that stores a comprehensive Story Bible, automatically referencing it to maintain consistency across scenes and...

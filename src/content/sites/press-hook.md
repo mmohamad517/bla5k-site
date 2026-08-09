@@ -2,7 +2,7 @@
 name: Press Hook
 url: "https://presshook.com"
 image: /logos/press-hook.png
-screenshot: /screens/press-hook.jpg
+screenshot: /screens/press-hook.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Press Hook is an AI‑powered platform that connects brands, agencies, and media.

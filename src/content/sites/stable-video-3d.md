@@ -2,7 +2,7 @@
 name: Stable Video 3D
 url: "https://stablevideo3d.com"
 image: /logos/stable-video-3d.png
-screenshot: /screens/stable-video-3d.jpg
+screenshot: /screens/stable-video-3d.webp
 subcategory: design-3d
 pricing: freemium
 tagline: SV3D transforms a single image into multi‑angled views and 3D meshes using Stable Video Diffusion.

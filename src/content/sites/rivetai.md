@@ -2,7 +2,7 @@
 name: RivetAI
 url: "https://www.rivetai.com"
 image: /logos/rivetai.png
-screenshot: /screens/rivetai.jpg
+screenshot: /screens/rivetai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Rivet AI automates film pre‑production by generating shooting schedules, line‑item budgets, and tax‑incentive data from script breakdowns.

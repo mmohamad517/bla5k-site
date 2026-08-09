@@ -2,7 +2,7 @@
 name: Cresta
 url: "https://cresta.com/"
 image: /logos/cresta.png
-screenshot: /screens/cresta.jpg
+screenshot: /screens/cresta.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Cresta is a generative‑AI platform for contact centers that gives agents real‑time guidance, contextual suggestions, and translation across voice, chat, and...

@@ -2,7 +2,7 @@
 name: MyGPT Link
 url: "https://mygpt.link"
 image: /logos/mygpt-link.png
-screenshot: /screens/mygpt-link.jpg
+screenshot: /screens/mygpt-link.webp
 subcategory: nc-builders
 pricing: paid
 tagline: MyGPT lets users build custom ChatGPT‑style bots inside Telegram, choosing from GPT‑4o, GPT‑3.5‑turbo, or Claude 3‑5‑sonnet.

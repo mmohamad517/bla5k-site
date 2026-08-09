@@ -2,7 +2,7 @@
 name: Underline.ai
 url: "https://underline.ai"
 image: /logos/underline-ai.png
-screenshot: /screens/underline-ai.jpg
+screenshot: /screens/underline-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: UnderLine.AI automates e‑commerce and marketing content, producing product descriptions, landing pages, blogs, SEO articles, emails, social posts, sales,...

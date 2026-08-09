@@ -2,7 +2,7 @@
 name: LeadIQ
 url: "https://leadiq.com/scribe-generative-ai-for-sales"
 image: /logos/leadiq.png
-screenshot: /screens/leadiq.jpg
+screenshot: /screens/leadiq.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: LeadIQ is an AI tool for B2B sales teams that streamlines contact data management and prospecting, enabling faster pipeline growth.

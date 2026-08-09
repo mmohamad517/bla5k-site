@@ -2,7 +2,7 @@
 name: MyMemo
 url: "https://www.mymemo.ai"
 image: /logos/mymemo.png
-screenshot: /screens/mymemo.jpg
+screenshot: /screens/mymemo.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: MyMemo is an AI-powered knowledge management tool that simplifies organizing and accessing personal data.

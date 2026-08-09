@@ -2,7 +2,7 @@
 name: clayai
 url: "https://clayai.show"
 image: /logos/clayai.png
-screenshot: /screens/clayai.jpg
+screenshot: /screens/clayai.webp
 subcategory: design-graphics
 pricing: paid
 tagline: CLAY AI converts uploaded character photos into clay, 3D, emoji, video‑game, or pixel‑style images within 10–20 seconds.

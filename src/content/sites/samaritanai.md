@@ -2,7 +2,7 @@
 name: SamaritanAI
 url: "https://www.samaritanai.xyz"
 image: /logos/samaritanai.png
-screenshot: /screens/samaritanai.jpg
+screenshot: /screens/samaritanai.webp
 subcategory: ai-chat
 pricing: free
 tagline: SamaritanAI simplifies open source contributions by visualizing complex codebases as navigable graphs, helping users identify necessary file changes, manage...

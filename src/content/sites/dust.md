@@ -2,7 +2,7 @@
 name: Dust
 url: "https://dust.tt/"
 image: /logos/dust.png
-screenshot: /screens/dust.jpg
+screenshot: /screens/dust.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Dust is an AI agent OS that deploys, orchestrates, and governs agents across departments, linking to knowledge bases, productivity tools, and data silos.

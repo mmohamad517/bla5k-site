@@ -2,7 +2,7 @@
 name: Offorte
 url: "https://www.offorte.com/"
 image: /logos/offorte.png
-screenshot: /screens/offorte.jpg
+screenshot: /screens/offorte.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: Offorte's Proposal Software simplifies proposal generation through customizable, interactive online formats.

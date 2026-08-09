@@ -2,7 +2,7 @@
 name: chat4o.ai
 url: "https://chat4o.ai"
 image: /logos/chat4o-ai.png
-screenshot: /screens/chat4o-ai.jpg
+screenshot: /screens/chat4o-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Chat 4O AI centralizes LLMs, image and video generators for multimodal content creation and problem solving—offering text, code and long-context generation,...

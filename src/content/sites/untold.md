@@ -2,7 +2,7 @@
 name: UNTOLD
 url: "https://untoldadventuresawait.com"
 image: /logos/untold.png
-screenshot: /screens/untold.jpg
+screenshot: /screens/untold.webp
 subcategory: ai-chat
 pricing: free
 tagline: Untold lets users craft or randomly generate interactive stories across genres like fantasy, space, or mystery, even mixing them.

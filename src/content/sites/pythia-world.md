@@ -2,7 +2,7 @@
 name: Pythia World
 url: "https://www.pythia.world"
 image: /logos/pythia-world.png
-screenshot: /screens/pythia-world.jpg
+screenshot: /screens/pythia-world.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Pythia World's AI tool delivers exceptional app matching at a 90% success rate by automating time-consuming searches for users.

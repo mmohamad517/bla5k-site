@@ -2,7 +2,7 @@
 name: Template.net
 url: "https://www.template.net/"
 image: /logos/template-net.png
-screenshot: /screens/template-net.jpg
+screenshot: /screens/template-net.webp
 subcategory: fin-fintech
 pricing: paid
 tagline: Template.net's AI Production Engine is a content creation platform that instantly generates structured, layered outputs with full customization, leveraging...

@@ -2,7 +2,7 @@
 name: NullClaw
 url: "https://github.com/nullclaw/nullclaw"
 image: /logos/nullclaw.png
-screenshot: /screens/nullclaw.jpg
+screenshot: /screens/nullclaw.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: NullClaw is a compact, low-latency AI assistant infrastructure built in Zig.

@@ -2,7 +2,7 @@
 name: Dashwave 1.0
 url: "https://dashwave.io"
 image: /logos/dashwave-1-0.png
-screenshot: /screens/dashwave-1-0.jpg
+screenshot: /screens/dashwave-1-0.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Dashwave is a cloud-based platform for mobile app development that streamlines the process with one-click workspaces, collaborative emulators, and...

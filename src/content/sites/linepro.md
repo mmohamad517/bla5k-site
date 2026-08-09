@@ -2,7 +2,7 @@
 name: LinePro
 url: "https://linepro.vercel.app/"
 image: /logos/linepro.png
-screenshot: /screens/linepro.jpg
+screenshot: /screens/linepro.webp
 subcategory: ai-writing
 pricing: free
 tagline: LinePro uses AI to generate personalized email subject lines in seconds.

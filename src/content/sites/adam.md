@@ -2,7 +2,7 @@
 name: Adam
 url: "https://interval-ai.com"
 image: /logos/adam.png
-screenshot: /screens/adam.jpg
+screenshot: /screens/adam.webp
 subcategory: nc-automation
 pricing: freemium
 tagline: Interval AI automates receivable collections via AI‑driven outreach across calls, texts, and emails.

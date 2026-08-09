@@ -2,7 +2,7 @@
 name: Talentpair
 url: "https://talentpair.com"
 image: /logos/talentpair.png
-screenshot: /screens/talentpair.jpg
+screenshot: /screens/talentpair.webp
 subcategory: fin-fintech
 pricing: paid
 tagline: Talentpair automates hiring by posting jobs and using AI to filter, score resumes, generate interview notes, and deliver a top‑candidate list.

@@ -2,7 +2,7 @@
 name: Lab2.dev
 url: "https://lab2.dev/"
 image: /logos/lab2-dev.png
-screenshot: /screens/lab2-dev.jpg
+screenshot: /screens/lab2-dev.webp
 subcategory: nc-builders
 pricing: free
 tagline: Python app generator that builds Streamlit applications from plain text prompts.

@@ -2,7 +2,7 @@
 name: Synchronymax
 url: "https://www.synchronymax.com"
 image: /logos/synchronymax.png
-screenshot: /screens/synchronymax.jpg
+screenshot: /screens/synchronymax.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: SynchronyMax is an AI agent platform that enhances workforce efficiency across industries by providing real-time decision support, workflow automation, and...

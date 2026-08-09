@@ -2,7 +2,7 @@
 name: WP Wand
 url: "https://wpwand.lemonsqueezy.com/"
 image: /logos/wp-wand.png
-screenshot: /screens/wp-wand.jpg
+screenshot: /screens/wp-wand.webp
 subcategory: ai-writing
 pricing: paid
 tagline: WP Wand is an AI‑powered WordPress plugin that drafts blog posts, product descriptions, and social media copy directly in the editor, offering template and...

@@ -2,7 +2,7 @@
 name: MyDetector
 url: "https://mydetector.ai/"
 image: /logos/mydetector.png
-screenshot: /screens/mydetector.jpg
+screenshot: /screens/mydetector.webp
 subcategory: ai-productivity
 pricing: free
 tagline: MyDetector is a free tool that detects AI-generated text and humanizes it to ensure authenticity.

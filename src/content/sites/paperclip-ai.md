@@ -2,7 +2,7 @@
 name: PaperClip
 url: https://paperclip.co/
 image: /logos/paperclip-ai.png
-screenshot: /screens/paperclip-ai.jpg
+screenshot: /screens/paperclip-ai.webp
 subcategory: ai-productivity
 tagline: "AI-powered document management — organize, search, and extract insights from your files."
 tags: [paperclip, document management, ai search, file organization, productivity]

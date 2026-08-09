@@ -2,7 +2,7 @@
 name: Lipsync AI
 url: "https://lipsyncai.net/"
 image: /logos/lipsync-ai.png
-screenshot: /screens/lipsync-ai.jpg
+screenshot: /screens/lipsync-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Lipsync AI is an online tool that creates talking avatars by perfectly synchronizing lip movements to any uploaded audio.

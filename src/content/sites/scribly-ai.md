@@ -2,7 +2,7 @@
 name: Scribly AI
 url: "https://www.scriblyai.com"
 image: /logos/scribly-ai.png
-screenshot: /screens/scribly-ai.jpg
+screenshot: /screens/scribly-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Scribly AI accelerates blog creation by generating outlines, drafts, and topic ideas.

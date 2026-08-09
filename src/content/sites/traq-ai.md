@@ -2,7 +2,7 @@
 name: Traq ai
 url: "https://www.traq.ai/"
 image: /logos/traq-ai.png
-screenshot: /screens/traq-ai.jpg
+screenshot: /screens/traq-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: TRAQ records and transcribes sales calls, auto‑generating summaries, action items, and sentiment insights.

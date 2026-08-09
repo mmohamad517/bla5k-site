@@ -2,7 +2,7 @@
 name: Augment Code
 url: "https://www.augmentcode.com"
 image: /logos/augment-code.png
-screenshot: /screens/augment-code.jpg
+screenshot: /screens/augment-code.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Augment Code is an AI coding assistant designed for professional engineers working with large codebases, offering real-time, context-aware suggestions and...

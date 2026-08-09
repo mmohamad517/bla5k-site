@@ -2,7 +2,7 @@
 name: MindThera
 url: "https://mindthera.ai"
 image: /logos/mindthera.png
-screenshot: /screens/mindthera.jpg
+screenshot: /screens/mindthera.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Mindthera is an AI mental health chatbot that offers 24/7 personalized support, emotional analysis, and tailored recommendations for managing anxiety,...

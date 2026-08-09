@@ -2,7 +2,7 @@
 name: Productly
 url: "https://productly.app"
 image: /logos/productly.png
-screenshot: /screens/productly.jpg
+screenshot: /screens/productly.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Productly imports Amazon and AliExpress listings into Shopify, auto‑generates AI‑written product pages, mobile‑first themes, and branding.

@@ -2,7 +2,7 @@
 name: Escríbelo
 url: "https://escribelo.ai"
 image: /logos/escribelo.png
-screenshot: /screens/escribelo.jpg
+screenshot: /screens/escribelo.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Escríbelo genera contenido original y optimizado para SEO (artículos, emails, anuncios, publicaciones y textos web) en 30 idiomas, ofrece información...

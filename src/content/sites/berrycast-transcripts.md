@@ -2,7 +2,7 @@
 name: Berrycast Transcripts
 url: "https://www.berrycast.com/"
 image: /logos/berrycast-transcripts.png
-screenshot: /screens/berrycast-transcripts.jpg
+screenshot: /screens/berrycast-transcripts.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Berrycast is a cross‑platform screen‑recording tool that captures webcam, screen activity, and live voice narration.

@@ -2,7 +2,7 @@
 name: Sup AI
 url: "https://sup.ai"
 image: /logos/sup-ai.png
-screenshot: /screens/sup-ai.jpg
+screenshot: /screens/sup-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Sup AI is a multi-model orchestration platform that intelligently routes queries to the best frontier models for task-specific results.

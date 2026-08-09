@@ -2,7 +2,7 @@
 name: MetaCRM
 url: "https://metacrm.inc"
 image: /logos/metacrm.png
-screenshot: /screens/metacrm.jpg
+screenshot: /screens/metacrm.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: MetaCRM is an AI-powered web3 tool for customer service & marketing analytics.

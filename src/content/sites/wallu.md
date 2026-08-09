@@ -2,7 +2,7 @@
 name: Wallu
 url: "https://wallubot.com/"
 image: /logos/wallu.png
-screenshot: /screens/wallu.jpg
+screenshot: /screens/wallu.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Wallu is an AI‑powered Discord bot that automates FAQ answers and ticket handling by pulling data from documents, websites, and channel history.

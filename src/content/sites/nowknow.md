@@ -2,7 +2,7 @@
 name: NowKnow
 url: "https://nowknow.ai"
 image: /logos/nowknow.png
-screenshot: /screens/nowknow.jpg
+screenshot: /screens/nowknow.webp
 subcategory: mkt-social
 pricing: paid
 tagline: NowKnow uses AI personas to simulate target audiences, delivering rapid market feedback and visual design testing within minutes.

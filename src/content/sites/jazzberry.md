@@ -2,7 +2,7 @@
 name: Jazzberry
 url: "https://cartpole.com/"
 image: /logos/jazzberry.png
-screenshot: /screens/jazzberry.jpg
+screenshot: /screens/jazzberry.webp
 subcategory: dev-code
 pricing: freemium
 tagline: Jazzberry is an AI-driven bug detection tool that analyzes code repositories in a secure environment, identifying vulnerabilities like SQL injection and...

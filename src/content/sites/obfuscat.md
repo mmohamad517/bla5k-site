@@ -2,7 +2,7 @@
 name: ObfusCat
 url: "https://obfuscat.com/"
 image: /logos/obfuscat.png
-screenshot: /screens/obfuscat.jpg
+screenshot: /screens/obfuscat.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: ObfusCat masks sensitive code locally with a proprietary algorithm, sends obfuscated prompts to ChatGPT, then unmasks responses, enabling secure code...

@@ -2,7 +2,7 @@
 name: Religione AI
 url: "http://click-v4.exmainclcknew.com/click?i=uF1qjYJqOJs_0"
 image: /logos/religione-ai.png
-screenshot: /screens/religione-ai.jpg
+screenshot: /screens/religione-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Religione AI integrates 5000 diverse beliefs into a single AI platform, offering personalized solutions to life's challenges.

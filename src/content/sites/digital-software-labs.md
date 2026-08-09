@@ -2,7 +2,7 @@
 name: Digital software labs
 url: "https://digitalsoftwarelabs.com"
 image: /logos/digital-software-labs.png
-screenshot: /screens/digital-software-labs.jpg
+screenshot: /screens/digital-software-labs.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Digital Software Labs delivers end‑to‑end development for mobile, web, and enterprise apps, including native, cross‑platform, AI‑powered solutions and cloud...

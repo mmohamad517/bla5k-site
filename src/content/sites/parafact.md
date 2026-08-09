@@ -2,7 +2,7 @@
 name: Parafact
 url: "https://parafactai.com"
 image: /logos/parafact.png
-screenshot: /screens/parafact.jpg
+screenshot: /screens/parafact.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Parafact is an AI-driven fact-checking tool that evaluates text for accuracy using reliable sources.

@@ -2,7 +2,7 @@
 name: Oda Studio
 url: "https://moodboard.odastudio.ai/"
 image: /logos/oda-studio.png
-screenshot: /screens/oda-studio.jpg
+screenshot: /screens/oda-studio.webp
 subcategory: design-graphics
 pricing: paid
 tagline: Oda Studio applies Vision‑Language AI to automatically extract metadata from architectural drawings, convert charts into text, and fine‑tune generative...

@@ -2,7 +2,7 @@
 name: Voxxio
 url: "https://voxxio.io"
 image: /logos/voxxio.png
-screenshot: /screens/voxxio.jpg
+screenshot: /screens/voxxio.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Voxxio is an AI tool that converts spoken concepts into visual storyboards, simplifying and accelerating storytelling creation for diverse creative...

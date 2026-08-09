@@ -2,7 +2,7 @@
 name: Uplodio
 url: "https://www.uplodio.com"
 image: /logos/uplodio.png
-screenshot: /screens/uplodio.jpg
+screenshot: /screens/uplodio.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Uplodio is an AI-driven influencer management tool that streamlines campaign management, recruits affiliates, and enhances user-generated content.

@@ -2,7 +2,7 @@
 name: My GPT Wizard
 url: "https://mygptwizard.com/"
 image: /logos/my-gpt-wizard.png
-screenshot: /screens/my-gpt-wizard.jpg
+screenshot: /screens/my-gpt-wizard.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: My GPT Wizard is an AI writing and content generation partner that utilizes AI-driven creativity to meet all your content creation needs.

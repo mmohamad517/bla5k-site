@@ -2,7 +2,7 @@
 name: Aiden Solutions
 url: "https://www.aiden.solutions"
 image: /logos/aiden-solutions.png
-screenshot: /screens/aiden-solutions.jpg
+screenshot: /screens/aiden-solutions.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Aiden Solutions is a customizable AI chatbot platform that enhances business communication across B2B, B2C, and internal teams with tailored responses and...

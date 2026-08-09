@@ -2,7 +2,7 @@
 name: aihouse.com
 url: "https://aihouse.com"
 image: /logos/aihouse-com.png
-screenshot: /screens/aihouse-com.jpg
+screenshot: /screens/aihouse-com.webp
 subcategory: design-3d
 pricing: freemium
 tagline: AiHouse is an AI‑powered platform that creates 2D/3D floor plans and renders detailed virtual houses in seconds.

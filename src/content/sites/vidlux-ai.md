@@ -2,7 +2,7 @@
 name: Vidlux AI
 url: "https://vidlux.ai"
 image: /logos/vidlux-ai.png
-screenshot: /screens/vidlux-ai.jpg
+screenshot: /screens/vidlux-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Vidlux is a platform that converts still images into animated videos by adding motion, camera movement, and timed transitions.

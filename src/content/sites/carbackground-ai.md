@@ -2,7 +2,7 @@
 name: CarBackground AI
 url: "https://carbackground.ai/"
 image: /logos/carbackground-ai.png
-screenshot: /screens/carbackground-ai.jpg
+screenshot: /screens/carbackground-ai.webp
 subcategory: ent-travel
 pricing: freemium
 tagline: carbackground.ai is an AI tool that automates precise car background removal and replacement, preserving vehicle details like mirrors, reflections, and windows.

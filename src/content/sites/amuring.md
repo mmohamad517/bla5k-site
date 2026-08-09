@@ -2,7 +2,7 @@
 name: AmuRing
 url: "https://amuring.ai/"
 image: /logos/amuring.png
-screenshot: /screens/amuring.jpg
+screenshot: /screens/amuring.webp
 subcategory: ai-chat
 pricing: free
 tagline: Amuring.ai is a versatile wearable AI companion in amulet and ring form, offering multilingual support, user privacy features like discomfort detection, and...

@@ -2,7 +2,7 @@
 name: Daydrm
 url: "https://www.daydrm.ai/"
 image: /logos/daydrm.png
-screenshot: /screens/daydrm.jpg
+screenshot: /screens/daydrm.webp
 subcategory: mkt-social
 pricing: paid
 tagline: AI‑driven platform that generates creative concepts, briefs, and production assets for ad teams.

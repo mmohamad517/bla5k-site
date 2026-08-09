@@ -2,7 +2,7 @@
 name: PetClaw AI
 url: "https://petclaw.ai/"
 image: /logos/petclaw-ai.png
-screenshot: /screens/petclaw-ai.jpg
+screenshot: /screens/petclaw-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: PetClaw AI is a privacy-focused desktop AI assistant that runs locally on your computer.

@@ -2,7 +2,7 @@
 name: enterprisebot.ai
 url: "https://enterprisebot.ai"
 image: /logos/enterprisebot-ai.png
-screenshot: /screens/enterprisebot-ai.jpg
+screenshot: /screens/enterprisebot-ai.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Enterprise Bot unifies voice, email, and chat into a single AI engine, automating call routing, agent assistance, and self‑service chat.

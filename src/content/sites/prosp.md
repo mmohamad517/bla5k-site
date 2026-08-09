@@ -2,7 +2,7 @@
 name: Prosp
 url: "https://www.prosp.ai/"
 image: /logos/prosp.png
-screenshot: /screens/prosp.jpg
+screenshot: /screens/prosp.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Prosp is an AI tool that automates LinkedIn outbound campaigns, offering personalized outreach, efficient lead management, and a lead finder extension.

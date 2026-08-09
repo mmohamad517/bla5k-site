@@ -2,7 +2,7 @@
 name: TalkForce AI
 url: "https://talkforceai.com"
 image: /logos/talkforce-ai.png
-screenshot: /screens/talkforce-ai.jpg
+screenshot: /screens/talkforce-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: TalkForce AI is a voice assistant that manages routine inquiries, schedules appointments, and handles cancellations.

@@ -2,7 +2,7 @@
 name: Labrynth AI
 url: "https://www.labrynth.ai"
 image: /logos/labrynth-ai.png
-screenshot: /screens/labrynth-ai.jpg
+screenshot: /screens/labrynth-ai.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Labrynth.ai is a regulatory intelligence platform that automates document validation and gap analysis against standards like NERC, FERC, NRC, and DOE.

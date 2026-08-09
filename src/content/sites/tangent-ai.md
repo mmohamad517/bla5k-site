@@ -2,7 +2,7 @@
 name: tangent.ai
 url: "https://tangent.ai"
 image: /logos/tangent-ai.png
-screenshot: /screens/tangent-ai.jpg
+screenshot: /screens/tangent-ai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: TANGENT AI lets beauty brands build skin‑ and hair‑analysis quizzes, sync results to CRM, personalize storefronts and bundles, track user progress, and...

@@ -2,7 +2,7 @@
 name: Smart Invoices
 url: "https://smartinvoices.app"
 image: /logos/smart-invoices.png
-screenshot: /screens/smart-invoices.jpg
+screenshot: /screens/smart-invoices.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Smart Invoices is an AI-driven invoicing application that simplifies financial management by automating calculations, enabling easy customization, syncing...

@@ -2,7 +2,7 @@
 name: FinanceOps
 url: "http://financeops.ai"
 image: /logos/financeops.png
-screenshot: /screens/financeops.jpg
+screenshot: /screens/financeops.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: FinanceOps automates accounts receivable, using AI to send timely email, SMS, and voice outreach that maximizes responses.

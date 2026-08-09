@@ -2,7 +2,7 @@
 name: Tugan.ai
 url: "https://www.tugan.ai/"
 image: /logos/tugan-ai.png
-screenshot: /screens/tugan-ai.jpg
+screenshot: /screens/tugan-ai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Tugan.ai transforms a web page or video link into ready‑to‑publish content such as email sequences, social media posts, newsletters, and product pages.

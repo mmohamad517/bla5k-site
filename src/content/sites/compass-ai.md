@@ -2,7 +2,7 @@
 name: Compass AI
 url: "https://usecompassai.com"
 image: /logos/compass-ai.png
-screenshot: /screens/compass-ai.jpg
+screenshot: /screens/compass-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Compass AI autonomously routes non-custodial USDC across blockchains and DeFi protocols, executing sub-500ms atomic settlements while rebalancing per...

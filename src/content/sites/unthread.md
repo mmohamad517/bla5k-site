@@ -2,7 +2,7 @@
 name: Unthread
 url: "https://unthread.io"
 image: /logos/unthread.png
-screenshot: /screens/unthread.jpg
+screenshot: /screens/unthread.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Unthread automates Slack support workflows, converting DMs, emails, and live‑chat into tickets for IT, HR, and CS teams.

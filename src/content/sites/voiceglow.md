@@ -2,7 +2,7 @@
 name: Voiceglow
 url: "https://voiceglow.org/"
 image: /logos/voiceglow.png
-screenshot: /screens/voiceglow.jpg
+screenshot: /screens/voiceglow.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Convocore lets businesses create and scale AI agents across web chat, WhatsApp, Instagram, Facebook, and Telegram.

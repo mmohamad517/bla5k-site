@@ -2,7 +2,7 @@
 name: Karla
 url: "https://getkarla.com"
 image: /logos/karla.png
-screenshot: /screens/karla.jpg
+screenshot: /screens/karla.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Karla is an AI tool for journalists that enhances writing efficiency by generating cohesive narratives from news information.

@@ -2,7 +2,7 @@
 name: Plansom
 url: "https://plansom.com"
 image: /logos/plansom.png
-screenshot: /screens/plansom.jpg
+screenshot: /screens/plansom.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Plansom is an AI‑powered platform that converts documents into structured, shareable plans in minutes, extracting deliverables, timelines, owners,...

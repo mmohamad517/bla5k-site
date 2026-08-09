@@ -2,7 +2,7 @@
 name: GPTAnywhere
 url: "https://timgerstel.gumroad.com/l/GPTAnywhereWin64"
 image: /logos/gptanywhere.png
-screenshot: /screens/gptanywhere.jpg
+screenshot: /screens/gptanywhere.webp
 subcategory: ai-chat
 pricing: paid
 tagline: GPTAnywhere is a desktop client that lets users chat offline with GPT‑3.5‑turbo and GPT‑4, maintain conversation history, query local files (txt, pdf, docx,...

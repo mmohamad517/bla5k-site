@@ -2,7 +2,7 @@
 name: ReliveAI
 url: "http://reliveai.com"
 image: /logos/reliveai.png
-screenshot: /screens/reliveai.jpg
+screenshot: /screens/reliveai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: ReliveAI automates outbound sales and support, integrating Google Drive, Notion, Calendar, and email to create tasks.

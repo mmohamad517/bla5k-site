@@ -2,7 +2,7 @@
 name: Factful
 url: "https://factful.io"
 image: /logos/factful.png
-screenshot: /screens/factful.jpg
+screenshot: /screens/factful.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Factful offers real‑time spelling, grammar, and factuality checks with in‑line slash commands for quick edits.

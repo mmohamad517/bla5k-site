@@ -2,7 +2,7 @@
 name: SlidesOrator
 url: "https://www.slidesorator.com"
 image: /logos/slidesorator.png
-screenshot: /screens/slidesorator.jpg
+screenshot: /screens/slidesorator.webp
 subcategory: ai-image
 pricing: free
 tagline: Slidesorator is a 3D avatar AI tool that enhances live presentations with real-time interactivity, voice-over narration, and an integrated Q&A system,...

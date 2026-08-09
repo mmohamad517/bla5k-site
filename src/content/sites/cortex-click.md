@@ -2,7 +2,7 @@
 name: Cortex Click
 url: "https://www.cortexclick.com"
 image: /logos/cortex-click.png
-screenshot: /screens/cortex-click.jpg
+screenshot: /screens/cortex-click.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Cortex Click is an intelligent content generation platform that enables developers and creators to efficiently produce blog posts, landing pages, and...

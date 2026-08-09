@@ -2,7 +2,7 @@
 name: Kustomer IQ
 url: "https://www.kustomer.com/"
 image: /logos/kustomer-iq.png
-screenshot: /screens/kustomer-iq.jpg
+screenshot: /screens/kustomer-iq.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Kustomer unifies customer data, conversations, and history into a single timeline, combining native AI agents with human-agent collaboration to automate...

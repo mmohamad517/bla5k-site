@@ -2,7 +2,7 @@
 name: Sendwo
 url: "https://sendwo.com"
 image: /logos/sendwo.png
-screenshot: /screens/sendwo.jpg
+screenshot: /screens/sendwo.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Sendwo is a free WhatsApp marketing software for bulk messaging and automation, enabling users to create message templates, integrate with e-commerce...

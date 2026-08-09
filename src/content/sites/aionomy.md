@@ -2,7 +2,7 @@
 name: Aionomy
 url: "https://aionomy.com/"
 image: /logos/aionomy.png
-screenshot: /screens/aionomy.jpg
+screenshot: /screens/aionomy.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Aionomy delivers rapid contract staffing and recruitment services, connecting businesses with qualified candidates across digital media, technology, and...

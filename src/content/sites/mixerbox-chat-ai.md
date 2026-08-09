@@ -2,7 +2,7 @@
 name: MixerBox Chat AI
 url: "https://apps.apple.com/us/app/mixerbox-ai/id1584951634"
 image: /logos/mixerbox-chat-ai.png
-screenshot: /screens/mixerbox-chat-ai.jpg
+screenshot: /screens/mixerbox-chat-ai.webp
 subcategory: ai-chat
 pricing: free
 tagline: MixerBox Chat AI Browser is a groundbreaking app that combines privacy with innovative features.

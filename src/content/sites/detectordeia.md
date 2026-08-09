@@ -2,7 +2,7 @@
 name: Detectordeia
 url: "https://www.detectordeia.org/"
 image: /logos/detectordeia.png
-screenshot: /screens/detectordeia.jpg
+screenshot: /screens/detectordeia.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Detectordeia is a sophisticated tool designed to analyze texts, distinguishing between AI-generated content and human-written material by evaluating writing...

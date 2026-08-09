@@ -2,7 +2,7 @@
 name: BlogBuster.so
 url: "https://www.blogbuster.so/"
 image: /logos/blogbuster-so.png
-screenshot: /screens/blogbuster-so.jpg
+screenshot: /screens/blogbuster-so.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: BlogBuster.so is an AI-powered tool that automates the creation, optimization, and publishing of SEO-friendly blog articles.

@@ -2,7 +2,7 @@
 name: MindGenie
 url: "https://mindgenie.co"
 image: /logos/mindgenie.png
-screenshot: /screens/mindgenie.jpg
+screenshot: /screens/mindgenie.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: MindGenie is an AI-powered planning assistant designed for solopreneurs, students, and freelancers.

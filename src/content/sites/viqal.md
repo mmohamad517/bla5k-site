@@ -2,7 +2,7 @@
 name: Viqal
 url: "https://www.viqal.com"
 image: /logos/viqal.png
-screenshot: /screens/viqal.jpg
+screenshot: /screens/viqal.webp
 subcategory: nc-automation
 pricing: paid
 tagline: Viqal automates guest messaging across WhatsApp, Messenger, and web widgets, linking to a PMS for real‑time, personalized responses.

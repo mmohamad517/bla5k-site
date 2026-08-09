@@ -2,7 +2,7 @@
 name: Press ranger
 url: "https://pressranger.com"
 image: /logos/press-ranger.png
-screenshot: /screens/press-ranger.jpg
+screenshot: /screens/press-ranger.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Press Ranger centralizes PR workflows, letting users draft and distribute press releases, pitch personalized emails, and target journalists and publishers...

@@ -2,7 +2,7 @@
 name: This Person Not Exist
 url: "https://thispersonnotexist.org"
 image: /logos/this-person-not-exist.png
-screenshot: /screens/this-person-not-exist.jpg
+screenshot: /screens/this-person-not-exist.webp
 subcategory: ai-image
 pricing: free
 tagline: This Person Does Not Exist is an AI face generator that creates synthetic human faces.

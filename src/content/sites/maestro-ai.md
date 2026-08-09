@@ -2,7 +2,7 @@
 name: Maestro AI
 url: "https://runmaestro.ai/"
 image: /logos/maestro-ai.png
-screenshot: /screens/maestro-ai.jpg
+screenshot: /screens/maestro-ai.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: Maestro is an AI agent command center that orchestrates autonomous coding agents across desktop, CLI, and mobile, supporting multi-agent workflows,...

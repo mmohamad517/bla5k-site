@@ -2,7 +2,7 @@
 name: Zero - VM0
 url: "https://www.vm0.ai/"
 image: /logos/zero-vm0.png
-screenshot: /screens/zero-vm0.jpg
+screenshot: /screens/zero-vm0.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Zero - VM0 is an AI teammate that automates cross-tool workflows across 100+ apps like Slack, GitHub, and Notion.

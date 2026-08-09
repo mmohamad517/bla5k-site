@@ -2,7 +2,7 @@
 name: Wasapi
 url: "https://wasapi.io"
 image: /logos/wasapi.png
-screenshot: /screens/wasapi.jpg
+screenshot: /screens/wasapi.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Wasapi consolidates WhatsApp customer interactions into a single interface, automatically assigning chats to agents and tracking them in real‑time.

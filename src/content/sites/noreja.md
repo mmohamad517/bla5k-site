@@ -2,7 +2,7 @@
 name: Noreja
 url: "https://noreja.com"
 image: /logos/noreja.png
-screenshot: /screens/noreja.jpg
+screenshot: /screens/noreja.webp
 subcategory: nc-automation
 pricing: freemium
 tagline: Noreja is a generative process intelligence platform that ingests data without event logs for faster integration and real-time analytics.

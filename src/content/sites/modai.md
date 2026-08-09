@@ -2,7 +2,7 @@
 name: ModAi
 url: "https://modai.app"
 image: /logos/modai.png
-screenshot: /screens/modai.jpg
+screenshot: /screens/modai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Modai is an AI support bot for Discord that answers up to 90% of inquiries, manages support tickets, and supports over 30 languages, enhancing customer...

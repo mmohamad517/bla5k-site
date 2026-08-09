@@ -2,7 +2,7 @@
 name: Socrates.im
 url: "https://socrates.im"
 image: /logos/socrates-im.png
-screenshot: /screens/socrates-im.jpg
+screenshot: /screens/socrates-im.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Socrates analyzes PDFs, DOCX, EPUB and text files with deep indexing, auto-OCR, and multi-document search; offers table-based comparisons, workflow...

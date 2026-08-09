@@ -2,7 +2,7 @@
 name: PollyReach
 url: "https://pollyreach.ai/"
 image: /logos/pollyreach-ai.png
-screenshot: /screens/pollyreach-ai.jpg
+screenshot: /screens/pollyreach-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Pollyreach provides AI voice agents that place real inbound and outbound calls using dedicated numbers across 50+ countries, offering installable skills and...

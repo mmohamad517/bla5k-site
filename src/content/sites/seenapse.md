@@ -2,7 +2,7 @@
 name: Seenapse
 url: "https://seenapse.ai/"
 image: /logos/seenapse.png
-screenshot: /screens/seenapse.jpg
+screenshot: /screens/seenapse.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Seenapse offers an AI‑driven ideation platform with a non‑linear brainstorming engine that links unrelated ideas for high‑scoring creative outputs.

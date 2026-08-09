@@ -2,7 +2,7 @@
 name: CaptionGen
 url: "https://captiongen.szhao.dev/"
 image: /logos/captiongen.png
-screenshot: /screens/captiongen.jpg
+screenshot: /screens/captiongen.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: CaptionGen is an AI tool that generates captions for images using advanced natural language processing technology and powerful chatbot technology.

@@ -2,7 +2,7 @@
 name: TalentSprout
 url: "https://www.talentsprout.ai/"
 image: /logos/talentsprout.png
-screenshot: /screens/talentsprout.jpg
+screenshot: /screens/talentsprout.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: TalentSprout is an AI recruitment tool that automates candidate screening with human-like, multilingual interviews.

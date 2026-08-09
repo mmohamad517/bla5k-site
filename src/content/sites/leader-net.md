@@ -2,7 +2,7 @@
 name: Leader.net
 url: "https://leader.net/?red=topait"
 image: /logos/leader-net.png
-screenshot: /screens/leader-net.jpg
+screenshot: /screens/leader-net.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Leader CRM automates lead capture and contact enrichment from calls, messages and calendar events, extracting caller details, social profiles and recent news.

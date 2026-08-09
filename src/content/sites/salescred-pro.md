@@ -2,7 +2,7 @@
 name: SalesCred PRO
 url: "https://salesfuel.com/salescred/"
 image: /logos/salescred-pro.png
-screenshot: /screens/salescred-pro.jpg
+screenshot: /screens/salescred-pro.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Salescred® Pro is an AI-powered platform amining to enhance credibility and accelerate the trust-building process for B2B salespeople.

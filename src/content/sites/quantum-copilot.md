@@ -2,7 +2,7 @@
 name: Quantum Copilot
 url: "https://qc.vuics.com"
 image: /logos/quantum-copilot.png
-screenshot: /screens/quantum-copilot.jpg
+screenshot: /screens/quantum-copilot.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Quantum Copilot is an AI‑driven assistant for quantum developers that generates, translates, and visualizes code across OpenQASM, Q#, Qiskit, Cirq, Quil,...

@@ -2,7 +2,7 @@
 name: 6000 thoughts
 url: "https://6000thoughts.com/"
 image: /logos/6000-thoughts.png
-screenshot: /screens/6000-thoughts.jpg
+screenshot: /screens/6000-thoughts.webp
 subcategory: learn-courses
 pricing: freemium
 tagline: 6000 Thoughts records spontaneous self‑conversations, summarizes recurring themes, flags cognitive biases, and tracks patterns to support mindfulness and...

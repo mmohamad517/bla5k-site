@@ -2,7 +2,7 @@
 name: Kursi
 url: "https://kursi.io"
 image: /logos/kursi.png
-screenshot: /screens/kursi.jpg
+screenshot: /screens/kursi.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Kursi is an online platform for educators and coaches to create and manage multimedia courses, featuring tools for lesson customization, discussions,...

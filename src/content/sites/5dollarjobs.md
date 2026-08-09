@@ -2,7 +2,7 @@
 name: 5DollarJobs
 url: "https://5dollarjobs.com"
 image: /logos/5dollarjobs.png
-screenshot: /screens/5dollarjobs.jpg
+screenshot: /screens/5dollarjobs.webp
 subcategory: ai-chat
 pricing: paid
 tagline: 5 Dollar Jobs is a global micro‑gig marketplace that connects freelance internet workers with clients for quick, skill‑based tasks.

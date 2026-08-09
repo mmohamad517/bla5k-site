@@ -2,7 +2,7 @@
 name: Dhisana AI
 url: "https://www.dhisana.ai"
 image: /logos/dhisana-ai.png
-screenshot: /screens/dhisana-ai.jpg
+screenshot: /screens/dhisana-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Dhisana AI is a comprehensive autonomous sales engine that automates the entire sales process from account discovery to pipeline acceleration.

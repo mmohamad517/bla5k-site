@@ -2,7 +2,7 @@
 name: Prometheus - Firecrawl
 url: "https://www.firecrawl.dev/prometheus/"
 image: /logos/prometheus-firecrawl.png
-screenshot: /screens/prometheus-firecrawl.jpg
+screenshot: /screens/prometheus-firecrawl.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Prometheus simplifies web data collection by acting as a forward-deployed agent.

@@ -2,7 +2,7 @@
 name: Panzoe AI
 url: "https://panzoe.ai"
 image: /logos/panzoe-ai.png
-screenshot: /screens/panzoe-ai.jpg
+screenshot: /screens/panzoe-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Panzoe AI is an AI operating system that unifies personal and work tools into connected copilots with a single persistent memory.

@@ -2,7 +2,7 @@
 name: Regem AI Platform
 url: "https://regemai.com"
 image: /logos/regem-ai-platform.png
-screenshot: /screens/regem-ai-platform.jpg
+screenshot: /screens/regem-ai-platform.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: The Regem AI Platform 1.0 is an all-inclusive content creation tool featuring Pro Writer, Pro Image, and Pro Email Writer for smooth content generation.

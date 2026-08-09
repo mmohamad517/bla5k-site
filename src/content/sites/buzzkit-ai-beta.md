@@ -2,7 +2,7 @@
 name: Buzzkit.ai (Beta)
 url: "https://www.buzzkit.ai"
 image: /logos/buzzkit-ai-beta.png
-screenshot: /screens/buzzkit-ai-beta.jpg
+screenshot: /screens/buzzkit-ai-beta.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Buzzkit AI automates SEO blog creation and management, enabling users to generate bulk, optimized articles.

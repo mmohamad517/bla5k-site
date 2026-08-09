@@ -2,7 +2,7 @@
 name: Medallia
 url: "https://medallia.com"
 image: /logos/medallia-com.png
-screenshot: /screens/medallia-com.jpg
+screenshot: /screens/medallia-com.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: medallia.com is an AI-powered experience management platform that captures omnichannel feedback and analyzes it to provide real-time insights.

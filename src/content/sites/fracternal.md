@@ -2,7 +2,7 @@
 name: Fracternal
 url: "https://www.fracternal.com"
 image: /logos/fracternal.png
-screenshot: /screens/fracternal.jpg
+screenshot: /screens/fracternal.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: Fracternal links fractional executives to companies using AI‑generated profiles and leadership assessments.

@@ -2,7 +2,7 @@
 name: Housecall Pro AI
 url: "https://www.housecallpro.com/"
 image: /logos/housecall-pro-ai.png
-screenshot: /screens/housecall-pro-ai.jpg
+screenshot: /screens/housecall-pro-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Housecall Pro AI is a price book tool that centralizes services, materials, and pricing for home service businesses to enable consistent quoting.

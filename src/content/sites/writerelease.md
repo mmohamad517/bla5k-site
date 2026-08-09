@@ -2,7 +2,7 @@
 name: Writerelease
 url: "https://www.newsprint.com/?utm_source=writerelease&utm_medium=referral&utm_campaign=wr_site"
 image: /logos/writerelease.png
-screenshot: /screens/writerelease.jpg
+screenshot: /screens/writerelease.webp
 subcategory: ai-writing
 pricing: free
 tagline: Write Release auto‑generates professional press releases in minutes from a mobile‑friendly interface.

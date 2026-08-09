@@ -2,7 +2,7 @@
 name: Fireworks.ai
 url: "https://fireworks.ai/"
 image: /logos/fireworks-ai.png
-screenshot: /screens/fireworks-ai.jpg
+screenshot: /screens/fireworks-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Fireworks AI is a cloud‑hosted inference platform supporting code, conversational, agentic, and search workflows across text, vision, audio, and image...

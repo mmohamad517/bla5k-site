@@ -2,7 +2,7 @@
 name: Depthtale
 url: "https://www.depthtale.com/"
 image: /logos/depthtale.png
-screenshot: /screens/depthtale.jpg
+screenshot: /screens/depthtale.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Depthtale is an AI‑powered visual novel platform that lets creators design, edit, and publish interactive stories.

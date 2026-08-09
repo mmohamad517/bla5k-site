@@ -2,7 +2,7 @@
 name: Rebolt
 url: "https://rebolt.ai"
 image: /logos/rebolt.png
-screenshot: /screens/rebolt.jpg
+screenshot: /screens/rebolt.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Rebolt is a no-code AI app builder that uses natural language to create apps, agents, workflows and websites, integrating enterprise data sources (Gmail,...

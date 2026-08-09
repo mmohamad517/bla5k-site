@@ -2,7 +2,7 @@
 name: Design of Perception
 url: "https://www.designofperception.com/"
 image: /logos/design-of-perception.png
-screenshot: /screens/design-of-perception.jpg
+screenshot: /screens/design-of-perception.webp
 subcategory: design-graphics
 pricing: paid
 tagline: Design of Perception is an AI‑driven web platform curating high‑resolution digital wall art.

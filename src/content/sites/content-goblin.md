@@ -2,7 +2,7 @@
 name: Content Goblin
 url: "https://contentgoblin.ai/"
 image: /logos/content-goblin.png
-screenshot: /screens/content-goblin.jpg
+screenshot: /screens/content-goblin.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Content Goblin is an AI-powered tool designed to generate high-quality listicles and conent, complete with subheadings, images, and descriptive text.

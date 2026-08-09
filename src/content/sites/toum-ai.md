@@ -2,7 +2,7 @@
 name: Toum AI
 url: "https://toum.ai"
 image: /logos/toum-ai.png
-screenshot: /screens/toum-ai.jpg
+screenshot: /screens/toum-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Toum AI is a multilingual voice AI platform that enables teams to build, deploy, and orchestrate autonomous voice agents for contact centers.

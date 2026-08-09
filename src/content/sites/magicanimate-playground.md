@@ -2,7 +2,7 @@
 name: MagicAnimate Playground
 url: "https://www.magicanimate.org"
 image: /logos/magicanimate-playground.png
-screenshot: /screens/magicanimate-playground.jpg
+screenshot: /screens/magicanimate-playground.webp
 subcategory: ai-image
 pricing: free
 tagline: MagicAnimate animates static images with temporally consistent motion using a diffusion model and MSE‑finetuned VAE, supports cross‑ID animation,...

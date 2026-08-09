@@ -2,7 +2,7 @@
 name: Prodtimize
 url: "https://prodtimize.com"
 image: /logos/prodtimize-com.png
-screenshot: /screens/prodtimize-com.jpg
+screenshot: /screens/prodtimize-com.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Prodtimize converts raw product data and spec sheets into marketplace-specific titles, descriptions, search terms and technical copy for Amazon, Shopify,...

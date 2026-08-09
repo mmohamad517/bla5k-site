@@ -2,7 +2,7 @@
 name: BrewNote
 url: "https://app.looppanel.com/brewnote"
 image: /logos/brewnote.png
-screenshot: /screens/brewnote.jpg
+screenshot: /screens/brewnote.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Looppanel lets researchers upload interview recordings via drag‑and‑drop, producing concise AI‑generated transcripts within about ten minutes.

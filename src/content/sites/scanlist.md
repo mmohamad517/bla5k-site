@@ -2,7 +2,7 @@
 name: Scanlist
 url: "https://scanlist.ai"
 image: /logos/scanlist.png
-screenshot: /screens/scanlist.jpg
+screenshot: /screens/scanlist.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Scanlist, a Chrome extension, harvests LinkedIn lead data, adds verified emails, and 20+ data points.

@@ -2,7 +2,7 @@
 name: WPGPT
 url: "https://wpaithemes.com/wpgpt"
 image: /logos/wpgpt.png
-screenshot: /screens/wpgpt.jpg
+screenshot: /screens/wpgpt.webp
 subcategory: nc-builders
 pricing: paid
 tagline: The WPGPT plugin allows users to create custom AI-powered chat for their WordPress website, offering pre-built models for various niches and the ability to...

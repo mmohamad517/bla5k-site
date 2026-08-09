@@ -2,7 +2,7 @@
 name: Archsynth
 url: "https://www.archsynth.com/"
 image: /logos/archsynth.png
-screenshot: /screens/archsynth.jpg
+screenshot: /screens/archsynth.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: Archsynth transforms 2‑D sketches into detailed 3‑D models and high‑resolution renders instantly, supporting image‑to‑CAD, mood‑board, texture, and virtual...

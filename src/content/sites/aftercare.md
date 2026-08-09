@@ -2,7 +2,7 @@
 name: Aftercare
 url: "https://www.getaftercare.com"
 image: /logos/aftercare.png
-screenshot: /screens/aftercare.jpg
+screenshot: /screens/aftercare.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Aftercare is an AI‑powered survey platform that automates follow‑up prompts, flags data quality issues, auto‑codes responses, and builds dynamic paths via a...

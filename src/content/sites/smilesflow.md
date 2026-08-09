@@ -2,7 +2,7 @@
 name: SmilesFlow
 url: "https://www.smilesflow.com"
 image: /logos/smilesflow.png
-screenshot: /screens/smilesflow.jpg
+screenshot: /screens/smilesflow.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: SmilesFlow is an interactive content creation platform that enables users to embed customizable games in blogs and social media.

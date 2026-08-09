@@ -2,7 +2,7 @@
 name: IP-Adapter-FaceID AI
 url: "https://ipadapterfaceid.com"
 image: /logos/ip-adapter-faceid-ai.png
-screenshot: /screens/ip-adapter-faceid-ai.jpg
+screenshot: /screens/ip-adapter-faceid-ai.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: IP Adapter Face ID enables generation that clones a user’s face into varied contexts.

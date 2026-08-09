@@ -2,7 +2,7 @@
 name: Adsgency ai mvp
 url: "https://AdsGency.ai"
 image: /logos/adsgency-ai-mvp.png
-screenshot: /screens/adsgency-ai-mvp.jpg
+screenshot: /screens/adsgency-ai-mvp.webp
 subcategory: mkt-social
 pricing: paid
 tagline: AdsGency AI centralizes ad creation, targeting, automation, and analytics across Google, Facebook, and Instagram.

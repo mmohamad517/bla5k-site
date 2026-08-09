@@ -2,7 +2,7 @@
 name: VREE Labs
 url: "https://vree.ai/"
 image: /logos/vree-labs.png
-screenshot: /screens/vree-labs.jpg
+screenshot: /screens/vree-labs.webp
 subcategory: design-3d
 pricing: freemium
 tagline: VREE Labs converts 2‑D product images into high‑quality 3‑D GLB models in seconds with computer vision and deep learning, enabling e‑commerce, AR, and VR...

@@ -2,7 +2,7 @@
 name: squirai.com
 url: "https://squirai.com"
 image: /logos/squirai-com.png
-screenshot: /screens/squirai-com.jpg
+screenshot: /screens/squirai-com.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Squirai automates product description creation, SEO‑focused content optimization, and bulk image processing.

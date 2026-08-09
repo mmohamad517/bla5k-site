@@ -2,7 +2,7 @@
 name: Soul Machines Studio
 url: "https://www.soulmachines.com/soul-machines-studio"
 image: /logos/soul-machines-studio.png
-screenshot: /screens/soul-machines-studio.jpg
+screenshot: /screens/soul-machines-studio.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Soul Machines Studio is a platform for creating autonomous, interactive AI assistants with customizable appearance, tone, and personality.

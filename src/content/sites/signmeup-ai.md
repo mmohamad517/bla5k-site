@@ -2,7 +2,7 @@
 name: Signmeup.ai
 url: "https://www.signmeup.ai"
 image: /logos/signmeup-ai.png
-screenshot: /screens/signmeup-ai.jpg
+screenshot: /screens/signmeup-ai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: SignMeUp.ai auto‑generates complete web forms from a text prompt, adding fields, copy, and layout.

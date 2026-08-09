@@ -2,7 +2,7 @@
 name: SafeWaters.ai
 url: "https://safewaters.ai"
 image: /logos/safewaters-ai.png
-screenshot: /screens/safewaters-ai.jpg
+screenshot: /screens/safewaters-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: SafeWaters.ai predicts global shark activity with 83% accuracy, provides surf and tide data, visibility forecasts from chlorophyll maps, an AI chat on shark...

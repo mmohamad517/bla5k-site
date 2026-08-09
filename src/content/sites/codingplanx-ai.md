@@ -2,7 +2,7 @@
 name: CodingPlanX AI
 url: "https://codingplanx.ai"
 image: /logos/codingplanx-ai.png
-screenshot: /screens/codingplanx-ai.jpg
+screenshot: /screens/codingplanx-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: CodingPlanX AI is a development planning tool that converts project requirements into structured plans with code scaffolding and task breakdowns.

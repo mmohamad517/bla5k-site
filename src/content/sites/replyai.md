@@ -2,7 +2,7 @@
 name: ReplyAI
 url: "https://replyai.ai/"
 image: /logos/replyai.png
-screenshot: /screens/replyai.jpg
+screenshot: /screens/replyai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: AI Email Writer utilizes GPT-4 technology to accelerate email composition, offering customizable templates and smart suggestions for Gmail and Outlook.

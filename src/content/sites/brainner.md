@@ -2,7 +2,7 @@
 name: Brainner
 url: "https://www.brainner.ai"
 image: /logos/brainner.png
-screenshot: /screens/brainner.jpg
+screenshot: /screens/brainner.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Brainner is an AI‑powered resume screening platform that integrates with major ATS, automatically extracts job criteria, ranks candidates in real time,...

@@ -2,7 +2,7 @@
 name: SUAPP AI
 url: "https://suapp.ai"
 image: /logos/suapp-ai.png
-screenshot: /screens/suapp-ai.jpg
+screenshot: /screens/suapp-ai.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Suapp AI is a creative platform for designers and architects, offering tools for image-to-video conversion, rapid image generation, 2D to 3D modeling, and...

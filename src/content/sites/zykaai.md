@@ -2,7 +2,7 @@
 name: ZykaAI
 url: "https://zyka.ai"
 image: /logos/zykaai.png
-screenshot: /screens/zykaai.jpg
+screenshot: /screens/zykaai.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Zyka is an AI-powered platform that enhances user onboarding and experience in SaaS applications.

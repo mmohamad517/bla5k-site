@@ -2,7 +2,7 @@
 name: EyeGestures
 url: "https://eyegestures.com"
 image: /logos/eyegestures.png
-screenshot: /screens/eyegestures.jpg
+screenshot: /screens/eyegestures.webp
 subcategory: ai-chat
 pricing: free
 tagline: EyeGestures is a gaze‑tracking library that works with laptop or smartphone webcams.

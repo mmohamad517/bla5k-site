@@ -2,7 +2,7 @@
 name: Paird.ai
 url: "https://paird.ai"
 image: /logos/paird-ai.png
-screenshot: /screens/paird-ai.jpg
+screenshot: /screens/paird-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Paird.ai is a collaborative AI tool enabling real-time code generation and feedback for teams.

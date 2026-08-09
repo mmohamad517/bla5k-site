@@ -2,7 +2,7 @@
 name: TRELLIS 3D AI
 url: "https://trellis3d.co"
 image: /logos/trellis-3d-ai.png
-screenshot: /screens/trellis-3d-ai.jpg
+screenshot: /screens/trellis-3d-ai.webp
 subcategory: design-3d
 pricing: free
 tagline: Trellis 3D AI transforms 2D images into high-quality 3D models with detailed textures and geometry.

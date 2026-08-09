@@ -2,7 +2,7 @@
 name: Ticket Artisan
 url: "https://ticketartisan.com/"
 image: /logos/ticket-artisan.png
-screenshot: /screens/ticket-artisan.jpg
+screenshot: /screens/ticket-artisan.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Ticket Artisan simplifies the conversion of designs into development tickets.

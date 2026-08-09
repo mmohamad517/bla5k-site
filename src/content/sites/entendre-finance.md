@@ -2,7 +2,7 @@
 name: Entendre Finance
 url: "https://entendre.finance"
 image: /logos/entendre-finance.png
-screenshot: /screens/entendre-finance.jpg
+screenshot: /screens/entendre-finance.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Entendre automates month‑end accounting, handling journal entries, reconciliations, and variance analysis through AI agents.

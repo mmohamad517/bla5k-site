@@ -2,7 +2,7 @@
 name: aiKTP
 url: "https://aiktp.com/nl"
 image: /logos/aiktp.png
-screenshot: /screens/aiktp.jpg
+screenshot: /screens/aiktp.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: AIKTP.com is an AI blog writer tool that generates 1,000-1,500 words SEO-optimized articles from given keywords and outlines, offering real-time data usage,...

@@ -2,7 +2,7 @@
 name: WeWeb
 url: "https://weweb.io/"
 image: /logos/weweb.png
-screenshot: /screens/weweb.jpg
+screenshot: /screens/weweb.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: WeWeb is a no-code AI platform for building and customizing web apps with a drag-and-drop editor, requiring no coding skills.

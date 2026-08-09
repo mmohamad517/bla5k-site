@@ -2,7 +2,7 @@
 name: LULA
 url: "https://lula.is"
 image: /logos/lula.png
-screenshot: /screens/lula.jpg
+screenshot: /screens/lula.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Lula Gail Insurance AI is a cutting-edge virtual assistant utilizing generative AI.

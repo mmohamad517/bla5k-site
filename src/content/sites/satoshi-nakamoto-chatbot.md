@@ -2,7 +2,7 @@
 name: Satoshi Nakamoto Chatbot
 url: "https://www.messengerx.io/satoshi-nakamoto"
 image: /logos/satoshi-nakamoto-chatbot.png
-screenshot: /screens/satoshi-nakamoto-chatbot.jpg
+screenshot: /screens/satoshi-nakamoto-chatbot.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: The AI tool allows users to create a character named Satoshi Nakamoto in multiple languages, and has a disclaimer that everything he says may be falsely...

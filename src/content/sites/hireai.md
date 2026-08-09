@@ -2,7 +2,7 @@
 name: HireAI
 url: "https://arc.dev/"
 image: /logos/hireai.png
-screenshot: /screens/hireai.jpg
+screenshot: /screens/hireai.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Arc gives instant access to 450,000 professionals across 190 countries, with hiring timelines of 72 hours for freelance and up to 14 days for full‑time roles.

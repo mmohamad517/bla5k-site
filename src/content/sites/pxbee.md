@@ -2,7 +2,7 @@
 name: PxBee
 url: https://www.pxbee.com/
 image: /logos/pxbee.png
-screenshot: /screens/pxbee.jpg
+screenshot: /screens/pxbee.webp
 subcategory: ai-image
 tagline: "AI photo editor with smart tools — enhance, retouch, and transform images with AI."
 tags: [pxbee, ai photo editor, enhance, retouch, transform]

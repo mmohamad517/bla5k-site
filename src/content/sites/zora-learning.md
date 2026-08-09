@@ -2,7 +2,7 @@
 name: Zora Learning
 url: "https://zoralearning.com"
 image: /logos/zora-learning.png
-screenshot: /screens/zora-learning.jpg
+screenshot: /screens/zora-learning.webp
 subcategory: ai-chat
 pricing: free
 tagline: Zora is an adaptive storytelling platform that generates personalized narratives for K‑12 and college readers, adjusting difficulty and vocabulary as users...

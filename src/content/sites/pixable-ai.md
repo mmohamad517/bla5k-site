@@ -2,7 +2,7 @@
 name: pixable.ai
 url: "https://pixable.ai"
 image: /logos/pixable-ai.png
-screenshot: /screens/pixable-ai.jpg
+screenshot: /screens/pixable-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Pixable provides full-stack AI technology services, including AI enablement, software development, SaaS implementation, and DevOps, delivering websites,...

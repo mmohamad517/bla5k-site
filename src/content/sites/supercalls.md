@@ -2,7 +2,7 @@
 name: SuperCalls
 url: "https://supercalls.ai"
 image: /logos/supercalls.png
-screenshot: /screens/supercalls.jpg
+screenshot: /screens/supercalls.webp
 subcategory: nc-automation
 pricing: paid
 tagline: SuperCalls automates bulk voice outreach from CSV lists, using ChatGPT prompts to make calls, record, transcribe, and summarize.

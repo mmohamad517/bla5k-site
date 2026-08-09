@@ -2,7 +2,7 @@
 name: EfficientAI
 url: "https://efficientai.cloud"
 image: /logos/efficientai.png
-screenshot: /screens/efficientai.jpg
+screenshot: /screens/efficientai.webp
 subcategory: nc-automation
 pricing: free
 tagline: Efficient AI is an open-source voice evaluation platform that automates end-to-end testing of conversational agents—simulating IVR/contact-center call...

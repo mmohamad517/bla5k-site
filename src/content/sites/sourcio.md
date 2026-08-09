@@ -2,7 +2,7 @@
 name: Sourcio
 url: "https://sourcio.co/"
 image: /logos/sourcio.png
-screenshot: /screens/sourcio.jpg
+screenshot: /screens/sourcio.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Sourcio AI Hiring Agent is an automates talent sourcing by suggesting top candidates based on interests and experiences, integrating with ATS platforms for...

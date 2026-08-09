@@ -2,7 +2,7 @@
 name: Roark
 url: "https://roark.ai"
 image: /logos/roark.png
-screenshot: /screens/roark.jpg
+screenshot: /screens/roark.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Roark - Voice AI Evals provides monitoring and evaluation tools for voice AI, tracking over 40 call metrics, facilitating multi-speaker analysis, and...

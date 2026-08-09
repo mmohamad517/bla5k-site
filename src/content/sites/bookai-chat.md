@@ -2,7 +2,7 @@
 name: BookAI.chat
 url: "https://www.bookai.chat/"
 image: /logos/bookai-chat.png
-screenshot: /screens/bookai-chat.jpg
+screenshot: /screens/bookai-chat.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: BookAI.chat lets users chat with any book by entering title and author, supports over 30 languages, and uses GPT‑3/4 to deliver instant, context‑aware...

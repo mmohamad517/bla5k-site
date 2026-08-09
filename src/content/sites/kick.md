@@ -2,7 +2,7 @@
 name: Kick
 url: "https://kick.co"
 image: /logos/kick.png
-screenshot: /screens/kick.jpg
+screenshot: /screens/kick.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Kick is an automated bookkeeping tool that categorizes transactions in real-time, offers customizable rules, and generates tax-ready financial statements.

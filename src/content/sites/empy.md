@@ -2,7 +2,7 @@
 name: Empy
 url: "https://empy.ai/"
 image: /logos/empy.png
-screenshot: /screens/empy.jpg
+screenshot: /screens/empy.webp
 subcategory: learn-courses
 pricing: freemium
 tagline: Empy offers real‑time coaching via a desktop widget on Zoom, Teams and Google Meet, delivering instant answer suggestions, speaking balance and tone...

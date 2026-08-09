@@ -2,7 +2,7 @@
 name: LeadGenSheet
 url: "https://leadgensheet.com/"
 image: /logos/leadgensheet.png
-screenshot: /screens/leadgensheet.jpg
+screenshot: /screens/leadgensheet.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: CapGo.AI is a Google Sheets add‑on that centralizes lead generation, enrichment, email automation, web searches, PDF data extraction, and contact verification.

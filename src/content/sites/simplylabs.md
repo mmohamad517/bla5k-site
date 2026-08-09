@@ -2,7 +2,7 @@
 name: SimplyLabs
 url: "https://www.simplylabs.ai/"
 image: /logos/simplylabs.png
-screenshot: /screens/simplylabs.jpg
+screenshot: /screens/simplylabs.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: SimplyLabs automates review collection, AI‑driven lead generation, video widget embedding, and code‑free conversion link management for small businesses,...

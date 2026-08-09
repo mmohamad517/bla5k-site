@@ -2,7 +2,7 @@
 name: Tripo3D
 url: "https://www.tripo3d.ai/"
 image: /logos/tripo3d.png
-screenshot: /screens/tripo3d.jpg
+screenshot: /screens/tripo3d.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Tripo converts text or 2D images into production‑ready 3D assets, delivering watertight meshes, precise segmentation, 4K PBR texturing, auto‑rigging, and...

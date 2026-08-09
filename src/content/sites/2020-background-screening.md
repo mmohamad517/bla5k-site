@@ -2,7 +2,7 @@
 name: 2020 background screening
 url: "https://www.2020screening.com"
 image: /logos/2020-background-screening.png
-screenshot: /screens/2020-background-screening.jpg
+screenshot: /screens/2020-background-screening.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: 2020 Background Screening delivers rapid, accurate checks integrated with applicant‑tracking systems, pulling data from multiple sources.

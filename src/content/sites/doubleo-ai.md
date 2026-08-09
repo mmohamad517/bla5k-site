@@ -2,7 +2,7 @@
 name: DoubleO.AI
 url: "https://www.doubleo.ai/"
 image: /logos/doubleo-ai.png
-screenshot: /screens/doubleo-ai.jpg
+screenshot: /screens/doubleo-ai.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Build your own AI agent to automate tasks and projects.

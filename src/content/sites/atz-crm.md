@@ -2,7 +2,7 @@
 name: ATZ CRM
 url: "https://atzcrm.com"
 image: /logos/atz-crm.png
-screenshot: /screens/atz-crm.jpg
+screenshot: /screens/atz-crm.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: AtZ CRM is an AI-driven recruitment software that combines ATS and CRM functionalities, streamlining hiring workflows with automation, smart resume parsing,...

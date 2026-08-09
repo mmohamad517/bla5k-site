@@ -2,7 +2,7 @@
 name: TapTalent
 url: "https://taptalent.ai"
 image: /logos/taptalent.png
-screenshot: /screens/taptalent.jpg
+screenshot: /screens/taptalent.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: TapTalent.ai streamlines recruitment by providing access to over 800 million professional contacts, advanced filtering options, and a unified inbox for...

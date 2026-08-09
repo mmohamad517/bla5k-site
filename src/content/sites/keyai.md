@@ -2,7 +2,7 @@
 name: Keyai
 url: "https://keyai.net"
 image: /logos/keyai.png
-screenshot: /screens/keyai.jpg
+screenshot: /screens/keyai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: KeyAI lets businesses deploy code‑free chatbots for real‑time support across websites, LiveChat, Messenger, and Slack.

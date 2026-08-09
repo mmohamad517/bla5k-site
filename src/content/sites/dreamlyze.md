@@ -2,7 +2,7 @@
 name: Dreamlyze
 url: "https://www.dreamlyze.com"
 image: /logos/dreamlyze.png
-screenshot: /screens/dreamlyze.jpg
+screenshot: /screens/dreamlyze.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Dreamlyze lets users log dreams quickly and receive AI‑generated interpretations that highlight key themes and emotions.

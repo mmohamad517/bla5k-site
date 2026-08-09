@@ -2,7 +2,7 @@
 name: GetLeads
 url: "https://rainex.io/get-leads/"
 image: /logos/getleads.png
-screenshot: /screens/getleads.jpg
+screenshot: /screens/getleads.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: GetLeads is an AI‑driven platform that delivers real‑time, verified decision‑maker contacts using advanced filters and social media searches.

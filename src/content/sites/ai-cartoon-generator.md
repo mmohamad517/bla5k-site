@@ -2,7 +2,7 @@
 name: AI Cartoon Generator
 url: "https://aicartoongenerator.net/"
 image: /logos/ai-cartoon-generator.png
-screenshot: /screens/ai-cartoon-generator.jpg
+screenshot: /screens/ai-cartoon-generator.webp
 subcategory: ai-image
 pricing: paid
 tagline: AI Cartoon Generator converts detailed text prompts into high‑resolution cartoon or anime images in 10–30 seconds.

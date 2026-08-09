@@ -2,7 +2,7 @@
 name: Buenote
 url: "https://buenote.app"
 image: /logos/buenote.png
-screenshot: /screens/buenote.jpg
+screenshot: /screens/buenote.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Buenote is an AI tool that automates content generation for brick-and-mortar and e-commerce businesses, including product details, social media posts, and...

@@ -2,7 +2,7 @@
 name: talktokai.com
 url: "https://talktokai.com"
 image: /logos/talktokai-com.png
-screenshot: /screens/talktokai-com.jpg
+screenshot: /screens/talktokai-com.webp
 subcategory: nc-automation
 pricing: freemium
 tagline: Plataforma de automatización para WhatsApp que crea agentes 24/7 para captura de datos, agendamiento y atención continua; sincroniza calendarios, envía...

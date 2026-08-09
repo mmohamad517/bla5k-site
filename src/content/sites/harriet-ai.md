@@ -2,7 +2,7 @@
 name: Harriet.ai
 url: "https://www.harrietcfo.com"
 image: /logos/harriet-ai.png
-screenshot: /screens/harriet-ai.jpg
+screenshot: /screens/harriet-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Harriet delivers a real‑time dashboard for small‑business financial management, integrating with QuickBooks.

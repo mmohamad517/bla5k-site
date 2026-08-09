@@ -2,7 +2,7 @@
 name: Solidroad
 url: "https://www.solidroad.com"
 image: /logos/solidroad.png
-screenshot: /screens/solidroad.jpg
+screenshot: /screens/solidroad.webp
 subcategory: learn-courses
 pricing: freemium
 tagline: Solidroad is an AI‑driven platform that evaluates phone, chat, video, and email interactions instantly, unifying metrics in one dashboard.

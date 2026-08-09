@@ -2,7 +2,7 @@
 name: Komensa
 url: "https://weblyflex.com/"
 image: /logos/komensa.png
-screenshot: /screens/komensa.jpg
+screenshot: /screens/komensa.webp
 subcategory: learn-courses
 pricing: freemium
 tagline: Komensa is an AI‑powered platform that guides couples through structured, turn‑based conversations using a mediator chatbot and proven conflict‑resolution...

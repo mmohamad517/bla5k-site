@@ -2,7 +2,7 @@
 name: Coconaut
 url: "https://coconaut.ai"
 image: /logos/coconaut.png
-screenshot: /screens/coconaut.jpg
+screenshot: /screens/coconaut.webp
 subcategory: nc-builders
 pricing: paid
 tagline: Coconaut.ai enables rapid chatbot deployment by training models from uploaded PDFs or website URLs.

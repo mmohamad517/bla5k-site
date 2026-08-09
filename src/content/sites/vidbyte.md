@@ -2,7 +2,7 @@
 name: Vidbyte
 url: "https://vidbyte.pro"
 image: /logos/vidbyte.png
-screenshot: /screens/vidbyte.jpg
+screenshot: /screens/vidbyte.webp
 subcategory: ai-image
 pricing: free
 tagline: Vidbyte converts text and images into short educational videos with visual aids and step by step walkthroughs for homework and exam prep across subjects...

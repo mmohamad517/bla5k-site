@@ -2,7 +2,7 @@
 name: Monet AI
 url: "https://monet.vision"
 image: /logos/monet-ai.png
-screenshot: /screens/monet-ai.jpg
+screenshot: /screens/monet-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Monet AI is an all-in-one content creation platform that combines multiple generative models for text-to-video, text-to-image, image-to-video,...

@@ -2,7 +2,7 @@
 name: StrataReports
 url: "https://www.stratareports.ca"
 image: /logos/stratareports.png
-screenshot: /screens/stratareports.jpg
+screenshot: /screens/stratareports.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: StrataReports automatically reviews condo and strata documents, generating a structured summary in under 15 minutes.

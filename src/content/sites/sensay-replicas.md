@@ -2,7 +2,7 @@
 name: Sensay Replicas
 url: "https://sensay.io"
 image: /logos/sensay-replicas.png
-screenshot: /screens/sensay-replicas.jpg
+screenshot: /screens/sensay-replicas.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Sensay is an AI replication tool that creates personalized digital avatars for sectors like dementia care and education.

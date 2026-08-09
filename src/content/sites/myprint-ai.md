@@ -2,7 +2,7 @@
 name: MyPrint.ai
 url: "https://www.myprint.ai/"
 image: /logos/myprint-ai.png
-screenshot: /screens/myprint-ai.jpg
+screenshot: /screens/myprint-ai.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: Upload at least ten photos to generate 100+ themed artworks per set.

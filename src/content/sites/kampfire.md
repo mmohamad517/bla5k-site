@@ -2,7 +2,7 @@
 name: Kampfire
 url: "https://www.kampfire.online"
 image: /logos/kampfire.png
-screenshot: /screens/kampfire.jpg
+screenshot: /screens/kampfire.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Kampfire creates AI‑generated photo albums for event attendees, syncing with registration, lead capture, and CRM.

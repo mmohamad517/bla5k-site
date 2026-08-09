@@ -2,7 +2,7 @@
 name: AI Lyrics Generator
 url: "https://lyricsgenerator.com"
 image: /logos/ai-lyrics-generator.png
-screenshot: /screens/ai-lyrics-generator.jpg
+screenshot: /screens/ai-lyrics-generator.webp
 subcategory: ai-writing
 pricing: free
 tagline: AI Lyrics Generator creates genre‑specific lyrics—rap, K‑pop, country, metal, rock, pop, gospel, reggae, soul—using user‑chosen genre, mood, and keywords.

@@ -2,7 +2,7 @@
 name: Roleplay GPT
 url: "https://RoleplayGPT.com"
 image: /logos/roleplay-gpt.png
-screenshot: /screens/roleplay-gpt.jpg
+screenshot: /screens/roleplay-gpt.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: RoleplayGPT is an AI platform offering 100+ roleplay models built on OpenAI’s GPT, enabling multi‑character interactive storytelling across genres.

@@ -2,7 +2,7 @@
 name: Zecoba AI Chat
 url: "https://zai.chat/en-US"
 image: /logos/zecoba-ai-chat.png
-screenshot: /screens/zecoba-ai-chat.jpg
+screenshot: /screens/zecoba-ai-chat.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Zecoba AI is a versatile tool that assists with programming, essay outlining, content generation, language translation, grammatical corrections, and more,...

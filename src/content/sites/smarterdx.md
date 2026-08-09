@@ -2,7 +2,7 @@
 name: SmarterDx
 url: "https://smarterdx.com"
 image: /logos/smarterdx.png
-screenshot: /screens/smarterdx.jpg
+screenshot: /screens/smarterdx.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: SmarterDx applies clinical AI to analyze inpatient charts, extracting diagnoses, procedures and supporting evidence to identify missing or incorrect codes,...

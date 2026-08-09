@@ -2,7 +2,7 @@
 name: Trumpet
 url: "https://www.sendtrumpet.com"
 image: /logos/trumpet.png
-screenshot: /screens/trumpet.jpg
+screenshot: /screens/trumpet.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Trumpet centralizes sales content, proposals, and collaboration in a secure digital room.

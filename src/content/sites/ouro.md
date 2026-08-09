@@ -2,7 +2,7 @@
 name: Ouro
 url: "https://ouro.foundation"
 image: /logos/ouro.png
-screenshot: /screens/ouro.jpg
+screenshot: /screens/ouro.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Ouro is a collaborative platform that lets researchers upload and monetize Earth datasets, share APIs via Water APIs, embed live data and code in posts,...

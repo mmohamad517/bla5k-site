@@ -2,7 +2,7 @@
 name: netradyne.com
 url: "https://netradyne.com"
 image: /logos/netradyne-com.png
-screenshot: /screens/netradyne-com.jpg
+screenshot: /screens/netradyne-com.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Driver•i is an AI-driven video telematics system that records forward and inward cameras, monitors driver drowsiness and distraction with DMS and audio...

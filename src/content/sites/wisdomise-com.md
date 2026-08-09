@@ -2,7 +2,7 @@
 name: Wisdomise
 url: "https://wisdomise.com"
 image: /logos/wisdomise-com.png
-screenshot: /screens/wisdomise-com.jpg
+screenshot: /screens/wisdomise-com.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Wisdomise provides AI-driven automated crypto index funds with risk-adjusted allocation and automated rebalancing across major cryptocurrencies, real-time...

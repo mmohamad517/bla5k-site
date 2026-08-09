@@ -2,7 +2,7 @@
 name: MaxKB
 url: "https://maxkb.pro"
 image: /logos/maxkb.png
-screenshot: /screens/maxkb.jpg
+screenshot: /screens/maxkb.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Maxkb is an open-source platform for building enterprise-grade agents that enhance interaction and information retrieval using retrieval-augmented generation.

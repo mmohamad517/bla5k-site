@@ -2,7 +2,7 @@
 name: Contents
 url: "https://contents.com/"
 image: /logos/contents.png
-screenshot: /screens/contents.jpg
+screenshot: /screens/contents.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: The AI tool is a comprehensive content generation platform with various solutions to boost creativity and productivity including AI writer, copywriting,...

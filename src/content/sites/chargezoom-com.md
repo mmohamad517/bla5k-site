@@ -2,7 +2,7 @@
 name: chargezoom.com
 url: "https://chargezoom.com"
 image: /logos/chargezoom-com.png
-screenshot: /screens/chargezoom-com.jpg
+screenshot: /screens/chargezoom-com.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: "Chargezoom automates accounts‑receivable: AI invoicing, recurring billing, payment collection, and reconciliation."

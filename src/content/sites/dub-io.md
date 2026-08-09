@@ -2,7 +2,7 @@
 name: Dub.io
 url: "https://dub.io"
 image: /logos/dub-io.png
-screenshot: /screens/dub-io.jpg
+screenshot: /screens/dub-io.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: "##dub is an AI tool that automates high-quality, SEO-friendly blog article generation."

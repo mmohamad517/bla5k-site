@@ -2,7 +2,7 @@
 name: Superset.sh
 url: "https://superset.sh/"
 image: /logos/superset-sh.png
-screenshot: /screens/superset-sh.jpg
+screenshot: /screens/superset-sh.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: supet.sh is an agent-agnostic platform that orchestrates dozens of parallel AI coding agents in isolated git worktrees for concurrent development.

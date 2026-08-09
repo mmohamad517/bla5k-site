@@ -2,7 +2,7 @@
 name: Grade
 url: "https://usegrade.com"
 image: /logos/usegrade-com.png
-screenshot: /screens/usegrade-com.jpg
+screenshot: /screens/usegrade-com.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Grade automates creator payouts and tracking for UGC and influencer teams, enabling global email-based payments without creator onboarding, bulk and...

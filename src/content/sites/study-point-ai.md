@@ -2,7 +2,7 @@
 name: Study Point AI
 url: "https://studypointai.com"
 image: /logos/study-point-ai.png
-screenshot: /screens/study-point-ai.jpg
+screenshot: /screens/study-point-ai.webp
 subcategory: ai-image
 pricing: paid
 tagline: Study Point AI delivers instant, step‑by‑step math solutions, AI‑assisted writing feedback, and tutoring across math, science, programming, and history.

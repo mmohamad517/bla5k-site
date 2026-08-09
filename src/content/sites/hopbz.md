@@ -2,7 +2,7 @@
 name: Hopbz
 url: "https://hopbz.com"
 image: /logos/hopbz.png
-screenshot: /screens/hopbz.jpg
+screenshot: /screens/hopbz.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Hopbz is an AI‑powered business idea generator that tailors concepts to local market conditions and user preferences.

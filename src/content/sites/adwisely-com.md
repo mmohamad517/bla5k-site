@@ -2,7 +2,7 @@
 name: adwisely.com
 url: "https://adwisely.com"
 image: /logos/adwisely-com.png
-screenshot: /screens/adwisely-com.jpg
+screenshot: /screens/adwisely-com.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Adwisely is an AI advertising tool that optimizes ad campaigns for eCommerce platforms like Shopify and WooCommerce.

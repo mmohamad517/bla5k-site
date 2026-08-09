@@ -2,7 +2,7 @@
 name: CoinScreener
 url: "https://www.coinscreener.ai"
 image: /logos/coinscreener.png
-screenshot: /screens/coinscreener.jpg
+screenshot: /screens/coinscreener.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: CoinScreener delivers AI‑driven crypto signals and real‑time insights for over 1,000 markets.

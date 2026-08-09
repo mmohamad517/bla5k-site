@@ -2,7 +2,7 @@
 name: WriteHuman
 url: "https://writehuman.ai/"
 image: /logos/writehuman.png
-screenshot: /screens/writehuman.jpg
+screenshot: /screens/writehuman.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: WriteHuman AI Humanizer refines ChatGPT, Claude, Gemini, and Deepseek outputs into natural prose, preserving the author’s voice.

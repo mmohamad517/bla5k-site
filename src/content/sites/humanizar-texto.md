@@ -2,7 +2,7 @@
 name: Humanizar Texto
 url: "https://humanizartexto.cc/"
 image: /logos/humanizar-texto.png
-screenshot: /screens/humanizar-texto.jpg
+screenshot: /screens/humanizar-texto.webp
 subcategory: ai-writing
 pricing: free
 tagline: Humanizar Texto converts AI-generated text into human-like writing by ensuring originality and engagement.

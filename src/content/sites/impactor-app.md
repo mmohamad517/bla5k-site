@@ -2,7 +2,7 @@
 name: Impactor.APP
 url: "https://impactor.app"
 image: /logos/impactor-app.png
-screenshot: /screens/impactor-app.jpg
+screenshot: /screens/impactor-app.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Impactor App enables teams to collaboratively generate, refine, and prioritize ideas.

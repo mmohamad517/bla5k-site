@@ -2,7 +2,7 @@
 name: Muses AI
 url: "https://www.muses.my"
 image: /logos/muses-ai.png
-screenshot: /screens/muses-ai.jpg
+screenshot: /screens/muses-ai.webp
 subcategory: ai-writing
 pricing: free
 tagline: Muses is an AI writing agent for articles, marketing copy, academic papers, and fiction, offering multi-model comparison (GPT-5, Claude 4.5, Gemini 2.5), an...

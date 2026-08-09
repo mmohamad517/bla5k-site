@@ -2,7 +2,7 @@
 name: Agent.ai
 url: "https://agent.ai"
 image: /logos/agent-ai.png
-screenshot: /screens/agent-ai.jpg
+screenshot: /screens/agent-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Agent.ai is a platform that connects users with a marketplace of over 1,261 AI agents for hiring and task automation.

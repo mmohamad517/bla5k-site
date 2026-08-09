@@ -2,7 +2,7 @@
 name: ZeroGPT.Tools
 url: "https://zerogpt.tools/"
 image: /logos/zerogpt-tools.png
-screenshot: /screens/zerogpt-tools.jpg
+screenshot: /screens/zerogpt-tools.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: ZeroGPT is a web‑based AI detector that evaluates text for content from models like ChatGPT, GPT‑4, Claude, and more, delivering a percentage score.

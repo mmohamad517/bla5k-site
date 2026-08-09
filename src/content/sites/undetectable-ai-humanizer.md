@@ -2,7 +2,7 @@
 name: Undetectable AI Humanizer
 url: "https://undetectablehumanizer.com"
 image: /logos/undetectable-ai-humanizer.png
-screenshot: /screens/undetectable-ai-humanizer.jpg
+screenshot: /screens/undetectable-ai-humanizer.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Undetectable Humanizer generates human‑like text that evades AI detectors using GPT‑4, Gemini, and Claude.

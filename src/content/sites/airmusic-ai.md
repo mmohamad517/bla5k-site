@@ -2,7 +2,7 @@
 name: AirMusic
 url: "https://airmusic.ai/"
 image: /logos/airmusic-ai.png
-screenshot: /screens/airmusic-ai.jpg
+screenshot: /screens/airmusic-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: AirMusic.ai is an AI music production suite that generates and customizes original tracks, extends compositions, and creates AI covers with vocal cloning.

@@ -2,7 +2,7 @@
 name: Oreate AI
 url: "https://www.oreateai.com/home/index"
 image: /logos/oreate-ai.png
-screenshot: /screens/oreate-ai.jpg
+screenshot: /screens/oreate-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Oreate AI is an all-in-one workspace that centralizes projects, files, chat and activity logs, pairing drag-and-drop management with integrated AI for...

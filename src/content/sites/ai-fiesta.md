@@ -2,7 +2,7 @@
 name: AI Fiesta
 url: "https://aifiesta.ai"
 image: /logos/ai-fiesta.png
-screenshot: /screens/ai-fiesta.jpg
+screenshot: /screens/ai-fiesta.webp
 subcategory: ai-chat
 pricing: paid
 tagline: AI Fiesta lets you run multiple AI models side-by-side in one chat with preserved context, automated model selection, prompt enhancement, image generation,...

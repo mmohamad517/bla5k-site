@@ -2,7 +2,7 @@
 name: IntegraBot.ai
 url: "https://integrabot.ai"
 image: /logos/integrabot-ai.png
-screenshot: /screens/integrabot-ai.jpg
+screenshot: /screens/integrabot-ai.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Integrabot automates task execution, data analysis, and lead management via natural‑language commands.

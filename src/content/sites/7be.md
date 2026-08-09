@@ -2,7 +2,7 @@
 name: 7BE
 url: "https://7be.io"
 image: /logos/7be.png
-screenshot: /screens/7be.jpg
+screenshot: /screens/7be.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: 7be is a B2B IT-services marketplace that connects businesses with verified agencies in development, design, and marketing.

@@ -2,7 +2,7 @@
 name: Edge
 url: "https://www.withedge.com/"
 image: /logos/edge.png
-screenshot: /screens/edge.jpg
+screenshot: /screens/edge.webp
 subcategory: nc-automation
 pricing: freemium
 tagline: Edge is an AI‑driven patent drafting platform that automates claims, descriptions, and background sections, generates publication‑ready figures, parses...

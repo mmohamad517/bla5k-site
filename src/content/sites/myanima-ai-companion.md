@@ -2,7 +2,7 @@
 name: MyAnima AI Companion
 url: "https://myanima.ai/"
 image: /logos/myanima-ai-companion.png
-screenshot: /screens/myanima-ai-companion.jpg
+screenshot: /screens/myanima-ai-companion.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Anima is an AI companion on Android and iOS designed to facilitate conversation, roleplaying, and improve communication skills.

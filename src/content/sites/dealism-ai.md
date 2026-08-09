@@ -2,7 +2,7 @@
 name: Dealism.ai
 url: "https://dealism.ai/"
 image: /logos/dealism-ai.png
-screenshot: /screens/dealism-ai.jpg
+screenshot: /screens/dealism-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Dealism.ai is an AI sales assistant for WhatsApp Business that engages customers 24/7 with human-like, personalized dialogue.

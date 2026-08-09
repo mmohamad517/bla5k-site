@@ -2,7 +2,7 @@
 name: TestGenAI
 url: "https://testgenai.com"
 image: /logos/testgenai.png
-screenshot: /screens/testgenai.jpg
+screenshot: /screens/testgenai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: TestGenAI converts business requirements and user stories into structured, numbered test cases with expected results and edge-case scenarios.

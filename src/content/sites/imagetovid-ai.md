@@ -2,7 +2,7 @@
 name: ImageToVid
 url: "https://imagetovid.ai/"
 image: /logos/imagetovid-ai.png
-screenshot: /screens/imagetovid-ai.jpg
+screenshot: /screens/imagetovid-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: imagetovid.ai is an AI image-to-video generator that converts a single photo or artwork into an animated HD video with configurable duration, resolution,...

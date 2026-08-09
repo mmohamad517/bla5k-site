@@ -2,7 +2,7 @@
 name: SourceGeek
 url: "https://www.sourcegeek.com/en"
 image: /logos/sourcegeek.png
-screenshot: /screens/sourcegeek.jpg
+screenshot: /screens/sourcegeek.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: SourceGeek is an AI-driven LinkedIn automation tool that streamlines candidate sourcing and engagement, automates outreach, and tracks interactions,...

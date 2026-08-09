@@ -2,7 +2,7 @@
 name: 3pi
 url: "https://3pi.ai"
 image: /logos/3pi.png
-screenshot: /screens/3pi.jpg
+screenshot: /screens/3pi.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: 3pi.ai is a short, brandable .ai domain for AI, ML, data analytics, robotics and platform projects, improving keyword relevance and domain-level SEO,...

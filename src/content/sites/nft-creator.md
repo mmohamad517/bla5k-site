@@ -2,7 +2,7 @@
 name: Nft Creator
 url: "https://nftcreator.ai"
 image: /logos/nft-creator.png
-screenshot: /screens/nft-creator.jpg
+screenshot: /screens/nft-creator.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Create images or GIFs with customizable backgrounds, text, AI styles, and filters.

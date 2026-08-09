@@ -2,7 +2,7 @@
 name: Colorin AI
 url: "https://colorin.ai"
 image: /logos/colorin-ai.png
-screenshot: /screens/colorin-ai.jpg
+screenshot: /screens/colorin-ai.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Colorin AI Generator turns text, characters, or photos into clean printable coloring outlines with styles like kawaii and line art.

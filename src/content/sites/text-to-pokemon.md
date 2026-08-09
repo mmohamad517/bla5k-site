@@ -2,7 +2,7 @@
 name: Text-To-Pokemon
 url: "https://replicate.com/lambdal/text-to-pokemon"
 image: /logos/text-to-pokemon.png
-screenshot: /screens/text-to-pokemon.jpg
+screenshot: /screens/text-to-pokemon.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: Generates Pokémon‑style images from text prompts using a fine‑tuned Stable Diffusion model.

@@ -2,7 +2,7 @@
 name: Fello AI
 url: "https://fello.ai"
 image: /logos/fello-ai.png
-screenshot: /screens/fello-ai.jpg
+screenshot: /screens/fello-ai.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Fello is an AI platform for real estate professionals that enriches databases, enhances lead quality, and automates targeted marketing campaigns, enabling...

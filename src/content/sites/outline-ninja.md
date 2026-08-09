@@ -2,7 +2,7 @@
 name: Outline Ninja
 url: "https://outline.ninja/demo-infographic-ninja"
 image: /logos/outline-ninja.png
-screenshot: /screens/outline-ninja.jpg
+screenshot: /screens/outline-ninja.webp
 subcategory: ai-writing
 pricing: paid
 tagline: AI Infographic Generator turns keywords or full articles into ready‑to‑publish infographics using a library of templates and customizable icons.

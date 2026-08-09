@@ -2,7 +2,7 @@
 name: Protoface
 url: "https://www.protoface.com/"
 image: /logos/protoface-com.png
-screenshot: /screens/protoface-com.jpg
+screenshot: /screens/protoface-com.webp
 subcategory: ai-image
 pricing: freemium
 tagline: protoface.com is a real-time AI avatar platform that delivers expressive full-face motion from a single image with sub-300ms latency.

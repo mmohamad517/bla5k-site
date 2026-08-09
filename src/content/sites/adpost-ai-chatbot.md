@@ -2,7 +2,7 @@
 name: Adpost AI Chatbot
 url: "https://www.adpost.com/ai-chatbot"
 image: /logos/adpost-ai-chatbot.png
-screenshot: /screens/adpost-ai-chatbot.jpg
+screenshot: /screens/adpost-ai-chatbot.webp
 subcategory: ai-productivity
 pricing: free
 tagline: AI Chatbot is a GPT‑powered platform that delivers 24/7, error‑free support with global personalization and multilingual capability.

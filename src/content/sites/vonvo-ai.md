@@ -2,7 +2,7 @@
 name: Vonvo.ai
 url: "https://vonvo.ai/"
 image: /logos/vonvo-ai.png
-screenshot: /screens/vonvo-ai.jpg
+screenshot: /screens/vonvo-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Vonvo.ai is an enterprise AI sales training platform that uses configurable AI personas for roleplay and call analysis in 25+ languages.

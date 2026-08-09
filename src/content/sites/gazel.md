@@ -2,7 +2,7 @@
 name: Gazel
 url: "https://gazel.ai"
 image: /logos/gazel.png
-screenshot: /screens/gazel.jpg
+screenshot: /screens/gazel.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Gazel AI offers data-driven insights for optimizing landing pages, focusing on messaging, trust-building, and user experience.

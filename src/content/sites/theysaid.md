@@ -2,7 +2,7 @@
 name: TheySaid
 url: "https://www.theysaid.io/"
 image: /logos/theysaid.png
-screenshot: /screens/theysaid.jpg
+screenshot: /screens/theysaid.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: TheySay is an AI-driven survey platform that enhances engagement and feedback accuracy through conversational methods, personalized questions, and an...

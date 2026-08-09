@@ -2,7 +2,7 @@
 name: Recodez
 url: "https://www.recodez.com/"
 image: /logos/recodez.png
-screenshot: /screens/recodez.jpg
+screenshot: /screens/recodez.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Recodez is a code project management platform that lets developers quickly start, import, and organize projects.

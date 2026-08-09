@@ -2,7 +2,7 @@
 name: Nurmonic
 url: "https://nurmonic.xyz"
 image: /logos/nurmonic.png
-screenshot: /screens/nurmonic.jpg
+screenshot: /screens/nurmonic.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Nurmonic is a Discord AI bot that supports long‑form text chats (over 1000 characters) and on‑demand image generation from prompts.

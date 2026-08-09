@@ -2,7 +2,7 @@
 name: KeepClaw.ai
 url: "https://keepclaw.ai/"
 image: /logos/keepclaw-ai.png
-screenshot: /screens/keepclaw-ai.jpg
+screenshot: /screens/keepclaw-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: KeepClaw.ai is a managed hosting platform for personal AI agents that run 24/7, automating tasks like research, content drafting, and monitoring.

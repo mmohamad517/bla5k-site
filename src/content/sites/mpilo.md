@@ -2,7 +2,7 @@
 name: Mpilo
 url: "https://mpilo.ai"
 image: /logos/mpilo.png
-screenshot: /screens/mpilo.jpg
+screenshot: /screens/mpilo.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: mpilo captures patient‑doctor conversations in real time, automatically generating HIPAA‑compliant SOAP notes within the browser.

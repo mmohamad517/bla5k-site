@@ -2,7 +2,7 @@
 name: Lytics
 url: "https://www.lytics.com/"
 image: /logos/lytics.png
-screenshot: /screens/lytics.jpg
+screenshot: /screens/lytics.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Lytics centralizes customer profiles across data warehouses via Cloud Connect, enabling audience segmentation, personalized email/web experiences, and...

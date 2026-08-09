@@ -2,7 +2,7 @@
 name: Kardow
 url: "https://kardow.com/"
 image: /logos/kardow.png
-screenshot: /screens/kardow.jpg
+screenshot: /screens/kardow.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: Kardow automates job board management by AI‑driven job imports, provides real‑time analytics, supports multiple payment gateways, and offers customizable...

@@ -2,7 +2,7 @@
 name: Gnbly
 url: "https://gnbly.com/"
 image: /logos/gnbly.png
-screenshot: /screens/gnbly.jpg
+screenshot: /screens/gnbly.webp
 subcategory: nc-automation
 pricing: paid
 tagline: NatterGPT automates outbound and inbound calls, dialing contact lists, navigating IVRs, and transferring to humans.

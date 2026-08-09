@@ -2,7 +2,7 @@
 name: thinkstack.AI
 url: "https://www.thinkstack.ai"
 image: /logos/thinkstack-ai.png
-screenshot: /screens/thinkstack-ai.jpg
+screenshot: /screens/thinkstack-ai.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Thinkstack AI is a no‑code chatbot builder that uses GPT‑3.5/4 models to create custom assistants trained on company data via URLs, CSVs, Notion, etc.

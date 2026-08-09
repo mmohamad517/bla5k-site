@@ -2,7 +2,7 @@
 name: Smartereply
 url: "https://smartereply.com"
 image: /logos/smartereply.png
-screenshot: /screens/smartereply.jpg
+screenshot: /screens/smartereply.webp
 subcategory: nc-automation
 pricing: freemium
 tagline: Smartereply is an AI communication tool that automates replies and generates concise email drafts across platforms like LinkedIn, Twitter, and Slack,...

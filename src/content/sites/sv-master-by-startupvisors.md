@@ -2,7 +2,7 @@
 name: SV Master by Startupvisors
 url: "https://startupvisors.gumroad.com/l/SV"
 image: /logos/sv-master-by-startupvisors.png
-screenshot: /screens/sv-master-by-startupvisors.jpg
+screenshot: /screens/sv-master-by-startupvisors.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: SV Master integrates OpenAI’s GPT into Google Sheets, allowing users to enter prompts in the Ask Questions tab and receive product descriptions, blog posts,...

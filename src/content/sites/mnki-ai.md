@@ -2,7 +2,7 @@
 name: MNKI AI
 url: "https://mnki.ai/"
 image: /logos/mnki-ai.png
-screenshot: /screens/mnki-ai.jpg
+screenshot: /screens/mnki-ai.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: mnki.ai is a browser-based AI rendering studio that transforms sketches, floor plans, and 3D wireframes into photorealistic 4K visuals, with tools for...

@@ -2,7 +2,7 @@
 name: PictoDream
 url: "https://pictodream.com/"
 image: /logos/pictodream.png
-screenshot: /screens/pictodream.jpg
+screenshot: /screens/pictodream.webp
 subcategory: ai-image
 pricing: freemium
 tagline: PictoDream.com aggregates AI tools by industry, offering quick access to generators for business plans, resumes, marketing copy, social media posts, and...

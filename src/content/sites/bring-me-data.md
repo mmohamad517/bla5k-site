@@ -2,7 +2,7 @@
 name: Bring Me Data
 url: "https://BringMeData.com"
 image: /logos/bring-me-data.png
-screenshot: /screens/bring-me-data.jpg
+screenshot: /screens/bring-me-data.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: Company Tracker is an AI-driven tool for businesses that monitors executive movements, tracks startup funding trends, and provides alerts on layoffs and...

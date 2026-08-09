@@ -2,7 +2,7 @@
 name: Glimpse
 url: "https://glimpse.surf"
 image: /logos/glimpse.png
-screenshot: /screens/glimpse.jpg
+screenshot: /screens/glimpse.webp
 subcategory: ai-chat
 pricing: free
 tagline: Glimpse is an AI-powered chat assistant and browser extension that offers conversational, writing, and editing assistance while also functioning as an...

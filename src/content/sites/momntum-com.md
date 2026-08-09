@@ -2,7 +2,7 @@
 name: Momntum
 url: "https://momntum.com"
 image: /logos/momntum-com.png
-screenshot: /screens/momntum-com.jpg
+screenshot: /screens/momntum-com.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Momntum is an AI CRM that automates omnichannel customer interactions (chat, voice, WhatsApp, web), preserves context, detects sentiment and urgency, syncs...

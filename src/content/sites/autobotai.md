@@ -2,7 +2,7 @@
 name: autobotAI
 url: "https://autobot.live"
 image: /logos/autobotai.png
-screenshot: /screens/autobotai.jpg
+screenshot: /screens/autobotai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: AutobotAI automates security alert investigation with autonomous agents governed by code‑defined policies, offering audit trails, reasoning logs, and a...

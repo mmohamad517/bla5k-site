@@ -2,7 +2,7 @@
 name: Sam3d2.com
 url: "https://www.sam3d2.com"
 image: /logos/sam3d2-com.png
-screenshot: /screens/sam3d2-com.jpg
+screenshot: /screens/sam3d2-com.webp
 subcategory: design-3d
 pricing: freemium
 tagline: sam3d2.com is an image-to-3D model generator that turns a single photo and short prompt into detailed 3D objects, characters, and scenes.

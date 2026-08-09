@@ -2,7 +2,7 @@
 name: Dynamo
 url: "https://www.dynamo.fyi"
 image: /logos/dynamo.png
-screenshot: /screens/dynamo.jpg
+screenshot: /screens/dynamo.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Dynamo is an AI‑driven DM platform that transforms messaging into a full‑funnel growth engine, automating acquisition, retention, and retargeting with...

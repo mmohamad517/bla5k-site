@@ -2,7 +2,7 @@
 name: Kindred Tales
 url: "https://kindredtales.net"
 image: /logos/kindred-tales.png
-screenshot: /screens/kindred-tales.jpg
+screenshot: /screens/kindred-tales.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Kindred Tales records a loved one’s life story through weekly prompts, AI biographer follow‑ups, and voice or email entries, transcribes speech, and...

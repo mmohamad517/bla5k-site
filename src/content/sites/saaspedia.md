@@ -2,7 +2,7 @@
 name: SaasPedia
 url: "https://saaspedia.io"
 image: /logos/saaspedia.png
-screenshot: /screens/saaspedia.jpg
+screenshot: /screens/saaspedia.webp
 subcategory: mkt-social
 pricing: paid
 tagline: SaasPedia delivers AI‑powered SEO audits, keyword research, and content strategies for SaaS, indie hackers, and enterprises, optimizing site performance for...

@@ -2,7 +2,7 @@
 name: Terrakotta
 url: "https://www.terrakotta.ai"
 image: /logos/terrakotta.png
-screenshot: /screens/terrakotta.jpg
+screenshot: /screens/terrakotta.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Terrakotta automates commercial real‑estate outreach by integrating with CRMs and Excel, providing AI call summarization, voice cloning, and AI voicemails.

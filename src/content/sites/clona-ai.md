@@ -2,7 +2,7 @@
 name: Clona AI
 url: "https://clona.ai/"
 image: /logos/clona-ai.png
-screenshot: /screens/clona-ai.jpg
+screenshot: /screens/clona-ai.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Clona AI lets users converse with AI‑generated replicas of popular creators, offering unlimited text chats, optional audio playback mimicking the creator’s...

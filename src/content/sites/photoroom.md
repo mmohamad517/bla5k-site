@@ -2,7 +2,7 @@
 name: Photoroom
 url: https://www.photoroom.com
 image: /logos/photoroom.png
-screenshot: /screens/photoroom.jpg
+screenshot: /screens/photoroom.webp
 subcategory: ai-image
 pricing: freemium
 tagline: The AI photo studio for ecommerce — backgrounds, product shots, and editing.

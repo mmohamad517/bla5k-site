@@ -2,7 +2,7 @@
 name: Jcode.sh
 url: "https://jcode.sh/"
 image: /logos/jcode-sh.png
-screenshot: /screens/jcode-sh.jpg
+screenshot: /screens/jcode-sh.webp
 subcategory: ai-chat
 pricing: free
 tagline: JCode is an open-source terminal coding agent built with Rust, designed to revolutionize how we interact with AI.

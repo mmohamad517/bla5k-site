@@ -2,7 +2,7 @@
 name: Muset.ai
 url: "https://www.muset.ai/"
 image: /logos/muset-ai.png
-screenshot: /screens/muset-ai.jpg
+screenshot: /screens/muset-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Muset.ai is an AI writing tool that generates cohesive content like newsletters and scripts by reading your notes and assets.

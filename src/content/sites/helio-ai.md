@@ -2,7 +2,7 @@
 name: Helio.AI
 url: "https://www.helio-ai.com"
 image: /logos/helio-ai.png
-screenshot: /screens/helio-ai.jpg
+screenshot: /screens/helio-ai.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Helio.AI is an integrated ATS that automates resume screening, offers multilingual gamified assessments, posts jobs to multiple boards, centralizes...

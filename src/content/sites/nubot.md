@@ -2,7 +2,7 @@
 name: Nubot
 url: "https://nubot.io"
 image: /logos/nubot.png
-screenshot: /screens/nubot.jpg
+screenshot: /screens/nubot.webp
 subcategory: ai-chat
 pricing: free
 tagline: Nubot is an AI sales agent and WhatsApp CRM that automates multi‑channel support and sales via no‑code conversational flows, unified inbox, scheduling and...

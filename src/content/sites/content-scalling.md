@@ -2,7 +2,7 @@
 name: Content Scalling - Notion Content
 url: "https://contentscaling.com"
 image: /logos/content-scalling.png
-screenshot: /screens/content-scalling.jpg
+screenshot: /screens/content-scalling.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Notion Content Creation System uses custom GPTs to automate content ideation, drafting, and repurposing within Notion.

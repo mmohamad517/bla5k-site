@@ -2,7 +2,7 @@
 name: Hirempire
 url: "https://www.hirempire.com"
 image: /logos/hirempire.png
-screenshot: /screens/hirempire.jpg
+screenshot: /screens/hirempire.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Hirempire is an AI‑powered recruitment OS that unifies job postings, candidate tracking, and applicant management.

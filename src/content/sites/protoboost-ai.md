@@ -2,7 +2,7 @@
 name: ProtoBoost.ai
 url: "https://www.protoboost.ai"
 image: /logos/protoboost-ai.png
-screenshot: /screens/protoboost-ai.jpg
+screenshot: /screens/protoboost-ai.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Protoboost.ai accelerates prototyping by turning ideas into high-fidelity prototypes and actionable business plans quickly.

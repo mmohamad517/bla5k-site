@@ -2,7 +2,7 @@
 name: ThumbnailMakerr
 url: "https://thumbnailmakerr.com/"
 image: /logos/thumbnailmakerr.png
-screenshot: /screens/thumbnailmakerr.jpg
+screenshot: /screens/thumbnailmakerr.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: ThumbnailMakerr is an AI tool that generates multiple YouTube thumbnail variations from text, images, or video URLs.

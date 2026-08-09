@@ -2,7 +2,7 @@
 name: balto.ai
 url: "https://balto.ai"
 image: /logos/balto-ai.png
-screenshot: /screens/balto-ai.jpg
+screenshot: /screens/balto-ai.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Balto AI is a real-time contact center software that supports agents with dynamic prompts and compliance checks, scores conversations for quality assurance,...

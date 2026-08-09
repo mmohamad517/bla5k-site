@@ -2,7 +2,7 @@
 name: 3DPresso
 url: "https://3dpresso.ai/"
 image: /logos/3dpresso.png
-screenshot: /screens/3dpresso.jpg
+screenshot: /screens/3dpresso.webp
 subcategory: design-3d
 pricing: paid
 tagline: 3Dpresso converts a 1‑to‑2‑minute smartphone video of an object into a ready‑to‑use 3D model (.glb) with future format support.

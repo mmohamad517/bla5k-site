@@ -2,7 +2,7 @@
 name: Powergpt
 url: "https://littlesoftlab.com/product/powergpt-lifetime-deal/"
 image: /logos/powergpt.png
-screenshot: /screens/powergpt.jpg
+screenshot: /screens/powergpt.webp
 subcategory: ai-writing
 pricing: paid
 tagline: PowerGPT Lifetime Deal seamlessly integrates ChatGPT with WordPress, enabling effortless content generation directly on your site.

@@ -2,7 +2,7 @@
 name: Vishaya AI
 url: "https://vishaya-ai.vercel.app/"
 image: /logos/vishaya-ai.png
-screenshot: /screens/vishaya-ai.jpg
+screenshot: /screens/vishaya-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Vishaya AI is a course creation tool that generates structured, multilingual courses quickly.

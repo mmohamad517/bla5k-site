@@ -2,7 +2,7 @@
 name: timehero.com
 url: "https://timehero.com"
 image: /logos/timehero-com.png
-screenshot: /screens/timehero-com.jpg
+screenshot: /screens/timehero-com.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: TimeHero automatically schedules tasks and projects across calendars and tools, pulling items from Gmail, Slack, Asana, and 1,000+ apps.

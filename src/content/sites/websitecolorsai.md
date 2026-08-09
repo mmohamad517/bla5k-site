@@ -2,7 +2,7 @@
 name: WebsiteColorsAI
 url: "https://websitecolorsai.com"
 image: /logos/websitecolorsai.png
-screenshot: /screens/websitecolorsai.jpg
+screenshot: /screens/websitecolorsai.webp
 subcategory: design-graphics
 pricing: free
 tagline: WebsiteColorsAI is an AI tool that extracts hex color codes from websites, allowing users to effortlessly create visually appealing color schemes.

@@ -2,7 +2,7 @@
 name: Inline Help
 url: "https://inlinehelp.com"
 image: /logos/inline-help.png
-screenshot: /screens/inline-help.jpg
+screenshot: /screens/inline-help.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Inline Help provides AI-powered, in-app contextual support by turning knowledge bases into guidance, offering no-code tooltips, an embeddable chatbot and...

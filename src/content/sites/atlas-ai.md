@@ -2,7 +2,7 @@
 name: Atlas
 url: https://atlas.org/
 image: /logos/atlas-ai.png
-screenshot: /screens/atlas-ai.jpg
+screenshot: /screens/atlas-ai.webp
 subcategory: learn-courses
 tagline: "AI-powered learning platform with interactive courses and real-time feedback."
 tags: [atlas, learning platform, courses, interactive, ai]

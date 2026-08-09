@@ -2,7 +2,7 @@
 name: Nijijourney
 url: "https://nijijourney.com/en/"
 image: /logos/nijijourney.png
-screenshot: /screens/nijijourney.jpg
+screenshot: /screens/nijijourney.webp
 subcategory: ai-image
 pricing: freemium
 tagline: niji・journey generates custom anime illustrations from text prompts in seconds, supporting styles from chibi to action scenes.

@@ -2,7 +2,7 @@
 name: ItaGPT
 url: "https://itagpt.it/"
 image: /logos/itagpt.png
-screenshot: /screens/itagpt.jpg
+screenshot: /screens/itagpt.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: ItaGPT links OpenAI’s ChatGPT to WhatsApp, letting users send questions and receive real‑time AI answers within their chat app.

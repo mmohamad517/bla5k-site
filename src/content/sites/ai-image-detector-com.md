@@ -2,7 +2,7 @@
 name: AI Image Detector
 url: "https://www.aiimagedetector.com/"
 image: /logos/ai-image-detector-com.png
-screenshot: /screens/ai-image-detector-com.jpg
+screenshot: /screens/ai-image-detector-com.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Free AI Image Detector analyzes images for AI generation with high accuracy in under 10 seconds.

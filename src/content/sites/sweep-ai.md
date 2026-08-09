@@ -2,7 +2,7 @@
 name: Sweep AI
 url: "https://sweep.dev"
 image: /logos/sweep-ai.png
-screenshot: /screens/sweep-ai.jpg
+screenshot: /screens/sweep-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Sweep is an AI coding assistant plugin for all JetBrains IDEs that offers low‑latency autocomplete, next‑tab predictions, code review suggestions, and...

@@ -2,7 +2,7 @@
 name: Unfox AI
 url: "https://unfox.ai"
 image: /logos/unfox-ai.png
-screenshot: /screens/unfox-ai.jpg
+screenshot: /screens/unfox-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: unfox.ai is an AI content detector that analyzes text to identify AI-generated content and provides confidence scores.

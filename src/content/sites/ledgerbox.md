@@ -2,7 +2,7 @@
 name: LedgerBox
 url: "https://ledgerbox.io"
 image: /logos/ledgerbox.png
-screenshot: /screens/ledgerbox.jpg
+screenshot: /screens/ledgerbox.webp
 subcategory: ai-chat
 pricing: paid
 tagline: AI Bank Statement Converter automates data extraction from bank statements and invoices, reducing manual entry time by up to 80%.

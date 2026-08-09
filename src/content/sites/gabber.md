@@ -2,7 +2,7 @@
 name: Gabber
 url: "https://gabber.dev"
 image: /logos/gabber.png
-screenshot: /screens/gabber.jpg
+screenshot: /screens/gabber.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Gabber is a cloud-based platform for developing real-time AI applications with voice, vision, and speech capabilities using a drag-and-drop interface.

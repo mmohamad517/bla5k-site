@@ -2,7 +2,7 @@
 name: DesignNBuy - AI-powered web to print
 url: "https://www.designnbuy.com/"
 image: /logos/designnbuy.png
-screenshot: /screens/designnbuy.jpg
+screenshot: /screens/designnbuy.webp
 subcategory: design-3d
 pricing: freemium
 tagline: DesignNBuy is an AI-powered web-to-print platform that automates pricing, personalization, and production workflows for packaging and commercial printers.

@@ -2,7 +2,7 @@
 name: AICodeConvert
 url: "https://aicodeconvert.com"
 image: /logos/aicodeconvert.png
-screenshot: /screens/aicodeconvert.jpg
+screenshot: /screens/aicodeconvert.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: AI Code Converter translates code snippets and natural‑language instructions into 50+ programming languages, offers code generation, debugging,...

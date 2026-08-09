@@ -2,7 +2,7 @@
 name: Rasterscan
 url: "https://rasterscan.com"
 image: /logos/rasterscan.png
-screenshot: /screens/rasterscan.jpg
+screenshot: /screens/rasterscan.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: Efficient Floor Plan Recognition is an AI tool that converts hand-drawn sketches and blueprints into digital layouts, enhancing workflow for architects and...

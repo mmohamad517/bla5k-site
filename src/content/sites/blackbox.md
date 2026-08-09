@@ -2,7 +2,7 @@
 name: Blackbox AI
 url: "https://blackbox.ai"
 image: /logos/blackbox.png
-screenshot: /screens/blackbox.jpg
+screenshot: /screens/blackbox.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Blackbox AI is an AI-powered tool for developers that searches and autocompletes code snippets across multiple programming languages and repositories,...

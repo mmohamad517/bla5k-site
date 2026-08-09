@@ -2,7 +2,7 @@
 name: Its Bot
 url: "https://itsbot.ai"
 image: /logos/its-bot.png
-screenshot: /screens/its-bot.jpg
+screenshot: /screens/its-bot.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: itsbot offers an AI chatbot solution powered by GPT-3.5/4, enhancing customer engagement with customizable interactions.

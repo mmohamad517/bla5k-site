@@ -2,7 +2,7 @@
 name: Wrizzle AI
 url: "https://www.wrizzle.ai"
 image: /logos/wrizzle-ai.png
-screenshot: /screens/wrizzle-ai.jpg
+screenshot: /screens/wrizzle-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Wrizzle AI is an AI writing assistant that generates and rewrites content (blog posts, product descriptions, social copy), paraphrases and summarizes...

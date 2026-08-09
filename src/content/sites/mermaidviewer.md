@@ -2,7 +2,7 @@
 name: MermaidViewer
 url: "https://mermaidviewer.com/"
 image: /logos/mermaidviewer.png
-screenshot: /screens/mermaidviewer.jpg
+screenshot: /screens/mermaidviewer.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: MermaidViewer is a browser-based Mermaid diagram editor with live preview, supporting a wide range of chart types.

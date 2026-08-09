@@ -2,7 +2,7 @@
 name: Conferbot
 url: "https://www.conferbot.com"
 image: /logos/conferbot.png
-screenshot: /screens/conferbot.jpg
+screenshot: /screens/conferbot.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Conferbot is a no-code chatbot platform with a visual builder and industry templates, enabling omnichannel deployment (WhatsApp, Messenger, Instagram,...

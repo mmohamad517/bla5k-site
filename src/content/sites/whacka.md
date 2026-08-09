@@ -2,7 +2,7 @@
 name: Whacka
 url: "https://whacka.app/"
 image: /logos/whacka.png
-screenshot: /screens/whacka.jpg
+screenshot: /screens/whacka.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Whacka is a creative platform combining an AI app builder and no-code editor with a content discovery feed.

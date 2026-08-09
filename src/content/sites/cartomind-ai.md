@@ -2,7 +2,7 @@
 name: CartoMind
 url: "https://cartomind.ai/"
 image: /logos/cartomind-ai.png
-screenshot: /screens/cartomind-ai.jpg
+screenshot: /screens/cartomind-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: CartoMind.ai is an AI infographic generator that transforms text, documents, and notes into professional visuals.

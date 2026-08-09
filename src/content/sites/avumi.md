@@ -2,7 +2,7 @@
 name: Avumi
 url: "https://avumi.com"
 image: /logos/avumi.png
-screenshot: /screens/avumi.jpg
+screenshot: /screens/avumi.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Avumi is an AI tool revolutionizing fashion ecommerce with a 3D virtual try-on experience.

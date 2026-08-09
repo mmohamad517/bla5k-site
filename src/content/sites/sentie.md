@@ -2,7 +2,7 @@
 name: Sentie
 url: "https://www.sentie.io"
 image: /logos/sentie.png
-screenshot: /screens/sentie.jpg
+screenshot: /screens/sentie.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Sentie is a platform that deploys custom AI agents for businesses, specializing in chatbots, sales automation, and workflow optimization.

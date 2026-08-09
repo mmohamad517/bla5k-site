@@ -2,7 +2,7 @@
 name: ImageGeneratorAI.io
 url: "https://imagegeneratorai.io/"
 image: /logos/imagegeneratorai-io.png
-screenshot: /screens/imagegeneratorai-io.jpg
+screenshot: /screens/imagegeneratorai-io.webp
 subcategory: ai-writing
 pricing: free
 tagline: ImageGeneratorAI.io is a browser-based AI image generator that transforms text prompts into high-resolution visuals using models like SDXL and Flux.

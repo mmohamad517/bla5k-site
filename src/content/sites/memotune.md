@@ -2,7 +2,7 @@
 name: MemoTune
 url: "https://memotune.com/"
 image: /logos/memotune.png
-screenshot: /screens/memotune.jpg
+screenshot: /screens/memotune.webp
 subcategory: ai-image
 pricing: freemium
 tagline: MemoTune is an AI song generator that creates personalized songs from memories and prompts, producing full audio with lyrics and melodies.

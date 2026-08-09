@@ -2,7 +2,7 @@
 name: ChatHub
 url: https://chathub.gg/
 image: /logos/chathub.png
-screenshot: /screens/chathub.jpg
+screenshot: /screens/chathub.webp
 subcategory: ai-chat
 tagline: "Compare ChatGPT, Claude, and Gemini side-by-side—see multiple AI responses instantly."
 tags:

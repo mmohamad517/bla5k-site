@@ -2,7 +2,7 @@
 name: Hello Assist
 url: "https://helloassist.ai"
 image: /logos/hello-assist.png
-screenshot: /screens/hello-assist.jpg
+screenshot: /screens/hello-assist.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Hello is a personal AI agents platform that offers specialized assistants for shopping, work, and health.

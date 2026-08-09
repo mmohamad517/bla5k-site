@@ -2,7 +2,7 @@
 name: Advacheck
 url: "https://advacheck.com/"
 image: /logos/advacheck.png
-screenshot: /screens/advacheck.jpg
+screenshot: /screens/advacheck.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Advacheck employs an AI engine to detect machine‑generated text from models like ChatGPT, Gemini, Llama, etc., flagging AI authorship and plagiarism with...

@@ -2,7 +2,7 @@
 name: Freshenup.io
 url: "https://freshenup.io"
 image: /logos/freshenup-io.png
-screenshot: /screens/freshenup-io.jpg
+screenshot: /screens/freshenup-io.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: FreshenUp.io is a WordPress plugin that automates updates to old blog posts by adding new content and insights.

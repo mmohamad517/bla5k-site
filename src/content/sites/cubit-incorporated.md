@@ -2,7 +2,7 @@
 name: Cubit Incorporated
 url: "https://www.cubit.com.np"
 image: /logos/cubit-incorporated.png
-screenshot: /screens/cubit-incorporated.jpg
+screenshot: /screens/cubit-incorporated.webp
 subcategory: nc-builders
 pricing: paid
 tagline: "Cubit delivers end‑to‑end technology services for businesses: AI‑powered chatbots, mobile and responsive web development, custom software, UI/UX design, and..."

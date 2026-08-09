@@ -2,7 +2,7 @@
 name: StartConvo
 url: "https://startconvo.vercel.app/"
 image: /logos/startconvo.png
-screenshot: /screens/startconvo.jpg
+screenshot: /screens/startconvo.webp
 subcategory: nc-builders
 pricing: paid
 tagline: StartConvo lets businesses build and embed custom AI chatbots across websites, apps, and channels.

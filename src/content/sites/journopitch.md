@@ -2,7 +2,7 @@
 name: JournoPitch
 url: "https://journopitch.co.uk"
 image: /logos/journopitch.png
-screenshot: /screens/journopitch.jpg
+screenshot: /screens/journopitch.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Journopitch is an AI-driven platform that helps users create and scale professional pitch templates for journalists, enhancing media coverage opportunities...

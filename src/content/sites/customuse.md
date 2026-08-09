@@ -2,7 +2,7 @@
 name: Customuse
 url: "https://customuse.com"
 image: /logos/customuse.png
-screenshot: /screens/customuse.jpg
+screenshot: /screens/customuse.webp
 subcategory: design-3d
 pricing: paid
 tagline: Customuse converts text or image prompts into 3‑D models across realistic, cartoon, anime, and cyberpunk styles.

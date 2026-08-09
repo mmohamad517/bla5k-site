@@ -2,7 +2,7 @@
 name: BulkGenerate
 url: "https://bulkgenerate.com/"
 image: /logos/bulkgenerate.png
-screenshot: /screens/bulkgenerate.jpg
+screenshot: /screens/bulkgenerate.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: BulkGenerate is a Bulk Article Generator and AI Auto Writer, ideal for boosting site traffic with SEO articles.

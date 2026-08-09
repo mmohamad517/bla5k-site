@@ -2,7 +2,7 @@
 name: Pictorial
 url: "https://pictorial.ai/"
 image: /logos/pictorial.png
-screenshot: /screens/pictorial.jpg
+screenshot: /screens/pictorial.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: The AI tool generates professional and diverse graphics for blogs and other messaging needs using AI.

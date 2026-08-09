@@ -2,7 +2,7 @@
 name: AI3DGen
 url: "https://www.ai3dgen.com"
 image: /logos/ai3dgen-com.png
-screenshot: /screens/ai3dgen-com.jpg
+screenshot: /screens/ai3dgen-com.webp
 subcategory: design-3d
 pricing: freemium
 tagline: AI3DGen is an AI-powered platform that instantly converts 2D images or text prompts into production-ready 3D models.

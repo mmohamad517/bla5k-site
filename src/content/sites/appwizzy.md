@@ -2,7 +2,7 @@
 name: AppWizzy
 url: "https://appwizzy.com/"
 image: /logos/appwizzy.png
-screenshot: /screens/appwizzy.jpg
+screenshot: /screens/appwizzy.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Appwizzy is a platform that simplifies web application and website development using AI.

@@ -2,7 +2,7 @@
 name: KoalaKonvo
 url: "https://chat.nuudeli.com/"
 image: /logos/koalakonvo-ai-assistant-for-telegram.png
-screenshot: /screens/koalakonvo-ai-assistant-for-telegram.jpg
+screenshot: /screens/koalakonvo-ai-assistant-for-telegram.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: KoalaKonvo is a Telegram bot that assists users with JavaScript coding, offers web browsing summaries, image generation, and grammar correction, while...

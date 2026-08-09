@@ -2,7 +2,7 @@
 name: Friendware
 url: "https://friendware.ai"
 image: /logos/friendware.png
-screenshot: /screens/friendware.jpg
+screenshot: /screens/friendware.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Friendware is a macOS AI assistant offering tab-to-complete suggestions and in-app, context-aware replies.

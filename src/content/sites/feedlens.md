@@ -2,7 +2,7 @@
 name: FeedLens
 url: "https://feedlens.app"
 image: /logos/feedlens.png
-screenshot: /screens/feedlens.jpg
+screenshot: /screens/feedlens.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: FeedLens automates app review management through AI.

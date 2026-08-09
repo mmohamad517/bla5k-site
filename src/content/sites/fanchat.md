@@ -2,7 +2,7 @@
 name: FanChat
 url: "https://www.fanchat.ai/"
 image: /logos/fanchat.png
-screenshot: /screens/fanchat.jpg
+screenshot: /screens/fanchat.webp
 subcategory: ai-chat
 pricing: free
 tagline: FanChat is an AI-powered chatbot that allows users to engage in virtual conversations with various celebrities, famous and virtual characters Personal...

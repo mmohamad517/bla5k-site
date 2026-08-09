@@ -2,7 +2,7 @@
 name: Emitrr
 url: "https://emitrr.com"
 image: /logos/emitrr.png
-screenshot: /screens/emitrr.jpg
+screenshot: /screens/emitrr.webp
 subcategory: nc-automation
 pricing: freemium
 tagline: Emitrr is an AI receptionist and 24/7 virtual employee that manages business texting from your existing number, appointment scheduling and reminders,...

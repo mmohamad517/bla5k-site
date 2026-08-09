@@ -2,7 +2,7 @@
 name: Lightfield.app
 url: "https://lightfield.app/"
 image: /logos/lightfield-app.png
-screenshot: /screens/lightfield-app.jpg
+screenshot: /screens/lightfield-app.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Lightfield.app is an AI-native CRM that auto-captures all customer interactions and builds continuous account context.

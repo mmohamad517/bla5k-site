@@ -2,7 +2,7 @@
 name: Clevenio
 url: "https://clevenio.com/"
 image: /logos/clevenio.png
-screenshot: /screens/clevenio.jpg
+screenshot: /screens/clevenio.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Clevenio is a B2B sales intelligence platform offering multi‑channel outreach, automated follow‑ups, and pipeline management.

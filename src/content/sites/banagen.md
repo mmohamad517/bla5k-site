@@ -2,7 +2,7 @@
 name: BanaGen
 url: "https://banagen.com/"
 image: /logos/banagen.png
-screenshot: /screens/banagen.jpg
+screenshot: /screens/banagen.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Nano Banana is an AI image generator built on Google Gemini, specializing in anime, realistic, and 3D art.

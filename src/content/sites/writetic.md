@@ -2,7 +2,7 @@
 name: Writetic
 url: "https://writetic.com"
 image: /logos/writetic.png
-screenshot: /screens/writetic.jpg
+screenshot: /screens/writetic.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Writetic is an AI content workspace that centralizes creation, storage, and collaboration for marketers and writers, offering AI templates, custom...

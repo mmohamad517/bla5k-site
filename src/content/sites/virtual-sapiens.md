@@ -2,7 +2,7 @@
 name: Virtual Sapiens
 url: "https://www.virtualsapiens.co"
 image: /logos/virtual-sapiens.png
-screenshot: /screens/virtual-sapiens.jpg
+screenshot: /screens/virtual-sapiens.webp
 subcategory: learn-courses
 pricing: paid
 tagline: AI‑powered roleplay coach for managers, sales teams, and new hires.

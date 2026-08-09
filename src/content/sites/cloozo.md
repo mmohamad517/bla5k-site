@@ -2,7 +2,7 @@
 name: Cloozo
 url: "http://cloozo.com"
 image: /logos/cloozo.png
-screenshot: /screens/cloozo.jpg
+screenshot: /screens/cloozo.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Cloozo simplifies ChatGPT chatbot creation for websites.

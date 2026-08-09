@@ -2,7 +2,7 @@
 name: Impossible Images
 url: "https://impossibleimages.ai/"
 image: /logos/impossible-images.png
-screenshot: /screens/impossible-images.jpg
+screenshot: /screens/impossible-images.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: The AI-powered Stock Image Library generates customized stock images for websites.

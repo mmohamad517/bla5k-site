@@ -2,7 +2,7 @@
 name: MarsCode
 url: "https://marscode.com"
 image: /logos/marscode.png
-screenshot: /screens/marscode.jpg
+screenshot: /screens/marscode.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Trae is an AI‑assisted coding extension for VSCode and JetBrains IDEs that offers real‑time code completion, comment‑to‑code generation, automated unit test...

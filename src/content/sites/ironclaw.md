@@ -2,7 +2,7 @@
 name: IronClaw
 url: "https://github.com/nearai/ironclaw"
 image: /logos/ironclaw.png
-screenshot: /screens/ironclaw.jpg
+screenshot: /screens/ironclaw.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: ironclaw is a Rust-based, OpenAI-compatible self-hosted AI assistant framework emphasizing privacy and security, offering an embedded registry, WASM...

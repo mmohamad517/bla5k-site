@@ -2,7 +2,7 @@
 name: Frigate NVR
 url: "https://frigate.video"
 image: /logos/frigate-nvr.png
-screenshot: /screens/frigate-nvr.jpg
+screenshot: /screens/frigate-nvr.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Frigate NVR is an open-source on‑premise NVR that runs local AI object detection and real-time tracking on camera feeds, supports hardware accelerators and...

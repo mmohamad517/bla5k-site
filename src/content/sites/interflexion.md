@@ -2,7 +2,7 @@
 name: Interflexion
 url: "https://interflexion.com/"
 image: /logos/interflexion.png
-screenshot: /screens/interflexion.jpg
+screenshot: /screens/interflexion.webp
 subcategory: learn-courses
 pricing: paid
 tagline: Interflexion delivers AI‑powered role‑play scenarios for leadership and interpersonal skill development.

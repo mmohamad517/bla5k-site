@@ -2,7 +2,7 @@
 name: Zeeinvoices
 url: "https://zeeinvoices.com"
 image: /logos/zeeinvoices.png
-screenshot: /screens/zeeinvoices.jpg
+screenshot: /screens/zeeinvoices.webp
 subcategory: ai-chat
 pricing: free
 tagline: Zeeinvoices is a free online invoicing tool that automates invoice creation and management.

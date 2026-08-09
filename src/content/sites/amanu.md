@@ -2,7 +2,7 @@
 name: 🅰️ Amanu
 url: "https://amanu.ai"
 image: /logos/amanu.png
-screenshot: /screens/amanu.jpg
+screenshot: /screens/amanu.webp
 subcategory: nc-builders
 pricing: paid
 tagline: Amanu builds Telegram bots and Mini Apps for AI startups in about four weeks.

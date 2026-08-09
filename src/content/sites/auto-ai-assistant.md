@@ -2,7 +2,7 @@
 name: Auto Ai Assistant
 url: "https://autoaiassistant.com"
 image: /logos/auto-ai-assistant.png
-screenshot: /screens/auto-ai-assistant.jpg
+screenshot: /screens/auto-ai-assistant.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Auto Ai Assistant uses GPT‑4o to auto‑generate SEO‑friendly articles, social posts, and web copy in 20+ languages.

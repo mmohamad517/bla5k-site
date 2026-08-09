@@ -2,7 +2,7 @@
 name: PhotoAI
 url: "https://photoai.me/"
 image: /logos/photoai.png
-screenshot: /screens/photoai.jpg
+screenshot: /screens/photoai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Photo AI transforms uploaded portrait photos into over 100 unique AI‑styled images per selected pack (Tinder, LinkedIn, Polaroid, Avatar, Royal).

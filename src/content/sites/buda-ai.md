@@ -2,7 +2,7 @@
 name: Buda AI
 url: "https://buda.im"
 image: /logos/buda-ai.png
-screenshot: /screens/buda-ai.jpg
+screenshot: /screens/buda-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Buda AI is a cloud-native workspace where teams build, run, and coordinate specialized AI agents for coding, sales, marketing, and operations.

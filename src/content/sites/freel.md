@@ -2,7 +2,7 @@
 name: Freel
 url: "https://freel.ca"
 image: /logos/freel.png
-screenshot: /screens/freel.jpg
+screenshot: /screens/freel.webp
 subcategory: fin-fintech
 pricing: free
 tagline: Freel connects Canadian freelancers with clients across major cities, letting professionals build profiles, showcase portfolios, and list skills in UX, web,...

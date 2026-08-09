@@ -2,7 +2,7 @@
 name: DialSense
 url: "https://dialsense.io"
 image: /logos/dialsense.png
-screenshot: /screens/dialsense.jpg
+screenshot: /screens/dialsense.webp
 subcategory: ai-chat
 pricing: free
 tagline: DialSense by Dynopii streamlines customer interactions through AI voice assistants, offering quick resolutions and round-the-clock support.

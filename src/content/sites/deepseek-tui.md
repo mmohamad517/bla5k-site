@@ -2,7 +2,7 @@
 name: DeepSeek-TUI
 url: "https://github.com/Hmbown/DeepSeek-TUI"
 image: /logos/deepseek-tui.png
-screenshot: /screens/deepseek-tui.jpg
+screenshot: /screens/deepseek-tui.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: DeepSeek-TUI is a terminal-native coding agent that provides a keyboard-driven interface for file editing, shell execution, web search, and Git management.

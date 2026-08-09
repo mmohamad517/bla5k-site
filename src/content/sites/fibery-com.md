@@ -2,7 +2,7 @@
 name: Fibery
 url: "https://fibery.com"
 image: /logos/fibery-com.png
-screenshot: /screens/fibery-com.jpg
+screenshot: /screens/fibery-com.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Fibery is a modular work platform combining product, project, CRM, and knowledge work with relational databases, customizable templates, multiple views,...

@@ -2,7 +2,7 @@
 name: V41 Platform
 url: "https://wemake.cx"
 image: /logos/v41-platform.png
-screenshot: /screens/v41-platform.jpg
+screenshot: /screens/v41-platform.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: V41 Platform is a strategic AI consultancy tool that identifies industry-specific opportunities and builds data-driven implementation roadmaps.

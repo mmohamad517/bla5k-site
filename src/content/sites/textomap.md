@@ -2,7 +2,7 @@
 name: Textomap
 url: "https://www.textomap.com/"
 image: /logos/textomap.png
-screenshot: /screens/textomap.jpg
+screenshot: /screens/textomap.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Textomap turns text, images, links, and CSVs into interactive maps instantly.

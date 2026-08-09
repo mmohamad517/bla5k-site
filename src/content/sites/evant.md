@@ -2,7 +2,7 @@
 name: Evant
 url: "https://evant.app"
 image: /logos/evant.png
-screenshot: /screens/evant.jpg
+screenshot: /screens/evant.webp
 subcategory: nc-automation
 pricing: paid
 tagline: Evant automates event RSVPs, check‑ins, and fundraising via SMS and online links, with keyword‑triggered replies and scheduled messaging.

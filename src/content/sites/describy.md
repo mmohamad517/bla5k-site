@@ -2,7 +2,7 @@
 name: Describy
 url: "https://getdescriby.com"
 image: /logos/describy.png
-screenshot: /screens/describy.jpg
+screenshot: /screens/describy.webp
 subcategory: learn-courses
 pricing: paid
 tagline: Describy is an AI‑powered interview tool that automatically gathers user feedback.

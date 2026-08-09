@@ -2,7 +2,7 @@
 name: Markty AI
 url: "https://markty.ai"
 image: /logos/markty-ai.png
-screenshot: /screens/markty-ai.jpg
+screenshot: /screens/markty-ai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Markty AI is a platform that deploys role-specific AI employees to manage and automate marketing workflows across social media, content, email, and sales.

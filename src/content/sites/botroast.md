@@ -2,7 +2,7 @@
 name: Botroast
 url: "https://www.botroast.io/"
 image: /logos/botroast.png
-screenshot: /screens/botroast.jpg
+screenshot: /screens/botroast.webp
 subcategory: ai-image
 pricing: paid
 tagline: Botroast.io delivers instant AI‑generated roast reports for landing pages and visual assets, evaluating layout, hierarchy, typography, color, spacing,...

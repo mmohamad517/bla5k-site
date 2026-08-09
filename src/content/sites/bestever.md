@@ -2,7 +2,7 @@
 name: Bestever
 url: "https://bestever.ai"
 image: /logos/bestever.png
-screenshot: /screens/bestever.jpg
+screenshot: /screens/bestever.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: BestEver is an AI ad generator that creates personalized ad variations from product catalogs, automates video ad production for multiple platforms, analyzes...

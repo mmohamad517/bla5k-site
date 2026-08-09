@@ -2,7 +2,7 @@
 name: PreCallAI
 url: "https://www.precallai.com"
 image: /logos/precallai.png
-screenshot: /screens/precallai.jpg
+screenshot: /screens/precallai.webp
 subcategory: nc-automation
 pricing: freemium
 tagline: PreCallAI automates inbound and outbound calls with AI voice assistants and SMS bots for sales, booking, support, and lead follow‑up.

@@ -2,7 +2,7 @@
 name: Cranston AI
 url: "https://cranstonai.com"
 image: /logos/cranston-ai.png
-screenshot: /screens/cranston-ai.jpg
+screenshot: /screens/cranston-ai.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Cranston AI is an automated bookkeeping platform for startups and small businesses.

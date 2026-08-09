@@ -2,7 +2,7 @@
 name: NSFW JS
 url: "https://nsfwjs.com/"
 image: /logos/nsfw-js.png
-screenshot: /screens/nsfw-js.jpg
+screenshot: /screens/nsfw-js.webp
 subcategory: ai-productivity
 pricing: free
 tagline: The AI content checking tool uses image recognition technology with 93% accuracy rate to classify potentially indecent content and offers camera and blur...

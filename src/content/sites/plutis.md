@@ -2,7 +2,7 @@
 name: Plutis
 url: "https://plutis.io"
 image: /logos/plutis.png
-screenshot: /screens/plutis.jpg
+screenshot: /screens/plutis.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Market Leap is an AI-driven platform that streamlines multi-channel marketing through automation.

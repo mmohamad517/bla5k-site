@@ -2,7 +2,7 @@
 name: Opusense
 url: "https://www.opusense.com"
 image: /logos/opusense.png
-screenshot: /screens/opusense.jpg
+screenshot: /screens/opusense.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: Opusense is a site inspection tool that captures observations via photos, voice, and text to auto-generate branded reports.

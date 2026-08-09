@@ -2,7 +2,7 @@
 name: ReyoAI
 url: "https://reyoai.com/"
 image: /logos/reyoai.png
-screenshot: /screens/reyoai.jpg
+screenshot: /screens/reyoai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: ReyoAI is a versatile content generation platform offering tools for creating SEO-optimized articles, custom images, and audio transcriptions.

@@ -2,7 +2,7 @@
 name: Quoai
 url: "https://quoai.fr"
 image: /logos/quoai.png
-screenshot: /screens/quoai.jpg
+screenshot: /screens/quoai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Quoai is an AI-powered quote calculator for tech project management, enabling quick generation of detailed quotes from specifications and RFPs.

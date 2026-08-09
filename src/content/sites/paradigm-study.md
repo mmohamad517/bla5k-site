@@ -2,7 +2,7 @@
 name: Paradigm
 url: "https://www.paradigm.study/"
 image: /logos/paradigm-study.png
-screenshot: /screens/paradigm-study.jpg
+screenshot: /screens/paradigm-study.webp
 subcategory: ai-image
 pricing: paid
 tagline: Paradigm is an adaptive learning platform with a visual course builder and multimedia support that uses AI to personalize learning paths, offers integrated...

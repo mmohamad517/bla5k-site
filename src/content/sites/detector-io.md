@@ -2,7 +2,7 @@
 name: Detector.io
 url: "https://detector.io/"
 image: /logos/detector-io.png
-screenshot: /screens/detector-io.jpg
+screenshot: /screens/detector-io.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Detector.io is an AI detection tool that scans text to identify AI-generated passages, providing a score and highlighted segments.

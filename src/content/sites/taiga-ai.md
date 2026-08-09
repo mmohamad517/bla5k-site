@@ -2,7 +2,7 @@
 name: Taiga AI
 url: "https://asktaiga.ai/"
 image: /logos/taiga-ai.png
-screenshot: /screens/taiga-ai.jpg
+screenshot: /screens/taiga-ai.webp
 subcategory: ai-chat
 pricing: free
 tagline: Taiga is an AI‑powered coding mentor integrated into Slack that delivers instant answers to programming questions, provides code snippets, error analysis,...

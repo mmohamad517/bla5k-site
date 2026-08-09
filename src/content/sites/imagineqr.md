@@ -2,7 +2,7 @@
 name: ImagineQr
 url: "https://imagineqr.io"
 image: /logos/imagineqr.png
-screenshot: /screens/imagineqr.jpg
+screenshot: /screens/imagineqr.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: ImagineQr generates AI‑powered QR codes that link to any URL, using templates and a negative prompt to exclude unwanted content.

@@ -2,7 +2,7 @@
 name: CustomerPing
 url: "https://customerping.ai/"
 image: /logos/customerping.png
-screenshot: /screens/customerping.jpg
+screenshot: /screens/customerping.webp
 subcategory: mkt-social
 pricing: paid
 tagline: CustomerPing scans forums and discussion sites, using AI to identify posts that match user‑defined relevance criteria.

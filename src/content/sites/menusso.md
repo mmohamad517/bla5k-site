@@ -2,7 +2,7 @@
 name: Menusso
 url: "https://menusso.com"
 image: /logos/menusso.png
-screenshot: /screens/menusso.jpg
+screenshot: /screens/menusso.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Menusso Polska gives restaurants branded mobile apps that host menus, integrate card and BLIK payments, eliminate commission fees, allow real‑time edits,...

@@ -2,7 +2,7 @@
 name: Helper.im
 url: "https://helper.im/"
 image: /logos/helper-im.png
-screenshot: /screens/helper-im.jpg
+screenshot: /screens/helper-im.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Ai Helper is a cross‑platform desktop client that brings ChatGPT, GPT‑4, and other AI engines to macOS, Windows, and Linux.

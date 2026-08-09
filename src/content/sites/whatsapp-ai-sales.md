@@ -2,7 +2,7 @@
 name: WhatsApp AI Sales
 url: "https://wabot.wadesk.io/"
 image: /logos/whatsapp-ai-sales.png
-screenshot: /screens/whatsapp-ai-sales.jpg
+screenshot: /screens/whatsapp-ai-sales.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: WhatsApp AI Sales Copilot is an AI assistant that drafts contextual replies, detects buyer intent, and provides sales scripts within WhatsApp.

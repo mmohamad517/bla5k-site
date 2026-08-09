@@ -2,7 +2,7 @@
 name: Writio
 url: "https://writio.com"
 image: /logos/writio.png
-screenshot: /screens/writio.jpg
+screenshot: /screens/writio.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Writio is an AI writing platform that produces SEO‑optimized articles for small businesses, agencies, and publishers across sectors such as food, retail,...

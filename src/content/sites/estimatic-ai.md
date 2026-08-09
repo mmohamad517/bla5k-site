@@ -2,7 +2,7 @@
 name: Estimatic AI
 url: "https://contractorplus.app/ai-estimating-software"
 image: /logos/estimatic-ai.png
-screenshot: /screens/estimatic-ai.jpg
+screenshot: /screens/estimatic-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Estimatic AI is a construction estimating tool that generates detailed project quotes using live supplier pricing and labor rates.

@@ -2,7 +2,7 @@
 name: Evolup
 url: "https://www.evolup.com/"
 image: /logos/evolup.png
-screenshot: /screens/evolup.jpg
+screenshot: /screens/evolup.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Evolup uses AI to automate affiliate store creation and management.

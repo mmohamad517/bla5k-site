@@ -2,7 +2,7 @@
 name: Humy.ai
 url: "https://humy.ai"
 image: /logos/humy-ai.png
-screenshot: /screens/humy-ai.jpg
+screenshot: /screens/humy-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Humy.ai is an AI-powered education tool that provides personalized, one-on-one social studies & history tutoring through virtual historical figures.

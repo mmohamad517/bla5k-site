@@ -2,7 +2,7 @@
 name: LessonPlans.ai
 url: "https://www.lessonplans.ai/"
 image: /logos/lessonplans-ai.png
-screenshot: /screens/lessonplans-ai.jpg
+screenshot: /screens/lessonplans-ai.webp
 subcategory: ai-image
 pricing: paid
 tagline: LessonPlans.ai instantly generates K‑12 lesson plans that align with Common Core, offering outlines, objectives, assessments, activities, and multimedia...

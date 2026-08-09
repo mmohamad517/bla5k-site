@@ -2,7 +2,7 @@
 name: Slayed.ai
 url: "http://slayed.ai"
 image: /logos/slayed-ai.png
-screenshot: /screens/slayed-ai.jpg
+screenshot: /screens/slayed-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Slayed.ai is an AI invoicing tool designed to simplify and speed up the billing process for freelancers and small businesses.

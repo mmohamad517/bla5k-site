@@ -2,7 +2,7 @@
 name: Perfect
 url: "https://www.goperfect.com"
 image: /logos/perfect.png
-screenshot: /screens/perfect.jpg
+screenshot: /screens/perfect.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Perfect is an AI recruitment tool that improves candidate engagement through advanced search capabilities, predictive analytics for career shifts, and...

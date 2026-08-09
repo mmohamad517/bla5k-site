@@ -2,7 +2,7 @@
 name: Sesterce Cloud
 url: "https://cloud.sesterce.com/compute"
 image: /logos/sesterce-cloud.png
-screenshot: /screens/sesterce-cloud.jpg
+screenshot: /screens/sesterce-cloud.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Cloud GPU rental platform offering on-demand VMs and bare-metal servers with A100/H100/RTX4090 and other GPUs, configurable vRAM/vCPU, persistent volumes,...

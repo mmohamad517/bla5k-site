@@ -2,7 +2,7 @@
 name: Coframe
 url: "https://coframe.com"
 image: /logos/coframe-com.png
-screenshot: /screens/coframe-com.jpg
+screenshot: /screens/coframe-com.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: Coframe automates conversion rate optimization and website experimentation by generating deployable UI code, performance-focused copy, and visuals,...

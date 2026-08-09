@@ -2,7 +2,7 @@
 name: Poised
 url: "https://www.poised.com/"
 image: /logos/poised.png
-screenshot: /screens/poised.jpg
+screenshot: /screens/poised.webp
 subcategory: learn-courses
 pricing: free
 tagline: Poised offers real‑time feedback on filler words, pacing, confidence, and persuasion during meetings, auto‑generating notes and summaries.

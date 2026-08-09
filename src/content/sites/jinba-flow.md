@@ -2,7 +2,7 @@
 name: Jinba Flow
 url: "https://jinba.io/"
 image: /logos/jinba-flow.png
-screenshot: /screens/jinba-flow.jpg
+screenshot: /screens/jinba-flow.webp
 subcategory: nc-automation
 pricing: freemium
 tagline: Jinba is an AI workflow automation platform combining a visual builder (Jinba Flow) and runtime (Jinba App) to orchestrate AI-driven tasks, feature-flag...

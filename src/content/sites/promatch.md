@@ -2,7 +2,7 @@
 name: ProMatch
 url: "https://www.promatch.ai"
 image: /logos/promatch.png
-screenshot: /screens/promatch.jpg
+screenshot: /screens/promatch.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Promatch is an AI talent sourcing solution that simplifies hiring in blue-collar and gray-collar sectors.

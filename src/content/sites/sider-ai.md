@@ -2,7 +2,7 @@
 name: Sider
 url: https://sider.ai/
 image: /logos/sider-ai.png
-screenshot: /screens/sider-ai.jpg
+screenshot: /screens/sider-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: "AI sidebar for your browser—30+ models with instant summarize, translate, and rewrite."

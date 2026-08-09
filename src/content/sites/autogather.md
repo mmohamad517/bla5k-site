@@ -2,7 +2,7 @@
 name: AutoGather
 url: "https://www.autogather.ai/"
 image: /logos/autogather.png
-screenshot: /screens/autogather.jpg
+screenshot: /screens/autogather.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: AutoGather is an AI-powered platform that automates influencer discovery across Instagram, YouTube, and TikTok by evaluating and matching influencers based...

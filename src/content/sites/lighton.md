@@ -2,7 +2,7 @@
 name: LightOn
 url: "https://lighton.ai"
 image: /logos/lighton.png
-screenshot: /screens/lighton.jpg
+screenshot: /screens/lighton.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: LightOn Enterprise Search is a secure on‑prem RAG platform that indexes text, images, PDFs, and scanned documents.

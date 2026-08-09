@@ -2,7 +2,7 @@
 name: Botjet
 url: "https://botjet.ai"
 image: /logos/botjet.png
-screenshot: /screens/botjet.jpg
+screenshot: /screens/botjet.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Botjet is a conversational AI platform offering 360° support across web, mobile, IoT, and touchpoints.

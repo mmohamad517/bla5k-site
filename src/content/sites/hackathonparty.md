@@ -2,7 +2,7 @@
 name: HackathonParty
 url: "https://hackathonparty.com"
 image: /logos/hackathonparty.png
-screenshot: /screens/hackathonparty.jpg
+screenshot: /screens/hackathonparty.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: HackathonParty is a platform for organizing hackathons, offering project management tools, real-time collaboration, an AI mentor, automated team formation,...

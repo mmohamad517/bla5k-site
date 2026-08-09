@@ -2,7 +2,7 @@
 name: ValidatorAI
 url: "https://www.validatorai.com/"
 image: /logos/validatorai.png
-screenshot: /screens/validatorai.jpg
+screenshot: /screens/validatorai.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: ValidatorAI evaluates startup ideas, scoring market fit, competitor landscape, TAM/SAM/SOM, and simulating customer responses.

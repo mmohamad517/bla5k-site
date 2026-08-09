@@ -2,7 +2,7 @@
 name: CuteEmoji.AI
 url: "https://cuteemoji.ai"
 image: /logos/cuteemoji-ai.png
-screenshot: /screens/cuteemoji-ai.jpg
+screenshot: /screens/cuteemoji-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: CuteEmoji.AI is a searchable emoji and ASCII art library with an emoji keyboard and AI-suggested variants for colors, moods, and themes.

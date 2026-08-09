@@ -2,7 +2,7 @@
 name: Publish studio
 url: "https://www.publishstudio.one"
 image: /logos/publish-studio.png
-screenshot: /screens/publish-studio.jpg
+screenshot: /screens/publish-studio.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Publish Studio helps small teams design, brand, and launch digital products.

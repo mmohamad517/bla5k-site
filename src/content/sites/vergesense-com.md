@@ -2,7 +2,7 @@
 name: Vergesense.com
 url: "https://vergesense.com"
 image: /logos/vergesense-com.png
-screenshot: /screens/vergesense-com.jpg
+screenshot: /screens/vergesense-com.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: VergeSense Workplace AI Platform unifies sensor data, building systems, badge logs, lease and Wi‑Fi analytics into a data lake, using machine learning to...

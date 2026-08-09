@@ -2,7 +2,7 @@
 name: Value your time
 url: "https://www.vyourtime.com/home"
 image: /logos/value-your-time.png
-screenshot: /screens/value-your-time.jpg
+screenshot: /screens/value-your-time.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Value Time enables users to create shortened URLs and QR codes, easing the sharing process.

@@ -2,7 +2,7 @@
 name: Soverin AI
 url: "https://soverin.ai/"
 image: /logos/soverin-ai.png
-screenshot: /screens/soverin-ai.jpg
+screenshot: /screens/soverin-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Soverin is an AI marketplace providing access to over 10,000 automation tasks and 1,800 vetted AI tools.

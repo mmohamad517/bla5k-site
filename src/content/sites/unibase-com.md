@@ -2,7 +2,7 @@
 name: Unibase memory
 url: "https://www.unibase.com/memory"
 image: /logos/unibase-com.png
-screenshot: /screens/unibase-com.jpg
+screenshot: /screens/unibase-com.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Unibase Memory is a Chrome extension that creates a unified, cross-AI memory workspace for ChatGPT, Claude, and Gemini.

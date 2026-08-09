@@ -2,7 +2,7 @@
 name: CloseChat
 url: "https://www.closechat.org"
 image: /logos/closechat.png
-screenshot: /screens/closechat.jpg
+screenshot: /screens/closechat.webp
 subcategory: mkt-social
 pricing: paid
 tagline: CloseChat is a cross‑platform AI chatbot mirroring ChatGPT and Claude, offering instant advanced features, file ingestion across formats, unlimited output,...

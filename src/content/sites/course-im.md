@@ -2,7 +2,7 @@
 name: Course.im
 url: "https://course.im/"
 image: /logos/course-im.png
-screenshot: /screens/course-im.jpg
+screenshot: /screens/course-im.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Course.im is an AI-powered platform for creating and publishing mini-courses.

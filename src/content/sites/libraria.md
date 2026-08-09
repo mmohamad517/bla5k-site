@@ -2,7 +2,7 @@
 name: Libraria
 url: "https://libraria.dev"
 image: /logos/libraria.png
-screenshot: /screens/libraria.jpg
+screenshot: /screens/libraria.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Libraria is an AI chatbot platform for businesses, facilitating personalized customer interactions through natural language processing.

@@ -2,7 +2,7 @@
 name: AI Architectures
 url: "https://ai-architectures.com/"
 image: /logos/ai-architectures.png
-screenshot: /screens/ai-architectures.jpg
+screenshot: /screens/ai-architectures.webp
 subcategory: design-graphics
 pricing: paid
 tagline: AI Architectures is a generative AI platform that transforms sketches into detailed 3D models, photorealistic renders, and compliant floor plans.

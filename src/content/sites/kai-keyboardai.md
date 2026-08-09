@@ -2,7 +2,7 @@
 name: KAI - KeyboardAI
 url: "https://trykai.app"
 image: /logos/kai-keyboardai.png
-screenshot: /screens/kai-keyboardai.jpg
+screenshot: /screens/kai-keyboardai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: kai is an AI tool for iPhone that enhances creativity and boosts productivity through intelligent assistance integrated into the keyboard.

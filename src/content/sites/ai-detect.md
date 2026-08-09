@@ -2,7 +2,7 @@
 name: AI detect
 url: "https://www.aidetect.com"
 image: /logos/ai-detect.png
-screenshot: /screens/ai-detect.jpg
+screenshot: /screens/ai-detect.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: AI Content Detector evaluates text for AI authorship, handling uploads up to 4 MB or pasted input.

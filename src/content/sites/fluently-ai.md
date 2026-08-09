@@ -2,7 +2,7 @@
 name: Fluently ai
 url: "https://getfluently.app"
 image: /logos/fluently-ai.png
-screenshot: /screens/fluently-ai.jpg
+screenshot: /screens/fluently-ai.webp
 subcategory: learn-courses
 pricing: free
 tagline: Fluently uses AI to provide real‑time speaking practice, evaluating pronunciation, grammar, vocabulary, and fluency.

@@ -2,7 +2,7 @@
 name: Yatter AI
 url: "https://yatter.in"
 image: /logos/yatter-ai.png
-screenshot: /screens/yatter-ai.jpg
+screenshot: /screens/yatter-ai.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Yatter AI is a WhatsApp and Telegram chatbot powered by GPT‑4o, Gemini, and Llama 3.

@@ -2,7 +2,7 @@
 name: Crafter
 url: "https://usecrafter.com"
 image: /logos/crafter.png
-screenshot: /screens/crafter.jpg
+screenshot: /screens/crafter.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Crafter auto‑generates Jira tickets from PDFs and other documents, extracting key data to create actionable tasks.

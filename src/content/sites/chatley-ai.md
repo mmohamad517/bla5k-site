@@ -2,7 +2,7 @@
 name: Chatley AI
 url: "https://www.chatley.ai/"
 image: /logos/chatley-ai.png
-screenshot: /screens/chatley-ai.jpg
+screenshot: /screens/chatley-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Chatley AI is a 24/7 AI voice receptionist that automates call answering, appointment booking, and lead capture for service businesses.

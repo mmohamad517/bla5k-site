@@ -2,7 +2,7 @@
 name: Game Assets Generator
 url: "https://game-generator.com"
 image: /logos/game-assets-generator.png
-screenshot: /screens/game-assets-generator.jpg
+screenshot: /screens/game-assets-generator.webp
 subcategory: design-graphics
 pricing: free
 tagline: AI Game Assets Generator turns natural‑language prompts into high‑quality game assets—characters, weapons, scenes, UI sprites—in seconds.

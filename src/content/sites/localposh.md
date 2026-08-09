@@ -2,7 +2,7 @@
 name: Localposh
 url: "https://localposh.com/"
 image: /logos/localposh.png
-screenshot: /screens/localposh.jpg
+screenshot: /screens/localposh.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Localposh provides continuous remote monitoring and AI risk detection for dementia, delivering real‑time alerts and coordinated care across medical specialties.

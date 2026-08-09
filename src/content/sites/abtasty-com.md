@@ -2,7 +2,7 @@
 name: AB Tasty
 url: "https://abtasty.com"
 image: /logos/abtasty-com.png
-screenshot: /screens/abtasty-com.jpg
+screenshot: /screens/abtasty-com.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: AB Tasty is a digital experience optimization platform for A/B testing and feature rollouts across web and mobile, combining multi-channel SDKs/APIs,...

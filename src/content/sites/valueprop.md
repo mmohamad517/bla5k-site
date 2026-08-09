@@ -2,7 +2,7 @@
 name: Valueprop
 url: "https://valueprop.dev/"
 image: /logos/valueprop.png
-screenshot: /screens/valueprop.jpg
+screenshot: /screens/valueprop.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: The AI Value Proposition Canvas Generator automatically builds a customer‑focused canvas from a company description, mapping jobs, pains, and gains to...

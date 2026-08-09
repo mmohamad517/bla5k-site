@@ -2,7 +2,7 @@
 name: Code Fundi
 url: "https://codefundi.app"
 image: /logos/code-fundi.png
-screenshot: /screens/code-fundi.jpg
+screenshot: /screens/code-fundi.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Code Fundi integrates with VS Code, Cursor, and CLI to provide chat‑based code generation, debugging, testing, and documentation across repositories.

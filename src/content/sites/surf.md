@@ -2,7 +2,7 @@
 name: Surf
 url: "https://asksurf.ai"
 image: /logos/surf.png
-screenshot: /screens/surf.jpg
+screenshot: /screens/surf.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Surf is an AI tool for cryptocurrency analysis that provides real-time market insights, tailored agent tools, on-chain tracking across 40 blockchains, and...

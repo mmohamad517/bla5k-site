@@ -2,7 +2,7 @@
 name: Quark
 url: "https://www.quark.com/"
 image: /logos/quark.png
-screenshot: /screens/quark.jpg
+screenshot: /screens/quark.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: Quark Publishing Platform is an enterprise content lifecycle management system for structured, componentized authoring and automated document assembly,...

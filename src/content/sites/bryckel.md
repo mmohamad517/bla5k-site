@@ -2,7 +2,7 @@
 name: Bryckel
 url: "https://www.bryckel.ai"
 image: /logos/bryckel.png
-screenshot: /screens/bryckel.jpg
+screenshot: /screens/bryckel.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Bryckel is an AI tool for lease review and risk analysis in commercial real estate, offering structured summaries, risk identification, and compliance support.

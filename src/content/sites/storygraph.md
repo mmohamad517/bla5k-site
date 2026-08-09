@@ -2,7 +2,7 @@
 name: The StoryGraph
 url: https://www.thestorygraph.com/
 image: /logos/storygraph.png
-screenshot: /screens/storygraph.jpg
+screenshot: /screens/storygraph.webp
 subcategory: ent-watch
 tagline: "Track your reading and get personalized book recommendations based on mood and taste."
 tags: [storygraph, books, reading tracker, recommendations]

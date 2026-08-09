@@ -2,7 +2,7 @@
 name: Netagrow
 url: "https://netagrow.com"
 image: /logos/netagrow.png
-screenshot: /screens/netagrow.jpg
+screenshot: /screens/netagrow.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Netagrow is an AI‑driven platform consolidating crop, livestock, and financial data, offering soil and weather analytics, automated yield forecasts, and...

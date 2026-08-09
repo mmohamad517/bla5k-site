@@ -2,7 +2,7 @@
 name: Skeptic Reader
 url: "https://www.skepticreader.domesticstreamers.com"
 image: /logos/skeptic-reader.png
-screenshot: /screens/skeptic-reader.jpg
+screenshot: /screens/skeptic-reader.webp
 subcategory: ai-chat
 pricing: free
 tagline: Skeptic Reader is a browser extension that uses GPT‑4o to scan web pages and video captions for bias and logical fallacies.

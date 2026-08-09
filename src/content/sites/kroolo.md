@@ -2,7 +2,7 @@
 name: Kroolo
 url: "https://kroolo.com"
 image: /logos/kroolo.png
-screenshot: /screens/kroolo.jpg
+screenshot: /screens/kroolo.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Kroolo unifies project management, task tracking, goal setting, and team collaboration in one AI‑powered platform.

@@ -2,7 +2,7 @@
 name: Presbot
 url: "https://www.presbot.com"
 image: /logos/presbot.png
-screenshot: /screens/presbot.jpg
+screenshot: /screens/presbot.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Presbot uses ChatGPT to automate lead capture and retargeting on websites, collecting visitor data, storing leads, and sending instant sales notifications.

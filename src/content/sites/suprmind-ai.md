@@ -2,7 +2,7 @@
 name: Suprmind.ai
 url: "https://suprmind.ai/"
 image: /logos/suprmind-ai.png
-screenshot: /screens/suprmind-ai.jpg
+screenshot: /screens/suprmind-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Suprmind is a multi-AI platform designed to eliminate the risk of relying on single AI answers.

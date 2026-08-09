@@ -2,7 +2,7 @@
 name: Lead diffusion ai
 url: "https://leaddiffusion.com"
 image: /logos/lead-diffusion-ai.png
-screenshot: /screens/lead-diffusion-ai.jpg
+screenshot: /screens/lead-diffusion-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Lead Diffusion AI automates the creation of SEO-friendly blog articles in 182 languages, offering AI-driven keyword research and extensive formatting...

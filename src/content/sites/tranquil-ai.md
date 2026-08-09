@@ -2,7 +2,7 @@
 name: Tranquil AI
 url: "https://tranquilai.app"
 image: /logos/tranquil-ai.png
-screenshot: /screens/tranquil-ai.jpg
+screenshot: /screens/tranquil-ai.webp
 subcategory: ai-video-audio
 pricing: freemium
 tagline: TranquilAI generates AI-guided personalized meditations from user-reported mood, stress level and situational needs, delivering on-demand, downloadable...

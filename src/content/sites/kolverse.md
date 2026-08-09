@@ -2,7 +2,7 @@
 name: KOLverse
 url: "https://kolverse.xyz"
 image: /logos/kolverse.png
-screenshot: /screens/kolverse.jpg
+screenshot: /screens/kolverse.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: KOLverse is an intelligence hub for tracking cryptocurrency trends and influencer activity.

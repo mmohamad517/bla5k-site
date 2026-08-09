@@ -2,7 +2,7 @@
 name: hrflow.ai
 url: "https://hrflow.ai"
 image: /logos/hrflow-ai.png
-screenshot: /screens/hrflow-ai.jpg
+screenshot: /screens/hrflow-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: HrFlow.ai is an API‑first platform that consolidates talent data, uses AI modules (parsing, tagging, embedding, searching, scoring, upskilling) to turn HR...

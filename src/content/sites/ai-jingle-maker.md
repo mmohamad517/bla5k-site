@@ -2,7 +2,7 @@
 name: AI Jingle Maker
 url: "https://www.aijinglemaker.com"
 image: /logos/ai-jingle-maker.png
-screenshot: /screens/ai-jingle-maker.jpg
+screenshot: /screens/ai-jingle-maker.webp
 subcategory: ai-image
 pricing: free
 tagline: AI JINGLEMAKER generates MP3 jingles, DJ drops, station IDs, podcast intros and audio promos from typed text or uploaded voice, blending selectable...

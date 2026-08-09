@@ -2,7 +2,7 @@
 name: Treads Tire Subscription
 url: "https://treads.app"
 image: /logos/treads-tire-subscription.png
-screenshot: /screens/treads-tire-subscription.jpg
+screenshot: /screens/treads-tire-subscription.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Treads Tire Subscription automates tire management, delivering new tires, on‑site installation, rotations, and maintenance.

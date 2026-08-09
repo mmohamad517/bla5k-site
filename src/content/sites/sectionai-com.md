@@ -2,7 +2,7 @@
 name: Section AI
 url: "https://sectionai.com"
 image: /logos/sectionai-com.png
-screenshot: /screens/sectionai-com.jpg
+screenshot: /screens/sectionai-com.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: sectionai.com is an enterprise platform that accelerates AI adoption by providing personalized, role-specific training and certification to transform...

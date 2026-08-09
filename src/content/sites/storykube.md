@@ -2,7 +2,7 @@
 name: Storykube
 url: "https://storykube.com"
 image: /logos/storykube.png
-screenshot: /screens/storykube.jpg
+screenshot: /screens/storykube.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Storykube is a multifaceted AI tool that functions as a copywriter, project manager, and designer.

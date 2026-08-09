@@ -2,7 +2,7 @@
 name: Perception.io
 url: "https://www.perception.io"
 image: /logos/perception-io.png
-screenshot: /screens/perception-io.jpg
+screenshot: /screens/perception-io.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: Perception is an AI color palette generator that applies color psychology to create mood‑based schemes.

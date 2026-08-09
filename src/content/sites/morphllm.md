@@ -2,7 +2,7 @@
 name: Morphllm
 url: "https://morphllm.com/"
 image: /logos/morphllm.png
-screenshot: /screens/morphllm.jpg
+screenshot: /screens/morphllm.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Morphllmis a high-throughput AI code-editing platform that applies LLM-generated multi-file edits, automated diffs, and merges at 10,500+ tokens/sec via...

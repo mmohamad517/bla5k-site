@@ -2,7 +2,7 @@
 name: iChatWithGPT
 url: "https://ichatwithgpt.com/"
 image: /logos/ichatwithgpt.png
-screenshot: /screens/ichatwithgpt.jpg
+screenshot: /screens/ichatwithgpt.webp
 subcategory: ai-chat
 pricing: free
 tagline: iChatWithGPT is an AI assistant integrated into iMessage that uses GPT‑5.2, Claude 4.5, and Google Search for real‑time web research, news, weather, and...

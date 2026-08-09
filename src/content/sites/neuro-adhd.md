@@ -2,7 +2,7 @@
 name: Neuro (ADHD)
 url: "https://www.neuro-notion.com"
 image: /logos/neuro-adhd.png
-screenshot: /screens/neuro-adhd.jpg
+screenshot: /screens/neuro-adhd.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Claudia is an AI personal assistant designed for individuals with ADHD, utilizing a voice-first approach to manage tasks, notes, and reminders.

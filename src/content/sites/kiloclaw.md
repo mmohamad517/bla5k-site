@@ -2,7 +2,7 @@
 name: KiloClaw
 url: "https://kilo.ai/kiloclaw"
 image: /logos/kiloclaw.png
-screenshot: /screens/kiloclaw.jpg
+screenshot: /screens/kiloclaw.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: KiloClaw is a hosted platform for deploying and managing OpenClaw AI agents.

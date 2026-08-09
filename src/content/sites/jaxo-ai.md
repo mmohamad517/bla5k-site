@@ -2,7 +2,7 @@
 name: Jaxo AI
 url: "https://jaxo.ai"
 image: /logos/jaxo-ai.png
-screenshot: /screens/jaxo-ai.jpg
+screenshot: /screens/jaxo-ai.webp
 subcategory: ai-writing
 pricing: paid
 tagline: JaxoAI unifies text, image, code, chatbot, and speech‑to‑text AI generation in one dashboard.

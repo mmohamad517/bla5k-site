@@ -2,7 +2,7 @@
 name: Capafy
 url: "https://capafy.ai/"
 image: /logos/capafy.png
-screenshot: /screens/capafy.jpg
+screenshot: /screens/capafy.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: Capafy is an AI agent marketplace for publishing, versioning and distributing autonomous agents, with deployment configuration for cloud and edge,...

@@ -2,7 +2,7 @@
 name: Meeko
 url: "https://meeko.ai/"
 image: /logos/meeko.png
-screenshot: /screens/meeko.jpg
+screenshot: /screens/meeko.webp
 subcategory: learn-courses
 pricing: freemium
 tagline: Meeko.ai is an AI coaching platform for League of Legends, providing personalized guidance, drafts, matchup advice, builds, and tier lists.

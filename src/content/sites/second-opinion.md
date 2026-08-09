@@ -2,7 +2,7 @@
 name: Second Opinion
 url: "https://secondopinion.so"
 image: /logos/second-opinion.png
-screenshot: /screens/second-opinion.jpg
+screenshot: /screens/second-opinion.webp
 subcategory: ai-chat
 pricing: free
 tagline: Second Opinion is a browser extension that enables users to verify online content accuracy by highlighting text and receiving analysis from an AI system.

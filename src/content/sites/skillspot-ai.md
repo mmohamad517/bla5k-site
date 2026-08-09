@@ -2,7 +2,7 @@
 name: Skillspot.ai
 url: "https://skillspot.ai"
 image: /logos/skillspot-ai.png
-screenshot: /screens/skillspot-ai.jpg
+screenshot: /screens/skillspot-ai.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Skillspot automates recruitment by sourcing, screening, and scheduling candidates from 800 million profiles.

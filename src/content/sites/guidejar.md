@@ -2,7 +2,7 @@
 name: Guidejar
 url: "https://www.guidejar.com"
 image: /logos/guidejar.png
-screenshot: /screens/guidejar.jpg
+screenshot: /screens/guidejar.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Guidejar records real‑time interactions via Chrome extension or desktop app and turns them into interactive, step‑by‑step walkthroughs.

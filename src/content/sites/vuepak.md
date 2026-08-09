@@ -2,7 +2,7 @@
 name: Vuepak
 url: "https://www.vuepak.com"
 image: /logos/vuepak.png
-screenshot: /screens/vuepak.jpg
+screenshot: /screens/vuepak.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Vuepak is an AI-driven digital asset management platform that streamlines the organization and distribution of marketing materials, enhancing collaboration...

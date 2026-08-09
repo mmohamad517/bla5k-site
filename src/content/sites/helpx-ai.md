@@ -2,7 +2,7 @@
 name: Helpx.ai
 url: "https://www.helpx.ai"
 image: /logos/helpx-ai.png
-screenshot: /screens/helpx-ai.jpg
+screenshot: /screens/helpx-ai.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Helpx.ai automates 24/7 customer support with an AI chatbot that answers FAQs and complex questions, integrating real‑time database data, offering...

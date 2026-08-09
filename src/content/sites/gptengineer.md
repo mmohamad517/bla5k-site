@@ -2,7 +2,7 @@
 name: GPTEngineer
 url: "https://github.com/AntonOsika/gpt-engineer"
 image: /logos/gptengineer.png
-screenshot: /screens/gptengineer.jpg
+screenshot: /screens/gptengineer.webp
 subcategory: ai-chat
 pricing: free
 tagline: GPT Engineer is an open source AI tool that generates code based on user input and provides a simple and flexible user experience.

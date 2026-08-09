@@ -2,7 +2,7 @@
 name: Insightful
 url: "https://www.insightful.io/?red=topait"
 image: /logos/insightful-io.png
-screenshot: /screens/insightful-io.jpg
+screenshot: /screens/insightful-io.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Insightful is a workforce intelligence platform that provides productivity analytics through automated time tracking and activity monitoring.

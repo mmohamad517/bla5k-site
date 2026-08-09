@@ -2,7 +2,7 @@
 name: BlandAI
 url: "https://www.bland.ai/"
 image: /logos/blandai.png
-screenshot: /screens/blandai.jpg
+screenshot: /screens/blandai.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Bland AI replaces legacy IVR with conversational agents across voice, SMS, and chat, enabling automated call handling, scheduling, lead qualification, and...

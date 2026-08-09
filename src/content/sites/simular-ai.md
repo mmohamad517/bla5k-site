@@ -2,7 +2,7 @@
 name: Simular.ai
 url: "https://www.simular.ai/"
 image: /logos/simular-ai.png
-screenshot: /screens/simular-ai.jpg
+screenshot: /screens/simular-ai.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: Simular.ai is an open-source AI tool for macOS that automates workflows using human-like interactions.

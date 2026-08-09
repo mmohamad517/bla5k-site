@@ -2,7 +2,7 @@
 name: GiFTEM Studio
 url: "https://giftem.co"
 image: /logos/giftem-studio.png
-screenshot: /screens/giftem-studio.jpg
+screenshot: /screens/giftem-studio.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Giftem is an AI-enhanced recruiting tool boosting productivity by 10x.

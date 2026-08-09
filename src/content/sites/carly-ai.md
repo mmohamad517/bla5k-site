@@ -2,7 +2,7 @@
 name: Carly AI
 url: "https://www.usecarly.com/"
 image: /logos/carly-ai.png
-screenshot: /screens/carly-ai.jpg
+screenshot: /screens/carly-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Carly AI is an AI assistant designed to streamline your workday by automating tasks across email, calendar, and workflows.

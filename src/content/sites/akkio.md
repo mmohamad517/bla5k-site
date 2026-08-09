@@ -2,7 +2,7 @@
 name: Akkio
 url: "https://www.akkio.com/"
 image: /logos/akkio.png
-screenshot: /screens/akkio.jpg
+screenshot: /screens/akkio.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Akkio is an AI‑native workflow platform that unifies strategy, audience building, and performance measurement for media agencies and marketing teams.

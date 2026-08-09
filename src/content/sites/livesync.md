@@ -2,7 +2,7 @@
 name: Livesync
 url: "https://www.live-sync.io"
 image: /logos/livesync.png
-screenshot: /screens/livesync.jpg
+screenshot: /screens/livesync.webp
 subcategory: ai-image
 pricing: freemium
 tagline: "##liveSync is a real-time face swap tool for live streaming and video conferencing, allowing users to create realistic avatars and characters."

@@ -2,7 +2,7 @@
 name: SAM 3D-
 url: "https://sam-3d.com"
 image: /logos/sam-3d.png
-screenshot: /screens/sam-3d.jpg
+screenshot: /screens/sam-3d.webp
 subcategory: design-3d
 pricing: free
 tagline: SAM 3D converts single images into textured 3D meshes and scene reconstructions using SAM 3D Objects and SAM 3D Body, handling occlusions and zero-shot...

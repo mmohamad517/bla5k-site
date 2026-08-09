@@ -2,7 +2,7 @@
 name: FilmFlow
 url: "https://filmflow.ai"
 image: /logos/filmflow.png
-screenshot: /screens/filmflow.jpg
+screenshot: /screens/filmflow.webp
 subcategory: ai-chat
 pricing: paid
 tagline: FilmFlow uses AI to generate niche video ideas, full scripts, and SEO elements—titles, descriptions, tags, thumbnails—plus a dynamic CTA system, helping...

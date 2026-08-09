@@ -2,7 +2,7 @@
 name: Storylist
 url: "https://www.storylist.dev/"
 image: /logos/storylist.png
-screenshot: /screens/storylist.jpg
+screenshot: /screens/storylist.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Storylist automatically turns simple project descriptions into structured user stories, offering time estimates, GitHub sync, shared boards, and public...

@@ -2,7 +2,7 @@
 name: Magic AI Avatars
 url: "https://magicaiavatars.com/"
 image: /logos/magic-ai-avatars.png
-screenshot: /screens/magic-ai-avatars.jpg
+screenshot: /screens/magic-ai-avatars.webp
 subcategory: ai-image
 pricing: free
 tagline: Magic AI Avatars turns uploaded photos into avatars using facial analysis.

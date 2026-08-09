@@ -2,7 +2,7 @@
 name: SeeingAI
 url: "https://www.seeingai.com/"
 image: /logos/seeingai.png
-screenshot: /screens/seeingai.jpg
+screenshot: /screens/seeingai.webp
 subcategory: ai-chat
 pricing: free
 tagline: Seeing AI is a mobile app that uses AI to give real‑time audio descriptions of text, photos, and documents to blind and low‑vision users.

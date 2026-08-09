@@ -2,7 +2,7 @@
 name: TinyTap AI
 url: "https://www.tinytap.com/ai/"
 image: /logos/tinytap-ai.png
-screenshot: /screens/tinytap-ai.jpg
+screenshot: /screens/tinytap-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: TinyTap AI automatically creates interactive lessons on any topic, assembling multimedia content, quizzes, and prompts.

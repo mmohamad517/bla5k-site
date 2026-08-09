@@ -2,7 +2,7 @@
 name: Wery AI
 url: "https://www.wery.ai/"
 image: /logos/wery-ai.png
-screenshot: /screens/wery-ai.jpg
+screenshot: /screens/wery-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Wery is a virtual AI studio that routes objectives to specialized agents, orchestrates multi-step workflows and parallel tasks (data, documents, design,...

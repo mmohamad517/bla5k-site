@@ -2,7 +2,7 @@
 name: Jupid - AI Accountant
 url: "https://jupid.com"
 image: /logos/jupid-ai-accountant.png
-screenshot: /screens/jupid-ai-accountant.jpg
+screenshot: /screens/jupid-ai-accountant.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Jupid - AI Accountant is an AI-powered accounting platform for small businesses and LLCs, automating bookkeeping, tax filing, and business formation.

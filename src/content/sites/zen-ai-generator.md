@@ -2,7 +2,7 @@
 name: Zen AI Generator
 url: "https://zenaigenerator.com"
 image: /logos/zen-ai-generator.png
-screenshot: /screens/zen-ai-generator.jpg
+screenshot: /screens/zen-ai-generator.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Zen AI Generator lets users produce text, images, voice, and code in a single platform, offering templates, a 540‑voice mix, multi‑language support, and...

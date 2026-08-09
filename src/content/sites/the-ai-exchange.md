@@ -2,7 +2,7 @@
 name: The AI Exchange
 url: "https://theaiexchange.com"
 image: /logos/the-ai-exchange.png
-screenshot: /screens/the-ai-exchange.jpg
+screenshot: /screens/the-ai-exchange.webp
 subcategory: ai-chat
 pricing: paid
 tagline: The AI Exchange delivers structured learning and certification to help teams operationalize AI at scale.

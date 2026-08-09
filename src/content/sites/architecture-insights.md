@@ -2,7 +2,7 @@
 name: Architecture insights
 url: "https://architectureinsights.co"
 image: /logos/architecture-insights.png
-screenshot: /screens/architecture-insights.jpg
+screenshot: /screens/architecture-insights.webp
 subcategory: design-graphics
 pricing: free
 tagline: Architecture Insights is a resource platform for architecture professionals, featuring over 1,500 articles on AI applications in design, social media...

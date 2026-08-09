@@ -2,7 +2,7 @@
 name: SEOpital
 url: "https://www.seopital.co/fr/"
 image: /logos/seopital.png
-screenshot: /screens/seopital.jpg
+screenshot: /screens/seopital.webp
 subcategory: ai-writing
 pricing: free
 tagline: SEOpital uses AI to cluster keywords, analyze SERPs, and pinpoint ranking factors.

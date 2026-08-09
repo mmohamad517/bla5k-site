@@ -2,7 +2,7 @@
 name: SymbiotAI
 url: "https://symbiotai.com"
 image: /logos/symbiotai.png
-screenshot: /screens/symbiotai.jpg
+screenshot: /screens/symbiotai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Symbiot AI is a versatile platform utilizing a chat interface for streamlined AI model interactions.

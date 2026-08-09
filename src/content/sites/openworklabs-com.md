@@ -2,7 +2,7 @@
 name: Openwork
 url: "https://openworklabs.com/"
 image: /logos/openworklabs-com.png
-screenshot: /screens/openworklabs-com.jpg
+screenshot: /screens/openworklabs-com.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Openwork is an open-source desktop app that connects 50+ LLMs with team workspaces, shared setups, skills, plugins, and configs.

@@ -2,7 +2,7 @@
 name: Scade.pro
 url: "https://www.scade.pro"
 image: /logos/scade-pro.png
-screenshot: /screens/scade-pro.jpg
+screenshot: /screens/scade-pro.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Scade.pro lets teams create AI‑powered content creators with a visual builder, no‑code workflows, and access to 1,500+ models (GPT, Claude, etc.).

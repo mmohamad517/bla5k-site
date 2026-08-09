@@ -2,7 +2,7 @@
 name: Wynter.ai
 url: "https://www.wynter.ai"
 image: /logos/wynter-ai.png
-screenshot: /screens/wynter-ai.jpg
+screenshot: /screens/wynter-ai.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Lazer Focused Chatbots enhances user interaction by providing targeted prompts for ChatGPT.

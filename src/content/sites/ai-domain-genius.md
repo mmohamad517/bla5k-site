@@ -2,7 +2,7 @@
 name: AI Domain Genius
 url: "https://aidomaingenius.com/"
 image: /logos/ai-domain-genius.png
-screenshot: /screens/ai-domain-genius.jpg
+screenshot: /screens/ai-domain-genius.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Get domain name ideas using AI and purchase them instantly through a preferred domain name provider with customizable parameters and themes.

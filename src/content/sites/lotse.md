@@ -2,7 +2,7 @@
 name: Lotse
 url: "https://getlotse.ai/"
 image: /logos/lotse.png
-screenshot: /screens/lotse.jpg
+screenshot: /screens/lotse.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: LotseAI aggregates project data from Notion, Google Docs, Jira, Trello, Asana, Slack, Monday, HubSpot, and Figma into one hub, providing real‑time insights,...

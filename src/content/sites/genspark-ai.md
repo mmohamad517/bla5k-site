@@ -2,7 +2,7 @@
 name: Genspark.ai
 url: "https://www.genspark.ai/"
 image: /logos/genspark-ai.png
-screenshot: /screens/genspark-ai.jpg
+screenshot: /screens/genspark-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Genspark unifies inbox, workflows, and collaboration into one AI workspace, offering a 1‑million‑token context window, voice‑to‑text, auto‑meeting notes,...

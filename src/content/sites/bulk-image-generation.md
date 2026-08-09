@@ -2,7 +2,7 @@
 name: Bulk Image Generation
 url: "https://bulkimagegeneration.com"
 image: /logos/bulk-image-generation.png
-screenshot: /screens/bulk-image-generation.jpg
+screenshot: /screens/bulk-image-generation.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Bulk Image Generation quickly produces up to 100 images in 15 seconds with the Flux 1.1 model, needs only a simple description, and offers bulk editing,...

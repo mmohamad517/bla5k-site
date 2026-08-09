@@ -2,7 +2,7 @@
 name: Ecomtent
 url: "https://www.ecomtent.ai"
 image: /logos/ecomtent.png
-screenshot: /screens/ecomtent.jpg
+screenshot: /screens/ecomtent.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Ecomtent automates high‑quality product images, infographics, and copy for Amazon, Walmart, eBay, and other marketplaces, ensuring platform‑compliant...

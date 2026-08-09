@@ -2,7 +2,7 @@
 name: Puretalk.ai
 url: "https://puretalk.ai"
 image: /logos/puretalk-ai.png
-screenshot: /screens/puretalk-ai.jpg
+screenshot: /screens/puretalk-ai.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Puretalk AI® is a conversational AI platform that offers voice agents and chatbots for improved customer interactions.

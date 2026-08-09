@@ -2,7 +2,7 @@
 name: Airfriend
 url: "https://airfriend.app"
 image: /logos/airfriend.png
-screenshot: /screens/airfriend.jpg
+screenshot: /screens/airfriend.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Airfriend is a conversational AI tool for WhatsApp that engages users in personalized daily chats, adapting responses based on preferences and past...

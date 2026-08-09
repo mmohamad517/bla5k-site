@@ -2,7 +2,7 @@
 name: MaxClaw AI
 url: "https://agent.minimax.io/max-claw"
 image: /logos/maxclaw-ai.png
-screenshot: /screens/maxclaw-ai.jpg
+screenshot: /screens/maxclaw-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Maxclaw is a cloud-hosted AI agent built on minimax m2.5, offering one‑click deployment, persistent long‑term memory (200k+ tokens), persona customization,...

@@ -2,7 +2,7 @@
 name: Warp.dev
 url: "https://www.warp.dev/"
 image: /logos/warp-ai.png
-screenshot: /screens/warp-ai.jpg
+screenshot: /screens/warp-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Warp is an agentic development environment that leverages AI agents to accelerate software development by automating coding, debugging, and feature creation...

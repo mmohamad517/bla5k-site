@@ -2,7 +2,7 @@
 name: InstaNews.ai
 url: "https://instanews.ai"
 image: /logos/instanews-ai.png
-screenshot: /screens/instanews-ai.jpg
+screenshot: /screens/instanews-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Instanews.ai scans an Instagram feed, auto‑generates structured news or blog articles from images and captions using GPT, lets you preview and approve with...

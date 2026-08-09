@@ -2,7 +2,7 @@
 name: WasteAID
 url: "https://ecorithms.com"
 image: /logos/wasteaid.png
-screenshot: /screens/wasteaid.jpg
+screenshot: /screens/wasteaid.webp
 subcategory: ai-chat
 pricing: paid
 tagline: WasteAID uses AI to analyze truck images for contamination violations, automating California SB‑1383 compliance tracking.

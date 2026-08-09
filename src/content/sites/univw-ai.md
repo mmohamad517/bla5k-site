@@ -2,7 +2,7 @@
 name: Univw.AI
 url: "https://univw.ai"
 image: /logos/univw-ai.png
-screenshot: /screens/univw-ai.jpg
+screenshot: /screens/univw-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Univw is a cloud‑based CRM for start‑ups and small businesses offering custom dashboards, call‑center metrics, AI‑driven agent coaching, automated QA, and...

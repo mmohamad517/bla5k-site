@@ -2,7 +2,7 @@
 name: Audio Cutter AI
 url: "https://audiocutter.ai/"
 image: /logos/audio-cutter-ai.png
-screenshot: /screens/audio-cutter-ai.jpg
+screenshot: /screens/audio-cutter-ai.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Audio Cutter AI is a browser-based tool for trimming and editing MP3, WAV, and FLAC files with AI-assisted cut point detection and precise interval selection.

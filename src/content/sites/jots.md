@@ -2,7 +2,7 @@
 name: Jots
 url: "https://www.daily-jots.com"
 image: /logos/jots.png
-screenshot: /screens/jots.jpg
+screenshot: /screens/jots.webp
 subcategory: ai-chat
 pricing: free
 tagline: Jots helps developers build Slow Thinking habits through short daily reflection sessions, a distraction-free editor and VSCode extension, mood and progress...

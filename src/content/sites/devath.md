@@ -2,7 +2,7 @@
 name: Devath
 url: "https://devath.plasmic.run"
 image: /logos/devath.png
-screenshot: /screens/devath.jpg
+screenshot: /screens/devath.webp
 subcategory: nc-builders
 pricing: paid
 tagline: Devath is an AI‑driven SmartHome platform that lets developers publish no‑code device apps, automatically handling Bluetooth, data transmission, and UI...

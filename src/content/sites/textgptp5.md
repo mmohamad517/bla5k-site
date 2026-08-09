@@ -2,7 +2,7 @@
 name: Textgptp5
 url: "https://text-gpt-p5.vercel.app/"
 image: /logos/textgptp5.png
-screenshot: /screens/textgptp5.jpg
+screenshot: /screens/textgptp5.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Text‑GPT‑p5 is a web editor that translates natural‑language prompts into p5.js code using GPT‑4o‑mini, eliminating boilerplate setup and loop functions.

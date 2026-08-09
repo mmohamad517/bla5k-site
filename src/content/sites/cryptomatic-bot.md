@@ -2,7 +2,7 @@
 name: CryptoMatic Bot
 url: "https://cryptomatic.bot"
 image: /logos/cryptomatic-bot.png
-screenshot: /screens/cryptomatic-bot.jpg
+screenshot: /screens/cryptomatic-bot.webp
 subcategory: dev-ai-agents
 pricing: free
 tagline: CryptoMatic Bot automates spot and futures trading across multiple exchanges using AI-driven strategies—Scalping, Intraday, Swing—and integrates TradingView...

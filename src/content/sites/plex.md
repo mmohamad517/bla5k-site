@@ -2,7 +2,7 @@
 name: Plex
 url: https://www.plex.tv/
 image: /logos/plex.png
-screenshot: /screens/plex.jpg
+screenshot: /screens/plex.webp
 subcategory: ent-streaming
 pricing: freemium
 tagline: "Stream your own media library + free ad-supported movies and live TV in one app."

@@ -2,7 +2,7 @@
 name: OpenAssistantGPT
 url: "https://www.openassistantgpt.io"
 image: /logos/openassistantgpt.png
-screenshot: /screens/openassistantgpt.jpg
+screenshot: /screens/openassistantgpt.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: OpenAssistantGPT is an open‑source SaaS that lets you build no‑code AI chatbots for websites.

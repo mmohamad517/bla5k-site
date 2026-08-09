@@ -2,7 +2,7 @@
 name: Lorka AI
 url: "https://lorka.ai/"
 image: /logos/lorka-ai.png
-screenshot: /screens/lorka-ai.jpg
+screenshot: /screens/lorka-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Lorka AI is an all-in-one platform uniting multiple advanced AI chat models, offering a streamlined solution for diverse tasks like content generation, data...

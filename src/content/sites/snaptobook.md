@@ -2,7 +2,7 @@
 name: Snaptobook
 url: "http://www.snaptobook.com"
 image: /logos/snaptobook.png
-screenshot: /screens/snaptobook.jpg
+screenshot: /screens/snaptobook.webp
 subcategory: ai-chat
 pricing: free
 tagline: SnaptoBook is a personal accounting software that simplifies invoice and receipt management, automates reimbursement forms, organizes tax-related documents,...

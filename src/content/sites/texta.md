@@ -2,7 +2,7 @@
 name: Texta
 url: "https://texta.ai/"
 image: /logos/texta.png
-screenshot: /screens/texta.jpg
+screenshot: /screens/texta.webp
 subcategory: fin-fintech
 pricing: paid
 tagline: Texta monitors AI responses from multiple brands and models, logging prompts, mentions, and source links in real time.

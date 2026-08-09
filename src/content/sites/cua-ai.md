@@ -2,7 +2,7 @@
 name: Cua AI
 url: "https://www.trycua.com/"
 image: /logos/cua-ai.png
-screenshot: /screens/cua-ai.jpg
+screenshot: /screens/cua-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: cua AI is a platform that enables secure AI agents to run in macOS and Linux containers, optimized for Apple Silicon.

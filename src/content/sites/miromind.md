@@ -2,7 +2,7 @@
 name: MiroMind
 url: "https://www.miromind.ai/"
 image: /logos/miromind.png
-screenshot: /screens/miromind.jpg
+screenshot: /screens/miromind.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: MiroMind is a reasoning-first AI platform for verifiable, explainable decision-making.

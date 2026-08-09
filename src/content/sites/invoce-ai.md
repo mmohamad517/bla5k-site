@@ -2,7 +2,7 @@
 name: Invoce.ai
 url: "https://www.invoce.ai"
 image: /logos/invoce-ai.png
-screenshot: /screens/invoce-ai.jpg
+screenshot: /screens/invoce-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Invoce.ai generates professional invoices and quotes from plain-English input or a manual editor, centralizes clients, services, payments and records,...

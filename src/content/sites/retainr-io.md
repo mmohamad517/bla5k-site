@@ -2,7 +2,7 @@
 name: Retainr.io
 url: "https://www.retainr.io"
 image: /logos/retainr-io.png
-screenshot: /screens/retainr-io.jpg
+screenshot: /screens/retainr-io.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Retainr centralizes client data, tasks, files, and tickets in one dashboard, offering white‑label branding, automated invoicing, real‑time task tracking,...

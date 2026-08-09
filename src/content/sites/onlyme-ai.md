@@ -2,7 +2,7 @@
 name: OnlyMe.AI
 url: "https://www.onlyme.ai"
 image: /logos/onlyme-ai.png
-screenshot: /screens/onlyme-ai.jpg
+screenshot: /screens/onlyme-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: onlyme is an AI-powered recruiting tool that automates candidate-job matching, streamlining the hiring process.

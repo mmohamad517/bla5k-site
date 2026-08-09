@@ -2,7 +2,7 @@
 name: Pine AI
 url: "https://19pine.ai"
 image: /logos/pine-ai.png
-screenshot: /screens/pine-ai.jpg
+screenshot: /screens/pine-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Pine AI is an intelligent assistant that automates customer service tasks like bill negotiation, subscription cancellations, and complaint resolution with...

@@ -2,7 +2,7 @@
 name: Masterpiece X
 url: "https://masterpiecex.com/"
 image: /logos/masterpiece-x-generate.png
-screenshot: /screens/masterpiece-x-generate.jpg
+screenshot: /screens/masterpiece-x-generate.webp
 subcategory: design-3d
 pricing: free
 tagline: WorldEngen is an AI editor that links Blender, Unity, and Unreal Engine, centralizing concept art, assets, and scenes.

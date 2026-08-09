@@ -2,7 +2,7 @@
 name: AI Haggler
 url: "https://www.aihaggler.com"
 image: /logos/ai-haggler.png
-screenshot: /screens/ai-haggler.jpg
+screenshot: /screens/ai-haggler.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: AI Haggler is a web-based tool that makes phone calls to gather information and negotiate services on users' behalf, covering various industries.

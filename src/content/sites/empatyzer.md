@@ -2,7 +2,7 @@
 name: Empatyzer
 url: "https://empatyzer.com/pl/"
 image: /logos/empatyzer.png
-screenshot: /screens/empatyzer.jpg
+screenshot: /screens/empatyzer.webp
 subcategory: learn-courses
 pricing: freemium
 tagline: Empatyzer is an AI-driven HR coaching platform delivering personalized, year-round microlearning and role-based soft-skills development, with real-time...

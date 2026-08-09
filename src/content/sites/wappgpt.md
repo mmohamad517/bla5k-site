@@ -2,7 +2,7 @@
 name: WappGpt
 url: "https://www.wappgpt.com"
 image: /logos/wappgpt.png
-screenshot: /screens/wappgpt.jpg
+screenshot: /screens/wappgpt.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: WappGPT is a versatile AI assistant boosting productivity & creativity in academics, business, and writing.

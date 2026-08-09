@@ -2,7 +2,7 @@
 name: Runable
 url: https://runable.com
 image: /logos/runable.png
-screenshot: /screens/runable.jpg
+screenshot: /screens/runable.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: The AI agent that plans and executes your whole workflow — not just chats.

@@ -2,7 +2,7 @@
 name: Gitya
 url: "https://gitya.typedream.app/"
 image: /logos/gitya.png
-screenshot: /screens/gitya.jpg
+screenshot: /screens/gitya.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Gitya is an AI‑powered GitHub app that automates pull‑request reviews, closes low‑impact issues, and applies predefined actions to tickets.

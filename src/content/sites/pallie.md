@@ -2,7 +2,7 @@
 name: Pallie
 url: "https://pallie.ai/"
 image: /logos/pallie.png
-screenshot: /screens/pallie.jpg
+screenshot: /screens/pallie.webp
 subcategory: nc-builders
 pricing: paid
 tagline: Pallie is an AI companion for iMessage, Facebook, Telegram, and WhatsApp that logs physical activity, calories, and tasks, sends reminders, offers...

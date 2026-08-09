@@ -2,7 +2,7 @@
 name: Yonderhq.com
 url: "https://yonderhq.com"
 image: /logos/yonderhq-com.png
-screenshot: /screens/yonderhq-com.jpg
+screenshot: /screens/yonderhq-com.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Yonder automates tourism operator interactions with a 24/7 AI voice agent, instant chatbot, review‑generation, and personalized recommendation engine.

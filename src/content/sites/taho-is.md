@@ -2,7 +2,7 @@
 name: taho.is
 url: "https://taho.is"
 image: /logos/taho-is.png
-screenshot: /screens/taho-is.jpg
+screenshot: /screens/taho-is.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: TAHO is an AI/HPC infrastructure layer that accelerates model serving, training and batch workloads, cutting inference latency and cold starts, improving...

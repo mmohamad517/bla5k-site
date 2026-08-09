@@ -2,7 +2,7 @@
 name: Vic AI
 url: "https://vic.ai"
 image: /logos/vic-ai.png
-screenshot: /screens/vic-ai.jpg
+screenshot: /screens/vic-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: vic.ai automates accounts payable and corporate spend by using AI-driven invoice processing, PO matching, approval routing, vendor portal, bill pay,...

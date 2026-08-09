@@ -2,7 +2,7 @@
 name: Financial Fusion
 url: "https://financialfusion.io"
 image: /logos/financial-fusion.png
-screenshot: /screens/financial-fusion.jpg
+screenshot: /screens/financial-fusion.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Financial Fusion is an AI‑powered platform that automatically analyzes P&L, balance sheets, and cash flow to deliver actionable insights.

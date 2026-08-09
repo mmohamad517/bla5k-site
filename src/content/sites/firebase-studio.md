@@ -2,7 +2,7 @@
 name: Firebase.studio
 url: "https://firebase.studio/"
 image: /logos/firebase-studio.png
-screenshot: /screens/firebase-studio.jpg
+screenshot: /screens/firebase-studio.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Firebase Studio is a comprehensive AI workspace for developing backends, front ends, and mobile apps.

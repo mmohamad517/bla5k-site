@@ -2,7 +2,7 @@
 name: MTestHub
 url: "https://mtesthub.com"
 image: /logos/mtesthub.png
-screenshot: /screens/mtesthub.jpg
+screenshot: /screens/mtesthub.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: mtesthub is a recruitment platform that automates assessments and screening, offering tailored exams based on roles.

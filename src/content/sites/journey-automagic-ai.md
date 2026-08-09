@@ -2,7 +2,7 @@
 name: Journey Automagic AI
 url: "https://journey.io"
 image: /logos/journey-automagic-ai.png
-screenshot: /screens/journey-automagic-ai.jpg
+screenshot: /screens/journey-automagic-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Journey consolidates PDFs, spreadsheets, presentations, videos, and cloud links into a single web page for easy outbound communication.

@@ -2,7 +2,7 @@
 name: Spyne
 url: "https://www.spyne.ai/"
 image: /logos/spyne.png
-screenshot: /screens/spyne.jpg
+screenshot: /screens/spyne.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Spyne automates dealership inbound inquiries, schedules appointments, updates leads, generates high‑resolution images and 360° tours, and syncs with CRM,...

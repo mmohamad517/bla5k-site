@@ -2,7 +2,7 @@
 name: Affistash
 url: "https://affistash.com"
 image: /logos/affistash.png
-screenshot: /screens/affistash.jpg
+screenshot: /screens/affistash.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Affistash uses AI to scan the web for affiliate partners, providing keyword exploration, verified contacts, audience analytics, and an internal CRM to...

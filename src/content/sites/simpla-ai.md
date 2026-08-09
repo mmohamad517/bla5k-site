@@ -2,7 +2,7 @@
 name: Simpla AI
 url: "https://www.simpla.ai"
 image: /logos/simpla-ai.png
-screenshot: /screens/simpla-ai.jpg
+screenshot: /screens/simpla-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Simpla AI is an all-in-one AI financial tool that provides personalized tax advice, advanced solutions, document automation, statement analysis, and...

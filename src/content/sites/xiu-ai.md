@@ -2,7 +2,7 @@
 name: Xiu.ai
 url: "http://xiu.ai"
 image: /logos/xiu-ai.png
-screenshot: /screens/xiu-ai.jpg
+screenshot: /screens/xiu-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Xiu.ai is an all-in-one AI platform encompassing text, voice, image, video, and code tools.

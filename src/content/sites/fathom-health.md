@@ -2,7 +2,7 @@
 name: Fathom Health
 url: "https://fathomhealth.com"
 image: /logos/fathom-health.png
-screenshot: /screens/fathom-health.jpg
+screenshot: /screens/fathom-health.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Fathom uses machine learning to convert clinical documentation into standardized diagnosis and procedure codes, integrating with EHRs and billing systems to...

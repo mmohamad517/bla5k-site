@@ -2,7 +2,7 @@
 name: Hirematch
 url: "https://hirematch.app/"
 image: /logos/hirematch.png
-screenshot: /screens/hirematch.jpg
+screenshot: /screens/hirematch.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: HireMatch AI automates resume screening by uploading a job description and resume batch, scoring candidates for fit, and producing a structured, ranked...

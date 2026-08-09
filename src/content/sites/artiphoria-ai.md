@@ -2,7 +2,7 @@
 name: artiphoria AI
 url: "https://www.artiphoria.ai"
 image: /logos/artiphoria-ai.png
-screenshot: /screens/artiphoria-ai.jpg
+screenshot: /screens/artiphoria-ai.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Artiphoria AI generates high‑resolution, customizable images with one click, supporting 30+ art styles and mediums.

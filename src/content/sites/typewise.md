@@ -2,7 +2,7 @@
 name: Typewise
 url: "https://www.typewise.app/"
 image: /logos/typewise.png
-screenshot: /screens/typewise.jpg
+screenshot: /screens/typewise.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Typewise is an AI tool for customer service sales teams that improves efficiency, reduces response time, and enhances customer satisfaction through features...

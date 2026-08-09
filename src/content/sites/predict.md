@@ -2,7 +2,7 @@
 name: Predict
 url: "https://www.neuronsinc.com/neurons-ai"
 image: /logos/predict.png
-screenshot: /screens/predict.jpg
+screenshot: /screens/predict.webp
 subcategory: mkt-social
 pricing: free
 tagline: Predict AI is an AI tool that predicts human behavior and provides neuromarket solutions to optimize creatives, increase conversions, and improve user...

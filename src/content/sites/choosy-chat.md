@@ -2,7 +2,7 @@
 name: Choosy Chat
 url: "https://www.choosy.chat"
 image: /logos/choosy-chat.png
-screenshot: /screens/choosy-chat.jpg
+screenshot: /screens/choosy-chat.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Choosy Chat is an AI-driven conversation platform that aggregates responses from multiple advanced AI models to provide accurate answers for complex queries.

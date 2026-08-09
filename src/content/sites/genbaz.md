@@ -2,7 +2,7 @@
 name: Genbaz
 url: "https://www.genbaz.io"
 image: /logos/genbaz.png
-screenshot: /screens/genbaz.jpg
+screenshot: /screens/genbaz.webp
 subcategory: ai-writing
 pricing: free
 tagline: Genbaz is an AI content generation platform offering over 15,000 specialized tools for creating text, images, and videos.

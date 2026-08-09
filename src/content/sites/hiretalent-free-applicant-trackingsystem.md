@@ -2,7 +2,7 @@
 name: HireTalent-Free Applicant TrackingSystem
 url: "https://www.hiretalent.ai"
 image: /logos/hiretalent-free-applicant-trackingsystem.png
-screenshot: /screens/hiretalent-free-applicant-trackingsystem.jpg
+screenshot: /screens/hiretalent-free-applicant-trackingsystem.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: "HireTalent is an AI‑driven ATS that automates talent acquisition: globally posting jobs, filtering resumes, scheduling interviews, managing offers, and..."

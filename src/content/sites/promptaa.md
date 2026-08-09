@@ -2,7 +2,7 @@
 name: Promptaa
 url: "https://promptaa.com"
 image: /logos/promptaa.png
-screenshot: /screens/promptaa.jpg
+screenshot: /screens/promptaa.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Promptaa generates, enhances, and organizes prompts for ChatGPT, Claude, and other generative AI.

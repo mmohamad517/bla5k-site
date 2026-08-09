@@ -2,7 +2,7 @@
 name: TypingMind
 url: "https://www.typingmind.com/"
 image: /logos/typingmind.png
-screenshot: /screens/typingmind.jpg
+screenshot: /screens/typingmind.webp
 subcategory: ai-chat
 pricing: paid
 tagline: TypingMind unifies ChatGPT, Gemini, Claude, and other LLMs in one interface, enabling parallel chats, project folders, tagging, search, and built‑in tools...

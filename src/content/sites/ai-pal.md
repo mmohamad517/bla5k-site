@@ -2,7 +2,7 @@
 name: Ai Pal
 url: "https://getaipal.com/"
 image: /logos/ai-pal.png
-screenshot: /screens/ai-pal.jpg
+screenshot: /screens/ai-pal.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Ultim AI Power is an AI tool that can assist with various tasks, integrates with WhatsApp and offers both standard and premium subscription plans.

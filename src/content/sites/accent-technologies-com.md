@@ -2,7 +2,7 @@
 name: accent-technologies.com
 url: "https://accent-technologies.com"
 image: /logos/accent-technologies-com.png
-screenshot: /screens/accent-technologies-com.jpg
+screenshot: /screens/accent-technologies-com.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Accent AI provides AI‑driven revenue enablement for sales, marketing, and ops.

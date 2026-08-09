@@ -2,7 +2,7 @@
 name: Wazgar
 url: "https://wazgar.com"
 image: /logos/wazgar-chatgpt-in-whatsapp.png
-screenshot: /screens/wazgar-chatgpt-in-whatsapp.jpg
+screenshot: /screens/wazgar-chatgpt-in-whatsapp.webp
 subcategory: ai-chat
 pricing: free
 tagline: Wazgar is an AI assistant built into WhatsApp that delivers on‑demand tutoring, instant answers, and content creation—from stories and poems to professional...

@@ -2,7 +2,7 @@
 name: ZappyChat AI
 url: "https://zappychat.com"
 image: /logos/zappychat-ai.png
-screenshot: /screens/zappychat-ai.jpg
+screenshot: /screens/zappychat-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: CloseBot automates creation and deployment of conversational AI agents across web, SMS, Facebook, Instagram, WhatsApp, and more.

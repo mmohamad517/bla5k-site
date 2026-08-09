@@ -2,7 +2,7 @@
 name: Nifty
 url: "https://niftypm.com"
 image: /logos/nifty.png
-screenshot: /screens/nifty.jpg
+screenshot: /screens/nifty.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Nifty is a project management tool that integrates task management, roadmaps, and Gantt charts, facilitating team collaboration, automated data capture, and...

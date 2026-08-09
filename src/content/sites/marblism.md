@@ -2,7 +2,7 @@
 name: Marblism
 url: "https://www.marblism.com/"
 image: /logos/marblism.png
-screenshot: /screens/marblism.jpg
+screenshot: /screens/marblism.webp
 subcategory: dev-ai-agents
 pricing: paid
 tagline: Marblism is a virtual workforce platform that deploys specialized AI employees to handle content creation, social scheduling, and administrative tasks.

@@ -2,7 +2,7 @@
 name: Gorilla AI
 url: "https://gorillaterminal.com/ai-landing"
 image: /logos/gorilla-ai.png
-screenshot: /screens/gorilla-ai.jpg
+screenshot: /screens/gorilla-ai.webp
 subcategory: fin-fintech
 pricing: paid
 tagline: Gorilla Terminal centralizes investment data for traders and analysts, offering AI‑driven earnings call sentiment, macro indicators, SEC filings, insider...

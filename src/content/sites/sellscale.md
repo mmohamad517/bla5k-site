@@ -2,7 +2,7 @@
 name: SellScale
 url: "https://www.sellscale.com/"
 image: /logos/sellscale.png
-screenshot: /screens/sellscale.jpg
+screenshot: /screens/sellscale.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: SellScale uses AI to build outbound pipelines, automating email outreach.

@@ -2,7 +2,7 @@
 name: Attentionkart
 url: "https://attentionkart.com"
 image: /logos/attentionkart.png
-screenshot: /screens/attentionkart.jpg
+screenshot: /screens/attentionkart.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: AttentionKart is an AI tool employing emotion AI to analyze real-time customer emotions in retail, online conferences, and customer service.

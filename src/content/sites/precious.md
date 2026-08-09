@@ -2,7 +2,7 @@
 name: Precious
 url: "https://www.precious.studio"
 image: /logos/precious.png
-screenshot: /screens/precious.jpg
+screenshot: /screens/precious.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Humble Design is a UI/UX agency offering design, branding, web, and app development services for startups.

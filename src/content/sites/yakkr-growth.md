@@ -2,7 +2,7 @@
 name: Yakkr Growth
 url: "https://yakkrgrowth.com/"
 image: /logos/yakkr-growth.png
-screenshot: /screens/yakkr-growth.jpg
+screenshot: /screens/yakkr-growth.webp
 subcategory: ai-writing
 pricing: paid
 tagline: "Yakkr Growth offers streamers an integrated AI hub: copilot‑generated prompts, live analytics, video and art creation tools, collaborative Discord..."

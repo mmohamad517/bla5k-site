@@ -2,7 +2,7 @@
 name: PassiveCraft
 url: "https://passive-craft.com/"
 image: /logos/passivecraft.png
-screenshot: /screens/passivecraft.jpg
+screenshot: /screens/passivecraft.webp
 subcategory: ai-writing
 pricing: free
 tagline: PassiveCraft is an AI-powered tool that transforms social media content into professional ebooks, guides, and workbooks.

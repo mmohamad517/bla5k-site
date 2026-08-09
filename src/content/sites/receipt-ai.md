@@ -2,7 +2,7 @@
 name: Receipt AI
 url: "https://receipt-ai.com/"
 image: /logos/receipt-ai.png
-screenshot: /screens/receipt-ai.jpg
+screenshot: /screens/receipt-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Receipt AI captures receipts via SMS, email, or upload, extracts date, vendor, amount, line items, and renames, categorizes, encrypts, and syncs them to...

@@ -2,7 +2,7 @@
 name: EZContact
 url: "https://ezcontact.ai/es/"
 image: /logos/ezcontact.png
-screenshot: /screens/ezcontact.jpg
+screenshot: /screens/ezcontact.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: EZContact centralizes WhatsApp, Messenger and Instagram into one shared inbox, automating 24/7 FAQ responses, lead qualification, appointment scheduling and...

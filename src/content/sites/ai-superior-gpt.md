@@ -2,7 +2,7 @@
 name: Ai superior gpt
 url: "https://aisuperior.com"
 image: /logos/ai-superior-gpt.png
-screenshot: /screens/ai-superior-gpt.jpg
+screenshot: /screens/ai-superior-gpt.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: AI Superior offers end-to-end AI solutions, including consulting, machine learning, and data strategy.

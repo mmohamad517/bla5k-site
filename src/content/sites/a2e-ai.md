@@ -2,7 +2,7 @@
 name: A2E.ai
 url: "https://www.a2e.ai"
 image: /logos/a2e-ai.png
-screenshot: /screens/a2e-ai.jpg
+screenshot: /screens/a2e-ai.webp
 subcategory: ai-image
 pricing: freemium
 tagline: A2E.ai is a cutting-edge AI platform that generates lifelike avatars and videos with lip-sync, voice cloning, and multilingual text-to-video capabilities.

@@ -2,7 +2,7 @@
 name: CosmicJS
 url: "https://www.cosmicjs.com/"
 image: /logos/cosmicjs.png
-screenshot: /screens/cosmicjs.jpg
+screenshot: /screens/cosmicjs.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Cosmic is a headless CMS delivering content via a content API for omnichannel publishing, with SDKs and starter kits for React, Next.js, Vue, Gatsby, and...

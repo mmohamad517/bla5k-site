@@ -2,7 +2,7 @@
 name: FounderPal Virtual CMO
 url: "https://founderpal.ai/marketing-ideas-generator"
 image: /logos/founderpal-virtual-cmo.png
-screenshot: /screens/founderpal-virtual-cmo.jpg
+screenshot: /screens/founderpal-virtual-cmo.webp
 subcategory: mkt-social
 pricing: free
 tagline: Virtual CMO is an AI-powered marketing tool that solves marketing problems within minutes.

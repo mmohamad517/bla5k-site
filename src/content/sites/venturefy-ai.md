@@ -2,7 +2,7 @@
 name: venturefy AI
 url: "https://www.venturefy.com"
 image: /logos/venturefy-ai.png
-screenshot: /screens/venturefy-ai.jpg
+screenshot: /screens/venturefy-ai.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: Venturefy uses AI to map corporate relationships, identifying shortest paths between target firms and decision makers.

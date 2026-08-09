@@ -2,7 +2,7 @@
 name: Property Listings AI
 url: "https://propertylistingsai.com/"
 image: /logos/property-listings-ai.png
-screenshot: /screens/property-listings-ai.jpg
+screenshot: /screens/property-listings-ai.webp
 subcategory: ai-writing
 pricing: paid
 tagline: PropertyListingsAI transforms photos and data into complete listings for sites like Airbnb, Booking.com, Vrbo, and Zillow.

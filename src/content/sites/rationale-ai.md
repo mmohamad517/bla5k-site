@@ -2,7 +2,7 @@
 name: Rationale AI
 url: "https://rationale.jina.ai/"
 image: /logos/rationale-ai.png
-screenshot: /screens/rationale-ai.jpg
+screenshot: /screens/rationale-ai.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: Rationale is a GPT‑powered decision‑support tool that produces structured analyses—pros/cons, SWOT, multi‑option comparisons, causal chains—based on context...

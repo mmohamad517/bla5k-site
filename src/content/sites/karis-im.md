@@ -2,7 +2,7 @@
 name: Karis
 url: "https://karis.im"
 image: /logos/karis-im.png
-screenshot: /screens/karis-im.jpg
+screenshot: /screens/karis-im.webp
 subcategory: mkt-social
 pricing: free
 tagline: Karis scans a URL to extract brand DNA, map audiences and competitors, then delivers a prioritized growth blueprint, continuous social listening with daily...

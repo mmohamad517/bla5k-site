@@ -2,7 +2,7 @@
 name: Blogmuse
 url: "https://www.blogmuse.io/"
 image: /logos/blogmuse.png
-screenshot: /screens/blogmuse.jpg
+screenshot: /screens/blogmuse.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Blogmuse automatically generates new articles from a site’s existing posts.

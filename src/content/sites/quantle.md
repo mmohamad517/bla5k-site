@@ -2,7 +2,7 @@
 name: Quantle
 url: "https://quantle.net"
 image: /logos/quantle.png
-screenshot: /screens/quantle.jpg
+screenshot: /screens/quantle.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Quantle is a no-code platform for traders that enables the creation, testing, and optimization of trading strategies through a drag-and-drop interface,...

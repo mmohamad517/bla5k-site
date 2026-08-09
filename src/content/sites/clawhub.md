@@ -2,7 +2,7 @@
 name: ClawHub AI
 url: https://clawhub.ai/
 image: /logos/clawhub.png
-screenshot: /screens/clawhub.jpg
+screenshot: /screens/clawhub.webp
 subcategory: dev-ai-agents
 tagline: "AI agent marketplace and deployment platform — find, build, and deploy AI agents."
 tags: [clawhub, ai agents, marketplace, deployment, automation]

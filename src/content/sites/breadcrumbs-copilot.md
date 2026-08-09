@@ -2,7 +2,7 @@
 name: Breadcrumbs Copilot
 url: "https://breadcrumbs.io"
 image: /logos/breadcrumbs-copilot.png
-screenshot: /screens/breadcrumbs-copilot.jpg
+screenshot: /screens/breadcrumbs-copilot.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Breadcrumbs offers enterprise‑grade, code‑free lead scoring that pulls GTM data via OAuth, visualizes predictive insights, supports multivariate testing,...

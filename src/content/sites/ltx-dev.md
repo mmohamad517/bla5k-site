@@ -2,7 +2,7 @@
 name: LTX.dev
 url: "https://ltx.dev"
 image: /logos/ltx-dev.png
-screenshot: /screens/ltx-dev.jpg
+screenshot: /screens/ltx-dev.webp
 subcategory: ai-image
 pricing: paid
 tagline: LTX.dev is an AI video generation platform offering real-time text-to-video and image-to-video capabilities via the LTX 2.3 model and a multi-model ecosystem.

@@ -2,7 +2,7 @@
 name: Hailo AI
 url: "https://hailo.ai"
 image: /logos/hailo-ai.png
-screenshot: /screens/hailo-ai.jpg
+screenshot: /screens/hailo-ai.webp
 subcategory: ent-travel
 pricing: freemium
 tagline: Hailo AI Edge Processors enhance data privacy and processing efficiency by enabling real-time data analysis on devices.

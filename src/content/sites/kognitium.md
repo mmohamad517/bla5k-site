@@ -2,7 +2,7 @@
 name: Kognitium
 url: "https://kognitium.com/"
 image: /logos/kognitium.png
-screenshot: /screens/kognitium.jpg
+screenshot: /screens/kognitium.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Kognitium provides real‑time, context‑aware answers across science, history, tech, and current events.

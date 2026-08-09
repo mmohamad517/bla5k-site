@@ -2,7 +2,7 @@
 name: ZeroGPT
 url: "https://www.zerogpt.com/"
 image: /logos/zerogpt.png
-screenshot: /screens/zerogpt.jpg
+screenshot: /screens/zerogpt.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: ZeroGPT is a comprehensive AI tool suite offering advanced features for content detection, text refinement, and translation, including AI detection,...

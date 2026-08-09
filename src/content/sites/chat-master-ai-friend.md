@@ -2,7 +2,7 @@
 name: Chat Master AI Friend
 url: "https://apps.apple.com/us/app/ai-gimini-smart-solver-chat/id6480370437"
 image: /logos/chat-master-ai-friend.png
-screenshot: /screens/chat-master-ai-friend.jpg
+screenshot: /screens/chat-master-ai-friend.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: AI Problem Solver Helper is an AI chatbot that assists with everyday tasks by providing personalized responses.

@@ -2,7 +2,7 @@
 name: ReplyReply
 url: "https://www.replyreply.pro"
 image: /logos/replyreply.png
-screenshot: /screens/replyreply.jpg
+screenshot: /screens/replyreply.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Replyreply is an AI tool that automates responses to Google reviews, enabling businesses to efficiently manage customer feedback.

@@ -2,7 +2,7 @@
 name: Craftman
 url: "https://craftman.ai/"
 image: /logos/craftman.png
-screenshot: /screens/craftman.jpg
+screenshot: /screens/craftman.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Craftman is an AI‑powered support inbox for startups, merging chat and email into one feed.

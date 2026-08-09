@@ -2,7 +2,7 @@
 name: Aixpertrecruit
 url: "https://www.aixpertrecruit.com"
 image: /logos/aixpertrecruit.png
-screenshot: /screens/aixpertrecruit.jpg
+screenshot: /screens/aixpertrecruit.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: AixpertRecruit is an AI-driven recruitment tool that streamlines sourcing, screening, and hiring by creating personalized interviews and utilizing...

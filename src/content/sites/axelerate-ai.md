@@ -2,7 +2,7 @@
 name: axelerate.ai
 url: "https://axelerate.ai"
 image: /logos/axelerate-ai.png
-screenshot: /screens/axelerate-ai.jpg
+screenshot: /screens/axelerate-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Axelerate AI automates blog publishing and content workflows with an AI Content Studio for research, writing, optimization, headlines, metadata and...

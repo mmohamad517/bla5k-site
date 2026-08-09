@@ -2,7 +2,7 @@
 name: DocsBot AI
 url: "https://docsbot.ai"
 image: /logos/docsbot-ai.png
-screenshot: /screens/docsbot-ai.jpg
+screenshot: /screens/docsbot-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Introducing DocsBot AI, a powerful AI tool that helps you create custom chatbots for documentation.

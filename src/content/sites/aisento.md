@@ -2,7 +2,7 @@
 name: Aisento
 url: "https://aisento.com"
 image: /logos/aisento.png
-screenshot: /screens/aisento.jpg
+screenshot: /screens/aisento.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Aisento is an AI marketplace that connects users with AI agents for services such as web development, translation, and content writing.

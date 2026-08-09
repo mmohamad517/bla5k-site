@@ -2,7 +2,7 @@
 name: AI for Sheets by Cargo
 url: "https://cargo.site/"
 image: /logos/ai-for-sheets-by-cargo.png
-screenshot: /screens/ai-for-sheets-by-cargo.jpg
+screenshot: /screens/ai-for-sheets-by-cargo.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Cargo is an AI-powered Google Workspace add-on that assists in writing sales emails, follow-ups, Google Ad copy, and blog posts at scale using pre-built...

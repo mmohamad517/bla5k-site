@@ -2,7 +2,7 @@
 name: Mimetic Labs
 url: "https://www.mimetic-labs.com"
 image: /logos/mimetic-labs.png
-screenshot: /screens/mimetic-labs.jpg
+screenshot: /screens/mimetic-labs.webp
 subcategory: design-3d
 pricing: freemium
 tagline: Mimetic Labs is a 3D model preparation platform that transforms sketches, images, and CAD files into printable models.

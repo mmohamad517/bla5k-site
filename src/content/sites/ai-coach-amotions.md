@@ -2,7 +2,7 @@
 name: AI Coach Amotions
 url: "https://www.amotionsinc.com"
 image: /logos/ai-coach-amotions.png
-screenshot: /screens/ai-coach-amotions.jpg
+screenshot: /screens/ai-coach-amotions.webp
 subcategory: learn-courses
 pricing: freemium
 tagline: Amotions AI delivers real‑time, emotionally intelligent assistance for sales teams by analyzing calls, providing pre‑ and post‑call insights, and adaptive...

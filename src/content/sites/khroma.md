@@ -2,7 +2,7 @@
 name: Khroma
 url: "http://khroma.co/"
 image: /logos/khroma.png
-screenshot: /screens/khroma.jpg
+screenshot: /screens/khroma.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: Khroma AI learns a designer’s color preferences to generate endless custom palettes.

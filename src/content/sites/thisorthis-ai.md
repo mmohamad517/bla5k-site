@@ -2,7 +2,7 @@
 name: thisorthis.ai
 url: "https://thisorthis.ai"
 image: /logos/thisorthis-ai.png
-screenshot: /screens/thisorthis-ai.jpg
+screenshot: /screens/thisorthis-ai.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Thisorthis.ai lets users compare over 50 AI models, running live text and image generation side‑by‑side.

@@ -2,7 +2,7 @@
 name: Pixiboo
 url: "https://www.pixiboo.ai"
 image: /logos/pixiboo-ai-art-adventures.png
-screenshot: /screens/pixiboo-ai-art-adventures.jpg
+screenshot: /screens/pixiboo-ai-art-adventures.webp
 subcategory: design-graphics
 pricing: free
 tagline: Families design personalized search‑and‑find books featuring custom characters hidden in hand‑crafted illustrations.

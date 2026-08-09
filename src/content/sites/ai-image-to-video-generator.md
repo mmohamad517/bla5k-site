@@ -2,7 +2,7 @@
 name: AI Image To Video Generator
 url: "https://aiimagetovideo.com/"
 image: /logos/ai-image-to-video-generator.png
-screenshot: /screens/ai-image-to-video-generator.jpg
+screenshot: /screens/ai-image-to-video-generator.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Ai Image To Video converts single photos into animated clips by adding AI‑generated motion and style layers.

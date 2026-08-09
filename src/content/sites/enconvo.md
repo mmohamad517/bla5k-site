@@ -2,7 +2,7 @@
 name: Enconvo
 url: "https://enconvo.com"
 image: /logos/enconvo.png
-screenshot: /screens/enconvo.jpg
+screenshot: /screens/enconvo.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: EnConvo turns macOS apps into AI agents via SmartBar, PopBar, and Companion Orb, offering voice input, live screen and camera sharing, multi‑provider web...

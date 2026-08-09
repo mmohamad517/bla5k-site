@@ -2,7 +2,7 @@
 name: AI2image
 url: "https://www.ai2image.com/"
 image: /logos/ai2image.png
-screenshot: /screens/ai2image.jpg
+screenshot: /screens/ai2image.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: AI2imag is an AI tool that quickly generates custom images for websites, blogs, and social media, offering three modes and a user-friendly interface.

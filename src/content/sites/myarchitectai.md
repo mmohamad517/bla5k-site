@@ -2,7 +2,7 @@
 name: MyArchitectAI
 url: "https://myarchitectai.com"
 image: /logos/myarchitectai.png
-screenshot: /screens/myarchitectai.jpg
+screenshot: /screens/myarchitectai.webp
 subcategory: design-3d
 pricing: freemium
 tagline: MyArchitectAI is an AI rendering software for architects and interior designers that creates photorealistic 4K renders in seconds.

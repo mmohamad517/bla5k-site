@@ -2,7 +2,7 @@
 name: Careers AI
 url: "https://careers.ai/"
 image: /logos/careers-ai.png
-screenshot: /screens/careers-ai.jpg
+screenshot: /screens/careers-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Careers is an AI hiring assistant that auto‑generates job profiles, interview questions, and skill assessments.

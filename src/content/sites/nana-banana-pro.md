@@ -2,7 +2,7 @@
 name: Nana Banana Pro
 url: "https://nanabanana.pro"
 image: /logos/nana-banana-pro.png
-screenshot: /screens/nana-banana-pro.jpg
+screenshot: /screens/nana-banana-pro.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Nana Banana Pro uses multimodal AI to edit and generate consistent character images across poses, scenes, and styles, offering style transfer, high...

@@ -2,7 +2,7 @@
 name: Zikhara AI
 url: "https://zikhara.ai"
 image: /logos/zikhara-ai.png
-screenshot: /screens/zikhara-ai.jpg
+screenshot: /screens/zikhara-ai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Zikhara AI turns a single product image into a full Amazon‑ready listing—images, A+ content, and compliant copy—by analyzing existing listings for gaps,...

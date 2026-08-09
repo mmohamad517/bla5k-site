@@ -2,7 +2,7 @@
 name: Ellydee AI
 url: "https://ellydee.ai/"
 image: /logos/ellydee-ai.png
-screenshot: /screens/ellydee-ai.jpg
+screenshot: /screens/ellydee-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Ellydee is a privacy first AI chat platform offering end to end encryption, no data harvesting, configurable retention and training exclusions, uncensored...

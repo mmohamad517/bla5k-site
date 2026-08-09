@@ -2,7 +2,7 @@
 name: Car Part Identifier
 url: "https://www.carpartidentifier.com/"
 image: /logos/car-part-identifier.png
-screenshot: /screens/car-part-identifier.jpg
+screenshot: /screens/car-part-identifier.webp
 subcategory: ent-travel
 pricing: paid
 tagline: Car Part Identifier is an AI tool that allows users to identify automotive components by uploading a photo.

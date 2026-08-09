@@ -2,7 +2,7 @@
 name: Logo Rank
 url: "https://brandmark.io/color-wheel/"
 image: /logos/logo-rank.png
-screenshot: /screens/logo-rank.jpg
+screenshot: /screens/logo-rank.webp
 subcategory: design-graphics
 pricing: free
 tagline: Color Wheel automatically colorizes grayscale flat graphics, generating thousands of palettes from one upload.

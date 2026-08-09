@@ -2,7 +2,7 @@
 name: Hiree365
 url: "https://www.hiree365.com"
 image: /logos/hiree365.png
-screenshot: /screens/hiree365.jpg
+screenshot: /screens/hiree365.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: "Hiree365 is an AI‑driven applicant tracking system that automates end‑to‑end recruitment: career page setup, job posting, chatbot screening, AI assessments,..."

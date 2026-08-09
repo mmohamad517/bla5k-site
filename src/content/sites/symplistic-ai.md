@@ -2,7 +2,7 @@
 name: symplistic.ai
 url: "https://symplistic.ai"
 image: /logos/symplistic-ai.png
-screenshot: /screens/symplistic-ai.jpg
+screenshot: /screens/symplistic-ai.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Symplistic.ai offers tailored digital solutions for small businesses and enterprises, including custom web and mobile app development, digital branding, and...

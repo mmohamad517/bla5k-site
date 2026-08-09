@@ -2,7 +2,7 @@
 name: Chat Forefront AI
 url: "https://chat.forefront.ai/?via=topaitools"
 image: /logos/chat-forefront-ai.png
-screenshot: /screens/chat-forefront-ai.jpg
+screenshot: /screens/chat-forefront-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Forefront lets users chat with PDFs, Word, PowerPoint, CSVs, images, and browse the web via multiple LLMs (GPT‑4, Claude, etc.).

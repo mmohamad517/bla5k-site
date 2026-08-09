@@ -2,7 +2,7 @@
 name: Summaletter
 url: "https://summaletter.com/"
 image: /logos/summaletter.png
-screenshot: /screens/summaletter.jpg
+screenshot: /screens/summaletter.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: SummaLetter streamlines multiple newsletter subscriptions into a weekly digest using AI.

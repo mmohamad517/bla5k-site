@@ -2,7 +2,7 @@
 name: Autumn AI
 url: "https://www.getautumn.com"
 image: /logos/autumn-ai.png
-screenshot: /screens/autumn-ai.jpg
+screenshot: /screens/autumn-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Autumn is an AI tool that enhances team well-being by analyzing employee engagement and identifying stressors.

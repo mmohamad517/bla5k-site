@@ -2,7 +2,7 @@
 name: LiveImage AI Avatar
 url: "https://liveimage.ai/"
 image: /logos/liveimage-ai-avatar.png
-screenshot: /screens/liveimage-ai-avatar.jpg
+screenshot: /screens/liveimage-ai-avatar.webp
 subcategory: ai-image
 pricing: paid
 tagline: LiveImage AI lets users create personalized e‑cards for birthdays, holidays, and business occasions.

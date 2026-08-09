@@ -2,7 +2,7 @@
 name: anti.space
 url: "https://anti.space"
 image: /logos/anti-space.png
-screenshot: /screens/anti-space.jpg
+screenshot: /screens/anti-space.webp
 subcategory: ai-chat
 pricing: free
 tagline: Antispace is an AI operating system that provides customizable AI sidekicks to manage email, calendar, notes, search and tasks, integrating web, mail and...

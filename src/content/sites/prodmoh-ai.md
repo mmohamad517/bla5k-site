@@ -2,7 +2,7 @@
 name: ProdMoh AI
 url: "https://prodmoh.com"
 image: /logos/prodmoh-ai.png
-screenshot: /screens/prodmoh-ai.jpg
+screenshot: /screens/prodmoh-ai.webp
 subcategory: ai-productivity
 pricing: paid
 tagline: ProdMoh is an AI‑enabled chief‑of‑staff platform that consolidates product intent into a Product Canvas, tracks releases with evidence‑based Decision...

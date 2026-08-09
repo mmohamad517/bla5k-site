@@ -2,7 +2,7 @@
 name: TemplateAI
 url: "https://www.templateai.co/"
 image: /logos/templateai.png
-screenshot: /screens/templateai.jpg
+screenshot: /screens/templateai.webp
 subcategory: ai-chat
 pricing: paid
 tagline: TemplateAI is a Next.js 13 full‑stack starter for AI apps, offering App Router, Tailwind styling, prebuilt landing page and dashboard, Supabase integration,...

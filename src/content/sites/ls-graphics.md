@@ -2,7 +2,7 @@
 name: ls graphics
 url: "https://ls.graphics"
 image: /logos/ls-graphics.png
-screenshot: /screens/ls-graphics.jpg
+screenshot: /screens/ls-graphics.webp
 subcategory: design-graphics
 pricing: paid
 tagline: Mckp.live offers a Figma plugin and online editor with over 4,000 editable mockups, including device, branding, print, animated and illustration templates.

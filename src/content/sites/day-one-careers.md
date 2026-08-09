@@ -2,7 +2,7 @@
 name: Day One Careers
 url: "https://dayone.careers"
 image: /logos/day-one-careers.png
-screenshot: /screens/day-one-careers.jpg
+screenshot: /screens/day-one-careers.webp
 subcategory: learn-courses
 pricing: free
 tagline: Day One Careers delivers Amazon interview prep with structured STAR and Leadership Principles content, AI‑powered story reviews, resume analysis, 14 hours...

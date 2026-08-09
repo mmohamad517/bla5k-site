@@ -2,7 +2,7 @@
 name: Affil.ai
 url: "https://www.affil.ai/"
 image: /logos/affil-ai.png
-screenshot: /screens/affil-ai.jpg
+screenshot: /screens/affil-ai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Affil.ai is an AI‑powered platform that continuously scans affiliate and third‑party web content to detect brand or regulatory violations.

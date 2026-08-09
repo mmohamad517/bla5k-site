@@ -2,7 +2,7 @@
 name: SalesAPE AI
 url: "https://www.salesape.ai"
 image: /logos/salesape-ai.png
-screenshot: /screens/salesape-ai.jpg
+screenshot: /screens/salesape-ai.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Salesape.ai is an AI-powered sales assistant that automates lead qualification and appointment scheduling through multiple channels.

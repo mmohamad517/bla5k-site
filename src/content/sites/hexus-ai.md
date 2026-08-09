@@ -2,7 +2,7 @@
 name: Hexus AI
 url: "https://www.hexus.ai"
 image: /logos/hexus-ai.png
-screenshot: /screens/hexus-ai.jpg
+screenshot: /screens/hexus-ai.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Hexus automates the creation and continuous updating of product demos, videos, and interactive guides from screen recordings.

@@ -2,7 +2,7 @@
 name: Quensus
 url: "https://www.quensus.com/"
 image: /logos/quensus.png
-screenshot: /screens/quensus.jpg
+screenshot: /screens/quensus.webp
 subcategory: ai-chat
 pricing: free
 tagline: Quensus is an AI‑powered water management system that detects leaks instantly, automatically shuts off valves, and supplies real‑time flow analytics.

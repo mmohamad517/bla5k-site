@@ -2,7 +2,7 @@
 name: Quickchat
 url: "https://www.quickchat.ai/"
 image: /logos/quickchat.png
-screenshot: /screens/quickchat.jpg
+screenshot: /screens/quickchat.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Quickchat AI lets teams create and deploy chatbots for support, sales, lead qualification, and internal assistance.
