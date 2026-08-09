@@ -6,6 +6,7 @@
 
 - [Home (full directory)](https://bla5k.com/): browse every listed AI tool, app and community
 - [In-depth guides](https://bla5k.com/guides/): complete tutorials, comparisons and how-to articles
+- [Open source AI tools on GitHub](https://bla5k.com/open-source-ai-tools/): every open-source AI tool in the directory with its verified GitHub repository
 - [About bla5k](https://bla5k.com/about/): who we are, our review process and editorial policy
 - [FAQ](https://bla5k.com/faq/): frequently asked questions about the directory
 - [Contact](https://bla5k.com/contact/): reach the bla5k team

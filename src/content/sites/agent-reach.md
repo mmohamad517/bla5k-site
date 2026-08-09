@@ -1,6 +1,6 @@
 ---
 name: Agent Reach
-url: "https://github.com/Panniantong/Agent-Reach/blob/main/docs/README_en.md"
+url: "https://github.com/Panniantong/Agent-Reach"
 image: /logos/agent-reach.png
 screenshot: /screens/agent-reach.jpg
 subcategory: dev-ai-agents
@@ -92,4 +92,4 @@ Agent Reach targets a real pain point in AI agent workflows — turning an input
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [Agent Reach](https://github.com/Panniantong/Agent-Reach/blob/main/docs/README_en.md)*
+*Official resource: [Agent Reach](https://github.com/Panniantong/Agent-Reach)*
