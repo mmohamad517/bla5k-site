@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Peony - AI Tool Review & Guide 2026
 metaDescription: Peony.ink is a virtual data room with AI Q&A, auto-indexing, and smart search, enabling instant answers from uploaded documents.
 simple: Peony.ink is a virtual data room with AI Q&A, auto-indexing, and smart search, enabling instant answers from uploaded documents.

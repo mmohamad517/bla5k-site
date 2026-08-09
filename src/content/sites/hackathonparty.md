@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: HackathonParty - AI Tool Review & Guide 2026
 metaDescription: HackathonParty is a platform for organizing hackathons, offering project management tools, real-time collaboration, an AI mentor, automated team formation,...
 simple: HackathonParty is a platform for organizing hackathons, offering project management tools, real-time collaboration, an AI mentor, automated team formation, and analytics to enhance feedback and monitor team progress.

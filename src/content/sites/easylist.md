@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Easylist - AI Tool Review & Guide 2026
 metaDescription: iListingAI is an AI‑driven inventory platform that quickly produces legally compliant inspection reports by capturing audio and photos, auto‑categorizing...
 simple: iListingAI is an AI‑driven inventory platform that quickly produces legally compliant inspection reports by capturing audio and photos, auto‑categorizing rooms and items via computer vision, and syncing offline data.

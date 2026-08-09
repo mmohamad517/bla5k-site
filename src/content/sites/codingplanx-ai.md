@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: CodingPlanX AI - AI Tool Review & Guide 2026
 metaDescription: CodingPlanX AI is a development planning tool that converts project requirements into structured plans with code scaffolding and task breakdowns.
 simple: CodingPlanX AI is a development planning tool that converts project requirements into structured plans with code scaffolding and task breakdowns.

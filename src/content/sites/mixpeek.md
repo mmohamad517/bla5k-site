@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Mixpeek - AI Tool Review & Guide 2026
 metaDescription: Mixpeek indexes videos, images, and documents into searchable vector embeddings, extracting scenes, transcripts, faces, brands, and entities.
 simple: Mixpeek indexes videos, images, and documents into searchable vector embeddings, extracting scenes, transcripts, faces, brands, and entities.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Platus (YC F24) - AI Tool Review & Guide 2026
 metaDescription: Platus automates legal tasks by offering tools for drafting, signing, and notarizing documents.
 simple: Platus automates legal tasks by offering tools for drafting, signing, and notarizing documents.

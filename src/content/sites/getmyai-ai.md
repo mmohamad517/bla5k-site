@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: GetMyAI - AI Tool Review & Guide 2026
 metaDescription: GetMyAI.ai is a no-code platform for building and deploying custom AI support agents trained on your documents.
 simple: GetMyAI.ai is a no-code platform for building and deploying custom AI support agents trained on your documents.

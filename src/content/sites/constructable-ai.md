@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Constructable.ai - AI Tool Review & Guide 2026
 metaDescription: Constructable centralizes plan review, markups, versioned document histories and issue tracking for preconstruction and field teams.
 simple: Constructable centralizes plan review, markups, versioned document histories and issue tracking for preconstruction and field teams.

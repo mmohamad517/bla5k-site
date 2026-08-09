@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: MindOS - AI Tool Review & Guide 2026
 metaDescription: MindOS provides a Personal AI that simplifies workflows and enhances expertise through an AI team in various fields.
 simple: MindOS provides a Personal AI that simplifies workflows and enhances expertise through an AI team in various fields.

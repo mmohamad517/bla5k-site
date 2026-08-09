@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Bulk Rename Utility - AI Tool Review & Guide 2026
 metaDescription: Web‑based AI bulk renamer that processes files locally, interpreting natural‑language instructions for batch renaming, numbering, or pattern rules.
 simple: Web‑based AI bulk renamer that processes files locally, interpreting natural‑language instructions for batch renaming, numbering, or pattern rules.

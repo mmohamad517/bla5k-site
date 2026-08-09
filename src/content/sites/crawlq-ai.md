@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: CrawlQ.ai - AI Tool Review & Guide 2026
 metaDescription: CrawlQ AI consolidates documents, media, and metadata into a single auditable source, enabling two‑way retrieval‑augmented generation across multiple LLMs.
 simple: CrawlQ AI consolidates documents, media, and metadata into a single auditable source, enabling two‑way retrieval‑augmented generation across multiple LLMs.

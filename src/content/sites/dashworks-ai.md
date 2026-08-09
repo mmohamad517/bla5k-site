@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Dashworks - AI Tool Review & Guide 2026
 metaDescription: Dashworks offers an AI assistant that pulls real‑time answers from connected apps, knowledge bases, and communication tools without data indexing.
 simple: Dashworks offers an AI assistant that pulls real‑time answers from connected apps, knowledge bases, and communication tools without data indexing.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Convictional - AI Tool Review & Guide 2026
 metaDescription: Handbook-as-code platform storing company policies in the codebase with git-based versioning, pull-request workflows, and audit trails; enables public...
 simple: Handbook-as-code platform storing company policies in the codebase with git-based versioning, pull-request workflows, and audit trails; enables public publishing and AI-powered, role-specific search to streamline onboarding, policy discovery, collaboration, and maintenance.

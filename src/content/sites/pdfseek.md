@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: PDFSeek - AI Tool Review & Guide 2026
 metaDescription: pdfseek is an AI tool for managing PDF documents, offering features like document translation, information extraction, summarization, and page searching.
 simple: pdfseek is an AI tool for managing PDF documents, offering features like document translation, information extraction, summarization, and page searching.

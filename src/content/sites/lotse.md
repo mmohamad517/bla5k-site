@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Lotse - AI Tool Review & Guide 2026
 metaDescription: LotseAI aggregates project data from Notion, Google Docs, Jira, Trello, Asana, Slack, Monday, HubSpot, and Figma into one hub, providing real‑time insights,...
 simple: LotseAI aggregates project data from Notion, Google Docs, Jira, Trello, Asana, Slack, Monday, HubSpot, and Figma into one hub, providing real‑time insights, AI‑generated reports, risk analysis, and proactive blockers, streamlining reporting for product, engineering, and ops teams.

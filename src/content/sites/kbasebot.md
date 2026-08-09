@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: KBaseBot - AI Tool Review & Guide 2026
 metaDescription: KBaseBot is an AI tool powered by GPT-4 that creates customizable chatbots for smooth customer support and lead generation.
 simple: KBaseBot is an AI tool powered by GPT-4 that creates customizable chatbots for smooth customer support and lead generation.

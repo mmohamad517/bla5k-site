@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: LangPDF - AI Tool Review & Guide 2026
 metaDescription: LangPDF automatically converts plain‑text prompts into professional PDFs—such as invoices, resumes, contracts, and reports—using smart formatting and preset...
 simple: LangPDF automatically converts plain‑text prompts into professional PDFs—such as invoices, resumes, contracts, and reports—using smart formatting and preset layouts.

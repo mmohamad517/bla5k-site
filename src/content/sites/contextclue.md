@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ContextClue - AI Tool Review & Guide 2026
 metaDescription: ContextClue transforms CAD, PDF, ERP and planning files into queryable knowledge graphs, enabling semantic search and automated generation of SOPs,...
 simple: ContextClue transforms CAD, PDF, ERP and planning files into queryable knowledge graphs, enabling semantic search and automated generation of SOPs, compliance reports, and digital‑twin data.

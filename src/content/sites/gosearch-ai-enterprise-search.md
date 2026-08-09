@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: GoSearch AI Enterprise Search - AI Tool Review & Guide 2026
 metaDescription: GoSearch consolidates indexed and non‑indexed data from 100+ apps, letting teams query across email, chat, documents, and private files with AI assistants.
 simple: GoSearch consolidates indexed and non‑indexed data from 100+ apps, letting teams query across email, chat, documents, and private files with AI assistants.

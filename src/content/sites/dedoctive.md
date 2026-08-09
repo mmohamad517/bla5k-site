@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Dedoctive - AI Tool Review & Guide 2026
 metaDescription: Dedoctive is an AI tool that uses NLP and reasoning to convert unstructured text into structured data and knowledge graphs.
 simple: Dedoctive is an AI tool that uses NLP and reasoning to convert unstructured text into structured data and knowledge graphs.

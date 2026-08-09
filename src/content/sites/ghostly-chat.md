@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Ghostly chat - AI Tool Review & Guide 2026
 metaDescription: Ghostly lets businesses build knowledge chatbots by uploading PDFs, text, Markdown, or URLs.
 simple: Ghostly lets businesses build knowledge chatbots by uploading PDFs, text, Markdown, or URLs.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: CommunityOne AI Discord Bot - AI Tool Review & Guide 2026
 metaDescription: CommunityOne is a Discord AI bot that enhances community engagement through analytics tracking, a knowledge-based chatbot, personalized quests, growth...
 simple: CommunityOne is a Discord AI bot that enhances community engagement through analytics tracking, a knowledge-based chatbot, personalized quests, growth strategies, and sentiment analysis, supporting community builders in creating interactive and dynamic spaces.

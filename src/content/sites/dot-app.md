@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Dot App - AI Tool Review & Guide 2026
 metaDescription: Dot runs the Mistral 7B LLM locally, letting users upload documents and chat offline.
 simple: Dot runs the Mistral 7B LLM locally, letting users upload documents and chat offline.

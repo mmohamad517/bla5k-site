@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ContractorCounter - AI Tool Review & Guide 2026
 metaDescription: ContractorCounter is an AI-powered construction takeoff tool that lets you measure and markup PDF drawings directly in your browser.
 simple: ContractorCounter is an AI-powered construction takeoff tool that lets you measure and markup PDF drawings directly in your browser.

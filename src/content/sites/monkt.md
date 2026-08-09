@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Monkt - AI Tool Review & Guide 2026
 metaDescription: Monkt is a document transformation tool that converts various file types into AI-ready Markdown and structured JSON.
 simple: Monkt is a document transformation tool that converts various file types into AI-ready Markdown and structured JSON.

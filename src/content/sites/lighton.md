@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: LightOn - AI Tool Review & Guide 2026
 metaDescription: LightOn Enterprise Search is a secure on‑prem RAG platform that indexes text, images, PDFs, and scanned documents.
 simple: LightOn Enterprise Search is a secure on‑prem RAG platform that indexes text, images, PDFs, and scanned documents.

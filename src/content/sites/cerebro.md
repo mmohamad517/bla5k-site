@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Cerebro - AI Tool Review & Guide 2026
 metaDescription: Cerebro is an AI-powered knowledge management tool that consolidates information from various sources, enabling efficient retrieval of insights through...
 simple: Cerebro is an AI-powered knowledge management tool that consolidates information from various sources, enabling efficient retrieval of insights through automated key point extraction.

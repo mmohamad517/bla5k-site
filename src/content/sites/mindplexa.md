@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: MindPlexa - AI Tool Review & Guide 2026
 metaDescription: Mindplexa is an AI-driven project management platform that transforms ideas into actionable plans, featuring interactive canvases and intelligent nodes for...
 simple: Mindplexa is an AI-driven project management platform that transforms ideas into actionable plans, featuring interactive canvases and intelligent nodes for organizing information, enhancing productivity and collaboration for both teams and individuals.

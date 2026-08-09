@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Filepower AI - AI Tool Review & Guide 2026
 metaDescription: FilePower AI lets users chat with PDFs, PPTs, Excel, and Word files, summarizing, translating, and organizing them into a searchable library.
 simple: FilePower AI lets users chat with PDFs, PPTs, Excel, and Word files, summarizing, translating, and organizing them into a searchable library.

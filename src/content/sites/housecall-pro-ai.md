@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Housecall Pro AI - AI Tool Review & Guide 2026
 metaDescription: Housecall Pro AI is a price book tool that centralizes services, materials, and pricing for home service businesses to enable consistent quoting.
 simple: Housecall Pro AI is a price book tool that centralizes services, materials, and pricing for home service businesses to enable consistent quoting.

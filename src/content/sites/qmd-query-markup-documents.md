@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: QMD - Query Markup Documents - AI Tool Review & Guide 2026
 metaDescription: qmd is an on-device CLI search engine that indexes documentation, notes, and transcripts, preserving tree structure to return contextual subdocuments; it...
 simple: qmd is an on-device CLI search engine that indexes documentation, notes, and transcripts, preserving tree structure to return contextual subdocuments; it supports BM25, vector search, local embeddings, and LLM re-ranking to improve retrieval for LLM workflows.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Nouswise - AI Tool Review & Guide 2026
 metaDescription: Nouswise is a research platform that centralizes information management by allowing users to curate personal libraries, conduct multimodal searches, and...
 simple: Nouswise is a research platform that centralizes information management by allowing users to curate personal libraries, conduct multimodal searches, and maintain long-term memory of notes, enhancing knowledge synthesis and information retrieval while ensuring user privacy.

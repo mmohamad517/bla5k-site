@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Dropbox Dash - AI Tool Review & Guide 2026
 metaDescription: Dropbox Dash is an AI-driven search tool unifying data from connected apps & emails.
 simple: Dropbox Dash is an AI-driven search tool unifying data from connected apps & emails.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Ganttlify - AI Tool Review & Guide 2026
 metaDescription: GanttLify is a free project management tool offering Gantt charts, CPM, and EVM for cost and schedule control.
 simple: GanttLify is a free project management tool offering Gantt charts, CPM, and EVM for cost and schedule control.

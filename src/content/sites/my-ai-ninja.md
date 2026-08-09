@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: My AI Ninja - AI Tool Review & Guide 2026
 metaDescription: AI Ninja is a web-based project management tool that enhances team productivity through features like project tracking, task allocation, and collaboration.
 simple: AI Ninja is a web-based project management tool that enhances team productivity through features like project tracking, task allocation, and collaboration.

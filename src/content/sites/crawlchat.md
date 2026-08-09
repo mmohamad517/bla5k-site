@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: CrawlChat - AI Tool Review & Guide 2026
 metaDescription: CrawlChat converts product and technical documentation into an AI chatbot and searchable knowledge base for websites, Discord, and Slack, importing from...
 simple: CrawlChat converts product and technical documentation into an AI chatbot and searchable knowledge base for websites, Discord, and Slack, importing from Docusaurus, Notion, Confluence, GitHub, files, and YouTube, with source citations, ticket escalation, analytics, and customization.

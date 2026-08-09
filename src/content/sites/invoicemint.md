@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Invoicemint - AI Tool Review & Guide 2026
 metaDescription: Invoicemint is a cloud invoicing platform that lets users create, customize, and send invoices, quotes, and agreements via email or WhatsApp.
 simple: Invoicemint is a cloud invoicing platform that lets users create, customize, and send invoices, quotes, and agreements via email or WhatsApp.

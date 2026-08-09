@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Kroolo - AI Tool Review & Guide 2026
 metaDescription: Kroolo unifies project management, task tracking, goal setting, and team collaboration in one AI‑powered platform.
 simple: Kroolo unifies project management, task tracking, goal setting, and team collaboration in one AI‑powered platform.

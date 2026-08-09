@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: PDFCandy PDF Editor - AI Tool Review & Guide 2026
 metaDescription: PDF Candy is an online tool for managing PDF files, offering conversion, merging, splitting, editing, compression, and extraction of content.
 simple: PDF Candy is an online tool for managing PDF files, offering conversion, merging, splitting, editing, compression, and extraction of content.

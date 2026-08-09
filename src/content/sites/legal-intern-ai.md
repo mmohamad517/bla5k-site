@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Legal Intern AI - AI Tool Review & Guide 2026
 metaDescription: Legal Intern AI automates legal documentation by converting audio input into accurate legal documents, enhancing productivity while minimizing human error.
 simple: Legal Intern AI automates legal documentation by converting audio input into accurate legal documents, enhancing productivity while minimizing human error.

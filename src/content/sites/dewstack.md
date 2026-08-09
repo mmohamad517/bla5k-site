@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Dewstack - AI Tool Review & Guide 2026
 metaDescription: Dewstack is an AI‑powered knowledge‑base and SOP platform that consolidates documents from Notion, Google Docs, Confluence, GitHub, PDFs, and more.
 simple: Dewstack is an AI‑powered knowledge‑base and SOP platform that consolidates documents from Notion, Google Docs, Confluence, GitHub, PDFs, and more.

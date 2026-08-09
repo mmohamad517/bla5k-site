@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Localazy - AI Tool Review & Guide 2026
 metaDescription: Localazy is a localization tool that streamlines translation management for various formats and frameworks, offering automated workflows, translation...
 simple: Localazy is a localization tool that streamlines translation management for various formats and frameworks, offering automated workflows, translation memory, quality control, and collaborative features, enhancing efficiency in creating and releasing localized content.

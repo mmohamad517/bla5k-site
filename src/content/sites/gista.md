@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Gista - AI Tool Review & Guide 2026
 metaDescription: Gista turns a website into a chatbot that crawls key pages and captures visitor data such as name, email, company, and service interest.
 simple: Gista turns a website into a chatbot that crawls key pages and captures visitor data such as name, email, company, and service interest.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: DomainsGPT - AI Tool Review & Guide 2026
 metaDescription: DomainsGPT is an AI tool that generates brandable and memorable domain names using OpenAI, Vercel, and Edge Functions.
 simple: DomainsGPT is an AI tool that generates brandable and memorable domain names using OpenAI, Vercel, and Edge Functions.

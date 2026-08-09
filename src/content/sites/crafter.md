@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Crafter - AI Tool Review & Guide 2026
 metaDescription: Crafter auto‑generates Jira tickets from PDFs and other documents, extracting key data to create actionable tasks.
 simple: Crafter auto‑generates Jira tickets from PDFs and other documents, extracting key data to create actionable tasks.
