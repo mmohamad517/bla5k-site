@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Thunder - AI Tool Review & Guide 2026
 metaDescription: Thunder uses AI-driven deal matching and automated warm email introductions to connect founders, GPs, VCs, family offices, and accredited investors.
 simple: Thunder uses AI-driven deal matching and automated warm email introductions to connect founders, GPs, VCs, family offices, and accredited investors.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: PetlyCare - AI Tool Review & Guide 2026
 metaDescription: Petly is a dog groomer software that streamlines operations for pet service providers with lead management, automated quotes, client database, payment...
 simple: Petly is a dog groomer software that streamlines operations for pet service providers with lead management, automated quotes, client database, payment processing, and scheduling integration, all designed for mobile use to enhance productivity and minimize double bookings.

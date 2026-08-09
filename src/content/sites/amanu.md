@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: 🅰️ Amanu - AI Tool Review & Guide 2026
 metaDescription: Amanu builds Telegram bots and Mini Apps for AI startups in about four weeks.
 simple: Amanu builds Telegram bots and Mini Apps for AI startups in about four weeks.

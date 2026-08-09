@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Whacka - AI Tool Review & Guide 2026
 metaDescription: Whacka is a creative platform combining an AI app builder and no-code editor with a content discovery feed.
 simple: Whacka is a creative platform combining an AI app builder and no-code editor with a content discovery feed.

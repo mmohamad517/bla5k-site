@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: a0.dev - AI Tool Review & Guide 2026
 metaDescription: a0.dev is an AI-driven platform for developing mobile applications for iOS and Android.
 simple: a0.dev is an AI-driven platform for developing mobile applications for iOS and Android.

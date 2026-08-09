@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Talentpair - AI Tool Review & Guide 2026
 metaDescription: Talentpair automates hiring by posting jobs and using AI to filter, score resumes, generate interview notes, and deliver a top‑candidate list.
 simple: Talentpair automates hiring by posting jobs and using AI to filter, score resumes, generate interview notes, and deliver a top‑candidate list.

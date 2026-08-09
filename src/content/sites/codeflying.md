@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: codeflying - AI Tool Review & Guide 2026
 metaDescription: Codeflying is an app builder that allows users to rapidly prototype and launch full-stack applications.
 simple: Codeflying is an app builder that allows users to rapidly prototype and launch full-stack applications.

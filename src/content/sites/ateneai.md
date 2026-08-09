@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AteneAI - AI Tool Review & Guide 2026
 metaDescription: AteneAI tracks brand mentions across AI platforms like ChatGPT and Gemini, providing sentiment analysis, share‑of‑voice metrics, real‑time alerts,...
 simple: AteneAI tracks brand mentions across AI platforms like ChatGPT and Gemini, providing sentiment analysis, share‑of‑voice metrics, real‑time alerts, competitive intelligence, and unified dashboards for agencies and marketers with enterprise‑grade security.

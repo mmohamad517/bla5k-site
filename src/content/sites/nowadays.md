@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Nowadays - AI Tool Review & Guide 2026
 metaDescription: Nowadays consolidates venue sourcing, budget tracking, registration, and vendor coordination into a single interface.
 simple: Nowadays consolidates venue sourcing, budget tracking, registration, and vendor coordination into a single interface.

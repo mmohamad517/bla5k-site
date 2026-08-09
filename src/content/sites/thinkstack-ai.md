@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: thinkstack.AI - AI Tool Review & Guide 2026
 metaDescription: Thinkstack AI is a no‑code chatbot builder that uses GPT‑3.5/4 models to create custom assistants trained on company data via URLs, CSVs, Notion, etc.
 simple: Thinkstack AI is a no‑code chatbot builder that uses GPT‑3.5/4 models to create custom assistants trained on company data via URLs, CSVs, Notion, etc.

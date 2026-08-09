@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Cradl - AI Tool Review & Guide 2026
 metaDescription: Cradl AI automates extraction of structured data from PDFs, images and scanned documents in 150 languages using OCR and LLMs.
 simple: Cradl AI automates extraction of structured data from PDFs, images and scanned documents in 150 languages using OCR and LLMs.

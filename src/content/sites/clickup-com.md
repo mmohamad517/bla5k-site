@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Clickup - AI Tool Review & Guide 2026
 metaDescription: ClickUp is a work-management platform that unifies project planning, AI agents, time tracking, docs, whiteboards and team chat.
 simple: ClickUp is a work-management platform that unifies project planning, AI agents, time tracking, docs, whiteboards and team chat.

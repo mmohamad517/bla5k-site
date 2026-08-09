@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: enterprisebot.ai - AI Tool Review & Guide 2026
 metaDescription: Enterprise Bot unifies voice, email, and chat into a single AI engine, automating call routing, agent assistance, and self‑service chat.
 simple: Enterprise Bot unifies voice, email, and chat into a single AI engine, automating call routing, agent assistance, and self‑service chat.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Gorilla AI - AI Tool Review & Guide 2026
 metaDescription: Gorilla Terminal centralizes investment data for traders and analysts, offering AI‑driven earnings call sentiment, macro indicators, SEC filings, insider...
 simple: Gorilla Terminal centralizes investment data for traders and analysts, offering AI‑driven earnings call sentiment, macro indicators, SEC filings, insider activity, risk‑management models, and real‑time news to enable rapid, data‑driven decisions.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Eilla AI - AI Tool Review & Guide 2026
 metaDescription: Eilla AI accelerates M&A for SMBs by combining senior advisors with machine‑learning.
 simple: Eilla AI accelerates M&A for SMBs by combining senior advisors with machine‑learning.

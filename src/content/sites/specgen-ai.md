@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Specgen.ai - AI Tool Review & Guide 2026
 metaDescription: Specgen automates tender responses by processing PDFs, DOCX, XLSX, PPTX, extracting requirements, and generating targeted replies within user templates.
 simple: Specgen automates tender responses by processing PDFs, DOCX, XLSX, PPTX, extracting requirements, and generating targeted replies within user templates.

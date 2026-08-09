@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Texta - AI Tool Review & Guide 2026
 metaDescription: Texta monitors AI responses from multiple brands and models, logging prompts, mentions, and source links in real time.
 simple: Texta monitors AI responses from multiple brands and models, logging prompts, mentions, and source links in real time.

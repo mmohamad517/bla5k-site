@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: WizyChat - AI Tool Review & Guide 2026
 metaDescription: WizyChat builds AI chatbots from website content, crawling data and training GPT‑4 for understanding.
 simple: WizyChat builds AI chatbots from website content, crawling data and training GPT‑4 for understanding.

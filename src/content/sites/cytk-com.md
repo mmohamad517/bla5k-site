@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: CYTK - AI Tool Review & Guide 2026
 metaDescription: CYTK transforms maintenance manuals, multimedia and service data into a mobile AI search platform for technicians, delivering on-site, voice-enabled access...
 simple: CYTK transforms maintenance manuals, multimedia and service data into a mobile AI search platform for technicians, delivering on-site, voice-enabled access to verified repair procedures, diagnostics and step-by-step instructions, with integrations, offline support and secure versioning.

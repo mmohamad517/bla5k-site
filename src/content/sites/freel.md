@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Freel - AI Tool Review & Guide 2026
 metaDescription: Freel connects Canadian freelancers with clients across major cities, letting professionals build profiles, showcase portfolios, and list skills in UX, web,...
 simple: Freel connects Canadian freelancers with clients across major cities, letting professionals build profiles, showcase portfolios, and list skills in UX, web, writing, video, marketing, and analytics.

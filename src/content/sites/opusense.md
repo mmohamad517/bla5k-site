@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Opusense - AI Tool Review & Guide 2026
 metaDescription: Opusense is a site inspection tool that captures observations via photos, voice, and text to auto-generate branded reports.
 simple: Opusense is a site inspection tool that captures observations via photos, voice, and text to auto-generate branded reports.

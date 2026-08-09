@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Letterdrop - AI Tool Review & Guide 2026
 metaDescription: Letterdrop aggregates public, competitor, and job‑change signals to identify high‑intent prospects.
 simple: Letterdrop aggregates public, competitor, and job‑change signals to identify high‑intent prospects.

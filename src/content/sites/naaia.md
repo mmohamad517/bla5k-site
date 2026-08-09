@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Naaia - AI Tool Review & Guide 2026
 metaDescription: Naaia is an AI compliance platform that converts regulations into actionable workflows, supports the EU AI Act and global standards, tracks AI inventories,...
 simple: Naaia is an AI compliance platform that converts regulations into actionable workflows, supports the EU AI Act and global standards, tracks AI inventories, generates compliance action plans, provides multilingual training, and integrates via APIs with GitLab, Azure, Slack, etc., ensuring secure governance.

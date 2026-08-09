@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Negotyum - AI Tool Review & Guide 2026
 metaDescription: Negotyum Business Idea Test uses AI analytics to evaluate startup concepts, scoring over 100 factors such as industry, scalability, margins, and investment...
 simple: Negotyum Business Idea Test uses AI analytics to evaluate startup concepts, scoring over 100 factors such as industry, scalability, margins, and investment ratios.

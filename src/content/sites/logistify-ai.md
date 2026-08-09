@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Logistify AI - AI Tool Review & Guide 2026
 metaDescription: Logistify AI automates inventory verification in factories and warehouses using generative AI and computer vision.
 simple: Logistify AI automates inventory verification in factories and warehouses using generative AI and computer vision.

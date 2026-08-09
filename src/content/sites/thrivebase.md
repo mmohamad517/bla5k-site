@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Thrivebase - AI Tool Review & Guide 2026
 metaDescription: Thrivebase lets businesses build GPT‑3.5 or GPT‑4 powered chatbots without coding.
 simple: Thrivebase lets businesses build GPT‑3.5 or GPT‑4 powered chatbots without coding.

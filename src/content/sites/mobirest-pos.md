@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: MobiRest POS - AI Tool Review & Guide 2026
 metaDescription: Mobirest is a cloud-based POS system for the hospitality industry, offering features like sales tracking, inventory management, staff scheduling, and...
 simple: Mobirest is a cloud-based POS system for the hospitality industry, offering features like sales tracking, inventory management, staff scheduling, and AI-driven price suggestions to streamline operations and enhance customer experiences.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: WanDesk AI - AI Tool Review & Guide 2026
 metaDescription: WanDesk AI is a local desktop workspace for building and running AI-powered apps, modules, and interactive fiction from natural language descriptions.
 simple: WanDesk AI is a local desktop workspace for building and running AI-powered apps, modules, and interactive fiction from natural language descriptions.

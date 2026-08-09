@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Hyrproz - AI Tool Review & Guide 2026
 metaDescription: Hyrproz is a fractional hiring marketplace that pairs employers with pre‑screened, part‑time executives (CTO, CFO, CMO, VP of Sales, Product Lead).
 simple: Hyrproz is a fractional hiring marketplace that pairs employers with pre‑screened, part‑time executives (CTO, CFO, CMO, VP of Sales, Product Lead).

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: WeWeb - AI Tool Review & Guide 2026
 metaDescription: WeWeb is a no-code AI platform for building and customizing web apps with a drag-and-drop editor, requiring no coding skills.
 simple: WeWeb is a no-code AI platform for building and customizing web apps with a drag-and-drop editor, requiring no coding skills.

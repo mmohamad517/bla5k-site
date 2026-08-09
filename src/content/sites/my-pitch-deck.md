@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: My Pitch Deck - AI Tool Review & Guide 2026
 metaDescription: MY PITCH DECK uses GPT‑4 to generate a custom, editable pitch deck outline in minutes.
 simple: MY PITCH DECK uses GPT‑4 to generate a custom, editable pitch deck outline in minutes.

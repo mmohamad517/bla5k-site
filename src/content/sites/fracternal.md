@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Fracternal - AI Tool Review & Guide 2026
 metaDescription: Fracternal links fractional executives to companies using AI‑generated profiles and leadership assessments.
 simple: Fracternal links fractional executives to companies using AI‑generated profiles and leadership assessments.
