@@ -6,6 +6,7 @@ import LegalStrip from '../components/LegalStrip.astro';
 import { getCollection } from 'astro:content';
 import { subcategoryBySlug, categoryBySlug } from '../data/categories';
 import { OPEN_SOURCE_REPOS, NON_OSS_GITHUB_SLUGS } from '../data/open-source';
+import { OSS_REPOS } from '../data/open-source-github';
 
 const sites = await getCollection('sites');
 const site = 'https://bla5k.com';
@@ -50,8 +51,9 @@ for (const en of entries) {
 const orderedGroups = [...groups.entries()].sort((a, b) => a[0].localeCompare(b[0]));
 const total = entries.length;
 
-const title = `Open Source AI Tools on GitHub (${total} Free Repos) | bla5k`;
-const description = `${total} open-source AI tools hosted on GitHub — AI agents, coding assistants, image & video generators, and more. Every repository link is real and verified.`;
+const grandTotal = total + OSS_REPOS.length;
+const title = `Open Source AI Tools on GitHub (${grandTotal} Free Repos) | bla5k`;
+const description = `${grandTotal} open-source AI tools and projects on GitHub — ${total} fully reviewed in the bla5k directory plus ${OSS_REPOS.length} more verified open-source projects. AI agents, coding assistants, image & video generators, and more. Every repository link is real and verified.`;
 
 const schema = [
   {
@@ -86,11 +88,11 @@ const schema = [
         <span class="eyebrow reveal"><span class="dot"></span> Free &amp; Open Source</span>
         <h1 class="oss-title reveal d1">Open Source <span class="grad">AI Tools</span> on GitHub</h1>
         <p class="oss-lead reveal d2">
-          {total} AI tools in the bla5k directory that are <strong>open source on GitHub</strong> — agents,
-          coding assistants, image &amp; video generators, automation, and more. Every repository link below
-          is the <strong>real, verified GitHub repo</strong> of the project. Click the tool name for the full review.
+          <strong>{grandTotal} open-source tools &amp; projects on GitHub</strong> — {total} fully reviewed in the bla5k
+          directory plus {OSS_REPOS.length} more verified open-source projects pulled from GitHub. Every repository
+          link below is the <strong>real, verified GitHub repo</strong>. Click a reviewed tool name for the full article.
         </p>
-        <p class="oss-count reveal d3">{total} verified repositories</p>
+        <p class="oss-count reveal d3">{grandTotal} verified repositories</p>
       </div>
     </section>
 
@@ -121,6 +123,32 @@ const schema = [
         </div>
       </section>
     ))}
+
+    <section class="section oss-big">
+      <div class="container">
+        <h2 class="oss-group-title">More open-source projects on GitHub <span class="count-badge">{OSS_REPOS.length}</span></h2>
+        <p class="oss-big-lead">
+          A further {OSS_REPOS.length} fully open-source AI projects, pulled live from GitHub and sorted by stars.
+          Every link opens the real repository.
+        </p>
+        <ul class="oss-big-grid" role="list">
+          {OSS_REPOS.map((r) => (
+            <li class="oss-big-card">
+              <div class="ob-head">
+                <a class="ob-name" href={r.url} target="_blank" rel="noopener noreferrer">{r.name}</a>
+                <span class="ob-stars" title="GitHub stars">★ {r.stars.toLocaleString()}</span>
+              </div>
+              {r.desc && <p class="ob-desc">{r.desc}</p>}
+              <div class="ob-meta">
+                {r.lang && <span class="ob-lang">{r.lang}</span>}
+                {r.license && <span class="ob-lic">{r.license}</span>}
+                <a class="ob-link" href={r.url} target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+              </div>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </section>
   </main>
   <Footer />
   <LegalStrip />
@@ -163,4 +191,28 @@ const schema = [
 
   @media (min-width: 640px) { .oss-grid { grid-template-columns: 1fr 1fr; } }
   @media (min-width: 1024px) { .oss-grid { grid-template-columns: 1fr 1fr 1fr; } }
+
+  /* ---- 1,000+ GitHub projects section ---- */
+  .oss-big { padding-block: 1.5rem 3rem; }
+  .oss-big-lead { color: var(--text-dim); font-size: 0.98rem; max-width: 72ch; margin-bottom: 1.2rem; }
+  .oss-big-grid { list-style: none; display: grid; gap: 0.7rem; }
+  .oss-big-card {
+    padding: 0.9rem 1.05rem; border-radius: 12px;
+    background: var(--glass-bg); border: 1px solid var(--glass-border);
+    content-visibility: auto; contain-intrinsic-size: auto 94px;
+    transition: border-color .2s, transform .2s;
+  }
+  .oss-big-card:hover { border-color: var(--glass-border-strong); transform: translateY(-1px); }
+  .ob-head { display: flex; align-items: baseline; gap: 0.6rem; }
+  .ob-name { font-family: var(--font-head); font-weight: 700; font-size: 0.94rem; color: var(--text); word-break: break-word; }
+  .ob-name:hover { color: var(--cyan-soft); }
+  .ob-stars { margin-left: auto; flex: none; font-size: 0.78rem; color: var(--orange); white-space: nowrap; }
+  .ob-desc { color: var(--text-dim); font-size: 0.86rem; margin-top: 0.25rem; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .ob-meta { display: flex; align-items: center; gap: 0.5rem; margin-top: 0.45rem; font-size: 0.72rem; }
+  .ob-lang, .ob-lic { color: var(--text-faint); background: rgba(255,255,255,.05); border: 1px solid var(--glass-border); border-radius: 999px; padding: 0.12rem 0.5rem; }
+  .ob-link { margin-left: auto; color: var(--cyan-soft); font-weight: 700; text-decoration: none; }
+  .ob-link:hover { text-decoration: underline; }
+
+  @media (min-width: 640px) { .oss-big-grid { grid-template-columns: 1fr 1fr; } }
+  @media (min-width: 1024px) { .oss-big-grid { grid-template-columns: 1fr 1fr 1fr; } }
 </style>
