@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Mexty - AI Tool Review & Guide 2026
 metaDescription: Mexty is an AI-powered platform for creating interactive and personalized learning content, including courses, quizzes, and assessments.
 simple: Mexty is an AI-powered platform for creating interactive and personalized learning content, including courses, quizzes, and assessments.

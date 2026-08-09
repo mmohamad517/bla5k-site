@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AI Domain Genius - AI Tool Review & Guide 2026
 metaDescription: Get domain name ideas using AI and purchase them instantly through a preferred domain name provider with customizable parameters and themes.
 simple: Get domain name ideas using AI and purchase them instantly through a preferred domain name provider with customizable parameters and themes.

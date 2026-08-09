@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Bryckel - AI Tool Review & Guide 2026
 metaDescription: Bryckel is an AI tool for lease review and risk analysis in commercial real estate, offering structured summaries, risk identification, and compliance support.
 simple: Bryckel is an AI tool for lease review and risk analysis in commercial real estate, offering structured summaries, risk identification, and compliance support.

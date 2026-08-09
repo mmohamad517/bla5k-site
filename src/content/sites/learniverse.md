@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Learniverse - AI Tool Review & Guide 2026
 metaDescription: Learniverse delivers personalized AI‑generated courses that adapt to your goals and progress.
 simple: Learniverse delivers personalized AI‑generated courses that adapt to your goals and progress.

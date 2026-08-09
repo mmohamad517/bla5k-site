@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ToonCrafter - AI Tool Review & Guide 2026
 metaDescription: ToonCrafter turns 2‑4 static cartoon images into 8 fps, 512×512 MP4 clips by interpolating keyframes.
 simple: ToonCrafter turns 2‑4 static cartoon images into 8 fps, 512×512 MP4 clips by interpolating keyframes.

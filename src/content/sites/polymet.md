@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Polymet - AI Tool Review & Guide 2026
 metaDescription: Polymet is an AI-driven design tool for quick idea prototyping and product design.
 simple: Polymet is an AI-driven design tool for quick idea prototyping and product design.

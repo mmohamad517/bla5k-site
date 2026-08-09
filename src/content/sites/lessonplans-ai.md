@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: LessonPlans.ai - AI Tool Review & Guide 2026
 metaDescription: LessonPlans.ai instantly generates K‑12 lesson plans that align with Common Core, offering outlines, objectives, assessments, activities, and multimedia...
 simple: LessonPlans.ai instantly generates K‑12 lesson plans that align with Common Core, offering outlines, objectives, assessments, activities, and multimedia resources.

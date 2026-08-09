@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Breef Docs - AI Tool Review & Guide 2026
 metaDescription: Breef Docs is an AI-powered knowledge base that enhances team collaboration by enabling secure document creation, management, and sharing.
 simple: Breef Docs is an AI-powered knowledge base that enhances team collaboration by enabling secure document creation, management, and sharing.

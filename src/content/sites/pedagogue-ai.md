@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Pedagogue AI - AI Tool Review & Guide 2026
 metaDescription: Pedagogue offers UK schools a 70‑minute AI micro‑learning program covering fundamentals, classroom use, and responsible practice.
 simple: Pedagogue offers UK schools a 70‑minute AI micro‑learning program covering fundamentals, classroom use, and responsible practice.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Waifulabs - AI Tool Review & Guide 2026
 metaDescription: Waifu Lab is an AI tool for creating custom anime portraits in four easy steps.
 simple: Waifu Lab is an AI tool for creating custom anime portraits in four easy steps.

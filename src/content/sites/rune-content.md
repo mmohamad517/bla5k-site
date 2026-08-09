@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Rune Content - AI Tool Review & Guide 2026
 metaDescription: RuneContent automatically converts LinkedIn posts, threads, or articles into short educational videos.
 simple: RuneContent automatically converts LinkedIn posts, threads, or articles into short educational videos.

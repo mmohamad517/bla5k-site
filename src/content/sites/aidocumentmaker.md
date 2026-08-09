@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AIDocumentMaker - AI Tool Review & Guide 2026
 metaDescription: AI Document Maker automates professional document creation, producing contracts, proposals, and forms within 30 seconds.
 simple: AI Document Maker automates professional document creation, producing contracts, proposals, and forms within 30 seconds.

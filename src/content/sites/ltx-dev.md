@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: LTX.dev - AI Tool Review & Guide 2026
 metaDescription: LTX.dev is an AI video generation platform offering real-time text-to-video and image-to-video capabilities via the LTX 2.3 model and a multi-model ecosystem.
 simple: LTX.dev is an AI video generation platform offering real-time text-to-video and image-to-video capabilities via the LTX 2.3 model and a multi-model ecosystem.

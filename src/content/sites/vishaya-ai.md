@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Vishaya AI - AI Tool Review & Guide 2026
 metaDescription: Vishaya AI is a course creation tool that generates structured, multilingual courses quickly.
 simple: Vishaya AI is a course creation tool that generates structured, multilingual courses quickly.

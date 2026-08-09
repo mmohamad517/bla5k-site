@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Ezier AI - AI Tool Review & Guide 2026
 metaDescription: Ezier.ai is a unified AI workspace that lets you generate and edit images, videos, and audio in one place.
 simple: Ezier.ai is a unified AI workspace that lets you generate and edit images, videos, and audio in one place.

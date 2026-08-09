@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: TravAI - AI Tool Review & Guide 2026
 metaDescription: TravAI automates travel‑industry e‑learning by converting documents into courses, quizzes, and role‑play scenarios, cutting manual content creation by up to...
 simple: TravAI automates travel‑industry e‑learning by converting documents into courses, quizzes, and role‑play scenarios, cutting manual content creation by up to 70%.

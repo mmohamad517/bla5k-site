@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ImageToVideos.ai - AI Tool Review & Guide 2026
 metaDescription: ImageToVideo.ai is a browser-based AI tool that converts static images into short, animated videos.
 simple: ImageToVideo.ai is a browser-based AI tool that converts static images into short, animated videos.

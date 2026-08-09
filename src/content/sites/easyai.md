@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: EasyAI - AI Tool Review & Guide 2026
 metaDescription: "EasyAI's Course Creation Tool: Personalize eLearning Experiences with AI & Manage Consent."
 simple: "EasyAI's Course Creation Tool: Personalize eLearning Experiences with AI & Manage Consent."

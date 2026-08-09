@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: LEAi - AI Tool Review & Guide 2026
 metaDescription: LEAi converts documents, presentations, webpages, and video into structured courses, auto‑generating objectives, instructional text, assessments, and...
 simple: LEAi converts documents, presentations, webpages, and video into structured courses, auto‑generating objectives, instructional text, assessments, and interactive elements.

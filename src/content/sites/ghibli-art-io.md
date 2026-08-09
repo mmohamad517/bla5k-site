@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Ghibli-art.io - AI Tool Review & Guide 2026
 metaDescription: ghibli-art.io is an AI tool that transforms photos into Ghibli-inspired, painterly anime art with cinematic lighting and soft palettes.
 simple: ghibli-art.io is an AI tool that transforms photos into Ghibli-inspired, painterly anime art with cinematic lighting and soft palettes.

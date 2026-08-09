@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Eskilled ai course creator - AI Tool Review & Guide 2026
 metaDescription: Eskilled AI Course Creator offers intuitive templates and adaptive learning paths for creating engaging courses.
 simple: Eskilled AI Course Creator offers intuitive templates and adaptive learning paths for creating engaging courses.

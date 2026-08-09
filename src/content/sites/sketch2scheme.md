@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Sketch2scheme - AI Tool Review & Guide 2026
 metaDescription: Sketch2scheme uses AI to convert hand‑drawn flowcharts and textual descriptions into clean digital diagrams.
 simple: Sketch2scheme uses AI to convert hand‑drawn flowcharts and textual descriptions into clean digital diagrams.

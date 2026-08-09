@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Intellectra - AI Tool Review & Guide 2026
 metaDescription: Intellectra centralizes digital offerings for coaches and creators, enabling course creation, community building, and sales management.
 simple: Intellectra centralizes digital offerings for coaches and creators, enabling course creation, community building, and sales management.

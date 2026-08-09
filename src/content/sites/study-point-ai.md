@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Study Point AI - AI Tool Review & Guide 2026
 metaDescription: Study Point AI delivers instant, step‑by‑step math solutions, AI‑assisted writing feedback, and tutoring across math, science, programming, and history.
 simple: Study Point AI delivers instant, step‑by‑step math solutions, AI‑assisted writing feedback, and tutoring across math, science, programming, and history.

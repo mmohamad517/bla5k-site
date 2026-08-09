@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Personwise AI - AI Tool Review & Guide 2026
 metaDescription: Personwise is a digital-human course creation engine that turns a single-line topic prompt into a complete e-learning course with research, narration, and...
 simple: Personwise is a digital-human course creation engine that turns a single-line topic prompt into a complete e-learning course with research, narration, and assessments in minutes.

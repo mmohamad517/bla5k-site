@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: MindSmith - AI Tool Review & Guide 2026
 metaDescription: Mindsmith is an AI-powered tool that simplifies instructional processes by generating high-quality on-demand learning content, providing a user-friendly...
 simple: Mindsmith is an AI-powered tool that simplifies instructional processes by generating high-quality on-demand learning content, providing a user-friendly platform for creating and sharing course materials and training.

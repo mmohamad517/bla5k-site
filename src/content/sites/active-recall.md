@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Active Recall - AI Tool Review & Guide 2026
 metaDescription: Recall is an AI-driven knowledge management tool that organizes and retrieves information efficiently.
 simple: Recall is an AI-driven knowledge management tool that organizes and retrieves information efficiently.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: imagetovideoaifree.com - AI Tool Review & Guide 2026
 metaDescription: imagetovideoaifree.com is a free AI tool that converts static photos into short animated clips by defining camera motion and style.
 simple: imagetovideoaifree.com is a free AI tool that converts static photos into short animated clips by defining camera motion and style.

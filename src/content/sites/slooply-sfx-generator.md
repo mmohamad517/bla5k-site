@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Slooply SFX Generator - AI Tool Review & Guide 2026
 metaDescription: Slooply SFX Generator is a text‑to‑sound effect AI that creates custom, royalty‑free audio for games, films, and music.
 simple: Slooply SFX Generator is a text‑to‑sound effect AI that creates custom, royalty‑free audio for games, films, and music.

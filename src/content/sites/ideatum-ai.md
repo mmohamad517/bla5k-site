@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ideatum.ai - AI Tool Review & Guide 2026
 metaDescription: Ideatum generates color palettes, font pairings, sizing ratios and responsive mood boards from a single prompt, producing export-ready style guides and...
 simple: Ideatum generates color palettes, font pairings, sizing ratios and responsive mood boards from a single prompt, producing export-ready style guides and assets (HTML, CSS, Figma, Webflow) across desktop, tablet and mobile for faster design validation and handoff.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ImageToVid - AI Tool Review & Guide 2026
 metaDescription: imagetovid.ai is an AI image-to-video generator that converts a single photo or artwork into an animated HD video with configurable duration, resolution,...
 simple: imagetovid.ai is an AI image-to-video generator that converts a single photo or artwork into an animated HD video with configurable duration, resolution, and audio.

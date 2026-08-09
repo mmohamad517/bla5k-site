@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Honen - AI Tool Review & Guide 2026
 metaDescription: Honen is an AI-powered course authoring and LMS platform that transforms documents, videos, and images into full training courses with auto-generated...
 simple: Honen is an AI-powered course authoring and LMS platform that transforms documents, videos, and images into full training courses with auto-generated quizzes, assessments, and real-time audio narration.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Blueprint - AI Tool Review & Guide 2026
 metaDescription: Blueprint is an AI-based scope management tool that helps project teams define, track, and manage project requirements effectively.
 simple: Blueprint is an AI-based scope management tool that helps project teams define, track, and manage project requirements effectively.

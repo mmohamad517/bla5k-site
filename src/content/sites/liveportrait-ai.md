@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: LivePortrait AI - AI Tool Review & Guide 2026
 metaDescription: LivePortrait AI animates still portraits by detecting facial keypoints, creating realistic head movements, blinking, and mouth expressions.
 simple: LivePortrait AI animates still portraits by detecting facial keypoints, creating realistic head movements, blinking, and mouth expressions.

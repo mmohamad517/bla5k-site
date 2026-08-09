@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Pika - AI Tool Review & Guide 2026
 metaDescription: Pika is an AI video creation and editing platform (web, mobile, API) offering photo-to-video transforms, preset effects (PikaScenes, PikaSwaps,...
 simple: Pika is an AI video creation and editing platform (web, mobile, API) offering photo-to-video transforms, preset effects (PikaScenes, PikaSwaps, PikaAffects), model-based scene editing, style transfer, batch edits and custom AI agents for automated workflows.

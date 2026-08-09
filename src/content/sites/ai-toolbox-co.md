@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AI Toolbox - AI Tool Review & Guide 2026
 metaDescription: AI Toolbox is a Chrome extension that organizes AI conversations from ChatGPT, Gemini, Claude, and Grok with folders, tags, and full-text cross-platform search.
 simple: AI Toolbox is a Chrome extension that organizes AI conversations from ChatGPT, Gemini, Claude, and Grok with folders, tags, and full-text cross-platform search.

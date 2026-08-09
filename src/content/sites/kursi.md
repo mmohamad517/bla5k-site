@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Kursi - AI Tool Review & Guide 2026
 metaDescription: Kursi is an online platform for educators and coaches to create and manage multimedia courses, featuring tools for lesson customization, discussions,...
 simple: Kursi is an online platform for educators and coaches to create and manage multimedia courses, featuring tools for lesson customization, discussions, progress tracking, and seamless community interaction through a newsfeed and messaging system.

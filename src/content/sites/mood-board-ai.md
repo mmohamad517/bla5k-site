@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Mood board ai - AI Tool Review & Guide 2026
 metaDescription: AI‑powered MoodBoard generates professional moodboards for interiors, fashion, weddings, and branding by selecting style and color.
 simple: AI‑powered MoodBoard generates professional moodboards for interiors, fashion, weddings, and branding by selecting style and color.

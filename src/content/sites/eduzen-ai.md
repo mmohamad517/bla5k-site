@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Eduzen.ai - AI Tool Review & Guide 2026
 metaDescription: Eduzen is an AI platform that enhances study efficiency with tools like a flashcard generator, quiz creator, lecture recorder, and mind map generator,...
 simple: Eduzen is an AI platform that enhances study efficiency with tools like a flashcard generator, quiz creator, lecture recorder, and mind map generator, enabling personalized learning and effective revision across various content formats.

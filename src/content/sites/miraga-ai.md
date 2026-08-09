@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Miraga AI - AI Tool Review & Guide 2026
 metaDescription: Miraga AI is a realistic image and video generator that turns text prompts into photo-realistic visuals and short clips.
 simple: Miraga AI is a realistic image and video generator that turns text prompts into photo-realistic visuals and short clips.

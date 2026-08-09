@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Immersfy - AI Tool Review & Guide 2026
 metaDescription: Immersfy is a storyboarding tool that rapidly transforms scripts into detailed visual representations, enhancing pre-production efficiency.
 simple: Immersfy is a storyboarding tool that rapidly transforms scripts into detailed visual representations, enhancing pre-production efficiency.

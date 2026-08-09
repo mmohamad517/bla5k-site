@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Nijijourney - AI Tool Review & Guide 2026
 metaDescription: niji・journey generates custom anime illustrations from text prompts in seconds, supporting styles from chibi to action scenes.
 simple: niji・journey generates custom anime illustrations from text prompts in seconds, supporting styles from chibi to action scenes.

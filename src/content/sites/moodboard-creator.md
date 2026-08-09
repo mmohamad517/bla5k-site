@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Moodboard Creator - AI Tool Review & Guide 2026
 metaDescription: Moodboard Creator is an AI tool that generates stunning moodboards based on your preferences, perfect for kick-starting design projects and sparking creativity.
 simple: Moodboard Creator is an AI tool that generates stunning moodboards based on your preferences, perfect for kick-starting design projects and sparking creativity.

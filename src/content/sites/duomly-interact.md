@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Duomly - AI Tool Review & Guide 2026
 metaDescription: Duomly delivers bite‑sized, interactive courses in entrepreneurship, AI, management, marketing, sales, personal development, and IT.
 simple: Duomly delivers bite‑sized, interactive courses in entrepreneurship, AI, management, marketing, sales, personal development, and IT.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Swishy AI - AI Tool Review & Guide 2026
 metaDescription: Swishy is an AI-powered motion design and animation tool that rapidly creates stunning visuals, offering pre-built templates and dynamic animation...
 simple: Swishy is an AI-powered motion design and animation tool that rapidly creates stunning visuals, offering pre-built templates and dynamic animation capabilities, effectively functioning as an After Effects alternative.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Dreamina - AI Tool Review & Guide 2026
 metaDescription: Dreamina is an AI image and video generator offering text-to-image and image-to-image synthesis, multi-layer editing (inpaint/expand/remove), style/pose...
 simple: Dreamina is an AI image and video generator offering text-to-image and image-to-image synthesis, multi-layer editing (inpaint/expand/remove), style/pose preservation, upscaling, batch generation and specialized outputs (avatars, logos, product photography) for creative workflows.

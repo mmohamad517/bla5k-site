@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: image2video.art - AI Tool Review & Guide 2026
 metaDescription: image2video.art is an AI tool that transforms static photos into dynamic videos with audio sync, multi-shot sequencing, and subject consistency across frames.
 simple: image2video.art is an AI tool that transforms static photos into dynamic videos with audio sync, multi-shot sequencing, and subject consistency across frames.

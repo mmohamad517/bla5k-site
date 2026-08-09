@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Paradigm - AI Tool Review & Guide 2026
 metaDescription: Paradigm is an adaptive learning platform with a visual course builder and multimedia support that uses AI to personalize learning paths, offers integrated...
 simple: Paradigm is an adaptive learning platform with a visual course builder and multimedia support that uses AI to personalize learning paths, offers integrated coding and music studios, assessments, analytics, and generated study materials for project-based instruction.
