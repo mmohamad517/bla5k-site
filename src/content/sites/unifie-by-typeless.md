@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Unifie by Typeless - AI Tool Review & Guide 2026
 metaDescription: Unifie is an AI-powered research assistant that organizes knowledge and enhances note-taking.
 simple: Unifie is an AI-powered research assistant that organizes knowledge and enhances note-taking.

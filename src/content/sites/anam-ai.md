@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Anam.ai - AI Tool Review & Guide 2026
 metaDescription: Anam.ai provides real-time emotive AI personas through an API, enabling human-like interactions for enhanced customer engagement across various industries.
 simple: Anam.ai provides real-time emotive AI personas through an API, enabling human-like interactions for enhanced customer engagement across various industries.

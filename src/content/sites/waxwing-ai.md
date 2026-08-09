@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Waxwing.ai - AI Tool Review & Guide 2026
 metaDescription: Waxwing.ai is an AI project management tool designed for various marketers, offering personalized marketing strategies and role-based KPI alignment for...
 simple: Waxwing.ai is an AI project management tool designed for various marketers, offering personalized marketing strategies and role-based KPI alignment for successful campaigns.

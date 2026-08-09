@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Quoai - AI Tool Review & Guide 2026
 metaDescription: Quoai is an AI-powered quote calculator for tech project management, enabling quick generation of detailed quotes from specifications and RFPs.
 simple: Quoai is an AI-powered quote calculator for tech project management, enabling quick generation of detailed quotes from specifications and RFPs.

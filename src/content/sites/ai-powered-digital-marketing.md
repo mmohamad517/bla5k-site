@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AI-powered Digital Marketing - AI Tool Review & Guide 2026
 metaDescription: Aionomy connects businesses to qualified candidates across industries, offering tailored recruitment strategies that reduce time‑to‑fill.
 simple: Aionomy connects businesses to qualified candidates across industries, offering tailored recruitment strategies that reduce time‑to‑fill.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Adlas.io - AI Tool Review & Guide 2026
 metaDescription: Adlas.io simplifies Google Ads campaign management by generating customized ad creatives, supporting multiple websites, and providing real-time performance...
 simple: Adlas.io simplifies Google Ads campaign management by generating customized ad creatives, supporting multiple websites, and providing real-time performance tracking.

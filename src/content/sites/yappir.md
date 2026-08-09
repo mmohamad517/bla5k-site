@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Yappir - AI Tool Review & Guide 2026
 metaDescription: Yappir builds chatbots by scanning a site’s content to train an AI that answers visitors in 95 languages.
 simple: Yappir builds chatbots by scanning a site’s content to train an AI that answers visitors in 95 languages.

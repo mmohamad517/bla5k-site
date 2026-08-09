@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Vergesense.com - AI Tool Review & Guide 2026
 metaDescription: VergeSense Workplace AI Platform unifies sensor data, building systems, badge logs, lease and Wi‑Fi analytics into a data lake, using machine learning to...
 simple: VergeSense Workplace AI Platform unifies sensor data, building systems, badge logs, lease and Wi‑Fi analytics into a data lake, using machine learning to provide occupancy insights, predictive capacity forecasts, automated workflows with ServiceNow and Microsoft 365 for space optimization and cost savings.

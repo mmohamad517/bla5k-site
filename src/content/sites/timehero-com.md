@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: timehero.com - AI Tool Review & Guide 2026
 metaDescription: TimeHero automatically schedules tasks and projects across calendars and tools, pulling items from Gmail, Slack, Asana, and 1,000+ apps.
 simple: TimeHero automatically schedules tasks and projects across calendars and tools, pulling items from Gmail, Slack, Asana, and 1,000+ apps.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Botsheets AI Writer - AI Tool Review & Guide 2026
 metaDescription: Botsheets automates marketing and data capture with chatbots that integrate directly with Google Sheets.
 simple: Botsheets automates marketing and data capture with chatbots that integrate directly with Google Sheets.

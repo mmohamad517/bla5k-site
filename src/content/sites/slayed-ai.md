@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Slayed.ai - AI Tool Review & Guide 2026
 metaDescription: Slayed.ai is an AI invoicing tool designed to simplify and speed up the billing process for freelancers and small businesses.
 simple: Slayed.ai is an AI invoicing tool designed to simplify and speed up the billing process for freelancers and small businesses.

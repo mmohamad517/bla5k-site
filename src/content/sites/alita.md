@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Alita - AI Tool Review & Guide 2026
 metaDescription: Alita aggregates 350 M+ social profiles and 180 M B2B contacts, offering AI‑driven ad optimization and segmentation.
 simple: Alita aggregates 350 M+ social profiles and 180 M B2B contacts, offering AI‑driven ad optimization and segmentation.

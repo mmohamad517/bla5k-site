@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Tenhaw.com - AI Tool Review & Guide 2026
 metaDescription: Tenhaw delivers Outcomes as a Service, starting with a 20‑minute discovery and a 90‑day plan to reset priorities.
 simple: Tenhaw delivers Outcomes as a Service, starting with a 20‑minute discovery and a 90‑day plan to reset priorities.

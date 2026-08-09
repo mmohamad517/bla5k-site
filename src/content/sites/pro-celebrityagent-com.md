@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Celebrity Agent - AI Tool Review & Guide 2026
 metaDescription: Celebrity Agent uses predictive analytics and MLS, title, and CRM data to surface high‑intent seller and off‑market leads, automate event‑triggered...
 simple: Celebrity Agent uses predictive analytics and MLS, title, and CRM data to surface high‑intent seller and off‑market leads, automate event‑triggered omni‑channel outreach (direct mail, email, SMS), and manage concierge workflows and pipeline reporting.

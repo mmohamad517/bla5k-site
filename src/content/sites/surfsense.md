@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: SurfSense - AI Tool Review & Guide 2026
 metaDescription: SurfSense is an open-source team collaboration tool built as an alternative to NotebookLM, connecting LLMs to internal knowledge sources for real-time chat,...
 simple: SurfSense is an open-source team collaboration tool built as an alternative to NotebookLM, connecting LLMs to internal knowledge sources for real-time chat, research, and workflow automation with cited answers.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Socrates.im - AI Tool Review & Guide 2026
 metaDescription: Socrates analyzes PDFs, DOCX, EPUB and text files with deep indexing, auto-OCR, and multi-document search; offers table-based comparisons, workflow...
 simple: Socrates analyzes PDFs, DOCX, EPUB and text files with deep indexing, auto-OCR, and multi-document search; offers table-based comparisons, workflow automation, source-cited Q&A, local LLM/desktop options, and exports structured outputs in 60+ languages.

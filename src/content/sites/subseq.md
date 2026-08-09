@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: SubSeq - AI Tool Review & Guide 2026
 metaDescription: Subseq is an AI workspace for product teams that automates sprint planning and integrates with tools like Jira and GitHub, providing real-time updates,...
 simple: Subseq is an AI workspace for product teams that automates sprint planning and integrates with tools like Jira and GitHub, providing real-time updates, identifying blockers, and generating comprehensive tickets to enhance project management and decision-making.

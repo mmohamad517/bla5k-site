@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Question Base - AI Tool Review & Guide 2026
 metaDescription: Question Base is an AI agent for Slack that instantly answers queries by retrieving information from Google Drive, Confluence, Notion, Salesforce, and...
 simple: Question Base is an AI agent for Slack that instantly answers queries by retrieving information from Google Drive, Confluence, Notion, Salesforce, and similar sources.

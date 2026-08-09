@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Yanna.pro - AI Tool Review & Guide 2026
 metaDescription: Yanna.pro is an AI-based legal document automation platform offering over 10,000 templates for efficient creation of contracts and demand letters.
 simple: Yanna.pro is an AI-based legal document automation platform offering over 10,000 templates for efficient creation of contracts and demand letters.

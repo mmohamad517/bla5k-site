@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: CopyRemix - AI Tool Review & Guide 2026
 metaDescription: CopyRemix is a tool that transforms testimonials into compelling case studies quickly.
 simple: CopyRemix is a tool that transforms testimonials into compelling case studies quickly.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: StrataReports - AI Tool Review & Guide 2026
 metaDescription: StrataReports automatically reviews condo and strata documents, generating a structured summary in under 15 minutes.
 simple: StrataReports automatically reviews condo and strata documents, generating a structured summary in under 15 minutes.

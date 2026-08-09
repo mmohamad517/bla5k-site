@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: SmarterDx - AI Tool Review & Guide 2026
 metaDescription: SmarterDx applies clinical AI to analyze inpatient charts, extracting diagnoses, procedures and supporting evidence to identify missing or incorrect codes,...
 simple: SmarterDx applies clinical AI to analyze inpatient charts, extracting diagnoses, procedures and supporting evidence to identify missing or incorrect codes, support accurate reimbursement, coding, denial appeals and utilization management, and integrates with revenue-cycle and clinical workflows.

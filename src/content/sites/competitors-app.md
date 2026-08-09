@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Competitors App - AI Tool Review & Guide 2026
 metaDescription: Competitors App tracks competitor activity across email, social, website, SEO, ads, reviews, and PR.
 simple: Competitors App tracks competitor activity across email, social, website, SEO, ads, reviews, and PR.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: BooleanMaths Pulse - AI Tool Review & Guide 2026
 metaDescription: Booleanmaths is a marketing attribution tool that consolidates data from multiple sources to track customer journeys and measure conversions.
 simple: Booleanmaths is a marketing attribution tool that consolidates data from multiple sources to track customer journeys and measure conversions.

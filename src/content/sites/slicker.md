@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Slicker - AI Tool Review & Guide 2026
 metaDescription: Slicker is an AI‑driven payment recovery platform that analyzes failed recurring transactions to choose the optimal retry or communication strategy.
 simple: Slicker is an AI‑driven payment recovery platform that analyzes failed recurring transactions to choose the optimal retry or communication strategy.

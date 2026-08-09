@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Risotto - AI Tool Review & Guide 2026
 metaDescription: Risotto is an AI help‑desk that automates first‑level support for IT, HR, legal, finance, engineering, and security.
 simple: Risotto is an AI help‑desk that automates first‑level support for IT, HR, legal, finance, engineering, and security.

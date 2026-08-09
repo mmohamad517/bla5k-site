@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: TheDrive AI - AI Tool Review & Guide 2026
 metaDescription: Drive AI automates document ingestion, OCR, indexing and content-aware organization across email, cloud, Slack/Teams and mobile scans.
 simple: Drive AI automates document ingestion, OCR, indexing and content-aware organization across email, cloud, Slack/Teams and mobile scans.

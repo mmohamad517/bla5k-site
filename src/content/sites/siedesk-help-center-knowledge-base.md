@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Siedesk - AI Tool Review & Guide 2026
 metaDescription: Siedesk is an AI‑powered platform that builds and manages knowledge bases, FAQ pages, and help centers.
 simple: Siedesk is an AI‑powered platform that builds and manages knowledge bases, FAQ pages, and help centers.

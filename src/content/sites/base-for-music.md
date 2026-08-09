@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Base for music - AI Tool Review & Guide 2026
 metaDescription: Base for Music centralizes marketing data for music entities, delivering real‑time campaign analytics, Spotify popularity scores, and audience profiling.
 simple: Base for Music centralizes marketing data for music entities, delivering real‑time campaign analytics, Spotify popularity scores, and audience profiling.

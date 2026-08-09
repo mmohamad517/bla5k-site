@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Storylist - AI Tool Review & Guide 2026
 metaDescription: Storylist automatically turns simple project descriptions into structured user stories, offering time estimates, GitHub sync, shared boards, and public...
 simple: Storylist automatically turns simple project descriptions into structured user stories, offering time estimates, GitHub sync, shared boards, and public links for clear communication.

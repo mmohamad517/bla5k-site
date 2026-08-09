@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: CloseChat - AI Tool Review & Guide 2026
 metaDescription: CloseChat is a cross‑platform AI chatbot mirroring ChatGPT and Claude, offering instant advanced features, file ingestion across formats, unlimited output,...
 simple: CloseChat is a cross‑platform AI chatbot mirroring ChatGPT and Claude, offering instant advanced features, file ingestion across formats, unlimited output, and a plugin marketplace, available natively on Windows, macOS, Linux, and Android.

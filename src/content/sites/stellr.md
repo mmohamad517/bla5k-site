@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Stellr - AI Tool Review & Guide 2026
 metaDescription: Sahil is an AI-powered electronic lab notebook for bio-pharma professionals, offering easy document management, rapid search capabilities, and streamlined...
 simple: Sahil is an AI-powered electronic lab notebook for bio-pharma professionals, offering easy document management, rapid search capabilities, and streamlined collaboration.

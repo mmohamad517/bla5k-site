@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ai4good.org - AI Tool Review & Guide 2026
 metaDescription: AI Good Foundation enhances humanitarian efforts by providing project management tools for refugee assistance and social impact.
 simple: AI Good Foundation enhances humanitarian efforts by providing project management tools for refugee assistance and social impact.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: TrustDoc - AI Tool Review & Guide 2026
 metaDescription: TrustDoc uses AI to validate, analyze, and verify academic and administrative documents.
 simple: TrustDoc uses AI to validate, analyze, and verify academic and administrative documents.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Qlerify Process and Data Modeler - AI Tool Review & Guide 2026
 metaDescription: Qlerify is an AI‑powered modeling platform that supports domain‑driven design, event storming, process mapping, user story mapping, and code generation.
 simple: Qlerify is an AI‑powered modeling platform that supports domain‑driven design, event storming, process mapping, user story mapping, and code generation.

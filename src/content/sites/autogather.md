@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AutoGather - AI Tool Review & Guide 2026
 metaDescription: AutoGather is an AI-powered platform that automates influencer discovery across Instagram, YouTube, and TikTok by evaluating and matching influencers based...
 simple: AutoGather is an AI-powered platform that automates influencer discovery across Instagram, YouTube, and TikTok by evaluating and matching influencers based on specific criteria.

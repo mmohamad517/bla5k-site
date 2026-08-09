@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Captain - AI Tool Review & Guide 2026
 metaDescription: Captain is an AI-powered marketing platform for brands, automating content creation, optimizing user engagement, and identifying leads in real-time.
 simple: Captain is an AI-powered marketing platform for brands, automating content creation, optimizing user engagement, and identifying leads in real-time.

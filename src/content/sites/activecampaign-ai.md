@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ActiveCampaign AI - AI Tool Review & Guide 2026
 metaDescription: ActiveCampaign AI is a powerful integrated platform that enhances marketing campaigns through intelligent customer segmentation, optimized scheduling, and...
 simple: ActiveCampaign AI is a powerful integrated platform that enhances marketing campaigns through intelligent customer segmentation, optimized scheduling, and insightful analytics.

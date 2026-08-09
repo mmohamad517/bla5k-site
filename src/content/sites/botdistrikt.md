@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: BotDistrikt - AI Tool Review & Guide 2026
 metaDescription: BotDistrikt lets businesses build AI chatbots that track clicks, impressions, and conversions.
 simple: BotDistrikt lets businesses build AI chatbots that track clicks, impressions, and conversions.

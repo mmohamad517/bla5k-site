@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Aleah - AI Tool Review & Guide 2026
 metaDescription: Aleah AI is an advanced language-agnostic content creation tool powered by AI.
 simple: Aleah AI is an advanced language-agnostic content creation tool powered by AI.
