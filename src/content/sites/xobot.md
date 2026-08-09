@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Xobot - AI Tool Review & Guide 2026
 metaDescription: Xobot is an AI-driven voice bot platform that enhances customer interactions through appointment scheduling, lead generation, and FAQ responses, seamlessly...
 simple: Xobot is an AI-driven voice bot platform that enhances customer interactions through appointment scheduling, lead generation, and FAQ responses, seamlessly integrating with CRM systems and providing real-time testing and analytics for improved efficiency and satisfaction.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Wiser.so - AI Tool Review & Guide 2026
 metaDescription: Wiser builds a knowledge base from websites, documents, spreadsheets and past tickets to power a branded chat page or embeddable agent that handles 24/7...
 simple: Wiser builds a knowledge base from websites, documents, spreadsheets and past tickets to power a branded chat page or embeddable agent that handles 24/7 customer queries, creates tickets, enables contextual human handoff, and offers monitoring and training controls.

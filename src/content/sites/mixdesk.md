@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Mixdesk - AI Tool Review & Guide 2026
 metaDescription: Mixdesk is an AI-driven platform that integrates multiple communication channels for global marketing and customer service.
 simple: Mixdesk is an AI-driven platform that integrates multiple communication channels for global marketing and customer service.

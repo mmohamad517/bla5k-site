@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: HeyPat - AI Tool Review & Guide 2026
 metaDescription: HeyPat.ai is a conversational AI assistant that delivers instant answers on various topics through messaging platforms like Telegram and WhatsApp.
 simple: HeyPat.ai is a conversational AI assistant that delivers instant answers on various topics through messaging platforms like Telegram and WhatsApp.

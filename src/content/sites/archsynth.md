@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Archsynth - AI Tool Review & Guide 2026
 metaDescription: Archsynth transforms 2‑D sketches into detailed 3‑D models and high‑resolution renders instantly, supporting image‑to‑CAD, mood‑board, texture, and virtual...
 simple: Archsynth transforms 2‑D sketches into detailed 3‑D models and high‑resolution renders instantly, supporting image‑to‑CAD, mood‑board, texture, and virtual staging creation.

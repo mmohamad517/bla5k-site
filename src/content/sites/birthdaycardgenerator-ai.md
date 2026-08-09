@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: BirthdayCardGenerator AI - AI Tool Review & Guide 2026
 metaDescription: birthdaycardgenerator.ai is an AI tool that creates personalized birthday cards, posters, and invitations from text prompts and up to three reference images.
 simple: birthdaycardgenerator.ai is an AI tool that creates personalized birthday cards, posters, and invitations from text prompts and up to three reference images.

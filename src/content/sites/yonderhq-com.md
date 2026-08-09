@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Yonderhq.com - AI Tool Review & Guide 2026
 metaDescription: Yonder automates tourism operator interactions with a 24/7 AI voice agent, instant chatbot, review‑generation, and personalized recommendation engine.
 simple: Yonder automates tourism operator interactions with a 24/7 AI voice agent, instant chatbot, review‑generation, and personalized recommendation engine.

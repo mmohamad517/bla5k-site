@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: "Re:amaze - AI Tool Review & Guide 2026"
 metaDescription: "Re:amaze unifies email, chat, social, SMS, VoIP, video, and push into a shared inbox, uses AI to draft replies, summarize, and analyze sentiment."
 simple: "Re:amaze unifies email, chat, social, SMS, VoIP, video, and push into a shared inbox, uses AI to draft replies, summarize, and analyze sentiment."

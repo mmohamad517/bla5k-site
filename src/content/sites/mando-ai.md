@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Mando AI - AI Tool Review & Guide 2026
 metaDescription: Mando AI offers 24/7 customer service for SMEs by managing queries across platforms with customizable AI agents.
 simple: Mando AI offers 24/7 customer service for SMEs by managing queries across platforms with customizable AI agents.

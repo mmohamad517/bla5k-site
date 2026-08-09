@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Feedyou.ai - AI Tool Review & Guide 2026
 metaDescription: Feedyou lets businesses build and deploy chatbots, voice assistants, email bots, and knowledge bases across web, mobile, messaging, and internal tools.
 simple: Feedyou lets businesses build and deploy chatbots, voice assistants, email bots, and knowledge bases across web, mobile, messaging, and internal tools.

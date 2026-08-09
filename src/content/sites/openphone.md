@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Quo - AI Tool Review & Guide 2026
 metaDescription: Quo is a business phone system that centralizes calls, SMS, voicemails, recordings, and contact history into shared inboxes.
 simple: Quo is a business phone system that centralizes calls, SMS, voicemails, recordings, and contact history into shared inboxes.

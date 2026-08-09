@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AI Architectures - AI Tool Review & Guide 2026
 metaDescription: AI Architectures is a generative AI platform that transforms sketches into detailed 3D models, photorealistic renders, and compliant floor plans.
 simple: AI Architectures is a generative AI platform that transforms sketches into detailed 3D models, photorealistic renders, and compliant floor plans.

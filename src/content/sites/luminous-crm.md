@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Luminous crm - AI Tool Review & Guide 2026
 metaDescription: Luminous CRM is a WhatsApp engagement platform using the official API to send bulk promos, run AI‑driven chatbots, and support multi‑agent live chat.
 simple: Luminous CRM is a WhatsApp engagement platform using the official API to send bulk promos, run AI‑driven chatbots, and support multi‑agent live chat.

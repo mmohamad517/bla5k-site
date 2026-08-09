@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Roleplay GPT - AI Tool Review & Guide 2026
 metaDescription: RoleplayGPT is an AI platform offering 100+ roleplay models built on OpenAI’s GPT, enabling multi‑character interactive storytelling across genres.
 simple: RoleplayGPT is an AI platform offering 100+ roleplay models built on OpenAI’s GPT, enabling multi‑character interactive storytelling across genres.

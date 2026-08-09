@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: SupBot - AI Tool Review & Guide 2026
 metaDescription: SupBot is an AI‑powered support bot that can be embedded with minimal code.
 simple: SupBot is an AI‑powered support bot that can be embedded with minimal code.

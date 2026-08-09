@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Helply.com - AI Tool Review & Guide 2026
 metaDescription: Helply is an AI customer support platform that automates tier-1 helpdesk tasks, handling billing lookups, invoice delivery, plan changes and refunds,...
 simple: Helply is an AI customer support platform that automates tier-1 helpdesk tasks, handling billing lookups, invoice delivery, plan changes and refunds, integrating with helpdesk tools, training on uploaded docs, surfacing documentation gaps and providing operational insights.

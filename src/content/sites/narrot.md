@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Narrot - AI Tool Review & Guide 2026
 metaDescription: Narrot is an AI‑powered customer support API that delivers instant, context‑aware responses in multiple languages.
 simple: Narrot is an AI‑powered customer support API that delivers instant, context‑aware responses in multiple languages.

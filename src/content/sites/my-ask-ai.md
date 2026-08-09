@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: My Ask AI - AI Tool Review & Guide 2026
 metaDescription: My AskAI integrates into helpdesk platforms, automatically answering up to 75 % of tickets by learning from internal docs.
 simple: My AskAI integrates into helpdesk platforms, automatically answering up to 75 % of tickets by learning from internal docs.

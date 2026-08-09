@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Jurny - AI Tool Review & Guide 2026
 metaDescription: Jurny centralizes guest communication, channel management, pricing, housekeeping, and reporting for short‑term rentals and boutique hotels.
 simple: Jurny centralizes guest communication, channel management, pricing, housekeeping, and reporting for short‑term rentals and boutique hotels.

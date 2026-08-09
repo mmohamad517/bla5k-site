@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Supademo 2.0 - AI Tool Review & Guide 2026
 metaDescription: Supademo records user interactions and auto‑generates guided walkthroughs for web, mobile, and desktop apps.
 simple: Supademo records user interactions and auto‑generates guided walkthroughs for web, mobile, and desktop apps.

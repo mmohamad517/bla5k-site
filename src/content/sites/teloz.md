@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Teloz - AI Tool Review & Guide 2026
 metaDescription: Teloz consolidates calls, chat, video, and fax into an omnichannel interface, automating routing with an ACD engine and tools like sentiment analysis.
 simple: Teloz consolidates calls, chat, video, and fax into an omnichannel interface, automating routing with an ACD engine and tools like sentiment analysis.

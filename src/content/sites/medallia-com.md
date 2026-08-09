@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Medallia - AI Tool Review & Guide 2026
 metaDescription: medallia.com is an AI-powered experience management platform that captures omnichannel feedback and analyzes it to provide real-time insights.
 simple: medallia.com is an AI-powered experience management platform that captures omnichannel feedback and analyzes it to provide real-time insights.

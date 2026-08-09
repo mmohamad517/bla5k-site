@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Portals.co - AI Tool Review & Guide 2026
 metaDescription: Portals.co is an AI-driven customer feedback platform that deploys popups and linkable forms across websites and email, auto-generates follow-up questions,...
 simple: Portals.co is an AI-driven customer feedback platform that deploys popups and linkable forms across websites and email, auto-generates follow-up questions, aggregates responses for AI analysis, and produces summaries to surface feature requests, issues, and actionable insights.

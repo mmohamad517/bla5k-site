@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: LIveX AI - AI Tool Review & Guide 2026
 metaDescription: Livex AI enhances customer interactions through AI chat, voice agents, and search, automating engagement to reduce churn and support costs.
 simple: Livex AI enhances customer interactions through AI chat, voice agents, and search, automating engagement to reduce churn and support costs.

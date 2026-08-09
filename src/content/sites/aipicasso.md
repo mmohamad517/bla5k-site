@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Ai Picasso - AI Tool Review & Guide 2026
 metaDescription: AI Picasso lets users create custom illustrations by entering prompts and choosing styles.
 simple: AI Picasso lets users create custom illustrations by entering prompts and choosing styles.

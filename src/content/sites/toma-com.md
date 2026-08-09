@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: toma.com - AI Tool Review & Guide 2026
 metaDescription: Toma is a dealership AI platform that automates inbound/outbound call handling, appointment scheduling, recall outreach and message routing for service...
 simple: Toma is a dealership AI platform that automates inbound/outbound call handling, appointment scheduling, recall outreach and message routing for service departments and BDCs, recording calls, generating transcripts, logging interactions, and providing configurable routing, scripts and analytics.

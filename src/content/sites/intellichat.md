@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: IntelliChat - AI Tool Review & Guide 2026
 metaDescription: Intellichat is an AI-powered customer support chatbot that provides 24/7 assistance on websites.
 simple: Intellichat is an AI-powered customer support chatbot that provides 24/7 assistance on websites.

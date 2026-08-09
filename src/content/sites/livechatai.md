@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: LiveChatAI - AI Tool Review & Guide 2026
 metaDescription: LiveChatAI uses GPT‑4o to transform a knowledge base into a chatbot that auto‑resolves ~70 % of tickets.
 simple: LiveChatAI uses GPT‑4o to transform a knowledge base into a chatbot that auto‑resolves ~70 % of tickets.

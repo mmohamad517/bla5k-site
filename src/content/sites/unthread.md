@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Unthread - AI Tool Review & Guide 2026
 metaDescription: Unthread automates Slack support workflows, converting DMs, emails, and live‑chat into tickets for IT, HR, and CS teams.
 simple: Unthread automates Slack support workflows, converting DMs, emails, and live‑chat into tickets for IT, HR, and CS teams.

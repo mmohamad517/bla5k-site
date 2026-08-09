@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Getgro.io - AI Tool Review & Guide 2026
 metaDescription: Getgro centralizes live chat, email, WhatsApp, Instagram and other channels into one support dashboard.
 simple: Getgro centralizes live chat, email, WhatsApp, Instagram and other channels into one support dashboard.

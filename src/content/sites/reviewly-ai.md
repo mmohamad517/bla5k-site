@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Reviewly ai - AI Tool Review & Guide 2026
 metaDescription: Reviewly gathers Google reviews via SMS, QR, NFC, and review plates, automates request sending, analyzes sentiment, drafts responses, offers scheduling,...
 simple: Reviewly gathers Google reviews via SMS, QR, NFC, and review plates, automates request sending, analyzes sentiment, drafts responses, offers scheduling, bulk uploads, CRM integration, and dashboards for performance tracking worldwide.

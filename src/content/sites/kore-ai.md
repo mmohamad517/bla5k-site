@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Kore.ai - AI Tool Review & Guide 2026
 metaDescription: Kore.ai Agent Platform delivers customizable AI agents for banking, healthcare, retail, and other industries.
 simple: Kore.ai Agent Platform delivers customizable AI agents for banking, healthcare, retail, and other industries.

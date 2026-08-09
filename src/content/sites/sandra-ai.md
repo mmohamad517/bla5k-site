@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Sandra AI - AI Tool Review & Guide 2026
 metaDescription: Sandra AI automates call routing, SMS/WhatsApp, and chatbot interactions for automotive dealerships.
 simple: Sandra AI automates call routing, SMS/WhatsApp, and chatbot interactions for automotive dealerships.

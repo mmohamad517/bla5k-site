@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Productlane - AI Tool Review & Guide 2026
 metaDescription: Productlane is a customer support feedback system that centralizes communication across multiple channels, prioritizes user feedback, and provides a public...
 simple: Productlane is a customer support feedback system that centralizes communication across multiple channels, prioritizes user feedback, and provides a public roadmap.

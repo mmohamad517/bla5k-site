@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Pal Chat - AI Tool Review & Guide 2026
 metaDescription: Pal Chat is an AI chat client for iPhone and iPad supporting multiple models like GPT-4o and DALL-E 3.
 simple: Pal Chat is an AI chat client for iPhone and iPad supporting multiple models like GPT-4o and DALL-E 3.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Archistar - AI Tool Review & Guide 2026
 metaDescription: AI PreCheck for Industry & Certifiers evaluates architectural plans against zoning and building codes at the design stage.
 simple: AI PreCheck for Industry & Certifiers evaluates architectural plans against zoning and building codes at the design stage.
