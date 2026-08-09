@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: My GPT Wizard - AI Tool Review & Guide 2026
 metaDescription: My GPT Wizard is an AI writing and content generation partner that utilizes AI-driven creativity to meet all your content creation needs.
 simple: My GPT Wizard is an AI writing and content generation partner that utilizes AI-driven creativity to meet all your content creation needs.

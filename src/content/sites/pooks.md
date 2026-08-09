@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Pooks - AI Tool Review & Guide 2026
 metaDescription: Discover personalized reading with pooks.ai - an AI tool that offers personalized ebooks and audiobooks, tailored to your specific needs, circumstances, and...
 simple: Discover personalized reading with pooks.ai - an AI tool that offers personalized ebooks and audiobooks, tailored to your specific needs, circumstances, and preferences.

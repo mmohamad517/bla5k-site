@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: bookbyanyone.com - AI Tool Review & Guide 2026
 metaDescription: An AI platform that converts a brief questionnaire into a 200‑page personalized book featuring the recipient’s name, interests, and photos.
 simple: An AI platform that converts a brief questionnaire into a 200‑page personalized book featuring the recipient’s name, interests, and photos.

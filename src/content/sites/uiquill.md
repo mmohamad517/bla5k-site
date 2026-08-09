@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Uiquill - AI Tool Review & Guide 2026
 metaDescription: UIQuill integrates with Figma to generate context‑aware copy for text layers, groups, frames, or pages, matching tone, length, and style.
 simple: UIQuill integrates with Figma to generate context‑aware copy for text layers, groups, frames, or pages, matching tone, length, and style.

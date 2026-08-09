@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Narrato Workspace - AI Tool Review & Guide 2026
 metaDescription: Narrato unifies content planning, creation, and publishing in one interface, auto‑generating briefs, outlines, copy, and SEO‑optimized text.
 simple: Narrato unifies content planning, creation, and publishing in one interface, auto‑generating briefs, outlines, copy, and SEO‑optimized text.

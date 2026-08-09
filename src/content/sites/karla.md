@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Karla - AI Tool Review & Guide 2026
 metaDescription: Karla is an AI tool for journalists that enhances writing efficiency by generating cohesive narratives from news information.
 simple: Karla is an AI tool for journalists that enhances writing efficiency by generating cohesive narratives from news information.

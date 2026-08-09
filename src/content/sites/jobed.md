@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Jobed - AI Tool Review & Guide 2026
 metaDescription: Jobed uses AI to create job descriptions in 24 languages across 31 sectors.
 simple: Jobed uses AI to create job descriptions in 24 languages across 31 sectors.

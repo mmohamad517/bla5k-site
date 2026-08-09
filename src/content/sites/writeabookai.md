@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: WriteABookAI - AI Tool Review & Guide 2026
 metaDescription: writeabookai enables professionals to efficiently turn their expertise into published books.
 simple: writeabookai enables professionals to efficiently turn their expertise into published books.

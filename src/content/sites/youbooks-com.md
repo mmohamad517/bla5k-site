@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Youbooks.com - AI Tool Review & Guide 2026
 metaDescription: Youbooks transforms uploaded PDFs, DOCX, TXT, or transcripts into structured non‑fiction chapters, augments them with web research, allows voice training...
 simple: Youbooks transforms uploaded PDFs, DOCX, TXT, or transcripts into structured non‑fiction chapters, augments them with web research, allows voice training from 20–200k words, and uses multiple LLMs for ideation, drafting, and export in DOCX, EPUB, Markdown, or RTF.

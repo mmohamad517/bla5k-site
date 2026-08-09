@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ebookmaker.ai - AI Tool Review & Guide 2026
 metaDescription: Ebookmaker turns a title or brief description into a fully structured e‑book, letting users choose chapters, edit text, insert images, tweak layout, add...
 simple: Ebookmaker turns a title or brief description into a fully structured e‑book, letting users choose chapters, edit text, insert images, tweak layout, add media, convert to audiobooks, and export as PDF, ePub, or FlipBook.

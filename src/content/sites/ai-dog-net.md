@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ai-dog.net - AI Tool Review & Guide 2026
 metaDescription: ai-dog is an AI-driven content creation platform that enables users to efficiently generate articles and marketing copy, optimize for SEO, and enhance their...
 simple: ai-dog is an AI-driven content creation platform that enables users to efficiently generate articles and marketing copy, optimize for SEO, and enhance their writing through intelligent analysis and suggestions, making it suitable for various industries.

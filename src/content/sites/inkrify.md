@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Inkrify - AI Tool Review & Guide 2026
 metaDescription: Inkrify is an AI-powered book writing platform that helps users create professional-quality manuscripts efficiently.
 simple: Inkrify is an AI-powered book writing platform that helps users create professional-quality manuscripts efficiently.

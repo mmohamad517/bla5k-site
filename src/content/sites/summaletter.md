@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Summaletter - AI Tool Review & Guide 2026
 metaDescription: SummaLetter streamlines multiple newsletter subscriptions into a weekly digest using AI.
 simple: SummaLetter streamlines multiple newsletter subscriptions into a weekly digest using AI.

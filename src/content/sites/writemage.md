@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: WriteMage - AI Tool Review & Guide 2026
 metaDescription: WriteMage overlays ChatGPT across macOS/iOS apps, preserving session memory and local labeled chat history.
 simple: WriteMage overlays ChatGPT across macOS/iOS apps, preserving session memory and local labeled chat history.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Wilde AI - AI Tool Review & Guide 2026
 metaDescription: Wilde AI is a cutting-edge tool that generates SEO-optimized, 2000+ word blog posts in English and Arabic with a single click, blending authenticity and...
 simple: Wilde AI is a cutting-edge tool that generates SEO-optimized, 2000+ word blog posts in English and Arabic with a single click, blending authenticity and literary flair.

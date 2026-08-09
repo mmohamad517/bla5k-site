@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Shooketh - AI Tool Review & Guide 2026
 metaDescription: Shooketh is an AI bot fine‑tuned on Shakespeare that generates authentic Shakespearean text and answers questions about the plays.
 simple: Shooketh is an AI bot fine‑tuned on Shakespeare that generates authentic Shakespearean text and answers questions about the plays.

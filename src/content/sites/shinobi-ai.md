@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Shinobi AI - AI Tool Review & Guide 2026
 metaDescription: Shinobi AI is an automation tool for content marketing and SEO, enabling users to generate blog articles, conduct keyword research, automate internal...
 simple: Shinobi AI is an automation tool for content marketing and SEO, enabling users to generate blog articles, conduct keyword research, automate internal linking, and publish directly to WordPress, enhancing productivity and streamlining marketing processes.

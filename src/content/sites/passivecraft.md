@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: PassiveCraft - AI Tool Review & Guide 2026
 metaDescription: PassiveCraft is an AI-powered tool that transforms social media content into professional ebooks, guides, and workbooks.
 simple: PassiveCraft is an AI-powered tool that transforms social media content into professional ebooks, guides, and workbooks.

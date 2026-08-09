@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Somme.ai - AI Tool Review & Guide 2026
 metaDescription: Somme.ai is a context-driven content generation tool that enhances content creation by integrating various reference types and enabling tailored writing styles.
 simple: Somme.ai is a context-driven content generation tool that enhances content creation by integrating various reference types and enabling tailored writing styles.

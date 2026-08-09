@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: The100kPrompts - AI Tool Review & Guide 2026
 metaDescription: the100kprompts is a vast database of over 100,000 AI prompts, covering 500+ niches.
 simple: the100kprompts is a vast database of over 100,000 AI prompts, covering 500+ niches.

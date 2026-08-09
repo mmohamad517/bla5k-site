@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ghostie - AI Tool Review & Guide 2026
 metaDescription: Ghostie is an AI content generation tool that creates tailored, SEO-optimized articles.
 simple: Ghostie is an AI content generation tool that creates tailored, SEO-optimized articles.
