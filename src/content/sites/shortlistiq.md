@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ShortlistIQ - AI Tool Review & Guide 2026
 metaDescription: ShortlistIQ automates first‑round interviews with conversational AI, allowing recruiters to create custom avatars that match company culture, support...
 simple: ShortlistIQ automates first‑round interviews with conversational AI, allowing recruiters to create custom avatars that match company culture, support multilingual interactions, and deliver objective scoring reports.

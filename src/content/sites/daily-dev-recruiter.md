@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: daily.dev Recruiter - AI Tool Review & Guide 2026
 metaDescription: daily.dev Recruiter is a developer-first hiring platform that intelligently matches technical recruiters with active engineers using behavioral signals.
 simple: daily.dev Recruiter is a developer-first hiring platform that intelligently matches technical recruiters with active engineers using behavioral signals.

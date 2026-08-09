@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: LegWork App - AI Tool Review & Guide 2026
 metaDescription: Legwork is an AI recruitment partner that streamlines talent tracking with pre-screening interviews and candidate scoring, saving time for your team to...
 simple: Legwork is an AI recruitment partner that streamlines talent tracking with pre-screening interviews and candidate scoring, saving time for your team to focus on quality hires.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Intervidy - AI Tool Review & Guide 2026
 metaDescription: Intervidy evaluates CVs against job specs, scoring strengths and gaps.
 simple: Intervidy evaluates CVs against job specs, scoring strengths and gaps.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: recruitRyte - AI Tool Review & Guide 2026
 metaDescription: Recruitryte is an AI recruitment sourcing platform that enhances hiring with candidate matching, automated outreach, and job description analysis.
 simple: Recruitryte is an AI recruitment sourcing platform that enhances hiring with candidate matching, automated outreach, and job description analysis.

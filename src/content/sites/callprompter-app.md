@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: CallPrompter.app - AI Tool Review & Guide 2026
 metaDescription: CallPrompter.app is a real-time AI call coaching tool that provides reps with hidden, context-aware prompts and objection responses during live calls.
 simple: CallPrompter.app is a real-time AI call coaching tool that provides reps with hidden, context-aware prompts and objection responses during live calls.

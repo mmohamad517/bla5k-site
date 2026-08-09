@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Hirempire - AI Tool Review & Guide 2026
 metaDescription: Hirempire is an AI‑powered recruitment OS that unifies job postings, candidate tracking, and applicant management.
 simple: Hirempire is an AI‑powered recruitment OS that unifies job postings, candidate tracking, and applicant management.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Juphy 3.0 - AI Tool Review & Guide 2026
 metaDescription: Juphy is a 24/7 AI sales assistant for Shopify that automates product recommendations, answers FAQs, tracks orders, and manages Instagram Direct messages.
 simple: Juphy is a 24/7 AI sales assistant for Shopify that automates product recommendations, answers FAQs, tracks orders, and manages Instagram Direct messages.

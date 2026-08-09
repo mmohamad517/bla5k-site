@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Marlee - AI Tool Review & Guide 2026
 metaDescription: Marlee is an AI platform that measures up to 48 work motivations with high reliability, delivering insights that personalize communication, boost teamwork,...
 simple: Marlee is an AI platform that measures up to 48 work motivations with high reliability, delivering insights that personalize communication, boost teamwork, reduce conflict, and improve productivity.

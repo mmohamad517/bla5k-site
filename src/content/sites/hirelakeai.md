@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: HireLakeAI - AI Tool Review & Guide 2026
 metaDescription: HireLakeAI is an AI‑powered recruitment platform that parses resumes, matches candidates to job descriptions, scores communication skills, and outputs...
 simple: HireLakeAI is an AI‑powered recruitment platform that parses resumes, matches candidates to job descriptions, scores communication skills, and outputs structured lists with standardized formatting.

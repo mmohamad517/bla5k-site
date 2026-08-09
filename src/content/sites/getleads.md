@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: GetLeads - AI Tool Review & Guide 2026
 metaDescription: GetLeads is an AI‑driven platform that delivers real‑time, verified decision‑maker contacts using advanced filters and social media searches.
 simple: GetLeads is an AI‑driven platform that delivers real‑time, verified decision‑maker contacts using advanced filters and social media searches.

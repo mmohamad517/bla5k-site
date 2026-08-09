@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Radical Human Intelligence™ - AI Tool Review & Guide 2026
 metaDescription: Radical Human Intelligence™ is an AI tool that employs a 3 R methodology (empathy, vulnerability, authentic investment) to enhance stakeholder connections...
 simple: Radical Human Intelligence™ is an AI tool that employs a 3 R methodology (empathy, vulnerability, authentic investment) to enhance stakeholder connections for businesses.

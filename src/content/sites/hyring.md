@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Hyring - AI Tool Review & Guide 2026
 metaDescription: Hyring is an AI recruiting software that enhances the hiring process with features like video and phone interviews, resume screening, and live coding...
 simple: Hyring is an AI recruiting software that enhances the hiring process with features like video and phone interviews, resume screening, and live coding assessments, streamlining candidate evaluation and improving recruitment efficiency for employers and job seekers.

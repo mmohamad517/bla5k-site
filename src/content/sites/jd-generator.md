@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: JD Generator - AI Tool Review & Guide 2026
 metaDescription: HireQuotient uses AI to generate full, industry‑aligned job descriptions in seconds, offering editable templates, keyword analysis, DEI‑optimized language,...
 simple: HireQuotient uses AI to generate full, industry‑aligned job descriptions in seconds, offering editable templates, keyword analysis, DEI‑optimized language, and HR system integrations to streamline posting and enhance consistency for recruiters.

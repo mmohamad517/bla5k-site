@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: SourceGeek - AI Tool Review & Guide 2026
 metaDescription: SourceGeek is an AI-driven LinkedIn automation tool that streamlines candidate sourcing and engagement, automates outreach, and tracks interactions,...
 simple: SourceGeek is an AI-driven LinkedIn automation tool that streamlines candidate sourcing and engagement, automates outreach, and tracks interactions, enhancing recruitment efficiency while integrating seamlessly with popular CRM applications for improved workflow connectivity.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Endgame 2.0 - AI Tool Review & Guide 2026
 metaDescription: Endgame is an AI tool for sales professionals that streamlines account research and planning by aggregating data from multiple sources.
 simple: Endgame is an AI tool for sales professionals that streamlines account research and planning by aggregating data from multiple sources.

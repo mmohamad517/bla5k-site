@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: hiroscope.ai - AI Tool Review & Guide 2026
 metaDescription: Hioscope.ai automates video interview screening, parsing job keywords, matching resumes, and scoring skills and personality.
 simple: Hioscope.ai automates video interview screening, parsing job keywords, matching resumes, and scoring skills and personality.

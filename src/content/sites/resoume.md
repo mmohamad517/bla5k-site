@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Resoume - AI Tool Review & Guide 2026
 metaDescription: Resoum is an AI-powered resume builder tool with features like multiple templates, language support, custom domain solutions, CV score, AI assistance,...
 simple: Resoum is an AI-powered resume builder tool with features like multiple templates, language support, custom domain solutions, CV score, AI assistance, LinkedIn import, remote job curation, and a free account option for job seekers.

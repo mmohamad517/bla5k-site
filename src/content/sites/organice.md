@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: OrgaNice - AI Tool Review & Guide 2026
 metaDescription: OrgaNice is an AI‑powered Slack‑first platform that automatically builds and updates org charts, tracks milestones, manages PTO and remote work requests,...
 simple: OrgaNice is an AI‑powered Slack‑first platform that automatically builds and updates org charts, tracks milestones, manages PTO and remote work requests, delivers value‑aligned kudos, and offers quick AI‑insight surveys—all within Slack.

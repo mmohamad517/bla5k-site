@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AI for Sheets by Cargo - AI Tool Review & Guide 2026
 metaDescription: Cargo is an AI-powered Google Workspace add-on that assists in writing sales emails, follow-ups, Google Ad copy, and blog posts at scale using pre-built...
 simple: Cargo is an AI-powered Google Workspace add-on that assists in writing sales emails, follow-ups, Google Ad copy, and blog posts at scale using pre-built templates.

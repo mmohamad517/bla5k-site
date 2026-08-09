@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Nexa - AI Tool Review & Guide 2026
 metaDescription: Nexa AI delivers an end‑to‑end workforce platform with AI career advisors for learners and recruiter agents for enterprises.
 simple: Nexa AI delivers an end‑to‑end workforce platform with AI career advisors for learners and recruiter agents for enterprises.

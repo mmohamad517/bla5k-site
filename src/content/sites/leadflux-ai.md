@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: LeadFlux AI - AI Tool Review & Guide 2026
 metaDescription: LeadFlux AI is an automated lead generation platform that builds targeted campaigns from ICP to outreach.
 simple: LeadFlux AI is an automated lead generation platform that builds targeted campaigns from ICP to outreach.

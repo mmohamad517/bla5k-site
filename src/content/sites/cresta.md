@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Cresta - AI Tool Review & Guide 2026
 metaDescription: Cresta is a generative‑AI platform for contact centers that gives agents real‑time guidance, contextual suggestions, and translation across voice, chat, and...
 simple: Cresta is a generative‑AI platform for contact centers that gives agents real‑time guidance, contextual suggestions, and translation across voice, chat, and email.

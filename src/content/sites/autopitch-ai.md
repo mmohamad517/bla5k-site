@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AutoPitch.ai - AI Tool Review & Guide 2026
 metaDescription: AutoPitch automates account research from multiple data sources, producing detailed prospect profiles, fit analyses, and role‑specific outreach emails.
 simple: AutoPitch automates account research from multiple data sources, producing detailed prospect profiles, fit analyses, and role‑specific outreach emails.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Smplhr - AI Tool Review & Guide 2026
 metaDescription: SmplHR is an AI-driven HR platform that simplifies recruitment by matching employers with pre-vetted Southeast Asian talent.
 simple: SmplHR is an AI-driven HR platform that simplifies recruitment by matching employers with pre-vetted Southeast Asian talent.

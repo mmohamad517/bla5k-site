@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Amplemarket - AI Tool Review & Guide 2026
 metaDescription: Amplemarket uses AI to generate high‑quality leads, analyze intent signals and competitive data, and create personalized multichannel outreach.
 simple: Amplemarket uses AI to generate high‑quality leads, analyze intent signals and competitive data, and create personalized multichannel outreach.

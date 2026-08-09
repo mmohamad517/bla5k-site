@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Clevenio - AI Tool Review & Guide 2026
 metaDescription: Clevenio is a B2B sales intelligence platform offering multi‑channel outreach, automated follow‑ups, and pipeline management.
 simple: Clevenio is a B2B sales intelligence platform offering multi‑channel outreach, automated follow‑ups, and pipeline management.

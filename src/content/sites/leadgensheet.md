@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: LeadGenSheet - AI Tool Review & Guide 2026
 metaDescription: CapGo.AI is a Google Sheets add‑on that centralizes lead generation, enrichment, email automation, web searches, PDF data extraction, and contact verification.
 simple: CapGo.AI is a Google Sheets add‑on that centralizes lead generation, enrichment, email automation, web searches, PDF data extraction, and contact verification.

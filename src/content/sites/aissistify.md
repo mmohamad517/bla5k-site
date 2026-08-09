@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AIssistify - AI Tool Review & Guide 2026
 metaDescription: AIssistify automates SEO, paid‑search, and social‑media content creation.
 simple: AIssistify automates SEO, paid‑search, and social‑media content creation.

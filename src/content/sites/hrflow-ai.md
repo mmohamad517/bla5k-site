@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: hrflow.ai - AI Tool Review & Guide 2026
 metaDescription: HrFlow.ai is an API‑first platform that consolidates talent data, uses AI modules (parsing, tagging, embedding, searching, scoring, upskilling) to turn HR...
 simple: HrFlow.ai is an API‑first platform that consolidates talent data, uses AI modules (parsing, tagging, embedding, searching, scoring, upskilling) to turn HR documents into structured insights, and offers 200+ connectors, real‑time webhooks, and SDKs for quick integration.

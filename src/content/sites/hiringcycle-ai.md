@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: hiringcycle.ai - AI Tool Review & Guide 2026
 metaDescription: HiringCycle.ai automates video interview scheduling, screens hundreds of candidates simultaneously, and provides real‑time scoring and analytics.
 simple: HiringCycle.ai automates video interview scheduling, screens hundreds of candidates simultaneously, and provides real‑time scoring and analytics.

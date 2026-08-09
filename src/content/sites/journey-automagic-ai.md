@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Journey Automagic AI - AI Tool Review & Guide 2026
 metaDescription: Journey consolidates PDFs, spreadsheets, presentations, videos, and cloud links into a single web page for easy outbound communication.
 simple: Journey consolidates PDFs, spreadsheets, presentations, videos, and cloud links into a single web page for easy outbound communication.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Potis.ai - AI Tool Review & Guide 2026
 metaDescription: Potis.AI automates video screening, behavioral interviews, and delivers heat‑map analytics with a unified scoring system to streamline talent acquisition.
 simple: Potis.AI automates video screening, behavioral interviews, and delivers heat‑map analytics with a unified scoring system to streamline talent acquisition.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Sourcio - AI Tool Review & Guide 2026
 metaDescription: Sourcio AI Hiring Agent is an automates talent sourcing by suggesting top candidates based on interests and experiences, integrating with ATS platforms for...
 simple: "Sourcio AI Hiring Agent is an automates talent sourcing by suggesting top candidates based on interests and experiences, integrating with ATS platforms for streamlined sourcing, saving time and effort while vetting over 5,0..Description in 2 lines: Sourcio AI tool automates talent sourcing by identifying top candidates through their interests and experiences, seamlessly integrating with ATS platforms to streamline the hiring process."

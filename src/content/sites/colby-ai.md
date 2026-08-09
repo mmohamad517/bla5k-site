@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Colby AI - AI Tool Review & Guide 2026
 metaDescription: Colby AI is a voice-powered Salesforce assistant that automates CRM updates, notes, and lead research via real-time web searches.
 simple: Colby AI is a voice-powered Salesforce assistant that automates CRM updates, notes, and lead research via real-time web searches.

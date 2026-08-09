@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ExactBuyer Search - AI Tool Review & Guide 2026
 metaDescription: ExactBuyer enriches CRM contacts with 115+ attributes, offering AI‑generated next‑best actions, real‑time audience segmentation, talent discovery, and...
 simple: ExactBuyer enriches CRM contacts with 115+ attributes, offering AI‑generated next‑best actions, real‑time audience segmentation, talent discovery, and analytics dashboards.

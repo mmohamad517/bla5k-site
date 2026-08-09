@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AiSDR - AI Tool Review & Guide 2026
 metaDescription: AiSDR automates outbound prospecting, lead research, and personalized outreach across email, phone, and LinkedIn using intent‑first targeting and live AI...
 simple: AiSDR automates outbound prospecting, lead research, and personalized outreach across email, phone, and LinkedIn using intent‑first targeting and live AI search.

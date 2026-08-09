@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Moveworks - AI Tool Review & Guide 2026
 metaDescription: Moveworks unifies search and action across enterprise apps, delivering end‑to‑end task automation for HR, IT, finance, and more.
 simple: Moveworks unifies search and action across enterprise apps, delivering end‑to‑end task automation for HR, IT, finance, and more.

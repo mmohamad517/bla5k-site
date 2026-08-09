@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Ciro - AI Tool Review & Guide 2026
 metaDescription: Ciro is an AI tool that automates prospecting for sales teams by generating detailed prospect lists from a database of over 500 million contacts.
 simple: Ciro is an AI tool that automates prospecting for sales teams by generating detailed prospect lists from a database of over 500 million contacts.

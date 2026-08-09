@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Octopyd - AI Tool Review & Guide 2026
 metaDescription: Octopyd is an AI-driven recruitment platform that automates sourcing and candidate evaluation with AI agents Levi and Ivy.
 simple: Octopyd is an AI-driven recruitment platform that automates sourcing and candidate evaluation with AI agents Levi and Ivy.

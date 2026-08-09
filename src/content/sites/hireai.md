@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: HireAI - AI Tool Review & Guide 2026
 metaDescription: Arc gives instant access to 450,000 professionals across 190 countries, with hiring timelines of 72 hours for freelance and up to 14 days for full‑time roles.
 simple: Arc gives instant access to 450,000 professionals across 190 countries, with hiring timelines of 72 hours for freelance and up to 14 days for full‑time roles.

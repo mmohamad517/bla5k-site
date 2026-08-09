@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Hire Hoc - AI Tool Review & Guide 2026
 metaDescription: Hire Hoc automates hiring by generating job descriptions, shortlisting candidates, and delivering one‑way video assessments.
 simple: Hire Hoc automates hiring by generating job descriptions, shortlisting candidates, and delivering one‑way video assessments.

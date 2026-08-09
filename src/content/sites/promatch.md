@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ProMatch - AI Tool Review & Guide 2026
 metaDescription: Promatch is an AI talent sourcing solution that simplifies hiring in blue-collar and gray-collar sectors.
 simple: Promatch is an AI talent sourcing solution that simplifies hiring in blue-collar and gray-collar sectors.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: MTestHub - AI Tool Review & Guide 2026
 metaDescription: mtesthub is a recruitment platform that automates assessments and screening, offering tailored exams based on roles.
 simple: mtesthub is a recruitment platform that automates assessments and screening, offering tailored exams based on roles.

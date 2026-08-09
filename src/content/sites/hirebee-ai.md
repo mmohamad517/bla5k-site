@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Hirebee.ai - AI Tool Review & Guide 2026
 metaDescription: Hirebee is an applicant tracking system that automates recruitment workflows, distributes openings to 3,000+ global job boards, and integrates candidate...
 simple: Hirebee is an applicant tracking system that automates recruitment workflows, distributes openings to 3,000+ global job boards, and integrates candidate sourcing.

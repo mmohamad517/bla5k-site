@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: FirstQuadrant - AI Tool Review & Guide 2026
 metaDescription: FirstQuadrant is an AI-driven sales execution platform that streamlines B2B sales processes by managing pipelines, optimizing relationships, and automating...
 simple: FirstQuadrant is an AI-driven sales execution platform that streamlines B2B sales processes by managing pipelines, optimizing relationships, and automating tasks like email campaigns, while analyzing conversations to suggest next-best actions for effective opportunity conversion.

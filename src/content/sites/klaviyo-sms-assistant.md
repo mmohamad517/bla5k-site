@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Klaviyo SMS Assistant - AI Tool Review & Guide 2026
 metaDescription: SMS Assist is a new feature within the Klaviyo platform that generates compliant SMS copy using AI and provides three message options to pre-established...
 simple: SMS Assist is a new feature within the Klaviyo platform that generates compliant SMS copy using AI and provides three message options to pre-established target audiences.

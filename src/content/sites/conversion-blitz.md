@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Conversion Blitz - AI Tool Review & Guide 2026
 metaDescription: Conversion Blitz uses AI to extract and filter contact data from websites and social networks by job title, location, industry, and company size.
 simple: Conversion Blitz uses AI to extract and filter contact data from websites and social networks by job title, location, industry, and company size.

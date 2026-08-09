@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Peoplexbot - AI Tool Review & Guide 2026
 metaDescription: PeoplexBot offers AI‑driven HR consulting for small companies, building policy frameworks, onboarding, performance and compensation plans.
 simple: PeoplexBot offers AI‑driven HR consulting for small companies, building policy frameworks, onboarding, performance and compensation plans.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Perfect - AI Tool Review & Guide 2026
 metaDescription: Perfect is an AI recruitment tool that improves candidate engagement through advanced search capabilities, predictive analytics for career shifts, and...
 simple: Perfect is an AI recruitment tool that improves candidate engagement through advanced search capabilities, predictive analytics for career shifts, and automated customizable outreach.

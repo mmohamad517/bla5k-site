@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Dhisana AI - AI Tool Review & Guide 2026
 metaDescription: Dhisana AI is a comprehensive autonomous sales engine that automates the entire sales process from account discovery to pipeline acceleration.
 simple: Dhisana AI is a comprehensive autonomous sales engine that automates the entire sales process from account discovery to pipeline acceleration.

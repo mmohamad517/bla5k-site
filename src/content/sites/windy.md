@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Windy - AI Tool Review & Guide 2026
 metaDescription: Windmill is an AI-driven performance review tool that streamlines performance management through real-time feedback, automated agendas, custom surveys, and...
 simple: Windmill is an AI-driven performance review tool that streamlines performance management through real-time feedback, automated agendas, custom surveys, and bias reduction, enabling faster reviews and improved employee engagement and satisfaction.

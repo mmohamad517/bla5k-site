@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: HireTechies - AI Tool Review & Guide 2026
 metaDescription: HireTechies centralizes IT hiring with an AI applicant tracking system that automates resume screening and candidate matching, schedules interviews,...
 simple: HireTechies centralizes IT hiring with an AI applicant tracking system that automates resume screening and candidate matching, schedules interviews, enforces role-based permissions, automates pipelines and communications, provides recruitment analytics, integrations, and encrypted data storage.

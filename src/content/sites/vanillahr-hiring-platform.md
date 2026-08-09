@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: VanillaHR Hiring Platform - AI Tool Review & Guide 2026
 metaDescription: VanillaHR is an AI‑driven applicant tracking system that automates resume screening, candidate matching, and video interviews.
 simple: VanillaHR is an AI‑driven applicant tracking system that automates resume screening, candidate matching, and video interviews.

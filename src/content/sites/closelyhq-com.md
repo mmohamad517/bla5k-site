@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Closelyhq.com - AI Tool Review & Guide 2026
 metaDescription: Closely automates LinkedIn and email outreach, generating personalized messages and consolidating replies in a unified inbox.
 simple: Closely automates LinkedIn and email outreach, generating personalized messages and consolidating replies in a unified inbox.
