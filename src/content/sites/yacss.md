@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: YACSS - AI Tool Review & Guide 2026
 metaDescription: YACSS automatically generates static HTML sites from a keyword, integrates with major cloud hosts for backlinking, builds up to 500 pages per site, supports...
 simple: YACSS automatically generates static HTML sites from a keyword, integrates with major cloud hosts for backlinking, builds up to 500 pages per site, supports tiered link structures, on‑page SEO, sitemaps, schema, and local content generation.

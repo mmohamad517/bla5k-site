@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: SDXL emoji - AI Tool Review & Guide 2026
 metaDescription: The fofr/sdxl-emoji AI tool is an API that generates images based on Apple emojis with various features and a fast runtime of 15.18 seconds.
 simple: The fofr/sdxl-emoji AI tool is an API that generates images based on Apple emojis with various features and a fast runtime of 15.18 seconds.

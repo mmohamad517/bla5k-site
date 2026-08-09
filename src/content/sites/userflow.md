@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Userflow - AI Tool Review & Guide 2026
 metaDescription: Userflow is an AI-powered product adoption and onboarding platform that auto-creates editable in-app tours, checklists, banners and announcements, offers an...
 simple: Userflow is an AI-powered product adoption and onboarding platform that auto-creates editable in-app tours, checklists, banners and announcements, offers an AI assistant and surveys for support/feedback, localization tools, analytics/CRM integrations, and no-code builders.

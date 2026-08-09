@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Atria - AI Tool Review & Guide 2026
 metaDescription: Atria is an AI platform for agencies and brand teams that generates ad scripts and tailored copy from briefs, provides customizable Canva templates, indexes...
 simple: Atria is an AI platform for agencies and brand teams that generates ad scripts and tailored copy from briefs, provides customizable Canva templates, indexes 25M Meta/TikTok ads for trend research, and centralizes assets, analytics, and collaboration.

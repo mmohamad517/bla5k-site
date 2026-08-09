@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AI Email Generator - AI Tool Review & Guide 2026
 metaDescription: Emailor generates structured email drafts from a brief intent, audience context, and desired action in seconds.
 simple: Emailor generates structured email drafts from a brief intent, audience context, and desired action in seconds.

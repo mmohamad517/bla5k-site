@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: SEO.ING - AI Tool Review & Guide 2026
 metaDescription: seo.ing is an AI-powered writing tool that uses multiple autonomous agents to generate SEO-optimized articles.
 simple: seo.ing is an AI-powered writing tool that uses multiple autonomous agents to generate SEO-optimized articles.

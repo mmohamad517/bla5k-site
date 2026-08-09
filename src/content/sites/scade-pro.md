@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Scade.pro - AI Tool Review & Guide 2026
 metaDescription: Scade.pro lets teams create AI‑powered content creators with a visual builder, no‑code workflows, and access to 1,500+ models (GPT, Claude, etc.).
 simple: Scade.pro lets teams create AI‑powered content creators with a visual builder, no‑code workflows, and access to 1,500+ models (GPT, Claude, etc.).

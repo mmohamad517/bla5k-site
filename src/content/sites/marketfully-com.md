@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: marketfully.com - AI Tool Review & Guide 2026
 metaDescription: marketfully.com is a multilingual content marketing and localization platform that uses adaptive AI and human editors to create, translate, and adapt...
 simple: marketfully.com is a multilingual content marketing and localization platform that uses adaptive AI and human editors to create, translate, and adapt SEO-focused content for global markets.

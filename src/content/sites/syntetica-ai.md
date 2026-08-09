@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Syntetica.ai - AI Tool Review & Guide 2026
 metaDescription: Syntetica is a no-code generative AI platform that lets users create and automate content workflows, from converting files to PowerPoint to generating...
 simple: Syntetica is a no-code generative AI platform that lets users create and automate content workflows, from converting files to PowerPoint to generating curricula, contracts, and templates, while maintaining formatting consistency across documents.

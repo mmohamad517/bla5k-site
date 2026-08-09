@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: lET-Editalent - AI Tool Review & Guide 2026
 metaDescription: LET-Editalent is an AI suite that assists journalists and content teams with SEO optimization, editorial research, and multi-platform formatting.
 simple: LET-Editalent is an AI suite that assists journalists and content teams with SEO optimization, editorial research, and multi-platform formatting.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ArtiScribe AI - AI Tool Review & Guide 2026
 metaDescription: ArtiScribe AI assists artists in drafting Instagram/Facebook captions, email subject lines, and optimized hashtags through a guided workflow.
 simple: ArtiScribe AI assists artists in drafting Instagram/Facebook captions, email subject lines, and optimized hashtags through a guided workflow.

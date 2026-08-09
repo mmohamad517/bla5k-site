@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: SmilesFlow - AI Tool Review & Guide 2026
 metaDescription: SmilesFlow is an interactive content creation platform that enables users to embed customizable games in blogs and social media.
 simple: SmilesFlow is an interactive content creation platform that enables users to embed customizable games in blogs and social media.

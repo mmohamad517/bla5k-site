@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Sadako - AI Tool Review & Guide 2026
 metaDescription: Sadako automates multilingual content creation—articles, product descriptions, social posts, and emails—using pre‑built or custom templates.
 simple: Sadako automates multilingual content creation—articles, product descriptions, social posts, and emails—using pre‑built or custom templates.

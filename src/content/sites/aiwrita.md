@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Aiwrita - AI Tool Review & Guide 2026
 metaDescription: AI Writa is a free AI copywriting assistant that generates unique marketing content quickly using customizable templates.
 simple: AI Writa is a free AI copywriting assistant that generates unique marketing content quickly using customizable templates.

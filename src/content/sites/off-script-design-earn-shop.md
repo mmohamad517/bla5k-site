@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: "Off/Script: Design, Earn, Shop - AI Tool Review & Guide 2026"
 metaDescription: off/script is a community-led product creation platform enabling users to bring their product ideas to life for free.
 simple: off/script is a community-led product creation platform enabling users to bring their product ideas to life for free.

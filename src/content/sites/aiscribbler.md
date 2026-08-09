@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AiScribbler - AI Tool Review & Guide 2026
 metaDescription: Lennart Process Instrumentation and Automation Systems supplies instrumentation and automation solutions for oil & gas, petrochemicals, utilities, metals,...
 simple: Lennart Process Instrumentation and Automation Systems supplies instrumentation and automation solutions for oil & gas, petrochemicals, utilities, metals, automotive, power, and water industries.

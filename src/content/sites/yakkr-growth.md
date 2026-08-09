@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Yakkr Growth - AI Tool Review & Guide 2026
 metaDescription: "Yakkr Growth offers streamers an integrated AI hub: copilot‑generated prompts, live analytics, video and art creation tools, collaborative Discord..."
 simple: "Yakkr Growth offers streamers an integrated AI hub: copilot‑generated prompts, live analytics, video and art creation tools, collaborative Discord networking, and a growth academy."

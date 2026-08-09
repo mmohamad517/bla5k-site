@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Regem AI Platform - AI Tool Review & Guide 2026
 metaDescription: The Regem AI Platform 1.0 is an all-inclusive content creation tool featuring Pro Writer, Pro Image, and Pro Email Writer for smooth content generation.
 simple: The Regem AI Platform 1.0 is an all-inclusive content creation tool featuring Pro Writer, Pro Image, and Pro Email Writer for smooth content generation.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Writetic - AI Tool Review & Guide 2026
 metaDescription: Writetic is an AI content workspace that centralizes creation, storage, and collaboration for marketers and writers, offering AI templates, custom...
 simple: Writetic is an AI content workspace that centralizes creation, storage, and collaboration for marketers and writers, offering AI templates, custom templates, SEO tools, media and voice assets, team access controls, analytics, and integrations for direct publishing.

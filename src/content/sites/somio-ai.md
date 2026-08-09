@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Somio.ai - AI Tool Review & Guide 2026
 metaDescription: Somio AI is a browser-based karaoke maker that instantly removes vocals and splits stems (drums, bass, piano, guitar) from any audio file, allowing users to...
 simple: Somio AI is a browser-based karaoke maker that instantly removes vocals and splits stems (drums, bass, piano, guitar) from any audio file, allowing users to adjust pitch, tempo, and trim tracks for ready-to-sing practice or content creation.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Muset.ai - AI Tool Review & Guide 2026
 metaDescription: Muset.ai is an AI writing tool that generates cohesive content like newsletters and scripts by reading your notes and assets.
 simple: Muset.ai is an AI writing tool that generates cohesive content like newsletters and scripts by reading your notes and assets.

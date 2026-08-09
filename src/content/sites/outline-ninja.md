@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Outline Ninja - AI Tool Review & Guide 2026
 metaDescription: AI Infographic Generator turns keywords or full articles into ready‑to‑publish infographics using a library of templates and customizable icons.
 simple: AI Infographic Generator turns keywords or full articles into ready‑to‑publish infographics using a library of templates and customizable icons.

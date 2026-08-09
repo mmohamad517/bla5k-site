@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: themartec.com - AI Tool Review & Guide 2026
 metaDescription: themartec.com is an AI-powered talent marketing platform that centralizes employee advocacy and content creation.
 simple: themartec.com is an AI-powered talent marketing platform that centralizes employee advocacy and content creation.

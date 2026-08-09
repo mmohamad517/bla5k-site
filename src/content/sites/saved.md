@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Saved - AI Tool Review & Guide 2026
 metaDescription: Saved is an AI clipper for streamers that automatically detects and edits highlights from live streams, facilitating quick uploads to platforms like YouTube...
 simple: Saved is an AI clipper for streamers that automatically detects and edits highlights from live streams, facilitating quick uploads to platforms like YouTube and Twitch while allowing users to customize highlights for enhanced viewer engagement.

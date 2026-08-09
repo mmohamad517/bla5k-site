@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: CopyCop - AI Tool Review & Guide 2026
 metaDescription: Copycop AI automatically generates Facebook ad copy that complies with current policy rules.
 simple: Copycop AI automatically generates Facebook ad copy that complies with current policy rules.

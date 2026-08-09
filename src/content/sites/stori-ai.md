@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: STORI AI - AI Tool Review & Guide 2026
 metaDescription: STORI automates end‑to‑end go‑to‑market planning and content creation.
 simple: STORI automates end‑to‑end go‑to‑market planning and content creation.

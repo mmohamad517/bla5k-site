@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Prompt.fun - AI Tool Review & Guide 2026
 metaDescription: Prompt.fun is a collaborative platform that connects users with expert prompt engineers, facilitating real-time feedback and file sharing to enhance the...
 simple: Prompt.fun is a collaborative platform that connects users with expert prompt engineers, facilitating real-time feedback and file sharing to enhance the creation of effective AI prompts, suitable for all experience levels.

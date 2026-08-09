@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Voxxio - AI Tool Review & Guide 2026
 metaDescription: Voxxio is an AI tool that converts spoken concepts into visual storyboards, simplifying and accelerating storytelling creation for diverse creative...
 simple: Voxxio is an AI tool that converts spoken concepts into visual storyboards, simplifying and accelerating storytelling creation for diverse creative professionals.
