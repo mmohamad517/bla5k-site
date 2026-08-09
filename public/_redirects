@@ -41,7 +41,8 @@
 /tools/antigravity-google*        /tools/google-antigravity/    301
 /tools/shortmake-ai*        /tools/shortmake/    301
 /tools/astra-health-ai*        /tools/astra-health/    301
-/tools/atlas*        /tools/atlas-ai/    301
+/tools/atlas/        /tools/atlas-ai/    301
+/tools/atlas         /tools/atlas-ai/    301
 /tools/auto-draw*        /tools/autodraw/    301
 /tools/beststock-ai*        /tools/beststock/    301
 /tools/bland-ai*        /tools/blandai/    301
@@ -52,7 +53,8 @@
 /tools/dedaluslabs-ai*        /tools/dedalus-labs/    301
 /tools/deepseek-com*        /tools/deepseek/    301
 /tools/dreamona*        /tools/dreamlux/    301
-/tools/essayflow*        /tools/essayflow-ai/    301
+/tools/essayflow/        /tools/essayflow-ai/    301
+/tools/essayflow         /tools/essayflow-ai/    301
 /tools/essaywriter-io*        /tools/essaywriter/    301
 /tools/excelmaster-ai*        /tools/excel-master/    301
 /tools/extracta-ai*        /tools/extracta/    301
@@ -62,7 +64,8 @@
 /tools/flowcraft-ai-diagrams-whiteboard*        /tools/flowcraft/    301
 /tools/gauthmath*        /tools/gauth/    301
 /tools/giftron-personalized-gift-finder*        /tools/giftron/    301
-/tools/gizmo*        /tools/gizmo-ai/    301
+/tools/gizmo/        /tools/gizmo-ai/    301
+/tools/gizmo         /tools/gizmo-ai/    301
 /tools/grok-ai-assistant*        /tools/grok/    301
 /tools/heatseeker-ai*        /tools/heatseeker/    301
 /tools/heights-platform*        /tools/heights/    301
@@ -84,7 +87,8 @@
 /tools/palmier-ai*        /tools/palmier/    301
 /tools/patterned-ai*        /tools/patternai/    301
 /tools/pdftranslator-org*        /tools/pdf-translator/    301
-/tools/peony*        /tools/peony-ink/    301
+/tools/peony/        /tools/peony-ink/    301
+/tools/peony         /tools/peony-ink/    301
 /tools/qr-code-ai*        /tools/qrcode-ai/    301
 /tools/quizlet-ai*        /tools/quizlet/    301
 /tools/reassurance-ai-beta*        /tools/reassurance/    301
@@ -94,7 +98,8 @@
 /tools/rewriterpro*        /tools/ai-rewriter/    301
 /tools/runable-com*        /tools/runable/    301
 /tools/runwayml*        /tools/runway/    301
-/tools/sider*        /tools/sider-ai/    301
+/tools/sider/        /tools/sider-ai/    301
+/tools/sider         /tools/sider-ai/    301
 /tools/sai-simular-ai*        /tools/simular-ai/    301
 /tools/slides-orator*        /tools/slidesorator/    301
 /tools/social-magic-ai*        /tools/social-magic/    301
@@ -102,7 +107,8 @@
 /tools/stock-photo-ai*        /tools/stockphotoai/    301
 /tools/studentai-app*        /tools/student-ai/    301
 /tools/summaletter-ai-newsletter-summarizer*        /tools/summaletter/    301
-/tools/suno*        /tools/suno-ai/    301
+/tools/suno/        /tools/suno-ai/    301
+/tools/suno         /tools/suno-ai/    301
 /tools/swms-ai*        /tools/swms/    301
 /tools/text-to-3d-model*        /tools/textto3d/    301
 /tools/the-drive*        /tools/thedrive-ai/    301
