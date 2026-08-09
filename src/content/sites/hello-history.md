@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Hello History - AI Tool Review & Guide 2026
 metaDescription: Hello History is an AI-powered chat platform that lets users converse with historical figures such as Cleopatra, Einstein, and Buddha.
 simple: Hello History is an AI-powered chat platform that lets users converse with historical figures such as Cleopatra, Einstein, and Buddha.

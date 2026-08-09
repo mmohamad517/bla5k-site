@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: onSpark - AI Tool Review & Guide 2026
 metaDescription: OnSpark is an AI partnership platform that matches founders, creators, and brands with ideal collaborators using voice-guided intake and smart scoring.
 simple: OnSpark is an AI partnership platform that matches founders, creators, and brands with ideal collaborators using voice-guided intake and smart scoring.

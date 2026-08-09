@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Libraria - AI Tool Review & Guide 2026
 metaDescription: Libraria is an AI chatbot platform for businesses, facilitating personalized customer interactions through natural language processing.
 simple: Libraria is an AI chatbot platform for businesses, facilitating personalized customer interactions through natural language processing.

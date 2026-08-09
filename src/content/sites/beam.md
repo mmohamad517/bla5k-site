@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Beam - AI Tool Review & Guide 2026
 metaDescription: Beam is a lightweight native macOS app that offers a sandboxed ChatGPT interface via a single hotkey.
 simple: Beam is a lightweight native macOS app that offers a sandboxed ChatGPT interface via a single hotkey.

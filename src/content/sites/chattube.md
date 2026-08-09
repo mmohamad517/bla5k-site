@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ChatTube - AI Tool Review & Guide 2026
 metaDescription: ChatTube lets users converse in real‑time with any YouTube video, asking questions, summarizing content, locating key moments, translating, and generating...
 simple: ChatTube lets users converse in real‑time with any YouTube video, asking questions, summarizing content, locating key moments, translating, and generating transcripts.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: DHTMLX Chatbot - AI Tool Review & Guide 2026
 metaDescription: DHTMLX AI Chatbot UI Widget is a lightweight, 65 KB JavaScript component for embedding AI chat interfaces.
 simple: DHTMLX AI Chatbot UI Widget is a lightweight, 65 KB JavaScript component for embedding AI chat interfaces.

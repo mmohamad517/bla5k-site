@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Botjet - AI Tool Review & Guide 2026
 metaDescription: Botjet is a conversational AI platform offering 360° support across web, mobile, IoT, and touchpoints.
 simple: Botjet is a conversational AI platform offering 360° support across web, mobile, IoT, and touchpoints.

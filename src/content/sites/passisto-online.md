@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Passisto Online - AI Tool Review & Guide 2026
 metaDescription: Passisto is an AI-driven chatbot that enhances user engagement on websites through real-time, human-like interactions.
 simple: Passisto is an AI-driven chatbot that enhances user engagement on websites through real-time, human-like interactions.

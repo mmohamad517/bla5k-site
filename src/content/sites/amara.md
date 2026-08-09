@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: amara - AI Tool Review & Guide 2026
 metaDescription: Amara automates product sales and appointment booking on WhatsApp for salons, spas, and barbershops.
 simple: Amara automates product sales and appointment booking on WhatsApp for salons, spas, and barbershops.

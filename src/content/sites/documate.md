@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Documate - AI Tool Review & Guide 2026
 metaDescription: Documate is an open-source AI tool that helps make documentation sites more intelligent by providing quick answers to user questions based on site content.
 simple: Documate is an open-source AI tool that helps make documentation sites more intelligent by providing quick answers to user questions based on site content.

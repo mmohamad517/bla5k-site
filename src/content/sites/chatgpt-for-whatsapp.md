@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ChatGPT for WhatsApp - AI Tool Review & Guide 2026
 metaDescription: Agent for WhatsApp is a Chrome extension that adds AI‑powered conversation management to WhatsApp Web.
 simple: Agent for WhatsApp is a Chrome extension that adds AI‑powered conversation management to WhatsApp Web.

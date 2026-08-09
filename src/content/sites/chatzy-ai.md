@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Chatzy AI - AI Tool Review & Guide 2026
 metaDescription: Chatzy AI is an API-first platform that automates customer conversations across WhatsApp, voice, and web while driving qualified leads from Meta ads and...
 simple: Chatzy AI is an API-first platform that automates customer conversations across WhatsApp, voice, and web while driving qualified leads from Meta ads and other campaigns.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Harpy Chat - AI Tool Review & Guide 2026
 metaDescription: Harpy.chat is a character-focused chat platform for role-playing, featuring diverse character options from various media.
 simple: Harpy.chat is a character-focused chat platform for role-playing, featuring diverse character options from various media.

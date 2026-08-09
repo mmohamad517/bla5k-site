@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Atomic Chat - AI Tool Review & Guide 2026
 metaDescription: Atomic Chat is a fully offline, on-device AI chat app for macOS, Windows, Linux, iOS, and Android that runs 1,000+ LLMs locally with built-in agent support,...
 simple: Atomic Chat is a fully offline, on-device AI chat app for macOS, Windows, Linux, iOS, and Android that runs 1,000+ LLMs locally with built-in agent support, persistent memory, and privacy-first design.

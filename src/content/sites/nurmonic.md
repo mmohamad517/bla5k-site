@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Nurmonic - AI Tool Review & Guide 2026
 metaDescription: Nurmonic is a Discord AI bot that supports long‑form text chats (over 1000 characters) and on‑demand image generation from prompts.
 simple: Nurmonic is a Discord AI bot that supports long‑form text chats (over 1000 characters) and on‑demand image generation from prompts.

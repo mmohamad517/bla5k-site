@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Council Chat - AI Tool Review & Guide 2026
 metaDescription: Council Chat is a multi-model AI platform that lets users run debates across models, aggregate votes, and synthesize consensus answers.
 simple: Council Chat is a multi-model AI platform that lets users run debates across models, aggregate votes, and synthesize consensus answers.

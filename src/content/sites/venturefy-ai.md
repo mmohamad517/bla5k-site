@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: venturefy AI - AI Tool Review & Guide 2026
 metaDescription: Venturefy uses AI to map corporate relationships, identifying shortest paths between target firms and decision makers.
 simple: Venturefy uses AI to map corporate relationships, identifying shortest paths between target firms and decision makers.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ChatBotKit - AI Tool Review & Guide 2026
 metaDescription: ChatBotKit is an AI agent platform enabling developers to create, test, and deploy autonomous agents for apps, websites, and messaging services.
 simple: ChatBotKit is an AI agent platform enabling developers to create, test, and deploy autonomous agents for apps, websites, and messaging services.

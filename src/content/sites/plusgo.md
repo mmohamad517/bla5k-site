@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: PlusGO - AI Tool Review & Guide 2026
 metaDescription: "Chinese-language guide for ChatGPT Plus recharge and usage: step-by-step payment and subscription management."
 simple: "Chinese-language guide for ChatGPT Plus recharge and usage: step-by-step payment and subscription management."

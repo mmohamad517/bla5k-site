@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: perk.com - AI Tool Review & Guide 2026
 metaDescription: Perk is an AI platform that consolidates corporate travel booking, expense management, and invoice processing into one interface, enabling self-booking,...
 simple: Perk is an AI platform that consolidates corporate travel booking, expense management, and invoice processing into one interface, enabling self-booking, mobile receipt capture, policy-based approvals, automated reconciliation, real-time spend dashboards, and HR/finance integrations.

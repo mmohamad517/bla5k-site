@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Peek AI - AI Tool Review & Guide 2026
 metaDescription: Peek is a macOS menu‑bar app that lets you access multiple AI chatbots—ChatGPT, Gemini, Claude, etc.—without API keys.
 simple: Peek is a macOS menu‑bar app that lets you access multiple AI chatbots—ChatGPT, Gemini, Claude, etc.—without API keys.

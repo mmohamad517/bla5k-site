@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Anantya.ai - AI Tool Review & Guide 2026
 metaDescription: Anantya.ai connects businesses to customers via the WhatsApp Business API, offering broadcast campaigns, automated order/payment notifications, live chat,...
 simple: Anantya.ai connects businesses to customers via the WhatsApp Business API, offering broadcast campaigns, automated order/payment notifications, live chat, AI‑driven support, click‑to‑WhatsApp ads, and integration with 100+ tools for catalog listings and analytics.

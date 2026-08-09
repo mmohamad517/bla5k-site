@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Albus - AI Tool Review & Guide 2026
 metaDescription: Albus is an AI-powered knowledge bot for Slack that streamlines internal communication, saves time, and provides valuable analytics by answering employees'...
 simple: Albus is an AI-powered knowledge bot for Slack that streamlines internal communication, saves time, and provides valuable analytics by answering employees' questions through personalized chatbots trained on company content from various sources.

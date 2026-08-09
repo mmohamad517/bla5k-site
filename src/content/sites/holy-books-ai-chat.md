@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Holy Books AI Chat - AI Tool Review & Guide 2026
 metaDescription: Holy Books AI Chat offers users a platform to explore the teachings of the Quran, Bible, and Torah.
 simple: Holy Books AI Chat offers users a platform to explore the teachings of the Quran, Bible, and Torah.

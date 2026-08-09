@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Coralflavor - AI Tool Review & Guide 2026
 metaDescription: coralflavor provides secure, unfiltered AI chat for adults with configurable conversation history (auto-save, disable, burn/delete), file uploads...
 simple: coralflavor provides secure, unfiltered AI chat for adults with configurable conversation history (auto-save, disable, burn/delete), file uploads (PNG/JPG/WEBP, PDF) with OCR/PDF text extraction, and optional live-source web search for document-aware workflows.

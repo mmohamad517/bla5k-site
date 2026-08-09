@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Memorr.ai - AI Tool Review & Guide 2026
 metaDescription: Memorr.AI is a Mac/Windows desktop app that preserves context across AI chats using a split-screen chat plus visual memory canvas, enabling branching...
 simple: Memorr.AI is a Mac/Windows desktop app that preserves context across AI chats using a split-screen chat plus visual memory canvas, enabling branching conversations, multi-model use, local storage, BYOK, and exportable memory for long-term workflows.

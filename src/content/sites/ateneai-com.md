@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ateneai.com - AI Tool Review & Guide 2026
 metaDescription: AteneAI monitors brand mentions, citations, and sentiment in AI responses across platforms like ChatGPT and Gemini.
 simple: AteneAI monitors brand mentions, citations, and sentiment in AI responses across platforms like ChatGPT and Gemini.

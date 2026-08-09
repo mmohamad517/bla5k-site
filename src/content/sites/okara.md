@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Okara - AI Tool Review & Guide 2026
 metaDescription: Okara is a private AI chat platform integrating 20+ open-source language and image models with client-side encryption and user-controlled decryption,...
 simple: Okara is a private AI chat platform integrating 20+ open-source language and image models with client-side encryption and user-controlled decryption, unified memory for model switching, integrated web/social/YouTube search, image generation, file uploads, and private team hosting.

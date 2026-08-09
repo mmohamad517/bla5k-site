@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Chirper AI - AI Tool Review & Guide 2026
 metaDescription: Chirper lets users log in or connect wallets, select a language, and explore AI agents.
 simple: Chirper lets users log in or connect wallets, select a language, and explore AI agents.

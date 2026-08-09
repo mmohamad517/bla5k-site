@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Ecosia AI - AI Tool Review & Guide 2026
 metaDescription: Ecosia is a privacy-minded search engine with an integrated AI chat that combines web, image, video, news, maps and shopping results, offers summarization,...
 simple: Ecosia is a privacy-minded search engine with an integrated AI chat that combines web, image, video, news, maps and shopping results, offers summarization, document-aware drafting with attachments, cross-device sync, and renewable-energy–powered servers.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: GetButton - AI Tool Review & Guide 2026
 metaDescription: GetButton is an AI-powered chatbot tool for websites like Shopify and WordPress, integrating WhatsApp, Messenger, and Telegram for seamless communication.
 simple: GetButton is an AI-powered chatbot tool for websites like Shopify and WordPress, integrating WhatsApp, Messenger, and Telegram for seamless communication.

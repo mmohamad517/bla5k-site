@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Ghola - AI Tool Review & Guide 2026
 metaDescription: Ghola lets users design and manage custom AI personas for introspection and development.
 simple: Ghola lets users design and manage custom AI personas for introspection and development.

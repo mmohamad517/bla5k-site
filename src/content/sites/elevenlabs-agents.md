@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Elevenlabs Agents - AI Tool Review & Guide 2026
 metaDescription: ElevenAgents is a platform for building and deploying multilingual AI voice and chat agents across channels like phone and web.
 simple: ElevenAgents is a platform for building and deploying multilingual AI voice and chat agents across channels like phone and web.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Ninjachat - AI Tool Review & Guide 2026
 metaDescription: NinjaChat consolidates dozens of large language models (GPT‑5, Claude, Gemini, etc.) into a single interface, offering text, image, and video creation, live...
 simple: NinjaChat consolidates dozens of large language models (GPT‑5, Claude, Gemini, etc.) into a single interface, offering text, image, and video creation, live web search, finance data, and document intelligence for creators and developers.

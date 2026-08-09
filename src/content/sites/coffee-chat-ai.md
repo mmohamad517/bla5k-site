@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Coffee Chat AI - AI Tool Review & Guide 2026
 metaDescription: Coffee Chat AI transforms LinkedIn profiles into tailored conversation starters, generating up to five smart questions based on experience, education, and...
 simple: Coffee Chat AI transforms LinkedIn profiles into tailored conversation starters, generating up to five smart questions based on experience, education, and interests.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Create WhatsApp Link - AI Tool Review & Guide 2026
 metaDescription: Create WhatsApp Link is a tool that generates direct wa.me links and QR codes for marketing and support channels.
 simple: Create WhatsApp Link is a tool that generates direct wa.me links and QR codes for marketing and support channels.

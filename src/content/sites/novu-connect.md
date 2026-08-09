@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Novu Connect - AI Tool Review & Guide 2026
 metaDescription: Novu Connect deploys managed Claude agents across Slack, Teams, WhatsApp, email and more while preserving a single conversational thread.
 simple: Novu Connect deploys managed Claude agents across Slack, Teams, WhatsApp, email and more while preserving a single conversational thread.

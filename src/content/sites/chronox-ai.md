@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Chronox AI - AI Tool Review & Guide 2026
 metaDescription: Chronox AI provides no-code chat and voice bots for automating customer service across platforms like WhatsApp and Instagram.
 simple: Chronox AI provides no-code chat and voice bots for automating customer service across platforms like WhatsApp and Instagram.
