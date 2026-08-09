@@ -4,6 +4,10 @@ url: https://github.com/rshankras/claude-code-apple-skills
 image: /logos/claude-skills-for-ios.png
 screenshot: /screens/claude-skills-for-ios.jpg
 subcategory: dev-ai-agents
+tags:
+  - ai agents
+  - AI
+  - Tool
 tagline: "Claude Skills for iOS: 161+ Free AI Skills for Apple Developers | 2026"
 featured: true
 affiliate: false
