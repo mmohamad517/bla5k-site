@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: cortexlabs.ai - AI Tool Review & Guide 2026
 metaDescription: Cortex is a blockchain platform that integrates AI into decentralized applications, enabling on-chain AI inference with GPU resources.
 simple: Cortex is a blockchain platform that integrates AI into decentralized applications, enabling on-chain AI inference with GPU resources.

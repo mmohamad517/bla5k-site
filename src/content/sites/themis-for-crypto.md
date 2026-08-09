@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Themis For Crypto - AI Tool Review & Guide 2026
 metaDescription: Themis is an AI-driven trading platform that allows users to create automated trading strategies, backtest them using machine learning, and track...
 simple: Themis is an AI-driven trading platform that allows users to create automated trading strategies, backtest them using machine learning, and track transactions in real-time.

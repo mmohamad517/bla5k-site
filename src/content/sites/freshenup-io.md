@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Freshenup.io - AI Tool Review & Guide 2026
 metaDescription: FreshenUp.io is a WordPress plugin that automates updates to old blog posts by adding new content and insights.
 simple: FreshenUp.io is a WordPress plugin that automates updates to old blog posts by adding new content and insights.

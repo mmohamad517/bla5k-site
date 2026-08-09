@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: BookScribi - AI Tool Review & Guide 2026
 metaDescription: Bookscribi is an AI platform for creating non-fiction books and poetry, allowing users to generate manuscripts through topic input.
 simple: Bookscribi is an AI platform for creating non-fiction books and poetry, allowing users to generate manuscripts through topic input.

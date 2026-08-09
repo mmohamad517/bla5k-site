@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Bookwiz - AI Tool Review & Guide 2026
 metaDescription: Bookwiz is an AI‑powered writing platform that stores a comprehensive Story Bible, automatically referencing it to maintain consistency across scenes and...
 simple: Bookwiz is an AI‑powered writing platform that stores a comprehensive Story Bible, automatically referencing it to maintain consistency across scenes and volumes.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: WeInvest - AI Tool Review & Guide 2026
 metaDescription: WeInvest is an AI‑driven crypto platform featuring a multi‑agent dashboard for real‑time market analysis and automated decisions.
 simple: WeInvest is an AI‑driven crypto platform featuring a multi‑agent dashboard for real‑time market analysis and automated decisions.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AI Book Generator - AI Tool Review & Guide 2026
 metaDescription: "AI Book Generator lets authors produce full books in three steps: choose a title/genre, plan chapters with AI prompts, and export the manuscript."
 simple: "AI Book Generator lets authors produce full books in three steps: choose a title/genre, plan chapters with AI prompts, and export the manuscript."

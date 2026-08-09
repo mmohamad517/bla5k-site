@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Book Witch - AI Tool Review & Guide 2026
 metaDescription: Book Witch is an AI platform that generates and edits full‑length e‑books in a single click.
 simple: Book Witch is an AI platform that generates and edits full‑length e‑books in a single click.

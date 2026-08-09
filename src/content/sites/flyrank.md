@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: FlyRank - AI Tool Review & Guide 2026
 metaDescription: Flyrank is an AI-powered content engine that automates SEO-optimized blog content creation.
 simple: Flyrank is an AI-powered content engine that automates SEO-optimized blog content creation.

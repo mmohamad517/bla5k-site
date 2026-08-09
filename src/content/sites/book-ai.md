@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Book AI - AI Tool Review & Guide 2026
 metaDescription: Book AI produces complete 10,000‑150,000‑word manuscripts in minutes, covering fiction, self‑help, business, and educational genres.
 simple: Book AI produces complete 10,000‑150,000‑word manuscripts in minutes, covering fiction, self‑help, business, and educational genres.

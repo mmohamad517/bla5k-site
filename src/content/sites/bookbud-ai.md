@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: BookBud.ai - AI Tool Review & Guide 2026
 metaDescription: BookBud.ai lets self‑published authors generate, edit, and publish fiction and non‑fiction in ebook, print, and audiobook formats.
 simple: BookBud.ai lets self‑published authors generate, edit, and publish fiction and non‑fiction in ebook, print, and audiobook formats.

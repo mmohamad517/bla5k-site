@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Unibase memory - AI Tool Review & Guide 2026
 metaDescription: Unibase Memory is a Chrome extension that creates a unified, cross-AI memory workspace for ChatGPT, Claude, and Gemini.
 simple: Unibase Memory is a Chrome extension that creates a unified, cross-AI memory workspace for ChatGPT, Claude, and Gemini.

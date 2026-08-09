@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Article Scribe - AI Tool Review & Guide 2026
 metaDescription: Article Scribe is a content generation tool that helps create unique product descriptions, blog posts, and social media content.
 simple: Article Scribe is a content generation tool that helps create unique product descriptions, blog posts, and social media content.

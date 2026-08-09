@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Content Goblin - AI Tool Review & Guide 2026
 metaDescription: Content Goblin is an AI-powered tool designed to generate high-quality listicles and conent, complete with subheadings, images, and descriptive text.
 simple: Content Goblin is an AI-powered tool designed to generate high-quality listicles and conent, complete with subheadings, images, and descriptive text.

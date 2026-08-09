@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AI E-books - AI Tool Review & Guide 2026
 metaDescription: AI E-Books generates customized, accessible ebooks on a variety of topics using artificial intelligence.
 simple: AI E-Books generates customized, accessible ebooks on a variety of topics using artificial intelligence.

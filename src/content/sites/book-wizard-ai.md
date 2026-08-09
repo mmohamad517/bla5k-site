@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Book Wizard AI - AI Tool Review & Guide 2026
 metaDescription: "Book Wizard AI automates book creation: input title, description, and audience, and it generates a structured table of contents, full chapter content, and..."
 simple: "Book Wizard AI automates book creation: input title, description, and audience, and it generates a structured table of contents, full chapter content, and formatted manuscript."

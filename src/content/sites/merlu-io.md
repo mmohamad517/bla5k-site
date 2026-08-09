@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Merlu.io - AI Tool Review & Guide 2026
 metaDescription: Merlu.io is an AI-powered Robo Advisor that predicts cryptocurrency prices in real-time.
 simple: Merlu.io is an AI-powered Robo Advisor that predicts cryptocurrency prices in real-time.

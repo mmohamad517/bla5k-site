@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Frase - AI Tool Review & Guide 2026
 metaDescription: Frase is an AI tool for generating articles, rewriting paragraphs, and creating SEO content, with additional features like a smart editor, blog title...
 simple: Frase is an AI tool for generating articles, rewriting paragraphs, and creating SEO content, with additional features like a smart editor, blog title generator, and value proposition creator.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Nft Creator - AI Tool Review & Guide 2026
 metaDescription: Create images or GIFs with customizable backgrounds, text, AI styles, and filters.
 simple: Create images or GIFs with customizable backgrounds, text, AI styles, and filters.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Koffy - AI Tool Review & Guide 2026
 metaDescription: Koffy delivers real‑time crypto news with daily AI summaries, sentiment analysis from social media, and a three‑year archive.
 simple: Koffy delivers real‑time crypto news with daily AI summaries, sentiment analysis from social media, and a three‑year archive.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AI Book Generator - AI Tool Review & Guide 2026
 metaDescription: AIBookGenerator.org is a powerful AI tool that helps users effortlessly generate unique book ideas by customizing titles, plots, genres, and tones.
 simple: AIBookGenerator.org is a powerful AI tool that helps users effortlessly generate unique book ideas by customizing titles, plots, genres, and tones.

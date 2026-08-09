@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: OpenNFT - AI Tool Review & Guide 2026
 metaDescription: OpenNFT turns JPEGs into NFTs with a single click, no coding or online account needed.
 simple: OpenNFT turns JPEGs into NFTs with a single click, no coding or online account needed.

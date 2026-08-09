@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Agentic - AI Tool Review & Guide 2026
 metaDescription: Agentic Mission Control Blog automates blog creation by deploying AI agents to research, outline, and draft content with a Notion‑style editor.
 simple: Agentic Mission Control Blog automates blog creation by deploying AI agents to research, outline, and draft content with a Notion‑style editor.

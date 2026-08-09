@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Giti - AI Tool Review & Guide 2026
 metaDescription: Giti ChatGPT is a multilingual AI chatbot that generates text in 130+ languages.
 simple: Giti ChatGPT is a multilingual AI chatbot that generates text in 130+ languages.

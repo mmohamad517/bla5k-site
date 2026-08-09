@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Article Forge - AI Tool Review & Guide 2026
 metaDescription: Article Forge automatically generates up to 1,500‑word articles from keyword prompts, producing SEO‑aligned sections and subheadings.
 simple: Article Forge automatically generates up to 1,500‑word articles from keyword prompts, producing SEO‑aligned sections and subheadings.

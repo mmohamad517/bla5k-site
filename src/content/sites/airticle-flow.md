@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AIrticle flow - AI Tool Review & Guide 2026
 metaDescription: AIrticle‑flow generates hundreds of unique, SEO‑optimized articles from a single prompt, letting marketers and bloggers scale content production.
 simple: AIrticle‑flow generates hundreds of unique, SEO‑optimized articles from a single prompt, letting marketers and bloggers scale content production.

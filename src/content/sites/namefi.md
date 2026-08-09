@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Namefi - AI Tool Review & Guide 2026
 metaDescription: Namefi is a blockchain-based domain trading platform that enables users to register and import domains as NFTs across 329 TLDs.
 simple: Namefi is a blockchain-based domain trading platform that enables users to register and import domains as NFTs across 329 TLDs.

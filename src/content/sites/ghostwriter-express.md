@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Ghostwriter Express - AI Tool Review & Guide 2026
 metaDescription: Ghostwriter Express is an AI‑driven platform that turns ideas into nonfiction books, offering modular tools for topic, title, TOC, chapters, blurbs, and...
 simple: Ghostwriter Express is an AI‑driven platform that turns ideas into nonfiction books, offering modular tools for topic, title, TOC, chapters, blurbs, and branding.

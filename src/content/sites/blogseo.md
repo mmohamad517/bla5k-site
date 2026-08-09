@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: BlogSEO - AI Tool Review & Guide 2026
 metaDescription: BlogSEO is an AI blog generator that creates SEO-optimized articles in minutes and publishes them directly to your CMS.
 simple: BlogSEO is an AI blog generator that creates SEO-optimized articles in minutes and publishes them directly to your CMS.

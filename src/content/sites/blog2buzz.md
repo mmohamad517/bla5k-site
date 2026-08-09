@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Blog2Buzz - AI Tool Review & Guide 2026
 metaDescription: Blog2Buzz automates blog discovery and content creation by summarizing trending posts and generating shareable tweets.
 simple: Blog2Buzz automates blog discovery and content creation by summarizing trending posts and generating shareable tweets.

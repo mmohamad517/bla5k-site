@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AirPrompt - AI Tool Review & Guide 2026
 metaDescription: Airprompt simplifies AI prompt creation and sharing with user-friendly forms.
 simple: Airprompt simplifies AI prompt creation and sharing with user-friendly forms.

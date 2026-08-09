@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Eurekaa - AI Tool Review & Guide 2026
 metaDescription: Eurekaa is an AI platform that helps creators design, validate, and launch online courses and books.
 simple: Eurekaa is an AI platform that helps creators design, validate, and launch online courses and books.

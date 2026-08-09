@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Lightchain ai - AI Tool Review & Guide 2026
 metaDescription: Lightchain AI is a blockchain ecosystem that integrates AI into decentralized applications using a Proof of Intelligence (POI) consensus.
 simple: Lightchain AI is a blockchain ecosystem that integrates AI into decentralized applications using a Proof of Intelligence (POI) consensus.

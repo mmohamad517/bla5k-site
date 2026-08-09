@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Ghost Craft - AI Tool Review & Guide 2026
 metaDescription: Ghost Craft is an AI‑powered platform that auto‑generates, rewrites, and clusters trending news content, offering bulk rewrite, pillar‑post creation,...
 simple: Ghost Craft is an AI‑powered platform that auto‑generates, rewrites, and clusters trending news content, offering bulk rewrite, pillar‑post creation, multi‑language editing, direct WordPress publishing, image generation, and SEO‑ready links for streamlined team collaboration.

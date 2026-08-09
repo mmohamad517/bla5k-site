@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AIStoryBuilders - AI Tool Review & Guide 2026
 metaDescription: AIStoryBuilders lets authors organize characters, settings, and plot details in a structured database.
 simple: AIStoryBuilders lets authors organize characters, settings, and plot details in a structured database.

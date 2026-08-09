@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Sorted Wallet - AI Tool Review & Guide 2026
 metaDescription: Sorted Wallet is a cross-device crypto wallet for sending, receiving, and cashing out Bitcoin and USDT via Lightning and stablecoin rails, enabling instant...
 simple: Sorted Wallet is a cross-device crypto wallet for sending, receiving, and cashing out Bitcoin and USDT via Lightning and stablecoin rails, enabling instant low-cost remittances, mobile-money cashouts on feature phones and smartphones, with transaction tracking and support.

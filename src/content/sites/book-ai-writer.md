@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Book AI Writer - AI Tool Review & Guide 2026
 metaDescription: BookAIWriter.com streamlines book creation by converting a simple outline into full chapters and matching cover art.
 simple: BookAIWriter.com streamlines book creation by converting a simple outline into full chapters and matching cover art.

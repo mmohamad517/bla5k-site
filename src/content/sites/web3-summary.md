@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Web3 Summary - AI Tool Review & Guide 2026
 metaDescription: Web3 summary simplifies complex crypto projects using ChatGPT and AI into easy-to-understand explanations.
 simple: Web3 summary simplifies complex crypto projects using ChatGPT and AI into easy-to-understand explanations.
