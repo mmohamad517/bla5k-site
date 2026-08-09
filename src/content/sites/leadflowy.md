@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Leadflowy - AI Tool Review & Guide 2026
 metaDescription: LeadFlowy is an AI-driven lead relationship manager that streamlines lead management through custom flows, automations, unified communication, and scheduling.
 simple: LeadFlowy is an AI-driven lead relationship manager that streamlines lead management through custom flows, automations, unified communication, and scheduling.

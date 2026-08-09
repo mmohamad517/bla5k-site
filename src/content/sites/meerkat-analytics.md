@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: meerkat analytics - AI Tool Review & Guide 2026
 metaDescription: Meerkat Analytics aggregates Shopify store data into visual dashboards, segmenting customers and attributing sales to precise touchpoints.
 simple: Meerkat Analytics aggregates Shopify store data into visual dashboards, segmenting customers and attributing sales to precise touchpoints.

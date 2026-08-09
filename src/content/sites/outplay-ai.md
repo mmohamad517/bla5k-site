@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Outplay AI - AI Tool Review & Guide 2026
 metaDescription: Outplay is a sales engagement platform that centralizes multichannel outreach—email, phone, SMS, WhatsApp, video, and chat—with sequence automation, CRM...
 simple: Outplay is a sales engagement platform that centralizes multichannel outreach—email, phone, SMS, WhatsApp, video, and chat—with sequence automation, CRM integrations, a built-in dialer and conversation intelligence to streamline prospecting, follow-ups, and sales analytics.

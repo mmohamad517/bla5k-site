@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Leadsourcing - AI Tool Review & Guide 2026
 metaDescription: LeadSourcing is an AI-driven sales tool that simplifies lead generation and meeting scheduling for businesses.
 simple: LeadSourcing is an AI-driven sales tool that simplifies lead generation and meeting scheduling for businesses.

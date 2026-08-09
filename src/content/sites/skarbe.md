@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Skarbe - AI Tool Review & Guide 2026
 metaDescription: Skarbe automates lead follow‑up and qualification for sales teams, capturing contacts from forms, emails, and meetings.
 simple: Skarbe automates lead follow‑up and qualification for sales teams, capturing contacts from forms, emails, and meetings.

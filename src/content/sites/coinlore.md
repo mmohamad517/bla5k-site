@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: CoinLore - AI Tool Review & Guide 2026
 metaDescription: CoinLore delivers a real‑time news feed and market data for over 14,000 cryptocurrencies, offering charts, rankings, portfolio tools, and a profit calculator.
 simple: CoinLore delivers a real‑time news feed and market data for over 14,000 cryptocurrencies, offering charts, rankings, portfolio tools, and a profit calculator.

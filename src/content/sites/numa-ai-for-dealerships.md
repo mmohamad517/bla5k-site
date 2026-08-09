@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Numa - AI Tool Review & Guide 2026
 metaDescription: Numa unifies dealership voice, email, and text into a Smart Inbox, using AI to draft responses, generate leads, detect dissatisfaction, and monitor service...
 simple: Numa unifies dealership voice, email, and text into a Smart Inbox, using AI to draft responses, generate leads, detect dissatisfaction, and monitor service metrics, improving efficiency and reducing lost opportunities.

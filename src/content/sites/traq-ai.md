@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Traq ai - AI Tool Review & Guide 2026
 metaDescription: TRAQ records and transcribes sales calls, auto‑generating summaries, action items, and sentiment insights.
 simple: TRAQ records and transcribes sales calls, auto‑generating summaries, action items, and sentiment insights.

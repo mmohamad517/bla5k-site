@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Starnus - AI Tool Review & Guide 2026
 metaDescription: Starnus is an autonomous AI sales employee that persistently executes multi-day tasks based on user-defined goals, providing updates and integrating...
 simple: Starnus is an autonomous AI sales employee that persistently executes multi-day tasks based on user-defined goals, providing updates and integrating seamlessly across CRM and social media platforms for end-to-end outbound workflow management.

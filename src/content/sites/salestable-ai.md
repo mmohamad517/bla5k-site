@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: SalesTable AI - AI Tool Review & Guide 2026
 metaDescription: Salestable AI Sales Manager enhances sales team effectiveness with AI-driven training, real-time assistance during calls, and centralized content management.
 simple: Salestable AI Sales Manager enhances sales team effectiveness with AI-driven training, real-time assistance during calls, and centralized content management.

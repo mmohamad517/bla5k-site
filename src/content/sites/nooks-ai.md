@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Nooks ai - AI Tool Review & Guide 2026
 metaDescription: Nooks unifies AI sequencing, dialing, intent signals, and coaching in one outbound workspace.
 simple: Nooks unifies AI sequencing, dialing, intent signals, and coaching in one outbound workspace.

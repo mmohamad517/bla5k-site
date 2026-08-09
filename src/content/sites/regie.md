@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Regie - AI Tool Review & Guide 2026
 metaDescription: Regie.ai is an AI-powered content creation and management platform that generates custom content tailored to user needs and provides analytics to track...
 simple: Regie.ai is an AI-powered content creation and management platform that generates custom content tailored to user needs and provides analytics to track performance.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Strama - AI Tool Review & Guide 2026
 metaDescription: Strama is a sales outreach tool that streamlines prospecting by generating personalized messages based on LinkedIn profiles.
 simple: Strama is a sales outreach tool that streamlines prospecting by generating personalized messages based on LinkedIn profiles.

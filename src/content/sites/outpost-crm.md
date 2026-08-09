@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Outpost crm - AI Tool Review & Guide 2026
 metaDescription: Outpost is an AI‑powered CRM that automates routine sales tasks for real‑estate agents and founders.
 simple: Outpost is an AI‑powered CRM that automates routine sales tasks for real‑estate agents and founders.

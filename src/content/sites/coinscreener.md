@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: CoinScreener - AI Tool Review & Guide 2026
 metaDescription: CoinScreener delivers AI‑driven crypto signals and real‑time insights for over 1,000 markets.
 simple: CoinScreener delivers AI‑driven crypto signals and real‑time insights for over 1,000 markets.

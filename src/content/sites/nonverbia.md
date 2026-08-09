@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Nonverbia - AI Tool Review & Guide 2026
 metaDescription: Stella analyzes nonverbal cues and voice patterns to detect buying intent and resistance, auto-generates call notes and CRM updates, produces stakeholder...
 simple: Stella analyzes nonverbal cues and voice patterns to detect buying intent and resistance, auto-generates call notes and CRM updates, produces stakeholder maps and deal-priority recommendations, and delivers personalized coaching and standardized post-call analysis for sales teams.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Deepsearch.name - AI Tool Review & Guide 2026
 metaDescription: Deepsearch.name is a name-first people search tool that builds sourced public-web profiles from a person's name.
 simple: Deepsearch.name is a name-first people search tool that builds sourced public-web profiles from a person's name.

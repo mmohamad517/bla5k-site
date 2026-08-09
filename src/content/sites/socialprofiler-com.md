@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: socialprofiler.com - AI Tool Review & Guide 2026
 metaDescription: socialprofiler.com is a platform for instant social media background checks and screening for candidate vetting, due diligence, and investigations.It...
 simple: socialprofiler.com is a platform for instant social media background checks and screening for candidate vetting, due diligence, and investigations.It aggregates public social profiles, posts, photos, and metadata to produce structured screening reports and risk indicators.

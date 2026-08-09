@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Prosp - AI Tool Review & Guide 2026
 metaDescription: Prosp is an AI tool that automates LinkedIn outbound campaigns, offering personalized outreach, efficient lead management, and a lead finder extension.
 simple: Prosp is an AI tool that automates LinkedIn outbound campaigns, offering personalized outreach, efficient lead management, and a lead finder extension.

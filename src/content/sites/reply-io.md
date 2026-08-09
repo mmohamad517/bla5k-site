@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Reply.io - AI Tool Review & Guide 2026
 metaDescription: Reply.io automates personalized cold email and LinkedIn outreach, using AI-driven customization and real‑time B2B contact data.
 simple: Reply.io automates personalized cold email and LinkedIn outreach, using AI-driven customization and real‑time B2B contact data.

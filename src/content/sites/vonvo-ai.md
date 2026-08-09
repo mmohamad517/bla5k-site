@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Vonvo.ai - AI Tool Review & Guide 2026
 metaDescription: Vonvo.ai is an enterprise AI sales training platform that uses configurable AI personas for roleplay and call analysis in 25+ languages.
 simple: Vonvo.ai is an enterprise AI sales training platform that uses configurable AI personas for roleplay and call analysis in 25+ languages.

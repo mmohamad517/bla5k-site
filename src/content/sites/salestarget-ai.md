@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: SalesTarget.ai - AI Tool Review & Guide 2026
 metaDescription: SalesTarget.ai is a sales platform offering lead generation, automated email outreach, and CRM management with access to 50 million verified leads.
 simple: SalesTarget.ai is a sales platform offering lead generation, automated email outreach, and CRM management with access to 50 million verified leads.

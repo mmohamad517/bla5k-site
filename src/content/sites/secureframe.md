@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Secureframe - AI Tool Review & Guide 2026
 metaDescription: Secureframe automates security, risk, and compliance workflows—collecting evidence, generating readiness reports, and continuously monitoring controls.
 simple: Secureframe automates security, risk, and compliance workflows—collecting evidence, generating readiness reports, and continuously monitoring controls.

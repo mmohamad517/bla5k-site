@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: SalesAPE AI - AI Tool Review & Guide 2026
 metaDescription: Salesape.ai is an AI-powered sales assistant that automates lead qualification and appointment scheduling through multiple channels.
 simple: Salesape.ai is an AI-powered sales assistant that automates lead qualification and appointment scheduling through multiple channels.

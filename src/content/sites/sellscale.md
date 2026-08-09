@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: SellScale - AI Tool Review & Guide 2026
 metaDescription: SellScale uses AI to build outbound pipelines, automating email outreach.
 simple: SellScale uses AI to build outbound pipelines, automating email outreach.

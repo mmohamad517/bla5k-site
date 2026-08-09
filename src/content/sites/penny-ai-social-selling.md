@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Penny AI - Social selling - AI Tool Review & Guide 2026
 metaDescription: Penny AI is an AI platform for social selling that offers daily action tasks, custom sales scripts, and learning modules.
 simple: Penny AI is an AI platform for social selling that offers daily action tasks, custom sales scripts, and learning modules.

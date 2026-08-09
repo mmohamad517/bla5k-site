@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Anchain.ai - AI Tool Review & Guide 2026
 metaDescription: AnChainAI delivers AI‑powered blockchain forensics, real‑time crypto payment screening and cross‑chain analysis for 70+ blockchains.
 simple: AnChainAI delivers AI‑powered blockchain forensics, real‑time crypto payment screening and cross‑chain analysis for 70+ blockchains.

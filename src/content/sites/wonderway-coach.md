@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Wonderway Coach - AI Tool Review & Guide 2026
 metaDescription: Wonderway AI Coach is an AI-powered sales coaching tool that provides personalized feedback to sales reps, tracks their performance, and prioritizes call...
 simple: Wonderway AI Coach is an AI-powered sales coaching tool that provides personalized feedback to sales reps, tracks their performance, and prioritizes call transcript security.

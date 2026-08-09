@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ComplyAssistant - AI Tool Review & Guide 2026
 metaDescription: ComplyAssistant is a healthcare-focused GRC platform that manages HIPAA, NIST and HITRUST compliance with vendor and audit management, policy controls, a...
 simple: ComplyAssistant is a healthcare-focused GRC platform that manages HIPAA, NIST and HITRUST compliance with vendor and audit management, policy controls, a centralized risk register, real-time insights, automated alerts, mobile access, white-labeling and vCISO services.

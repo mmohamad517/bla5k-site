@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ChainClarity - AI Tool Review & Guide 2026
 metaDescription: ChainClarity offers AI‑driven, concise explanations of over 500 crypto whitepapers from major Layer 1 and Layer 2 projects.
 simple: ChainClarity offers AI‑driven, concise explanations of over 500 crypto whitepapers from major Layer 1 and Layer 2 projects.

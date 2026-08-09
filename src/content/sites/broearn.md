@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Broearn - AI Tool Review & Guide 2026
 metaDescription: Broearn Browser is a Web 3.0 browser with an integrated multi‑chain wallet and smart‑contract functionality.
 simple: Broearn Browser is a Web 3.0 browser with an integrated multi‑chain wallet and smart‑contract functionality.

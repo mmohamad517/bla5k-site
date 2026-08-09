@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: SalesCred PRO - AI Tool Review & Guide 2026
 metaDescription: Salescred® Pro is an AI-powered platform amining to enhance credibility and accelerate the trust-building process for B2B salespeople.
 simple: Salescred® Pro is an AI-powered platform amining to enhance credibility and accelerate the trust-building process for B2B salespeople.

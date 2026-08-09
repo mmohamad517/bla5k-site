@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Scanlist - AI Tool Review & Guide 2026
 metaDescription: Scanlist, a Chrome extension, harvests LinkedIn lead data, adds verified emails, and 20+ data points.
 simple: Scanlist, a Chrome extension, harvests LinkedIn lead data, adds verified emails, and 20+ data points.

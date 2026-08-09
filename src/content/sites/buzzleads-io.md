@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: buzzleads.io - AI Tool Review & Guide 2026
 metaDescription: BuzzLeads consolidates sales, marketing, and customer engagement for small businesses into a single CRM.
 simple: BuzzLeads consolidates sales, marketing, and customer engagement for small businesses into a single CRM.

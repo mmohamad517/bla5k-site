@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Recibo - AI Tool Review & Guide 2026
 metaDescription: Recibo is a sales automation platform for CPG and retail distribution that optimizes field routes and workloads, predicts store-level orders, uses image...
 simple: Recibo is a sales automation platform for CPG and retail distribution that optimizes field routes and workloads, predicts store-level orders, uses image recognition for on-shelf compliance, consolidates SFA/DMS/ERP data, verifies attendance, and integrates with ERPs.

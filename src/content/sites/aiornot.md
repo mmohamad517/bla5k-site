@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AIorNot - AI Tool Review & Guide 2026
 metaDescription: AIorNot is a comprehensive deepfake and AI-content detection API that identifies synthetic text, images, audio, video, and music with 98.9% accuracy and...
 simple: AIorNot is a comprehensive deepfake and AI-content detection API that identifies synthetic text, images, audio, video, and music with 98.9% accuracy and sub-second response times.

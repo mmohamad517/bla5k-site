@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: TeqID - Connect - AI Tool Review & Guide 2026
 metaDescription: Teqid is an AI-driven B2B lead generation tool that automates the identification of qualified leads by analyzing ideal customer profiles, providing enriched...
 simple: Teqid is an AI-driven B2B lead generation tool that automates the identification of qualified leads by analyzing ideal customer profiles, providing enriched contact insights, opportunity scoring, and visual relationship graphs to enhance outreach efforts.

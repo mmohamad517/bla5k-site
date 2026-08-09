@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Trellus - AI Tool Review & Guide 2026
 metaDescription: Trellus embeds a parallel dialer into sales engagement tools, enabling up to five simultaneous calls, automated voicemail drops, and number health checks.
 simple: Trellus embeds a parallel dialer into sales engagement tools, enabling up to five simultaneous calls, automated voicemail drops, and number health checks.

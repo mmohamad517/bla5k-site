@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Seismic - AI Tool Review & Guide 2026
 metaDescription: Seismic Platform centralizes content, playbooks, and digital rooms, delivering real‑time buyer insights and AI recommendations.
 simple: Seismic Platform centralizes content, playbooks, and digital rooms, delivering real‑time buyer insights and AI recommendations.

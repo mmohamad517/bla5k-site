@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: "Re:catch - AI Tool Review & Guide 2026"
 metaDescription: Catch automates lead qualification, routing, and scheduling for a streamlined sales pipeline.
 simple: Catch automates lead qualification, routing, and scheduling for a streamlined sales pipeline.

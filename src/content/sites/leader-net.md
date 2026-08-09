@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Leader.net - AI Tool Review & Guide 2026
 metaDescription: Leader CRM automates lead capture and contact enrichment from calls, messages and calendar events, extracting caller details, social profiles and recent news.
 simple: Leader CRM automates lead capture and contact enrichment from calls, messages and calendar events, extracting caller details, social profiles and recent news.

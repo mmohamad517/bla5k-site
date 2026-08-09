@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ReliveAI - AI Tool Review & Guide 2026
 metaDescription: ReliveAI automates outbound sales and support, integrating Google Drive, Notion, Calendar, and email to create tasks.
 simple: ReliveAI automates outbound sales and support, integrating Google Drive, Notion, Calendar, and email to create tasks.

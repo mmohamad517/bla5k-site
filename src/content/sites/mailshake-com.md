@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: MailShake - AI Tool Review & Guide 2026
 metaDescription: Mailshake centralizes multi-channel B2B outreach—cold email, dialing, and social—combining an AI email writer, prospect search, automated follow-ups,...
 simple: Mailshake centralizes multi-channel B2B outreach—cold email, dialing, and social—combining an AI email writer, prospect search, automated follow-ups, deliverability tools, lead management, analytics, and CRM/API integrations for scalable lead generation and campaign automation.

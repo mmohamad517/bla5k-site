@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: SalesHero.io - AI Tool Review & Guide 2026
 metaDescription: SalesHero.io boosts sales team productivity by automating tasks such as coaching, deal analysis, and meeting support.
 simple: SalesHero.io boosts sales team productivity by automating tasks such as coaching, deal analysis, and meeting support.

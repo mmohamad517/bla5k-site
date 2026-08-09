@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ArbitrageScanner.io - AI Tool Review & Guide 2026
 metaDescription: Crypto Arbitrage Bot identifies price discrepancies across over 40 exchanges, enabling users to execute profitable trades.
 simple: Crypto Arbitrage Bot identifies price discrepancies across over 40 exchanges, enabling users to execute profitable trades.

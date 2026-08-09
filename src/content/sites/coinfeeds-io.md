@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: CoinFeeds.io - AI Tool Review & Guide 2026
 metaDescription: Coinfeeds AI supplies AI agents for crypto exchanges and funds, offering portfolio monitoring, personalized news feeds, and NLP‑as‑a‑Service.
 simple: Coinfeeds AI supplies AI agents for crypto exchanges and funds, offering portfolio monitoring, personalized news feeds, and NLP‑as‑a‑Service.

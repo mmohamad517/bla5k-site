@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: oliv.ai - AI Tool Review & Guide 2026
 metaDescription: Oliv.ai automates revenue workflows by integrating CRMs, Gong/Clari, email, meetings, calls, and Slack.
 simple: Oliv.ai automates revenue workflows by integrating CRMs, Gong/Clari, email, meetings, calls, and Slack.
