@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Verble - AI Tool Review & Guide 2026
 metaDescription: Verble is an AI speech-writing assistant that helps users master verbal persuasion and storytelling by guiding them in creating speeches for various...
 simple: Verble is an AI speech-writing assistant that helps users master verbal persuasion and storytelling by guiding them in creating speeches for various occasions, with the expertise of speech coaches.

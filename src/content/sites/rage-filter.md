@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Rage Filter - AI Tool Review & Guide 2026
 metaDescription: RageFilter is an AI-powered toxic conversation simulator for safely practicing conflict response with archetypal antagonists like gaslighters and narcissists.
 simple: RageFilter is an AI-powered toxic conversation simulator for safely practicing conflict response with archetypal antagonists like gaslighters and narcissists.

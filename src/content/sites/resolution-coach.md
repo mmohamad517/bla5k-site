@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Resolution Coach - AI Tool Review & Guide 2026
 metaDescription: Resolution Coach is an AI tool that offers personalized coaching and daily accountability for achieving New Year's resolutions.
 simple: Resolution Coach is an AI tool that offers personalized coaching and daily accountability for achieving New Year's resolutions.

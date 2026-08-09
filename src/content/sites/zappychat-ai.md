@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ZappyChat AI - AI Tool Review & Guide 2026
 metaDescription: CloseBot automates creation and deployment of conversational AI agents across web, SMS, Facebook, Instagram, WhatsApp, and more.
 simple: CloseBot automates creation and deployment of conversational AI agents across web, SMS, Facebook, Instagram, WhatsApp, and more.

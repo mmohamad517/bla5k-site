@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Alya - AI Tool Review & Guide 2026
 metaDescription: Alya is an AI-powered therapy chat application that offers personalized mental health support in 22 languages.
 simple: Alya is an AI-powered therapy chat application that offers personalized mental health support in 22 languages.

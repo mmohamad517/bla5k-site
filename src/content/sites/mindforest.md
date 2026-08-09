@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: MindForest - AI Tool Review & Guide 2026
 metaDescription: MindForest offers 24/7 AI mental‑wellness coaching, emotion‑processing prompts, psychometric assessments, and personalized action plans.
 simple: MindForest offers 24/7 AI mental‑wellness coaching, emotion‑processing prompts, psychometric assessments, and personalized action plans.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Whizi - AI Tool Review & Guide 2026
 metaDescription: Whizi is an AI chat platform that integrates over 200 advanced models for tasks like writing, brainstorming, and coding.
 simple: Whizi is an AI chat platform that integrates over 200 advanced models for tasks like writing, brainstorming, and coding.

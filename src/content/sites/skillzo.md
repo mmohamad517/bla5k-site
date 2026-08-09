@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Skillzo - AI Tool Review & Guide 2026
 metaDescription: Skillzo is an AI career coach that utilizes the GROW model to help users set SMART goals and create actionable plans for skill development and career...
 simple: Skillzo is an AI career coach that utilizes the GROW model to help users set SMART goals and create actionable plans for skill development and career advancement, offering personalized guidance and interactive feedback for professional growth.

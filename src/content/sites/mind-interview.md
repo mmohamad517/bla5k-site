@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: MIND-Interview - AI Tool Review & Guide 2026
 metaDescription: MIND Interview streamlines enterprise hiring by automating resume parsing, AI‑powered video interview scoring, and generating encrypted radar reports.
 simple: MIND Interview streamlines enterprise hiring by automating resume parsing, AI‑powered video interview scoring, and generating encrypted radar reports.

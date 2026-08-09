@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Secret Llama - AI Tool Review & Guide 2026
 metaDescription: Secret Llama is a private browser-based chatbot that stores data locally, ensuring enhanced privacy.
 simple: Secret Llama is a private browser-based chatbot that stores data locally, ensuring enhanced privacy.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Truffle.bot - AI Tool Review & Guide 2026
 metaDescription: Truffle automatically extracts and summarizes key information from Slack conversations, storing it in a searchable knowledge base.
 simple: Truffle automatically extracts and summarizes key information from Slack conversations, storing it in a searchable knowledge base.

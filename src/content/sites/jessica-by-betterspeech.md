@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Jessica by BetterSpeech - AI Tool Review & Guide 2026
 metaDescription: Jessica is an AI‑powered speech therapy assistant that uses speech recognition to assess patterns, offers on‑demand personalized practice, and delivers...
 simple: Jessica is an AI‑powered speech therapy assistant that uses speech recognition to assess patterns, offers on‑demand personalized practice, and delivers instant, data‑based feedback.

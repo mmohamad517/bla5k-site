@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Coachvox - AI Tool Review & Guide 2026
 metaDescription: Coachvox delivers a 24/7 conversational AI that mirrors a coach’s unique style.
 simple: Coachvox delivers a 24/7 conversational AI that mirrors a coach’s unique style.

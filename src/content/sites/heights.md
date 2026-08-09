@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Heights - AI Tool Review & Guide 2026
 metaDescription: Heights AI Coach autonomously generates weekly tasks, tips, and reminders for course creators, coaches, and digital marketers, analyzing goals and progress...
 simple: Heights AI Coach autonomously generates weekly tasks, tips, and reminders for course creators, coaches, and digital marketers, analyzing goals and progress to maintain momentum.

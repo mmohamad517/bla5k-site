@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Dr. FeelGood - AI Tool Review & Guide 2026
 metaDescription: FeelGood is a 24/7 AI coach that tracks a single project, delivering daily check‑ins, reminders, and personalized encouragement based on a user’s personality.
 simple: FeelGood is a 24/7 AI coach that tracks a single project, delivering daily check‑ins, reminders, and personalized encouragement based on a user’s personality.

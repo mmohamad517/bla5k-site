@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Chat EQ - AI Tool Review & Guide 2026
 metaDescription: ChatEQ uses AI to analyze conversation scenarios, offering evidence‑based feedback, emotional insights, and dialogue strategies.
 simple: ChatEQ uses AI to analyze conversation scenarios, offering evidence‑based feedback, emotional insights, and dialogue strategies.

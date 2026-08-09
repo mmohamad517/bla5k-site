@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Mentara - AI Tool Review & Guide 2026
 metaDescription: Mentara is an AI-powered coaching tool that helps founders practice investor pitches and business conversations through roleplay scenarios, goal tracking,...
 simple: Mentara is an AI-powered coaching tool that helps founders practice investor pitches and business conversations through roleplay scenarios, goal tracking, and performance evaluations, enhancing their presentation skills and communication effectiveness for securing investment.

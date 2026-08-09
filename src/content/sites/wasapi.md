@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Wasapi - AI Tool Review & Guide 2026
 metaDescription: Wasapi consolidates WhatsApp customer interactions into a single interface, automatically assigning chats to agents and tracking them in real‑time.
 simple: Wasapi consolidates WhatsApp customer interactions into a single interface, automatically assigning chats to agents and tracking them in real‑time.

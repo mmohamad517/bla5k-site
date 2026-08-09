@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Interflexion - AI Tool Review & Guide 2026
 metaDescription: Interflexion delivers AI‑powered role‑play scenarios for leadership and interpersonal skill development.
 simple: Interflexion delivers AI‑powered role‑play scenarios for leadership and interpersonal skill development.

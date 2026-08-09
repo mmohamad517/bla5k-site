@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Therapy Talk - AI Tool Review & Guide 2026
 metaDescription: Therapy Talk is a mental health platform offering AI-assisted chat therapy, combining licensed therapist oversight with personalized support for conditions...
 simple: Therapy Talk is a mental health platform offering AI-assisted chat therapy, combining licensed therapist oversight with personalized support for conditions like anxiety and depression.

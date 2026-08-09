@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Coachchat - AI Tool Review & Guide 2026
 metaDescription: Coachchat is a 24/7 AI voice tutor that monitors your screen in real time, providing spoken step‑by‑step guidance and instant visual feedback.
 simple: Coachchat is a 24/7 AI voice tutor that monitors your screen in real time, providing spoken step‑by‑step guidance and instant visual feedback.

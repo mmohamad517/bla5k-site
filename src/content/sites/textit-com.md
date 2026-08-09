@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: textit.com - AI Tool Review & Guide 2026
 metaDescription: TextIt lets users build and deploy interactive chatbots via a drag‑and‑drop flow designer, supporting omni‑channel messaging (Facebook, WhatsApp, SMS, etc.).
 simple: TextIt lets users build and deploy interactive chatbots via a drag‑and‑drop flow designer, supporting omni‑channel messaging (Facebook, WhatsApp, SMS, etc.).

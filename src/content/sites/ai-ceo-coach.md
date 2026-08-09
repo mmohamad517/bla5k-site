@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AI CEO Coach - AI Tool Review & Guide 2026
 metaDescription: The AI CEO Coach by Glenn Gow is an innovative tool that provides personalized guidance to CEOs.
 simple: The AI CEO Coach by Glenn Gow is an innovative tool that provides personalized guidance to CEOs.

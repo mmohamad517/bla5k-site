@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AI Coach Amotions - AI Tool Review & Guide 2026
 metaDescription: Amotions AI delivers real‑time, emotionally intelligent assistance for sales teams by analyzing calls, providing pre‑ and post‑call insights, and adaptive...
 simple: Amotions AI delivers real‑time, emotionally intelligent assistance for sales teams by analyzing calls, providing pre‑ and post‑call insights, and adaptive guidance.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Sapio AI - AI Tool Review & Guide 2026
 metaDescription: Sapio AI is an AI‑powered coaching platform offering 25+ conversation scenarios in 10 languages.
 simple: Sapio AI is an AI‑powered coaching platform offering 25+ conversation scenarios in 10 languages.

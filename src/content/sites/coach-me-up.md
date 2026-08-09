@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Coach Me Up! - AI Tool Review & Guide 2026
 metaDescription: AI Career Coach is a 24/7 personal AI coach offering tailored support in interview preparation, resume reviews, and career advancement.
 simple: AI Career Coach is a 24/7 personal AI coach offering tailored support in interview preparation, resume reviews, and career advancement.

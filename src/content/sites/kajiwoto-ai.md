@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: kajiwoto.ai - AI Tool Review & Guide 2026
 metaDescription: The AI tool offers advanced features such as voice recognition, image albums, and chat rooms to create AI chat characters for companionship, gaming,...
 simple: The AI tool offers advanced features such as voice recognition, image albums, and chat rooms to create AI chat characters for companionship, gaming, roleplay, and knowledge sharing, with developer support and Discord integration.

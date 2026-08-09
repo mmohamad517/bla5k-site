@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: IX Coach - AI Tool Review & Guide 2026
 metaDescription: ix Coach is an AI-powered interdisciplinary coaching tool that aims to improve various areas of life.
 simple: ix Coach is an AI-powered interdisciplinary coaching tool that aims to improve various areas of life.

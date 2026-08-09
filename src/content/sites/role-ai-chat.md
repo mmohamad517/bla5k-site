@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Role AI Chat - AI Tool Review & Guide 2026
 metaDescription: Free AI Chat Legends enables unlimited anonymous conversations with iconic leaders and characters, such as Charlie Munger and Cristiano Ronaldo.
 simple: Free AI Chat Legends enables unlimited anonymous conversations with iconic leaders and characters, such as Charlie Munger and Cristiano Ronaldo.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Solidroad - AI Tool Review & Guide 2026
 metaDescription: Solidroad is an AI‑driven platform that evaluates phone, chat, video, and email interactions instantly, unifying metrics in one dashboard.
 simple: Solidroad is an AI‑driven platform that evaluates phone, chat, video, and email interactions instantly, unifying metrics in one dashboard.

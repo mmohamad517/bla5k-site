@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Toum AI - AI Tool Review & Guide 2026
 metaDescription: Toum AI is a multilingual voice AI platform that enables teams to build, deploy, and orchestrate autonomous voice agents for contact centers.
 simple: Toum AI is a multilingual voice AI platform that enables teams to build, deploy, and orchestrate autonomous voice agents for contact centers.

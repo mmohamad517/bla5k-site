@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Komensa - AI Tool Review & Guide 2026
 metaDescription: Komensa is an AI‑powered platform that guides couples through structured, turn‑based conversations using a mediator chatbot and proven conflict‑resolution...
 simple: Komensa is an AI‑powered platform that guides couples through structured, turn‑based conversations using a mediator chatbot and proven conflict‑resolution techniques.

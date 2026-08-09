@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Quazilla by Squad - AI Tool Review & Guide 2026
 metaDescription: Quazilla is a ChatGPT‑powered personal coach that customizes goal‑setting and habit‑building.
 simple: Quazilla is a ChatGPT‑powered personal coach that customizes goal‑setting and habit‑building.

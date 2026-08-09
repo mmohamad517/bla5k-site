@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Vibly - AI Tool Review & Guide 2026
 metaDescription: Vibly unifies coaching operations by letting coaches build profiles, set packages, and onboard clients in one platform.
 simple: Vibly unifies coaching operations by letting coaches build profiles, set packages, and onboard clients in one platform.

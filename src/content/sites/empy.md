@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Empy - AI Tool Review & Guide 2026
 metaDescription: Empy offers real‑time coaching via a desktop widget on Zoom, Teams and Google Meet, delivering instant answer suggestions, speaking balance and tone...
 simple: Empy offers real‑time coaching via a desktop widget on Zoom, Teams and Google Meet, delivering instant answer suggestions, speaking balance and tone tracking, and post‑call reports scored for agenda, quality, risks, and sentiment, with local LLMs for privacy and compliance.

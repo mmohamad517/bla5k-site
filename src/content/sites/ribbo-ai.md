@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Ribbo AI - AI Tool Review & Guide 2026
 metaDescription: Ribbo AI trains AI customer-support agents on your documents and website content, deployable across web chat, WhatsApp, and Slack.
 simple: Ribbo AI trains AI customer-support agents on your documents and website content, deployable across web chat, WhatsApp, and Slack.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Day One Careers - AI Tool Review & Guide 2026
 metaDescription: Day One Careers delivers Amazon interview prep with structured STAR and Leadership Principles content, AI‑powered story reviews, resume analysis, 14 hours...
 simple: Day One Careers delivers Amazon interview prep with structured STAR and Leadership Principles content, AI‑powered story reviews, resume analysis, 14 hours of videos, 24/7 coaching, Bar Raiser sessions, job‑description mapping, salary‑negotiation workshop, and peer community.

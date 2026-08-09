@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: botsplash.com - AI Tool Review & Guide 2026
 metaDescription: Botsplash is an AI engagement platform that automates chat, voice and text across web, SMS and RCS, centralizes omnichannel conversations, qualifies leads,...
 simple: Botsplash is an AI engagement platform that automates chat, voice and text across web, SMS and RCS, centralizes omnichannel conversations, qualifies leads, schedules appointments and integrates with Salesforce/CRM to improve response times, follow-ups and retention.
