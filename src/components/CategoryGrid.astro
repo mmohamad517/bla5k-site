@@ -1,0 +1,76 @@
+---
+// Homepage category browse grid — a lightweight replacement for the full
+// 2,700+ row directory on the homepage. Every category still links to its
+// dedicated page and to the full /directory/ (which hosts search + filters).
+import { getCollection } from 'astro:content';
+import { categories, subcategoriesOf } from '../data/categories';
+
+const allSites = await getCollection('sites');
+
+const tree = categories
+  .map((cat) => {
+    const count = subcategoriesOf(cat.slug).reduce((n, sub) => {
+      return n + allSites.filter((s) => s.data.subcategory === sub.slug).length;
+    }, 0);
+    return { cat, count };
+  })
+  .filter((x) => x.count > 0)
+  .sort((a, b) => b.count - a.count);
+---
+
+<section class="cats section" id="categories">
+  <div class="container">
+    <div class="cats-head">
+      <span class="eyebrow"><span class="dot"></span> Browse by category</span>
+      <h2 class="section-title">Find the <span class="grad">right tool</span> fast</h2>
+      <p class="section-lead">Pick a category to explore curated tools, or jump into the <a href="/directory/" class="dir-link">full directory →</a></p>
+    </div>
+
+    <ul class="cats-grid" role="list">
+      {tree.map(({ cat, count }) => (
+        <li>
+          <a class="cat-card glass" href={`/category/${cat.slug}/`}>
+            <span class="cat-ic" aria-hidden="true">{cat.icon}</span>
+            <span class="cat-info">
+              <span class="cat-nm">{cat.name}</span>
+              <span class="cat-br">{cat.blurb}</span>
+              <span class="cat-cn">{count} {count === 1 ? 'tool' : 'tools'}</span>
+            </span>
+            <svg class="cat-arrow" width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</section>
+
+<style>
+  .cats { padding-top: clamp(1.5rem, 4vw, 2.75rem); }
+  .cats-head { max-width: 640px; margin-bottom: 1.6rem; }
+  .dir-link { color: var(--cyan-soft); text-decoration: underline; text-underline-offset: 3px; white-space: nowrap; }
+  .dir-link:hover { color: var(--cyan); }
+
+  .cats-grid { list-style: none; display: grid; gap: 0.8rem; grid-template-columns: 1fr; }
+
+  .cat-card {
+    display: flex; align-items: center; gap: 0.9rem;
+    padding: 0.95rem 1.1rem; border-radius: var(--radius);
+    transition: transform .22s, border-color .22s, box-shadow .22s;
+  }
+  .cat-card:hover {
+    transform: translateY(-2px);
+    border-color: var(--glass-border-strong);
+    box-shadow: 0 0 26px -12px rgba(0,240,255,.45);
+  }
+  .cat-ic { font-size: 1.7rem; line-height: 1; flex: none; }
+  .cat-info { min-width: 0; flex: 1; display: grid; gap: 0.12rem; }
+  .cat-nm { font-family: var(--font-head); font-weight: 700; font-size: 1.05rem; color: var(--text); }
+  .cat-card:hover .cat-nm { color: var(--cyan-soft); }
+  .cat-br { color: var(--text-dim); font-size: 0.85rem; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; }
+  .cat-cn { font-size: 0.74rem; font-weight: 700; color: var(--cyan-soft); }
+  .cat-arrow { color: var(--text-dim); flex: none; transition: transform .22s, color .22s; }
+  .cat-card:hover .cat-arrow { color: var(--cyan-soft); transform: translateX(3px); }
+
+  @media (min-width: 560px) { .cats-grid { grid-template-columns: 1fr 1fr; } }
+  @media (min-width: 900px) { .cats-grid { grid-template-columns: 1fr 1fr 1fr; } }
+</style>

@@ -219,6 +219,6 @@ AgenticSeek answers a question more and more people are asking: *can I have a po
 
 It is not the easiest path — capable hardware and technical setup are real prerequisites — but for privacy-focused, self-hosting users, that's a fair price for genuine ownership of their AI. If you value control, transparency, and keeping your data your own, AgenticSeek deserves a serious look.
 
-To keep discovering tools shaping the local and autonomous AI movement, explore our [Developer Tools](/category/developer/) and [AI Tools](/category/ai-tools/) categories, or browse the full [bla5k directory](/#directory).
+To keep discovering tools shaping the local and autonomous AI movement, explore our [Developer Tools](/category/developer/) and [AI Tools](/category/ai-tools/) categories, or browse the full [bla5k directory](/directory/).
 
 *Official resource: the [AgenticSeek GitHub repository](https://github.com/Fosowl/agenticSeek).*

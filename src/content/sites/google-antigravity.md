@@ -162,6 +162,6 @@ Google Antigravity represents Google's agent-first vision for development: one u
 
 If you use Gemini CLI, Antigravity is your upgrade path. If you're new to agentic development on Google's stack, the free Individual plan is an easy place to start.
 
-To discover more developer tools and AI agents, browse our [Developer Tools](/category/developer/) and [AI Tools](/category/ai-tools/) categories, or explore the full [bla5k directory](/#directory).
+To discover more developer tools and AI agents, browse our [Developer Tools](/category/developer/) and [AI Tools](/category/ai-tools/) categories, or explore the full [bla5k directory](/directory/).
 
 *Official resource: the [Google Antigravity website](https://antigravity.google).*

@@ -139,6 +139,6 @@ ApX is a standard website with HTTPS; it's not a data-processing platform, so th
 
 ApX Machine Learning is a valuable free resource for the LLM engineering community — practical calculators and benchmarks that answer real "what runs and what it costs" questions, plus genuinely deep free courses. Its honest caveat is scale: it's a solo-maintained project without a company entity. For engineers and learners who want practical numbers and free education, ApX is well worth using.
 
-To discover more developer tools and AI tools, browse our [Developer Tools](/category/developer/) and [AI Tools](/category/ai-tools/) categories, or explore the full [bla5k directory](/#directory).
+To discover more developer tools and AI tools, browse our [Developer Tools](/category/developer/) and [AI Tools](/category/ai-tools/) categories, or explore the full [bla5k directory](/directory/).
 
 *Official resource: the [ApX Machine Learning website](https://apxml.com).*

@@ -1,0 +1,50 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import Directory from '../components/Directory.astro';
+import Footer from '../components/Footer.astro';
+import { getCollection } from 'astro:content';
+
+const sites = await getCollection('sites');
+const site = 'https://bla5k.com';
+const total = sites.length;
+
+const title = `AI Tools Directory — Browse ${total}+ Tools & Sites | bla5k`;
+const description = `A curated directory of ${total} hand-picked AI tools, websites, and communities. Search, filter by price, and sort every category — writing, image, video, AI agents, coding, and more.`;
+
+// ItemList is capped at 100 entries (Google's practical limit for rich results);
+// the sitemap covers full discovery of every tool page.
+const schema = [
+  {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: `${site}/` },
+      { '@type': 'ListItem', position: 2, name: 'Directory', item: `${site}/directory/` },
+    ],
+  },
+  {
+    '@type': 'CollectionPage',
+    '@id': `${site}/directory/`,
+    name: title,
+    description,
+    isPartOf: { '@id': `${site}/#website` },
+  },
+  {
+    '@type': 'ItemList',
+    numberOfItems: total,
+    itemListElement: sites.slice(0, 100).map((s, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      url: `${site}/tools/${s.id}/`,
+      name: s.data.name,
+    })),
+  },
+];
+---
+<Layout title={title} description={description} schema={schema}>
+  <Header />
+  <main>
+    <Directory />
+  </main>
+  <Footer />
+</Layout>

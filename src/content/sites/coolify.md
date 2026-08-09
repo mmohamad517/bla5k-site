@@ -175,6 +175,6 @@ Coolify answers a question more developers are asking as cloud bills grow: *can 
 
 Backed by a massive community, proven in production at thousands of companies, and free under Apache-2.0, Coolify is the clear leader among open-source self-hosted PaaS platforms. If you want cloud-grade deployment on your own terms, it deserves a serious look.
 
-To keep discovering tools like this, browse our [Developer Tools](/category/developer/) category, or explore the full [bla5k directory](/#directory).
+To keep discovering tools like this, browse our [Developer Tools](/category/developer/) category, or explore the full [bla5k directory](/directory/).
 
 *Official resources: the [Coolify website](https://coolify.io) and the [Coolify GitHub repository](https://github.com/coollabsio/coolify).*

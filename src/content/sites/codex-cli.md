@@ -174,6 +174,6 @@ Codex CLI is OpenAI's lightweight answer to agentic coding in the terminal. It's
 
 If you're already on ChatGPT or use OpenAI's Codex models, it's the natural terminal companion. And for the broader landscape of agentic coding tools, compare it against Claude Code and Gemini CLI to find the right fit.
 
-To discover more developer tools and AI agents, browse our [Developer Tools](/category/developer/) and [AI Tools](/category/ai-tools/) categories, or explore the full [bla5k directory](/#directory).
+To discover more developer tools and AI agents, browse our [Developer Tools](/category/developer/) and [AI Tools](/category/ai-tools/) categories, or explore the full [bla5k directory](/directory/).
 
 *Official resources: the [Codex CLI GitHub repository](https://github.com/openai/codex) and [Codex documentation](https://learn.chatgpt.com/codex/).*

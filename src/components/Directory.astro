@@ -417,4 +417,17 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
     );
     sortAll(); // apply a persisted choice on load
   }
+
+  // ── Deep links: /directory/#ai-tools opens that category and scrolls to it ──
+  const deep = window.location.hash.slice(1);
+  if (deep && list) {
+    const target = Array.from(list.querySelectorAll<HTMLDetailsElement>('.cat')).find(
+      (c) => c.dataset.cat === deep
+    );
+    if (target) {
+      target.open = true;
+      // Wait a tick so the category content is laid out before scrolling.
+      requestAnimationFrame(() => target.scrollIntoView({ block: 'start' }));
+    }
+  }
 </script>

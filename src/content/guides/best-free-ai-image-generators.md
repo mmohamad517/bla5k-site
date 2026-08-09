@@ -88,7 +88,7 @@ Stable Diffusion is the open-source engine behind a huge portion of the AI art w
 
 **Free tier reality:** Genuinely free and unlimited if you run it yourself. Free web-based versions also exist with usage limits.
 
-**Watch out for:** Running it locally needs a capable graphics card and some technical patience. This is the power-user pick, not the plug-and-play one. If you enjoy finding open, self-hostable software, browse more like it in our [directory](/#directory).
+**Watch out for:** Running it locally needs a capable graphics card and some technical patience. This is the power-user pick, not the plug-and-play one. If you enjoy finding open, self-hostable software, browse more like it in our [directory](/directory/).
 
 > **Tip:** If you don't have a powerful PC, look for hosted Stable Diffusion interfaces that run in the browser. You lose the "unlimited local" benefit but keep the flexibility.
 
@@ -170,7 +170,7 @@ It's easy to think of AI image generators as toys, but people get serious, pract
 
 The common thread is speed. AI image generators collapse the distance between "I have an idea" and "I have something to look at." Even when the final asset is created another way, that instant visual feedback loop is transformational for how quickly you can iterate.
 
-If your work leans toward a specific field — say design or marketing — it's worth pairing an image generator with the specialized tools in those areas. Our [directory](/#directory) organizes everything by category so you can assemble a complete toolkit rather than a single app.
+If your work leans toward a specific field — say design or marketing — it's worth pairing an image generator with the specialized tools in those areas. Our [directory](/directory/) organizes everything by category so you can assemble a complete toolkit rather than a single app.
 
 ## Free vs paid: when should you upgrade?
 
@@ -209,4 +209,4 @@ Focus on your prompt. Describe the subject, style, lighting, and mood clearly, t
 
 The gap between free and paid AI image generators has never been smaller. In 2026 you can produce genuinely professional images without spending a cent — the key is matching the tool to the job. Reach for **DALL·E 3 via Copilot** for quality and ease, **Leonardo AI** for a pro all-round experience, **Ideogram** when words matter, **Stable Diffusion** for unlimited control, and **Craiyon** for zero-friction fun.
 
-Bookmark this guide, experiment with two or three of these tools this week, and you'll quickly find the one that fits your style. And when you're ready to discover more tools like these, our constantly growing [directory of the internet's best tools](/#directory) is the perfect next stop.
+Bookmark this guide, experiment with two or three of these tools this week, and you'll quickly find the one that fits your style. And when you're ready to discover more tools like these, our constantly growing [directory of the internet's best tools](/directory/) is the perfect next stop.

@@ -293,6 +293,6 @@ AgentScope stands out in a crowded field by making a clear, principled bet: that
 
 If you're a developer or team serious about building multi-agent AI systems — especially ones headed for production — AgentScope deserves a place on your shortlist. Start with a single agent, lean on its transparency to understand what's happening, and grow toward coordinated teams as your ambitions expand.
 
-To keep discovering tools shaping the AI-agent era, explore our [AI Tools](/category/ai-tools/) and [Developer Tools](/category/developer/) categories, or browse the full [bla5k directory](/#directory) — your compass for the internet's best tools.
+To keep discovering tools shaping the AI-agent era, explore our [AI Tools](/category/ai-tools/) and [Developer Tools](/category/developer/) categories, or browse the full [bla5k directory](/directory/) — your compass for the internet's best tools.
 
 *Official resources: [agentscope.io](https://agentscope.io), the [AgentScope GitHub repository](https://github.com/agentscope-ai/agentscope), and the [official documentation](https://docs.agentscope.io).*

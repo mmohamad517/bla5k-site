@@ -146,6 +146,6 @@ The official site claims **SOC 2 compliance** and a **Trust Center**, and states
 
 Manus is a capable general-purpose agent that executes real work end-to-end — research, code, building, and analysis. Its team features and developer API make it useful for both individuals and organizations. The caveats are real: its ownership status (the unverified "part of Meta" claim) and non-transparent pricing deserve scrutiny before you commit. If you want an agent that gets things done rather than one that chats, Manus is worth evaluating — with due diligence.
 
-To discover more developer tools and AI agents, browse our [Developer Tools](/category/developer/) and [AI Tools](/category/ai-tools/) categories, or explore the full [bla5k directory](/#directory).
+To discover more developer tools and AI agents, browse our [Developer Tools](/category/developer/) and [AI Tools](/category/ai-tools/) categories, or explore the full [bla5k directory](/directory/).
 
 *Official resources: the [Manus website](https://manus.im) and the [Manus API documentation](https://open.manus.ai/docs).*

@@ -193,6 +193,6 @@ SkillOpt reframes a stubborn problem — agents that don't improve — into some
 
 It's a technical tool for developers and researchers, and it asks you to define what success looks like — but for anyone serious about making AI agents genuinely better, it's one of the most compelling ideas in the space right now. Free, open-source, benchmark-proven, and backed by Microsoft, SkillOpt earns a place on any agent builder's radar.
 
-To keep exploring the tools shaping the AI-agent era, browse our [AI Tools](/category/ai-tools/) and [Developer Tools](/category/developer/) categories, read our roundup of the [best AI tools in 2026](/guides/best-ai-tools-2026/), or explore the full [bla5k directory](/#directory).
+To keep exploring the tools shaping the AI-agent era, browse our [AI Tools](/category/ai-tools/) and [Developer Tools](/category/developer/) categories, read our roundup of the [best AI tools in 2026](/guides/best-ai-tools-2026/), or explore the full [bla5k directory](/directory/).
 
 *Official resources: the [SkillOpt GitHub repository](https://github.com/microsoft/SkillOpt) and the [SkillOpt project page](https://microsoft.github.io/SkillOpt/).*

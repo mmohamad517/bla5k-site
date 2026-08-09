@@ -133,6 +133,6 @@ CanIRun.ai is strong on privacy by design: **everything runs in your browser** a
 
 CanIRun.ai is a genuinely useful, privacy-respecting free tool for the local-AI crowd — it tells you instantly which models your hardware can run, right in the browser, with nothing uploaded. Its honest limitations (estimates, individual-maintainer) are disclosed transparently. If you run local models, it's worth bookmarking before your next big download.
 
-To discover more developer tools and utilities, browse our [Developer Tools](/category/developer/) and [Handy Utilities](/category/utilities/) categories, or explore the full [bla5k directory](/#directory).
+To discover more developer tools and utilities, browse our [Developer Tools](/category/developer/) and [Handy Utilities](/category/utilities/) categories, or explore the full [bla5k directory](/directory/).
 
 *Official resource: the [CanIRun.ai website](https://www.canirun.ai).*

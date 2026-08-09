@@ -5,30 +5,19 @@ import Hero from '../components/Hero.astro';
 import Best2026 from '../components/Best2026.astro';
 import NewestTools from '../components/NewestTools.astro';
 import ProductCard from '../components/ProductCard.astro';
-import Directory from '../components/Directory.astro';
+import CategoryGrid from '../components/CategoryGrid.astro';
 import Footer from '../components/Footer.astro';
-import { getCollection } from 'astro:content';
-import { subcategoryBySlug, categoryBySlug } from '../data/categories';
 
-// ItemList structured data for the full directory
-const sites = await getCollection('sites');
+// Homepage schema stays light (WebSite/Organization come from the Layout base
+// graph). The full ItemList of every tool lives on /directory/ — rendering
+// 2,700+ entries inline here made the homepage HTML ~4.8 MB.
 const schema = [
   {
     '@type': 'CollectionPage',
-    '@id': 'https://bla5k.com/#directory',
+    '@id': 'https://bla5k.com/',
     name: 'The bla5k Directory',
     description: 'A curated directory of the best AI tools, websites, and communities.',
     isPartOf: { '@id': 'https://bla5k.com/#website' },
-  },
-  {
-    '@type': 'ItemList',
-    numberOfItems: sites.length,
-    itemListElement: sites.map((s, i) => ({
-      '@type': 'ListItem',
-      position: i + 1,
-      url: `https://bla5k.com/tools/${s.id}/`,
-      name: s.data.name,
-    })),
   },
 ];
 ---
@@ -39,7 +28,7 @@ const schema = [
     <ProductCard />
     <Best2026 />
     <NewestTools />
-    <Directory />
+    <CategoryGrid />
   </main>
   <Footer />
 </Layout>
