@@ -1,0 +1,4 @@
+Contact: mailto:mmohamad517@gmail.com
+Expires: 2027-08-04T00:00:00.000Z
+Preferred-Languages: en, ar
+Canonical: https://bla5k.com/.well-known/security.txt
