@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Plazbot - AI Tool Review & Guide 2026
 metaDescription: Plazbot permite crear, desplegar y escalar agentes de IA en WhatsApp y otros canales, con SDK TypeScript, widgets web, editor no-code, integración...
 simple: Plazbot permite crear, desplegar y escalar agentes de IA en WhatsApp y otros canales, con SDK TypeScript, widgets web, editor no-code, integración CRM/ERP/eCommerce, RAG con Pinecone, detección de intenciones, enrutamiento y panel de monitoreo.

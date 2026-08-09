@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Addy.so - AI Tool Review & Guide 2026
 metaDescription: Addy AI automates mortgage loan origination and document processing with 24/7 AI agents that review files, flag issues, analyze AUS findings, generate...
 simple: Addy AI automates mortgage loan origination and document processing with 24/7 AI agents that review files, flag issues, analyze AUS findings, generate actionable next steps, assemble CTC-ready submissions, integrate with LOS/CRM/POS, and extract document data.

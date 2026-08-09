@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Business Idea Generator - AI Tool Review & Guide 2026
 metaDescription: Kocobe is an AI-powered tool that generates business ideas quickly and provides a range of options in seconds.
 simple: Kocobe is an AI-powered tool that generates business ideas quickly and provides a range of options in seconds.

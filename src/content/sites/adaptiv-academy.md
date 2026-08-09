@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Adaptiv Academy - AI Tool Review & Guide 2026
 metaDescription: Adaptiv Academy is an AI-powered tool that offers personalized online courses, track progress and earn rewards through adaptive learning, searchable...
 simple: Adaptiv Academy is an AI-powered tool that offers personalized online courses, track progress and earn rewards through adaptive learning, searchable courses, mobile app reminders, and referral programs.

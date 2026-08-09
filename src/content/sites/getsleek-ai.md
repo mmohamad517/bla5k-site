@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: getsleek.ai - AI Tool Review & Guide 2026
 metaDescription: Sleek AI is an all-in-one marketing automation platform utilizing AI for campaign management and optimization.
 simple: Sleek AI is an all-in-one marketing automation platform utilizing AI for campaign management and optimization.

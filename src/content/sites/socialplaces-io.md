@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: socialplaces.io - AI Tool Review & Guide 2026
 metaDescription: Social Places centralizes franchise listing management, reputation monitoring, and local page creation across search engines, directories, and maps.
 simple: Social Places centralizes franchise listing management, reputation monitoring, and local page creation across search engines, directories, and maps.

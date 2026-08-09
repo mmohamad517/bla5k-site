@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AI-Painted Romantic Printed Portraits - AI Tool Review & Guide 2026
 metaDescription: Imajinn AI provides various tools such as portrait creator, AI-paint portrait generator, custom children's book creator, AI photobooth, and print/framing...
 simple: Imajinn AI provides various tools such as portrait creator, AI-paint portrait generator, custom children's book creator, AI photobooth, and print/framing options for generating unique portraits and customizing children's books.

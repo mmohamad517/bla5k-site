@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Hirematch - AI Tool Review & Guide 2026
 metaDescription: HireMatch AI automates resume screening by uploading a job description and resume batch, scoring candidates for fit, and producing a structured, ranked...
 simple: HireMatch AI automates resume screening by uploading a job description and resume batch, scoring candidates for fit, and producing a structured, ranked applicant list.

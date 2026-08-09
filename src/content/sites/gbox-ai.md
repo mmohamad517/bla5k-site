@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: GBOX AI - AI Tool Review & Guide 2026
 metaDescription: GBOX provides browser, Android, and Linux sandboxes plus RL environments for training, testing, and reproducible evaluation of agents.
 simple: GBOX provides browser, Android, and Linux sandboxes plus RL environments for training, testing, and reproducible evaluation of agents.

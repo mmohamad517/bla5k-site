@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: squirai.com - AI Tool Review & Guide 2026
 metaDescription: Squirai automates product description creation, SEO‑focused content optimization, and bulk image processing.
 simple: Squirai automates product description creation, SEO‑focused content optimization, and bulk image processing.

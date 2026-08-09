@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: socialconnector.io - AI Tool Review & Guide 2026
 metaDescription: Social Connector is an engagement marketing tool that enhances customer interactions through an omni-channel rewards system.
 simple: Social Connector is an engagement marketing tool that enhances customer interactions through an omni-channel rewards system.

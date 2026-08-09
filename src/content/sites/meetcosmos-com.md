@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Cosmos - AI Tool Review & Guide 2026
 metaDescription: Cosmos automates creation and scheduling of text, image and video content in a consistent brand voice, using built-in generation, camera/motion control and...
 simple: Cosmos automates creation and scheduling of text, image and video content in a consistent brand voice, using built-in generation, camera/motion control and automations.

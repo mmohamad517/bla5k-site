@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: WizGenerator - AI Tool Review & Guide 2026
 metaDescription: WizGenerator offer a suite of tools to enhance creativity for marketing, social media, and business needs.
 simple: WizGenerator offer a suite of tools to enhance creativity for marketing, social media, and business needs.

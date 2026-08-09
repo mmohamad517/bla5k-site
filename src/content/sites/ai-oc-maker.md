@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AI OC Maker - AI Tool Review & Guide 2026
 metaDescription: AI OC Maker generates original characters in anime, realistic, or fantasy styles with controls for appearance, clothing, accessories, and personality.
 simple: AI OC Maker generates original characters in anime, realistic, or fantasy styles with controls for appearance, clothing, accessories, and personality.

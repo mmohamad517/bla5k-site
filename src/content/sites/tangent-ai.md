@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: tangent.ai - AI Tool Review & Guide 2026
 metaDescription: TANGENT AI lets beauty brands build skin‑ and hair‑analysis quizzes, sync results to CRM, personalize storefronts and bundles, track user progress, and...
 simple: TANGENT AI lets beauty brands build skin‑ and hair‑analysis quizzes, sync results to CRM, personalize storefronts and bundles, track user progress, and deliver insights via a dashboard that measures conversion, basket size, and first‑time shopper impact.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: impulze.ai - AI Tool Review & Guide 2026
 metaDescription: Impulze.ai centralizes influencer marketing for agencies and brands, offering creator discovery across TikTok, Instagram, and YouTube.
 simple: Impulze.ai centralizes influencer marketing for agencies and brands, offering creator discovery across TikTok, Instagram, and YouTube.

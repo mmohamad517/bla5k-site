@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Baked AI - AI Tool Review & Guide 2026
 metaDescription: Bake is an AI tool that generates unique art from your ideas for printing on various products.
 simple: Bake is an AI tool that generates unique art from your ideas for printing on various products.

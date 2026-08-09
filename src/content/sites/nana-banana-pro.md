@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Nana Banana Pro - AI Tool Review & Guide 2026
 metaDescription: Nana Banana Pro uses multimodal AI to edit and generate consistent character images across poses, scenes, and styles, offering style transfer, high...
 simple: Nana Banana Pro uses multimodal AI to edit and generate consistent character images across poses, scenes, and styles, offering style transfer, high resolution export, batch generation, photo restoration, clothes changes and anime-to-cosplay conversion for fast asset production.

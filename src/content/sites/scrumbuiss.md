@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Scrumbuiss - AI Tool Review & Guide 2026
 metaDescription: Scrumbuiss is an AI-powered project management tool that enhances team collaboration, streamlines workflows, and boosts productivity.
 simple: Scrumbuiss is an AI-powered project management tool that enhances team collaboration, streamlines workflows, and boosts productivity.

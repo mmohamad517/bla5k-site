@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Yuzuu - AI Tool Review & Guide 2026
 metaDescription: Yuzuu converts uploaded product images into realistic studio and lifestyle shots, preserving proportions, colors, textures, and packaging.
 simple: Yuzuu converts uploaded product images into realistic studio and lifestyle shots, preserving proportions, colors, textures, and packaging.

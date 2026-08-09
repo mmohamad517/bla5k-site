@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Arcitext.com - AI Tool Review & Guide 2026
 metaDescription: Arcitext is an AI-assisted writing platform that captures a user's voice from URLs and samples, generates reusable brand profiles, offers chat-based...
 simple: Arcitext is an AI-assisted writing platform that captures a user's voice from URLs and samples, generates reusable brand profiles, offers chat-based drafting, rewrites, grammar and fact-checking, and shows inline diffs to maintain consistent, audience-focused copy.

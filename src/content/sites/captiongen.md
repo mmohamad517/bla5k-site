@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: CaptionGen - AI Tool Review & Guide 2026
 metaDescription: CaptionGen is an AI tool that generates captions for images using advanced natural language processing technology and powerful chatbot technology.
 simple: CaptionGen is an AI tool that generates captions for images using advanced natural language processing technology and powerful chatbot technology.

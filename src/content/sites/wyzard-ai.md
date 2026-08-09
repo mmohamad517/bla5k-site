@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Wyzard.ai - AI Tool Review & Guide 2026
 metaDescription: Wyzard.ai enhances inbound marketing by utilizing AI-driven agents to engage website visitors and convert them into leads.
 simple: Wyzard.ai enhances inbound marketing by utilizing AI-driven agents to engage website visitors and convert them into leads.

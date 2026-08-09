@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Grade - AI Tool Review & Guide 2026
 metaDescription: Grade automates creator payouts and tracking for UGC and influencer teams, enabling global email-based payments without creator onboarding, bulk and...
 simple: Grade automates creator payouts and tracking for UGC and influencer teams, enabling global email-based payments without creator onboarding, bulk and multi-method payouts across 190+ countries, configurable pay rules, consolidated invoices, tax form collection, and payment reporting.

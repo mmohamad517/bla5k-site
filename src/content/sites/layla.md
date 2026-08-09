@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Layla - AI Tool Review & Guide 2026
 metaDescription: Introducing Layla, the world's first private AI assistant that resides directly on your phone.
 simple: Introducing Layla, the world's first private AI assistant that resides directly on your phone.

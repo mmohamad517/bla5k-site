@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: IllostrationAI - AI Tool Review & Guide 2026
 metaDescription: Illustration AI creates images from text, letting users pick styles, upload CSVs for bulk production, edit backgrounds, and export high‑res PNGs or SVGs.
 simple: Illustration AI creates images from text, letting users pick styles, upload CSVs for bulk production, edit backgrounds, and export high‑res PNGs or SVGs.

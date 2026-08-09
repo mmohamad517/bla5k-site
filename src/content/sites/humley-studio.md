@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Humley Studio - AI Tool Review & Guide 2026
 metaDescription: Humley delivers context‑aware, hallucination‑free AI assistants powered by large language models, integrating enterprise knowledge bases across web, voice,...
 simple: Humley delivers context‑aware, hallucination‑free AI assistants powered by large language models, integrating enterprise knowledge bases across web, voice, and live‑agent channels.

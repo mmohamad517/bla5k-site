@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Leiapix AI - AI Tool Review & Guide 2026
 metaDescription: Leiapix AI converts 2‑D photos into animated 3‑D visuals with AI depth mapping, supporting JPEG/PNG and outputting GIFs or videos.
 simple: Leiapix AI converts 2‑D photos into animated 3‑D visuals with AI depth mapping, supporting JPEG/PNG and outputting GIFs or videos.

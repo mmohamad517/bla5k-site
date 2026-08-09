@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: propertysimple.com - AI Tool Review & Guide 2026
 metaDescription: propertysimple.com is a real estate marketing platform that automates social media ads and content for listings.
 simple: propertysimple.com is a real estate marketing platform that automates social media ads and content for listings.

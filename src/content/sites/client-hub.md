@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Client Hub - AI Tool Review & Guide 2026
 metaDescription: Client Hub streamlines accounting practice management with task automation, a client portal, and document exchange.
 simple: Client Hub streamlines accounting practice management with task automation, a client portal, and document exchange.

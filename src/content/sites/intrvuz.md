@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Intrvuz - AI Tool Review & Guide 2026
 metaDescription: Intrvuz automates high‑volume hiring with 24/7 AI interviews in 57 languages, real‑time proctoring, facial and voice ID checks, CV screening,...
 simple: Intrvuz automates high‑volume hiring with 24/7 AI interviews in 57 languages, real‑time proctoring, facial and voice ID checks, CV screening, job‑description generation, role‑specific assessments, psychometric testing, and bias‑free analytics, integrating via APIs into ATS and HRMS.

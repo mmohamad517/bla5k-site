@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Lightfield.app - AI Tool Review & Guide 2026
 metaDescription: Lightfield.app is an AI-native CRM that auto-captures all customer interactions and builds continuous account context.
 simple: Lightfield.app is an AI-native CRM that auto-captures all customer interactions and builds continuous account context.

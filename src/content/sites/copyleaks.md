@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Copyleaks - AI Tool Review & Guide 2026
 metaDescription: Copyleaks delivers AI text and image detection, plagiarism checking, grammar correction, and text moderation in 30+ languages.
 simple: Copyleaks delivers AI text and image detection, plagiarism checking, grammar correction, and text moderation in 30+ languages.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Agent.ai - AI Tool Review & Guide 2026
 metaDescription: Agent.ai is a platform that connects users with a marketplace of over 1,261 AI agents for hiring and task automation.
 simple: Agent.ai is a platform that connects users with a marketplace of over 1,261 AI agents for hiring and task automation.

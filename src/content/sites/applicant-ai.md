@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Applicant AI - AI Tool Review & Guide 2026
 metaDescription: Applicant AI is an AI-powered platform that automates, optimizes, and streamlines recruitment and onboarding processes, assesses candidates, and provides...
 simple: Applicant AI is an AI-powered platform that automates, optimizes, and streamlines recruitment and onboarding processes, assesses candidates, and provides insights for better decision making, reducing costs and providing a competitive edge.

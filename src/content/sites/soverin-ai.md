@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Soverin AI - AI Tool Review & Guide 2026
 metaDescription: Soverin is an AI marketplace providing access to over 10,000 automation tasks and 1,800 vetted AI tools.
 simple: Soverin is an AI marketplace providing access to over 10,000 automation tasks and 1,800 vetted AI tools.

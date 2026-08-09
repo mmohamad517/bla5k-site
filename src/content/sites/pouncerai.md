@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: PouncerAI - AI Tool Review & Guide 2026
 metaDescription: PouncerAI optimizes Upwork profiles with AI‑generated keyword‑rich summaries and offers a proposal generator for tailored cover letters.
 simple: PouncerAI optimizes Upwork profiles with AI‑generated keyword‑rich summaries and offers a proposal generator for tailored cover letters.

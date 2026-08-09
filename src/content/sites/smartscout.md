@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: SmartScout - AI Tool Review & Guide 2026
 metaDescription: AI Listing Architect simplifies the process of creating optimized Amazon listings in minutes.
 simple: AI Listing Architect simplifies the process of creating optimized Amazon listings in minutes.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Rima AI - AI Tool Review & Guide 2026
 metaDescription: Rima automates reconciliation workflows by ingesting bank feeds, GL exports, payroll and vendor statements, using AI to match transactions, flag exceptions,...
 simple: Rima automates reconciliation workflows by ingesting bank feeds, GL exports, payroll and vendor statements, using AI to match transactions, flag exceptions, generate workpapers, journal entries and exportable reports for month-end, audits, and consolidated reporting.
