@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Runrly - AI Tool Review & Guide 2026
 metaDescription: Runrly supplies on-demand marketing teams and fractional CMO support for startups and enterprises, handling growth strategy, paid media, SEO, content and...
 simple: Runrly supplies on-demand marketing teams and fractional CMO support for startups and enterprises, handling growth strategy, paid media, SEO, content and creative production with flexible credit-based allocation, real-time analytics, A/B testing and regular strategy alignment.

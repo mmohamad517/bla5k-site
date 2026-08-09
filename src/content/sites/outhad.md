@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Outhad - AI Tool Review & Guide 2026
 metaDescription: Outhad AI is a real-time customer activation platform that unifies data, automates customer journeys, and delivers personalized experiences using AI.
 simple: Outhad AI is a real-time customer activation platform that unifies data, automates customer journeys, and delivers personalized experiences using AI.

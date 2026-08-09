@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Tugan.ai - AI Tool Review & Guide 2026
 metaDescription: Tugan.ai transforms a web page or video link into ready‑to‑publish content such as email sequences, social media posts, newsletters, and product pages.
 simple: Tugan.ai transforms a web page or video link into ready‑to‑publish content such as email sequences, social media posts, newsletters, and product pages.

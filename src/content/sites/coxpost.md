@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: CoxPost - AI Tool Review & Guide 2026
 metaDescription: CoxPost is an AI-driven social media management tool that automates comments/replies on Facebook & Instagram.
 simple: CoxPost is an AI-driven social media management tool that automates comments/replies on Facebook & Instagram.

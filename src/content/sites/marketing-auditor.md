@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Marketing Auditor - AI Tool Review & Guide 2026
 metaDescription: Marketing Auditor is a versatile tool for evaluating digital marketing campaigns.
 simple: Marketing Auditor is a versatile tool for evaluating digital marketing campaigns.

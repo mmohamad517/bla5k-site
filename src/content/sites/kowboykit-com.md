@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Kowboykit.com - AI Tool Review & Guide 2026
 metaDescription: KowboyKit is an AI‑powered platform that centralizes server building, landing page creation, and analytics for affiliate campaigns.
 simple: KowboyKit is an AI‑powered platform that centralizes server building, landing page creation, and analytics for affiliate campaigns.

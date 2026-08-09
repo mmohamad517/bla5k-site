@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Target Client AI - AI Tool Review & Guide 2026
 metaDescription: Target Client AI streamlines audience analysis, providing actionable customer insights and detailed reports in under five minutes.
 simple: Target Client AI streamlines audience analysis, providing actionable customer insights and detailed reports in under five minutes.

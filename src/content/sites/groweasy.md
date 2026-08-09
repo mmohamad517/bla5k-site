@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: GrowEasy - AI Tool Review & Guide 2026
 metaDescription: GrowEasy uses AI to generate and continuously optimize banner, video, copy, and lead‑form ads across Google, Instagram, YouTube, and Facebook.
 simple: GrowEasy uses AI to generate and continuously optimize banner, video, copy, and lead‑form ads across Google, Instagram, YouTube, and Facebook.

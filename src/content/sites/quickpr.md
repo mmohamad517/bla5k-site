@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: QuickPR - AI Tool Review & Guide 2026
 metaDescription: QuickPR is a digital PR platform that utilizes AI for efficient article creation and fast publication.
 simple: QuickPR is a digital PR platform that utilizes AI for efficient article creation and fast publication.

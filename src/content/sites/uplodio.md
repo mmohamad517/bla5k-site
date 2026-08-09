@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Uplodio - AI Tool Review & Guide 2026
 metaDescription: Uplodio is an AI-driven influencer management tool that streamlines campaign management, recruits affiliates, and enhances user-generated content.
 simple: Uplodio is an AI-driven influencer management tool that streamlines campaign management, recruits affiliates, and enhances user-generated content.

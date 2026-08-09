@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Markty AI - AI Tool Review & Guide 2026
 metaDescription: Markty AI is a platform that deploys role-specific AI employees to manage and automate marketing workflows across social media, content, email, and sales.
 simple: Markty AI is a platform that deploys role-specific AI employees to manage and automate marketing workflows across social media, content, email, and sales.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: OranClick - AI Tool Review & Guide 2026
 metaDescription: OranClick tracks every link and message, giving creators real‑time insights into click behavior and funnel performance.
 simple: OranClick tracks every link and message, giving creators real‑time insights into click behavior and funnel performance.

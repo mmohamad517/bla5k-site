@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: MagnetsAI - AI Tool Review & Guide 2026
 metaDescription: Magnets AI is an AI-powered lead forms tool that provides hyper-personalized content, easy creation and embedding of forms, and lead tracking features.
 simple: Magnets AI is an AI-powered lead forms tool that provides hyper-personalized content, easy creation and embedding of forms, and lead tracking features.

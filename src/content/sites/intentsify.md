@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Intentsify - AI Tool Review & Guide 2026
 metaDescription: Intentsify aggregates 1.1 trillion intent signals monthly from 460,000+ sites, pinpointing in‑market accounts and delivering persona‑level insights.
 simple: Intentsify aggregates 1.1 trillion intent signals monthly from 460,000+ sites, pinpointing in‑market accounts and delivering persona‑level insights.

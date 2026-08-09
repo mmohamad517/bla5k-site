@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Press Hook - AI Tool Review & Guide 2026
 metaDescription: Press Hook is an AI‑powered platform that connects brands, agencies, and media.
 simple: Press Hook is an AI‑powered platform that connects brands, agencies, and media.

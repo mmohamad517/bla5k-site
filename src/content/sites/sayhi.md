@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: SayHi - AI Tool Review & Guide 2026
 metaDescription: SayHi is a Chrome extension that automates LinkedIn outreach by generating personalized messages from a contact’s profile.
 simple: SayHi is a Chrome extension that automates LinkedIn outreach by generating personalized messages from a contact’s profile.

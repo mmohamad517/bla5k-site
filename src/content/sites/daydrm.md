@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Daydrm - AI Tool Review & Guide 2026
 metaDescription: AI‑driven platform that generates creative concepts, briefs, and production assets for ad teams.
 simple: AI‑driven platform that generates creative concepts, briefs, and production assets for ad teams.

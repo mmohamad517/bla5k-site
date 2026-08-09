@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Ortto AI - AI Tool Review & Guide 2026
 metaDescription: Otto is an AI-powered email creation tool that helps organizations improve their marketing efforts and predict results.
 simple: Otto is an AI-powered email creation tool that helps organizations improve their marketing efforts and predict results.

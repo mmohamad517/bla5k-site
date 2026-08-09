@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Dreamwriter - AI Tool Review & Guide 2026
 metaDescription: Dreamwriter converts sales and marketing briefs into branded decks, one‑pager briefs, and emails within seconds.
 simple: Dreamwriter converts sales and marketing briefs into branded decks, one‑pager briefs, and emails within seconds.

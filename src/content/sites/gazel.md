@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Gazel - AI Tool Review & Guide 2026
 metaDescription: Gazel AI offers data-driven insights for optimizing landing pages, focusing on messaging, trust-building, and user experience.
 simple: Gazel AI offers data-driven insights for optimizing landing pages, focusing on messaging, trust-building, and user experience.

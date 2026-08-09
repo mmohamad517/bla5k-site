@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Genius offer ai - AI Tool Review & Guide 2026
 metaDescription: Genius Offer AI streamlines offer creation for small businesses, marketers, and sales professionals.
 simple: Genius Offer AI streamlines offer creation for small businesses, marketers, and sales professionals.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Kampfire - AI Tool Review & Guide 2026
 metaDescription: Kampfire creates AI‑generated photo albums for event attendees, syncing with registration, lead capture, and CRM.
 simple: Kampfire creates AI‑generated photo albums for event attendees, syncing with registration, lead capture, and CRM.

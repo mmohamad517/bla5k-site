@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Dreamwell - AI Tool Review & Guide 2026
 metaDescription: Dreamwell AI automates influencer prospecting by analyzing brand sites, scoring partners, and providing rate‑optimization formulas.
 simple: Dreamwell AI automates influencer prospecting by analyzing brand sites, scoring partners, and providing rate‑optimization formulas.

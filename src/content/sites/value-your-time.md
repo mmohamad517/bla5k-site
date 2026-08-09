@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Value your time - AI Tool Review & Guide 2026
 metaDescription: Value Time enables users to create shortened URLs and QR codes, easing the sharing process.
 simple: Value Time enables users to create shortened URLs and QR codes, easing the sharing process.

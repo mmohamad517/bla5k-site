@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: SMSGenius - AI Tool Review & Guide 2026
 metaDescription: SMSGenius is an SMS marketing platform that tracks clicks, conversions, and micro‑conversions in real time, offers dynamic personalization and A/B testing,...
 simple: SMSGenius is an SMS marketing platform that tracks clicks, conversions, and micro‑conversions in real time, offers dynamic personalization and A/B testing, real‑time segmentation, batch delivery with live performance data, autopilot threshold controls, and built‑in URL shortening for deliverability.

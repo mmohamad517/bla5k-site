@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Epicly AI - AI Tool Review & Guide 2026
 metaDescription: Epicly AI streamlines digital ad campaign creation, enabling faster content production and consistent brand management.
 simple: Epicly AI streamlines digital ad campaign creation, enabling faster content production and consistent brand management.

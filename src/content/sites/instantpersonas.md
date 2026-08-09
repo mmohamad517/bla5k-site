@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Instantpersonas - AI Tool Review & Guide 2026
 metaDescription: InstantPersonas automatically creates detailed user personas from limited input, revealing motivations, preferences, and behaviors.
 simple: InstantPersonas automatically creates detailed user personas from limited input, revealing motivations, preferences, and behaviors.

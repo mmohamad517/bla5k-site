@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ITComms - AI Tool Review & Guide 2026
 metaDescription: An AI-powered press release generator that generates unique and tailored content in minutes.
 simple: An AI-powered press release generator that generates unique and tailored content in minutes.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Quick Hub - AI Tool Review & Guide 2026
 metaDescription: Quick Hub is an automation tool that centralizes marketing efforts, enabling users to manage communications and campaigns across various platforms from a...
 simple: Quick Hub is an automation tool that centralizes marketing efforts, enabling users to manage communications and campaigns across various platforms from a single dashboard.

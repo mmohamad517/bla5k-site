@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Roadway - AI Tool Review & Guide 2026
 metaDescription: Roadway aggregates performance‑marketing data from multiple sources into a single warehouse‑native workspace, enabling cross‑channel attribution, KPI...
 simple: Roadway aggregates performance‑marketing data from multiple sources into a single warehouse‑native workspace, enabling cross‑channel attribution, KPI dashboards, and AI‑driven weekly insights.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Hawke AI - AI Tool Review & Guide 2026
 metaDescription: Hawke AI aggregates campaign data into real‑time dashboards, tracks KPIs across accounts, alerts anomalies, offers AI‑driven budget recommendations,...
 simple: Hawke AI aggregates campaign data into real‑time dashboards, tracks KPIs across accounts, alerts anomalies, offers AI‑driven budget recommendations, forecasting, segmentation, and benchmark comparisons, with customizable reports and controlled sharing for collaborative optimization.

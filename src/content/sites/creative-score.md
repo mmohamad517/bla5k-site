@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Creative Score - AI Tool Review & Guide 2026
 metaDescription: Creative Score is an AI tool that analyzes marketing creatives, identifying weaknesses and predicting performance using scientific principles.
 simple: Creative Score is an AI tool that analyzes marketing creatives, identifying weaknesses and predicting performance using scientific principles.

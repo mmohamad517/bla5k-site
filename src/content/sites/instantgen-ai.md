@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Instantgen ai - AI Tool Review & Guide 2026
 metaDescription: Instantgen AI offers AI‑powered generators for text and images across marketing channels.
 simple: Instantgen AI offers AI‑powered generators for text and images across marketing channels.

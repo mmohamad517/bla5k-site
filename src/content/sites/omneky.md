@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Omneky - AI Tool Review & Guide 2026
 metaDescription: Omneky automates creation of image, video, UGC, and avatar‑based ads by extracting brand assets from a website or uploads.
 simple: Omneky automates creation of image, video, UGC, and avatar‑based ads by extracting brand assets from a website or uploads.

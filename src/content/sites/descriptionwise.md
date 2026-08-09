@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Descriptionwise - AI Tool Review & Guide 2026
 metaDescription: Descriptionwise uses AI to generate product descriptions at scale, extracting features from images and data.
 simple: Descriptionwise uses AI to generate product descriptions at scale, extracting features from images and data.

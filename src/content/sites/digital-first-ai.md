@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Digital First AI - AI Tool Review & Guide 2026
 metaDescription: DFIRST AI is a marketing platform that lets users build custom campaigns via drag‑and‑drop, using AI agents for research, copywriting, visual creation, and...
 simple: DFIRST AI is a marketing platform that lets users build custom campaigns via drag‑and‑drop, using AI agents for research, copywriting, visual creation, and data extraction.

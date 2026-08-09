@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Uptik - AI Tool Review & Guide 2026
 metaDescription: Uptk is an affiliate outreach tool for TikTok sellers, enabling targeted marketing to over 3,000 affiliates daily.
 simple: Uptk is an affiliate outreach tool for TikTok sellers, enabling targeted marketing to over 3,000 affiliates daily.

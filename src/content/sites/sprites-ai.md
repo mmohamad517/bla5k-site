@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Sprites.ai - AI Tool Review & Guide 2026
 metaDescription: Sprites AI is an AI copilot for performance marketing that automates Google Ads, Meta Ads and SEO workflows—building campaigns, generating ads and...
 simple: Sprites AI is an AI copilot for performance marketing that automates Google Ads, Meta Ads and SEO workflows—building campaigns, generating ads and creatives, doing keyword research and technical SEO, running automations and integrations for cross-channel reporting.

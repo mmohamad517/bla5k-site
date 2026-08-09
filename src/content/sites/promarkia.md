@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Promarkia - AI Tool Review & Guide 2026
 metaDescription: ProMarkia is an AI marketing platform that automates various marketing tasks, including report generation, SEO analysis, and content creation.
 simple: ProMarkia is an AI marketing platform that automates various marketing tasks, including report generation, SEO analysis, and content creation.

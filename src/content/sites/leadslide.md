@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: LeadSlide - AI Tool Review & Guide 2026
 metaDescription: Leadslide AI automates ebook creation and email funnels on WordPress, generating ChatGPT‑based PDFs, landing pages, and follow‑up emails.
 simple: Leadslide AI automates ebook creation and email funnels on WordPress, generating ChatGPT‑based PDFs, landing pages, and follow‑up emails.

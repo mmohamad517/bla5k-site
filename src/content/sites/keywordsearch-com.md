@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: KeywordSearch.com - AI Tool Review & Guide 2026
 metaDescription: KeywordSearch analyzes business data to pinpoint high‑performing keywords and build targeted Google/YouTube ad audiences instantly.
 simple: KeywordSearch analyzes business data to pinpoint high‑performing keywords and build targeted Google/YouTube ad audiences instantly.

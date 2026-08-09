@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Roojoom.com - AI Tool Review & Guide 2026
 metaDescription: Roojoom offers AI‑powered customer journey orchestration that adapts in real time across web, mobile, and voice.
 simple: Roojoom offers AI‑powered customer journey orchestration that adapts in real time across web, mobile, and voice.

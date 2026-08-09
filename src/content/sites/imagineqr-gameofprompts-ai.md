@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ImagineQR - gameofprompts.ai - AI Tool Review & Guide 2026
 metaDescription: Unlock Power AI allows users to create customizable QR codes that link to various digital content.
 simple: Unlock Power AI allows users to create customizable QR codes that link to various digital content.
