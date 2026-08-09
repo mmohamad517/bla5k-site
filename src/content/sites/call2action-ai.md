@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Call2action AI - AI Tool Review & Guide 2026
 metaDescription: Call2Action is an AI recruiting software that automates interview scheduling and conducts live video interviews.
 simple: Call2Action is an AI recruiting software that automates interview scheduling and conducts live video interviews.

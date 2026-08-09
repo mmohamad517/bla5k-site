@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Corpdag - AI Tool Review & Guide 2026
 metaDescription: Corpdaq uses AI to convert receipts and financial snapshots into structured data for quick analysis, guides SMB owners through project planning, scores...
 simple: Corpdaq uses AI to convert receipts and financial snapshots into structured data for quick analysis, guides SMB owners through project planning, scores company health with actionable insights, monitors funded projects, flags early risks, and connects users to banks and investors.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Painted Saintly - AI Tool Review & Guide 2026
 metaDescription: Painted Saintly turns photos into Renaissance‑style saint portraits, producing high‑resolution images in under 30 seconds.
 simple: Painted Saintly turns photos into Renaissance‑style saint portraits, producing high‑resolution images in under 30 seconds.

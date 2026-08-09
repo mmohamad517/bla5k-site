@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Careers AI - AI Tool Review & Guide 2026
 metaDescription: Careers is an AI hiring assistant that auto‑generates job profiles, interview questions, and skill assessments.
 simple: Careers is an AI hiring assistant that auto‑generates job profiles, interview questions, and skill assessments.

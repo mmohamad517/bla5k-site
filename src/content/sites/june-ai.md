@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: June AI - AI Tool Review & Guide 2026
 metaDescription: June is an AI‑driven analytics platform for B2B SaaS that lets teams query user data via SQL or natural language.
 simple: June is an AI‑driven analytics platform for B2B SaaS that lets teams query user data via SQL or natural language.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Coffice - AI Tool Review & Guide 2026
 metaDescription: Coffice embeds in Slack to enable real‑time peer recognition by awarding points with tags and reasons.
 simple: Coffice embeds in Slack to enable real‑time peer recognition by awarding points with tags and reasons.

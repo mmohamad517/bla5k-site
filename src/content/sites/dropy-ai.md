@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Dropy AI - AI Tool Review & Guide 2026
 metaDescription: Dropy.AI automates dropshipping by curating winning products, offering one‑click Shopify imports, and integrating Zendrop and AliExpress.
 simple: Dropy.AI automates dropshipping by curating winning products, offering one‑click Shopify imports, and integrating Zendrop and AliExpress.

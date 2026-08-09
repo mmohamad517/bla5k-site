@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Empiraa - AI Tool Review & Guide 2026
 metaDescription: Empiraa is a strategic management tool that streamlines planning and execution, aligning business vision with actionable strategies.
 simple: Empiraa is a strategic management tool that streamlines planning and execution, aligning business vision with actionable strategies.

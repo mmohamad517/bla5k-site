@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: BrewNote - AI Tool Review & Guide 2026
 metaDescription: Looppanel lets researchers upload interview recordings via drag‑and‑drop, producing concise AI‑generated transcripts within about ten minutes.
 simple: Looppanel lets researchers upload interview recordings via drag‑and‑drop, producing concise AI‑generated transcripts within about ten minutes.

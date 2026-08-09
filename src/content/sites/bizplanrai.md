@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: BizplanrAI - AI Tool Review & Guide 2026
 metaDescription: Bizplanr uses AI to generate structured business plans, market analyses, and financial forecasts quickly.
 simple: Bizplanr uses AI to generate structured business plans, market analyses, and financial forecasts quickly.

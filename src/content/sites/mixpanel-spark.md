@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Mixpanel Spark - AI Tool Review & Guide 2026
 metaDescription: Spark Beta by Mixpanel is an AI tool that uses natural language processing to provide insights on product, marketing, and revenue questions.
 simple: Spark Beta by Mixpanel is an AI tool that uses natural language processing to provide insights on product, marketing, and revenue questions.

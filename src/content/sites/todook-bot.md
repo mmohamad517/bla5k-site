@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Todook bot - AI Tool Review & Guide 2026
 metaDescription: Todook is a 24/7 AI assistant that automates customer inquiries and sales across social channels.
 simple: Todook is a 24/7 AI assistant that automates customer inquiries and sales across social channels.

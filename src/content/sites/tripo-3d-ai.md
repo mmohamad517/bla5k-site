@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Tripo 3d - AI Tool Review & Guide 2026
 metaDescription: Tripo Studio is an AI-driven 3D workspace that creates high-fidelity models from text and images.
 simple: Tripo Studio is an AI-driven 3D workspace that creates high-fidelity models from text and images.

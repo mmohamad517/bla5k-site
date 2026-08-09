@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Univw.AI - AI Tool Review & Guide 2026
 metaDescription: Univw is a cloud‑based CRM for start‑ups and small businesses offering custom dashboards, call‑center metrics, AI‑driven agent coaching, automated QA, and...
 simple: Univw is a cloud‑based CRM for start‑ups and small businesses offering custom dashboards, call‑center metrics, AI‑driven agent coaching, automated QA, and script monitoring.

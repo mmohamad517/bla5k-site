@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Fidforward - AI Tool Review & Guide 2026
 metaDescription: FidForward is an AI‑driven outreach platform that aggregates, scores, and prioritizes leads for recruiters, sales, and BD teams.
 simple: FidForward is an AI‑driven outreach platform that aggregates, scores, and prioritizes leads for recruiters, sales, and BD teams.

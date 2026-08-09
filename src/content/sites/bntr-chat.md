@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: bntr Chat - AI Tool Review & Guide 2026
 metaDescription: bntr is an AI-driven platform offering Australian voice and chat solutions for enhanced communication.
 simple: bntr is an AI-driven platform offering Australian voice and chat solutions for enhanced communication.

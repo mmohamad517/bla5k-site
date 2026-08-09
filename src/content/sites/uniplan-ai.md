@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Uniplan.ai - AI Tool Review & Guide 2026
 metaDescription: Uniplan is an AI-powered business planning platform that quickly generates customized business plans from user input.
 simple: Uniplan is an AI-powered business planning platform that quickly generates customized business plans from user input.

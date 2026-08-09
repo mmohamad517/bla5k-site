@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Autumn AI - AI Tool Review & Guide 2026
 metaDescription: Autumn is an AI tool that enhances team well-being by analyzing employee engagement and identifying stressors.
 simple: Autumn is an AI tool that enhances team well-being by analyzing employee engagement and identifying stressors.

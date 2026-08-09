@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Xavier AI - AI Tool Review & Guide 2026
 metaDescription: Xavier AI is an AI strategy consultant that generates professional presentation decks in under a minute, supporting 50+ languages.
 simple: Xavier AI is an AI strategy consultant that generates professional presentation decks in under a minute, supporting 50+ languages.

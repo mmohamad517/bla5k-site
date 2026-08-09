@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Planbow - AI Tool Review & Guide 2026
 metaDescription: Planbow is an AI-driven strategic planning platform designed for product managers, offering features like actionable strategy formulation, task delegation,...
 simple: Planbow is an AI-driven strategic planning platform designed for product managers, offering features like actionable strategy formulation, task delegation, and real-time analytics to enhance collaboration, streamline workflows, and improve planning efficiency across various industries.

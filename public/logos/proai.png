@@ -1,0 +1,18 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+  :root { --bg: #ffffff; }
+  @media (prefers-color-scheme: dark) { :root { --bg: #0f172a; } }
+</style>
+<rect width="180" height="180" rx="36" fill="var(--bg)"/>
+<!-- Staircase: bottom pill is narrowest/leftmost, each pill going up is wider and steps right -->
+<!-- Blue   — bottom -->
+<rect x="8"  y="131" width="78"  height="18" rx="9" fill="#5A86EB"/>
+<!-- Coral -->
+<rect x="14" y="106" width="98"  height="18" rx="9" fill="#E6545F"/>
+<!-- Violet -->
+<rect x="19" y="81"  width="113" height="18" rx="9" fill="#8F6AD7"/>
+<!-- Mustard -->
+<rect x="26" y="56"  width="124" height="18" rx="9" fill="#F9D240"/>
+<!-- Teal   — top -->
+<rect x="38" y="31"  width="133" height="18" rx="9" fill="#28BC8E"/>
+</svg>

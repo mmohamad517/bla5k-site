@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AutoRecruiter - AI Tool Review & Guide 2026
 metaDescription: GoodSpace AI is an AI‑driven recruitment platform linking Indian job seekers and employers.
 simple: GoodSpace AI is an AI‑driven recruitment platform linking Indian job seekers and employers.

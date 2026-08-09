@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Valueprop - AI Tool Review & Guide 2026
 metaDescription: The AI Value Proposition Canvas Generator automatically builds a customer‑focused canvas from a company description, mapping jobs, pains, and gains to...
 simple: The AI Value Proposition Canvas Generator automatically builds a customer‑focused canvas from a company description, mapping jobs, pains, and gains to corresponding solutions.

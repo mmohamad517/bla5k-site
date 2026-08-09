@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Onnix - AI Tool Review & Guide 2026
 metaDescription: Onnix AI creates slide decks from bank templates, learns from past decks for rapid iteration, and performs Excel‑style data analysis via prompt commands,...
 simple: Onnix AI creates slide decks from bank templates, learns from past decks for rapid iteration, and performs Excel‑style data analysis via prompt commands, integrating with FactSet, CapIQ, or other feeds, delivering traceable, shareable insights for senior and junior teams.

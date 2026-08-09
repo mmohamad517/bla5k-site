@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Effy - AI Tool Review & Guide 2026
 metaDescription: Effy AI unifies 360° reviews, OKR tracking, and goal setting into one workflow.
 simple: Effy AI unifies 360° reviews, OKR tracking, and goal setting into one workflow.

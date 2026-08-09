@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: denvr.com - AI Tool Review & Guide 2026
 metaDescription: Denvr is a sovereign AI cloud and private platform on Canadian/US infrastructure, providing on-demand and reserved GPU compute (NVIDIA H200/H100/A100, Intel...
 simple: Denvr is a sovereign AI cloud and private platform on Canadian/US infrastructure, providing on-demand and reserved GPU compute (NVIDIA H200/H100/A100, Intel Gaudi2), scalable InfiniBand clusters, OpenAI-compatible inference endpoints, NVMe storage, secure networking, and developer APIs.

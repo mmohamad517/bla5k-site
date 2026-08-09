@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: workorb.com - AI Tool Review & Guide 2026
 metaDescription: Workorb AI automates proposal and RFP workflows—scoring go/no-go decisions and leveling bids—while generating consistent proposals and responses from...
 simple: Workorb AI automates proposal and RFP workflows—scoring go/no-go decisions and leveling bids—while generating consistent proposals and responses from templates and firm data, organizing a searchable knowledge hub, and assisting reviewers, resource planners, and recruiters.

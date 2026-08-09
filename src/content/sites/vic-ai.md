@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Vic AI - AI Tool Review & Guide 2026
 metaDescription: vic.ai automates accounts payable and corporate spend by using AI-driven invoice processing, PO matching, approval routing, vendor portal, bill pay,...
 simple: vic.ai automates accounts payable and corporate spend by using AI-driven invoice processing, PO matching, approval routing, vendor portal, bill pay, expense/card reconciliation, analytics, and agentic workflows to speed approvals, reduce manual tasks, and improve auditability.

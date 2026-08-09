@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Twenty - AI Tool Review & Guide 2026
 metaDescription: Twenty.com is an open-source CRM and SDK for building customizable CRM solutions, offering modular objects, fields, relations, and TypeScript tooling for...
 simple: Twenty.com is an open-source CRM and SDK for building customizable CRM solutions, offering modular objects, fields, relations, and TypeScript tooling for technical teams to extend, integrate, and deploy custom applications.

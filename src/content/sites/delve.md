@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Delve - AI Tool Review & Guide 2026
 metaDescription: Delve AI helps businesses create data-driven buyer personas for themselves and their competitors in minutes using data from sources like Google Analytics...
 simple: Delve AI helps businesses create data-driven buyer personas for themselves and their competitors in minutes using data from sources like Google Analytics and social media analytics.

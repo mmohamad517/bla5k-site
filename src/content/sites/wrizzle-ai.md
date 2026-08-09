@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Wrizzle AI - AI Tool Review & Guide 2026
 metaDescription: Wrizzle AI is an AI writing assistant that generates and rewrites content (blog posts, product descriptions, social copy), paraphrases and summarizes...
 simple: Wrizzle AI is an AI writing assistant that generates and rewrites content (blog posts, product descriptions, social copy), paraphrases and summarizes documents and PDFs, detects AI-generated text, and humanizes tone while offering no-storage privacy for fast workflows.

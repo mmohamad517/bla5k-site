@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Vuala 1.0 - AI Tool Review & Guide 2026
 metaDescription: Vuala automates invoice capture by extracting documents from email and 7,000 supplier portals, routing them to accounting platforms such as QuickBooks,...
 simple: Vuala automates invoice capture by extracting documents from email and 7,000 supplier portals, routing them to accounting platforms such as QuickBooks, Xero, and Hubdoc.

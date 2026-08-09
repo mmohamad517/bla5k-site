@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Brainner - AI Tool Review & Guide 2026
 metaDescription: Brainner is an AI‑powered resume screening platform that integrates with major ATS, automatically extracts job criteria, ranks candidates in real time,...
 simple: Brainner is an AI‑powered resume screening platform that integrates with major ATS, automatically extracts job criteria, ranks candidates in real time, offers transparent scoring, bulk status updates, and a fraud‑detection engine, enhancing hiring speed and compliance.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: WordCraft3D - AI Tool Review & Guide 2026
 metaDescription: WordCraft3D converts text prompts into downloadable .obj 3D models, delivering ZIP bundles in a few minutes.
 simple: WordCraft3D converts text prompts into downloadable .obj 3D models, delivering ZIP bundles in a few minutes.

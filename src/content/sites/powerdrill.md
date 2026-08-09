@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Powerdrill - AI Tool Review & Guide 2026
 metaDescription: Powerdrill Bloom is an AI assistant platform that lets teams collaborate via a sidebar, using agents to analyze data and produce insights on topics, product...
 simple: Powerdrill Bloom is an AI assistant platform that lets teams collaborate via a sidebar, using agents to analyze data and produce insights on topics, product comparisons, market trends, and forecasts, organized as searchable reference trails, tailored for analysts.

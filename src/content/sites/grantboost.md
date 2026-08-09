@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Grantboost - AI Tool Review & Guide 2026
 metaDescription: AI‑powered platform that gathers organization details via a survey to generate customized grant proposal drafts.
 simple: AI‑powered platform that gathers organization details via a survey to generate customized grant proposal drafts.

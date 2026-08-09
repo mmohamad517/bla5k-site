@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: GoProfiles - AI Tool Review & Guide 2026
 metaDescription: GoProfiles is an AI‑powered employee directory that syncs real‑time HRIS data, provides an AI assistant for coworker insights, visualizes global teams with...
 simple: GoProfiles is an AI‑powered employee directory that syncs real‑time HRIS data, provides an AI assistant for coworker insights, visualizes global teams with an interactive map, and offers peer recognition and milestone celebrations via Slack, Teams, and mobile.

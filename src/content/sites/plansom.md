@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Plansom - AI Tool Review & Guide 2026
 metaDescription: Plansom is an AI‑powered platform that converts documents into structured, shareable plans in minutes, extracting deliverables, timelines, owners,...
 simple: Plansom is an AI‑powered platform that converts documents into structured, shareable plans in minutes, extracting deliverables, timelines, owners, priorities, and estimates to enable quick delegation, real‑time tracking, and automated bottleneck alerts.

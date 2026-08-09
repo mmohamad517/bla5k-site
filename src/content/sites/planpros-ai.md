@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: PlanPros.ai - AI Tool Review & Guide 2026
 metaDescription: PlanPros AI Business Plan Generator efficiently creates professional business plans in just 12 minutes, tailored to unique needs for new or existing companies.
 simple: PlanPros AI Business Plan Generator efficiently creates professional business plans in just 12 minutes, tailored to unique needs for new or existing companies.

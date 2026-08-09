@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Generai - AI Tool Review & Guide 2026
 metaDescription: Generai is an AI tool that generates personalized art pieces and prints based on user descriptions using advanced algorithms and fast GPUs.
 simple: Generai is an AI tool that generates personalized art pieces and prints based on user descriptions using advanced algorithms and fast GPUs.

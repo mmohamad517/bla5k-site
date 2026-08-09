@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Cover-letter generator with AI - AI Tool Review & Guide 2026
 metaDescription: TheToolBus offers free, instant tools for small business owners, including PDF merge/split/compress, Word/Excel conversion, OCR, PowerPoint export, image...
 simple: TheToolBus offers free, instant tools for small business owners, including PDF merge/split/compress, Word/Excel conversion, OCR, PowerPoint export, image compression/resizing/format conversion, background removal, QR code and website‑to‑PDF creation, plus business calculators and utilities like password generation and time‑zone conversion.

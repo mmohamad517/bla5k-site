@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ATZ CRM - AI Tool Review & Guide 2026
 metaDescription: AtZ CRM is an AI-driven recruitment software that combines ATS and CRM functionalities, streamlining hiring workflows with automation, smart resume parsing,...
 simple: AtZ CRM is an AI-driven recruitment software that combines ATS and CRM functionalities, streamlining hiring workflows with automation, smart resume parsing, customizable pipelines, and detailed analytics for efficient candidate management and communication.

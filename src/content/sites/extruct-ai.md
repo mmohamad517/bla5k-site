@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Extruct AI - AI Tool Review & Guide 2026
 metaDescription: Extruct AI is an AI-powered company intelligence platform that automates business research, enabling users to discover private companies, enrich data, and...
 simple: Extruct AI is an AI-powered company intelligence platform that automates business research, enabling users to discover private companies, enrich data, and track market trends in real time.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AI Resume Checker - AI Tool Review & Guide 2026
 metaDescription: AI Powered Resume Checker scans PDF resumes for ATS compatibility, spelling, grammar, keyword alignment, formatting, and impact statements, delivering a...
 simple: AI Powered Resume Checker scans PDF resumes for ATS compatibility, spelling, grammar, keyword alignment, formatting, and impact statements, delivering a detailed report with improvement suggestions within minutes.

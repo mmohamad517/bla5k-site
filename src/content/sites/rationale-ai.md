@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Rationale AI - AI Tool Review & Guide 2026
 metaDescription: Rationale is a GPT‑powered decision‑support tool that produces structured analyses—pros/cons, SWOT, multi‑option comparisons, causal chains—based on context...
 simple: Rationale is a GPT‑powered decision‑support tool that produces structured analyses—pros/cons, SWOT, multi‑option comparisons, causal chains—based on context and user profiles.

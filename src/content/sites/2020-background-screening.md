@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: 2020 background screening - AI Tool Review & Guide 2026
 metaDescription: 2020 Background Screening delivers rapid, accurate checks integrated with applicant‑tracking systems, pulling data from multiple sources.
 simple: 2020 Background Screening delivers rapid, accurate checks integrated with applicant‑tracking systems, pulling data from multiple sources.

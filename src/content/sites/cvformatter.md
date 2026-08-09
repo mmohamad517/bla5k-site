@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: CVFormatter - AI Tool Review & Guide 2026
 metaDescription: CVFormatter is an AI-driven resume formatting tool that streamlines the processing of resumes for HR professionals.
 simple: CVFormatter is an AI-driven resume formatting tool that streamlines the processing of resumes for HR professionals.
