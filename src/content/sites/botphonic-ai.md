@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Botphonic.ai - AI Tool Review & Guide 2026
 metaDescription: Botphonic.ai is an AI call assistant that automates inbound and outbound voice interactions for industries like healthcare and real estate.
 simple: Botphonic.ai is an AI call assistant that automates inbound and outbound voice interactions for industries like healthcare and real estate.

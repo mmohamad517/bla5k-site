@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Loveable.dev - AI Tool Review & Guide 2026
 metaDescription: Lovable is an AI-powered tool that transforms ideas into functional applications without coding, acting as a superhuman full-stack engineer.
 simple: Lovable is an AI-powered tool that transforms ideas into functional applications without coding, acting as a superhuman full-stack engineer.

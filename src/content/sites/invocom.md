@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Invocom - AI Tool Review & Guide 2026
 metaDescription: "Tool Description: Invocom is an AI-driven chatbot that assists businesses in lead qualification, automated customer support, and enhances interactions."
 simple: "Tool Description: Invocom is an AI-driven chatbot that assists businesses in lead qualification, automated customer support, and enhances interactions."

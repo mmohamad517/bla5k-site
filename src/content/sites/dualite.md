@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Dualite - AI Tool Review & Guide 2026
 metaDescription: Dualite is an AI-driven platform enabling users to create functional mobile and web applications without coding.
 simple: Dualite is an AI-driven platform enabling users to create functional mobile and web applications without coding.

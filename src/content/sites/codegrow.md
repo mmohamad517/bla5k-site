@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: CodeGrow - AI Tool Review & Guide 2026
 metaDescription: Codegrow is an AI-driven platform for developing iOS applications, allowing users to generate, build, and launch apps with minimal coding.
 simple: Codegrow is an AI-driven platform for developing iOS applications, allowing users to generate, build, and launch apps with minimal coding.

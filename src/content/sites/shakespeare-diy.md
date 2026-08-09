@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Shakespeare.diy - AI Tool Review & Guide 2026
 metaDescription: Shakespeare is an open-source AI builder for decentralized applications, featuring community-driven apps for social connectivity, private journaling, task...
 simple: Shakespeare is an open-source AI builder for decentralized applications, featuring community-driven apps for social connectivity, private journaling, task management, music exploration, and anonymous reading, while prioritizing data ownership and privacy without centralized servers.

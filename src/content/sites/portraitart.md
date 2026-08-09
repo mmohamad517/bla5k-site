@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: PortraitArt - AI Tool Review & Guide 2026
 metaDescription: PortraitArt converts uploaded photos into custom coloring pages and diverse styles—oil, watercolor, sketch, cartoon, pop art, etc.
 simple: PortraitArt converts uploaded photos into custom coloring pages and diverse styles—oil, watercolor, sketch, cartoon, pop art, etc.

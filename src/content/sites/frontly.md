@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Frontly - AI Tool Review & Guide 2026
 metaDescription: Frontly is a no-code AI app builder that generates and edits custom software from natural-language prompts, combining a visual editor, templates, client...
 simple: Frontly is a no-code AI app builder that generates and edits custom software from natural-language prompts, combining a visual editor, templates, client portals, workflow integrations, API access and team controls for prototyping to production.

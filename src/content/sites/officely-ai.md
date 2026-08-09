@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Officely AI - AI Tool Review & Guide 2026
 metaDescription: Officely AI is a low-code platform that enables users to create and manage AI workflows tailored to organizational needs, providing full control over AI...
 simple: Officely AI is a low-code platform that enables users to create and manage AI workflows tailored to organizational needs, providing full control over AI models for enhanced security, customization, and seamless integration into existing processes.

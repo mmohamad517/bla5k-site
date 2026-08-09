@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Get Simple Chat - AI Tool Review & Guide 2026
 metaDescription: Get Simple Chat is a chatbot builder offering 52 pre-built templates for 50+ industries, with preset question flows and knowledge skeletons for quick...
 simple: Get Simple Chat is a chatbot builder offering 52 pre-built templates for 50+ industries, with preset question flows and knowledge skeletons for quick business customization.

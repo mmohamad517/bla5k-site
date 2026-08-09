@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ColoringDaily - AI Tool Review & Guide 2026
 metaDescription: ColoringDaily is an AI coloring page generator that turns text prompts and photos into printable line art.
 simple: ColoringDaily is an AI coloring page generator that turns text prompts and photos into printable line art.

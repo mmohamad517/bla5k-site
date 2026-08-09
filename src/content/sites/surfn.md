@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Surfn - AI Tool Review & Guide 2026
 metaDescription: Surfn is a no-code builder for conversational AI pages that use site content, videos and FAQs to deliver context-aware answers, qualify leads with...
 simple: Surfn is a no-code builder for conversational AI pages that use site content, videos and FAQs to deliver context-aware answers, qualify leads with conditional logic, schedule meetings, integrate with CRM/Sheets/Zapier, and monitor conversation analytics.

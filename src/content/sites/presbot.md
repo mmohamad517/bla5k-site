@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Presbot - AI Tool Review & Guide 2026
 metaDescription: Presbot uses ChatGPT to automate lead capture and retargeting on websites, collecting visitor data, storing leads, and sending instant sales notifications.
 simple: Presbot uses ChatGPT to automate lead capture and retargeting on websites, collecting visitor data, storing leads, and sending instant sales notifications.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Q Slack Chatbot - AI Tool Review & Guide 2026
 metaDescription: Q is a Slack‑integrated GPT assistant invoked with @Q that reads URLs and files, follows custom instructions, and offers unlimited chat history, advanced...
 simple: Q is a Slack‑integrated GPT assistant invoked with @Q that reads URLs and files, follows custom instructions, and offers unlimited chat history, advanced search, and 24/7 access for summarization, brainstorming, code review, translation, and content creation.

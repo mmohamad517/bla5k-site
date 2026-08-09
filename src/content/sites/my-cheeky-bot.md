@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: My Cheeky Bot - AI Tool Review & Guide 2026
 metaDescription: Cheeky Bot enables businesses to create and deploy custom GPT-based chatbots for automated customer engagement and lead generation.
 simple: Cheeky Bot enables businesses to create and deploy custom GPT-based chatbots for automated customer engagement and lead generation.

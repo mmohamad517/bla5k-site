@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Conferbot - AI Tool Review & Guide 2026
 metaDescription: Conferbot is a no-code chatbot platform with a visual builder and industry templates, enabling omnichannel deployment (WhatsApp, Messenger, Instagram,...
 simple: Conferbot is a no-code chatbot platform with a visual builder and industry templates, enabling omnichannel deployment (WhatsApp, Messenger, Instagram, Telegram, web, mobile SDKs), NLP-driven flows for lead capture, bookings, FAQ automation, analytics, integrations and API access.

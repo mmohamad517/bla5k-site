@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Cronbot.AI - AI Tool Review & Guide 2026
 metaDescription: Cronbot is a no-code chatbot platform for websites and SaaS that enables embed deployment, multi-channel integrations, a built-in CRM with lead capture and...
 simple: Cronbot is a no-code chatbot platform for websites and SaaS that enables embed deployment, multi-channel integrations, a built-in CRM with lead capture and alerts, conversation analytics, centralized bot management, human handoff, and training from PDFs, web content, or Notion.

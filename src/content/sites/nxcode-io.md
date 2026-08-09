@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: NxCode - AI Tool Review & Guide 2026
 metaDescription: nxcode.io is an AI app builder that transforms plain-English ideas into production-ready web and mobile apps without coding.
 simple: nxcode.io is an AI app builder that transforms plain-English ideas into production-ready web and mobile apps without coding.

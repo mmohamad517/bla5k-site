@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: SamurAi - AI Tool Review & Guide 2026
 metaDescription: SamurAI is a community chatbot built on ChatGPT that allows you to create, manage, and grow your community on Discord through features such as creating...
 simple: SamurAI is a community chatbot built on ChatGPT that allows you to create, manage, and grow your community on Discord through features such as creating servers, channels, managing invitations and welcomes, and answering queries.

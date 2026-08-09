@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Sideconvo.ai - AI Tool Review & Guide 2026
 metaDescription: Sideconvo.ai is an AI-powered plugin that acts as a 24/7 virtual assistant for your website.
 simple: Sideconvo.ai is an AI-powered plugin that acts as a 24/7 virtual assistant for your website.

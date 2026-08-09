@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Chattie - AI Tool Review & Guide 2026
 metaDescription: Chattie lets web owners embed ChatGPT into their sites, training bots on custom PDFs, DOCX, CSV, etc., while auto‑generating prompts.
 simple: Chattie lets web owners embed ChatGPT into their sites, training bots on custom PDFs, DOCX, CSV, etc., while auto‑generating prompts.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: FYRAN - AI Tool Review & Guide 2026
 metaDescription: Fyran is an AI chatbot builder that easily generates advanced bots from uploaded files like PDF or MP3.
 simple: Fyran is an AI chatbot builder that easily generates advanced bots from uploaded files like PDF or MP3.

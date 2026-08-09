@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Dentrochat - AI Tool Review & Guide 2026
 metaDescription: DentroChat is a GDPR‑compliant chatbot running on European infrastructure, keeping all user data inside the EU.
 simple: DentroChat is a GDPR‑compliant chatbot running on European infrastructure, keeping all user data inside the EU.

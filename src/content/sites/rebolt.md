@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Rebolt - AI Tool Review & Guide 2026
 metaDescription: Rebolt is a no-code AI app builder that uses natural language to create apps, agents, workflows and websites, integrating enterprise data sources (Gmail,...
 simple: Rebolt is a no-code AI app builder that uses natural language to create apps, agents, workflows and websites, integrating enterprise data sources (Gmail, Slack, Salesforce, databases) with OpenAI/Anthropic models, exportable code, and enterprise-grade security.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Flowscript.AI - AI Tool Review & Guide 2026
 metaDescription: Flowscript transforms plain‑English requirements into fully functional web apps with minimal coding.
 simple: Flowscript transforms plain‑English requirements into fully functional web apps with minimal coding.

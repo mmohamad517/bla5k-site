@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Bolt AI Dev - AI Tool Review & Guide 2026
 metaDescription: BoltAI.dev is a no-code platform for web UI development, offering a drag-and-drop interface and AI-driven tools for prototyping.
 simple: BoltAI.dev is a no-code platform for web UI development, offering a drag-and-drop interface and AI-driven tools for prototyping.

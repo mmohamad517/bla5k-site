@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: OpenAssistantGPT - AI Tool Review & Guide 2026
 metaDescription: OpenAssistantGPT is an open‑source SaaS that lets you build no‑code AI chatbots for websites.
 simple: OpenAssistantGPT is an open‑source SaaS that lets you build no‑code AI chatbots for websites.

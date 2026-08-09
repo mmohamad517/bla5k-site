@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Meku - AI Tool Review & Guide 2026
 metaDescription: Meku is an AI web app builder that simplifies the creation and deployment of scalable web applications.
 simple: Meku is an AI web app builder that simplifies the creation and deployment of scalable web applications.

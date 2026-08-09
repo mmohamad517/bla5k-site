@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Interacly AI - AI Tool Review & Guide 2026
 metaDescription: Interacly AI is a platform for creating and exploring interactive AI chatbots.
 simple: Interacly AI is a platform for creating and exploring interactive AI chatbots.

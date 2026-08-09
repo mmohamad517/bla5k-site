@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Rork - AI Tool Review & Guide 2026
 metaDescription: Rork is an AI platform for creating cross-platform mobile apps quickly using Expo and React Native.
 simple: Rork is an AI platform for creating cross-platform mobile apps quickly using Expo and React Native.

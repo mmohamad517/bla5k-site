@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Quriobot - AI Tool Review & Guide 2026
 metaDescription: Quriobot is a no-code chatbot builder with drag-and-drop flow design, templates, conditional logic and form-based lead capture to automate FAQs, qualify...
 simple: Quriobot is a no-code chatbot builder with drag-and-drop flow design, templates, conditional logic and form-based lead capture to automate FAQs, qualify prospects, route conversations, integrate with CRMs and analyze conversations for optimization.

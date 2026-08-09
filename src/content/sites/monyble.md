@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Monyble - AI Tool Review & Guide 2026
 metaDescription: Monyble is a no‑code AI platform for non‑technical teams to build chatbots, customer‑service agents, marketing automation, HR tools, and analytics.
 simple: Monyble is a no‑code AI platform for non‑technical teams to build chatbots, customer‑service agents, marketing automation, HR tools, and analytics.

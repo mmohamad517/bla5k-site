@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Softgen - AI Tool Review & Guide 2026
 metaDescription: Softgen transforms natural‑language specs into Next.js apps, integrating Supabase, Vercel, and GitHub for database, deployment, and version control.
 simple: Softgen transforms natural‑language specs into Next.js apps, integrating Supabase, Vercel, and GitHub for database, deployment, and version control.

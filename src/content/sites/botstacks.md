@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: BotStacks - AI Tool Review & Guide 2026
 metaDescription: BotStacks is a no‑code platform that builds AI chatbots for Wix, Squarespace, Bubble, Framer, and Webflow sites.
 simple: BotStacks is a no‑code platform that builds AI chatbots for Wix, Squarespace, Bubble, Framer, and Webflow sites.

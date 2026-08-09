@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Chattee - AI Tool Review & Guide 2026
 metaDescription: Chattee is an AI app builder that converts plain-English prompts into full-stack web applications with databases, auth, and workflows.
 simple: Chattee is an AI app builder that converts plain-English prompts into full-stack web applications with databases, auth, and workflows.

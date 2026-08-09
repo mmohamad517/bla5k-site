@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Relish.ai - AI Tool Review & Guide 2026
 metaDescription: Relish AI is a Shopify chatbot that automates sales and support conversations, offering real‑time product search, FAQ answers, abandoned‑cart recovery, and...
 simple: Relish AI is a Shopify chatbot that automates sales and support conversations, offering real‑time product search, FAQ answers, abandoned‑cart recovery, and personalized recommendations while integrating with Inbox, Klaviyo, and Gorgias.

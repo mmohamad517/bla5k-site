@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Flutter - AI Tool Review & Guide 2026
 metaDescription: ShipFlutter is a customizable boilerplate starter kit for Flutter, enabling rapid project generation with an AI builder.
 simple: ShipFlutter is a customizable boilerplate starter kit for Flutter, enabling rapid project generation with an AI builder.

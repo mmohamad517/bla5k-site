@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Intellecta - AI Tool Review & Guide 2026
 metaDescription: Intellecta supplies autonomous AI agents for Shopify, automatically creating product pages, managing content, and handling customer chats.
 simple: Intellecta supplies autonomous AI agents for Shopify, automatically creating product pages, managing content, and handling customer chats.

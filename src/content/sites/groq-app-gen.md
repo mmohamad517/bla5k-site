@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Groq APP Gen - AI Tool Review & Guide 2026
 metaDescription: The Groq App Generator is a web-based tool for generating and modifying web applications using the LLM API from Groq.
 simple: The Groq App Generator is a web-based tool for generating and modifying web applications using the LLM API from Groq.

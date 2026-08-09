@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Gallabox - AI Tool Review & Guide 2026
 metaDescription: Gallabox is a conversational AI platform for WhatsApp that automates customer interactions.
 simple: Gallabox is a conversational AI platform for WhatsApp that automates customer interactions.

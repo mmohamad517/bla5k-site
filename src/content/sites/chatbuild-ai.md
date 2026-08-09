@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Chatbuild ai - AI Tool Review & Guide 2026
 metaDescription: Create a custom AI chatbot without coding.
 simple: Create a custom AI chatbot without coding.

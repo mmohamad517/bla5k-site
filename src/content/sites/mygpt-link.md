@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: MyGPT Link - AI Tool Review & Guide 2026
 metaDescription: MyGPT lets users build custom ChatGPT‑style bots inside Telegram, choosing from GPT‑4o, GPT‑3.5‑turbo, or Claude 3‑5‑sonnet.
 simple: MyGPT lets users build custom ChatGPT‑style bots inside Telegram, choosing from GPT‑4o, GPT‑3.5‑turbo, or Claude 3‑5‑sonnet.

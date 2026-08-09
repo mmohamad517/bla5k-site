@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Chatbot UI - AI Tool Review & Guide 2026
 metaDescription: Open source chatbot UI for cloning OpenAI's GPT chat UI Chatbot builder Free
 simple: Open source chatbot UI for cloning OpenAI's GPT chat UI Chatbot builder Free
