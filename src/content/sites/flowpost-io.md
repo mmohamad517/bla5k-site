@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Flowpost.io - AI Tool Review & Guide 2026
 metaDescription: Flowpost is an AI tool that helps users create LinkedIn carousels and posts quickly by selecting topics, tones, and formats.
 simple: Flowpost is an AI tool that helps users create LinkedIn carousels and posts quickly by selecting topics, tones, and formats.

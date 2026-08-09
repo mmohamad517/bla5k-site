@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Audio Cut - AI Tool Review & Guide 2026
 metaDescription: Audio Cut is a browser-based tool for trimming and cutting audio files without installation.
 simple: Audio Cut is a browser-based tool for trimming and cutting audio files without installation.

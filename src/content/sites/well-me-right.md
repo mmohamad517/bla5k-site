@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Well Me Right - AI Tool Review & Guide 2026
 metaDescription: Well Me Right connects users with certified wellness professionals for personalized 1‑on‑1 virtual coaching.
 simple: Well Me Right connects users with certified wellness professionals for personalized 1‑on‑1 virtual coaching.

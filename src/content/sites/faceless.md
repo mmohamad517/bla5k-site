@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Faceless - AI Tool Review & Guide 2026
 metaDescription: Faceless.video automates full video production—script, edit, publish—without on‑screen talent.
 simple: Faceless.video automates full video production—script, edit, publish—without on‑screen talent.

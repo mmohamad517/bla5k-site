@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Embolden - AI Tool Review & Guide 2026
 metaDescription: Embolden is an AI writing platform tailored for e‑commerce.
 simple: Embolden is an AI writing platform tailored for e‑commerce.

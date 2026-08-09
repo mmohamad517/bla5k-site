@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Genbaz - AI Tool Review & Guide 2026
 metaDescription: Genbaz is an AI content generation platform offering over 15,000 specialized tools for creating text, images, and videos.
 simple: Genbaz is an AI content generation platform offering over 15,000 specialized tools for creating text, images, and videos.

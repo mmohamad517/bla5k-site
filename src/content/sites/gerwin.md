@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Gerwin - AI Tool Review & Guide 2026
 metaDescription: Gerwin AI is a unified Russian‑language platform offering 150+ AI models for text, image, video, and audio generation.
 simple: Gerwin AI is a unified Russian‑language platform offering 150+ AI models for text, image, video, and audio generation.

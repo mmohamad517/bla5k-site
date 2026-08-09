@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Leader menu - AI Tool Review & Guide 2026
 metaDescription: Leader Menu centralizes AI‑generated leadership content, offering structured articles, case studies, templates, and dashboards for decision‑making,...
 simple: Leader Menu centralizes AI‑generated leadership content, offering structured articles, case studies, templates, and dashboards for decision‑making, stakeholder engagement, quarterly priorities, and performance tracking.

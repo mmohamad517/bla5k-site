@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: DreamKid - AI Tool Review & Guide 2026
 metaDescription: Dream Kid AI creates personalized illustrated stories for hospitalized children, weaving medical concepts into themed adventures.
 simple: Dream Kid AI creates personalized illustrated stories for hospitalized children, weaving medical concepts into themed adventures.

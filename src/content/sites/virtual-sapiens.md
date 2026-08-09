@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Virtual Sapiens - AI Tool Review & Guide 2026
 metaDescription: AI‑powered roleplay coach for managers, sales teams, and new hires.
 simple: AI‑powered roleplay coach for managers, sales teams, and new hires.

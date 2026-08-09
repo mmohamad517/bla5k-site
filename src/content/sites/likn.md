@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: LIKN - AI Tool Review & Guide 2026
 metaDescription: Likn is a cutting-edge AI tool that seamlessly connects web2 to web3, simplifying NFT minting from any content URL.
 simple: Likn is a cutting-edge AI tool that seamlessly connects web2 to web3, simplifying NFT minting from any content URL.

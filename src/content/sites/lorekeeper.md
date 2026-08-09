@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: LoreKeeper - AI Tool Review & Guide 2026
 metaDescription: LoreKeeper is a TTRPG preparation platform that lets users import PDFs, images or text to build a knowledge base, chat with characters, generate portraits,...
 simple: LoreKeeper is a TTRPG preparation platform that lets users import PDFs, images or text to build a knowledge base, chat with characters, generate portraits, maps, scene videos, and compile a full campaign sourcebook.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Jaxo AI - AI Tool Review & Guide 2026
 metaDescription: JaxoAI unifies text, image, code, chatbot, and speech‑to‑text AI generation in one dashboard.
 simple: JaxoAI unifies text, image, code, chatbot, and speech‑to‑text AI generation in one dashboard.

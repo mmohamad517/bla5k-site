@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Laike AI - AI Tool Review & Guide 2026
 metaDescription: Laike AI is a versatile creative suite for generating videos, images, and text.
 simple: Laike AI is a versatile creative suite for generating videos, images, and text.

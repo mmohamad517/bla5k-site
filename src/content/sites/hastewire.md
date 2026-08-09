@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Hastewire - AI Tool Review & Guide 2026
 metaDescription: Hastewire is an AI platform that humanizes content and detects AI-generated text.
 simple: Hastewire is an AI platform that humanizes content and detects AI-generated text.

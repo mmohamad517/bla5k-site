@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Designrr - AI Tool Review & Guide 2026
 metaDescription: Designrr converts blog posts, Word/Google Docs, PDFs, audio and video into ebooks, PDFs, flipbooks and blog posts, using automatic transcription, templates...
 simple: Designrr converts blog posts, Word/Google Docs, PDFs, audio and video into ebooks, PDFs, flipbooks and blog posts, using automatic transcription, templates and editing tools to produce export-ready layouts, transcripts and publishable lead magnets.

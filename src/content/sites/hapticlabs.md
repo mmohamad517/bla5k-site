@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Hapticlabs - AI Tool Review & Guide 2026
 metaDescription: Hapticlabs provides a no‑code toolkit to design, test, and deploy custom tactile feedback.
 simple: Hapticlabs provides a no‑code toolkit to design, test, and deploy custom tactile feedback.

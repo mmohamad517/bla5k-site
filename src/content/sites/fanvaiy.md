@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Fanvaiy - AI Tool Review & Guide 2026
 metaDescription: Fanvaiy is a blogging platform that enables creators to publish SEO-friendly content with ease.
 simple: Fanvaiy is a blogging platform that enables creators to publish SEO-friendly content with ease.

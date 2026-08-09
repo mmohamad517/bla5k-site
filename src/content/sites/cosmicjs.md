@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: CosmicJS - AI Tool Review & Guide 2026
 metaDescription: Cosmic is a headless CMS delivering content via a content API for omnichannel publishing, with SDKs and starter kits for React, Next.js, Vue, Gatsby, and...
 simple: Cosmic is a headless CMS delivering content via a content API for omnichannel publishing, with SDKs and starter kits for React, Next.js, Vue, Gatsby, and Astro, plus image CDN, content modeling, versioning, role controls, AI-assisted workflows, integrations.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Hexus AI - AI Tool Review & Guide 2026
 metaDescription: Hexus automates the creation and continuous updating of product demos, videos, and interactive guides from screen recordings.
 simple: Hexus automates the creation and continuous updating of product demos, videos, and interactive guides from screen recordings.

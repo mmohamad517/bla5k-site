@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Ideator AI - AI Tool Review & Guide 2026
 metaDescription: Ideator AI is an innovative tool for designers and innovators, featuring iterative functionality to generate interactive variations while preserving the...
 simple: Ideator AI is an innovative tool for designers and innovators, featuring iterative functionality to generate interactive variations while preserving the primary purpose.

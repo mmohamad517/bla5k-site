@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Lemonspeak - AI Tool Review & Guide 2026
 metaDescription: LemonSpeak turns podcast MP3s into marketing assets—transcripts, diarized speaker tags, summaries, show notes, SEO titles, blog posts, tweets, Q&A polls,...
 simple: LemonSpeak turns podcast MP3s into marketing assets—transcripts, diarized speaker tags, summaries, show notes, SEO titles, blog posts, tweets, Q&A polls, chapter markers—supporting English and German.

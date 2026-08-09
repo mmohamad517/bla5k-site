@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Audio Cutter AI - AI Tool Review & Guide 2026
 metaDescription: Audio Cutter AI is a browser-based tool for trimming and editing MP3, WAV, and FLAC files with AI-assisted cut point detection and precise interval selection.
 simple: Audio Cutter AI is a browser-based tool for trimming and editing MP3, WAV, and FLAC files with AI-assisted cut point detection and precise interval selection.

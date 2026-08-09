@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Growcado - AI Tool Review & Guide 2026
 metaDescription: Growcado connects first-party Shopify, Klaviyo and analytics data to deliver no-code on-site personalization.
 simple: Growcado connects first-party Shopify, Klaviyo and analytics data to deliver no-code on-site personalization.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: FenPost - AI Tool Review & Guide 2026
 metaDescription: Fenpost is an AI tool for generating LinkedIn content, including posts and carousels.
 simple: Fenpost is an AI tool for generating LinkedIn content, including posts and carousels.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Glitter AI - AI Tool Review & Guide 2026
 metaDescription: Glitter AI transforms video or screen‑capture recordings into structured step‑by‑step guides, SOPs, and onboarding documents.
 simple: Glitter AI transforms video or screen‑capture recordings into structured step‑by‑step guides, SOPs, and onboarding documents.

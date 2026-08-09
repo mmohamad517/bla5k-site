@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: MixHub AI - AI Tool Review & Guide 2026
 metaDescription: MixHub AI is a versatile platform for content creation, offering text-to-video, image-to-video, and video style transfer capabilities.
 simple: MixHub AI is a versatile platform for content creation, offering text-to-video, image-to-video, and video style transfer capabilities.

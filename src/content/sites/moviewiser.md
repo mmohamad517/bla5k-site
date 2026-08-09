@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: MovieWiser - AI Tool Review & Guide 2026
 metaDescription: MovieWiser uses AI to give mood‑based movie and series suggestions, pinpointing where titles stream.
 simple: MovieWiser uses AI to give mood‑based movie and series suggestions, pinpointing where titles stream.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: HomeworkAI.ai - AI Tool Review & Guide 2026
 metaDescription: Homework AI processes uploaded images or text files, delivering step‑by‑step solutions for math, science, literature, and history.
 simple: Homework AI processes uploaded images or text files, delivering step‑by‑step solutions for math, science, literature, and history.

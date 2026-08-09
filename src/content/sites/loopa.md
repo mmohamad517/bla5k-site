@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Loopa - AI Tool Review & Guide 2026
 metaDescription: Loopa is a multi-agent AI platform that automates workflows and content creation—from PDF summarization and slide generation to video production and...
 simple: Loopa is a multi-agent AI platform that automates workflows and content creation—from PDF summarization and slide generation to video production and structured reporting.

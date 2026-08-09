@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Aiglot - AI Tool Review & Guide 2026
 metaDescription: Aiglot is a multilingual SEO blogging platform that automates content generation and translation in over 100 languages.
 simple: Aiglot is a multilingual SEO blogging platform that automates content generation and translation in over 100 languages.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Creatus - AI Tool Review & Guide 2026
 metaDescription: CREATUS.AI provides an AI‑native workspace with 35+ models and 90 integrations for image editing, animation, music production, and more.
 simple: CREATUS.AI provides an AI‑native workspace with 35+ models and 90 integrations for image editing, animation, music production, and more.

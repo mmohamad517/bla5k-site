@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: WisdomAI - AI Tool Review & Guide 2026
 metaDescription: WisdomAI curates daily 5‑minute summaries of top insights from over 100 creators across YouTube, podcasts, and social media.
 simple: WisdomAI curates daily 5‑minute summaries of top insights from over 100 creators across YouTube, podcasts, and social media.

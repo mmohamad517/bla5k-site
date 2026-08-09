@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Mix Check Studio - AI Tool Review & Guide 2026
 metaDescription: Mix Check Studio analyzes WAV/FLAC/MP3 mixes to deliver detailed tonal, loudness, stereo width, clipping, masking and dynamic-range metrics, plus Mastering+...
 simple: Mix Check Studio analyzes WAV/FLAC/MP3 mixes to deliver detailed tonal, loudness, stereo width, clipping, masking and dynamic-range metrics, plus Mastering+ processing and stem-level fixes for iterative mix revision and pre-release validation.
