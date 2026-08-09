@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Reflection 70B - AI Tool Review & Guide 2026
 metaDescription: Reflection 70B is an open‑source 70 B Llama 3.1‑based model that uses real‑time reflection tuning for self‑correction.
 simple: Reflection 70B is an open‑source 70 B Llama 3.1‑based model that uses real‑time reflection tuning for self‑correction.

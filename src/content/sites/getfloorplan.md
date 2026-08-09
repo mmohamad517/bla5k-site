@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: GetFloorPlan - AI Tool Review & Guide 2026
 metaDescription: Getfloorplan converts JPG, PNG, or PDF floor plans into detailed 2D and 3D visualizations, including full‑color renders and 360° virtual tours.
 simple: Getfloorplan converts JPG, PNG, or PDF floor plans into detailed 2D and 3D visualizations, including full‑color renders and 360° virtual tours.

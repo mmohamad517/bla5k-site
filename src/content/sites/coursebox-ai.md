@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Coursebox.ai - AI Tool Review & Guide 2026
 metaDescription: Coursebox is an AI course creator tool that generates draft course structure and content in seconds, offers a drag-and-drop builder, and features such as...
 simple: Coursebox is an AI course creator tool that generates draft course structure and content in seconds, offers a drag-and-drop builder, and features such as quizzes and videos to make e-learning interactive and engaging.

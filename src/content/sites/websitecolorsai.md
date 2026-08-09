@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: WebsiteColorsAI - AI Tool Review & Guide 2026
 metaDescription: WebsiteColorsAI is an AI tool that extracts hex color codes from websites, allowing users to effortlessly create visually appealing color schemes.
 simple: WebsiteColorsAI is an AI tool that extracts hex color codes from websites, allowing users to effortlessly create visually appealing color schemes.

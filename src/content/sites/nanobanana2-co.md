@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: nanobanana2.co - AI Tool Review & Guide 2026
 metaDescription: nanobanana2.co is a 4K AI image generator with exceptional text-in-image accuracy and cross-image character consistency.
 simple: nanobanana2.co is a 4K AI image generator with exceptional text-in-image accuracy and cross-image character consistency.

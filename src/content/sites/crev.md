@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: CREV - AI Tool Review & Guide 2026
 metaDescription: Crev is a command-line tool for AI-driven code reviews, enabling developers to bundle entire codebases for efficient review.
 simple: Crev is a command-line tool for AI-driven code reviews, enabling developers to bundle entire codebases for efficient review.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: TeeDIY - AI Tool Review & Guide 2026
 metaDescription: TeeDIY is an AI-assisted platform that simplifies custom apparel creation, using templates, text prompts, or photos to generate and edit designs.
 simple: TeeDIY is an AI-assisted platform that simplifies custom apparel creation, using templates, text prompts, or photos to generate and edit designs.

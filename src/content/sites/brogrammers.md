@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Brogrammers - AI Tool Review & Guide 2026
 metaDescription: Brogrammers is an AI-powered learning platform that facilitates customized course creation, collaborative learning, and access to curated resources.
 simple: Brogrammers is an AI-powered learning platform that facilitates customized course creation, collaborative learning, and access to curated resources.

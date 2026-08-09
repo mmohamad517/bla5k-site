@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Brick Photos - AI Tool Review & Guide 2026
 metaDescription: Brick.Photos converts any photo into high‑resolution brick‑style artwork or animated videos using AI.
 simple: Brick.Photos converts any photo into high‑resolution brick‑style artwork or animated videos using AI.

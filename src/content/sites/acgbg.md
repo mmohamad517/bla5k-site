@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Acgbg - AI Tool Review & Guide 2026
 metaDescription: ACGBG offers a selection of high-quality, AI-generated anime backgrounds in 8K resolution, ideal for digital art and gaming.
 simple: ACGBG offers a selection of high-quality, AI-generated anime backgrounds in 8K resolution, ideal for digital art and gaming.

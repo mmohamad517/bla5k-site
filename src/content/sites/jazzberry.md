@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Jazzberry - AI Tool Review & Guide 2026
 metaDescription: Jazzberry is an AI-driven bug detection tool that analyzes code repositories in a secure environment, identifying vulnerabilities like SQL injection and...
 simple: Jazzberry is an AI-driven bug detection tool that analyzes code repositories in a secure environment, identifying vulnerabilities like SQL injection and authentication bypasses.

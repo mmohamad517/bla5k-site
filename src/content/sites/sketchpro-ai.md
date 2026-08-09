@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: SketchPro AI - AI Tool Review & Guide 2026
 metaDescription: SketchPro is a native Revit add‑in that uses AI to automate documentation—dimensioning, tagging, sheets, and schedules—from natural‑language commands while...
 simple: SketchPro is a native Revit add‑in that uses AI to automate documentation—dimensioning, tagging, sheets, and schedules—from natural‑language commands while applying firm‑specific guidelines, saving time, improving consistency, and ensuring compliance.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Huewheel - AI Tool Review & Guide 2026
 metaDescription: Huewheel is an AI color palette generator that transforms verbal concepts into customized color schemes.
 simple: Huewheel is an AI color palette generator that transforms verbal concepts into customized color schemes.

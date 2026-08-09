@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: NanaBanana2Flash - AI Tool Review & Guide 2026
 metaDescription: nanabanana2flash.com is a conversational AI image generator powered by Google's Gemini.
 simple: nanabanana2flash.com is a conversational AI image generator powered by Google's Gemini.

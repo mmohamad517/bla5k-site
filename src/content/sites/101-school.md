@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: 101.school - AI Tool Review & Guide 2026
 metaDescription: 101.school lets users create personalized courses or select from STEM, humanities, business, and skill subjects.
 simple: 101.school lets users create personalized courses or select from STEM, humanities, business, and skill subjects.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: palettemaker.com - AI Tool Review & Guide 2026
 metaDescription: Palettemaker is an AI‑powered color palette generator that lets designers and non‑designers create, tweak, and preview color schemes in real‑world design...
 simple: Palettemaker is an AI‑powered color palette generator that lets designers and non‑designers create, tweak, and preview color schemes in real‑world design contexts.

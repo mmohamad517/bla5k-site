@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AniPortrait - AI Tool Review & Guide 2026
 metaDescription: AniPortrait is a framework for generating high-quality animations driven by audio and reference portrait images.
 simple: AniPortrait is a framework for generating high-quality animations driven by audio and reference portrait images.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Easy Posters AI - AI Tool Review & Guide 2026
 metaDescription: Easy Posters AI is an intuitive AI-driven tool that enables users to create high-quality, custom posters effortlessly.
 simple: Easy Posters AI is an intuitive AI-driven tool that enables users to create high-quality, custom posters effortlessly.

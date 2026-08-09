@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: HousePlan - AI Tool Review & Guide 2026
 metaDescription: HousePlan is an AI house plan generator that creates and edits 2D, 2.5D, and 3D floor plans from image uploads or text prompts.
 simple: HousePlan is an AI house plan generator that creates and edits 2D, 2.5D, and 3D floor plans from image uploads or text prompts.

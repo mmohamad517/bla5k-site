@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: FloorPlanMaker.ai - AI Tool Review & Guide 2026
 metaDescription: FloorPlanMaker.ai is an AI tool that generates technical 2D, 2.5D, and 3D isometric floor plans from user-defined room preferences and dimensions.
 simple: FloorPlanMaker.ai is an AI tool that generates technical 2D, 2.5D, and 3D isometric floor plans from user-defined room preferences and dimensions.

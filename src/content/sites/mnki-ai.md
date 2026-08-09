@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: MNKI AI - AI Tool Review & Guide 2026
 metaDescription: mnki.ai is a browser-based AI rendering studio that transforms sketches, floor plans, and 3D wireframes into photorealistic 4K visuals, with tools for...
 simple: mnki.ai is a browser-based AI rendering studio that transforms sketches, floor plans, and 3D wireframes into photorealistic 4K visuals, with tools for 2D-to-3D conversion, inpainting, and real-time team collaboration.

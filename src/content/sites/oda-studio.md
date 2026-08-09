@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Oda Studio - AI Tool Review & Guide 2026
 metaDescription: Oda Studio applies Vision‑Language AI to automatically extract metadata from architectural drawings, convert charts into text, and fine‑tune generative...
 simple: Oda Studio applies Vision‑Language AI to automatically extract metadata from architectural drawings, convert charts into text, and fine‑tune generative models for media.

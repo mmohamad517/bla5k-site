@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Rasterscan - AI Tool Review & Guide 2026
 metaDescription: Efficient Floor Plan Recognition is an AI tool that converts hand-drawn sketches and blueprints into digital layouts, enhancing workflow for architects and...
 simple: Efficient Floor Plan Recognition is an AI tool that converts hand-drawn sketches and blueprints into digital layouts, enhancing workflow for architects and designers by automating the extraction of structural details while ensuring data confidentiality.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AnimatedDrawings by Meta - AI Tool Review & Guide 2026
 metaDescription: Animated Drawings AI by Meta AI Research animates static children's drawings, providing an easy interface for character animation and boosting storytelling...
 simple: Animated Drawings AI by Meta AI Research animates static children's drawings, providing an easy interface for character animation and boosting storytelling experiences with secure online policies in place.

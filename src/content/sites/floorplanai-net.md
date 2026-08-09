@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: FloorPlanAI - AI Tool Review & Guide 2026
 metaDescription: FloorPlanAI is a text-to-floorplan generator that creates 2D layouts and downloadable 3D GLB models from plain English prompts.
 simple: FloorPlanAI is a text-to-floorplan generator that creates 2D layouts and downloadable 3D GLB models from plain English prompts.

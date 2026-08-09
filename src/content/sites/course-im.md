@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Course.im - AI Tool Review & Guide 2026
 metaDescription: Course.im is an AI-powered platform for creating and publishing mini-courses.
 simple: Course.im is an AI-powered platform for creating and publishing mini-courses.

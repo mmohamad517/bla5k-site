@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ComicsMaker.ai - AI Tool Review & Guide 2026
 metaDescription: ComicsMaker lets creators design characters, generate scenes, and layout pages with AI.
 simple: ComicsMaker lets creators design characters, generate scenes, and layout pages with AI.

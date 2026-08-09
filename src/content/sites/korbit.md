@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Korbit - AI Tool Review & Guide 2026
 metaDescription: Korbit AI streamlines code reviews by automatically generating pull request descriptions, detecting issues with contextual feedback, and providing...
 simple: Korbit AI streamlines code reviews by automatically generating pull request descriptions, detecting issues with contextual feedback, and providing actionable insights, enhancing software development efficiency and code quality while integrating with platforms like GitHub and GitLab.

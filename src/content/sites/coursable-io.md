@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Coursable.io - AI Tool Review & Guide 2026
 metaDescription: Coursable centralizes course materials, auto‑generates flashcards, quizzes, and summaries from PDFs, slides, videos, and research papers, and lets users...
 simple: Coursable centralizes course materials, auto‑generates flashcards, quizzes, and summaries from PDFs, slides, videos, and research papers, and lets users query documents via chat.

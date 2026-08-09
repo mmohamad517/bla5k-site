@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Dynamic Mockups - AI Tool Review & Guide 2026
 metaDescription: Scale offers a user-friendly platform for creating customizable product mockups for items like apparel and mugs.
 simple: Scale offers a user-friendly platform for creating customizable product mockups for items like apparel and mugs.

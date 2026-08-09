@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AIGenTools - AI Tool Review & Guide 2026
 metaDescription: aigentools.io is a unified AI platform for chat, image, and video generation, combining models like GPT, Claude, and Kling into one workflow.
 simple: aigentools.io is a unified AI platform for chat, image, and video generation, combining models like GPT, Claude, and Kling into one workflow.

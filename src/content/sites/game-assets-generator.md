@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Game Assets Generator - AI Tool Review & Guide 2026
 metaDescription: AI Game Assets Generator turns natural‑language prompts into high‑quality game assets—characters, weapons, scenes, UI sprites—in seconds.
 simple: AI Game Assets Generator turns natural‑language prompts into high‑quality game assets—characters, weapons, scenes, UI sprites—in seconds.

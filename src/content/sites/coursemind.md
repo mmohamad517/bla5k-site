@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: CourseMind - AI Tool Review & Guide 2026
 metaDescription: CourseMind is an AI-powered tool that helps efficiently manage online schools or organizations by providing course creation tools and marketing strategies...
 simple: CourseMind is an AI-powered tool that helps efficiently manage online schools or organizations by providing course creation tools and marketing strategies to streamline management and enhance the learning experience for members.

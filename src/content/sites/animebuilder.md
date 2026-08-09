@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AnimeBuilder - AI Tool Review & Guide 2026
 metaDescription: AnimeBuilder is a web‑based AI that turns photos or text prompts into high‑resolution anime‑style images.
 simple: AnimeBuilder is a web‑based AI that turns photos or text prompts into high‑resolution anime‑style images.

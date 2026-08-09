@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: CourseGenie - AI Tool Review & Guide 2026
 metaDescription: CourseGenie automates course outlines, lesson plans, quizzes, and activities, freeing teachers to focus on instruction.
 simple: CourseGenie automates course outlines, lesson plans, quizzes, and activities, freeing teachers to focus on instruction.

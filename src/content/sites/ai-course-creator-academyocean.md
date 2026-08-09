@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: AI Course Creator - AcademyOcean - AI Tool Review & Guide 2026
 metaDescription: AI Course Creator auto‑generates structured courses, lessons, quizzes, multimedia, and certificates in multiple languages, adapting to varied learning styles.
 simple: AI Course Creator auto‑generates structured courses, lessons, quizzes, multimedia, and certificates in multiple languages, adapting to varied learning styles.

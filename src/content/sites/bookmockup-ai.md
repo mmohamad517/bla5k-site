@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Bookmockup.AI - AI Tool Review & Guide 2026
 metaDescription: Book Mockup AI enables users to quickly create high-quality book mockup images by uploading cover designs.
 simple: Book Mockup AI enables users to quickly create high-quality book mockup images by uploading cover designs.

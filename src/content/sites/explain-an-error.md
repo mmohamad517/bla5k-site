@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Explain An Error - AI Tool Review & Guide 2026
 metaDescription: Explain by Whybug uses a large language model trained on StackExchange data to analyze code errors.
 simple: Explain by Whybug uses a large language model trained on StackExchange data to analyze code errors.

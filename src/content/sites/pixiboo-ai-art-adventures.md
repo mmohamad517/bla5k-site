@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Pixiboo - AI Tool Review & Guide 2026
 metaDescription: Families design personalized search‑and‑find books featuring custom characters hidden in hand‑crafted illustrations.
 simple: Families design personalized search‑and‑find books featuring custom characters hidden in hand‑crafted illustrations.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Logo Rank - AI Tool Review & Guide 2026
 metaDescription: Color Wheel automatically colorizes grayscale flat graphics, generating thousands of palettes from one upload.
 simple: Color Wheel automatically colorizes grayscale flat graphics, generating thousands of palettes from one upload.

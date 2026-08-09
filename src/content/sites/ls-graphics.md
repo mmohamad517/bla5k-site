@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ls graphics - AI Tool Review & Guide 2026
 metaDescription: Mckp.live offers a Figma plugin and online editor with over 4,000 editable mockups, including device, branding, print, animated and illustration templates.
 simple: Mckp.live offers a Figma plugin and online editor with over 4,000 editable mockups, including device, branding, print, animated and illustration templates.

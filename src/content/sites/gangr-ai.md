@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Gangr.ai - AI Tool Review & Guide 2026
 metaDescription: Gangr.ai is a user-friendly AI optimization tool for DTF printing, offering seamless integrations with ecommerce platforms like Shopify and Wix.
 simple: Gangr.ai is a user-friendly AI optimization tool for DTF printing, offering seamless integrations with ecommerce platforms like Shopify and Wix.

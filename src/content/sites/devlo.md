@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: devlo - AI Tool Review & Guide 2026
 metaDescription: devlo lets teams build, edit, and ship code from a browser, eliminating local tooling.
 simple: devlo lets teams build, edit, and ship code from a browser, eliminating local tooling.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: CourseAI - AI Tool Review & Guide 2026
 metaDescription: CourseAI automates online course creation by generating outlines, objectives, personas, videos, quizzes, and email sequences from a chosen or AI‑recommended...
 simple: CourseAI automates online course creation by generating outlines, objectives, personas, videos, quizzes, and email sequences from a chosen or AI‑recommended topic.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Maket - AI Tool Review & Guide 2026
 metaDescription: Maket uses AI to generate accurate, build‑ready residential floor plans from simple room, size, and shape inputs.
 simple: Maket uses AI to generate accurate, build‑ready residential floor plans from simple room, size, and shape inputs.

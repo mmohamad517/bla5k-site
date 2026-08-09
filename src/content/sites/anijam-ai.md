@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Anijam.ai - AI Tool Review & Guide 2026
 metaDescription: Anijam is an AI animation agent offering text-to-animation, 2D/3D character creation, an animation-optimized lip-sync engine with customizable voices, a...
 simple: Anijam is an AI animation agent offering text-to-animation, 2D/3D character creation, an animation-optimized lip-sync engine with customizable voices, a canvas and timeline editor, behavior controls, style-training tools, and mobile access for iterative production.

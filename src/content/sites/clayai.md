@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: clayai - AI Tool Review & Guide 2026
 metaDescription: CLAY AI converts uploaded character photos into clay, 3D, emoji, video‑game, or pixel‑style images within 10–20 seconds.
 simple: CLAY AI converts uploaded character photos into clay, 3D, emoji, video‑game, or pixel‑style images within 10–20 seconds.

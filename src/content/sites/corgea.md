@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Corgea - AI Tool Review & Guide 2026
 metaDescription: Corgea is an AI tool that expedites vulnerability detection and repair in codes for security teams.
 simple: Corgea is an AI tool that expedites vulnerability detection and repair in codes for security teams.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Landscape Designs AI - AI Tool Review & Guide 2026
 metaDescription: AI Landscape Design helps users create customized outdoor space designs by uploading garden photos and selecting from over 40 styles.
 simple: AI Landscape Design helps users create customized outdoor space designs by uploading garden photos and selecting from over 40 styles.

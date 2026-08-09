@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Botroast - AI Tool Review & Guide 2026
 metaDescription: Botroast.io delivers instant AI‑generated roast reports for landing pages and visual assets, evaluating layout, hierarchy, typography, color, spacing,...
 simple: Botroast.io delivers instant AI‑generated roast reports for landing pages and visual assets, evaluating layout, hierarchy, typography, color, spacing, depth, and fine details.
