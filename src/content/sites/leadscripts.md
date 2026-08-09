@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: LeadScripts - AI Tool Review & Guide 2026
 metaDescription: LeadScripts auto‑generates marketing scripts from a product URL, extracting 80+ details and targeting five customer‑persona stages.
 simple: LeadScripts auto‑generates marketing scripts from a product URL, extracting 80+ details and targeting five customer‑persona stages.

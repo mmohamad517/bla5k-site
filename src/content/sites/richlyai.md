@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: RichlyAI - AI Tool Review & Guide 2026
 metaDescription: RichlyAI is an AI-driven content generation platform that uses AI to create high-quality marketing copy.
 simple: RichlyAI is an AI-driven content generation platform that uses AI to create high-quality marketing copy.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Hypotenuse AI - AI Tool Review & Guide 2026
 metaDescription: Hypotenuse AI automates product data and content creation for e‑commerce, generating titles, descriptions, alt text, and enriching attributes across...
 simple: Hypotenuse AI automates product data and content creation for e‑commerce, generating titles, descriptions, alt text, and enriching attributes across marketplaces.

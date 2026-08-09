@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: BoldDesk - AI Tool Review & Guide 2026
 metaDescription: BoldDesk centralizes ticketing, live chat, and omnichannel messages into one inbox.
 simple: BoldDesk centralizes ticketing, live chat, and omnichannel messages into one inbox.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: DGAF - AI Tool Review & Guide 2026
 metaDescription: dgaf.ai provides an unrestricted AI chat experience, allowing users to engage in open dialogue without content filters.
 simple: dgaf.ai provides an unrestricted AI chat experience, allowing users to engage in open dialogue without content filters.

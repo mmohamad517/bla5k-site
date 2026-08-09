@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Kua.ai - AI Tool Review & Guide 2026
 metaDescription: Kua.ai is an AI-powered ecommerce tool enhancing listings by optimizing, rewriting with popular keywords, conducting quality audits, identifying...
 simple: Kua.ai is an AI-powered ecommerce tool enhancing listings by optimizing, rewriting with popular keywords, conducting quality audits, identifying competitors, generating personalized blogs, and repurposing content.

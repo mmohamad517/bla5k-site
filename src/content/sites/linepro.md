@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: LinePro - AI Tool Review & Guide 2026
 metaDescription: LinePro uses AI to generate personalized email subject lines in seconds.
 simple: LinePro uses AI to generate personalized email subject lines in seconds.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Drift - AI Tool Review & Guide 2026
 metaDescription: Drift is an AI chat agent that engages visitors, answers questions, qualifies leads, and routes them to reps or meetings.
 simple: Drift is an AI chat agent that engages visitors, answers questions, qualifies leads, and routes them to reps or meetings.

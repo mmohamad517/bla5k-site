@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Chatley AI - AI Tool Review & Guide 2026
 metaDescription: Chatley AI is a 24/7 AI voice receptionist that automates call answering, appointment booking, and lead capture for service businesses.
 simple: Chatley AI is a 24/7 AI voice receptionist that automates call answering, appointment booking, and lead capture for service businesses.

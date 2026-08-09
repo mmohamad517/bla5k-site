@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Canny Autopilot - AI Tool Review & Guide 2026
 metaDescription: Canny is a customer feedback management tool that centralizes user input, streamlines feature request tracking, and integrates with project management...
 simple: Canny is a customer feedback management tool that centralizes user input, streamlines feature request tracking, and integrates with project management platforms.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Click2Magic - AI Tool Review & Guide 2026
 metaDescription: Click2Magic embeds live chat into websites and mobile apps, supporting text, audio, video, and file exchanges.
 simple: Click2Magic embeds live chat into websites and mobile apps, supporting text, audio, video, and file exchanges.

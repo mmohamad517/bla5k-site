@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Productly - AI Tool Review & Guide 2026
 metaDescription: Productly imports Amazon and AliExpress listings into Shopify, auto‑generates AI‑written product pages, mobile‑first themes, and branding.
 simple: Productly imports Amazon and AliExpress listings into Shopify, auto‑generates AI‑written product pages, mobile‑first themes, and branding.

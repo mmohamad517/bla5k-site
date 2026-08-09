@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Generate Proposal - AI Tool Review & Guide 2026
 metaDescription: Chrome extension that auto‑generates proposals by parsing job posts and user instructions.
 simple: Chrome extension that auto‑generates proposals by parsing job posts and user instructions.

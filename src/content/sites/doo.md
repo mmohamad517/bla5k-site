@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: DOO - AI Tool Review & Guide 2026
 metaDescription: DOO consolidates chat, email, WhatsApp, Instagram, and website messages into a single inbox, offering multilingual AI agents that handle text, voice,...
 simple: DOO consolidates chat, email, WhatsApp, Instagram, and website messages into a single inbox, offering multilingual AI agents that handle text, voice, images, and files.

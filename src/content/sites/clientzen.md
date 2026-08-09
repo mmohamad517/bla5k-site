@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ClientZen - AI Tool Review & Guide 2026
 metaDescription: ClientZen aggregates customer feedback from tickets and reviews, analyzing it to surface spikes and recurring issues.
 simple: ClientZen aggregates customer feedback from tickets and reviews, analyzing it to surface spikes and recurring issues.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Ritter App - AI Tool Review & Guide 2026
 metaDescription: Riter is an AI tool that generates high-quality UX design copy using ChatGPT technology.
 simple: Riter is an AI tool that generates high-quality UX design copy using ChatGPT technology.

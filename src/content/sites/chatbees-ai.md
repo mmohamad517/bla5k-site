@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: ChatBees.AI - AI Tool Review & Guide 2026
 metaDescription: ChatBees builds knowledge graphs from past tickets and connects to HubSpot, Confluence, Notion, and Google Drive.
 simple: ChatBees builds knowledge graphs from past tickets and connects to HubSpot, Confluence, Notion, and Google Drive.

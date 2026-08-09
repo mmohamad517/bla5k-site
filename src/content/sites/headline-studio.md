@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Headline Studio - AI Tool Review & Guide 2026
 metaDescription: Headline Studio uses AI to generate platform‑specific headlines and gives data‑driven feedback on word balance, character limits, and keyword relevance.
 simple: Headline Studio uses AI to generate platform‑specific headlines and gives data‑driven feedback on word balance, character limits, and keyword relevance.

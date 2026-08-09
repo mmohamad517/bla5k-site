@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: SalesBoosta - AI Tool Review & Guide 2026
 metaDescription: SalesBoosta is an AI-driven copywriting tool that swiftly creates engaging ads, sales letters, video scripts, and emails in 106+ languages.
 simple: SalesBoosta is an AI-driven copywriting tool that swiftly creates engaging ads, sales letters, video scripts, and emails in 106+ languages.

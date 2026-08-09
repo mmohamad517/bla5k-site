@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Great Headlines - AI Tool Review & Guide 2026
 metaDescription: Great Headlines is an AI‑driven generator that delivers concise, attention‑grabbing copy using proven marketing frameworks.
 simple: Great Headlines is an AI‑driven generator that delivers concise, attention‑grabbing copy using proven marketing frameworks.

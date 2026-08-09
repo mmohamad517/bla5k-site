@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Corebee - AI Tool Review & Guide 2026
 metaDescription: Corebee is an AI-native customer support platform that automates ticket resolution and routine tasks using a three-tier AI architecture.
 simple: Corebee is an AI-native customer support platform that automates ticket resolution and routine tasks using a three-tier AI architecture.

@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Craftman - AI Tool Review & Guide 2026
 metaDescription: Craftman is an AI‑powered support inbox for startups, merging chat and email into one feed.
 simple: Craftman is an AI‑powered support inbox for startups, merging chat and email into one feed.

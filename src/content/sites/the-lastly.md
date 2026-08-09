@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: The Lastly - AI Tool Review & Guide 2026
 metaDescription: Listly AI quickly generates accurate real‑estate descriptions from property details and photos.
 simple: Listly AI quickly generates accurate real‑estate descriptions from property details and photos.

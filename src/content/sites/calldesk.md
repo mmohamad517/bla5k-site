@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Calldesk - AI Tool Review & Guide 2026
 metaDescription: CallDesk is an AI voice agent platform that automates customer inquiries, boosting self-service rates to 80%.
 simple: CallDesk is an AI voice agent platform that automates customer inquiries, boosting self-service rates to 80%.

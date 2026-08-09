@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Logic Lister AI - AI Tool Review & Guide 2026
 metaDescription: Logiclister AI is an ecommerce tool with AI capabilities for generating product descriptions, blog posts, social media content, newsletters, and more.
 simple: Logiclister AI is an ecommerce tool with AI capabilities for generating product descriptions, blog posts, social media content, newsletters, and more.

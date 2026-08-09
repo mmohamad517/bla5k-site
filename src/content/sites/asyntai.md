@@ -11,7 +11,7 @@ tags:
   - AI
   - Tool
 featured: false
-updated: 2026-08-08
+updated: 2026-08-09
 metaTitle: Asyntai - AI Tool Review & Guide 2026
 metaDescription: Asyntai is a customizable AI chat support tool that provides instant, brand-aligned responses.
 simple: Asyntai is a customizable AI chat support tool that provides instant, brand-aligned responses.
