@@ -96,23 +96,18 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
                   {sites.map((site) => (
                     <li
                       class="site-row"
-                      data-search={`${site.data.name} ${site.data.tagline} ${site.data.tags.join(' ')} ${cat.name} ${sub.name}`.toLowerCase()}
+                      data-tags={site.data.tags.join(' ').toLowerCase()}
                       data-name={site.data.name.toLowerCase()}
                       data-date={toolDate(site).getTime()}
                       data-feat={site.data.featured ? '1' : '0'}
                       data-pricing={site.data.pricing ?? ''}
                     >
-                      <a class="site-shot" href={`/tools/${site.id}/`} aria-label={`${site.data.name} preview`} tabindex="-1">
-                        {site.data.screenshot && (
-                          <img class="site-shot-img" src={site.data.screenshot} alt="" width="400" height="250" loading="lazy" decoding="async" onerror="this.closest('.site-shot')?.remove()" />
-                        )}
-                        {site.data.image && (
-                          <img class="site-shot-logo" src={site.data.image} alt="" width="36" height="36" loading="lazy" referrerpolicy="no-referrer" />
-                        )}
-                      </a>
                       <div class="site-row-bot">
                         <div class="site-main">
                           <a class="site-title" href={`/tools/${site.id}/`}>
+                            {site.data.image && (
+                              <img class="site-logo" src={site.data.image} alt="" width="24" height="24" loading="lazy" referrerpolicy="no-referrer" />
+                            )}
                             {site.data.name}
                             {site.data.sponsored
                               ? <span class="spons" title="Paid placement">Sponsored</span>
@@ -239,43 +234,26 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
 
   /* ---- Site rows: card with screenshot preview above the name ---- */
   .sites { list-style: none; display: grid; gap: 0.6rem; padding: 0 0.5rem 0.6rem; }
+  /* content-visibility skips layout/paint for off-screen rows — the directory has
+     thousands of them, and this keeps scrolling and INP smooth on phones. */
   .site-row {
-    display: flex; flex-direction: column; gap: 0.55rem;
+    display: flex; flex-direction: column;
     padding: 0.6rem; border-radius: 14px;
     background: rgba(30,36,66,.5); border: 1px solid transparent;
     transition: border-color .2s, background .2s, transform .2s, box-shadow .2s;
+    content-visibility: auto;
+    contain-intrinsic-size: auto 54px;
   }
   .site-row:hover {
     border-color: var(--glass-border-strong); background: rgba(30,36,66,.85);
     transform: translateY(-2px); box-shadow: 0 0 26px -12px rgba(0,240,255,.45);
   }
-  /* Screenshot preview link (decorative — title link is the real entry point) */
-  .site-shot {
-    position: relative; display: block;
-    border-radius: 10px; overflow: hidden;
-    aspect-ratio: 16 / 10;
-    background: linear-gradient(135deg, rgba(18,22,41,.9), rgba(30,36,66,.6));
-    border: 1px solid var(--glass-border);
-  }
-  .site-shot-img {
-    width: 100%; height: 100%; object-fit: cover; object-position: top;
-    display: block;
-    transition: transform .35s ease, filter .35s ease;
-    filter: saturate(.92) contrast(1.02);
-  }
-  .site-row:hover .site-shot-img { transform: scale(1.045); filter: saturate(1.05) contrast(1.05); }
-  /* Bottom gradient + logo chip so the favicon pops on any screenshot */
-  .site-shot::after {
-    content: ""; position: absolute; inset: auto 0 0 0; height: 42%;
-    background: linear-gradient(to top, rgba(8,10,20,.72), transparent);
-    pointer-events: none;
-  }
-  .site-shot-logo {
-    position: absolute; left: 10px; bottom: 10px; z-index: 1;
-    width: 36px; height: 36px; border-radius: 9px;
-    object-fit: contain;
-    background: rgba(12,15,28,.88); border: 1px solid rgba(255,255,255,.16);
-    padding: 4px; box-shadow: 0 4px 14px rgba(0,0,0,.5);
+  /* Small favicon chip beside the tool name — full screenshots live on the tool pages */
+  .site-logo {
+    width: 24px; height: 24px; border-radius: 6px;
+    object-fit: contain; flex: none;
+    background: rgba(12,15,28,.88); border: 1px solid rgba(255,255,255,.14);
+    padding: 2px; box-shadow: 0 2px 8px rgba(0,0,0,.45);
   }
   .site-row-bot { display: flex; align-items: center; justify-content: space-between; gap: 0.6rem; }
   .site-main { min-width: 0; }
@@ -324,6 +302,7 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
   const list = document.getElementById('dir-list');
   if (input && list) {
     const cats = Array.from(list.querySelectorAll<HTMLDetailsElement>('.cat'));
+    const subs = Array.from(list.querySelectorAll<HTMLDetailsElement>('.sub'));
     const rows = Array.from(list.querySelectorAll<HTMLElement>('.site-row'));
 
     // Remember each category's default open state to restore after search.
@@ -332,32 +311,63 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
 
     let t: number | undefined;
     let priceMode = 'all'; // 'all' | 'free' | 'freemium' | 'paid'
+
+    // ── Precomputed search index ──
+    // Built ONCE (lazily on first focus/keystroke). The per-keystroke path then only
+    // does string matching + class toggles — zero DOM reads. Previously we read
+    // textContent/closest/querySelector for 2,600+ rows on every keypress, which
+    // froze and crashed the page while typing on phones.
+    type Entry = { r: HTMLElement; sub: HTMLDetailsElement | null; cat: HTMLDetailsElement | null; text: string };
+    let index: Entry[] | null = null;
+    const buildIndex = () => {
+      index = rows.map((r) => {
+        const sub = r.closest('.sub') as HTMLDetailsElement | null;
+        const cat = (sub ? sub.closest('.cat') : r.closest('.cat')) as HTMLDetailsElement | null;
+        return {
+          r,
+          sub,
+          cat,
+          text: `${r.textContent} ${r.dataset.tags ?? ''} ${sub?.querySelector('.sub-name')?.textContent ?? ''} ${cat?.querySelector('.cat-name')?.textContent ?? ''}`.toLowerCase(),
+        };
+      });
+    };
+    // Warm the index as soon as the user taps the search box, before they type.
+    input.addEventListener('focus', () => { if (!index) buildIndex(); }, { once: true });
+
     const priceMatch = (r: HTMLElement) => priceMode === 'all' || (r.dataset.pricing || '') === priceMode;
     const run = () => {
+      if (!index) buildIndex();
       const q = (input.value ?? '').trim().toLowerCase();
       if (clearBtn) clearBtn.hidden = q.length === 0;
       const all = q === '' && priceMode === 'all';
       let visible = 0;
-      rows.forEach((r) => {
-        const m = (q ? (r.dataset.search ?? '').includes(q) : true) && priceMatch(r);
-        r.classList.toggle('hide', !m);
-        if (m) visible++;
-      });
+      // Count matches per branch in the same pass — no per-keystroke querySelector.
+      const subHas = new Set<HTMLDetailsElement>();
+      const catHas = new Set<HTMLDetailsElement>();
+      for (const it of index!) {
+        const m = (q ? it.text.includes(q) : true) && priceMatch(it.r);
+        it.r.classList.toggle('hide', !m);
+        if (m) {
+          visible++;
+          if (it.sub) subHas.add(it.sub);
+          if (it.cat) catHas.add(it.cat);
+        }
+      }
 
       // Show/open only branches that still contain matches.
-      list.querySelectorAll<HTMLDetailsElement>('.sub').forEach((sub) => {
-        const has = sub.querySelector('.site-row:not(.hide)');
+      for (const sub of subs) {
+        const has = subHas.has(sub);
         sub.classList.toggle('hide', !has);
         if (has) sub.open = true;
-      });
-      cats.forEach((cat) => {
-        const has = cat.querySelector('.site-row:not(.hide)');
+      }
+      for (const cat of cats) {
+        const has = catHas.has(cat);
         cat.classList.toggle('hide', !has);
-        cat.open = !!has;
-      });
+        cat.open = has;
+      }
       if (all) {
         cats.forEach((c) => (c.open = defaults.get(c) ?? false));
-        list.querySelectorAll<HTMLDetailsElement>('.sub').forEach((s) => (s.open = true));
+        subs.forEach((s) => (s.open = true));
       }
       if (status) { status.hidden = all; if (!all) status.textContent = `${visible} result${visible === 1 ? '' : 's'}`; }
       if (empty) empty.hidden = !(visible === 0 && !all);
