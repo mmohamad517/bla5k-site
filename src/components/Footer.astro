@@ -24,7 +24,10 @@ const topCats = categories.slice(0, 6);
       <a href="/advertise/">Advertise</a>
       <a href="/contact/">Contact</a>
       <a href="/llms.txt" rel="alternate" type="text/plain">For AI (llms.txt)</a>
-      <a href="/rss.xml" rel="alternate" type="application/rss+xml" aria-label="RSS feed of the latest tools and guides">RSS Feed</a>
+      <a href="/rss.xml" class="foot-rss" rel="alternate" type="application/rss+xml" aria-label="Subscribe to the bla5k RSS feed and get every new tool automatically">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 11a9 9 0 0 1 9 9M4 4a16 16 0 0 1 16 16" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><circle cx="5" cy="19" r="1.6" fill="currentColor"/></svg>
+        Subscribe via RSS
+      </a>
     </nav>
 
     <nav class="foot-col" aria-label="Legal">
@@ -50,7 +53,6 @@ const topCats = categories.slice(0, 6);
     if (typeof window.__openCookieSettings === 'function') window.__openCookieSettings();
   });
 </script>
-</footer>
 
 <style>
   .site-footer { border-top: 1px solid rgba(112,243,255,.1); margin-top: 2rem; padding-block: 2.4rem 1.5rem; background: rgba(18,22,41,.5); }
@@ -62,6 +64,9 @@ const topCats = categories.slice(0, 6);
   .foot-col h3 { font-family: var(--font-head); font-size: 0.82rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text); margin-bottom: 0.2rem; }
   .foot-col a { color: var(--text-dim); font-size: 0.92rem; transition: color .2s; }
   .foot-col a:hover { color: var(--cyan-soft); }
+  .foot-rss { display: inline-flex; align-items: center; gap: 0.45rem; margin-top: 0.5rem; padding: 0.5rem 0.9rem; border: 1px solid rgba(242,101,34,.45); border-radius: 999px; color: #ff9a5c; font-size: 0.85rem; font-weight: 600; width: fit-content; transition: background .2s, color .2s, border-color .2s; }
+  .foot-rss svg { color: #f26522; }
+  .foot-rss:hover { background: rgba(242,101,34,.14); border-color: #f26522; color: #ffb98a; }
   .foot-bottom { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0.5rem; margin-top: 2rem; padding-top: 1.3rem; border-top: 1px solid rgba(112,243,255,.07); color: var(--text-faint); font-size: 0.82rem; }
   .disc { color: var(--text-dim); }
   .cookie-link { background: none; border: none; padding: 0; color: var(--cyan-soft); font: inherit; font-size: inherit; text-decoration: underline; text-underline-offset: 2px; cursor: pointer; }
