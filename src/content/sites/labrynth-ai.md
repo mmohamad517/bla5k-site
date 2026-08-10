@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Labrynth AI?
-    a: Labrynth.ai is a regulatory intelligence platform that automates document validation and gap analysis against standards like NERC, FERC, NRC, and DOE. It maps requirements to document sections, generates compliance checklists, and shortens licensing/audit cycles for energy, nuclear, healthcare, and construction teams. Compliance & Verification Paid That is the core of what Labrynth AI does — ai verification handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Labrynth.ai is a regulatory intelligence platform that automates document validation and gap analysis against standards like NERC, FERC, NRC, and DOE. It maps requirements to document sections, generates compliance checklists, and shortens licensing/audit cycles for energy, nuclear, healthcare, and construction teams. That is the core of what Labrynth AI does — ai verification handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Labrynth AI free?
     a: Labrynth AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Labrynth AI?
@@ -42,7 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Labrynth AI?
 
-Labrynth.ai is a regulatory intelligence platform that automates document validation and gap analysis against standards like NERC, FERC, NRC, and DOE. It maps requirements to document sections, generates compliance checklists, and shortens licensing/audit cycles for energy, nuclear, healthcare, and construction teams. Compliance & Verification Paid
+Labrynth.ai is a regulatory intelligence platform that automates document validation and gap analysis against standards like NERC, FERC, NRC, and DOE. It maps requirements to document sections, generates compliance checklists, and shortens licensing/audit cycles for energy, nuclear, healthcare, and construction teams.
 
 In short, Labrynth AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI verification without the manual grind. That single feature of Labrynth AI alone is enough to streamline a whole chain of steps for many people.
 

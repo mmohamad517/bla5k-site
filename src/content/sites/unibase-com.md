@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Unibase memory?
-    a: Unibase Memory is a Chrome extension that creates a unified, cross-AI memory workspace for ChatGPT, Claude, and Gemini. It securely captures and syncs conversations and saved pages using wallet-derived encryption Crypto and Web3 2 0 Freemium That is the core of what Unibase memory does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Unibase Memory is a Chrome extension that creates a unified, cross-AI memory workspace for ChatGPT, Claude, and Gemini. It securely captures and syncs conversations and saved pages using wallet-derived encryption That is the core of what Unibase memory does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Unibase memory free?
     a: Unibase memory uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Unibase memory?
@@ -42,7 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Unibase memory e
 
 ## What is Unibase memory?
 
-Unibase Memory is a Chrome extension that creates a unified, cross-AI memory workspace for ChatGPT, Claude, and Gemini. It securely captures and syncs conversations and saved pages using wallet-derived encryption Crypto and Web3 2 0 Freemium
+Unibase Memory is a Chrome extension that creates a unified, cross-AI memory workspace for ChatGPT, Claude, and Gemini. It securely captures and syncs conversations and saved pages using wallet-derived encryption
 
 In short, Unibase memory is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. That one capability of Unibase memory frequently saves users from juggling several separate steps.
 

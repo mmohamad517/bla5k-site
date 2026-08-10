@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is socialprofiler.com?
-    a: socialprofiler.com is a platform for instant social media background checks and screening for candidate vetting, due diligence, and investigations.It aggregates public social profiles, posts, photos, and metadata to produce structured screening reports and risk indicators. Compliance & Verification Freemium - $6.99/mo That is the core of what socialprofiler.com does — ai verification handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: socialprofiler.com is a platform for instant social media background checks and screening for candidate vetting, due diligence, and investigations.It aggregates public social profiles, posts, photos, and metadata to produce structured screening reports and risk indicators. That is the core of what socialprofiler.com does — ai verification handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is socialprofiler.com free?
     a: socialprofiler.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $6.99/mo, check the official website — pricing changes often.
   - q: What can you do with socialprofiler.com?
@@ -42,7 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like socialprofi
 
 ## What is socialprofiler.com?
 
-socialprofiler.com is a platform for instant social media background checks and screening for candidate vetting, due diligence, and investigations.It aggregates public social profiles, posts, photos, and metadata to produce structured screening reports and risk indicators. Compliance & Verification Freemium - $6.99/mo
+socialprofiler.com is a platform for instant social media background checks and screening for candidate vetting, due diligence, and investigations.It aggregates public social profiles, posts, photos, and metadata to produce structured screening reports and risk indicators.
 
 In short, socialprofiler.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI verification without the manual grind. For a lot of people, that one function of socialprofiler.com collapses multiple steps into a single action.
 

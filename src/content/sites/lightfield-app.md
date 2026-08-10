@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Lightfield.app?
-    a: Lightfield.app is an AI-native CRM that auto-captures all customer interactions and builds continuous account context. It generates pipelines, drafts outreach, and scores accounts to reduce manual data entry and prioritize sales actions. CRM Integration Free trial - $79 per user/mo That is the core of what Lightfield.app does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Lightfield.app is an AI-native CRM that auto-captures all customer interactions and builds continuous account context. It generates pipelines, drafts outreach, and scores accounts to reduce manual data entry and prioritize sales actions. That is the core of what Lightfield.app does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Lightfield.app free?
     a: Lightfield.app uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Lightfield.app?
@@ -42,7 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Lightfield.app e
 
 ## What is Lightfield.app?
 
-Lightfield.app is an AI-native CRM that auto-captures all customer interactions and builds continuous account context. It generates pipelines, drafts outreach, and scores accounts to reduce manual data entry and prioritize sales actions. CRM Integration Free trial - $79 per user/mo
+Lightfield.app is an AI-native CRM that auto-captures all customer interactions and builds continuous account context. It generates pipelines, drafts outreach, and scores accounts to reduce manual data entry and prioritize sales actions.
 
 In short, Lightfield.app is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. That one feature of Lightfield.app often eliminates several smaller steps from the usual workflow.
 

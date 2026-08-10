@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Orchestra Ads?
-    a: Orchestra Ads is an AI marketing platform that unifies strategy, content, email, ads, and SEO into a single workflow, analyzing your website to generate strategic briefs and multi-language campaigns. It integrates Google Ads and Meta accounts via secure APIs for ad management, while offering SEO tools like rank tracking and on-page audits to accelerate launch and maintain cross-channel alignment. Digital Marketing Free trial - €29/mo That is the core of what Orchestra Ads does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Orchestra Ads is an AI marketing platform that unifies strategy, content, email, ads, and SEO into a single workflow, analyzing your website to generate strategic briefs and multi-language campaigns. It integrates Google Ads and Meta accounts via secure APIs for ad management, while offering SEO tools like rank tracking and on-page audits to accelerate launch and maintain cross-channel alignment. That is the core of what Orchestra Ads does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Orchestra Ads free?
     a: Orchestra Ads uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Orchestra Ads?
@@ -42,7 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Orchestra Ads?
 
-Orchestra Ads is an AI marketing platform that unifies strategy, content, email, ads, and SEO into a single workflow, analyzing your website to generate strategic briefs and multi-language campaigns. It integrates Google Ads and Meta accounts via secure APIs for ad management, while offering SEO tools like rank tracking and on-page audits to accelerate launch and maintain cross-channel alignment. Digital Marketing Free trial - €29/mo
+Orchestra Ads is an AI marketing platform that unifies strategy, content, email, ads, and SEO into a single workflow, analyzing your website to generate strategic briefs and multi-language campaigns. It integrates Google Ads and Meta accounts via secure APIs for ad management, while offering SEO tools like rank tracking and on-page audits to accelerate launch and maintain cross-channel alignment.
 
 In short, Orchestra Ads is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. Many users find that this one ability of Orchestra Ads removes several tasks from their daily routine.
 

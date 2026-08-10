@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is BurnerPage AI?
-    a: "ab3.ai is an AI-driven conversion optimizer increasing rates by up to 45%. It automates A/B tests, increases revenue by 200%, and dynamically refines page variations for peak performance. Key features include easy setup, in-depth customer insights, and smooth collaboration. (from provided text: BurnerPage AI) Marketing Freemium - $20.75/mo That is the core of what BurnerPage AI does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "ab3.ai is an AI-driven conversion optimizer increasing rates by up to 45%. It automates A/B tests, increases revenue by 200%, and dynamically refines page variations for peak performance. Key features include easy setup, in-depth customer insights, and smooth collaboration.  That is the core of what BurnerPage AI does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is BurnerPage AI free?
     a: BurnerPage AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $20.75/mo, check the official website — pricing changes often.
   - q: What can you do with BurnerPage AI?
@@ -42,7 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like BurnerPage 
 
 ## What is BurnerPage AI?
 
-ab3.ai is an AI-driven conversion optimizer increasing rates by up to 45%. It automates A/B tests, increases revenue by 200%, and dynamically refines page variations for peak performance. Key features include easy setup, in-depth customer insights, and smooth collaboration. (from provided text: BurnerPage AI) Marketing Freemium - $20.75/mo
+ab3.ai is an AI-driven conversion optimizer increasing rates by up to 45%. It automates A/B tests, increases revenue by 200%, and dynamically refines page variations for peak performance. Key features include easy setup, in-depth customer insights, and smooth collaboration. 
 
 In short, BurnerPage AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That single feature of BurnerPage AI alone is enough to streamline a whole chain of steps for many people.
 

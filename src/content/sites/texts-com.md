@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is texts.com?
-    a: Texts AI Tool unifies messaging across platforms, prioritizing privacy. Features include AI-driven chat summaries, message translation, stealth mode, scheduling, and customizable UI for optimized and personalized communication. (tool_description from startwithtexts.com) Personal Chatbot Freemium That is the core of what texts.com does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Texts AI Tool unifies messaging across platforms, prioritizing privacy. Features include AI-driven chat summaries, message translation, stealth mode, scheduling, and customizable UI for optimized and personalized communication.  That is the core of what texts.com does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is texts.com free?
     a: texts.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with texts.com?
@@ -42,7 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is texts.com?
 
-Texts AI Tool unifies messaging across platforms, prioritizing privacy. Features include AI-driven chat summaries, message translation, stealth mode, scheduling, and customizable UI for optimized and personalized communication. (tool_description from startwithtexts.com) Personal Chatbot Freemium
+Texts AI Tool unifies messaging across platforms, prioritizing privacy. Features include AI-driven chat summaries, message translation, stealth mode, scheduling, and customizable UI for optimized and personalized communication. 
 
 In short, texts.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For a lot of people, that one function of texts.com collapses multiple steps into a single action.
 

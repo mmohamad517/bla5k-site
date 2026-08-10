@@ -42,8 +42,6 @@ AI has grown past chat for most teams, and dedicated tools like Professionalize 
 
 ## What is Professionalize It To Me?
 
-AI-powered tool for converting informal messages to formal ones Copywriting Subscription
-
 In short, Professionalize It To Me is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. Many users find that this one ability of Professionalize It To Me removes several tasks from their daily routine.
 
 ## Key features

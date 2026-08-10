@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is DateGuard.ai?
-    a: DateGuard.ai is a platform-agnostic biometric liveness tool that verifies online dating profiles in seconds, detecting bots, stolen photos, and impersonation. It destroys all voice and video recordings within 24 hours, ensuring privacy-focused identity confirmation for safer meetups. Compliance & Verification Freemium That is the core of what DateGuard.ai does — ai verification handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: DateGuard.ai is a platform-agnostic biometric liveness tool that verifies online dating profiles in seconds, detecting bots, stolen photos, and impersonation. It destroys all voice and video recordings within 24 hours, ensuring privacy-focused identity confirmation for safer meetups. That is the core of what DateGuard.ai does — ai verification handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is DateGuard.ai free?
     a: DateGuard.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with DateGuard.ai?
@@ -42,7 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like DateGuard.a
 
 ## What is DateGuard.ai?
 
-DateGuard.ai is a platform-agnostic biometric liveness tool that verifies online dating profiles in seconds, detecting bots, stolen photos, and impersonation. It destroys all voice and video recordings within 24 hours, ensuring privacy-focused identity confirmation for safer meetups. Compliance & Verification Freemium
+DateGuard.ai is a platform-agnostic biometric liveness tool that verifies online dating profiles in seconds, detecting bots, stolen photos, and impersonation. It destroys all voice and video recordings within 24 hours, ensuring privacy-focused identity confirmation for safer meetups.
 
 In short, DateGuard.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI verification without the manual grind. That one capability of DateGuard.ai frequently saves users from juggling several separate steps.
 

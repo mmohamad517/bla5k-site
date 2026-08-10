@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PromptLocker?
-    a: PromptLocker is an on‑prem/cloud governance layer that keeps client data in your account, logs every AI interaction in an append‑only audit trail, integrates with document stores without migration, and provides compliance reports and auditing tools for regulated firms. Compliance & Verification Freemium That is the core of what PromptLocker does — ai verification handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: PromptLocker is an on‑prem/cloud governance layer that keeps client data in your account, logs every AI interaction in an append‑only audit trail, integrates with document stores without migration, and provides compliance reports and auditing tools for regulated firms. That is the core of what PromptLocker does — ai verification handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is PromptLocker free?
     a: PromptLocker uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with PromptLocker?
@@ -42,7 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is PromptLocker?
 
-PromptLocker is an on‑prem/cloud governance layer that keeps client data in your account, logs every AI interaction in an append‑only audit trail, integrates with document stores without migration, and provides compliance reports and auditing tools for regulated firms. Compliance & Verification Freemium
+PromptLocker is an on‑prem/cloud governance layer that keeps client data in your account, logs every AI interaction in an append‑only audit trail, integrates with document stores without migration, and provides compliance reports and auditing tools for regulated firms.
 
 In short, PromptLocker is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI verification without the manual grind. Many users discover that this feature of PromptLocker alone covers what previously took multiple tools.
 

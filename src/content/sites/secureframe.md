@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Secureframe?
-    a: Secureframe automates security, risk, and compliance workflows—collecting evidence, generating readiness reports, and continuously monitoring controls. It centralizes vendor and access data, provides remediation guidance and integrations, and supports CMMC, SOC 2, ISO 27001, HIPAA, PCI DSS. Compliance & Verification Freemium That is the core of what Secureframe does — ai verification handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Secureframe automates security, risk, and compliance workflows—collecting evidence, generating readiness reports, and continuously monitoring controls. It centralizes vendor and access data, provides remediation guidance and integrations, and supports CMMC, SOC 2, ISO 27001, HIPAA, PCI DSS. That is the core of what Secureframe does — ai verification handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Secureframe free?
     a: Secureframe uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Secureframe?
@@ -42,7 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Secureframe earn
 
 ## What is Secureframe?
 
-Secureframe automates security, risk, and compliance workflows—collecting evidence, generating readiness reports, and continuously monitoring controls. It centralizes vendor and access data, provides remediation guidance and integrations, and supports CMMC, SOC 2, ISO 27001, HIPAA, PCI DSS. Compliance & Verification Freemium
+Secureframe automates security, risk, and compliance workflows—collecting evidence, generating readiness reports, and continuously monitoring controls. It centralizes vendor and access data, provides remediation guidance and integrations, and supports CMMC, SOC 2, ISO 27001, HIPAA, PCI DSS.
 
 In short, Secureframe is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI verification without the manual grind. For plenty of users, that one capability of Secureframe replaces several steps they used to do by hand.
 

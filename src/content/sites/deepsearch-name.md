@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Deepsearch.name?
-    a: Deepsearch.name is a name-first people search tool that builds sourced public-web profiles from a person's name. Enter a name and optional filters (company, city, title) to retrieve candidate matches, a structured brief, and direct source links for verification. Compliance & Verification Freemium - $19.99/mo That is the core of what Deepsearch.name does — ai verification handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Deepsearch.name is a name-first people search tool that builds sourced public-web profiles from a person's name. Enter a name and optional filters (company, city, title) to retrieve candidate matches, a structured brief, and direct source links for verification. That is the core of what Deepsearch.name does — ai verification handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Deepsearch.name free?
     a: Deepsearch.name uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $19.99/mo, check the official website — pricing changes often.
   - q: What can you do with Deepsearch.name?
@@ -42,7 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Deepsearch.name?
 
-Deepsearch.name is a name-first people search tool that builds sourced public-web profiles from a person's name. Enter a name and optional filters (company, city, title) to retrieve candidate matches, a structured brief, and direct source links for verification. Compliance & Verification Freemium - $19.99/mo
+Deepsearch.name is a name-first people search tool that builds sourced public-web profiles from a person's name. Enter a name and optional filters (company, city, title) to retrieve candidate matches, a structured brief, and direct source links for verification.
 
 In short, Deepsearch.name is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI verification without the manual grind. For many, that single strength of Deepsearch.name is the reason they switch — it replaces whole chunks of manual work.
 

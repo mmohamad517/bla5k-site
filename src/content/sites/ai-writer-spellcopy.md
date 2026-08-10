@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Writer - SpellCopy?
-    a: SpellCopy is an AI-powered app that helps you generate compelling text for all your marketing materials. Copywriting Free trail That is the core of what AI Writer - SpellCopy does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SpellCopy is an AI-powered app that helps you generate compelling text for all your marketing materials. That is the core of what AI Writer - SpellCopy does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI Writer - SpellCopy free?
     a: AI Writer - SpellCopy uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AI Writer - SpellCopy?
@@ -42,7 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like AI Writer -
 
 ## What is AI Writer - SpellCopy?
 
-SpellCopy is an AI-powered app that helps you generate compelling text for all your marketing materials. Copywriting Free trail
+SpellCopy is an AI-powered app that helps you generate compelling text for all your marketing materials.
 
 In short, AI Writer - SpellCopy is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. Many users discover that this feature of AI Writer - SpellCopy alone covers what previously took multiple tools.
 
