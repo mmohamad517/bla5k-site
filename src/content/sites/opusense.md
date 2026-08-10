@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Opusense?
-    a: Opusense is a site inspection tool that captures observations via photos, voice, and text to auto-generate branded reports. It streamlines workflows with features like speech-to-text and .docx export, reducing manual effort and errors for construction teams. Business Freemium That is the core of what Opusense does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Opusense is a site inspection tool that captures observations via photos, voice, and text to auto-generate branded reports. It streamlines workflows with features like speech-to-text and .docx export, reducing manual effort and errors for construction teams. That is the core of what Opusense does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Opusense free?
     a: Opusense uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Opusense?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Opusen
 
 ## What is Opusense?
 
-Opusense is a site inspection tool that captures observations via photos, voice, and text to auto-generate branded reports. It streamlines workflows with features like speech-to-text and .docx export, reducing manual effort and errors for construction teams. Business Freemium
-
+Opusense is a site inspection tool that captures observations via photos, voice, and text to auto-generate branded reports. It streamlines workflows with features like speech-to-text and .docx export, reducing manual effort and errors for construction teams.
 In short, Opusense is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. Many users find that this one ability of Opusense removes several tasks from their daily routine.
 
 ## Key features

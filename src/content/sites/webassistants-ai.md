@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is WebAssistants.ai?
-    a: Webassistants.ai offers customizable AI assistants that integrate easily into websites and applications. Key features include multilingual support, advanced analytics, and real-time assistance, aimed at enhancing user engagement and optimizing operations across various industries. AI Assistant Free trial - $9/mo That is the core of what WebAssistants.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Webassistants.ai offers customizable AI assistants that integrate easily into websites and applications. Key features include multilingual support, advanced analytics, and real-time assistance, aimed at enhancing user engagement and optimizing operations across various industries. That is the core of what WebAssistants.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is WebAssistants.ai free?
     a: WebAssistants.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9/mo, check the official website — pricing changes often.
   - q: What can you do with WebAssistants.ai?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is WebAssistants.ai?
 
-Webassistants.ai offers customizable AI assistants that integrate easily into websites and applications. Key features include multilingual support, advanced analytics, and real-time assistance, aimed at enhancing user engagement and optimizing operations across various industries. AI Assistant Free trial - $9/mo
-
+Webassistants.ai offers customizable AI assistants that integrate easily into websites and applications. Key features include multilingual support, advanced analytics, and real-time assistance, aimed at enhancing user engagement and optimizing operations across various industries.
 In short, WebAssistants.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That single feature of WebAssistants.ai alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

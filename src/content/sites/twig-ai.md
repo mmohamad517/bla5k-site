@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Twig AI?
-    a: Twig is an autonomous AI agent platform that integrates with existing support stacks via 30+ connectors, automatically resolves tickets using memory and synthetic data, escalates low‑confidence cases, reduces routine ticket volume by 70 %, and provides real‑time performance metrics. AI Agents Paid That is the core of what Twig AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Twig is an autonomous AI agent platform that integrates with existing support stacks via 30+ connectors, automatically resolves tickets using memory and synthetic data, escalates low‑confidence cases, reduces routine ticket volume by 70 %, and provides real‑time performance metrics. That is the core of what Twig AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Twig AI free?
     a: Twig AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Twig AI?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Twig AI?
 
-Twig is an autonomous AI agent platform that integrates with existing support stacks via 30+ connectors, automatically resolves tickets using memory and synthetic data, escalates low‑confidence cases, reduces routine ticket volume by 70 %, and provides real‑time performance metrics. AI Agents Paid
-
+Twig is an autonomous AI agent platform that integrates with existing support stacks via 30+ connectors, automatically resolves tickets using memory and synthetic data, escalates low‑confidence cases, reduces routine ticket volume by 70 %, and provides real‑time performance metrics.
 In short, Twig AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many, that single strength of Twig AI is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

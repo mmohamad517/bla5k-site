@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Agent.exe?
-    a: Agent.exe is an AI tool that enables users to interact with their local computer systems effortlessly. It supports macOS, Windows, and Linux, allowing task automation and simplified workflows through Claude's API-driven commands and an easy setup process. AI Agents Free That is the core of what Agent.exe does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Agent.exe is an AI tool that enables users to interact with their local computer systems effortlessly. It supports macOS, Windows, and Linux, allowing task automation and simplified workflows through Claude's API-driven commands and an easy setup process. That is the core of what Agent.exe does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Agent.exe free?
     a: Yes — Agent.exe is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Agent.exe?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Agent.exe e
 
 ## What is Agent.exe?
 
-Agent.exe is an AI tool that enables users to interact with their local computer systems effortlessly. It supports macOS, Windows, and Linux, allowing task automation and simplified workflows through Claude's API-driven commands and an easy setup process. AI Agents Free
-
+Agent.exe is an AI tool that enables users to interact with their local computer systems effortlessly. It supports macOS, Windows, and Linux, allowing task automation and simplified workflows through Claude's API-driven commands and an easy setup process.
 In short, Agent.exe is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For a lot of people, that one function of Agent.exe collapses multiple steps into a single action.
 
 ## Key features

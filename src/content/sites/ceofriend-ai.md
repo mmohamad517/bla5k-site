@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CEOfriend.ai?
-    a: ceofriend.ai is an AI advisor platform that delivers competitor analysis, strategic guidance, and board-ready outputs like investor decks, budgets, and SWOT analyses. It also enables users to run cash-flow scenarios, detect revenue leaks, and monitor market trends through an interactive chat interface and personalized dashboard.  That is the core of what CEOfriend.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ceofriend.ai is an AI advisor platform that delivers competitor analysis, strategic guidance, and board-ready outputs like investor decks, budgets, and SWOT analyses. It also enables users to run cash-flow scenarios, detect revenue leaks, and monitor market trends through an interactive chat interface and personalized dashboard. That is the core of what CEOfriend.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CEOfriend.ai free?
     a: CEOfriend.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $179/mo, check the official website — pricing changes often.
   - q: What can you do with CEOfriend.ai?

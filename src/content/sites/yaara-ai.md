@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Yaara.ai?
-    a: Yaara is an AI writing assistant that produces ads, emails, blogs, website copy, social media posts, and presentations in 26 languages using context‑aware generation, templates, SEO prompts, and real‑time style edits. Copywriting Subscription - $15/mo That is the core of what Yaara.ai does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Yaara is an AI writing assistant that produces ads, emails, blogs, website copy, social media posts, and presentations in 26 languages using context‑aware generation, templates, SEO prompts, and real‑time style edits. That is the core of what Yaara.ai does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Yaara.ai free?
     a: Yaara.ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Yaara.ai?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Yaara.ai?
 
-Yaara is an AI writing assistant that produces ads, emails, blogs, website copy, social media posts, and presentations in 26 languages using context‑aware generation, templates, SEO prompts, and real‑time style edits. Copywriting Subscription - $15/mo
-
+Yaara is an AI writing assistant that produces ads, emails, blogs, website copy, social media posts, and presentations in 26 languages using context‑aware generation, templates, SEO prompts, and real‑time style edits.
 In short, Yaara.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. That single feature of Yaara.ai alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

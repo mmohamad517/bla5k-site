@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is WizGenerator?
-    a: WizGenerator offer a suite of tools to enhance creativity for marketing, social media, and business needs. Generate unique captions, SEO queries, and more for quick and precise results without any subscription fees.  That is the core of what WizGenerator does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: WizGenerator offer a suite of tools to enhance creativity for marketing, social media, and business needs. Generate unique captions, SEO queries, and more for quick and precise results without any subscription fees. That is the core of what WizGenerator does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is WizGenerator free?
     a: Yes — WizGenerator is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with WizGenerator?

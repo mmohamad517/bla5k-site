@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is DealCoach?
-    a: DealCoach uses AI to give real‑time sales guidance to SaaS founders and reps, offering quick deal reviews, method‑agnostic playbooks (MEDDICC, SPIN, Challenger), pipeline building, and forecasting for faster, predictable revenue. Sales Freemium That is the core of what DealCoach does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: DealCoach uses AI to give real‑time sales guidance to SaaS founders and reps, offering quick deal reviews, method‑agnostic playbooks (MEDDICC, SPIN, Challenger), pipeline building, and forecasting for faster, predictable revenue. That is the core of what DealCoach does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is DealCoach free?
     a: DealCoach uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with DealCoach?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like DealCoach earn t
 
 ## What is DealCoach?
 
-DealCoach uses AI to give real‑time sales guidance to SaaS founders and reps, offering quick deal reviews, method‑agnostic playbooks (MEDDICC, SPIN, Challenger), pipeline building, and forecasting for faster, predictable revenue. Sales Freemium
-
+DealCoach uses AI to give real‑time sales guidance to SaaS founders and reps, offering quick deal reviews, method‑agnostic playbooks (MEDDICC, SPIN, Challenger), pipeline building, and forecasting for faster, predictable revenue.
 In short, DealCoach is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. Many users find that this one ability of DealCoach removes several tasks from their daily routine.
 
 ## Key features

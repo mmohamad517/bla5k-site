@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Gangr.ai?
-    a: Gangr.ai is a user-friendly AI optimization tool for DTF printing, offering seamless integrations with ecommerce platforms like Shopify and Wix. It simplifies gang sheet editing, automates nesting, and ensures high-quality prints, saving time and enhancing design control for users. Ad Mockup Free trial That is the core of what Gangr.ai does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Gangr.ai is a user-friendly AI optimization tool for DTF printing, offering seamless integrations with ecommerce platforms like Shopify and Wix. It simplifies gang sheet editing, automates nesting, and ensures high-quality prints, saving time and enhancing design control for users. That is the core of what Gangr.ai does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Gangr.ai free?
     a: Gangr.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Gangr.ai?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Gangr.ai ma
 
 ## What is Gangr.ai?
 
-Gangr.ai is a user-friendly AI optimization tool for DTF printing, offering seamless integrations with ecommerce platforms like Shopify and Wix. It simplifies gang sheet editing, automates nesting, and ensures high-quality prints, saving time and enhancing design control for users. Ad Mockup Free trial
-
+Gangr.ai is a user-friendly AI optimization tool for DTF printing, offering seamless integrations with ecommerce platforms like Shopify and Wix. It simplifies gang sheet editing, automates nesting, and ensures high-quality prints, saving time and enhancing design control for users.
 In short, Gangr.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. That one capability of Gangr.ai frequently saves users from juggling several separate steps.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ezier AI?
-    a: Ezier.ai is a unified AI workspace that lets you generate and edit images, videos, and audio in one place. It combines multiple AI models with tools for upscaling, background removal, and lip-sync to streamline your entire content creation workflow. Art Generation Subscription That is the core of what Ezier AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ezier.ai is a unified AI workspace that lets you generate and edit images, videos, and audio in one place. It combines multiple AI models with tools for upscaling, background removal, and lip-sync to streamline your entire content creation workflow. That is the core of what Ezier AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ezier AI free?
     a: Ezier AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Ezier AI?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Ezier 
 
 ## What is Ezier AI?
 
-Ezier.ai is a unified AI workspace that lets you generate and edit images, videos, and audio in one place. It combines multiple AI models with tools for upscaling, background removal, and lip-sync to streamline your entire content creation workflow. Art Generation Subscription
-
+Ezier.ai is a unified AI workspace that lets you generate and edit images, videos, and audio in one place. It combines multiple AI models with tools for upscaling, background removal, and lip-sync to streamline your entire content creation workflow.
 In short, Ezier AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. That single feature of Ezier AI alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

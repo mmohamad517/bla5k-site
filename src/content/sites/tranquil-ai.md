@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Tranquil AI?
-    a: TranquilAI generates AI-guided personalized meditations from user-reported mood, stress level and situational needs, delivering on-demand, downloadable guided meditation audio tailored by length, focus (sleep, anxiety, concentration) and voice preference for mindfulness and stress relief. Audio Freemium That is the core of what Tranquil AI does — ai audio handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: TranquilAI generates AI-guided personalized meditations from user-reported mood, stress level and situational needs, delivering on-demand, downloadable guided meditation audio tailored by length, focus (sleep, anxiety, concentration) and voice preference for mindfulness and stress relief. That is the core of what Tranquil AI does — ai audio handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Tranquil AI free?
     a: Tranquil AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Tranquil AI?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Tranquil AI?
 
-TranquilAI generates AI-guided personalized meditations from user-reported mood, stress level and situational needs, delivering on-demand, downloadable guided meditation audio tailored by length, focus (sleep, anxiety, concentration) and voice preference for mindfulness and stress relief. Audio Freemium
-
+TranquilAI generates AI-guided personalized meditations from user-reported mood, stress level and situational needs, delivering on-demand, downloadable guided meditation audio tailored by length, focus (sleep, anxiety, concentration) and voice preference for mindfulness and stress relief.
 In short, Tranquil AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI audio without the manual grind. That one feature of Tranquil AI often eliminates several smaller steps from the usual workflow.
 
 ## Key features

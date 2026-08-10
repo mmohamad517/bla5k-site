@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is GetMyAI?
-    a: GetMyAI.ai is a no-code platform for building and deploying custom AI support agents trained on your documents. These agents provide 24/7 multilingual support, capture leads, and integrate directly with your CRM, e-commerce, and messaging channels.  That is the core of what GetMyAI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: GetMyAI.ai is a no-code platform for building and deploying custom AI support agents trained on your documents. These agents provide 24/7 multilingual support, capture leads, and integrate directly with your CRM, e-commerce, and messaging channels. That is the core of what GetMyAI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is GetMyAI free?
     a: GetMyAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $29/mo, check the official website — pricing changes often.
   - q: What can you do with GetMyAI?

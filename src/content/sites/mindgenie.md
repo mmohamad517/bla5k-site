@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MindGenie?
-    a: MindGenie is an AI-powered planning assistant designed for solopreneurs, students, and freelancers. It automates tasks, schedules, and boosts productivity using AI-generated to-do lists and Kanban boards. Seamlessly integrates with existing tools for streamlined workflows. Personal assistant Free trial - $12/mo That is the core of what MindGenie does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: MindGenie is an AI-powered planning assistant designed for solopreneurs, students, and freelancers. It automates tasks, schedules, and boosts productivity using AI-generated to-do lists and Kanban boards. Seamlessly integrates with existing tools for streamlined workflows. That is the core of what MindGenie does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MindGenie free?
     a: MindGenie uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $12/mo, check the official website — pricing changes often.
   - q: What can you do with MindGenie?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like MindGenie m
 
 ## What is MindGenie?
 
-MindGenie is an AI-powered planning assistant designed for solopreneurs, students, and freelancers. It automates tasks, schedules, and boosts productivity using AI-generated to-do lists and Kanban boards. Seamlessly integrates with existing tools for streamlined workflows. Personal assistant Free trial - $12/mo
-
+MindGenie is an AI-powered planning assistant designed for solopreneurs, students, and freelancers. It automates tasks, schedules, and boosts productivity using AI-generated to-do lists and Kanban boards. Seamlessly integrates with existing tools for streamlined workflows.
 In short, MindGenie is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one feature of MindGenie often eliminates several smaller steps from the usual workflow.
 
 ## Key features

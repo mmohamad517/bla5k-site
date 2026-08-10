@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ref hub?
-    a: RefHub automates reference requests, reminders, and fraud detection while AI templates and grading build assessments. It offers role‑based access, encrypted GDPR‑compliant storage, and real‑time scoring reports to streamline candidate evaluation.  That is the core of what Ref hub does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: RefHub automates reference requests, reminders, and fraud detection while AI templates and grading build assessments. It offers role‑based access, encrypted GDPR‑compliant storage, and real‑time scoring reports to streamline candidate evaluation. That is the core of what Ref hub does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ref hub free?
     a: Ref hub is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Ref hub?

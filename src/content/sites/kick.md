@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Kick?
-    a: Kick is an automated bookkeeping tool that categorizes transactions in real-time, offers customizable rules, and generates tax-ready financial statements. It enhances efficiency in financial management and simplifies collaboration with tax professionals for various business entities.  That is the core of what Kick does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Kick is an automated bookkeeping tool that categorizes transactions in real-time, offers customizable rules, and generates tax-ready financial statements. It enhances efficiency in financial management and simplifies collaboration with tax professionals for various business entities. That is the core of what Kick does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Kick free?
     a: Kick uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Kick?

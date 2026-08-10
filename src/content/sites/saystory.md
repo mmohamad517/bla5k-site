@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is saystory?
-    a: Saystory turns voice notes into LinkedIn, Instagram, and Twitter posts, captions, scripts, and branded images using 100+ templates, a teleprompter, and audience‑insight tools. It plans calendars, exports content, and speeds up brand growth.  That is the core of what saystory does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Saystory turns voice notes into LinkedIn, Instagram, and Twitter posts, captions, scripts, and branded images using 100+ templates, a teleprompter, and audience‑insight tools. It plans calendars, exports content, and speeds up brand growth. That is the core of what saystory does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is saystory free?
     a: saystory uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with saystory?

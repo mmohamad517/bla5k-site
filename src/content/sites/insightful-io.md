@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Insightful?
-    a: Insightful is a workforce intelligence platform that provides productivity analytics through automated time tracking and activity monitoring. It offers AI-powered dashboards for operational efficiency, workload analysis, and security compliance for remote and hybrid teams. Human resources Free trial That is the core of what Insightful does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Insightful is a workforce intelligence platform that provides productivity analytics through automated time tracking and activity monitoring. It offers AI-powered dashboards for operational efficiency, workload analysis, and security compliance for remote and hybrid teams. That is the core of what Insightful does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Insightful free?
     a: Insightful uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Insightful?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Insightful?
 
-Insightful is a workforce intelligence platform that provides productivity analytics through automated time tracking and activity monitoring. It offers AI-powered dashboards for operational efficiency, workload analysis, and security compliance for remote and hybrid teams. Human resources Free trial
-
+Insightful is a workforce intelligence platform that provides productivity analytics through automated time tracking and activity monitoring. It offers AI-powered dashboards for operational efficiency, workload analysis, and security compliance for remote and hybrid teams.
 In short, Insightful is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. For many, that single strength of Insightful is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

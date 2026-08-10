@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Loveable.dev?
-    a: Lovable is an AI-powered tool that transforms ideas into functional applications without coding, acting as a superhuman full-stack engineer.  That is the core of what Loveable.dev does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Lovable is an AI-powered tool that transforms ideas into functional applications without coding, acting as a superhuman full-stack engineer. That is the core of what Loveable.dev does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Loveable.dev free?
     a: Loveable.dev uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Loveable.dev?

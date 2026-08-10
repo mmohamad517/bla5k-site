@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Leapsome?
-    a: Leapsome is an AI-powered HR software that streamlines employee records, onboarding, performance reviews, and goal setting, while providing actionable insights for decision-making. It integrates with tools like Slack and Microsoft Teams to enhance HR efficiency.  That is the core of what Leapsome does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Leapsome is an AI-powered HR software that streamlines employee records, onboarding, performance reviews, and goal setting, while providing actionable insights for decision-making. It integrates with tools like Slack and Microsoft Teams to enhance HR efficiency. That is the core of what Leapsome does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Leapsome free?
     a: Leapsome uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Leapsome?

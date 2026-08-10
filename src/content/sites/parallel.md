@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Parallel?
-    a: Parallel AI integrates with Google Ads, delivering real‑time strategy, bid analysis, negative keyword creation, and campaign structure guidance. It imports data into Docs/Sheets for client briefs, flags spend waste and audience gaps, and provides competitive, seasonal insights across multiple accounts. AI Assistant Paid - $19.95/mo That is the core of what Parallel does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Parallel AI integrates with Google Ads, delivering real‑time strategy, bid analysis, negative keyword creation, and campaign structure guidance. It imports data into Docs/Sheets for client briefs, flags spend waste and audience gaps, and provides competitive, seasonal insights across multiple accounts. That is the core of what Parallel does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Parallel free?
     a: Parallel is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Parallel?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Parallel?
 
-Parallel AI integrates with Google Ads, delivering real‑time strategy, bid analysis, negative keyword creation, and campaign structure guidance. It imports data into Docs/Sheets for client briefs, flags spend waste and audience gaps, and provides competitive, seasonal insights across multiple accounts. AI Assistant Paid - $19.95/mo
-
+Parallel AI integrates with Google Ads, delivering real‑time strategy, bid analysis, negative keyword creation, and campaign structure guidance. It imports data into Docs/Sheets for client briefs, flags spend waste and audience gaps, and provides competitive, seasonal insights across multiple accounts.
 In short, Parallel is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one feature of Parallel often eliminates several smaller steps from the usual workflow.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Spy?
-    a: Ai‑Spy analyzes MP3/WAV files to distinguish human from AI‑generated speech. It offers drag‑and‑drop uploads or link input, instant authenticity scores, word‑level breakdowns, exportable reports, and a SOC 2‑certified API for workflow integration. AI detection Free That is the core of what AI Spy does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ai‑Spy analyzes MP3/WAV files to distinguish human from AI‑generated speech. It offers drag‑and‑drop uploads or link input, instant authenticity scores, word‑level breakdowns, exportable reports, and a SOC 2‑certified API for workflow integration. That is the core of what AI Spy does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI Spy free?
     a: Yes — AI Spy is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with AI Spy?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is AI Spy?
 
-Ai‑Spy analyzes MP3/WAV files to distinguish human from AI‑generated speech. It offers drag‑and‑drop uploads or link input, instant authenticity scores, word‑level breakdowns, exportable reports, and a SOC 2‑certified API for workflow integration. AI detection Free
-
+Ai‑Spy analyzes MP3/WAV files to distinguish human from AI‑generated speech. It offers drag‑and‑drop uploads or link input, instant authenticity scores, word‑level breakdowns, exportable reports, and a SOC 2‑certified API for workflow integration.
 In short, AI Spy is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. Many users find that this one ability of AI Spy removes several tasks from their daily routine.
 
 ## Key features

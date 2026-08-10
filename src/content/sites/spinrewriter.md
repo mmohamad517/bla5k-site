@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Spinrewriter?
-    a: Spin Rewriter AI rewrites a single article into up to 1,000 unique, human‑readable variations using ENL Semantic Rewriting. It offers one‑click rewrites, bulk processing, side‑by‑side comparison, API integration, and automatic stock photo insertion for SEO content. Copywriting Freemium - $47/mo That is the core of what Spinrewriter does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Spin Rewriter AI rewrites a single article into up to 1,000 unique, human‑readable variations using ENL Semantic Rewriting. It offers one‑click rewrites, bulk processing, side‑by‑side comparison, API integration, and automatic stock photo insertion for SEO content. That is the core of what Spinrewriter does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Spinrewriter free?
     a: Spinrewriter uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $47/mo, check the official website — pricing changes often.
   - q: What can you do with Spinrewriter?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Spinrewriter?
 
-Spin Rewriter AI rewrites a single article into up to 1,000 unique, human‑readable variations using ENL Semantic Rewriting. It offers one‑click rewrites, bulk processing, side‑by‑side comparison, API integration, and automatic stock photo insertion for SEO content. Copywriting Freemium - $47/mo
-
+Spin Rewriter AI rewrites a single article into up to 1,000 unique, human‑readable variations using ENL Semantic Rewriting. It offers one‑click rewrites, bulk processing, side‑by‑side comparison, API integration, and automatic stock photo insertion for SEO content.
 In short, Spinrewriter is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. Many users discover that this feature of Spinrewriter alone covers what previously took multiple tools.
 
 ## Key features

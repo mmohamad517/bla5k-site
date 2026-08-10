@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Arvow?
-    a: Arvow is an AI SEO writing and content automation platform that generates, optimizes and publishes SEO-ready HTML articles with images, videos, schema, meta tags, internal linking and multi-language support, plus integrations and multi-site publishing controls. Content creation Subscription - $59/mo That is the core of what Arvow does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Arvow is an AI SEO writing and content automation platform that generates, optimizes and publishes SEO-ready HTML articles with images, videos, schema, meta tags, internal linking and multi-language support, plus integrations and multi-site publishing controls. That is the core of what Arvow does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Arvow free?
     a: Arvow is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Arvow?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Arvow?
 
-Arvow is an AI SEO writing and content automation platform that generates, optimizes and publishes SEO-ready HTML articles with images, videos, schema, meta tags, internal linking and multi-language support, plus integrations and multi-site publishing controls. Content creation Subscription - $59/mo
-
+Arvow is an AI SEO writing and content automation platform that generates, optimizes and publishes SEO-ready HTML articles with images, videos, schema, meta tags, internal linking and multi-language support, plus integrations and multi-site publishing controls.
 In short, Arvow is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. That one feature of Arvow often eliminates several smaller steps from the usual workflow.
 
 ## Key features

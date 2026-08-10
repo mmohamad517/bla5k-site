@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Curious thing?
-    a: Curious Thing AI offers customizable voice assistants Lucy and Sam for businesses. These assistants simplify communication, gather leads, manage calls, and provide multilingual support, resulting in enhanced customer service.  That is the core of what Curious thing does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Curious Thing AI offers customizable voice assistants Lucy and Sam for businesses. These assistants simplify communication, gather leads, manage calls, and provide multilingual support, resulting in enhanced customer service. That is the core of what Curious thing does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Curious thing free?
     a: Curious thing uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Curious thing?

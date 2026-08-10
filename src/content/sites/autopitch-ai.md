@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AutoPitch.ai?
-    a: AutoPitch automates account research from multiple data sources, producing detailed prospect profiles, fit analyses, and role‑specific outreach emails. It supports inbound qualification, outbound campaigns, and account planning, cutting research time and shortening sales cycles. Sales Subscription - $29/mo That is the core of what AutoPitch.ai does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AutoPitch automates account research from multiple data sources, producing detailed prospect profiles, fit analyses, and role‑specific outreach emails. It supports inbound qualification, outbound campaigns, and account planning, cutting research time and shortening sales cycles. That is the core of what AutoPitch.ai does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AutoPitch.ai free?
     a: AutoPitch.ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with AutoPitch.ai?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is AutoPitch.ai?
 
-AutoPitch automates account research from multiple data sources, producing detailed prospect profiles, fit analyses, and role‑specific outreach emails. It supports inbound qualification, outbound campaigns, and account planning, cutting research time and shortening sales cycles. Sales Subscription - $29/mo
-
+AutoPitch automates account research from multiple data sources, producing detailed prospect profiles, fit analyses, and role‑specific outreach emails. It supports inbound qualification, outbound campaigns, and account planning, cutting research time and shortening sales cycles.
 In short, AutoPitch.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. Many users find that this one ability of AutoPitch.ai removes several tasks from their daily routine.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Gitya?
-    a: Gitya is an AI‑powered GitHub app that automates pull‑request reviews, closes low‑impact issues, and applies predefined actions to tickets. It offers context‑aware suggestions and automated merge approvals, reducing manual overhead without custom configuration. Code assistant Freemium That is the core of what Gitya does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Gitya is an AI‑powered GitHub app that automates pull‑request reviews, closes low‑impact issues, and applies predefined actions to tickets. It offers context‑aware suggestions and automated merge approvals, reducing manual overhead without custom configuration. That is the core of what Gitya does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Gitya free?
     a: Gitya uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Gitya?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Gitya earn their
 
 ## What is Gitya?
 
-Gitya is an AI‑powered GitHub app that automates pull‑request reviews, closes low‑impact issues, and applies predefined actions to tickets. It offers context‑aware suggestions and automated merge approvals, reducing manual overhead without custom configuration. Code assistant Freemium
-
+Gitya is an AI‑powered GitHub app that automates pull‑request reviews, closes low‑impact issues, and applies predefined actions to tickets. It offers context‑aware suggestions and automated merge approvals, reducing manual overhead without custom configuration.
 In short, Gitya is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For a lot of people, that one function of Gitya collapses multiple steps into a single action.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Regem AI Platform?
-    a: The Regem AI Platform 1.0 is an all-inclusive content creation tool featuring Pro Writer, Pro Image, and Pro Email Writer for smooth content generation. Enhanced by additional tools like the SEO Title generator and Content Rephraser, it caters to writers' needs comprehensively. Content creation Free trial That is the core of what Regem AI Platform does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: The Regem AI Platform 1.0 is an all-inclusive content creation tool featuring Pro Writer, Pro Image, and Pro Email Writer for smooth content generation. Enhanced by additional tools like the SEO Title generator and Content Rephraser, it caters to writers' needs comprehensively. That is the core of what Regem AI Platform does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Regem AI Platform free?
     a: Regem AI Platform uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Regem AI Platform?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Regem AI Pl
 
 ## What is Regem AI Platform?
 
-The Regem AI Platform 1.0 is an all-inclusive content creation tool featuring Pro Writer, Pro Image, and Pro Email Writer for smooth content generation. Enhanced by additional tools like the SEO Title generator and Content Rephraser, it caters to writers' needs comprehensively. Content creation Free trial
-
+The Regem AI Platform 1.0 is an all-inclusive content creation tool featuring Pro Writer, Pro Image, and Pro Email Writer for smooth content generation. Enhanced by additional tools like the SEO Title generator and Content Rephraser, it caters to writers' needs comprehensively.
 In short, Regem AI Platform is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For a lot of people, that one function of Regem AI Platform collapses multiple steps into a single action.
 
 ## Key features

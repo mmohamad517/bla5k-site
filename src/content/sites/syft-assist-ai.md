@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Syft assist ai?
-    a: Syft Analytics delivers AI‑powered dashboards and forecasting for accountants, analysts, and managers, consolidating data from accounting, e‑commerce, payroll, and ERP systems into IFRS/GAAP‑compliant statements. It offers real‑time spreadsheet integration, automated error detection, KPI insights, and secure data handling.  That is the core of what Syft assist ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Syft Analytics delivers AI‑powered dashboards and forecasting for accountants, analysts, and managers, consolidating data from accounting, e‑commerce, payroll, and ERP systems into IFRS/GAAP‑compliant statements. It offers real‑time spreadsheet integration, automated error detection, KPI insights, and secure data handling. That is the core of what Syft assist ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Syft assist ai free?
     a: Syft assist ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Syft assist ai?

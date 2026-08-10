@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Bardeen AI?
-    a: Bardeen automates lead generation by scraping web data, using AI to research and qualify prospects, and enriching contacts with verified emails and phone numbers. Export to CSV, Google Sheets, Airtable, Notion or integrate with CRMs and task tools. AI Agents Freemium That is the core of what Bardeen AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Bardeen automates lead generation by scraping web data, using AI to research and qualify prospects, and enriching contacts with verified emails and phone numbers. Export to CSV, Google Sheets, Airtable, Notion or integrate with CRMs and task tools. That is the core of what Bardeen AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Bardeen AI free?
     a: Bardeen AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Bardeen AI?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Bardeen AI 
 
 ## What is Bardeen AI?
 
-Bardeen automates lead generation by scraping web data, using AI to research and qualify prospects, and enriching contacts with verified emails and phone numbers. Export to CSV, Google Sheets, Airtable, Notion or integrate with CRMs and task tools. AI Agents Freemium
-
+Bardeen automates lead generation by scraping web data, using AI to research and qualify prospects, and enriching contacts with verified emails and phone numbers. Export to CSV, Google Sheets, Airtable, Notion or integrate with CRMs and task tools.
 In short, Bardeen AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users find that this one ability of Bardeen AI removes several tasks from their daily routine.
 
 ## Key features

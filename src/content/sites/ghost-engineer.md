@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ghost Engineer?
-    a: Ghost Engineer is an AI coding interview assistant that helps software engineers by providing instant coding solutions through screenshots and voice commands. It supports multiple programming languages and prioritizes user privacy during technical interviews. Code assistant Free trial That is the core of what Ghost Engineer does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ghost Engineer is an AI coding interview assistant that helps software engineers by providing instant coding solutions through screenshots and voice commands. It supports multiple programming languages and prioritizes user privacy during technical interviews. That is the core of what Ghost Engineer does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ghost Engineer free?
     a: Ghost Engineer uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Ghost Engineer?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Ghost 
 
 ## What is Ghost Engineer?
 
-Ghost Engineer is an AI coding interview assistant that helps software engineers by providing instant coding solutions through screenshots and voice commands. It supports multiple programming languages and prioritizes user privacy during technical interviews. Code assistant Free trial
-
+Ghost Engineer is an AI coding interview assistant that helps software engineers by providing instant coding solutions through screenshots and voice commands. It supports multiple programming languages and prioritizes user privacy during technical interviews.
 In short, Ghost Engineer is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one feature of Ghost Engineer often eliminates several smaller steps from the usual workflow.
 
 ## Key features

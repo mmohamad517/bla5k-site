@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Sesterce Cloud?
-    a: Cloud GPU rental platform offering on-demand VMs and bare-metal servers with A100/H100/RTX4090 and other GPUs, configurable vRAM/vCPU, persistent volumes, spot instances, and API-driven provisioning for training, inference, rendering, and HPC workloads. AI Agents Freemium That is the core of what Sesterce Cloud does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Cloud GPU rental platform offering on-demand VMs and bare-metal servers with A100/H100/RTX4090 and other GPUs, configurable vRAM/vCPU, persistent volumes, spot instances, and API-driven provisioning for training, inference, rendering, and HPC workloads. That is the core of what Sesterce Cloud does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Sesterce Cloud free?
     a: Sesterce Cloud uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Sesterce Cloud?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Sesterce Cloud e
 
 ## What is Sesterce Cloud?
 
-Cloud GPU rental platform offering on-demand VMs and bare-metal servers with A100/H100/RTX4090 and other GPUs, configurable vRAM/vCPU, persistent volumes, spot instances, and API-driven provisioning for training, inference, rendering, and HPC workloads. AI Agents Freemium
-
+Cloud GPU rental platform offering on-demand VMs and bare-metal servers with A100/H100/RTX4090 and other GPUs, configurable vRAM/vCPU, persistent volumes, spot instances, and API-driven provisioning for training, inference, rendering, and HPC workloads.
 In short, Sesterce Cloud is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That one capability of Sesterce Cloud frequently saves users from juggling several separate steps.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Harriet.ai?
-    a: Harriet delivers a real‑time dashboard for small‑business financial management, integrating with QuickBooks. It tracks income, expenses, and cash flow, assigns a dedicated bookkeeper, and offers quick setup to help businesses monitor cash, maintain records, and plan growth. Accounting assistant Freemium That is the core of what Harriet.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Harriet delivers a real‑time dashboard for small‑business financial management, integrating with QuickBooks. It tracks income, expenses, and cash flow, assigns a dedicated bookkeeper, and offers quick setup to help businesses monitor cash, maintain records, and plan growth. That is the core of what Harriet.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Harriet.ai free?
     a: Harriet.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Harriet.ai?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Harriet.ai?
 
-Harriet delivers a real‑time dashboard for small‑business financial management, integrating with QuickBooks. It tracks income, expenses, and cash flow, assigns a dedicated bookkeeper, and offers quick setup to help businesses monitor cash, maintain records, and plan growth. Accounting assistant Freemium
-
+Harriet delivers a real‑time dashboard for small‑business financial management, integrating with QuickBooks. It tracks income, expenses, and cash flow, assigns a dedicated bookkeeper, and offers quick setup to help businesses monitor cash, maintain records, and plan growth.
 In short, Harriet.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That single feature of Harriet.ai alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

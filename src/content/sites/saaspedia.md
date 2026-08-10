@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SaasPedia?
-    a: SaasPedia delivers AI‑powered SEO audits, keyword research, and content strategies for SaaS, indie hackers, and enterprises, optimizing site performance for Google, Bing, and AI search engines. It builds backlinks, boosts domain authority, and supports growth and MVP launches.  That is the core of what SaasPedia does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SaasPedia delivers AI‑powered SEO audits, keyword research, and content strategies for SaaS, indie hackers, and enterprises, optimizing site performance for Google, Bing, and AI search engines. It builds backlinks, boosts domain authority, and supports growth and MVP launches. That is the core of what SaasPedia does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SaasPedia free?
     a: SaasPedia is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with SaasPedia?

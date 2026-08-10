@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is FastTrackr AI?
-    a: FastTrackr AI is a productivity tool that automates routine tasks via WhatsApp, including meeting scheduling and email drafting. It supports over 50 languages, helping users save time, manage to-do lists, and improve overall workflow efficiency.  That is the core of what FastTrackr AI does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: FastTrackr AI is a productivity tool that automates routine tasks via WhatsApp, including meeting scheduling and email drafting. It supports over 50 languages, helping users save time, manage to-do lists, and improve overall workflow efficiency. That is the core of what FastTrackr AI does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is FastTrackr AI free?
     a: FastTrackr AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with FastTrackr AI?

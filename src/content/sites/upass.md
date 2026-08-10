@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Upass?
-    a: uPass AI rewrites AI‑generated content to lower detection scores from Turnitin, GPTZero, and Copyleaks. It offers simultaneous detection checks and human‑like rephrasing, preserving meaning while improving grammar and reducing redundancy for academic writing. Copywriting Freemium - $12.99/mo That is the core of what Upass does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: uPass AI rewrites AI‑generated content to lower detection scores from Turnitin, GPTZero, and Copyleaks. It offers simultaneous detection checks and human‑like rephrasing, preserving meaning while improving grammar and reducing redundancy for academic writing. That is the core of what Upass does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Upass free?
     a: Upass uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $12.99/mo, check the official website — pricing changes often.
   - q: What can you do with Upass?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Upass?
 
-uPass AI rewrites AI‑generated content to lower detection scores from Turnitin, GPTZero, and Copyleaks. It offers simultaneous detection checks and human‑like rephrasing, preserving meaning while improving grammar and reducing redundancy for academic writing. Copywriting Freemium - $12.99/mo
-
+uPass AI rewrites AI‑generated content to lower detection scores from Turnitin, GPTZero, and Copyleaks. It offers simultaneous detection checks and human‑like rephrasing, preserving meaning while improving grammar and reducing redundancy for academic writing.
 In short, Upass is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. That one feature of Upass often eliminates several smaller steps from the usual workflow.
 
 ## Key features

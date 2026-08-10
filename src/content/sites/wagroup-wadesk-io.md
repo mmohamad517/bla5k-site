@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is WaGroup - wadesk.io?
-    a: wagroup.wadesk.io is a WhatsApp group finder and community management platform. It uses AI to discover, join, and organize groups, and provides tools for lead mining, broadcasting, and audience engagement.  That is the core of what WaGroup - wadesk.io does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: wagroup.wadesk.io is a WhatsApp group finder and community management platform. It uses AI to discover, join, and organize groups, and provides tools for lead mining, broadcasting, and audience engagement. That is the core of what WaGroup - wadesk.io does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is WaGroup - wadesk.io free?
     a: WaGroup - wadesk.io uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with WaGroup - wadesk.io?

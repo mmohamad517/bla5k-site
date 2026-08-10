@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Comma AI?
-    a: Comma.ai offers an advanced driving assistance system using openpilot software, featuring lane centering, adaptive cruise control, and dashcam recording. Compatible with over 300 car models, it supports hands-free driving and includes community-driven real-world data. Automotive Paid That is the core of what Comma AI does — automotive ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Comma.ai offers an advanced driving assistance system using openpilot software, featuring lane centering, adaptive cruise control, and dashcam recording. Compatible with over 300 car models, it supports hands-free driving and includes community-driven real-world data. That is the core of what Comma AI does — automotive ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Comma AI free?
     a: Comma AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Comma AI?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Comma AI ea
 
 ## What is Comma AI?
 
-Comma.ai offers an advanced driving assistance system using openpilot software, featuring lane centering, adaptive cruise control, and dashcam recording. Compatible with over 300 car models, it supports hands-free driving and includes community-driven real-world data. Automotive Paid
-
+Comma.ai offers an advanced driving assistance system using openpilot software, featuring lane centering, adaptive cruise control, and dashcam recording. Compatible with over 300 car models, it supports hands-free driving and includes community-driven real-world data.
 In short, Comma AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for automotive AI without the manual grind. That one capability of Comma AI frequently saves users from juggling several separate steps.
 
 ## Key features

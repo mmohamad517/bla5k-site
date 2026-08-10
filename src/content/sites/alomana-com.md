@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Alomana?
-    a: alomana.com is an enterprise AI autonomy platform that deploys customizable AI agents for business automation and data analysis. It combines symbolic and generative AI for complex reasoning, offering secure, industry-specific templates to automate workflows and reduce reliance on generic LLMs. AI Agents Freemium That is the core of what Alomana does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: alomana.com is an enterprise AI autonomy platform that deploys customizable AI agents for business automation and data analysis. It combines symbolic and generative AI for complex reasoning, offering secure, industry-specific templates to automate workflows and reduce reliance on generic LLMs. That is the core of what Alomana does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Alomana free?
     a: Alomana uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Alomana?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Alomana ear
 
 ## What is Alomana?
 
-alomana.com is an enterprise AI autonomy platform that deploys customizable AI agents for business automation and data analysis. It combines symbolic and generative AI for complex reasoning, offering secure, industry-specific templates to automate workflows and reduce reliance on generic LLMs. AI Agents Freemium
-
+alomana.com is an enterprise AI autonomy platform that deploys customizable AI agents for business automation and data analysis. It combines symbolic and generative AI for complex reasoning, offering secure, industry-specific templates to automate workflows and reduce reliance on generic LLMs.
 In short, Alomana is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For a lot of people, that one function of Alomana collapses multiple steps into a single action.
 
 ## Key features

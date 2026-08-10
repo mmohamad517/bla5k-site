@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Spectrahertz?
-    a: Spectrahertz detects AI-generated audio and hidden watermarks with 99.9% accuracy and sub-100 ms latency, removes spectral artifacts, embeds imperceptible marks, applies stereo/3D/Room spatial processing, exports high-quality WAV, and offers secure uploads plus API. Audio Subscription That is the core of what Spectrahertz does — ai audio handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Spectrahertz detects AI-generated audio and hidden watermarks with 99.9% accuracy and sub-100 ms latency, removes spectral artifacts, embeds imperceptible marks, applies stereo/3D/Room spatial processing, exports high-quality WAV, and offers secure uploads plus API. That is the core of what Spectrahertz does — ai audio handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Spectrahertz free?
     a: Spectrahertz is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Spectrahertz?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Spectrahertz?
 
-Spectrahertz detects AI-generated audio and hidden watermarks with 99.9% accuracy and sub-100 ms latency, removes spectral artifacts, embeds imperceptible marks, applies stereo/3D/Room spatial processing, exports high-quality WAV, and offers secure uploads plus API. Audio Subscription
-
+Spectrahertz detects AI-generated audio and hidden watermarks with 99.9% accuracy and sub-100 ms latency, removes spectral artifacts, embeds imperceptible marks, applies stereo/3D/Room spatial processing, exports high-quality WAV, and offers secure uploads plus API.
 In short, Spectrahertz is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI audio without the manual grind. Many users discover that this feature of Spectrahertz alone covers what previously took multiple tools.
 
 ## Key features

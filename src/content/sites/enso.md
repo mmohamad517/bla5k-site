@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is enso?
-    a: Enso automates business workflows with AI agents that run continuously, bundling 5–8 agents for tasks such as content creation, lead qualification, and revenue management. Custom agents are built via prompts, with enterprise‑grade security, SOC 2 compliance, and self‑learning optimization. AI Agents Subscription - $900/mo That is the core of what enso does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Enso automates business workflows with AI agents that run continuously, bundling 5–8 agents for tasks such as content creation, lead qualification, and revenue management. Custom agents are built via prompts, with enterprise‑grade security, SOC 2 compliance, and self‑learning optimization. That is the core of what enso does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is enso free?
     a: enso is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with enso?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is enso?
 
-Enso automates business workflows with AI agents that run continuously, bundling 5–8 agents for tasks such as content creation, lead qualification, and revenue management. Custom agents are built via prompts, with enterprise‑grade security, SOC 2 compliance, and self‑learning optimization. AI Agents Subscription - $900/mo
-
+Enso automates business workflows with AI agents that run continuously, bundling 5–8 agents for tasks such as content creation, lead qualification, and revenue management. Custom agents are built via prompts, with enterprise‑grade security, SOC 2 compliance, and self‑learning optimization.
 In short, enso is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That single feature of enso alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

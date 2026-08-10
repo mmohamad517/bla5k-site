@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Neurture?
-    a: Neurture is a mobile app that assists adults in managing compulsive behaviors such as alcohol, vaping, gambling, and screen time. It offers 45+ evidence‑based tools, tracks triggers and urges, and provides guided meditations with local, privacy‑protected data storage. Coaching Subscription That is the core of what Neurture does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Neurture is a mobile app that assists adults in managing compulsive behaviors such as alcohol, vaping, gambling, and screen time. It offers 45+ evidence‑based tools, tracks triggers and urges, and provides guided meditations with local, privacy‑protected data storage. That is the core of what Neurture does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Neurture free?
     a: Neurture is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Neurture?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Neurture ma
 
 ## What is Neurture?
 
-Neurture is a mobile app that assists adults in managing compulsive behaviors such as alcohol, vaping, gambling, and screen time. It offers 45+ evidence‑based tools, tracks triggers and urges, and provides guided meditations with local, privacy‑protected data storage. Coaching Subscription
-
+Neurture is a mobile app that assists adults in managing compulsive behaviors such as alcohol, vaping, gambling, and screen time. It offers 45+ evidence‑based tools, tracks triggers and urges, and provides guided meditations with local, privacy‑protected data storage.
 In short, Neurture is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. For a lot of people, that one function of Neurture collapses multiple steps into a single action.
 
 ## Key features

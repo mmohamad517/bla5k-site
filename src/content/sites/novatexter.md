@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Novatexter?
-    a: Introducing AI Helper ChatGPT Models, an AI-powered tool that maximizes productivity by utilizing the latest chatGPT models. Install AI Helper in your browser to efficiently create engaging content by simply entering commands in the text area.  That is the core of what Novatexter does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Introducing AI Helper ChatGPT Models, an AI-powered tool that maximizes productivity by utilizing the latest chatGPT models. Install AI Helper in your browser to efficiently create engaging content by simply entering commands in the text area. That is the core of what Novatexter does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Novatexter free?
     a: Novatexter is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Novatexter?

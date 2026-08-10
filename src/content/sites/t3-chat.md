@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is T3 Chat?
-    a: t3 chat is an AI assistant that facilitates efficient communication and information exchange through enhanced search capabilities and mobile access. Its user-friendly interface supports multiple conversation threads, catering to students, professionals, and casual users for diverse inquiries.  That is the core of what T3 Chat does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: t3 chat is an AI assistant that facilitates efficient communication and information exchange through enhanced search capabilities and mobile access. Its user-friendly interface supports multiple conversation threads, catering to students, professionals, and casual users for diverse inquiries. That is the core of what T3 Chat does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is T3 Chat free?
     a: T3 Chat is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with T3 Chat?

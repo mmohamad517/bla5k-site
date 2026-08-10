@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is GoProfiles?
-    a: GoProfiles is an AI‑powered employee directory that syncs real‑time HRIS data, provides an AI assistant for coworker insights, visualizes global teams with an interactive map, and offers peer recognition and milestone celebrations via Slack, Teams, and mobile.  That is the core of what GoProfiles does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: GoProfiles is an AI‑powered employee directory that syncs real‑time HRIS data, provides an AI assistant for coworker insights, visualizes global teams with an interactive map, and offers peer recognition and milestone celebrations via Slack, Teams, and mobile. That is the core of what GoProfiles does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is GoProfiles free?
     a: GoProfiles is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with GoProfiles?

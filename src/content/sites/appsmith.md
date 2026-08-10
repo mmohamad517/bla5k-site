@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Appsmith?
-    a: Appsmith is an open‑source low‑code platform enabling developers and analysts to build custom apps via drag‑and‑drop widgets and code‑first IDE. It connects to any database or API, supports Git, CI/CD, and enterprise‑grade security, audit, and deployment features. App Builder Freemium That is the core of what Appsmith does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Appsmith is an open‑source low‑code platform enabling developers and analysts to build custom apps via drag‑and‑drop widgets and code‑first IDE. It connects to any database or API, supports Git, CI/CD, and enterprise‑grade security, audit, and deployment features. That is the core of what Appsmith does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Appsmith free?
     a: Appsmith uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Appsmith?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Appsmith earn th
 
 ## What is Appsmith?
 
-Appsmith is an open‑source low‑code platform enabling developers and analysts to build custom apps via drag‑and‑drop widgets and code‑first IDE. It connects to any database or API, supports Git, CI/CD, and enterprise‑grade security, audit, and deployment features. App Builder Freemium
-
+Appsmith is an open‑source low‑code platform enabling developers and analysts to build custom apps via drag‑and‑drop widgets and code‑first IDE. It connects to any database or API, supports Git, CI/CD, and enterprise‑grade security, audit, and deployment features.
 In short, Appsmith is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For a lot of people, that one function of Appsmith collapses multiple steps into a single action.
 
 ## Key features

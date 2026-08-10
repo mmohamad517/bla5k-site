@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is LiveImage AI Avatar?
-    a: LiveImage AI lets users create personalized e‑cards for birthdays, holidays, and business occasions. It auto‑generates text, offers editable templates, voice‑enabled avatars, and allows scheduling, sharing, or emailing in multiple languages. Avatar Paid - $29/mo That is the core of what LiveImage AI Avatar does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: LiveImage AI lets users create personalized e‑cards for birthdays, holidays, and business occasions. It auto‑generates text, offers editable templates, voice‑enabled avatars, and allows scheduling, sharing, or emailing in multiple languages. That is the core of what LiveImage AI Avatar does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is LiveImage AI Avatar free?
     a: LiveImage AI Avatar is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with LiveImage AI Avatar?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is LiveImage AI Avatar?
 
-LiveImage AI lets users create personalized e‑cards for birthdays, holidays, and business occasions. It auto‑generates text, offers editable templates, voice‑enabled avatars, and allows scheduling, sharing, or emailing in multiple languages. Avatar Paid - $29/mo
-
+LiveImage AI lets users create personalized e‑cards for birthdays, holidays, and business occasions. It auto‑generates text, offers editable templates, voice‑enabled avatars, and allows scheduling, sharing, or emailing in multiple languages.
 In short, LiveImage AI Avatar is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. That one capability of LiveImage AI Avatar frequently saves users from juggling several separate steps.
 
 ## Key features

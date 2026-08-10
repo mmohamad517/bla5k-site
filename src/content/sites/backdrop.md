@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Backdrop?
-    a: Backdrop automates accounts payable for corporate and project teams by extracting invoices from email, categorizing them, matching to purchase orders, and issuing payments via ERP or ACH. Real‑time reconciliation, streamlined vendor onboarding, and customizable approval workflows improve efficiency and compliance. Accounting assistant Freemium That is the core of what Backdrop does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Backdrop automates accounts payable for corporate and project teams by extracting invoices from email, categorizing them, matching to purchase orders, and issuing payments via ERP or ACH. Real‑time reconciliation, streamlined vendor onboarding, and customizable approval workflows improve efficiency and compliance. That is the core of what Backdrop does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Backdrop free?
     a: Backdrop uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Backdrop?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Backdrop ea
 
 ## What is Backdrop?
 
-Backdrop automates accounts payable for corporate and project teams by extracting invoices from email, categorizing them, matching to purchase orders, and issuing payments via ERP or ACH. Real‑time reconciliation, streamlined vendor onboarding, and customizable approval workflows improve efficiency and compliance. Accounting assistant Freemium
-
+Backdrop automates accounts payable for corporate and project teams by extracting invoices from email, categorizing them, matching to purchase orders, and issuing payments via ERP or ACH. Real‑time reconciliation, streamlined vendor onboarding, and customizable approval workflows improve efficiency and compliance.
 In short, Backdrop is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users find that this one ability of Backdrop removes several tasks from their daily routine.
 
 ## Key features

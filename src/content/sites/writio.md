@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Writio?
-    a: Writio is an AI writing platform that produces SEO‑optimized articles for small businesses, agencies, and publishers across sectors such as food, retail, healthcare, and more. It offers draft creation, AI editing, and topic ideation to streamline content planning. Copywriting Freemium That is the core of what Writio does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Writio is an AI writing platform that produces SEO‑optimized articles for small businesses, agencies, and publishers across sectors such as food, retail, healthcare, and more. It offers draft creation, AI editing, and topic ideation to streamline content planning. That is the core of what Writio does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Writio free?
     a: Writio uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Writio?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Writio?
 
-Writio is an AI writing platform that produces SEO‑optimized articles for small businesses, agencies, and publishers across sectors such as food, retail, healthcare, and more. It offers draft creation, AI editing, and topic ideation to streamline content planning. Copywriting Freemium
-
+Writio is an AI writing platform that produces SEO‑optimized articles for small businesses, agencies, and publishers across sectors such as food, retail, healthcare, and more. It offers draft creation, AI editing, and topic ideation to streamline content planning.
 In short, Writio is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. That one capability of Writio frequently saves users from juggling several separate steps.
 
 ## Key features

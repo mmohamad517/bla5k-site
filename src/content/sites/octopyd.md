@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Octopyd?
-    a: Octopyd is an AI-driven recruitment platform that automates sourcing and candidate evaluation with AI agents Levi and Ivy. It enhances hiring with AI-generated scorecards, skill verification, and centralized feedback management for streamlined recruitment.  That is the core of what Octopyd does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Octopyd is an AI-driven recruitment platform that automates sourcing and candidate evaluation with AI agents Levi and Ivy. It enhances hiring with AI-generated scorecards, skill verification, and centralized feedback management for streamlined recruitment. That is the core of what Octopyd does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Octopyd free?
     a: Octopyd is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Octopyd?

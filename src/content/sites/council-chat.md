@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Council Chat?
-    a: Council Chat is a multi-model AI platform that lets users run debates across models, aggregate votes, and synthesize consensus answers. It also supports autonomous agent workflows, document analysis, creative generation, and client-ready output exports.  That is the core of what Council Chat does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Council Chat is a multi-model AI platform that lets users run debates across models, aggregate votes, and synthesize consensus answers. It also supports autonomous agent workflows, document analysis, creative generation, and client-ready output exports. That is the core of what Council Chat does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Council Chat free?
     a: Council Chat uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Council Chat?

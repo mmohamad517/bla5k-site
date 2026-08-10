@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Capafy?
-    a: Capafy is an AI agent marketplace for publishing, versioning and distributing autonomous agents, with deployment configuration for cloud and edge, searchable discovery, tagging and filters, developer onboarding, collaboration features, integrations and built-in analytics.  That is the core of what Capafy does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Capafy is an AI agent marketplace for publishing, versioning and distributing autonomous agents, with deployment configuration for cloud and edge, searchable discovery, tagging and filters, developer onboarding, collaboration features, integrations and built-in analytics. That is the core of what Capafy does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Capafy free?
     a: Yes — Capafy is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Capafy?

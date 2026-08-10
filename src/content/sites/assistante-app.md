@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Assistante App?
-    a: Assistante.App Chatbot GPT provides customizable GPT-based chatbots, text-to-image and vision recognition, YouTube-to-article conversion, voiceover synthesis, file processing (PDF/CSV/DOCX) and API integration to automate conversational support, content creation, and document workflows. Chatbot builder Freemium That is the core of what Assistante App does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Assistante.App Chatbot GPT provides customizable GPT-based chatbots, text-to-image and vision recognition, YouTube-to-article conversion, voiceover synthesis, file processing (PDF/CSV/DOCX) and API integration to automate conversational support, content creation, and document workflows. That is the core of what Assistante App does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Assistante App free?
     a: Assistante App uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Assistante App?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Assistante App?
 
-Assistante.App Chatbot GPT provides customizable GPT-based chatbots, text-to-image and vision recognition, YouTube-to-article conversion, voiceover synthesis, file processing (PDF/CSV/DOCX) and API integration to automate conversational support, content creation, and document workflows. Chatbot builder Freemium
-
+Assistante.App Chatbot GPT provides customizable GPT-based chatbots, text-to-image and vision recognition, YouTube-to-article conversion, voiceover synthesis, file processing (PDF/CSV/DOCX) and API integration to automate conversational support, content creation, and document workflows.
 In short, Assistante App is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For a lot of people, that one function of Assistante App collapses multiple steps into a single action.
 
 ## Key features

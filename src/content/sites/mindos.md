@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MindOS?
-    a: MindOS provides a Personal AI that simplifies workflows and enhances expertise through an AI team in various fields.  That is the core of what MindOS does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: MindOS provides a Personal AI that simplifies workflows and enhances expertise through an AI team in various fields. That is the core of what MindOS does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MindOS free?
     a: MindOS uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with MindOS?

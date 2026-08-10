@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Freel?
-    a: Freel connects Canadian freelancers with clients across major cities, letting professionals build profiles, showcase portfolios, and list skills in UX, web, writing, video, marketing, and analytics. Clients search by city, skill, or experience and contact candidates directly. Business Free That is the core of what Freel does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Freel connects Canadian freelancers with clients across major cities, letting professionals build profiles, showcase portfolios, and list skills in UX, web, writing, video, marketing, and analytics. Clients search by city, skill, or experience and contact candidates directly. That is the core of what Freel does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Freel free?
     a: Yes — Freel is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Freel?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Freel?
 
-Freel connects Canadian freelancers with clients across major cities, letting professionals build profiles, showcase portfolios, and list skills in UX, web, writing, video, marketing, and analytics. Clients search by city, skill, or experience and contact candidates directly. Business Free
-
+Freel connects Canadian freelancers with clients across major cities, letting professionals build profiles, showcase portfolios, and list skills in UX, web, writing, video, marketing, and analytics. Clients search by city, skill, or experience and contact candidates directly.
 In short, Freel is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. For many, that single strength of Freel is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Thoughtly?
-    a: Thoughtly automates inbound/outbound calls with code‑free voice agents that integrate CRM, calendars and SaaS tools. It supports sales, support, and appointments, provides real‑time analytics, custom knowledge bases, industry templates, and scales by talk time.  That is the core of what Thoughtly does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Thoughtly automates inbound/outbound calls with code‑free voice agents that integrate CRM, calendars and SaaS tools. It supports sales, support, and appointments, provides real‑time analytics, custom knowledge bases, industry templates, and scales by talk time. That is the core of what Thoughtly does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Thoughtly free?
     a: Yes — Thoughtly is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Thoughtly?

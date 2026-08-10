@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Cradl?
-    a: Cradl AI automates extraction of structured data from PDFs, images and scanned documents in 150 languages using OCR and LLMs. Built‑in validation and human‑in‑the‑loop corrections improve accuracy, with REST API, Power Automate and n8n connectors. Security and GDPR compliance included.  That is the core of what Cradl does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Cradl AI automates extraction of structured data from PDFs, images and scanned documents in 150 languages using OCR and LLMs. Built‑in validation and human‑in‑the‑loop corrections improve accuracy, with REST API, Power Automate and n8n connectors. Security and GDPR compliance included. That is the core of what Cradl does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Cradl free?
     a: Cradl uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Cradl?

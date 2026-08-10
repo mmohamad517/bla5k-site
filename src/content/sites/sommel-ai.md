@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Sommel-ai?
-    a: Sommel‑ai analyzes menu or dish photos to extract ingredients and suggest wine pairings. Users upload images, optionally specify orders, and receive instant, accurate recommendations tailored to their preferences, suitable for diners, food lovers, and event planners. AI Assistant Subscription - $4/mo That is the core of what Sommel-ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Sommel‑ai analyzes menu or dish photos to extract ingredients and suggest wine pairings. Users upload images, optionally specify orders, and receive instant, accurate recommendations tailored to their preferences, suitable for diners, food lovers, and event planners. That is the core of what Sommel-ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Sommel-ai free?
     a: Sommel-ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Sommel-ai?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Sommel-ai?
 
-Sommel‑ai analyzes menu or dish photos to extract ingredients and suggest wine pairings. Users upload images, optionally specify orders, and receive instant, accurate recommendations tailored to their preferences, suitable for diners, food lovers, and event planners. AI Assistant Subscription - $4/mo
-
+Sommel‑ai analyzes menu or dish photos to extract ingredients and suggest wine pairings. Users upload images, optionally specify orders, and receive instant, accurate recommendations tailored to their preferences, suitable for diners, food lovers, and event planners.
 In short, Sommel-ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users discover that this feature of Sommel-ai alone covers what previously took multiple tools.
 
 ## Key features

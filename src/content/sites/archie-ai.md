@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Archie AI?
-    a: Archie turns natural‑language ideas into production‑grade code, generating design, wireframes, and test plans, then producing JavaScript, TypeScript, Next.js, React, and Node.js code saved to GitHub. It offers a cloud‑managed, DevOps‑free deployment, scalable, compliant, with self‑host options. Code assistant Freemium - $2500/mo That is the core of what Archie AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Archie turns natural‑language ideas into production‑grade code, generating design, wireframes, and test plans, then producing JavaScript, TypeScript, Next.js, React, and Node.js code saved to GitHub. It offers a cloud‑managed, DevOps‑free deployment, scalable, compliant, with self‑host options. That is the core of what Archie AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Archie AI free?
     a: Archie AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $2500/mo, check the official website — pricing changes often.
   - q: What can you do with Archie AI?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Archie AI?
 
-Archie turns natural‑language ideas into production‑grade code, generating design, wireframes, and test plans, then producing JavaScript, TypeScript, Next.js, React, and Node.js code saved to GitHub. It offers a cloud‑managed, DevOps‑free deployment, scalable, compliant, with self‑host options. Code assistant Freemium - $2500/mo
-
+Archie turns natural‑language ideas into production‑grade code, generating design, wireframes, and test plans, then producing JavaScript, TypeScript, Next.js, React, and Node.js code saved to GitHub. It offers a cloud‑managed, DevOps‑free deployment, scalable, compliant, with self‑host options.
 In short, Archie AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one capability of Archie AI frequently saves users from juggling several separate steps.
 
 ## Key features

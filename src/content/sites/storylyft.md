@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Storylyft?
-    a: Storylyft AI allows users to create customizable digital avatars and stories, offering both public and private settings. It prioritizes user control over content and data security, ensuring a tailored storytelling experience while safeguarding personal information. Avatar Freemium That is the core of what Storylyft does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Storylyft AI allows users to create customizable digital avatars and stories, offering both public and private settings. It prioritizes user control over content and data security, ensuring a tailored storytelling experience while safeguarding personal information. That is the core of what Storylyft does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Storylyft free?
     a: Storylyft uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Storylyft?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Storylyft e
 
 ## What is Storylyft?
 
-Storylyft AI allows users to create customizable digital avatars and stories, offering both public and private settings. It prioritizes user control over content and data security, ensuring a tailored storytelling experience while safeguarding personal information. Avatar Freemium
-
+Storylyft AI allows users to create customizable digital avatars and stories, offering both public and private settings. It prioritizes user control over content and data security, ensuring a tailored storytelling experience while safeguarding personal information.
 In short, Storylyft is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. That one feature of Storylyft often eliminates several smaller steps from the usual workflow.
 
 ## Key features

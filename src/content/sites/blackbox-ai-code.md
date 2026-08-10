@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Blackbox AI Code?
-    a: Blackbox AI Code is an AI coding assistant and autonomous agent platform that accelerates software development. It provides real-time autocomplete, debugging, and automated testing/deployment agents, integrating directly into major IDEs and cloud workflows.  That is the core of what Blackbox AI Code does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Blackbox AI Code is an AI coding assistant and autonomous agent platform that accelerates software development. It provides real-time autocomplete, debugging, and automated testing/deployment agents, integrating directly into major IDEs and cloud workflows. That is the core of what Blackbox AI Code does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Blackbox AI Code free?
     a: Blackbox AI Code uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Blackbox AI Code?

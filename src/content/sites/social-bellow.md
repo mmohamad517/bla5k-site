@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Social Bellow?
-    a: Social Bellow is an AI assistant that quickly generates and refines captions, blog posts, and marketing copy from prompts. It offers real‑time document chat, AI‑powered brainstorming, prompt organization, vision analysis, and customizable personas for strategy and creative work.  That is the core of what Social Bellow does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Social Bellow is an AI assistant that quickly generates and refines captions, blog posts, and marketing copy from prompts. It offers real‑time document chat, AI‑powered brainstorming, prompt organization, vision analysis, and customizable personas for strategy and creative work. That is the core of what Social Bellow does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Social Bellow free?
     a: Social Bellow uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Social Bellow?

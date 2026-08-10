@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is retalon.com?
-    a: "Retalon: AI tool for retail intelligence, providing predictive analytics from planning to markdowns. Enhance profitability through trend prediction, inventory optimization, and informed decision-making for retailers. Based in Toronto, Canada. AI Assistant Freemium That is the core of what retalon.com does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "Retalon: AI tool for retail intelligence, providing predictive analytics from planning to markdowns. Enhance profitability through trend prediction, inventory optimization, and informed decision-making for retailers. Based in Toronto, Canada. That is the core of what retalon.com does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is retalon.com free?
     a: retalon.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with retalon.com?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is retalon.com?
 
-Retalon: AI tool for retail intelligence, providing predictive analytics from planning to markdowns. Enhance profitability through trend prediction, inventory optimization, and informed decision-making for retailers. Based in Toronto, Canada. AI Assistant Freemium
-
+Retalon: AI tool for retail intelligence, providing predictive analytics from planning to markdowns. Enhance profitability through trend prediction, inventory optimization, and informed decision-making for retailers. Based in Toronto, Canada.
 In short, retalon.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users find that this one ability of retalon.com removes several tasks from their daily routine.
 
 ## Key features

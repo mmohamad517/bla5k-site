@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ChatFans?
-    a: ChatFans uses AI to connect fans with celebrities and influencers through real‑time, personalized chatbot conversations. It lets creators engage large audiences, cut repetitive work, and monetize via ERC‑20 FANS token rewards and premium content.  That is the core of what ChatFans does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ChatFans uses AI to connect fans with celebrities and influencers through real‑time, personalized chatbot conversations. It lets creators engage large audiences, cut repetitive work, and monetize via ERC‑20 FANS token rewards and premium content. That is the core of what ChatFans does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ChatFans free?
     a: Yes — ChatFans is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with ChatFans?

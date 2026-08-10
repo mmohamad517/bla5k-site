@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Synaptic AI?
-    a: Synaptic AI is a browser-integrated knowledge base and AI agent that captures and summarizes web pages and videos into searchable notes, supports rich-text editing, tagging, chat-based retrieval, and generates kanban tasks from notes for research and project workflows. Knowledge base management Free That is the core of what Synaptic AI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Synaptic AI is a browser-integrated knowledge base and AI agent that captures and summarizes web pages and videos into searchable notes, supports rich-text editing, tagging, chat-based retrieval, and generates kanban tasks from notes for research and project workflows. That is the core of what Synaptic AI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Synaptic AI free?
     a: Yes — Synaptic AI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Synaptic AI?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Synaptic AI?
 
-Synaptic AI is a browser-integrated knowledge base and AI agent that captures and summarizes web pages and videos into searchable notes, supports rich-text editing, tagging, chat-based retrieval, and generates kanban tasks from notes for research and project workflows. Knowledge base management Free
-
+Synaptic AI is a browser-integrated knowledge base and AI agent that captures and summarizes web pages and videos into searchable notes, supports rich-text editing, tagging, chat-based retrieval, and generates kanban tasks from notes for research and project workflows.
 In short, Synaptic AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many, that single strength of Synaptic AI is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

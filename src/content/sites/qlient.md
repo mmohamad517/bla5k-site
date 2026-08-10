@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Qlient?
-    a: "Qlient AI: Revolutionary 24/7 call intake system with lifelike voices. Automates call summaries, scheduling, recording, and delivers personalized experiences using advanced NLP.  That is the core of what Qlient does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "Qlient AI: Revolutionary 24/7 call intake system with lifelike voices. Automates call summaries, scheduling, recording, and delivers personalized experiences using advanced NLP. That is the core of what Qlient does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is Qlient free?
     a: Qlient is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Qlient?

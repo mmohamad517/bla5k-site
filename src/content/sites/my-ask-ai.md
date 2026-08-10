@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is My Ask AI?
-    a: My AskAI integrates into helpdesk platforms, automatically answering up to 75 % of tickets by learning from internal docs. It supports multilingual chat, live translation, intelligent escalation, Copilot drafts, insights, API customer data, with isolated encryption.  That is the core of what My Ask AI does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: My AskAI integrates into helpdesk platforms, automatically answering up to 75 % of tickets by learning from internal docs. It supports multilingual chat, live translation, intelligent escalation, Copilot drafts, insights, API customer data, with isolated encryption. That is the core of what My Ask AI does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is My Ask AI free?
     a: My Ask AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with My Ask AI?

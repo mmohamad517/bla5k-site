@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Magical AI?
-    a: Magic AI is a free AI tool that assists with writing tasks using text expansion, autofill, and data extraction features.  That is the core of what Magical AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Magic AI is a free AI tool that assists with writing tasks using text expansion, autofill, and data extraction features. That is the core of what Magical AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Magical AI free?
     a: Magical AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Magical AI?

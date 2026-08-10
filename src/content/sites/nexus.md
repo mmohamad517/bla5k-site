@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Nexus?
-    a: Nexus is an AI navigator designed to assist users in navigating their entire network by providing answers and insights related to network relationships.  That is the core of what Nexus does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Nexus is an AI navigator designed to assist users in navigating their entire network by providing answers and insights related to network relationships. That is the core of what Nexus does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Nexus free?
     a: Nexus uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $10/mo, check the official website — pricing changes often.
   - q: What can you do with Nexus?

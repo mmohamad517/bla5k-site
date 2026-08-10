@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is getsleek.ai?
-    a: Sleek AI is an all-in-one marketing automation platform utilizing AI for campaign management and optimization. It centralizes tasks, enhances performance, and increases conversion rates while streamlining operations and reducing costs. Get started at getsleek.ai.  That is the core of what getsleek.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Sleek AI is an all-in-one marketing automation platform utilizing AI for campaign management and optimization. It centralizes tasks, enhances performance, and increases conversion rates while streamlining operations and reducing costs. Get started at getsleek.ai. That is the core of what getsleek.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is getsleek.ai free?
     a: Yes — getsleek.ai is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with getsleek.ai?

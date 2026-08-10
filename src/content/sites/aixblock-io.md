@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AIxBlock?
-    a: AIxBlock supplies enterprise-grade speech and language training data—voice, audio and text across 100+ languages—offering licensed catalogs, custom collections, transcription/annotation, RLHF and dialogue datasets, plus self-hosted storage options for data sovereignty. Audio Subscription That is the core of what AIxBlock does — ai audio handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AIxBlock supplies enterprise-grade speech and language training data—voice, audio and text across 100+ languages—offering licensed catalogs, custom collections, transcription/annotation, RLHF and dialogue datasets, plus self-hosted storage options for data sovereignty. That is the core of what AIxBlock does — ai audio handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AIxBlock free?
     a: AIxBlock is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with AIxBlock?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like AIxBlock ma
 
 ## What is AIxBlock?
 
-AIxBlock supplies enterprise-grade speech and language training data—voice, audio and text across 100+ languages—offering licensed catalogs, custom collections, transcription/annotation, RLHF and dialogue datasets, plus self-hosted storage options for data sovereignty. Audio Subscription
-
+AIxBlock supplies enterprise-grade speech and language training data—voice, audio and text across 100+ languages—offering licensed catalogs, custom collections, transcription/annotation, RLHF and dialogue datasets, plus self-hosted storage options for data sovereignty.
 In short, AIxBlock is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI audio without the manual grind. For many, that single strength of AIxBlock is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Nft Creator?
-    a: Create images or GIFs with customizable backgrounds, text, AI styles, and filters. Store artwork on IPFS for immutable access, mint ERC‑721 NFTs on testnets or Polygon at no cost, and search them in an internal gallery. Mobile‑friendly, no registration required. Crypto and Web3 Freemium That is the core of what Nft Creator does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Create images or GIFs with customizable backgrounds, text, AI styles, and filters. Store artwork on IPFS for immutable access, mint ERC‑721 NFTs on testnets or Polygon at no cost, and search them in an internal gallery. Mobile‑friendly, no registration required. That is the core of what Nft Creator does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Nft Creator free?
     a: Nft Creator uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Nft Creator?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Nft Creator earn
 
 ## What is Nft Creator?
 
-Create images or GIFs with customizable backgrounds, text, AI styles, and filters. Store artwork on IPFS for immutable access, mint ERC‑721 NFTs on testnets or Polygon at no cost, and search them in an internal gallery. Mobile‑friendly, no registration required. Crypto and Web3 Freemium
-
+Create images or GIFs with customizable backgrounds, text, AI styles, and filters. Store artwork on IPFS for immutable access, mint ERC‑721 NFTs on testnets or Polygon at no cost, and search them in an internal gallery. Mobile‑friendly, no registration required.
 In short, Nft Creator is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. For plenty of users, that one capability of Nft Creator replaces several steps they used to do by hand.
 
 ## Key features

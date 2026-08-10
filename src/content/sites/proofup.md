@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Proofup?
-    a: ProofUp uses OCR, NLP, and large language models to process rental applications, detecting fraud via PDF byte analysis, verifying IDs with facial recognition, and confirming income through Plaid bank links for landlords and property managers. AI Agents Freemium That is the core of what Proofup does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ProofUp uses OCR, NLP, and large language models to process rental applications, detecting fraud via PDF byte analysis, verifying IDs with facial recognition, and confirming income through Plaid bank links for landlords and property managers. That is the core of what Proofup does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Proofup free?
     a: Proofup uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Proofup?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Proofup?
 
-ProofUp uses OCR, NLP, and large language models to process rental applications, detecting fraud via PDF byte analysis, verifying IDs with facial recognition, and confirming income through Plaid bank links for landlords and property managers. AI Agents Freemium
-
+ProofUp uses OCR, NLP, and large language models to process rental applications, detecting fraud via PDF byte analysis, verifying IDs with facial recognition, and confirming income through Plaid bank links for landlords and property managers.
 In short, Proofup is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That one capability of Proofup frequently saves users from juggling several separate steps.
 
 ## Key features

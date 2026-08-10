@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Atomic Chat?
-    a: Atomic Chat is a fully offline, on-device AI chat app for macOS, Windows, Linux, iOS, and Android that runs 1,000+ LLMs locally with built-in agent support, persistent memory, and privacy-first design. It features TurboQuant optimizations for up to 8x faster attention and lower memory use, with one-click model downloads from Hugging Face.  That is the core of what Atomic Chat does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Atomic Chat is a fully offline, on-device AI chat app for macOS, Windows, Linux, iOS, and Android that runs 1,000+ LLMs locally with built-in agent support, persistent memory, and privacy-first design. It features TurboQuant optimizations for up to 8x faster attention and lower memory use, with one-click model downloads from Hugging Face. That is the core of what Atomic Chat does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Atomic Chat free?
     a: Yes — Atomic Chat is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Atomic Chat?

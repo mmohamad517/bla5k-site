@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TalkPersona?
-    a: TalkPersona is a free AI video chatbot that enables real-time, human-like conversations with virtual avatars. Users can choose roles like therapist or companion, and interact in multiple languages for a personalized experience. Registration ensures privacy. Chat Free That is the core of what TalkPersona does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: TalkPersona is a free AI video chatbot that enables real-time, human-like conversations with virtual avatars. Users can choose roles like therapist or companion, and interact in multiple languages for a personalized experience. Registration ensures privacy. That is the core of what TalkPersona does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TalkPersona free?
     a: Yes — TalkPersona is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with TalkPersona?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like TalkPe
 
 ## What is TalkPersona?
 
-TalkPersona is a free AI video chatbot that enables real-time, human-like conversations with virtual avatars. Users can choose roles like therapist or companion, and interact in multiple languages for a personalized experience. Registration ensures privacy. Chat Free
-
+TalkPersona is a free AI video chatbot that enables real-time, human-like conversations with virtual avatars. Users can choose roles like therapist or companion, and interact in multiple languages for a personalized experience. Registration ensures privacy.
 In short, TalkPersona is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. That one capability of TalkPersona frequently saves users from juggling several separate steps.
 
 ## Key features

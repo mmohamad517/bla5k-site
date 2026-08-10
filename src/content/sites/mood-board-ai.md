@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Mood board ai?
-    a: AI‑powered MoodBoard generates professional moodboards for interiors, fashion, weddings, and branding by selecting style and color. It auto‑compiles images, offers one‑click upsizing, clean‑up, and product suggestions with prices and a shopping list. Boards import to the editor and link to a 3‑D room layout with furniture swapping. Conceptual Generation Freemium - $29/mo That is the core of what Mood board ai does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI‑powered MoodBoard generates professional moodboards for interiors, fashion, weddings, and branding by selecting style and color. It auto‑compiles images, offers one‑click upsizing, clean‑up, and product suggestions with prices and a shopping list. Boards import to the editor and link to a 3‑D room layout with furniture swapping. That is the core of what Mood board ai does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Mood board ai free?
     a: Mood board ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $29/mo, check the official website — pricing changes often.
   - q: What can you do with Mood board ai?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Mood board ai?
 
-AI‑powered MoodBoard generates professional moodboards for interiors, fashion, weddings, and branding by selecting style and color. It auto‑compiles images, offers one‑click upsizing, clean‑up, and product suggestions with prices and a shopping list. Boards import to the editor and link to a 3‑D room layout with furniture swapping. Conceptual Generation Freemium - $29/mo
-
+AI‑powered MoodBoard generates professional moodboards for interiors, fashion, weddings, and branding by selecting style and color. It auto‑compiles images, offers one‑click upsizing, clean‑up, and product suggestions with prices and a shopping list. Boards import to the editor and link to a 3‑D room layout with furniture swapping.
 In short, Mood board ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. For plenty of users, that one capability of Mood board ai replaces several steps they used to do by hand.
 
 ## Key features

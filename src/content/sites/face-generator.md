@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Face-generator?
-    a: Face Generator produces real‑time photo‑realistic faces with adjustable gender, age, emotion, skin tone, hair, and accessories. Using a licensed studio‑captured dataset, it outputs high‑resolution, full‑body images and offers API access for design, e‑commerce, research, and simulation workflows.  That is the core of what Face-generator does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Face Generator produces real‑time photo‑realistic faces with adjustable gender, age, emotion, skin tone, hair, and accessories. Using a licensed studio‑captured dataset, it outputs high‑resolution, full‑body images and offers API access for design, e‑commerce, research, and simulation workflows. That is the core of what Face-generator does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Face-generator free?
     a: Face-generator is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Face-generator?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is HappyCapy.ai?
-    a: happycapy runs AI agents and skill modules directly in the browser, offering GUI and CLI interfaces, a skills store, browser automation, private sandboxed execution, live monitoring and action review, and developer extensibility for custom skills and workflows.  That is the core of what HappyCapy.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: happycapy runs AI agents and skill modules directly in the browser, offering GUI and CLI interfaces, a skills store, browser automation, private sandboxed execution, live monitoring and action review, and developer extensibility for custom skills and workflows. That is the core of what HappyCapy.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is HappyCapy.ai free?
     a: HappyCapy.ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with HappyCapy.ai?

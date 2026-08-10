@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Art Create?
-    a: aiartcreate.com is a multi-model AI generator that unifies Seedance, Kling AI, VEO 3, and more under one prompt interface and credit balance. It enables side-by-side model comparisons for text-to-image and text-to-video creation, supporting workflows from product photography to anime art.  That is the core of what AI Art Create does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: aiartcreate.com is a multi-model AI generator that unifies Seedance, Kling AI, VEO 3, and more under one prompt interface and credit balance. It enables side-by-side model comparisons for text-to-image and text-to-video creation, supporting workflows from product photography to anime art. That is the core of what AI Art Create does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI Art Create free?
     a: AI Art Create uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9.99/mo, check the official website — pricing changes often.
   - q: What can you do with AI Art Create?

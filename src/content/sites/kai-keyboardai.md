@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is KAI - KeyboardAI?
-    a: kai is an AI tool for iPhone that enhances creativity and boosts productivity through intelligent assistance integrated into the keyboard. Perfect for emails, texts, and brainstorming, kai revolutionizes the writing experience.  That is the core of what KAI - KeyboardAI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: kai is an AI tool for iPhone that enhances creativity and boosts productivity through intelligent assistance integrated into the keyboard. Perfect for emails, texts, and brainstorming, kai revolutionizes the writing experience. That is the core of what KAI - KeyboardAI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is KAI - KeyboardAI free?
     a: KAI - KeyboardAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with KAI - KeyboardAI?

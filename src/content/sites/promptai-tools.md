@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PromptAI Tools?
-    a: Prompt AI Tools offers free AI utilities for text generation, grammar correction, email drafting, unit/currency conversion, DNS/IP lookup, code assistance, and productivity aids such as task planning. Useful for students, marketers, and IT professionals.  That is the core of what PromptAI Tools does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Prompt AI Tools offers free AI utilities for text generation, grammar correction, email drafting, unit/currency conversion, DNS/IP lookup, code assistance, and productivity aids such as task planning. Useful for students, marketers, and IT professionals. That is the core of what PromptAI Tools does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is PromptAI Tools free?
     a: Yes — PromptAI Tools is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with PromptAI Tools?

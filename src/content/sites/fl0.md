@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is FL0?
-    a: FL0 uses AI to capture real‑time intent signals, enrich contact data, and segment leads. It automates lead scoring, funnel optimization, and outreach, enabling timely conversion of high‑value prospects worldwide for sales teams. Sales Freemium That is the core of what FL0 does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: FL0 uses AI to capture real‑time intent signals, enrich contact data, and segment leads. It automates lead scoring, funnel optimization, and outreach, enabling timely conversion of high‑value prospects worldwide for sales teams. That is the core of what FL0 does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is FL0 free?
     a: FL0 uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with FL0?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is FL0?
 
-FL0 uses AI to capture real‑time intent signals, enrich contact data, and segment leads. It automates lead scoring, funnel optimization, and outreach, enabling timely conversion of high‑value prospects worldwide for sales teams. Sales Freemium
-
+FL0 uses AI to capture real‑time intent signals, enrich contact data, and segment leads. It automates lead scoring, funnel optimization, and outreach, enabling timely conversion of high‑value prospects worldwide for sales teams.
 In short, FL0 is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For many, that single strength of FL0 is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

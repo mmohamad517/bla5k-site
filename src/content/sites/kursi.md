@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Kursi?
-    a: Kursi is an online platform for educators and coaches to create and manage multimedia courses, featuring tools for lesson customization, discussions, progress tracking, and seamless community interaction through a newsfeed and messaging system. Course Generator Free trial That is the core of what Kursi does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Kursi is an online platform for educators and coaches to create and manage multimedia courses, featuring tools for lesson customization, discussions, progress tracking, and seamless community interaction through a newsfeed and messaging system. That is the core of what Kursi does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Kursi free?
     a: Kursi uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Kursi?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Kursi?
 
-Kursi is an online platform for educators and coaches to create and manage multimedia courses, featuring tools for lesson customization, discussions, progress tracking, and seamless community interaction through a newsfeed and messaging system. Course Generator Free trial
-
+Kursi is an online platform for educators and coaches to create and manage multimedia courses, featuring tools for lesson customization, discussions, progress tracking, and seamless community interaction through a newsfeed and messaging system.
 In short, Kursi is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. For plenty of users, that one capability of Kursi replaces several steps they used to do by hand.
 
 ## Key features

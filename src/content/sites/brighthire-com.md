@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Brighthire.com?
-    a: BrightHire automates first‑round interviews with an AI interviewer, records and transcribes sessions, and produces real‑time interview guides, scorecards, and candidate summaries. It integrates with ATS, video platforms, Slack, Teams, and email, and offers analytics, coaching, and compliance controls. Human resources Subscription That is the core of what Brighthire.com does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: BrightHire automates first‑round interviews with an AI interviewer, records and transcribes sessions, and produces real‑time interview guides, scorecards, and candidate summaries. It integrates with ATS, video platforms, Slack, Teams, and email, and offers analytics, coaching, and compliance controls. That is the core of what Brighthire.com does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Brighthire.com free?
     a: Brighthire.com is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Brighthire.com?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Brighthire.com?
 
-BrightHire automates first‑round interviews with an AI interviewer, records and transcribes sessions, and produces real‑time interview guides, scorecards, and candidate summaries. It integrates with ATS, video platforms, Slack, Teams, and email, and offers analytics, coaching, and compliance controls. Human resources Subscription
-
+BrightHire automates first‑round interviews with an AI interviewer, records and transcribes sessions, and produces real‑time interview guides, scorecards, and candidate summaries. It integrates with ATS, video platforms, Slack, Teams, and email, and offers analytics, coaching, and compliance controls.
 In short, Brighthire.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. Many users discover that this feature of Brighthire.com alone covers what previously took multiple tools.
 
 ## Key features

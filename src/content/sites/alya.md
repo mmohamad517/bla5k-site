@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Alya?
-    a: Alya is an AI-powered therapy chat application that offers personalized mental health support in 22 languages. It helps users organize thoughts, schedule sessions, track emotional progress, and set goals for personal development and wellness. Coaching Freemium That is the core of what Alya does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Alya is an AI-powered therapy chat application that offers personalized mental health support in 22 languages. It helps users organize thoughts, schedule sessions, track emotional progress, and set goals for personal development and wellness. That is the core of what Alya does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Alya free?
     a: Alya uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Alya?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Alya p
 
 ## What is Alya?
 
-Alya is an AI-powered therapy chat application that offers personalized mental health support in 22 languages. It helps users organize thoughts, schedule sessions, track emotional progress, and set goals for personal development and wellness. Coaching Freemium
-
+Alya is an AI-powered therapy chat application that offers personalized mental health support in 22 languages. It helps users organize thoughts, schedule sessions, track emotional progress, and set goals for personal development and wellness.
 In short, Alya is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. That single feature of Alya alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

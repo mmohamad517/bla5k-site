@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is RecruitCRM?
-    a: Recruit CRM is an AI‑powered ATS and CRM for recruiters. It enables natural‑language candidate search, imports profiles via a Chrome extension, automates outreach, posts to 5,000+ job boards, visualizes pipelines with a kanban board, delivers analytics, GDPR compliance, and mobile access.  That is the core of what RecruitCRM does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Recruit CRM is an AI‑powered ATS and CRM for recruiters. It enables natural‑language candidate search, imports profiles via a Chrome extension, automates outreach, posts to 5,000+ job boards, visualizes pipelines with a kanban board, delivers analytics, GDPR compliance, and mobile access. That is the core of what RecruitCRM does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is RecruitCRM free?
     a: RecruitCRM is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with RecruitCRM?

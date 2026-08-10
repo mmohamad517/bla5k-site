@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Blogmuse?
-    a: Blogmuse automatically generates new articles from a site’s existing posts. By scanning published content, it produces brand‑aligned, readable pieces that match tone and style, boosting engagement and traffic with minimal manual effort.  That is the core of what Blogmuse does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Blogmuse automatically generates new articles from a site’s existing posts. By scanning published content, it produces brand‑aligned, readable pieces that match tone and style, boosting engagement and traffic with minimal manual effort. That is the core of what Blogmuse does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Blogmuse free?
     a: Blogmuse uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Blogmuse?

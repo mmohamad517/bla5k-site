@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Affistash?
-    a: Affistash uses AI to scan the web for affiliate partners, providing keyword exploration, verified contacts, audience analytics, and an internal CRM to organize outreach. It lets brands recruit across blogs, social media, newsletters, and communities. Marketing Subscription - $97/mo That is the core of what Affistash does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Affistash uses AI to scan the web for affiliate partners, providing keyword exploration, verified contacts, audience analytics, and an internal CRM to organize outreach. It lets brands recruit across blogs, social media, newsletters, and communities. That is the core of what Affistash does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Affistash free?
     a: Affistash is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Affistash?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Affistash?
 
-Affistash uses AI to scan the web for affiliate partners, providing keyword exploration, verified contacts, audience analytics, and an internal CRM to organize outreach. It lets brands recruit across blogs, social media, newsletters, and communities. Marketing Subscription - $97/mo
-
+Affistash uses AI to scan the web for affiliate partners, providing keyword exploration, verified contacts, audience analytics, and an internal CRM to organize outreach. It lets brands recruit across blogs, social media, newsletters, and communities.
 In short, Affistash is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. Many users discover that this feature of Affistash alone covers what previously took multiple tools.
 
 ## Key features

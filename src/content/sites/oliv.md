@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Oliv?
-    a: Oliv automates revenue operations, integrating CRM and multiple data sources to deliver real‑time risk alerts, coaching, forecasting, and cross‑deal analysis. It centralizes interactions, uncovers deal leaks early, and provides executives actionable insights. Sales Subscription - $19/mo That is the core of what Oliv does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Oliv automates revenue operations, integrating CRM and multiple data sources to deliver real‑time risk alerts, coaching, forecasting, and cross‑deal analysis. It centralizes interactions, uncovers deal leaks early, and provides executives actionable insights. That is the core of what Oliv does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Oliv free?
     a: Oliv is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Oliv?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Oliv earn their 
 
 ## What is Oliv?
 
-Oliv automates revenue operations, integrating CRM and multiple data sources to deliver real‑time risk alerts, coaching, forecasting, and cross‑deal analysis. It centralizes interactions, uncovers deal leaks early, and provides executives actionable insights. Sales Subscription - $19/mo
-
+Oliv automates revenue operations, integrating CRM and multiple data sources to deliver real‑time risk alerts, coaching, forecasting, and cross‑deal analysis. It centralizes interactions, uncovers deal leaks early, and provides executives actionable insights.
 In short, Oliv is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. That single feature of Oliv alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

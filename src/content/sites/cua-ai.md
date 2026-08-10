@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Cua AI?
-    a: cua AI is a platform that enables secure AI agents to run in macOS and Linux containers, optimized for Apple Silicon. It simplifies setup, supports multi-model workflows, and facilitates cross-OS automation and collaboration through VM image sharing.  That is the core of what Cua AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: cua AI is a platform that enables secure AI agents to run in macOS and Linux containers, optimized for Apple Silicon. It simplifies setup, supports multi-model workflows, and facilitates cross-OS automation and collaboration through VM image sharing. That is the core of what Cua AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Cua AI free?
     a: Cua AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Cua AI?

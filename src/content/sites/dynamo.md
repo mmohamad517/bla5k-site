@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Dynamo?
-    a: Dynamo is an AI‑driven DM platform that transforms messaging into a full‑funnel growth engine, automating acquisition, retention, and retargeting with personalized DMs at scale. It delivers real‑time analytics, audience segmentation, stack integration, and privacy‑compliant delivery. Digital Marketing Freemium - $58.25/mo That is the core of what Dynamo does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Dynamo is an AI‑driven DM platform that transforms messaging into a full‑funnel growth engine, automating acquisition, retention, and retargeting with personalized DMs at scale. It delivers real‑time analytics, audience segmentation, stack integration, and privacy‑compliant delivery. That is the core of what Dynamo does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Dynamo free?
     a: Dynamo uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $58.25/mo, check the official website — pricing changes often.
   - q: What can you do with Dynamo?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Dynamo?
 
-Dynamo is an AI‑driven DM platform that transforms messaging into a full‑funnel growth engine, automating acquisition, retention, and retargeting with personalized DMs at scale. It delivers real‑time analytics, audience segmentation, stack integration, and privacy‑compliant delivery. Digital Marketing Freemium - $58.25/mo
-
+Dynamo is an AI‑driven DM platform that transforms messaging into a full‑funnel growth engine, automating acquisition, retention, and retargeting with personalized DMs at scale. It delivers real‑time analytics, audience segmentation, stack integration, and privacy‑compliant delivery.
 In short, Dynamo is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For plenty of users, that one capability of Dynamo replaces several steps they used to do by hand.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Droxy?
-    a: Droxy AI is a no-code chatbot builder. Upload content from various sources to create a chatbot's knowledge base. You can personalize the chatbot's appearance and integrate it with popular platforms like Discord.  That is the core of what Droxy does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Droxy AI is a no-code chatbot builder. Upload content from various sources to create a chatbot's knowledge base. You can personalize the chatbot's appearance and integrate it with popular platforms like Discord. That is the core of what Droxy does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Droxy free?
     a: Droxy uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Droxy?

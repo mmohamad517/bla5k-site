@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SuperExpert AI?
-    a: SuperExpert AI is an open-source platform for building and deploying multi-task AI agents without coding, featuring RAG for document retrieval and custom tool integration. It supports major cloud providers and scalable tech stacks, enabling chatbots to automation solutions with full ownership. AI Agents Free That is the core of what SuperExpert AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SuperExpert AI is an open-source platform for building and deploying multi-task AI agents without coding, featuring RAG for document retrieval and custom tool integration. It supports major cloud providers and scalable tech stacks, enabling chatbots to automation solutions with full ownership. That is the core of what SuperExpert AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SuperExpert AI free?
     a: Yes — SuperExpert AI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with SuperExpert AI?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is SuperExpert AI?
 
-SuperExpert AI is an open-source platform for building and deploying multi-task AI agents without coding, featuring RAG for document retrieval and custom tool integration. It supports major cloud providers and scalable tech stacks, enabling chatbots to automation solutions with full ownership. AI Agents Free
-
+SuperExpert AI is an open-source platform for building and deploying multi-task AI agents without coding, featuring RAG for document retrieval and custom tool integration. It supports major cloud providers and scalable tech stacks, enabling chatbots to automation solutions with full ownership.
 In short, SuperExpert AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That single feature of SuperExpert AI alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

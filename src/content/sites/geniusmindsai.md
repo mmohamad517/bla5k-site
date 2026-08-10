@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is GeniusMindsAI?
-    a: GeniusMindsAI is an all‑in‑one platform for generating text, voice, images, and code across 54+ languages. It offers 70+ customizable templates, multilingual voice synthesis, DALL·E‑style image creation, speech‑to‑text, code generation, and team collaboration tools. Content creation Subscription - $12.99/mo That is the core of what GeniusMindsAI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: GeniusMindsAI is an all‑in‑one platform for generating text, voice, images, and code across 54+ languages. It offers 70+ customizable templates, multilingual voice synthesis, DALL·E‑style image creation, speech‑to‑text, code generation, and team collaboration tools. That is the core of what GeniusMindsAI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is GeniusMindsAI free?
     a: GeniusMindsAI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with GeniusMindsAI?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is GeniusMindsAI?
 
-GeniusMindsAI is an all‑in‑one platform for generating text, voice, images, and code across 54+ languages. It offers 70+ customizable templates, multilingual voice synthesis, DALL·E‑style image creation, speech‑to‑text, code generation, and team collaboration tools. Content creation Subscription - $12.99/mo
-
+GeniusMindsAI is an all‑in‑one platform for generating text, voice, images, and code across 54+ languages. It offers 70+ customizable templates, multilingual voice synthesis, DALL·E‑style image creation, speech‑to‑text, code generation, and team collaboration tools.
 In short, GeniusMindsAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. Many users find that this one ability of GeniusMindsAI removes several tasks from their daily routine.
 
 ## Key features

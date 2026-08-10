@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Omnes.link?
-    a: Omnes.link is an all-in-one digital tool featuring short links, QR codes, vCards, and AI-driven text/image generation. It provides analytics, targeted links, and user tracking for improved online presence and customer behavior insights.  That is the core of what Omnes.link does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Omnes.link is an all-in-one digital tool featuring short links, QR codes, vCards, and AI-driven text/image generation. It provides analytics, targeted links, and user tracking for improved online presence and customer behavior insights. That is the core of what Omnes.link does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Omnes.link free?
     a: Omnes.link uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9.99/mo, check the official website — pricing changes often.
   - q: What can you do with Omnes.link?

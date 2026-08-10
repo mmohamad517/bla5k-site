@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Carly AI?
-    a: Carly AI is an AI assistant designed to streamline your workday by automating tasks across email, calendar, and workflows. It allows you to build custom AI agents tailored to specific roles – like sales, marketing, or customer support – handling repetitive actions efficiently. AI Assistant Freemium That is the core of what Carly AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Carly AI is an AI assistant designed to streamline your workday by automating tasks across email, calendar, and workflows. It allows you to build custom AI agents tailored to specific roles – like sales, marketing, or customer support – handling repetitive actions efficiently. That is the core of what Carly AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Carly AI free?
     a: Carly AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Carly AI?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Carly AI earn th
 
 ## What is Carly AI?
 
-Carly AI is an AI assistant designed to streamline your workday by automating tasks across email, calendar, and workflows. It allows you to build custom AI agents tailored to specific roles – like sales, marketing, or customer support – handling repetitive actions efficiently. AI Assistant Freemium
-
+Carly AI is an AI assistant designed to streamline your workday by automating tasks across email, calendar, and workflows. It allows you to build custom AI agents tailored to specific roles – like sales, marketing, or customer support – handling repetitive actions efficiently.
 In short, Carly AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users discover that this feature of Carly AI alone covers what previously took multiple tools.
 
 ## Key features

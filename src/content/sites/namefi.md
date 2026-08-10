@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Namefi?
-    a: Namefi is a blockchain-based domain trading platform that enables users to register and import domains as NFTs across 329 TLDs. It offers rapid transactions, enhanced security, and seamless integration with decentralized finance protocols. Crypto and Web3 1 0 Freemium That is the core of what Namefi does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Namefi is a blockchain-based domain trading platform that enables users to register and import domains as NFTs across 329 TLDs. It offers rapid transactions, enhanced security, and seamless integration with decentralized finance protocols. That is the core of what Namefi does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Namefi free?
     a: Namefi uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Namefi?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Namefi matt
 
 ## What is Namefi?
 
-Namefi is a blockchain-based domain trading platform that enables users to register and import domains as NFTs across 329 TLDs. It offers rapid transactions, enhanced security, and seamless integration with decentralized finance protocols. Crypto and Web3 1 0 Freemium
-
+Namefi is a blockchain-based domain trading platform that enables users to register and import domains as NFTs across 329 TLDs. It offers rapid transactions, enhanced security, and seamless integration with decentralized finance protocols.
 In short, Namefi is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. That single feature of Namefi alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

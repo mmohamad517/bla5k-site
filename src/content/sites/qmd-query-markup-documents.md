@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is QMD - Query Markup Documents?
-    a: qmd is an on-device CLI search engine that indexes documentation, notes, and transcripts, preserving tree structure to return contextual subdocuments; it supports BM25, vector search, local embeddings, and LLM re-ranking to improve retrieval for LLM workflows. Document management Free That is the core of what QMD - Query Markup Documents does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: qmd is an on-device CLI search engine that indexes documentation, notes, and transcripts, preserving tree structure to return contextual subdocuments; it supports BM25, vector search, local embeddings, and LLM re-ranking to improve retrieval for LLM workflows. That is the core of what QMD - Query Markup Documents does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is QMD - Query Markup Documents free?
     a: Yes — QMD - Query Markup Documents is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with QMD - Query Markup Documents?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is QMD - Query Markup Documents?
 
-qmd is an on-device CLI search engine that indexes documentation, notes, and transcripts, preserving tree structure to return contextual subdocuments; it supports BM25, vector search, local embeddings, and LLM re-ranking to improve retrieval for LLM workflows. Document management Free
-
+qmd is an on-device CLI search engine that indexes documentation, notes, and transcripts, preserving tree structure to return contextual subdocuments; it supports BM25, vector search, local embeddings, and LLM re-ranking to improve retrieval for LLM workflows.
 In short, QMD - Query Markup Documents is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. Many users find that this one ability of QMD - Query Markup Documents removes several tasks from their daily routine.
 
 ## Key features

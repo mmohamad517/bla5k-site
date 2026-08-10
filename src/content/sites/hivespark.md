@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is HiveSpark?
-    a: HiveSpark AI automates essential startup tasks—pitch decks, market research, competitor analysis, funding plans, go‑to‑market strategies, product roadmaps, and team building documents. Its 100+ customizable templates generate up to 600‑word content in under 30 seconds, enabling rapid, repeatable business documentation. Business planning Freemium - $39/mo That is the core of what HiveSpark does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: HiveSpark AI automates essential startup tasks—pitch decks, market research, competitor analysis, funding plans, go‑to‑market strategies, product roadmaps, and team building documents. Its 100+ customizable templates generate up to 600‑word content in under 30 seconds, enabling rapid, repeatable business documentation. That is the core of what HiveSpark does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is HiveSpark free?
     a: HiveSpark uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $39/mo, check the official website — pricing changes often.
   - q: What can you do with HiveSpark?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like HiveSpark earn t
 
 ## What is HiveSpark?
 
-HiveSpark AI automates essential startup tasks—pitch decks, market research, competitor analysis, funding plans, go‑to‑market strategies, product roadmaps, and team building documents. Its 100+ customizable templates generate up to 600‑word content in under 30 seconds, enabling rapid, repeatable business documentation. Business planning Freemium - $39/mo
-
+HiveSpark AI automates essential startup tasks—pitch decks, market research, competitor analysis, funding plans, go‑to‑market strategies, product roadmaps, and team building documents. Its 100+ customizable templates generate up to 600‑word content in under 30 seconds, enabling rapid, repeatable business documentation.
 In short, HiveSpark is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI planning without the manual grind. For plenty of users, that one capability of HiveSpark replaces several steps they used to do by hand.
 
 ## Key features

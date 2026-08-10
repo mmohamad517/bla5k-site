@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Pixiboo?
-    a: Families design personalized search‑and‑find books featuring custom characters hidden in hand‑crafted illustrations. AI trained on artists’ designs generates new characters, allowing unlimited play, storytelling, collaboration, and creative learning in a safe, engaging environment. Character Design Free That is the core of what Pixiboo does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Families design personalized search‑and‑find books featuring custom characters hidden in hand‑crafted illustrations. AI trained on artists’ designs generates new characters, allowing unlimited play, storytelling, collaboration, and creative learning in a safe, engaging environment. That is the core of what Pixiboo does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Pixiboo free?
     a: Yes — Pixiboo is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Pixiboo?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Pixiboo?
 
-Families design personalized search‑and‑find books featuring custom characters hidden in hand‑crafted illustrations. AI trained on artists’ designs generates new characters, allowing unlimited play, storytelling, collaboration, and creative learning in a safe, engaging environment. Character Design Free
-
+Families design personalized search‑and‑find books featuring custom characters hidden in hand‑crafted illustrations. AI trained on artists’ designs generates new characters, allowing unlimited play, storytelling, collaboration, and creative learning in a safe, engaging environment.
 In short, Pixiboo is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. Many users discover that this feature of Pixiboo alone covers what previously took multiple tools.
 
 ## Key features

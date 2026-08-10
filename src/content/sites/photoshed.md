@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Photoshed?
-    a: PhotoShed uses AI to create a digital twin from 20+ selfies, then lets users generate unlimited custom photos of the avatar in any scene. Includes AI‑generated models, full commercial license, and secure US‑based storage. Avatar Subscription - $29/mo That is the core of what Photoshed does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: PhotoShed uses AI to create a digital twin from 20+ selfies, then lets users generate unlimited custom photos of the avatar in any scene. Includes AI‑generated models, full commercial license, and secure US‑based storage. That is the core of what Photoshed does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Photoshed free?
     a: Photoshed is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Photoshed?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Photoshed?
 
-PhotoShed uses AI to create a digital twin from 20+ selfies, then lets users generate unlimited custom photos of the avatar in any scene. Includes AI‑generated models, full commercial license, and secure US‑based storage. Avatar Subscription - $29/mo
-
+PhotoShed uses AI to create a digital twin from 20+ selfies, then lets users generate unlimited custom photos of the avatar in any scene. Includes AI‑generated models, full commercial license, and secure US‑based storage.
 In short, Photoshed is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. For many, that single strength of Photoshed is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

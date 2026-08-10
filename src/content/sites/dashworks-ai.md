@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Dashworks?
-    a: Dashworks offers an AI assistant that pulls real‑time answers from connected apps, knowledge bases, and communication tools without data indexing. It integrates with Slack, browsers, and third‑party apps, supports multiple models, and delivers secure, citation‑backed responses to improve team efficiency.  That is the core of what Dashworks does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Dashworks offers an AI assistant that pulls real‑time answers from connected apps, knowledge bases, and communication tools without data indexing. It integrates with Slack, browsers, and third‑party apps, supports multiple models, and delivers secure, citation‑backed responses to improve team efficiency. That is the core of what Dashworks does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Dashworks free?
     a: Dashworks is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Dashworks?

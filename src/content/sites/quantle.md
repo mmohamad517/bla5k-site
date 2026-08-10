@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Quantle?
-    a: Quantle is a no-code platform for traders that enables the creation, testing, and optimization of trading strategies through a drag-and-drop interface, real-time performance metrics, and dynamic data integration for informed decision-making. App Builder Free trial That is the core of what Quantle does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Quantle is a no-code platform for traders that enables the creation, testing, and optimization of trading strategies through a drag-and-drop interface, real-time performance metrics, and dynamic data integration for informed decision-making. That is the core of what Quantle does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Quantle free?
     a: Quantle uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Quantle?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Quantle?
 
-Quantle is a no-code platform for traders that enables the creation, testing, and optimization of trading strategies through a drag-and-drop interface, real-time performance metrics, and dynamic data integration for informed decision-making. App Builder Free trial
-
+Quantle is a no-code platform for traders that enables the creation, testing, and optimization of trading strategies through a drag-and-drop interface, real-time performance metrics, and dynamic data integration for informed decision-making.
 In short, Quantle is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. That one feature of Quantle often eliminates several smaller steps from the usual workflow.
 
 ## Key features

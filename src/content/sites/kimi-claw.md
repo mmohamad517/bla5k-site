@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Kimi Claw?
-    a: Kimi Claw provides one-click cloud deployment for OpenClaw, launching 24/7 AI agents and swarms with persistent memory and customizable personalities, K2/K2.5 models, 5,000+ Clawhub skills, scheduling, 40GB storage, and integrated document/spreadsheet workflows.  That is the core of what Kimi Claw does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Kimi Claw provides one-click cloud deployment for OpenClaw, launching 24/7 AI agents and swarms with persistent memory and customizable personalities, K2/K2.5 models, 5,000+ Clawhub skills, scheduling, 40GB storage, and integrated document/spreadsheet workflows. That is the core of what Kimi Claw does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Kimi Claw free?
     a: Kimi Claw uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Kimi Claw?

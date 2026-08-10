@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Podgen?
-    a: PodGen.io converts text, YouTube videos and PDFs into podcast-ready audio with 50+ voices, voice cloning, multi-host and multilingual support, offering transcript editing, AI script/show-note generation, audio mastering, publishing workflows, RSS/API integration and analytics. Audio generation Freemium - $50 That is the core of what Podgen does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: PodGen.io converts text, YouTube videos and PDFs into podcast-ready audio with 50+ voices, voice cloning, multi-host and multilingual support, offering transcript editing, AI script/show-note generation, audio mastering, publishing workflows, RSS/API integration and analytics. That is the core of what Podgen does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Podgen free?
     a: Podgen uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $50, check the official website — pricing changes often.
   - q: What can you do with Podgen?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Podgen?
 
-PodGen.io converts text, YouTube videos and PDFs into podcast-ready audio with 50+ voices, voice cloning, multi-host and multilingual support, offering transcript editing, AI script/show-note generation, audio mastering, publishing workflows, RSS/API integration and analytics. Audio generation Freemium - $50
-
+PodGen.io converts text, YouTube videos and PDFs into podcast-ready audio with 50+ voices, voice cloning, multi-host and multilingual support, offering transcript editing, AI script/show-note generation, audio mastering, publishing workflows, RSS/API integration and analytics.
 In short, Podgen is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. That one feature of Podgen often eliminates several smaller steps from the usual workflow.
 
 ## Key features

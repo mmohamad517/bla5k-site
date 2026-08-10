@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is axelerate.ai?
-    a: Axelerate AI automates blog publishing and content workflows with an AI Content Studio for research, writing, optimization, headlines, metadata and competitor-driven keyword insights, plus a data-aware chat assistant, scheduled publishing, templates and API integrations. Content creation Free - $49 That is the core of what axelerate.ai does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Axelerate AI automates blog publishing and content workflows with an AI Content Studio for research, writing, optimization, headlines, metadata and competitor-driven keyword insights, plus a data-aware chat assistant, scheduled publishing, templates and API integrations. That is the core of what axelerate.ai does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is axelerate.ai free?
     a: axelerate.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with axelerate.ai?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like axelerate.a
 
 ## What is axelerate.ai?
 
-Axelerate AI automates blog publishing and content workflows with an AI Content Studio for research, writing, optimization, headlines, metadata and competitor-driven keyword insights, plus a data-aware chat assistant, scheduled publishing, templates and API integrations. Content creation Free - $49
-
+Axelerate AI automates blog publishing and content workflows with an AI Content Studio for research, writing, optimization, headlines, metadata and competitor-driven keyword insights, plus a data-aware chat assistant, scheduled publishing, templates and API integrations.
 In short, axelerate.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. That one feature of axelerate.ai often eliminates several smaller steps from the usual workflow.
 
 ## Key features

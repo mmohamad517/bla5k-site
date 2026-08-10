@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is GetLeads?
-    a: GetLeads is an AI‑driven platform that delivers real‑time, verified decision‑maker contacts using advanced filters and social media searches. It matches look‑alike customers, auto‑generates multilingual outreach, tracks engagement, and integrates without API setup.  That is the core of what GetLeads does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: GetLeads is an AI‑driven platform that delivers real‑time, verified decision‑maker contacts using advanced filters and social media searches. It matches look‑alike customers, auto‑generates multilingual outreach, tracks engagement, and integrates without API setup. That is the core of what GetLeads does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is GetLeads free?
     a: GetLeads uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $30/mo, check the official website — pricing changes often.
   - q: What can you do with GetLeads?

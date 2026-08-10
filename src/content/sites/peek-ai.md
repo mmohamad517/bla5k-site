@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Peek AI?
-    a: Peek is a macOS menu‑bar app that lets you access multiple AI chatbots—ChatGPT, Gemini, Claude, etc.—without API keys. It displays each platform in a webview, keeps data private, and allows quick switching, screenshotting, and chat history sync. Personal Chatbot Paid That is the core of what Peek AI does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Peek is a macOS menu‑bar app that lets you access multiple AI chatbots—ChatGPT, Gemini, Claude, etc.—without API keys. It displays each platform in a webview, keeps data private, and allows quick switching, screenshotting, and chat history sync. That is the core of what Peek AI does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Peek AI free?
     a: Peek AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Peek AI?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Peek AI?
 
-Peek is a macOS menu‑bar app that lets you access multiple AI chatbots—ChatGPT, Gemini, Claude, etc.—without API keys. It displays each platform in a webview, keeps data private, and allows quick switching, screenshotting, and chat history sync. Personal Chatbot Paid
-
+Peek is a macOS menu‑bar app that lets you access multiple AI chatbots—ChatGPT, Gemini, Claude, etc.—without API keys. It displays each platform in a webview, keeps data private, and allows quick switching, screenshotting, and chat history sync.
 In short, Peek AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For plenty of users, that one capability of Peek AI replaces several steps they used to do by hand.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is zero1cine?
-    a: zero1cine is an AI‑centric film database cataloging AI‑generated movies across genres, letting creators submit works and audiences discover titles, browse metadata, build watchlists, and access festival and award event listings.  That is the core of what zero1cine does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: zero1cine is an AI‑centric film database cataloging AI‑generated movies across genres, letting creators submit works and audiences discover titles, browse metadata, build watchlists, and access festival and award event listings. That is the core of what zero1cine does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is zero1cine free?
     a: zero1cine uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with zero1cine?

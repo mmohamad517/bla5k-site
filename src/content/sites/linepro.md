@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is LinePro?
-    a: LinePro uses AI to generate personalized email subject lines in seconds. Users set purpose, tone, and target demographics, and the tool delivers ten tailored options, helping marketers, sales teams, and small businesses improve open rates. Copywriting Free That is the core of what LinePro does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: LinePro uses AI to generate personalized email subject lines in seconds. Users set purpose, tone, and target demographics, and the tool delivers ten tailored options, helping marketers, sales teams, and small businesses improve open rates. That is the core of what LinePro does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is LinePro free?
     a: Yes — LinePro is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with LinePro?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like LinePro ear
 
 ## What is LinePro?
 
-LinePro uses AI to generate personalized email subject lines in seconds. Users set purpose, tone, and target demographics, and the tool delivers ten tailored options, helping marketers, sales teams, and small businesses improve open rates. Copywriting Free
-
+LinePro uses AI to generate personalized email subject lines in seconds. Users set purpose, tone, and target demographics, and the tool delivers ten tailored options, helping marketers, sales teams, and small businesses improve open rates.
 In short, LinePro is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. For many, that single strength of LinePro is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

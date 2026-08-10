@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Detector AI?
-    a: Detector AI is a free text detector that identifies AI-generated text from models like ChatGPT, Claude, and Gemini using advanced NLP algorithms. It offers a user-friendly interface for analyzing content, highlighting AI vs. human contributions, and ensuring originality for students, researchers, and creators.  That is the core of what Detector AI does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Detector AI is a free text detector that identifies AI-generated text from models like ChatGPT, Claude, and Gemini using advanced NLP algorithms. It offers a user-friendly interface for analyzing content, highlighting AI vs. human contributions, and ensuring originality for students, researchers, and creators. That is the core of what Detector AI does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Detector AI free?
     a: Yes — Detector AI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Detector AI?

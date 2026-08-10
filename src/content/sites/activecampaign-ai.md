@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ActiveCampaign AI?
-    a: ActiveCampaign AI is a powerful integrated platform that enhances marketing campaigns through intelligent customer segmentation, optimized scheduling, and insightful analytics. By leveraging machine learning, it delivers personalized interactions and streamlines workflows to boost engagement and drive ROI.  That is the core of what ActiveCampaign AI does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ActiveCampaign AI is a powerful integrated platform that enhances marketing campaigns through intelligent customer segmentation, optimized scheduling, and insightful analytics. By leveraging machine learning, it delivers personalized interactions and streamlines workflows to boost engagement and drive ROI. That is the core of what ActiveCampaign AI does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ActiveCampaign AI free?
     a: ActiveCampaign AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $15/mo, check the official website — pricing changes often.
   - q: What can you do with ActiveCampaign AI?

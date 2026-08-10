@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Vibly?
-    a: Vibly unifies coaching operations by letting coaches build profiles, set packages, and onboard clients in one platform. It offers built‑in video, calendar sync, secure HIPAA‑compliant messaging, AI‑generated session notes, and Stripe payment integration for streamlined booking and payouts.  That is the core of what Vibly does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Vibly unifies coaching operations by letting coaches build profiles, set packages, and onboard clients in one platform. It offers built‑in video, calendar sync, secure HIPAA‑compliant messaging, AI‑generated session notes, and Stripe payment integration for streamlined booking and payouts. That is the core of what Vibly does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Vibly free?
     a: Vibly is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Vibly?

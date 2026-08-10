@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is cartesia.ai?
-    a: Cartesia.ai is a multimodal intelligence platform that enables real-time, on-device inference with a focus on privacy and dynamic learning. It features a generative voice API for ultra-realistic audio outputs, making it suitable for diverse applications across various devices. AI Agents Subscription That is the core of what cartesia.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Cartesia.ai is a multimodal intelligence platform that enables real-time, on-device inference with a focus on privacy and dynamic learning. It features a generative voice API for ultra-realistic audio outputs, making it suitable for diverse applications across various devices. That is the core of what cartesia.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is cartesia.ai free?
     a: cartesia.ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with cartesia.ai?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is cartesia.ai?
 
-Cartesia.ai is a multimodal intelligence platform that enables real-time, on-device inference with a focus on privacy and dynamic learning. It features a generative voice API for ultra-realistic audio outputs, making it suitable for diverse applications across various devices. AI Agents Subscription
-
+Cartesia.ai is a multimodal intelligence platform that enables real-time, on-device inference with a focus on privacy and dynamic learning. It features a generative voice API for ultra-realistic audio outputs, making it suitable for diverse applications across various devices.
 In short, cartesia.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That one feature of cartesia.ai often eliminates several smaller steps from the usual workflow.
 
 ## Key features

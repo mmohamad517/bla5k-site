@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is NotionVC.com?
-    a: NotionVC supplies VC teams with customizable Notion templates for deal‑flow management, fundraising CRM, portfolio tracking, and network oversight. It auto‑imports data and links to Slack for real‑time notifications. AI Assistant Freemium That is the core of what NotionVC.com does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: NotionVC supplies VC teams with customizable Notion templates for deal‑flow management, fundraising CRM, portfolio tracking, and network oversight. It auto‑imports data and links to Slack for real‑time notifications. That is the core of what NotionVC.com does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is NotionVC.com free?
     a: NotionVC.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with NotionVC.com?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like NotionVC.co
 
 ## What is NotionVC.com?
 
-NotionVC supplies VC teams with customizable Notion templates for deal‑flow management, fundraising CRM, portfolio tracking, and network oversight. It auto‑imports data and links to Slack for real‑time notifications. AI Assistant Freemium
-
+NotionVC supplies VC teams with customizable Notion templates for deal‑flow management, fundraising CRM, portfolio tracking, and network oversight. It auto‑imports data and links to Slack for real‑time notifications.
 In short, NotionVC.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of NotionVC.com replaces several steps they used to do by hand.
 
 ## Key features

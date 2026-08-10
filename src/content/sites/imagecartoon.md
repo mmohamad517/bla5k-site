@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ImageCartoon?
-    a: ImageToCartoon turns JPEG, PNG, or WebP photos into high‑resolution cartoon images directly in the browser. Users pick from 80+ styles—Ghibli, Pixar, anime, comics—to create avatars, prints, or pet illustrations, with royalty‑free commercial rights. Avatar Free That is the core of what ImageCartoon does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ImageToCartoon turns JPEG, PNG, or WebP photos into high‑resolution cartoon images directly in the browser. Users pick from 80+ styles—Ghibli, Pixar, anime, comics—to create avatars, prints, or pet illustrations, with royalty‑free commercial rights. That is the core of what ImageCartoon does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ImageCartoon free?
     a: Yes — ImageCartoon is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with ImageCartoon?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is ImageCartoon?
 
-ImageToCartoon turns JPEG, PNG, or WebP photos into high‑resolution cartoon images directly in the browser. Users pick from 80+ styles—Ghibli, Pixar, anime, comics—to create avatars, prints, or pet illustrations, with royalty‑free commercial rights. Avatar Free
-
+ImageToCartoon turns JPEG, PNG, or WebP photos into high‑resolution cartoon images directly in the browser. Users pick from 80+ styles—Ghibli, Pixar, anime, comics—to create avatars, prints, or pet illustrations, with royalty‑free commercial rights.
 In short, ImageCartoon is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. That one feature of ImageCartoon often eliminates several smaller steps from the usual workflow.
 
 ## Key features

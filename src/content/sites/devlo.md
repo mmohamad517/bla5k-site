@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is devlo?
-    a: devlo lets teams build, edit, and ship code from a browser, eliminating local tooling. It auto‑converts tickets to tested PRs, runs autonomous code review, debugging, and security scans, and integrates with GitHub, Jira, Slack. SOC‑2 compliant with zero data retention.  That is the core of what devlo does — developer tools handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: devlo lets teams build, edit, and ship code from a browser, eliminating local tooling. It auto‑converts tickets to tested PRs, runs autonomous code review, debugging, and security scans, and integrates with GitHub, Jira, Slack. SOC‑2 compliant with zero data retention. That is the core of what devlo does — developer tools handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is devlo free?
     a: devlo is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with devlo?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ChatTab?
-    a: ChatTab is a native macOS client for GPT‑3.5, GPT‑4, GPT‑4‑Vision, GPT‑4‑32k and Claude‑2 that stores the API key in Apple keychain. It supports multiple tabs, Markdown, iCloud prompts, file ingestion, and image queries, keeping data local for privacy. AI Assistant Paid - $3.99 That is the core of what ChatTab does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ChatTab is a native macOS client for GPT‑3.5, GPT‑4, GPT‑4‑Vision, GPT‑4‑32k and Claude‑2 that stores the API key in Apple keychain. It supports multiple tabs, Markdown, iCloud prompts, file ingestion, and image queries, keeping data local for privacy. That is the core of what ChatTab does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ChatTab free?
     a: ChatTab is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with ChatTab?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is ChatTab?
 
-ChatTab is a native macOS client for GPT‑3.5, GPT‑4, GPT‑4‑Vision, GPT‑4‑32k and Claude‑2 that stores the API key in Apple keychain. It supports multiple tabs, Markdown, iCloud prompts, file ingestion, and image queries, keeping data local for privacy. AI Assistant Paid - $3.99
-
+ChatTab is a native macOS client for GPT‑3.5, GPT‑4, GPT‑4‑Vision, GPT‑4‑32k and Claude‑2 that stores the API key in Apple keychain. It supports multiple tabs, Markdown, iCloud prompts, file ingestion, and image queries, keeping data local for privacy.
 In short, ChatTab is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of ChatTab replaces several steps they used to do by hand.
 
 ## Key features

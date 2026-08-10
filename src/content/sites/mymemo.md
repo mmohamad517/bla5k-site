@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MyMemo?
-    a: MyMemo is an AI-powered knowledge management tool that simplifies organizing and accessing personal data. It provides AI-driven recaps, tailored collections, and extracts essential insights for efficient information retrieval.  That is the core of what MyMemo does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: MyMemo is an AI-powered knowledge management tool that simplifies organizing and accessing personal data. It provides AI-driven recaps, tailored collections, and extracts essential insights for efficient information retrieval. That is the core of what MyMemo does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MyMemo free?
     a: MyMemo uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with MyMemo?

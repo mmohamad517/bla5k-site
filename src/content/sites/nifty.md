@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Nifty?
-    a: Nifty is a project management tool that integrates task management, roadmaps, and Gantt charts, facilitating team collaboration, automated data capture, and customizable workflows to enhance productivity and streamline project tracking across various disciplines. Project management Freemium That is the core of what Nifty does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Nifty is a project management tool that integrates task management, roadmaps, and Gantt charts, facilitating team collaboration, automated data capture, and customizable workflows to enhance productivity and streamline project tracking across various disciplines. That is the core of what Nifty does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Nifty free?
     a: Nifty uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Nifty?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Nifty 
 
 ## What is Nifty?
 
-Nifty is a project management tool that integrates task management, roadmaps, and Gantt charts, facilitating team collaboration, automated data capture, and customizable workflows to enhance productivity and streamline project tracking across various disciplines. Project management Freemium
-
+Nifty is a project management tool that integrates task management, roadmaps, and Gantt charts, facilitating team collaboration, automated data capture, and customizable workflows to enhance productivity and streamline project tracking across various disciplines.
 In short, Nifty is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For a lot of people, that one function of Nifty collapses multiple steps into a single action.
 
 ## Key features

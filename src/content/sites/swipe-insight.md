@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Swipe Insight?
-    a: Swipe Insight delivers daily digital‑marketing and analytics content from 500+ sources via web, iOS, and Android. Users swipe 9‑second summaries, personalize with AI recommendations, filter topics, bookmark, and receive smart notifications, all with privacy‑focused browsing.  That is the core of what Swipe Insight does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Swipe Insight delivers daily digital‑marketing and analytics content from 500+ sources via web, iOS, and Android. Users swipe 9‑second summaries, personalize with AI recommendations, filter topics, bookmark, and receive smart notifications, all with privacy‑focused browsing. That is the core of what Swipe Insight does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Swipe Insight free?
     a: Swipe Insight uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Swipe Insight?

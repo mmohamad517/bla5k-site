@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is BotPenguin Chatbot?
-    a: BotPenguin lets users build code‑free chatbots for websites, WhatsApp, Facebook, Instagram, Telegram, and Microsoft Teams. A drag‑and‑drop editor, unified inbox, analytics, multilingual support, custom AI personas, automation, and 80+ integrations streamline marketing, sales, and support. Omnichannel chatbot Paid That is the core of what BotPenguin Chatbot does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: BotPenguin lets users build code‑free chatbots for websites, WhatsApp, Facebook, Instagram, Telegram, and Microsoft Teams. A drag‑and‑drop editor, unified inbox, analytics, multilingual support, custom AI personas, automation, and 80+ integrations streamline marketing, sales, and support. That is the core of what BotPenguin Chatbot does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is BotPenguin Chatbot free?
     a: BotPenguin Chatbot is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with BotPenguin Chatbot?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like BotPen
 
 ## What is BotPenguin Chatbot?
 
-BotPenguin lets users build code‑free chatbots for websites, WhatsApp, Facebook, Instagram, Telegram, and Microsoft Teams. A drag‑and‑drop editor, unified inbox, analytics, multilingual support, custom AI personas, automation, and 80+ integrations streamline marketing, sales, and support. Omnichannel chatbot Paid
-
+BotPenguin lets users build code‑free chatbots for websites, WhatsApp, Facebook, Instagram, Telegram, and Microsoft Teams. A drag‑and‑drop editor, unified inbox, analytics, multilingual support, custom AI personas, automation, and 80+ integrations streamline marketing, sales, and support.
 In short, BotPenguin Chatbot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For plenty of users, that one capability of BotPenguin Chatbot replaces several steps they used to do by hand.
 
 ## Key features

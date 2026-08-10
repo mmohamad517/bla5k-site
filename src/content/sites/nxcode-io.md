@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is NxCode?
-    a: nxcode.io is an AI app builder that transforms plain-English ideas into production-ready web and mobile apps without coding. It automates the entire development lifecycle—from code generation and API integration to testing and deployment—via a build studio and enterprise-ready collaboration tools.  That is the core of what NxCode does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: nxcode.io is an AI app builder that transforms plain-English ideas into production-ready web and mobile apps without coding. It automates the entire development lifecycle—from code generation and API integration to testing and deployment—via a build studio and enterprise-ready collaboration tools. That is the core of what NxCode does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is NxCode free?
     a: NxCode uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $5/mo, check the official website — pricing changes often.
   - q: What can you do with NxCode?

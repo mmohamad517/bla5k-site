@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Sketchme.app?
-    a: SketchMe.App transforms up to five selfies into stylized illustrations within minutes. Choose from pencil, flat, Pixar, pixel, caricature, or Gogh‑inspired styles and a theme color. Get eight downloadable variations, optionally watermark‑free, for social media and marketing use. Avatar Paid That is the core of what Sketchme.app does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SketchMe.App transforms up to five selfies into stylized illustrations within minutes. Choose from pencil, flat, Pixar, pixel, caricature, or Gogh‑inspired styles and a theme color. Get eight downloadable variations, optionally watermark‑free, for social media and marketing use. That is the core of what Sketchme.app does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Sketchme.app free?
     a: Sketchme.app is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Sketchme.app?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Sketch
 
 ## What is Sketchme.app?
 
-SketchMe.App transforms up to five selfies into stylized illustrations within minutes. Choose from pencil, flat, Pixar, pixel, caricature, or Gogh‑inspired styles and a theme color. Get eight downloadable variations, optionally watermark‑free, for social media and marketing use. Avatar Paid
-
+SketchMe.App transforms up to five selfies into stylized illustrations within minutes. Choose from pencil, flat, Pixar, pixel, caricature, or Gogh‑inspired styles and a theme color. Get eight downloadable variations, optionally watermark‑free, for social media and marketing use.
 In short, Sketchme.app is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. That single feature of Sketchme.app alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

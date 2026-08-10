@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Frigate NVR?
-    a: Frigate NVR is an open-source on‑premise NVR that runs local AI object detection and real-time tracking on camera feeds, supports hardware accelerators and custom models, configurable detection zones, and integrates with Home Assistant, Node-RED, MQTT for automations. AI Agents Freemium That is the core of what Frigate NVR does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Frigate NVR is an open-source on‑premise NVR that runs local AI object detection and real-time tracking on camera feeds, supports hardware accelerators and custom models, configurable detection zones, and integrates with Home Assistant, Node-RED, MQTT for automations. That is the core of what Frigate NVR does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Frigate NVR free?
     a: Frigate NVR uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Frigate NVR?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Frigate NVR earn
 
 ## What is Frigate NVR?
 
-Frigate NVR is an open-source on‑premise NVR that runs local AI object detection and real-time tracking on camera feeds, supports hardware accelerators and custom models, configurable detection zones, and integrates with Home Assistant, Node-RED, MQTT for automations. AI Agents Freemium
-
+Frigate NVR is an open-source on‑premise NVR that runs local AI object detection and real-time tracking on camera feeds, supports hardware accelerators and custom models, configurable detection zones, and integrates with Home Assistant, Node-RED, MQTT for automations.
 In short, Frigate NVR is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users discover that this feature of Frigate NVR alone covers what previously took multiple tools.
 
 ## Key features

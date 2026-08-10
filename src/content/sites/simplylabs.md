@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SimplyLabs?
-    a: SimplyLabs automates review collection, AI‑driven lead generation, video widget embedding, and code‑free conversion link management for small businesses, enabling teams to track conversions and turn satisfied customers into revenue without technical setup. Digital Marketing Freemium - $9/mo That is the core of what SimplyLabs does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SimplyLabs automates review collection, AI‑driven lead generation, video widget embedding, and code‑free conversion link management for small businesses, enabling teams to track conversions and turn satisfied customers into revenue without technical setup. That is the core of what SimplyLabs does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SimplyLabs free?
     a: SimplyLabs uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9/mo, check the official website — pricing changes often.
   - q: What can you do with SimplyLabs?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Simply
 
 ## What is SimplyLabs?
 
-SimplyLabs automates review collection, AI‑driven lead generation, video widget embedding, and code‑free conversion link management for small businesses, enabling teams to track conversions and turn satisfied customers into revenue without technical setup. Digital Marketing Freemium - $9/mo
-
+SimplyLabs automates review collection, AI‑driven lead generation, video widget embedding, and code‑free conversion link management for small businesses, enabling teams to track conversions and turn satisfied customers into revenue without technical setup.
 In short, SimplyLabs is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That one capability of SimplyLabs frequently saves users from juggling several separate steps.
 
 ## Key features

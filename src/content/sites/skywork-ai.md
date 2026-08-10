@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Skywork.ai?
-    a: Skywork.ai is a versatile AI workspace agent that can analyze data, manage content, and integrate with 300+ tools to streamline market research, stock evaluation, and knowledge base creation.  That is the core of what Skywork.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Skywork.ai is a versatile AI workspace agent that can analyze data, manage content, and integrate with 300+ tools to streamline market research, stock evaluation, and knowledge base creation. That is the core of what Skywork.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Skywork.ai free?
     a: Skywork.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Skywork.ai?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is APOB.AI?
-    a: APOB.AI lets users create custom AI portraits for image and video use, share them with a creator community, and leverage the content as an AI influencer for marketing or branding. It includes tools to scale reach and monetize.  That is the core of what APOB.AI does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: APOB.AI lets users create custom AI portraits for image and video use, share them with a creator community, and leverage the content as an AI influencer for marketing or branding. It includes tools to scale reach and monetize. That is the core of what APOB.AI does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is APOB.AI free?
     a: APOB.AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with APOB.AI?

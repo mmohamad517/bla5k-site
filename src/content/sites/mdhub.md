@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is mdhub?
-    a: mdhub automates behavioral health clinic operations—patient intake, provider matching, insurance eligibility, clinical documentation, claim submission, denial flagging, and prior authorization. It consolidates scheduling, EHR, and CRM on a HIPAA‑compliant, SOC 2‑certified platform, reducing billing errors and freeing clinicians for care. AI Agents Freemium That is the core of what mdhub does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: mdhub automates behavioral health clinic operations—patient intake, provider matching, insurance eligibility, clinical documentation, claim submission, denial flagging, and prior authorization. It consolidates scheduling, EHR, and CRM on a HIPAA‑compliant, SOC 2‑certified platform, reducing billing errors and freeing clinicians for care. That is the core of what mdhub does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is mdhub free?
     a: mdhub uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with mdhub?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is mdhub?
 
-mdhub automates behavioral health clinic operations—patient intake, provider matching, insurance eligibility, clinical documentation, claim submission, denial flagging, and prior authorization. It consolidates scheduling, EHR, and CRM on a HIPAA‑compliant, SOC 2‑certified platform, reducing billing errors and freeing clinicians for care. AI Agents Freemium
-
+mdhub automates behavioral health clinic operations—patient intake, provider matching, insurance eligibility, clinical documentation, claim submission, denial flagging, and prior authorization. It consolidates scheduling, EHR, and CRM on a HIPAA‑compliant, SOC 2‑certified platform, reducing billing errors and freeing clinicians for care.
 In short, mdhub is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For plenty of users, that one capability of mdhub replaces several steps they used to do by hand.
 
 ## Key features

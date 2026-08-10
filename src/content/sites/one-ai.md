@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is One AI?
-    a: OneAI’s AI Phone Call Agent automates phone, SMS, and WhatsApp campaigns with an AI‑native dialer, real‑time lead qualification, CRM integration, 5‑second callbacks, and detailed analytics for scalable, compliant sales outreach.  That is the core of what One AI does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: OneAI’s AI Phone Call Agent automates phone, SMS, and WhatsApp campaigns with an AI‑native dialer, real‑time lead qualification, CRM integration, 5‑second callbacks, and detailed analytics for scalable, compliant sales outreach. That is the core of what One AI does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is One AI free?
     a: One AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with One AI?

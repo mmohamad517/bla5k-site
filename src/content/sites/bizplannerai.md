@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is BizPlannerAI?
-    a: BizPlanner AI automatically generates full investor‑ready business plans from minimal inputs, creating executive summaries, market analysis, SWOT, competitor profiles, financial projections, and regulatory sections. Editable in a Notion‑style interface, it exports to Word or PDF.  That is the core of what BizPlannerAI does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: BizPlanner AI automatically generates full investor‑ready business plans from minimal inputs, creating executive summaries, market analysis, SWOT, competitor profiles, financial projections, and regulatory sections. Editable in a Notion‑style interface, it exports to Word or PDF. That is the core of what BizPlannerAI does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is BizPlannerAI free?
     a: BizPlannerAI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with BizPlannerAI?

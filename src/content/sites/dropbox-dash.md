@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Dropbox Dash?
-    a: Dropbox Dash is an AI-driven search tool unifying data from connected apps & emails. It boosts productivity through smart collections, centralized views, and efficient answers for improved workflow management.  That is the core of what Dropbox Dash does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Dropbox Dash is an AI-driven search tool unifying data from connected apps & emails. It boosts productivity through smart collections, centralized views, and efficient answers for improved workflow management. That is the core of what Dropbox Dash does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Dropbox Dash free?
     a: Dropbox Dash uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Dropbox Dash?

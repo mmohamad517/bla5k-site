@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Blue?
-    a: Blue is a macOS app that integrates ChatGPT capabilities for tasks like summarizing and translating, enhancing productivity. It features on-device processing, data privacy, and context-aware assistance through screen analysis, ensuring a seamless workflow for professionals. AI Assistant Free trial That is the core of what Blue does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Blue is a macOS app that integrates ChatGPT capabilities for tasks like summarizing and translating, enhancing productivity. It features on-device processing, data privacy, and context-aware assistance through screen analysis, ensuring a seamless workflow for professionals. That is the core of what Blue does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Blue free?
     a: Blue uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Blue?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Blue?
 
-Blue is a macOS app that integrates ChatGPT capabilities for tasks like summarizing and translating, enhancing productivity. It features on-device processing, data privacy, and context-aware assistance through screen analysis, ensuring a seamless workflow for professionals. AI Assistant Free trial
-
+Blue is a macOS app that integrates ChatGPT capabilities for tasks like summarizing and translating, enhancing productivity. It features on-device processing, data privacy, and context-aware assistance through screen analysis, ensuring a seamless workflow for professionals.
 In short, Blue is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one feature of Blue often eliminates several smaller steps from the usual workflow.
 
 ## Key features

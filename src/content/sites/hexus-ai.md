@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Hexus AI?
-    a: Hexus automates the creation and continuous updating of product demos, videos, and interactive guides from screen recordings. It converts these assets into walkthroughs, help docs, and marketing collateral, while offering built‑in analytics, personalization, and secure enterprise integration. Content creation Paid That is the core of what Hexus AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Hexus automates the creation and continuous updating of product demos, videos, and interactive guides from screen recordings. It converts these assets into walkthroughs, help docs, and marketing collateral, while offering built‑in analytics, personalization, and secure enterprise integration. That is the core of what Hexus AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Hexus AI free?
     a: Hexus AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Hexus AI?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Hexus AI ea
 
 ## What is Hexus AI?
 
-Hexus automates the creation and continuous updating of product demos, videos, and interactive guides from screen recordings. It converts these assets into walkthroughs, help docs, and marketing collateral, while offering built‑in analytics, personalization, and secure enterprise integration. Content creation Paid
-
+Hexus automates the creation and continuous updating of product demos, videos, and interactive guides from screen recordings. It converts these assets into walkthroughs, help docs, and marketing collateral, while offering built‑in analytics, personalization, and secure enterprise integration.
 In short, Hexus AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For a lot of people, that one function of Hexus AI collapses multiple steps into a single action.
 
 ## Key features

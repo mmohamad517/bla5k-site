@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Scanlist?
-    a: Scanlist, a Chrome extension, harvests LinkedIn lead data, adds verified emails, and 20+ data points. It offers bulk export, real‑time scanning, AI‑powered copy for emails, ads, and landing pages, plus deliverability analysis and bulk messaging for sales and recruiting. Sales Subscription - $29/mo That is the core of what Scanlist does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Scanlist, a Chrome extension, harvests LinkedIn lead data, adds verified emails, and 20+ data points. It offers bulk export, real‑time scanning, AI‑powered copy for emails, ads, and landing pages, plus deliverability analysis and bulk messaging for sales and recruiting. That is the core of what Scanlist does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Scanlist free?
     a: Scanlist is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Scanlist?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Scanlist?
 
-Scanlist, a Chrome extension, harvests LinkedIn lead data, adds verified emails, and 20+ data points. It offers bulk export, real‑time scanning, AI‑powered copy for emails, ads, and landing pages, plus deliverability analysis and bulk messaging for sales and recruiting. Sales Subscription - $29/mo
-
+Scanlist, a Chrome extension, harvests LinkedIn lead data, adds verified emails, and 20+ data points. It offers bulk export, real‑time scanning, AI‑powered copy for emails, ads, and landing pages, plus deliverability analysis and bulk messaging for sales and recruiting.
 In short, Scanlist is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. That single feature of Scanlist alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

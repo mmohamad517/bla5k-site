@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is evolv.ai?
-    a: Evolv AI quickly detects conversion blockers and generates actionable UX recommendations. It evaluates sites in real time, supports instant testing, personalized layouts, and continuous learning, shortening A/B cycles and boosting conversion rates and revenue. AI Assistant Freemium That is the core of what evolv.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Evolv AI quickly detects conversion blockers and generates actionable UX recommendations. It evaluates sites in real time, supports instant testing, personalized layouts, and continuous learning, shortening A/B cycles and boosting conversion rates and revenue. That is the core of what evolv.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is evolv.ai free?
     a: evolv.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with evolv.ai?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is evolv.ai?
 
-Evolv AI quickly detects conversion blockers and generates actionable UX recommendations. It evaluates sites in real time, supports instant testing, personalized layouts, and continuous learning, shortening A/B cycles and boosting conversion rates and revenue. AI Assistant Freemium
-
+Evolv AI quickly detects conversion blockers and generates actionable UX recommendations. It evaluates sites in real time, supports instant testing, personalized layouts, and continuous learning, shortening A/B cycles and boosting conversion rates and revenue.
 In short, evolv.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For a lot of people, that one function of evolv.ai collapses multiple steps into a single action.
 
 ## Key features

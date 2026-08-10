@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Brella?
-    a: Brella is an event platform for virtual, physical, and hybrid events that uses AI matchmaking to pair attendees, collects post‑event lead scans and ratings, and offers full branding customization, sponsor portals, native API integration, real‑time engagement analytics, and multi‑track scheduling. AI Assistant Subscription That is the core of what Brella does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Brella is an event platform for virtual, physical, and hybrid events that uses AI matchmaking to pair attendees, collects post‑event lead scans and ratings, and offers full branding customization, sponsor portals, native API integration, real‑time engagement analytics, and multi‑track scheduling. That is the core of what Brella does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Brella free?
     a: Brella is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Brella?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Brella?
 
-Brella is an event platform for virtual, physical, and hybrid events that uses AI matchmaking to pair attendees, collects post‑event lead scans and ratings, and offers full branding customization, sponsor portals, native API integration, real‑time engagement analytics, and multi‑track scheduling. AI Assistant Subscription
-
+Brella is an event platform for virtual, physical, and hybrid events that uses AI matchmaking to pair attendees, collects post‑event lead scans and ratings, and offers full branding customization, sponsor portals, native API integration, real‑time engagement analytics, and multi‑track scheduling.
 In short, Brella is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users discover that this feature of Brella alone covers what previously took multiple tools.
 
 ## Key features

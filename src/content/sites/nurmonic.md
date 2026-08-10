@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Nurmonic?
-    a: Nurmonic is a Discord AI bot that supports long‑form text chats (over 1000 characters) and on‑demand image generation from prompts. It offers a dashboard for settings and usage logs and works without extra plugins. Chat Freemium That is the core of what Nurmonic does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Nurmonic is a Discord AI bot that supports long‑form text chats (over 1000 characters) and on‑demand image generation from prompts. It offers a dashboard for settings and usage logs and works without extra plugins. That is the core of what Nurmonic does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Nurmonic free?
     a: Nurmonic uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Nurmonic?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Nurmonic?
 
-Nurmonic is a Discord AI bot that supports long‑form text chats (over 1000 characters) and on‑demand image generation from prompts. It offers a dashboard for settings and usage logs and works without extra plugins. Chat Freemium
-
+Nurmonic is a Discord AI bot that supports long‑form text chats (over 1000 characters) and on‑demand image generation from prompts. It offers a dashboard for settings and usage logs and works without extra plugins.
 In short, Nurmonic is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For many, that single strength of Nurmonic is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

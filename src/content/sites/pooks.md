@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Pooks?
-    a: Discover personalized reading with pooks.ai - an AI tool that offers personalized ebooks and audiobooks, tailored to your specific needs, circumstances, and preferences. Create your own book for free for a limited time.  That is the core of what Pooks does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Discover personalized reading with pooks.ai - an AI tool that offers personalized ebooks and audiobooks, tailored to your specific needs, circumstances, and preferences. Create your own book for free for a limited time. That is the core of what Pooks does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Pooks free?
     a: Pooks uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Pooks?

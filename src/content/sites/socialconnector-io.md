@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is socialconnector.io?
-    a: Social Connector is an engagement marketing tool that enhances customer interactions through an omni-channel rewards system. It features AI marketing automation, gamified leaderboards, and a custom redemption site for seamless reward claiming and data-driven engagement. Marketing Subscription That is the core of what socialconnector.io does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Social Connector is an engagement marketing tool that enhances customer interactions through an omni-channel rewards system. It features AI marketing automation, gamified leaderboards, and a custom redemption site for seamless reward claiming and data-driven engagement. That is the core of what socialconnector.io does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is socialconnector.io free?
     a: socialconnector.io is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with socialconnector.io?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like socialconnector.
 
 ## What is socialconnector.io?
 
-Social Connector is an engagement marketing tool that enhances customer interactions through an omni-channel rewards system. It features AI marketing automation, gamified leaderboards, and a custom redemption site for seamless reward claiming and data-driven engagement. Marketing Subscription
-
+Social Connector is an engagement marketing tool that enhances customer interactions through an omni-channel rewards system. It features AI marketing automation, gamified leaderboards, and a custom redemption site for seamless reward claiming and data-driven engagement.
 In short, socialconnector.io is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many, that single strength of socialconnector.io is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

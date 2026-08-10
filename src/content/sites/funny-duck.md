@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Funny Duck?
-    a: Funny Duck is an AI-powered mobile voice assistant that facilitates computer and IoT device control via voice commands. It offers customizable options for managing tasks like shutting down computers, browsing web pages, or controlling smart home devices, streamlining tech routines. Personal assistant Freemium That is the core of what Funny Duck does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Funny Duck is an AI-powered mobile voice assistant that facilitates computer and IoT device control via voice commands. It offers customizable options for managing tasks like shutting down computers, browsing web pages, or controlling smart home devices, streamlining tech routines. That is the core of what Funny Duck does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Funny Duck free?
     a: Funny Duck uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Funny Duck?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Funny Duck?
 
-Funny Duck is an AI-powered mobile voice assistant that facilitates computer and IoT device control via voice commands. It offers customizable options for managing tasks like shutting down computers, browsing web pages, or controlling smart home devices, streamlining tech routines. Personal assistant Freemium
-
+Funny Duck is an AI-powered mobile voice assistant that facilitates computer and IoT device control via voice commands. It offers customizable options for managing tasks like shutting down computers, browsing web pages, or controlling smart home devices, streamlining tech routines.
 In short, Funny Duck is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one capability of Funny Duck frequently saves users from juggling several separate steps.
 
 ## Key features

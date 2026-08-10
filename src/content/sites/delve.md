@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Delve?
-    a: Delve AI helps businesses create data-driven buyer personas for themselves and their competitors in minutes using data from sources like Google Analytics and social media analytics. Business planning Freemium That is the core of what Delve does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Delve AI helps businesses create data-driven buyer personas for themselves and their competitors in minutes using data from sources like Google Analytics and social media analytics. That is the core of what Delve does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Delve free?
     a: Delve uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Delve?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Delve?
 
-Delve AI helps businesses create data-driven buyer personas for themselves and their competitors in minutes using data from sources like Google Analytics and social media analytics. Business planning Freemium
-
+Delve AI helps businesses create data-driven buyer personas for themselves and their competitors in minutes using data from sources like Google Analytics and social media analytics.
 In short, Delve is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI planning without the manual grind. For a lot of people, that one function of Delve collapses multiple steps into a single action.
 
 ## Key features

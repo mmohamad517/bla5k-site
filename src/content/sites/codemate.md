@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CodeMate?
-    a: CodeMate AI is a VS Code plugin that translates natural‑language prompts into code, providing pull‑request reviews, bug and security analysis, refactoring, debugging, optimization, and documentation generation. It supports GitHub, Bitbucket, GitLab, Azure DevOps, and runs locally for secure, scalable operation.  That is the core of what CodeMate does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CodeMate AI is a VS Code plugin that translates natural‑language prompts into code, providing pull‑request reviews, bug and security analysis, refactoring, debugging, optimization, and documentation generation. It supports GitHub, Bitbucket, GitLab, Azure DevOps, and runs locally for secure, scalable operation. That is the core of what CodeMate does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CodeMate free?
     a: Yes — CodeMate is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with CodeMate?

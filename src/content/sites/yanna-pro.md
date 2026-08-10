@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Yanna.pro?
-    a: Yanna.pro is an AI-based legal document automation platform offering over 10,000 templates for efficient creation of contracts and demand letters. It features AI-assisted generation, e-signature integration, and API support for seamless workflow management.  That is the core of what Yanna.pro does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Yanna.pro is an AI-based legal document automation platform offering over 10,000 templates for efficient creation of contracts and demand letters. It features AI-assisted generation, e-signature integration, and API support for seamless workflow management. That is the core of what Yanna.pro does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Yanna.pro free?
     a: Yanna.pro uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Yanna.pro?

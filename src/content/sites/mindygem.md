@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MindyGem?
-    a: MindyGem automates the creation of product documents, user stories, and technical specs from brief inputs or UI mockups, saves drafting time, stores artifacts in a searchable knowledge base with collaboration tools, and integrates with Jira and Swagger. AI Assistant Free That is the core of what MindyGem does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: MindyGem automates the creation of product documents, user stories, and technical specs from brief inputs or UI mockups, saves drafting time, stores artifacts in a searchable knowledge base with collaboration tools, and integrates with Jira and Swagger. That is the core of what MindyGem does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MindyGem free?
     a: Yes — MindyGem is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with MindyGem?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like MindyGem ma
 
 ## What is MindyGem?
 
-MindyGem automates the creation of product documents, user stories, and technical specs from brief inputs or UI mockups, saves drafting time, stores artifacts in a searchable knowledge base with collaboration tools, and integrates with Jira and Swagger. AI Assistant Free
-
+MindyGem automates the creation of product documents, user stories, and technical specs from brief inputs or UI mockups, saves drafting time, stores artifacts in a searchable knowledge base with collaboration tools, and integrates with Jira and Swagger.
 In short, MindyGem is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one capability of MindyGem frequently saves users from juggling several separate steps.
 
 ## Key features

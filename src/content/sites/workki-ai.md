@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Workki AI?
-    a: Workki AI is a web platform that uses AI to detect fake news and fact‑check academic papers, corporate documents, and news articles. It scans for bias, verifies source credibility, and delivers detailed reliability reports, supporting team collaboration with GDPR‑compliant handling. AI Assistant Free That is the core of what Workki AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Workki AI is a web platform that uses AI to detect fake news and fact‑check academic papers, corporate documents, and news articles. It scans for bias, verifies source credibility, and delivers detailed reliability reports, supporting team collaboration with GDPR‑compliant handling. That is the core of what Workki AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Workki AI free?
     a: Yes — Workki AI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Workki AI?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Workki AI e
 
 ## What is Workki AI?
 
-Workki AI is a web platform that uses AI to detect fake news and fact‑check academic papers, corporate documents, and news articles. It scans for bias, verifies source credibility, and delivers detailed reliability reports, supporting team collaboration with GDPR‑compliant handling. AI Assistant Free
-
+Workki AI is a web platform that uses AI to detect fake news and fact‑check academic papers, corporate documents, and news articles. It scans for bias, verifies source credibility, and delivers detailed reliability reports, supporting team collaboration with GDPR‑compliant handling.
 In short, Workki AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of Workki AI replaces several steps they used to do by hand.
 
 ## Key features

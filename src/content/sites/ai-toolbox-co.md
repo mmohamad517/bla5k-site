@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Toolbox?
-    a: AI Toolbox is a Chrome extension that organizes AI conversations from ChatGPT, Gemini, Claude, and Grok with folders, tags, and full-text cross-platform search. It offers bulk export, prompt management, live analytics, and deep links for efficient individual and team workflows.  That is the core of what AI Toolbox does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Toolbox is a Chrome extension that organizes AI conversations from ChatGPT, Gemini, Claude, and Grok with folders, tags, and full-text cross-platform search. It offers bulk export, prompt management, live analytics, and deep links for efficient individual and team workflows. That is the core of what AI Toolbox does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI Toolbox free?
     a: AI Toolbox uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $15/mo, check the official website — pricing changes often.
   - q: What can you do with AI Toolbox?

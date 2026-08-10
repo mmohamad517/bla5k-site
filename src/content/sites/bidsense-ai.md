@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is BidSense AI?
-    a: Bidsense AI streamlines government contracting with an AI-powered dashboard for contract analysis, smart partner matching, an interactive proposal management system, and advanced opportunity analysis tools to enhance bidding strategies and ensure regulatory compliance. Business Subscription That is the core of what BidSense AI does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Bidsense AI streamlines government contracting with an AI-powered dashboard for contract analysis, smart partner matching, an interactive proposal management system, and advanced opportunity analysis tools to enhance bidding strategies and ensure regulatory compliance. That is the core of what BidSense AI does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is BidSense AI free?
     a: BidSense AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with BidSense AI?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is BidSense AI?
 
-Bidsense AI streamlines government contracting with an AI-powered dashboard for contract analysis, smart partner matching, an interactive proposal management system, and advanced opportunity analysis tools to enhance bidding strategies and ensure regulatory compliance. Business Subscription
-
+Bidsense AI streamlines government contracting with an AI-powered dashboard for contract analysis, smart partner matching, an interactive proposal management system, and advanced opportunity analysis tools to enhance bidding strategies and ensure regulatory compliance.
 In short, BidSense AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. That single feature of BidSense AI alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

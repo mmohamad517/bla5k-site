@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is BooleanMaths Pulse?
-    a: Booleanmaths is a marketing attribution tool that consolidates data from multiple sources to track customer journeys and measure conversions. It offers advanced analytics and server-side tracking for improved data accuracy and enhanced return on ad spend.  That is the core of what BooleanMaths Pulse does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Booleanmaths is a marketing attribution tool that consolidates data from multiple sources to track customer journeys and measure conversions. It offers advanced analytics and server-side tracking for improved data accuracy and enhanced return on ad spend. That is the core of what BooleanMaths Pulse does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is BooleanMaths Pulse free?
     a: BooleanMaths Pulse uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $20/mo, check the official website — pricing changes often.
   - q: What can you do with BooleanMaths Pulse?

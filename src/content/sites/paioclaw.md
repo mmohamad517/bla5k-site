@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PaioClaw?
-    a: "PaioClaw is an AI platform for building and deploying persistent, autonomous agents (\"claws\") in under 60 seconds, featuring a marketplace of 2,000+ skills and integrations with 100+ models. It provides persistent memory, workflow automation, and full operational dashboards for monitoring token usage, costs, and revenue metrics. AI Agents Freemium - $15/mo That is the core of what PaioClaw does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "PaioClaw is an AI platform for building and deploying persistent, autonomous agents (\"claws\") in under 60 seconds, featuring a marketplace of 2,000+ skills and integrations with 100+ models. It provides persistent memory, workflow automation, and full operational dashboards for monitoring token usage, costs, and revenue metrics. That is the core of what PaioClaw does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is PaioClaw free?
     a: PaioClaw uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $15/mo, check the official website — pricing changes often.
   - q: What can you do with PaioClaw?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like PaioClaw earn th
 
 ## What is PaioClaw?
 
-PaioClaw is an AI platform for building and deploying persistent, autonomous agents (\"claws\") in under 60 seconds, featuring a marketplace of 2,000+ skills and integrations with 100+ models. It provides persistent memory, workflow automation, and full operational dashboards for monitoring token usage, costs, and revenue metrics. AI Agents Freemium - $15/mo
-
+PaioClaw is an AI platform for building and deploying persistent, autonomous agents (\"claws\") in under 60 seconds, featuring a marketplace of 2,000+ skills and integrations with 100+ models. It provides persistent memory, workflow automation, and full operational dashboards for monitoring token usage, costs, and revenue metrics.
 In short, PaioClaw is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For plenty of users, that one capability of PaioClaw replaces several steps they used to do by hand.
 
 ## Key features

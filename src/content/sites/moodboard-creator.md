@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Moodboard Creator?
-    a: Moodboard Creator is an AI tool that generates stunning moodboards based on your preferences, perfect for kick-starting design projects and sparking creativity. Say goodbye to creative blocks and hello to a world of design possibilities. Conceptual Generation Freemium That is the core of what Moodboard Creator does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Moodboard Creator is an AI tool that generates stunning moodboards based on your preferences, perfect for kick-starting design projects and sparking creativity. Say goodbye to creative blocks and hello to a world of design possibilities. That is the core of what Moodboard Creator does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Moodboard Creator free?
     a: Moodboard Creator uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Moodboard Creator?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Moodboard Creato
 
 ## What is Moodboard Creator?
 
-Moodboard Creator is an AI tool that generates stunning moodboards based on your preferences, perfect for kick-starting design projects and sparking creativity. Say goodbye to creative blocks and hello to a world of design possibilities. Conceptual Generation Freemium
-
+Moodboard Creator is an AI tool that generates stunning moodboards based on your preferences, perfect for kick-starting design projects and sparking creativity. Say goodbye to creative blocks and hello to a world of design possibilities.
 In short, Moodboard Creator is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. That one feature of Moodboard Creator often eliminates several smaller steps from the usual workflow.
 
 ## Key features

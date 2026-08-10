@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is GPT-Prompter?
-    a: GPT‑Prompter is a Chrome extension that brings GPT‑3/4 and ChatGPT API directly into any webpage. It highlights selected text for instant explanations, supports pre‑made and custom prompts, and streamlines drafting for researchers, writers, and developers.  That is the core of what GPT-Prompter does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: GPT‑Prompter is a Chrome extension that brings GPT‑3/4 and ChatGPT API directly into any webpage. It highlights selected text for instant explanations, supports pre‑made and custom prompts, and streamlines drafting for researchers, writers, and developers. That is the core of what GPT-Prompter does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is GPT-Prompter free?
     a: Yes — GPT-Prompter is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with GPT-Prompter?

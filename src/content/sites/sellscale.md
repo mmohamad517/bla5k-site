@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SellScale?
-    a: SellScale uses AI to build outbound pipelines, automating email outreach. It offers a grader to evaluate message quality, a generator for targeted emails, and integrates with lead and contact systems for automated sending and rep‑engagement tracking, boosting pipeline growth. Sales Freemium That is the core of what SellScale does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SellScale uses AI to build outbound pipelines, automating email outreach. It offers a grader to evaluate message quality, a generator for targeted emails, and integrates with lead and contact systems for automated sending and rep‑engagement tracking, boosting pipeline growth. That is the core of what SellScale does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SellScale free?
     a: SellScale uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with SellScale?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is SellScale?
 
-SellScale uses AI to build outbound pipelines, automating email outreach. It offers a grader to evaluate message quality, a generator for targeted emails, and integrates with lead and contact systems for automated sending and rep‑engagement tracking, boosting pipeline growth. Sales Freemium
-
+SellScale uses AI to build outbound pipelines, automating email outreach. It offers a grader to evaluate message quality, a generator for targeted emails, and integrates with lead and contact systems for automated sending and rep‑engagement tracking, boosting pipeline growth.
 In short, SellScale is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. That one feature of SellScale often eliminates several smaller steps from the usual workflow.
 
 ## Key features

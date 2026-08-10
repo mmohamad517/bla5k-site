@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is techtrust.ai?
-    a: Techtrust.ai lets early‑stage AI startups submit progress updates that are automatically verified and converted into investor‑ready credibility signals. Investors filter by field, industry, and stage, evaluating maturity, scalability, and readiness. Founders receive reminders, feedback, and reduced follow‑on risk. AI Assistant Freemium That is the core of what techtrust.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Techtrust.ai lets early‑stage AI startups submit progress updates that are automatically verified and converted into investor‑ready credibility signals. Investors filter by field, industry, and stage, evaluating maturity, scalability, and readiness. Founders receive reminders, feedback, and reduced follow‑on risk. That is the core of what techtrust.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is techtrust.ai free?
     a: techtrust.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with techtrust.ai?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like techtrust.a
 
 ## What is techtrust.ai?
 
-Techtrust.ai lets early‑stage AI startups submit progress updates that are automatically verified and converted into investor‑ready credibility signals. Investors filter by field, industry, and stage, evaluating maturity, scalability, and readiness. Founders receive reminders, feedback, and reduced follow‑on risk. AI Assistant Freemium
-
+Techtrust.ai lets early‑stage AI startups submit progress updates that are automatically verified and converted into investor‑ready credibility signals. Investors filter by field, industry, and stage, evaluating maturity, scalability, and readiness. Founders receive reminders, feedback, and reduced follow‑on risk.
 In short, techtrust.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of techtrust.ai replaces several steps they used to do by hand.
 
 ## Key features

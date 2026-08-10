@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Dynaboard AI?
-    a: Dynaboard AI is a suite of AI functionalities that automates UI generation, code generation, and code refactoring for custom software development using natural language commands. Code assistant Freemium That is the core of what Dynaboard AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Dynaboard AI is a suite of AI functionalities that automates UI generation, code generation, and code refactoring for custom software development using natural language commands. That is the core of what Dynaboard AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Dynaboard AI free?
     a: Dynaboard AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Dynaboard AI?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Dynaboard AI?
 
-Dynaboard AI is a suite of AI functionalities that automates UI generation, code generation, and code refactoring for custom software development using natural language commands. Code assistant Freemium
-
+Dynaboard AI is a suite of AI functionalities that automates UI generation, code generation, and code refactoring for custom software development using natural language commands.
 In short, Dynaboard AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users discover that this feature of Dynaboard AI alone covers what previously took multiple tools.
 
 ## Key features

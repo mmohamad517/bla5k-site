@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CommunityOne AI Discord Bot?
-    a: CommunityOne is a Discord AI bot that enhances community engagement through analytics tracking, a knowledge-based chatbot, personalized quests, growth strategies, and sentiment analysis, supporting community builders in creating interactive and dynamic spaces.  That is the core of what CommunityOne AI Discord Bot does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CommunityOne is a Discord AI bot that enhances community engagement through analytics tracking, a knowledge-based chatbot, personalized quests, growth strategies, and sentiment analysis, supporting community builders in creating interactive and dynamic spaces. That is the core of what CommunityOne AI Discord Bot does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CommunityOne AI Discord Bot free?
     a: CommunityOne AI Discord Bot uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with CommunityOne AI Discord Bot?

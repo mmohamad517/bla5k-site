@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ava PLS?
-    a: Ava is an open‑source desktop app that runs language models locally using llama.cpp, offering a GUI or headless mode. Built with Zig/C++ and SQLite, it enables rapid prototyping, privacy‑focused experimentation, and straightforward local deployment. AI Assistant Freemium That is the core of what Ava PLS does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ava is an open‑source desktop app that runs language models locally using llama.cpp, offering a GUI or headless mode. Built with Zig/C++ and SQLite, it enables rapid prototyping, privacy‑focused experimentation, and straightforward local deployment. That is the core of what Ava PLS does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ava PLS free?
     a: Ava PLS uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Ava PLS?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Ava PLS mat
 
 ## What is Ava PLS?
 
-Ava is an open‑source desktop app that runs language models locally using llama.cpp, offering a GUI or headless mode. Built with Zig/C++ and SQLite, it enables rapid prototyping, privacy‑focused experimentation, and straightforward local deployment. AI Assistant Freemium
-
+Ava is an open‑source desktop app that runs language models locally using llama.cpp, offering a GUI or headless mode. Built with Zig/C++ and SQLite, it enables rapid prototyping, privacy‑focused experimentation, and straightforward local deployment.
 In short, Ava PLS is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That single feature of Ava PLS alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

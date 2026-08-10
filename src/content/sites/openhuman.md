@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is OpenHuman?
-    a: OpenHuman is an open-source personal AI framework for private, on‑premises deployments and local model execution, providing an agent framework, prompt management, local speech (Whisper/Piper), integrations, Docker/one‑click deployment, and developer tooling. Personal assistant Free That is the core of what OpenHuman does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: OpenHuman is an open-source personal AI framework for private, on‑premises deployments and local model execution, providing an agent framework, prompt management, local speech (Whisper/Piper), integrations, Docker/one‑click deployment, and developer tooling. That is the core of what OpenHuman does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is OpenHuman free?
     a: Yes — OpenHuman is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with OpenHuman?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is OpenHuman?
 
-OpenHuman is an open-source personal AI framework for private, on‑premises deployments and local model execution, providing an agent framework, prompt management, local speech (Whisper/Piper), integrations, Docker/one‑click deployment, and developer tooling. Personal assistant Free
-
+OpenHuman is an open-source personal AI framework for private, on‑premises deployments and local model execution, providing an agent framework, prompt management, local speech (Whisper/Piper), integrations, Docker/one‑click deployment, and developer tooling.
 In short, OpenHuman is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one feature of OpenHuman often eliminates several smaller steps from the usual workflow.
 
 ## Key features

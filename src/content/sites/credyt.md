@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Credyt?
-    a: Credyt is a wallet-native real-time billing engine for AI products that applies usage-based, event- and dimensional pricing, records token-level fees, manages multi-asset balances with auto top-ups, and provides APIs and dashboards for live billing, reconciliation, and profitability tracking. Billing Management Freemium That is the core of what Credyt does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Credyt is a wallet-native real-time billing engine for AI products that applies usage-based, event- and dimensional pricing, records token-level fees, manages multi-asset balances with auto top-ups, and provides APIs and dashboards for live billing, reconciliation, and profitability tracking. That is the core of what Credyt does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Credyt free?
     a: Credyt uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Credyt?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Credyt
 
 ## What is Credyt?
 
-Credyt is a wallet-native real-time billing engine for AI products that applies usage-based, event- and dimensional pricing, records token-level fees, manages multi-asset balances with auto top-ups, and provides APIs and dashboards for live billing, reconciliation, and profitability tracking. Billing Management Freemium
-
+Credyt is a wallet-native real-time billing engine for AI products that applies usage-based, event- and dimensional pricing, records token-level fees, manages multi-asset balances with auto top-ups, and provides APIs and dashboards for live billing, reconciliation, and profitability tracking.
 In short, Credyt is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. That one capability of Credyt frequently saves users from juggling several separate steps.
 
 ## Key features

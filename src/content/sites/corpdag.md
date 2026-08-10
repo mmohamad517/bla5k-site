@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Corpdag?
-    a: Corpdaq uses AI to convert receipts and financial snapshots into structured data for quick analysis, guides SMB owners through project planning, scores company health with actionable insights, monitors funded projects, flags early risks, and connects users to banks and investors. Business planning Subscription That is the core of what Corpdag does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Corpdaq uses AI to convert receipts and financial snapshots into structured data for quick analysis, guides SMB owners through project planning, scores company health with actionable insights, monitors funded projects, flags early risks, and connects users to banks and investors. That is the core of what Corpdag does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Corpdag free?
     a: Corpdag is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Corpdag?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Corpdag?
 
-Corpdaq uses AI to convert receipts and financial snapshots into structured data for quick analysis, guides SMB owners through project planning, scores company health with actionable insights, monitors funded projects, flags early risks, and connects users to banks and investors. Business planning Subscription
-
+Corpdaq uses AI to convert receipts and financial snapshots into structured data for quick analysis, guides SMB owners through project planning, scores company health with actionable insights, monitors funded projects, flags early risks, and connects users to banks and investors.
 In short, Corpdag is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI planning without the manual grind. For a lot of people, that one function of Corpdag collapses multiple steps into a single action.
 
 ## Key features

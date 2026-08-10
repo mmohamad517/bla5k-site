@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Velociti?
-    a: Velociti is an AI operating system for product teams that automates discovery, builds a continuous context layer, generates canvases, problem and story maps, strategy themes and initiatives from prompts, syncs artifacts and converts initiatives into tickets, prototypes or PRDs. Project management Freemium - $159 That is the core of what Velociti does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Velociti is an AI operating system for product teams that automates discovery, builds a continuous context layer, generates canvases, problem and story maps, strategy themes and initiatives from prompts, syncs artifacts and converts initiatives into tickets, prototypes or PRDs. That is the core of what Velociti does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Velociti free?
     a: Velociti uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $159, check the official website — pricing changes often.
   - q: What can you do with Velociti?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Veloci
 
 ## What is Velociti?
 
-Velociti is an AI operating system for product teams that automates discovery, builds a continuous context layer, generates canvases, problem and story maps, strategy themes and initiatives from prompts, syncs artifacts and converts initiatives into tickets, prototypes or PRDs. Project management Freemium - $159
-
+Velociti is an AI operating system for product teams that automates discovery, builds a continuous context layer, generates canvases, problem and story maps, strategy themes and initiatives from prompts, syncs artifacts and converts initiatives into tickets, prototypes or PRDs.
 In short, Velociti is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. That single feature of Velociti alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

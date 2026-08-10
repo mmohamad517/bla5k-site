@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Pseudoface?
-    a: Pseudoface generates realistic masks that preserve facial authenticity for full‑body videos and images, enabling anonymous content creation. Users can edit masks, choose ethnicity settings, process batches up to 150 images or 15 minutes of video monthly, and keep full ownership. Character Design Subscription - $14.99/mo That is the core of what Pseudoface does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Pseudoface generates realistic masks that preserve facial authenticity for full‑body videos and images, enabling anonymous content creation. Users can edit masks, choose ethnicity settings, process batches up to 150 images or 15 minutes of video monthly, and keep full ownership. That is the core of what Pseudoface does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Pseudoface free?
     a: Pseudoface is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Pseudoface?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Pseudoface?
 
-Pseudoface generates realistic masks that preserve facial authenticity for full‑body videos and images, enabling anonymous content creation. Users can edit masks, choose ethnicity settings, process batches up to 150 images or 15 minutes of video monthly, and keep full ownership. Character Design Subscription - $14.99/mo
-
+Pseudoface generates realistic masks that preserve facial authenticity for full‑body videos and images, enabling anonymous content creation. Users can edit masks, choose ethnicity settings, process batches up to 150 images or 15 minutes of video monthly, and keep full ownership.
 In short, Pseudoface is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. For many, that single strength of Pseudoface is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

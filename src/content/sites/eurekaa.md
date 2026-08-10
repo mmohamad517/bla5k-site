@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Eurekaa?
-    a: Eurekaa is an AI platform that helps creators design, validate, and launch online courses and books. It aggregates marketplace data, analyzes audience pain points, generates lesson outlines, and produces SCORM‑ready courses. Content Writing Subscription - $0.67/mo That is the core of what Eurekaa does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Eurekaa is an AI platform that helps creators design, validate, and launch online courses and books. It aggregates marketplace data, analyzes audience pain points, generates lesson outlines, and produces SCORM‑ready courses. That is the core of what Eurekaa does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Eurekaa free?
     a: Eurekaa is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Eurekaa?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Eurekaa?
 
-Eurekaa is an AI platform that helps creators design, validate, and launch online courses and books. It aggregates marketplace data, analyzes audience pain points, generates lesson outlines, and produces SCORM‑ready courses. Content Writing Subscription - $0.67/mo
-
+Eurekaa is an AI platform that helps creators design, validate, and launch online courses and books. It aggregates marketplace data, analyzes audience pain points, generates lesson outlines, and produces SCORM‑ready courses.
 In short, Eurekaa is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. That one feature of Eurekaa often eliminates several smaller steps from the usual workflow.
 
 ## Key features

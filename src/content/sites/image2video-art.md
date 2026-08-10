@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is image2video.art?
-    a: image2video.art is an AI tool that transforms static photos into dynamic videos with audio sync, multi-shot sequencing, and subject consistency across frames. It supports multiple models like Seedance 2.0, VEO 3.1, and Sora 2, offering output up to 4K resolution and various export formats. Animation Generation Freemium - $39.9/mo That is the core of what image2video.art does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: image2video.art is an AI tool that transforms static photos into dynamic videos with audio sync, multi-shot sequencing, and subject consistency across frames. It supports multiple models like Seedance 2.0, VEO 3.1, and Sora 2, offering output up to 4K resolution and various export formats. That is the core of what image2video.art does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is image2video.art free?
     a: image2video.art uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $39.9/mo, check the official website — pricing changes often.
   - q: What can you do with image2video.art?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is image2video.art?
 
-image2video.art is an AI tool that transforms static photos into dynamic videos with audio sync, multi-shot sequencing, and subject consistency across frames. It supports multiple models like Seedance 2.0, VEO 3.1, and Sora 2, offering output up to 4K resolution and various export formats. Animation Generation Freemium - $39.9/mo
-
+image2video.art is an AI tool that transforms static photos into dynamic videos with audio sync, multi-shot sequencing, and subject consistency across frames. It supports multiple models like Seedance 2.0, VEO 3.1, and Sora 2, offering output up to 4K resolution and various export formats.
 In short, image2video.art is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. That one feature of image2video.art often eliminates several smaller steps from the usual workflow.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Blaze Designer?
-    a: Blaze is an AI-driven content creation tool that generates personalized social media, blog posts, and newsletters efficiently. It supports real-time collaboration, SEO optimization, and integrates with platforms for automated publishing, accommodating over 40 languages.  That is the core of what Blaze Designer does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Blaze is an AI-driven content creation tool that generates personalized social media, blog posts, and newsletters efficiently. It supports real-time collaboration, SEO optimization, and integrates with platforms for automated publishing, accommodating over 40 languages. That is the core of what Blaze Designer does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Blaze Designer free?
     a: Blaze Designer uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Blaze Designer?

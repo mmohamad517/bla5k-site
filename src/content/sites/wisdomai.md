@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is WisdomAI?
-    a: WisdomAI curates daily 5‑minute summaries of top insights from over 100 creators across YouTube, podcasts, and social media. It filters content by quality metrics, presents actionable tactics, and delivers the digest via email for quick implementation.  That is the core of what WisdomAI does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: WisdomAI curates daily 5‑minute summaries of top insights from over 100 creators across YouTube, podcasts, and social media. It filters content by quality metrics, presents actionable tactics, and delivers the digest via email for quick implementation. That is the core of what WisdomAI does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is WisdomAI free?
     a: WisdomAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $8/mo, check the official website — pricing changes often.
   - q: What can you do with WisdomAI?

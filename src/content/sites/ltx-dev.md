@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is LTX.dev?
-    a: LTX.dev is an AI video generation platform offering real-time text-to-video and image-to-video capabilities via the LTX 2.3 model and a multi-model ecosystem. It supports multimodal inputs, editing functions, and synchronized audio with lip-sync for rapid prototyping and production. Vector Generation Paid - $9.9 That is the core of what LTX.dev does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: LTX.dev is an AI video generation platform offering real-time text-to-video and image-to-video capabilities via the LTX 2.3 model and a multi-model ecosystem. It supports multimodal inputs, editing functions, and synchronized audio with lip-sync for rapid prototyping and production. That is the core of what LTX.dev does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is LTX.dev free?
     a: LTX.dev is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with LTX.dev?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is LTX.dev?
 
-LTX.dev is an AI video generation platform offering real-time text-to-video and image-to-video capabilities via the LTX 2.3 model and a multi-model ecosystem. It supports multimodal inputs, editing functions, and synchronized audio with lip-sync for rapid prototyping and production. Vector Generation Paid - $9.9
-
+LTX.dev is an AI video generation platform offering real-time text-to-video and image-to-video capabilities via the LTX 2.3 model and a multi-model ecosystem. It supports multimodal inputs, editing functions, and synchronized audio with lip-sync for rapid prototyping and production.
 In short, LTX.dev is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. For plenty of users, that one capability of LTX.dev replaces several steps they used to do by hand.
 
 ## Key features

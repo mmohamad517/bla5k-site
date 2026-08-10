@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Endgame 2.0?
-    a: Endgame is an AI tool for sales professionals that streamlines account research and planning by aggregating data from multiple sources. It features automated briefing generation and activity tracking, enhancing relationship building and engagement with stakeholders. Sales Freemium That is the core of what Endgame 2.0 does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Endgame is an AI tool for sales professionals that streamlines account research and planning by aggregating data from multiple sources. It features automated briefing generation and activity tracking, enhancing relationship building and engagement with stakeholders. That is the core of what Endgame 2.0 does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Endgame 2.0 free?
     a: Endgame 2.0 uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Endgame 2.0?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Endgam
 
 ## What is Endgame 2.0?
 
-Endgame is an AI tool for sales professionals that streamlines account research and planning by aggregating data from multiple sources. It features automated briefing generation and activity tracking, enhancing relationship building and engagement with stakeholders. Sales Freemium
-
+Endgame is an AI tool for sales professionals that streamlines account research and planning by aggregating data from multiple sources. It features automated briefing generation and activity tracking, enhancing relationship building and engagement with stakeholders.
 In short, Endgame 2.0 is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. That single feature of Endgame 2.0 alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

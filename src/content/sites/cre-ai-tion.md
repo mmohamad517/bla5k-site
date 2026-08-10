@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is cre[ai]tion?
-    a: Creaiton is a visual design platform that leverages AI to generate and refine designs, support real-time collaboration, and enable users to track creative iterations. It offers personalized palettes and seamless software integration for enhanced workflow. Conceptual Generation Free trial That is the core of what cre[ai]tion does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Creaiton is a visual design platform that leverages AI to generate and refine designs, support real-time collaboration, and enable users to track creative iterations. It offers personalized palettes and seamless software integration for enhanced workflow. That is the core of what cre[ai]tion does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is cre[ai]tion free?
     a: cre[ai]tion uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with cre[ai]tion?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is cre[ai]tion?
 
-Creaiton is a visual design platform that leverages AI to generate and refine designs, support real-time collaboration, and enable users to track creative iterations. It offers personalized palettes and seamless software integration for enhanced workflow. Conceptual Generation Free trial
-
+Creaiton is a visual design platform that leverages AI to generate and refine designs, support real-time collaboration, and enable users to track creative iterations. It offers personalized palettes and seamless software integration for enhanced workflow.
 In short, cre[ai]tion is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. That one feature of cre[ai]tion often eliminates several smaller steps from the usual workflow.
 
 ## Key features

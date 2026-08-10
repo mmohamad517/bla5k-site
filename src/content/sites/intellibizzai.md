@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is IntellibizzAI?
-    a: IntellibizzAI is an AI‑assisted branding platform that defines brand identity, builds conversion‑optimized websites, and supplies a structured content playbook, visibility calendar, and ongoing performance updates for founders and boutique brands. Content creation Subscription - $497/mo That is the core of what IntellibizzAI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: IntellibizzAI is an AI‑assisted branding platform that defines brand identity, builds conversion‑optimized websites, and supplies a structured content playbook, visibility calendar, and ongoing performance updates for founders and boutique brands. That is the core of what IntellibizzAI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is IntellibizzAI free?
     a: IntellibizzAI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with IntellibizzAI?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Intell
 
 ## What is IntellibizzAI?
 
-IntellibizzAI is an AI‑assisted branding platform that defines brand identity, builds conversion‑optimized websites, and supplies a structured content playbook, visibility calendar, and ongoing performance updates for founders and boutique brands. Content creation Subscription - $497/mo
-
+IntellibizzAI is an AI‑assisted branding platform that defines brand identity, builds conversion‑optimized websites, and supplies a structured content playbook, visibility calendar, and ongoing performance updates for founders and boutique brands.
 In short, IntellibizzAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. That one capability of IntellibizzAI frequently saves users from juggling several separate steps.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SmythOS?
-    a: Smythos is an AI agent creation platform that allows users to build and deploy agents effortlessly using templates and a drag-and-drop interface, supporting various automation needs and seamless integration with popular AI models and APIs. AI Agents Free trial - $2 That is the core of what SmythOS does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Smythos is an AI agent creation platform that allows users to build and deploy agents effortlessly using templates and a drag-and-drop interface, supporting various automation needs and seamless integration with popular AI models and APIs. That is the core of what SmythOS does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SmythOS free?
     a: SmythOS uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $2, check the official website — pricing changes often.
   - q: What can you do with SmythOS?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like SmythO
 
 ## What is SmythOS?
 
-Smythos is an AI agent creation platform that allows users to build and deploy agents effortlessly using templates and a drag-and-drop interface, supporting various automation needs and seamless integration with popular AI models and APIs. AI Agents Free trial - $2
-
+Smythos is an AI agent creation platform that allows users to build and deploy agents effortlessly using templates and a drag-and-drop interface, supporting various automation needs and seamless integration with popular AI models and APIs.
 In short, SmythOS is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users find that this one ability of SmythOS removes several tasks from their daily routine.
 
 ## Key features

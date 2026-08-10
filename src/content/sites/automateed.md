@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Automateed?
-    a: Automateed uses conversational AI to draft full books—up to 150+ pages—adding illustrations and covers. It exports PDFs, EPUBs, MOBIs, supports 100+ languages, offers editing, and a publishing marketplace with secure payouts.  That is the core of what Automateed does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Automateed uses conversational AI to draft full books—up to 150+ pages—adding illustrations and covers. It exports PDFs, EPUBs, MOBIs, supports 100+ languages, offers editing, and a publishing marketplace with secure payouts. That is the core of what Automateed does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Automateed free?
     a: Automateed is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Automateed?

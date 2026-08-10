@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ViNano AI?
-    a: ViNano AI is a browser-based creation suite for generating and editing images and videos from text prompts. It offers tools like inpainting, background removal, 4K upscaling, and character-consistent editing for fast, professional visual content. Art Generation Free trial - $5/mo That is the core of what ViNano AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ViNano AI is a browser-based creation suite for generating and editing images and videos from text prompts. It offers tools like inpainting, background removal, 4K upscaling, and character-consistent editing for fast, professional visual content. That is the core of what ViNano AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ViNano AI free?
     a: ViNano AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $5/mo, check the official website — pricing changes often.
   - q: What can you do with ViNano AI?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is ViNano AI?
 
-ViNano AI is a browser-based creation suite for generating and editing images and videos from text prompts. It offers tools like inpainting, background removal, 4K upscaling, and character-consistent editing for fast, professional visual content. Art Generation Free trial - $5/mo
-
+ViNano AI is a browser-based creation suite for generating and editing images and videos from text prompts. It offers tools like inpainting, background removal, 4K upscaling, and character-consistent editing for fast, professional visual content.
 In short, ViNano AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. That one capability of ViNano AI frequently saves users from juggling several separate steps.
 
 ## Key features

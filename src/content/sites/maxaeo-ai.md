@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MaxAEO?
-    a: maxaeo tracks brand visibility across major AI platforms (ChatGPT, Gemini, Perplexity, Claude, Copilot, Grok), reporting mention rates, recommendation positions, trends and heatmaps, plus sentiment, citation tracing, prompt research, competitive benchmarking and automated content optimization. Marketing Free trial That is the core of what MaxAEO does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: maxaeo tracks brand visibility across major AI platforms (ChatGPT, Gemini, Perplexity, Claude, Copilot, Grok), reporting mention rates, recommendation positions, trends and heatmaps, plus sentiment, citation tracing, prompt research, competitive benchmarking and automated content optimization. That is the core of what MaxAEO does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MaxAEO free?
     a: MaxAEO uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with MaxAEO?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like MaxAEO earn
 
 ## What is MaxAEO?
 
-maxaeo tracks brand visibility across major AI platforms (ChatGPT, Gemini, Perplexity, Claude, Copilot, Grok), reporting mention rates, recommendation positions, trends and heatmaps, plus sentiment, citation tracing, prompt research, competitive benchmarking and automated content optimization. Marketing Free trial
-
+maxaeo tracks brand visibility across major AI platforms (ChatGPT, Gemini, Perplexity, Claude, Copilot, Grok), reporting mention rates, recommendation positions, trends and heatmaps, plus sentiment, citation tracing, prompt research, competitive benchmarking and automated content optimization.
 In short, MaxAEO is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many, that single strength of MaxAEO is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

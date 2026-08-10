@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Superapp?
-    a: Superapp generates production-ready native Swift iPhone apps from plain-English descriptions, using AI to design screens, assemble Swift code, and guide App Store publishing—enabling non-developers to build prototypes, MVPs, and native App Store releases without manual coding. App Builder Subscription - $25/mo That is the core of what Superapp does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Superapp generates production-ready native Swift iPhone apps from plain-English descriptions, using AI to design screens, assemble Swift code, and guide App Store publishing—enabling non-developers to build prototypes, MVPs, and native App Store releases without manual coding. That is the core of what Superapp does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Superapp free?
     a: Superapp is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Superapp?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Superapp ma
 
 ## What is Superapp?
 
-Superapp generates production-ready native Swift iPhone apps from plain-English descriptions, using AI to design screens, assemble Swift code, and guide App Store publishing—enabling non-developers to build prototypes, MVPs, and native App Store releases without manual coding. App Builder Subscription - $25/mo
-
+Superapp generates production-ready native Swift iPhone apps from plain-English descriptions, using AI to design screens, assemble Swift code, and guide App Store publishing—enabling non-developers to build prototypes, MVPs, and native App Store releases without manual coding.
 In short, Superapp is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. Many users discover that this feature of Superapp alone covers what previously took multiple tools.
 
 ## Key features

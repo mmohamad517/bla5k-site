@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is iSwift.dev?
-    a: Build SwiftUI Based iOS Apps in Minutes AI streamlines app development for iPhone, iPad, Apple Watch, and Mac by rapidly generating SwiftUI code, offering templates and widgets to enhance usability, and integrating Google sign-in for user engagement. App Builder Subscription That is the core of what iSwift.dev does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Build SwiftUI Based iOS Apps in Minutes AI streamlines app development for iPhone, iPad, Apple Watch, and Mac by rapidly generating SwiftUI code, offering templates and widgets to enhance usability, and integrating Google sign-in for user engagement. That is the core of what iSwift.dev does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is iSwift.dev free?
     a: iSwift.dev is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with iSwift.dev?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is iSwift.dev?
 
-Build SwiftUI Based iOS Apps in Minutes AI streamlines app development for iPhone, iPad, Apple Watch, and Mac by rapidly generating SwiftUI code, offering templates and widgets to enhance usability, and integrating Google sign-in for user engagement. App Builder Subscription
-
+Build SwiftUI Based iOS Apps in Minutes AI streamlines app development for iPhone, iPad, Apple Watch, and Mac by rapidly generating SwiftUI code, offering templates and widgets to enhance usability, and integrating Google sign-in for user engagement.
 In short, iSwift.dev is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. That one feature of iSwift.dev often eliminates several smaller steps from the usual workflow.
 
 ## Key features

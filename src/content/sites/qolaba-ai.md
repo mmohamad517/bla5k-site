@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Qolaba AI?
-    a: Qolaba AI Studio is a powerful generative AI platform for content creators, designers, and businesses, offering AI-driven text generation, image creation, and voice synthesis. It supports multiple AI models, custom AI agents, and workflow automation to enhance creativity and productivity.  That is the core of what Qolaba AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Qolaba AI Studio is a powerful generative AI platform for content creators, designers, and businesses, offering AI-driven text generation, image creation, and voice synthesis. It supports multiple AI models, custom AI agents, and workflow automation to enhance creativity and productivity. That is the core of what Qolaba AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Qolaba AI free?
     a: Qolaba AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9.99/mo, check the official website — pricing changes often.
   - q: What can you do with Qolaba AI?

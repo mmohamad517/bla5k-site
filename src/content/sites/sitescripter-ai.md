@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SiteScripter AI?
-    a: SiteScripter AI is a Chrome extension that automates web tasks—auto‑filling forms, summarizing pages, and providing a chat interface. It offers command templates for social posts, emails, and proposals, boosting productivity for marketers, creators, and professionals. Communication Automation Paid That is the core of what SiteScripter AI does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SiteScripter AI is a Chrome extension that automates web tasks—auto‑filling forms, summarizing pages, and providing a chat interface. It offers command templates for social posts, emails, and proposals, boosting productivity for marketers, creators, and professionals. That is the core of what SiteScripter AI does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SiteScripter AI free?
     a: SiteScripter AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with SiteScripter AI?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is SiteScripter AI?
 
-SiteScripter AI is a Chrome extension that automates web tasks—auto‑filling forms, summarizing pages, and providing a chat interface. It offers command templates for social posts, emails, and proposals, boosting productivity for marketers, creators, and professionals. Communication Automation Paid
-
+SiteScripter AI is a Chrome extension that automates web tasks—auto‑filling forms, summarizing pages, and providing a chat interface. It offers command templates for social posts, emails, and proposals, boosting productivity for marketers, creators, and professionals.
 In short, SiteScripter AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. That one capability of SiteScripter AI frequently saves users from juggling several separate steps.
 
 ## Key features

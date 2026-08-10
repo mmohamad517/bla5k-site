@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Leader.net?
-    a: Leader CRM automates lead capture and contact enrichment from calls, messages and calendar events, extracting caller details, social profiles and recent news. In-call actions, scheduling and proposal automations, integrations and AI insights streamline follow-ups and prioritize leads. Sales Free trial That is the core of what Leader.net does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Leader CRM automates lead capture and contact enrichment from calls, messages and calendar events, extracting caller details, social profiles and recent news. In-call actions, scheduling and proposal automations, integrations and AI insights streamline follow-ups and prioritize leads. That is the core of what Leader.net does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Leader.net free?
     a: Leader.net uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Leader.net?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Leader.net?
 
-Leader CRM automates lead capture and contact enrichment from calls, messages and calendar events, extracting caller details, social profiles and recent news. In-call actions, scheduling and proposal automations, integrations and AI insights streamline follow-ups and prioritize leads. Sales Free trial
-
+Leader CRM automates lead capture and contact enrichment from calls, messages and calendar events, extracting caller details, social profiles and recent news. In-call actions, scheduling and proposal automations, integrations and AI insights streamline follow-ups and prioritize leads.
 In short, Leader.net is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For many, that single strength of Leader.net is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

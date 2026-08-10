@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Instantgen ai?
-    a: Instantgen AI offers AI‑powered generators for text and images across marketing channels. It produces platform‑specific social media copy, e‑commerce product descriptions, and product‑email drafts, boosting content production speed while maintaining consistent formatting. Digital Marketing Free That is the core of what Instantgen ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Instantgen AI offers AI‑powered generators for text and images across marketing channels. It produces platform‑specific social media copy, e‑commerce product descriptions, and product‑email drafts, boosting content production speed while maintaining consistent formatting. That is the core of what Instantgen ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Instantgen ai free?
     a: Yes — Instantgen ai is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Instantgen ai?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Instan
 
 ## What is Instantgen ai?
 
-Instantgen AI offers AI‑powered generators for text and images across marketing channels. It produces platform‑specific social media copy, e‑commerce product descriptions, and product‑email drafts, boosting content production speed while maintaining consistent formatting. Digital Marketing Free
-
+Instantgen AI offers AI‑powered generators for text and images across marketing channels. It produces platform‑specific social media copy, e‑commerce product descriptions, and product‑email drafts, boosting content production speed while maintaining consistent formatting.
 In short, Instantgen ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. Many users discover that this feature of Instantgen ai alone covers what previously took multiple tools.
 
 ## Key features

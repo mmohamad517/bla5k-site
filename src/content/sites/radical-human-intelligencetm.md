@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Radical Human Intelligence™?
-    a: Radical Human Intelligence™ is an AI tool that employs a 3 R methodology (empathy, vulnerability, authentic investment) to enhance stakeholder connections for businesses. It promotes trust, innovation, and resilience in organizations by fostering an adaptable business culture. Human resources Subscription That is the core of what Radical Human Intelligence™ does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Radical Human Intelligence™ is an AI tool that employs a 3 R methodology (empathy, vulnerability, authentic investment) to enhance stakeholder connections for businesses. It promotes trust, innovation, and resilience in organizations by fostering an adaptable business culture. That is the core of what Radical Human Intelligence™ does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Radical Human Intelligence™ free?
     a: Radical Human Intelligence™ is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Radical Human Intelligence™?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Radical Human In
 
 ## What is Radical Human Intelligence™?
 
-Radical Human Intelligence™ is an AI tool that employs a 3 R methodology (empathy, vulnerability, authentic investment) to enhance stakeholder connections for businesses. It promotes trust, innovation, and resilience in organizations by fostering an adaptable business culture. Human resources Subscription
-
+Radical Human Intelligence™ is an AI tool that employs a 3 R methodology (empathy, vulnerability, authentic investment) to enhance stakeholder connections for businesses. It promotes trust, innovation, and resilience in organizations by fostering an adaptable business culture.
 In short, Radical Human Intelligence™ is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. That one capability of Radical Human Intelligence™ frequently saves users from juggling several separate steps.
 
 ## Key features

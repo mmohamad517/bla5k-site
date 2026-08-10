@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Chattie?
-    a: Chattie lets web owners embed ChatGPT into their sites, training bots on custom PDFs, DOCX, CSV, etc., while auto‑generating prompts. A CSS theme editor and live preview match site design, and analytics track usage. Chatbot builder Subscription - $29/mo That is the core of what Chattie does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Chattie lets web owners embed ChatGPT into their sites, training bots on custom PDFs, DOCX, CSV, etc., while auto‑generating prompts. A CSS theme editor and live preview match site design, and analytics track usage. That is the core of what Chattie does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Chattie free?
     a: Chattie is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Chattie?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Chatti
 
 ## What is Chattie?
 
-Chattie lets web owners embed ChatGPT into their sites, training bots on custom PDFs, DOCX, CSV, etc., while auto‑generating prompts. A CSS theme editor and live preview match site design, and analytics track usage. Chatbot builder Subscription - $29/mo
-
+Chattie lets web owners embed ChatGPT into their sites, training bots on custom PDFs, DOCX, CSV, etc., while auto‑generating prompts. A CSS theme editor and live preview match site design, and analytics track usage.
 In short, Chattie is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. Many users find that this one ability of Chattie removes several tasks from their daily routine.
 
 ## Key features

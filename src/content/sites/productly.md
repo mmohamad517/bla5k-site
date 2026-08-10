@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Productly?
-    a: Productly imports Amazon and AliExpress listings into Shopify, auto‑generates AI‑written product pages, mobile‑first themes, and branding. It adds multilingual copy, upsells, and conversion blocks, allowing quick review and publishing without coding. Copywriting Subscription - $49.99/mo That is the core of what Productly does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Productly imports Amazon and AliExpress listings into Shopify, auto‑generates AI‑written product pages, mobile‑first themes, and branding. It adds multilingual copy, upsells, and conversion blocks, allowing quick review and publishing without coding. That is the core of what Productly does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Productly free?
     a: Productly is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Productly?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Productly?
 
-Productly imports Amazon and AliExpress listings into Shopify, auto‑generates AI‑written product pages, mobile‑first themes, and branding. It adds multilingual copy, upsells, and conversion blocks, allowing quick review and publishing without coding. Copywriting Subscription - $49.99/mo
-
+Productly imports Amazon and AliExpress listings into Shopify, auto‑generates AI‑written product pages, mobile‑first themes, and branding. It adds multilingual copy, upsells, and conversion blocks, allowing quick review and publishing without coding.
 In short, Productly is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. That one feature of Productly often eliminates several smaller steps from the usual workflow.
 
 ## Key features

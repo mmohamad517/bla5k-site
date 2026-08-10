@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Yonderhq.com?
-    a: Yonder automates tourism operator interactions with a 24/7 AI voice agent, instant chatbot, review‑generation, and personalized recommendation engine. It syncs with booking systems for real‑time data and unified reporting, and facilitates upselling and enhanced customer satisfaction. Customer support Freemium - $75/mo That is the core of what Yonderhq.com does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Yonder automates tourism operator interactions with a 24/7 AI voice agent, instant chatbot, review‑generation, and personalized recommendation engine. It syncs with booking systems for real‑time data and unified reporting, and facilitates upselling and enhanced customer satisfaction. That is the core of what Yonderhq.com does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Yonderhq.com free?
     a: Yonderhq.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $75/mo, check the official website — pricing changes often.
   - q: What can you do with Yonderhq.com?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Yonderhq.com?
 
-Yonder automates tourism operator interactions with a 24/7 AI voice agent, instant chatbot, review‑generation, and personalized recommendation engine. It syncs with booking systems for real‑time data and unified reporting, and facilitates upselling and enhanced customer satisfaction. Customer support Freemium - $75/mo
-
+Yonder automates tourism operator interactions with a 24/7 AI voice agent, instant chatbot, review‑generation, and personalized recommendation engine. It syncs with booking systems for real‑time data and unified reporting, and facilitates upselling and enhanced customer satisfaction.
 In short, Yonderhq.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. That single feature of Yonderhq.com alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

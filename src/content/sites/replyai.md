@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ReplyAI?
-    a: AI Email Writer utilizes GPT-4 technology to accelerate email composition, offering customizable templates and smart suggestions for Gmail and Outlook. It allows users to adapt writing styles, improving productivity while maintaining effective communication for various contexts. Copywriting Freemium That is the core of what ReplyAI does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Email Writer utilizes GPT-4 technology to accelerate email composition, offering customizable templates and smart suggestions for Gmail and Outlook. It allows users to adapt writing styles, improving productivity while maintaining effective communication for various contexts. That is the core of what ReplyAI does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ReplyAI free?
     a: ReplyAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ReplyAI?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is ReplyAI?
 
-AI Email Writer utilizes GPT-4 technology to accelerate email composition, offering customizable templates and smart suggestions for Gmail and Outlook. It allows users to adapt writing styles, improving productivity while maintaining effective communication for various contexts. Copywriting Freemium
-
+AI Email Writer utilizes GPT-4 technology to accelerate email composition, offering customizable templates and smart suggestions for Gmail and Outlook. It allows users to adapt writing styles, improving productivity while maintaining effective communication for various contexts.
 In short, ReplyAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. That one capability of ReplyAI frequently saves users from juggling several separate steps.
 
 ## Key features

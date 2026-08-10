@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Edge?
-    a: Edge is an AI‑driven patent drafting platform that automates claims, descriptions, and background sections, generates publication‑ready figures, parses inventor disclosures, and adapts filings for USPTO and EPO. It prioritizes security, compliance, and multi‑language support. Communication Automation Freemium That is the core of what Edge does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Edge is an AI‑driven patent drafting platform that automates claims, descriptions, and background sections, generates publication‑ready figures, parses inventor disclosures, and adapts filings for USPTO and EPO. It prioritizes security, compliance, and multi‑language support. That is the core of what Edge does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Edge free?
     a: Edge uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Edge?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Edge?
 
-Edge is an AI‑driven patent drafting platform that automates claims, descriptions, and background sections, generates publication‑ready figures, parses inventor disclosures, and adapts filings for USPTO and EPO. It prioritizes security, compliance, and multi‑language support. Communication Automation Freemium
-
+Edge is an AI‑driven patent drafting platform that automates claims, descriptions, and background sections, generates publication‑ready figures, parses inventor disclosures, and adapts filings for USPTO and EPO. It prioritizes security, compliance, and multi‑language support.
 In short, Edge is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. For plenty of users, that one capability of Edge replaces several steps they used to do by hand.
 
 ## Key features

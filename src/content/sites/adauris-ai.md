@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Adauris AI?
-    a: Adauris converts written content into podcast-ready audio using automated script generation and multilingual TTS (50+ voices), offers distribution and embeddable players, listener analytics and CRM integrations for mapping engagement, plus personalized audio snippets for outreach. Audio generation Freemium That is the core of what Adauris AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Adauris converts written content into podcast-ready audio using automated script generation and multilingual TTS (50+ voices), offers distribution and embeddable players, listener analytics and CRM integrations for mapping engagement, plus personalized audio snippets for outreach. That is the core of what Adauris AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Adauris AI free?
     a: Adauris AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Adauris AI?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Adauri
 
 ## What is Adauris AI?
 
-Adauris converts written content into podcast-ready audio using automated script generation and multilingual TTS (50+ voices), offers distribution and embeddable players, listener analytics and CRM integrations for mapping engagement, plus personalized audio snippets for outreach. Audio generation Freemium
-
+Adauris converts written content into podcast-ready audio using automated script generation and multilingual TTS (50+ voices), offers distribution and embeddable players, listener analytics and CRM integrations for mapping engagement, plus personalized audio snippets for outreach.
 In short, Adauris AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. For a lot of people, that one function of Adauris AI collapses multiple steps into a single action.
 
 ## Key features

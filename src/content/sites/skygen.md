@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Skygen?
-    a: Skygen is an AI task automation platform that uses a visual editor to build and schedule workflows across systems and teams. It centralizes data and actions with extensive integrations, analytics, and governance tools for operational efficiency.  That is the core of what Skygen does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Skygen is an AI task automation platform that uses a visual editor to build and schedule workflows across systems and teams. It centralizes data and actions with extensive integrations, analytics, and governance tools for operational efficiency. That is the core of what Skygen does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Skygen free?
     a: Skygen is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Skygen?

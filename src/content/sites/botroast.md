@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Botroast?
-    a: Botroast.io delivers instant AI‑generated roast reports for landing pages and visual assets, evaluating layout, hierarchy, typography, color, spacing, depth, and fine details. It aggregates community feedback, supports batch roasts, and provides actionable design insights. Conceptual Generation Paid That is the core of what Botroast does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Botroast.io delivers instant AI‑generated roast reports for landing pages and visual assets, evaluating layout, hierarchy, typography, color, spacing, depth, and fine details. It aggregates community feedback, supports batch roasts, and provides actionable design insights. That is the core of what Botroast does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Botroast free?
     a: Botroast is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Botroast?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Botroast ea
 
 ## What is Botroast?
 
-Botroast.io delivers instant AI‑generated roast reports for landing pages and visual assets, evaluating layout, hierarchy, typography, color, spacing, depth, and fine details. It aggregates community feedback, supports batch roasts, and provides actionable design insights. Conceptual Generation Paid
-
+Botroast.io delivers instant AI‑generated roast reports for landing pages and visual assets, evaluating layout, hierarchy, typography, color, spacing, depth, and fine details. It aggregates community feedback, supports batch roasts, and provides actionable design insights.
 In short, Botroast is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. That one feature of Botroast often eliminates several smaller steps from the usual workflow.
 
 ## Key features

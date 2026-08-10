@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ChatGPT Images?
-    a: OpenAI’s ChatGPT Images, powered by GPT Image 1.5, elevates creative workflows by offering rapid, precise image generation and editing directly within ChatGPT. It’s a versatile tool for visual content creation and design.  That is the core of what ChatGPT Images does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: OpenAI’s ChatGPT Images, powered by GPT Image 1.5, elevates creative workflows by offering rapid, precise image generation and editing directly within ChatGPT. It’s a versatile tool for visual content creation and design. That is the core of what ChatGPT Images does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ChatGPT Images free?
     a: ChatGPT Images uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ChatGPT Images?

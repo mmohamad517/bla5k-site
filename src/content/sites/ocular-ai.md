@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ocular AI?
-    a: Ocular AI unifies multimodal data from cloud, local, and external sources into a single catalog for search, versioning, and AI‑assisted labeling with human‑in‑the‑loop. It supports RLHF, GPU training pipelines, RESTful search API, and role‑based compliance controls. AI Assistant Freemium That is the core of what Ocular AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ocular AI unifies multimodal data from cloud, local, and external sources into a single catalog for search, versioning, and AI‑assisted labeling with human‑in‑the‑loop. It supports RLHF, GPU training pipelines, RESTful search API, and role‑based compliance controls. That is the core of what Ocular AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ocular AI free?
     a: Ocular AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Ocular AI?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Ocular AI earn t
 
 ## What is Ocular AI?
 
-Ocular AI unifies multimodal data from cloud, local, and external sources into a single catalog for search, versioning, and AI‑assisted labeling with human‑in‑the‑loop. It supports RLHF, GPU training pipelines, RESTful search API, and role‑based compliance controls. AI Assistant Freemium
-
+Ocular AI unifies multimodal data from cloud, local, and external sources into a single catalog for search, versioning, and AI‑assisted labeling with human‑in‑the‑loop. It supports RLHF, GPU training pipelines, RESTful search API, and role‑based compliance controls.
 In short, Ocular AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For a lot of people, that one function of Ocular AI collapses multiple steps into a single action.
 
 ## Key features

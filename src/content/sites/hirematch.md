@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Hirematch?
-    a: HireMatch AI automates resume screening by uploading a job description and resume batch, scoring candidates for fit, and producing a structured, ranked applicant list. Recruiters quickly view key details, enabling focus on top interviewees.  That is the core of what Hirematch does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: HireMatch AI automates resume screening by uploading a job description and resume batch, scoring candidates for fit, and producing a structured, ranked applicant list. Recruiters quickly view key details, enabling focus on top interviewees. That is the core of what Hirematch does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Hirematch free?
     a: Hirematch uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Hirematch?

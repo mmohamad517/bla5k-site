@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Hirebee.ai?
-    a: Hirebee is an applicant tracking system that automates recruitment workflows, distributes openings to 3,000+ global job boards, and integrates candidate sourcing. Machine‑learning screening reduces bias and shortens time‑to‑hire, while CRM, collaboration, analytics and customizable pipelines support all business sizes.  That is the core of what Hirebee.ai does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Hirebee is an applicant tracking system that automates recruitment workflows, distributes openings to 3,000+ global job boards, and integrates candidate sourcing. Machine‑learning screening reduces bias and shortens time‑to‑hire, while CRM, collaboration, analytics and customizable pipelines support all business sizes. That is the core of what Hirebee.ai does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Hirebee.ai free?
     a: Hirebee.ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Hirebee.ai?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Everyprompt?
-    a: Everyprompt is a web‑based playground for GPT models that supports testing, building, and deploying APIs with CI/CD, live dashboards, SQL conversion, automated code review tools, adjustable settings, folder organization, dataset management, and team collaboration. AI Assistant Freemium - $10/mo That is the core of what Everyprompt does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Everyprompt is a web‑based playground for GPT models that supports testing, building, and deploying APIs with CI/CD, live dashboards, SQL conversion, automated code review tools, adjustable settings, folder organization, dataset management, and team collaboration. That is the core of what Everyprompt does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Everyprompt free?
     a: Everyprompt uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $10/mo, check the official website — pricing changes often.
   - q: What can you do with Everyprompt?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Everyprompt?
 
-Everyprompt is a web‑based playground for GPT models that supports testing, building, and deploying APIs with CI/CD, live dashboards, SQL conversion, automated code review tools, adjustable settings, folder organization, dataset management, and team collaboration. AI Assistant Freemium - $10/mo
-
+Everyprompt is a web‑based playground for GPT models that supports testing, building, and deploying APIs with CI/CD, live dashboards, SQL conversion, automated code review tools, adjustable settings, folder organization, dataset management, and team collaboration.
 In short, Everyprompt is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users find that this one ability of Everyprompt removes several tasks from their daily routine.
 
 ## Key features

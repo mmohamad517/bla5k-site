@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is GPT Zero?
-    a: GPTZero AI Detector scans documents for potential AI-generated content, providing in-depth results on AI probabilities, vocabulary analysis, and hallucination detection, as well as plagiarism checking and authorship verification capabilities.  That is the core of what GPT Zero does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: GPTZero AI Detector scans documents for potential AI-generated content, providing in-depth results on AI probabilities, vocabulary analysis, and hallucination detection, as well as plagiarism checking and authorship verification capabilities. That is the core of what GPT Zero does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is GPT Zero free?
     a: GPT Zero uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $12/mo, check the official website — pricing changes often.
   - q: What can you do with GPT Zero?

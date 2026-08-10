@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ZBots?
-    a: ZBots is a 24/7 AI chatbot that can be embedded with a single line of code. It uses your site’s data to give brand‑aligned responses, handle lead capture, appointments, listings, troubleshooting, and e‑commerce queries, freeing staff to focus on sales.  That is the core of what ZBots does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ZBots is a 24/7 AI chatbot that can be embedded with a single line of code. It uses your site’s data to give brand‑aligned responses, handle lead capture, appointments, listings, troubleshooting, and e‑commerce queries, freeing staff to focus on sales. That is the core of what ZBots does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ZBots free?
     a: ZBots is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with ZBots?

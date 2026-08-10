@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Fontis?
-    a: Fontis.ai turns AI-generated images into on‑demand physical prints. Users choose from a gallery or create custom designs, preview them, and order canvases, posters, mugs, stickers, or puzzles, all printed in high resolution and shipped across the U.S.  That is the core of what Fontis does — ai print design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Fontis.ai turns AI-generated images into on‑demand physical prints. Users choose from a gallery or create custom designs, preview them, and order canvases, posters, mugs, stickers, or puzzles, all printed in high resolution and shipped across the U.S. That is the core of what Fontis does — ai print design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Fontis free?
     a: Fontis uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Fontis?

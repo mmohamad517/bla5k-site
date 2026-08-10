@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Cronbot.AI?
-    a: Cronbot is a no-code chatbot platform for websites and SaaS that enables embed deployment, multi-channel integrations, a built-in CRM with lead capture and alerts, conversation analytics, centralized bot management, human handoff, and training from PDFs, web content, or Notion. Chatbot builder Free trial - $10 That is the core of what Cronbot.AI does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Cronbot is a no-code chatbot platform for websites and SaaS that enables embed deployment, multi-channel integrations, a built-in CRM with lead capture and alerts, conversation analytics, centralized bot management, human handoff, and training from PDFs, web content, or Notion. That is the core of what Cronbot.AI does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Cronbot.AI free?
     a: Cronbot.AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $10, check the official website — pricing changes often.
   - q: What can you do with Cronbot.AI?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Cronbo
 
 ## What is Cronbot.AI?
 
-Cronbot is a no-code chatbot platform for websites and SaaS that enables embed deployment, multi-channel integrations, a built-in CRM with lead capture and alerts, conversation analytics, centralized bot management, human handoff, and training from PDFs, web content, or Notion. Chatbot builder Free trial - $10
-
+Cronbot is a no-code chatbot platform for websites and SaaS that enables embed deployment, multi-channel integrations, a built-in CRM with lead capture and alerts, conversation analytics, centralized bot management, human handoff, and training from PDFs, web content, or Notion.
 In short, Cronbot.AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For a lot of people, that one function of Cronbot.AI collapses multiple steps into a single action.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is InkAI?
-    a: Ink AI revolutionizes eBook creation by converting spoken words into fully designed eBooks and flipbooks seamlessly. Users enjoy 100% human-like content generation, 3D eCovers, and effortless publication on its marketplace and syndication to 50+ platforms, leveraging various sources like URLs and videos for simplified usage. Content Writing Freemium That is the core of what InkAI does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ink AI revolutionizes eBook creation by converting spoken words into fully designed eBooks and flipbooks seamlessly. Users enjoy 100% human-like content generation, 3D eCovers, and effortless publication on its marketplace and syndication to 50+ platforms, leveraging various sources like URLs and videos for simplified usage. That is the core of what InkAI does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is InkAI free?
     a: InkAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with InkAI?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like InkAI earn their
 
 ## What is InkAI?
 
-Ink AI revolutionizes eBook creation by converting spoken words into fully designed eBooks and flipbooks seamlessly. Users enjoy 100% human-like content generation, 3D eCovers, and effortless publication on its marketplace and syndication to 50+ platforms, leveraging various sources like URLs and videos for simplified usage. Content Writing Freemium
-
+Ink AI revolutionizes eBook creation by converting spoken words into fully designed eBooks and flipbooks seamlessly. Users enjoy 100% human-like content generation, 3D eCovers, and effortless publication on its marketplace and syndication to 50+ platforms, leveraging various sources like URLs and videos for simplified usage.
 In short, InkAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. Many users find that this one ability of InkAI removes several tasks from their daily routine.
 
 ## Key features

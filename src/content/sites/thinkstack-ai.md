@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is thinkstack.AI?
-    a: Thinkstack AI is a no‑code chatbot builder that uses GPT‑3.5/4 models to create custom assistants trained on company data via URLs, CSVs, Notion, etc. It includes conversational forms, automation workflows, human handoff, multi‑channel integrations, and analytics dashboards. Chatbot builder Freemium - $16/mo That is the core of what thinkstack.AI does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Thinkstack AI is a no‑code chatbot builder that uses GPT‑3.5/4 models to create custom assistants trained on company data via URLs, CSVs, Notion, etc. It includes conversational forms, automation workflows, human handoff, multi‑channel integrations, and analytics dashboards. That is the core of what thinkstack.AI does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is thinkstack.AI free?
     a: thinkstack.AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $16/mo, check the official website — pricing changes often.
   - q: What can you do with thinkstack.AI?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like thinks
 
 ## What is thinkstack.AI?
 
-Thinkstack AI is a no‑code chatbot builder that uses GPT‑3.5/4 models to create custom assistants trained on company data via URLs, CSVs, Notion, etc. It includes conversational forms, automation workflows, human handoff, multi‑channel integrations, and analytics dashboards. Chatbot builder Freemium - $16/mo
-
+Thinkstack AI is a no‑code chatbot builder that uses GPT‑3.5/4 models to create custom assistants trained on company data via URLs, CSVs, Notion, etc. It includes conversational forms, automation workflows, human handoff, multi‑channel integrations, and analytics dashboards.
 In short, thinkstack.AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For plenty of users, that one capability of thinkstack.AI replaces several steps they used to do by hand.
 
 ## Key features

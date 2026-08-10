@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Getgro.io?
-    a: Getgro centralizes live chat, email, WhatsApp, Instagram and other channels into one support dashboard. Its AI assistant, trained on your knowledge base, drafts responses, powers FAQs/chatbots, automates ticket workflows and produces thematic reports and insights. Customer support Free That is the core of what Getgro.io does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Getgro centralizes live chat, email, WhatsApp, Instagram and other channels into one support dashboard. Its AI assistant, trained on your knowledge base, drafts responses, powers FAQs/chatbots, automates ticket workflows and produces thematic reports and insights. That is the core of what Getgro.io does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Getgro.io free?
     a: Yes — Getgro.io is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Getgro.io?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Getgro
 
 ## What is Getgro.io?
 
-Getgro centralizes live chat, email, WhatsApp, Instagram and other channels into one support dashboard. Its AI assistant, trained on your knowledge base, drafts responses, powers FAQs/chatbots, automates ticket workflows and produces thematic reports and insights. Customer support Free
-
+Getgro centralizes live chat, email, WhatsApp, Instagram and other channels into one support dashboard. Its AI assistant, trained on your knowledge base, drafts responses, powers FAQs/chatbots, automates ticket workflows and produces thematic reports and insights.
 In short, Getgro.io is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. Many users find that this one ability of Getgro.io removes several tasks from their daily routine.
 
 ## Key features

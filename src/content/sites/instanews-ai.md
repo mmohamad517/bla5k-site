@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is InstaNews.ai?
-    a: Instanews.ai scans an Instagram feed, auto‑generates structured news or blog articles from images and captions using GPT, lets you preview and approve with one click, then publishes SEO‑friendly content to WordPress or DG1 without manual editing. Content Writing Freemium That is the core of what InstaNews.ai does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Instanews.ai scans an Instagram feed, auto‑generates structured news or blog articles from images and captions using GPT, lets you preview and approve with one click, then publishes SEO‑friendly content to WordPress or DG1 without manual editing. That is the core of what InstaNews.ai does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is InstaNews.ai free?
     a: InstaNews.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with InstaNews.ai?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like InstaNews.a
 
 ## What is InstaNews.ai?
 
-Instanews.ai scans an Instagram feed, auto‑generates structured news or blog articles from images and captions using GPT, lets you preview and approve with one click, then publishes SEO‑friendly content to WordPress or DG1 without manual editing. Content Writing Freemium
-
+Instanews.ai scans an Instagram feed, auto‑generates structured news or blog articles from images and captions using GPT, lets you preview and approve with one click, then publishes SEO‑friendly content to WordPress or DG1 without manual editing.
 In short, InstaNews.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. Many users find that this one ability of InstaNews.ai removes several tasks from their daily routine.
 
 ## Key features

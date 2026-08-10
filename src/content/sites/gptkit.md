@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is GPTKit?
-    a: Gptkit is an AI tool that detects and classifies human-written and machine-generated text using a multi-model approach with accuracy up to 93%.  That is the core of what GPTKit does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Gptkit is an AI tool that detects and classifies human-written and machine-generated text using a multi-model approach with accuracy up to 93%. That is the core of what GPTKit does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is GPTKit free?
     a: GPTKit uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with GPTKit?

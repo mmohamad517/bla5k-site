@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is KeywordSearch.com?
-    a: KeywordSearch analyzes business data to pinpoint high‑performing keywords and build targeted Google/YouTube ad audiences instantly. It expands keyword sets, offers competitor insights, and lets users generate video titles, tags, and descriptions for better discoverability.  That is the core of what KeywordSearch.com does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: KeywordSearch analyzes business data to pinpoint high‑performing keywords and build targeted Google/YouTube ad audiences instantly. It expands keyword sets, offers competitor insights, and lets users generate video titles, tags, and descriptions for better discoverability. That is the core of what KeywordSearch.com does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is KeywordSearch.com free?
     a: KeywordSearch.com is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with KeywordSearch.com?

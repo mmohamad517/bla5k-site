@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Starbuzz.ai?
-    a: Starbuzz.ai streamlines influencer marketing by recommending creators, auto‑generating briefs and budgets, tracking posts in real time, calculating instant engagement, and providing agency dashboards, Brand GPT assistance, and competitor insights. Marketing Freemium - $9.99/mo That is the core of what Starbuzz.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Starbuzz.ai streamlines influencer marketing by recommending creators, auto‑generating briefs and budgets, tracking posts in real time, calculating instant engagement, and providing agency dashboards, Brand GPT assistance, and competitor insights. That is the core of what Starbuzz.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Starbuzz.ai free?
     a: Starbuzz.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9.99/mo, check the official website — pricing changes often.
   - q: What can you do with Starbuzz.ai?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Starbuzz.ai?
 
-Starbuzz.ai streamlines influencer marketing by recommending creators, auto‑generating briefs and budgets, tracking posts in real time, calculating instant engagement, and providing agency dashboards, Brand GPT assistance, and competitor insights. Marketing Freemium - $9.99/mo
-
+Starbuzz.ai streamlines influencer marketing by recommending creators, auto‑generating briefs and budgets, tracking posts in real time, calculating instant engagement, and providing agency dashboards, Brand GPT assistance, and competitor insights.
 In short, Starbuzz.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. Many users discover that this feature of Starbuzz.ai alone covers what previously took multiple tools.
 
 ## Key features

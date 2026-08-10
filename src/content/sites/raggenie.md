@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is RAGGENIE?
-    a: Raggenie is a low-code platform for building conversational AI tools, allowing users to create custom generative applications by integrating various data sources. It supports collaboration and offers tutorials for running applications locally. Knowledge base management Freemium That is the core of what RAGGENIE does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Raggenie is a low-code platform for building conversational AI tools, allowing users to create custom generative applications by integrating various data sources. It supports collaboration and offers tutorials for running applications locally. That is the core of what RAGGENIE does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is RAGGENIE free?
     a: RAGGENIE uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with RAGGENIE?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is RAGGENIE?
 
-Raggenie is a low-code platform for building conversational AI tools, allowing users to create custom generative applications by integrating various data sources. It supports collaboration and offers tutorials for running applications locally. Knowledge base management Freemium
-
+Raggenie is a low-code platform for building conversational AI tools, allowing users to create custom generative applications by integrating various data sources. It supports collaboration and offers tutorials for running applications locally.
 In short, RAGGENIE is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many, that single strength of RAGGENIE is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

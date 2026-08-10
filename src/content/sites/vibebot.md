@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is VibeBot?
-    a: VibeBot is a multifunctional Discord bot that streamlines server management with AI-powered moderation, translation, and chatbot features alongside music playback and ticketing. It also enables community engagement through giveaways, customizable dashboards, and analytics tools. Chatbot builder Freemium - $5/mo That is the core of what VibeBot does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: VibeBot is a multifunctional Discord bot that streamlines server management with AI-powered moderation, translation, and chatbot features alongside music playback and ticketing. It also enables community engagement through giveaways, customizable dashboards, and analytics tools. That is the core of what VibeBot does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is VibeBot free?
     a: VibeBot uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $5/mo, check the official website — pricing changes often.
   - q: What can you do with VibeBot?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is VibeBot?
 
-VibeBot is a multifunctional Discord bot that streamlines server management with AI-powered moderation, translation, and chatbot features alongside music playback and ticketing. It also enables community engagement through giveaways, customizable dashboards, and analytics tools. Chatbot builder Freemium - $5/mo
-
+VibeBot is a multifunctional Discord bot that streamlines server management with AI-powered moderation, translation, and chatbot features alongside music playback and ticketing. It also enables community engagement through giveaways, customizable dashboards, and analytics tools.
 In short, VibeBot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. That one feature of VibeBot often eliminates several smaller steps from the usual workflow.
 
 ## Key features

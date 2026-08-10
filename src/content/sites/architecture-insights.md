@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Architecture insights?
-    a: Architecture Insights is a resource platform for architecture professionals, featuring over 1,500 articles on AI applications in design, social media strategies, and data privacy. It provides case studies and expert insights to keep users informed on industry trends. Architectural Design Free That is the core of what Architecture insights does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Architecture Insights is a resource platform for architecture professionals, featuring over 1,500 articles on AI applications in design, social media strategies, and data privacy. It provides case studies and expert insights to keep users informed on industry trends. That is the core of what Architecture insights does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Architecture insights free?
     a: Yes — Architecture insights is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Architecture insights?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Architecture insights?
 
-Architecture Insights is a resource platform for architecture professionals, featuring over 1,500 articles on AI applications in design, social media strategies, and data privacy. It provides case studies and expert insights to keep users informed on industry trends. Architectural Design Free
-
+Architecture Insights is a resource platform for architecture professionals, featuring over 1,500 articles on AI applications in design, social media strategies, and data privacy. It provides case studies and expert insights to keep users informed on industry trends.
 In short, Architecture insights is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. Many users find that this one ability of Architecture insights removes several tasks from their daily routine.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Yatter AI?
-    a: Yatter AI is a WhatsApp and Telegram chatbot powered by GPT‑4o, Gemini, and Llama 3. It accepts spoken and image inputs, converts voice notes to text, analyzes image content, streams responses, offers web searches, image creation, and PDF extraction/summarization without a separate app. Chat Paid That is the core of what Yatter AI does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Yatter AI is a WhatsApp and Telegram chatbot powered by GPT‑4o, Gemini, and Llama 3. It accepts spoken and image inputs, converts voice notes to text, analyzes image content, streams responses, offers web searches, image creation, and PDF extraction/summarization without a separate app. That is the core of what Yatter AI does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Yatter AI free?
     a: Yatter AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Yatter AI?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Yatter AI m
 
 ## What is Yatter AI?
 
-Yatter AI is a WhatsApp and Telegram chatbot powered by GPT‑4o, Gemini, and Llama 3. It accepts spoken and image inputs, converts voice notes to text, analyzes image content, streams responses, offers web searches, image creation, and PDF extraction/summarization without a separate app. Chat Paid
-
+Yatter AI is a WhatsApp and Telegram chatbot powered by GPT‑4o, Gemini, and Llama 3. It accepts spoken and image inputs, converts voice notes to text, analyzes image content, streams responses, offers web searches, image creation, and PDF extraction/summarization without a separate app.
 In short, Yatter AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For plenty of users, that one capability of Yatter AI replaces several steps they used to do by hand.
 
 ## Key features

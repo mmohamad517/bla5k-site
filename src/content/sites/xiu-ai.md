@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Xiu.ai?
-    a: Xiu.ai is an all-in-one AI platform encompassing text, voice, image, video, and code tools. Equipped with advanced models like Skylark 2 and GPT-3.5, it streamlines workflows, boosts content creation, and provides custom applications for tasks such as data analysis and transcription, catering to professionals seeking efficiency and innovation. AI Assistant Free trial - $25/mo That is the core of what Xiu.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Xiu.ai is an all-in-one AI platform encompassing text, voice, image, video, and code tools. Equipped with advanced models like Skylark 2 and GPT-3.5, it streamlines workflows, boosts content creation, and provides custom applications for tasks such as data analysis and transcription, catering to professionals seeking efficiency and innovation. That is the core of what Xiu.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Xiu.ai free?
     a: Xiu.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $25/mo, check the official website — pricing changes often.
   - q: What can you do with Xiu.ai?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Xiu.ai matt
 
 ## What is Xiu.ai?
 
-Xiu.ai is an all-in-one AI platform encompassing text, voice, image, video, and code tools. Equipped with advanced models like Skylark 2 and GPT-3.5, it streamlines workflows, boosts content creation, and provides custom applications for tasks such as data analysis and transcription, catering to professionals seeking efficiency and innovation. AI Assistant Free trial - $25/mo
-
+Xiu.ai is an all-in-one AI platform encompassing text, voice, image, video, and code tools. Equipped with advanced models like Skylark 2 and GPT-3.5, it streamlines workflows, boosts content creation, and provides custom applications for tasks such as data analysis and transcription, catering to professionals seeking efficiency and innovation.
 In short, Xiu.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many, that single strength of Xiu.ai is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

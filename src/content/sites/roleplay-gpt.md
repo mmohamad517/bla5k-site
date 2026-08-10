@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Roleplay GPT?
-    a: RoleplayGPT is an AI platform offering 100+ roleplay models built on OpenAI’s GPT, enabling multi‑character interactive storytelling across genres. It supports writers and hobbyists with a real‑time chat room and categorized settings. Customer support Freemium That is the core of what Roleplay GPT does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: RoleplayGPT is an AI platform offering 100+ roleplay models built on OpenAI’s GPT, enabling multi‑character interactive storytelling across genres. It supports writers and hobbyists with a real‑time chat room and categorized settings. That is the core of what Roleplay GPT does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Roleplay GPT free?
     a: Roleplay GPT uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Roleplay GPT?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Rolepl
 
 ## What is Roleplay GPT?
 
-RoleplayGPT is an AI platform offering 100+ roleplay models built on OpenAI’s GPT, enabling multi‑character interactive storytelling across genres. It supports writers and hobbyists with a real‑time chat room and categorized settings. Customer support Freemium
-
+RoleplayGPT is an AI platform offering 100+ roleplay models built on OpenAI’s GPT, enabling multi‑character interactive storytelling across genres. It supports writers and hobbyists with a real‑time chat room and categorized settings.
 In short, Roleplay GPT is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. Many users find that this one ability of Roleplay GPT removes several tasks from their daily routine.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Alex?
-    a: Alex is an AI coding assistant for Xcode, providing smart code completion, real-time error fixes, codebase searches, and voice input. It also features an image-to-code generator for Swift UI, ensuring secure, local code operation.  That is the core of what Alex does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Alex is an AI coding assistant for Xcode, providing smart code completion, real-time error fixes, codebase searches, and voice input. It also features an image-to-code generator for Swift UI, ensuring secure, local code operation. That is the core of what Alex does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Alex free?
     a: Alex uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $20/mo, check the official website — pricing changes often.
   - q: What can you do with Alex?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Click2Magic?
-    a: Click2Magic embeds live chat into websites and mobile apps, supporting text, audio, video, and file exchanges. Its AI chatbot triages tickets, surfaces qualified leads, and a single interface manages multiple properties. Mobile iOS/Android apps keep teams connected on the go. Customer support Freemium - $18/mo That is the core of what Click2Magic does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Click2Magic embeds live chat into websites and mobile apps, supporting text, audio, video, and file exchanges. Its AI chatbot triages tickets, surfaces qualified leads, and a single interface manages multiple properties. Mobile iOS/Android apps keep teams connected on the go. That is the core of what Click2Magic does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Click2Magic free?
     a: Click2Magic uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $18/mo, check the official website — pricing changes often.
   - q: What can you do with Click2Magic?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Click2Magic?
 
-Click2Magic embeds live chat into websites and mobile apps, supporting text, audio, video, and file exchanges. Its AI chatbot triages tickets, surfaces qualified leads, and a single interface manages multiple properties. Mobile iOS/Android apps keep teams connected on the go. Customer support Freemium - $18/mo
-
+Click2Magic embeds live chat into websites and mobile apps, supporting text, audio, video, and file exchanges. Its AI chatbot triages tickets, surfaces qualified leads, and a single interface manages multiple properties. Mobile iOS/Android apps keep teams connected on the go.
 In short, Click2Magic is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For a lot of people, that one function of Click2Magic collapses multiple steps into a single action.
 
 ## Key features

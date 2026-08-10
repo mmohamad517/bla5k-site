@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Quixl.ai?
-    a: Quixl is a no‑code platform for designing, deploying, and managing AI agents. It provides a Prompt Studio for versatile language models, a data pipeline with vector database support, and governance tools for tenants and subscriptions, enabling prototyping and workflow automation.  That is the core of what Quixl.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Quixl is a no‑code platform for designing, deploying, and managing AI agents. It provides a Prompt Studio for versatile language models, a data pipeline with vector database support, and governance tools for tenants and subscriptions, enabling prototyping and workflow automation. That is the core of what Quixl.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Quixl.ai free?
     a: Quixl.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Quixl.ai?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Yield Seeker?
-    a: Yield Seeker is an AI-driven platform that optimizes stablecoin yields by analyzing DeFi protocols in real-time. It offers flexible deposits (from $25 in USDC) with instant withdrawals and no hidden fees. Crypto and Web3 2 1 Freemium That is the core of what Yield Seeker does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Yield Seeker is an AI-driven platform that optimizes stablecoin yields by analyzing DeFi protocols in real-time. It offers flexible deposits (from $25 in USDC) with instant withdrawals and no hidden fees. That is the core of what Yield Seeker does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Yield Seeker free?
     a: Yield Seeker uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Yield Seeker?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Yield Seeke
 
 ## What is Yield Seeker?
 
-Yield Seeker is an AI-driven platform that optimizes stablecoin yields by analyzing DeFi protocols in real-time. It offers flexible deposits (from $25 in USDC) with instant withdrawals and no hidden fees. Crypto and Web3 2 1 Freemium
-
+Yield Seeker is an AI-driven platform that optimizes stablecoin yields by analyzing DeFi protocols in real-time. It offers flexible deposits (from $25 in USDC) with instant withdrawals and no hidden fees.
 In short, Yield Seeker is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. That one capability of Yield Seeker frequently saves users from juggling several separate steps.
 
 ## Key features

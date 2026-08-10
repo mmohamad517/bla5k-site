@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Allyhub?
-    a: Allyhub is an AI platform that automates workflows, generates content, and manages team tasks to centralize project operations. It integrates with tools like Slack and CRMs, offering AI-driven text generation, task orchestration, and analytics for optimized resource allocation. Workflow Automation Freemium That is the core of what Allyhub does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Allyhub is an AI platform that automates workflows, generates content, and manages team tasks to centralize project operations. It integrates with tools like Slack and CRMs, offering AI-driven text generation, task orchestration, and analytics for optimized resource allocation. That is the core of what Allyhub does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Allyhub free?
     a: Allyhub uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Allyhub?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Allyhub?
 
-Allyhub is an AI platform that automates workflows, generates content, and manages team tasks to centralize project operations. It integrates with tools like Slack and CRMs, offering AI-driven text generation, task orchestration, and analytics for optimized resource allocation. Workflow Automation Freemium
-
+Allyhub is an AI platform that automates workflows, generates content, and manages team tasks to centralize project operations. It integrates with tools like Slack and CRMs, offering AI-driven text generation, task orchestration, and analytics for optimized resource allocation.
 In short, Allyhub is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. For plenty of users, that one capability of Allyhub replaces several steps they used to do by hand.
 
 ## Key features

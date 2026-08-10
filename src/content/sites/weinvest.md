@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is WeInvest?
-    a: WeInvest is an AI‑driven crypto platform featuring a multi‑agent dashboard for real‑time market analysis and automated decisions. It creates gas‑less smart accounts, supports wallet integration, group multi‑sig wallets, managed funds, and Stripe or Moonpay onboarding, available on web and mobile. Crypto and Web3 Free That is the core of what WeInvest does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: WeInvest is an AI‑driven crypto platform featuring a multi‑agent dashboard for real‑time market analysis and automated decisions. It creates gas‑less smart accounts, supports wallet integration, group multi‑sig wallets, managed funds, and Stripe or Moonpay onboarding, available on web and mobile. That is the core of what WeInvest does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is WeInvest free?
     a: Yes — WeInvest is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with WeInvest?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like WeInve
 
 ## What is WeInvest?
 
-WeInvest is an AI‑driven crypto platform featuring a multi‑agent dashboard for real‑time market analysis and automated decisions. It creates gas‑less smart accounts, supports wallet integration, group multi‑sig wallets, managed funds, and Stripe or Moonpay onboarding, available on web and mobile. Crypto and Web3 Free
-
+WeInvest is an AI‑driven crypto platform featuring a multi‑agent dashboard for real‑time market analysis and automated decisions. It creates gas‑less smart accounts, supports wallet integration, group multi‑sig wallets, managed funds, and Stripe or Moonpay onboarding, available on web and mobile.
 In short, WeInvest is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. For plenty of users, that one capability of WeInvest replaces several steps they used to do by hand.
 
 ## Key features

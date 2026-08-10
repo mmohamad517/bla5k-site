@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ebookmaker.ai?
-    a: Ebookmaker turns a title or brief description into a fully structured e‑book, letting users choose chapters, edit text, insert images, tweak layout, add media, convert to audiobooks, and export as PDF, ePub, or FlipBook.  That is the core of what ebookmaker.ai does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ebookmaker turns a title or brief description into a fully structured e‑book, letting users choose chapters, edit text, insert images, tweak layout, add media, convert to audiobooks, and export as PDF, ePub, or FlipBook. That is the core of what ebookmaker.ai does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ebookmaker.ai free?
     a: Yes — ebookmaker.ai is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with ebookmaker.ai?

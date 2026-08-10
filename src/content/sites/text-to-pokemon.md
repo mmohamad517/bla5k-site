@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Text-To-Pokemon?
-    a: Generates Pokémon‑style images from text prompts using a fine‑tuned Stable Diffusion model. Users set prompt, output count, steps, guidance, and seed, producing up to four consistent images. Access via Replicate API or run locally with Docker/Cog.  That is the core of what Text-To-Pokemon does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Generates Pokémon‑style images from text prompts using a fine‑tuned Stable Diffusion model. Users set prompt, output count, steps, guidance, and seed, producing up to four consistent images. Access via Replicate API or run locally with Docker/Cog. That is the core of what Text-To-Pokemon does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Text-To-Pokemon free?
     a: Text-To-Pokemon uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $0.0001, check the official website — pricing changes often.
   - q: What can you do with Text-To-Pokemon?

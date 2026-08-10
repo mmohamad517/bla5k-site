@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MagicAnimate Playground?
-    a: MagicAnimate animates static images with temporally consistent motion using a diffusion model and MSE‑finetuned VAE, supports cross‑ID animation, pose‑driven motion via OpenPose, and can animate text‑generated images. Open‑source, local or via Hugging Face/Replicate.  That is the core of what MagicAnimate Playground does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: MagicAnimate animates static images with temporally consistent motion using a diffusion model and MSE‑finetuned VAE, supports cross‑ID animation, pose‑driven motion via OpenPose, and can animate text‑generated images. Open‑source, local or via Hugging Face/Replicate. That is the core of what MagicAnimate Playground does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MagicAnimate Playground free?
     a: Yes — MagicAnimate Playground is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with MagicAnimate Playground?

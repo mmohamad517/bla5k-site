@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is easl?
-    a: easl provides instant hosting for AI agent demos and content, publishing Markdown, CSV, JSON, HTML, SVG and Mermaid into interactive preview pages with sortable tables, filters and interactive trees; uses a CLI or curl and integrates with LLMs, open-source.  That is the core of what easl does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: easl provides instant hosting for AI agent demos and content, publishing Markdown, CSV, JSON, HTML, SVG and Mermaid into interactive preview pages with sortable tables, filters and interactive trees; uses a CLI or curl and integrates with LLMs, open-source. That is the core of what easl does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is easl free?
     a: Yes — easl is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with easl?

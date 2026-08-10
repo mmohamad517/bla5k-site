@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is daily.dev Recruiter?
-    a: daily.dev Recruiter is a developer-first hiring platform that intelligently matches technical recruiters with active engineers using behavioral signals. It streamlines sourcing with automated screening and warm, double-opt-in introductions to reduce cold outreach.  That is the core of what daily.dev Recruiter does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: daily.dev Recruiter is a developer-first hiring platform that intelligently matches technical recruiters with active engineers using behavioral signals. It streamlines sourcing with automated screening and warm, double-opt-in introductions to reduce cold outreach. That is the core of what daily.dev Recruiter does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is daily.dev Recruiter free?
     a: daily.dev Recruiter is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with daily.dev Recruiter?

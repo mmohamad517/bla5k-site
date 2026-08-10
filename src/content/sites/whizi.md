@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Whizi?
-    a: Whizi is an AI chat platform that integrates over 200 advanced models for tasks like writing, brainstorming, and coding. Its user-friendly interface supports diverse applications, including image generation and automated writing assistance, catering to varied user needs.  That is the core of what Whizi does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Whizi is an AI chat platform that integrates over 200 advanced models for tasks like writing, brainstorming, and coding. Its user-friendly interface supports diverse applications, including image generation and automated writing assistance, catering to varied user needs. That is the core of what Whizi does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Whizi free?
     a: Whizi uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $15.99/mo, check the official website — pricing changes often.
   - q: What can you do with Whizi?

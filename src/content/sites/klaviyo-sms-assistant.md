@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Klaviyo SMS Assistant?
-    a: SMS Assist is a new feature within the Klaviyo platform that generates compliant SMS copy using AI and provides three message options to pre-established target audiences. Sales Freemium That is the core of what Klaviyo SMS Assistant does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SMS Assist is a new feature within the Klaviyo platform that generates compliant SMS copy using AI and provides three message options to pre-established target audiences. That is the core of what Klaviyo SMS Assistant does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Klaviyo SMS Assistant free?
     a: Klaviyo SMS Assistant uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Klaviyo SMS Assistant?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Klaviyo SMS
 
 ## What is Klaviyo SMS Assistant?
 
-SMS Assist is a new feature within the Klaviyo platform that generates compliant SMS copy using AI and provides three message options to pre-established target audiences. Sales Freemium
-
+SMS Assist is a new feature within the Klaviyo platform that generates compliant SMS copy using AI and provides three message options to pre-established target audiences.
 In short, Klaviyo SMS Assistant is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For many, that single strength of Klaviyo SMS Assistant is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

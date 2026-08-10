@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Inline Help?
-    a: Inline Help provides AI-powered, in-app contextual support by turning knowledge bases into guidance, offering no-code tooltips, an embeddable chatbot and ticket form, multilingual coverage, and analytics to reduce support tickets and improve product adoption. Customer support Free trial - $97/mo That is the core of what Inline Help does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Inline Help provides AI-powered, in-app contextual support by turning knowledge bases into guidance, offering no-code tooltips, an embeddable chatbot and ticket form, multilingual coverage, and analytics to reduce support tickets and improve product adoption. That is the core of what Inline Help does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Inline Help free?
     a: Inline Help uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $97/mo, check the official website — pricing changes often.
   - q: What can you do with Inline Help?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Inline Help earn
 
 ## What is Inline Help?
 
-Inline Help provides AI-powered, in-app contextual support by turning knowledge bases into guidance, offering no-code tooltips, an embeddable chatbot and ticket form, multilingual coverage, and analytics to reduce support tickets and improve product adoption. Customer support Free trial - $97/mo
-
+Inline Help provides AI-powered, in-app contextual support by turning knowledge bases into guidance, offering no-code tooltips, an embeddable chatbot and ticket form, multilingual coverage, and analytics to reduce support tickets and improve product adoption.
 In short, Inline Help is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For plenty of users, that one capability of Inline Help replaces several steps they used to do by hand.
 
 ## Key features

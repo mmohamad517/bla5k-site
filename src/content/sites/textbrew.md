@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TextBrew?
-    a: Textbrew is an automated product description generator for e-commerce, creating accurate and SEO-optimized content quickly. It utilizes AI to extract key product features, allowing customization and efficient management of both single and bulk listings.  That is the core of what TextBrew does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Textbrew is an automated product description generator for e-commerce, creating accurate and SEO-optimized content quickly. It utilizes AI to extract key product features, allowing customization and efficient management of both single and bulk listings. That is the core of what TextBrew does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TextBrew free?
     a: TextBrew uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $1, check the official website — pricing changes often.
   - q: What can you do with TextBrew?

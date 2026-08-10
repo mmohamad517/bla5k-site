@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ReadKidz?
-    a: ReadKidz lets non‑technical users create children’s e‑books, story videos, and series using 100 templates and 60 illustration styles. It supports dubbing, character pose control, AI storyboard continuity, and one‑click export to YouTube, Amazon KDP, and WhatsApp.  That is the core of what ReadKidz does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ReadKidz lets non‑technical users create children’s e‑books, story videos, and series using 100 templates and 60 illustration styles. It supports dubbing, character pose control, AI storyboard continuity, and one‑click export to YouTube, Amazon KDP, and WhatsApp. That is the core of what ReadKidz does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ReadKidz free?
     a: Yes — ReadKidz is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with ReadKidz?

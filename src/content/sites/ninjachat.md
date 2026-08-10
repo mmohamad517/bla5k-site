@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ninjachat?
-    a: NinjaChat consolidates dozens of large language models (GPT‑5, Claude, Gemini, etc.) into a single interface, offering text, image, and video creation, live web search, finance data, and document intelligence for creators and developers.  That is the core of what Ninjachat does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: NinjaChat consolidates dozens of large language models (GPT‑5, Claude, Gemini, etc.) into a single interface, offering text, image, and video creation, live web search, finance data, and document intelligence for creators and developers. That is the core of what Ninjachat does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ninjachat free?
     a: Ninjachat uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $10/mo, check the official website — pricing changes often.
   - q: What can you do with Ninjachat?

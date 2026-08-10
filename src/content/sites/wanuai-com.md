@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Wanuai?
-    a: WanuAI is a content generation platform combining AI chat, image and code generation, SEO and metadata tools, 72+ templates, multilingual plagiarism-free outputs, export integrations, and analytics to scale content production and standardize messaging. Content creation Freemium - $5/mo That is the core of what Wanuai does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: WanuAI is a content generation platform combining AI chat, image and code generation, SEO and metadata tools, 72+ templates, multilingual plagiarism-free outputs, export integrations, and analytics to scale content production and standardize messaging. That is the core of what Wanuai does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Wanuai free?
     a: Wanuai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $5/mo, check the official website — pricing changes often.
   - q: What can you do with Wanuai?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Wanuai earn thei
 
 ## What is Wanuai?
 
-WanuAI is a content generation platform combining AI chat, image and code generation, SEO and metadata tools, 72+ templates, multilingual plagiarism-free outputs, export integrations, and analytics to scale content production and standardize messaging. Content creation Freemium - $5/mo
-
+WanuAI is a content generation platform combining AI chat, image and code generation, SEO and metadata tools, 72+ templates, multilingual plagiarism-free outputs, export integrations, and analytics to scale content production and standardize messaging.
 In short, Wanuai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. Many users find that this one ability of Wanuai removes several tasks from their daily routine.
 
 ## Key features

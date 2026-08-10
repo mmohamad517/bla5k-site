@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ReWriteIt AI?
-    a: Rewriteit.ai is an AI tool that efficiently rewrites content, enhancing writing skills across genres like emails and papers. It aids in learning English, improving vocabulary, sentence structure, and grammar with a simple click. Copywriting Freemium That is the core of what ReWriteIt AI does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Rewriteit.ai is an AI tool that efficiently rewrites content, enhancing writing skills across genres like emails and papers. It aids in learning English, improving vocabulary, sentence structure, and grammar with a simple click. That is the core of what ReWriteIt AI does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ReWriteIt AI free?
     a: ReWriteIt AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ReWriteIt AI?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like ReWriteIt A
 
 ## What is ReWriteIt AI?
 
-Rewriteit.ai is an AI tool that efficiently rewrites content, enhancing writing skills across genres like emails and papers. It aids in learning English, improving vocabulary, sentence structure, and grammar with a simple click. Copywriting Freemium
-
+Rewriteit.ai is an AI tool that efficiently rewrites content, enhancing writing skills across genres like emails and papers. It aids in learning English, improving vocabulary, sentence structure, and grammar with a simple click.
 In short, ReWriteIt AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. For a lot of people, that one function of ReWriteIt AI collapses multiple steps into a single action.
 
 ## Key features

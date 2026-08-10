@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Vidbyte?
-    a: Vidbyte converts text and images into short educational videos with visual aids and step by step walkthroughs for homework and exam prep across subjects including calculus, literature, and chemistry. Offers customizable pacing and cross-device compatibility. Course Generator Free That is the core of what Vidbyte does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Vidbyte converts text and images into short educational videos with visual aids and step by step walkthroughs for homework and exam prep across subjects including calculus, literature, and chemistry. Offers customizable pacing and cross-device compatibility. That is the core of what Vidbyte does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Vidbyte free?
     a: Yes — Vidbyte is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Vidbyte?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Vidbyte?
 
-Vidbyte converts text and images into short educational videos with visual aids and step by step walkthroughs for homework and exam prep across subjects including calculus, literature, and chemistry. Offers customizable pacing and cross-device compatibility. Course Generator Free
-
+Vidbyte converts text and images into short educational videos with visual aids and step by step walkthroughs for homework and exam prep across subjects including calculus, literature, and chemistry. Offers customizable pacing and cross-device compatibility.
 In short, Vidbyte is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. For many, that single strength of Vidbyte is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

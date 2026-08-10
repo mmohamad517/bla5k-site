@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Virtualspirits.com?
-    a: VirtualSpirits offers a no‑code visual editor to build chatbots for websites, WhatsApp, Messenger, Instagram, and SMS. It captures leads, automates replies, forwards qualified prospects to CRM or email, and logs conversations for 24/7 support and commerce. Omnichannel chatbot Free trial - $9/mo That is the core of what Virtualspirits.com does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: VirtualSpirits offers a no‑code visual editor to build chatbots for websites, WhatsApp, Messenger, Instagram, and SMS. It captures leads, automates replies, forwards qualified prospects to CRM or email, and logs conversations for 24/7 support and commerce. That is the core of what Virtualspirits.com does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Virtualspirits.com free?
     a: Virtualspirits.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9/mo, check the official website — pricing changes often.
   - q: What can you do with Virtualspirits.com?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Virtualspirits.com?
 
-VirtualSpirits offers a no‑code visual editor to build chatbots for websites, WhatsApp, Messenger, Instagram, and SMS. It captures leads, automates replies, forwards qualified prospects to CRM or email, and logs conversations for 24/7 support and commerce. Omnichannel chatbot Free trial - $9/mo
-
+VirtualSpirits offers a no‑code visual editor to build chatbots for websites, WhatsApp, Messenger, Instagram, and SMS. It captures leads, automates replies, forwards qualified prospects to CRM or email, and logs conversations for 24/7 support and commerce.
 In short, Virtualspirits.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. That one capability of Virtualspirits.com frequently saves users from juggling several separate steps.
 
 ## Key features

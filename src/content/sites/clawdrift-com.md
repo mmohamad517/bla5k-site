@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ClawDrift?
-    a: ClawDrift deploys personal AI assistants to Telegram, Discord, or WhatsApp in under a minute with no-code automated setup. Choose models, enable persistent memory and custom agent behavior, and integrate email, calendar, files, and APIs for automation. AI Assistant Subscription That is the core of what ClawDrift does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ClawDrift deploys personal AI assistants to Telegram, Discord, or WhatsApp in under a minute with no-code automated setup. Choose models, enable persistent memory and custom agent behavior, and integrate email, calendar, files, and APIs for automation. That is the core of what ClawDrift does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ClawDrift free?
     a: ClawDrift is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with ClawDrift?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is ClawDrift?
 
-ClawDrift deploys personal AI assistants to Telegram, Discord, or WhatsApp in under a minute with no-code automated setup. Choose models, enable persistent memory and custom agent behavior, and integrate email, calendar, files, and APIs for automation. AI Assistant Subscription
-
+ClawDrift deploys personal AI assistants to Telegram, Discord, or WhatsApp in under a minute with no-code automated setup. Choose models, enable persistent memory and custom agent behavior, and integrate email, calendar, files, and APIs for automation.
 In short, ClawDrift is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one feature of ClawDrift often eliminates several smaller steps from the usual workflow.
 
 ## Key features

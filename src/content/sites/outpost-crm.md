@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Outpost crm?
-    a: Outpost is an AI‑powered CRM that automates routine sales tasks for real‑estate agents and founders. It scores contacts, embeds in email, syncs calendar and tasks, offers a dialer and scheduler, supports custom cross‑app automations, and enables real‑time collaboration. Sales Subscription - $39/mo That is the core of what Outpost crm does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Outpost is an AI‑powered CRM that automates routine sales tasks for real‑estate agents and founders. It scores contacts, embeds in email, syncs calendar and tasks, offers a dialer and scheduler, supports custom cross‑app automations, and enables real‑time collaboration. That is the core of what Outpost crm does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Outpost crm free?
     a: Outpost crm is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Outpost crm?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Outpost crm?
 
-Outpost is an AI‑powered CRM that automates routine sales tasks for real‑estate agents and founders. It scores contacts, embeds in email, syncs calendar and tasks, offers a dialer and scheduler, supports custom cross‑app automations, and enables real‑time collaboration. Sales Subscription - $39/mo
-
+Outpost is an AI‑powered CRM that automates routine sales tasks for real‑estate agents and founders. It scores contacts, embeds in email, syncs calendar and tasks, offers a dialer and scheduler, supports custom cross‑app automations, and enables real‑time collaboration.
 In short, Outpost crm is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. That one capability of Outpost crm frequently saves users from juggling several separate steps.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ProfilePicture.AI?
-    a: PFP.AI produces studio‑quality profile pictures from a single high‑definition photo, offering preset styles for professional, minimalist, fashion, corporate, or creative looks. It outputs a gallery of JPG, PNG, or WebP images, with privacy data deleted after 24 hours. Avatar Freemium - $8 That is the core of what ProfilePicture.AI does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: PFP.AI produces studio‑quality profile pictures from a single high‑definition photo, offering preset styles for professional, minimalist, fashion, corporate, or creative looks. It outputs a gallery of JPG, PNG, or WebP images, with privacy data deleted after 24 hours. That is the core of what ProfilePicture.AI does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ProfilePicture.AI free?
     a: ProfilePicture.AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $8, check the official website — pricing changes often.
   - q: What can you do with ProfilePicture.AI?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is ProfilePicture.AI?
 
-PFP.AI produces studio‑quality profile pictures from a single high‑definition photo, offering preset styles for professional, minimalist, fashion, corporate, or creative looks. It outputs a gallery of JPG, PNG, or WebP images, with privacy data deleted after 24 hours. Avatar Freemium - $8
-
+PFP.AI produces studio‑quality profile pictures from a single high‑definition photo, offering preset styles for professional, minimalist, fashion, corporate, or creative looks. It outputs a gallery of JPG, PNG, or WebP images, with privacy data deleted after 24 hours.
 In short, ProfilePicture.AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. That one feature of ProfilePicture.AI often eliminates several smaller steps from the usual workflow.
 
 ## Key features

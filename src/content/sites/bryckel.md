@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Bryckel?
-    a: Bryckel is an AI tool for lease review and risk analysis in commercial real estate, offering structured summaries, risk identification, and compliance support. It enhances decision-making and collaboration while integrating into existing workflows for efficiency and data security. Document management Free trial - $249/mo That is the core of what Bryckel does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Bryckel is an AI tool for lease review and risk analysis in commercial real estate, offering structured summaries, risk identification, and compliance support. It enhances decision-making and collaboration while integrating into existing workflows for efficiency and data security. That is the core of what Bryckel does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Bryckel free?
     a: Bryckel uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $249/mo, check the official website — pricing changes often.
   - q: What can you do with Bryckel?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Bryckel?
 
-Bryckel is an AI tool for lease review and risk analysis in commercial real estate, offering structured summaries, risk identification, and compliance support. It enhances decision-making and collaboration while integrating into existing workflows for efficiency and data security. Document management Free trial - $249/mo
-
+Bryckel is an AI tool for lease review and risk analysis in commercial real estate, offering structured summaries, risk identification, and compliance support. It enhances decision-making and collaboration while integrating into existing workflows for efficiency and data security.
 In short, Bryckel is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many, that single strength of Bryckel is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

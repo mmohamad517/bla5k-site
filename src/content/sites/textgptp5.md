@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Textgptp5?
-    a: Text‑GPT‑p5 is a web editor that translates natural‑language prompts into p5.js code using GPT‑4o‑mini, eliminating boilerplate setup and loop functions. It quickly generates interactive sketches such as Conway’s Game of Life, flocking, and 3‑D forms.  That is the core of what Textgptp5 does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Text‑GPT‑p5 is a web editor that translates natural‑language prompts into p5.js code using GPT‑4o‑mini, eliminating boilerplate setup and loop functions. It quickly generates interactive sketches such as Conway’s Game of Life, flocking, and 3‑D forms. That is the core of what Textgptp5 does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Textgptp5 free?
     a: Textgptp5 uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Textgptp5?

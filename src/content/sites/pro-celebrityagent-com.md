@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Celebrity Agent?
-    a: Celebrity Agent uses predictive analytics and MLS, title, and CRM data to surface high‑intent seller and off‑market leads, automate event‑triggered omni‑channel outreach (direct mail, email, SMS), and manage concierge workflows and pipeline reporting. Marketing Subscription That is the core of what Celebrity Agent does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Celebrity Agent uses predictive analytics and MLS, title, and CRM data to surface high‑intent seller and off‑market leads, automate event‑triggered omni‑channel outreach (direct mail, email, SMS), and manage concierge workflows and pipeline reporting. That is the core of what Celebrity Agent does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Celebrity Agent free?
     a: Celebrity Agent is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Celebrity Agent?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Celebrity A
 
 ## What is Celebrity Agent?
 
-Celebrity Agent uses predictive analytics and MLS, title, and CRM data to surface high‑intent seller and off‑market leads, automate event‑triggered omni‑channel outreach (direct mail, email, SMS), and manage concierge workflows and pipeline reporting. Marketing Subscription
-
+Celebrity Agent uses predictive analytics and MLS, title, and CRM data to surface high‑intent seller and off‑market leads, automate event‑triggered omni‑channel outreach (direct mail, email, SMS), and manage concierge workflows and pipeline reporting.
 In short, Celebrity Agent is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. Many users discover that this feature of Celebrity Agent alone covers what previously took multiple tools.
 
 ## Key features

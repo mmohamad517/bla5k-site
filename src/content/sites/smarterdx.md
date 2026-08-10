@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SmarterDx?
-    a: SmarterDx applies clinical AI to analyze inpatient charts, extracting diagnoses, procedures and supporting evidence to identify missing or incorrect codes, support accurate reimbursement, coding, denial appeals and utilization management, and integrates with revenue-cycle and clinical workflows. Billing Management Freemium That is the core of what SmarterDx does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SmarterDx applies clinical AI to analyze inpatient charts, extracting diagnoses, procedures and supporting evidence to identify missing or incorrect codes, support accurate reimbursement, coding, denial appeals and utilization management, and integrates with revenue-cycle and clinical workflows. That is the core of what SmarterDx does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SmarterDx free?
     a: SmarterDx uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with SmarterDx?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is SmarterDx?
 
-SmarterDx applies clinical AI to analyze inpatient charts, extracting diagnoses, procedures and supporting evidence to identify missing or incorrect codes, support accurate reimbursement, coding, denial appeals and utilization management, and integrates with revenue-cycle and clinical workflows. Billing Management Freemium
-
+SmarterDx applies clinical AI to analyze inpatient charts, extracting diagnoses, procedures and supporting evidence to identify missing or incorrect codes, support accurate reimbursement, coding, denial appeals and utilization management, and integrates with revenue-cycle and clinical workflows.
 In short, SmarterDx is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. Many users find that this one ability of SmarterDx removes several tasks from their daily routine.
 
 ## Key features

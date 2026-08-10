@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ChatBetter?
-    a: ChatBetter is a unified AI platform that automatically selects and chains the best language models for any query or complex task. It enables side-by-side response comparison and supports team collaboration with enterprise-grade security and project management.  That is the core of what ChatBetter does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ChatBetter is a unified AI platform that automatically selects and chains the best language models for any query or complex task. It enables side-by-side response comparison and supports team collaboration with enterprise-grade security and project management. That is the core of what ChatBetter does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ChatBetter free?
     a: ChatBetter uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $20/mo, check the official website — pricing changes often.
   - q: What can you do with ChatBetter?

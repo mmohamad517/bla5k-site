@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is 7BE?
-    a: 7be is a B2B IT-services marketplace that connects businesses with verified agencies in development, design, and marketing. It allows users to publish project briefs, receive proposals, and efficiently compare and hire suitable agencies.  That is the core of what 7BE does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: 7be is a B2B IT-services marketplace that connects businesses with verified agencies in development, design, and marketing. It allows users to publish project briefs, receive proposals, and efficiently compare and hire suitable agencies. That is the core of what 7BE does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is 7BE free?
     a: 7BE uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with 7BE?

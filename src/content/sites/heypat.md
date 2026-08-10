@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is HeyPat?
-    a: HeyPat.ai is a conversational AI assistant that delivers instant answers on various topics through messaging platforms like Telegram and WhatsApp. It supports multiple languages and provides real-time updates on sports, news, and health-related inquiries. Customer support Subscription That is the core of what HeyPat does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: HeyPat.ai is a conversational AI assistant that delivers instant answers on various topics through messaging platforms like Telegram and WhatsApp. It supports multiple languages and provides real-time updates on sports, news, and health-related inquiries. That is the core of what HeyPat does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is HeyPat free?
     a: HeyPat is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with HeyPat?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is HeyPat?
 
-HeyPat.ai is a conversational AI assistant that delivers instant answers on various topics through messaging platforms like Telegram and WhatsApp. It supports multiple languages and provides real-time updates on sports, news, and health-related inquiries. Customer support Subscription
-
+HeyPat.ai is a conversational AI assistant that delivers instant answers on various topics through messaging platforms like Telegram and WhatsApp. It supports multiple languages and provides real-time updates on sports, news, and health-related inquiries.
 In short, HeyPat is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For a lot of people, that one function of HeyPat collapses multiple steps into a single action.
 
 ## Key features

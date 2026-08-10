@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Themis For Crypto?
-    a: Themis is an AI-driven trading platform that allows users to create automated trading strategies, backtest them using machine learning, and track transactions in real-time. It supports various asset classes and emphasizes secure, user-friendly navigation. Crypto and Web3 0 1 Free trial That is the core of what Themis For Crypto does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Themis is an AI-driven trading platform that allows users to create automated trading strategies, backtest them using machine learning, and track transactions in real-time. It supports various asset classes and emphasizes secure, user-friendly navigation. That is the core of what Themis For Crypto does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Themis For Crypto free?
     a: Themis For Crypto uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Themis For Crypto?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Themis For 
 
 ## What is Themis For Crypto?
 
-Themis is an AI-driven trading platform that allows users to create automated trading strategies, backtest them using machine learning, and track transactions in real-time. It supports various asset classes and emphasizes secure, user-friendly navigation. Crypto and Web3 0 1 Free trial
-
+Themis is an AI-driven trading platform that allows users to create automated trading strategies, backtest them using machine learning, and track transactions in real-time. It supports various asset classes and emphasizes secure, user-friendly navigation.
 In short, Themis For Crypto is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. For many, that single strength of Themis For Crypto is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

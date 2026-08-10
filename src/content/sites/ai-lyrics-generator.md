@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Lyrics Generator?
-    a: AI Lyrics Generator creates genre‑specific lyrics—rap, K‑pop, country, metal, rock, pop, gospel, reggae, soul—using user‑chosen genre, mood, and keywords. It delivers accurate rhyme schemes, syllable counts, supports multi‑language output, collaboration, and related generators for titles, band names, and rhyme words. Content Writing Free That is the core of what AI Lyrics Generator does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Lyrics Generator creates genre‑specific lyrics—rap, K‑pop, country, metal, rock, pop, gospel, reggae, soul—using user‑chosen genre, mood, and keywords. It delivers accurate rhyme schemes, syllable counts, supports multi‑language output, collaboration, and related generators for titles, band names, and rhyme words. That is the core of what AI Lyrics Generator does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI Lyrics Generator free?
     a: Yes — AI Lyrics Generator is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with AI Lyrics Generator?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like AI Lyrics G
 
 ## What is AI Lyrics Generator?
 
-AI Lyrics Generator creates genre‑specific lyrics—rap, K‑pop, country, metal, rock, pop, gospel, reggae, soul—using user‑chosen genre, mood, and keywords. It delivers accurate rhyme schemes, syllable counts, supports multi‑language output, collaboration, and related generators for titles, band names, and rhyme words. Content Writing Free
-
+AI Lyrics Generator creates genre‑specific lyrics—rap, K‑pop, country, metal, rock, pop, gospel, reggae, soul—using user‑chosen genre, mood, and keywords. It delivers accurate rhyme schemes, syllable counts, supports multi‑language output, collaboration, and related generators for titles, band names, and rhyme words.
 In short, AI Lyrics Generator is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. That one feature of AI Lyrics Generator often eliminates several smaller steps from the usual workflow.
 
 ## Key features

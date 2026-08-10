@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is 未来简历?
-    a: FutureResume is an AI‑powered tool that analyzes your existing résumé and a target job description, extracts key skills, writes STAR‑based content, auto‑formats it for HR readability, provides match and coherence reports, and offers interview prep. AI Assistant Freemium That is the core of what 未来简历 does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: FutureResume is an AI‑powered tool that analyzes your existing résumé and a target job description, extracts key skills, writes STAR‑based content, auto‑formats it for HR readability, provides match and coherence reports, and offers interview prep. That is the core of what 未来简历 does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is 未来简历 free?
     a: 未来简历 uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with 未来简历?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like 未来
 
 ## What is 未来简历?
 
-FutureResume is an AI‑powered tool that analyzes your existing résumé and a target job description, extracts key skills, writes STAR‑based content, auto‑formats it for HR readability, provides match and coherence reports, and offers interview prep. AI Assistant Freemium
-
+FutureResume is an AI‑powered tool that analyzes your existing résumé and a target job description, extracts key skills, writes STAR‑based content, auto‑formats it for HR readability, provides match and coherence reports, and offers interview prep.
 In short, 未来简历 is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many, that single strength of 未来简历 is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

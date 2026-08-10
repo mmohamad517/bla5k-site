@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Easylist?
-    a: iListingAI is an AI‑driven inventory platform that quickly produces legally compliant inspection reports by capturing audio and photos, auto‑categorizing rooms and items via computer vision, and syncing offline data. It supports teams of any size. Document management Subscription - $65/mo That is the core of what Easylist does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: iListingAI is an AI‑driven inventory platform that quickly produces legally compliant inspection reports by capturing audio and photos, auto‑categorizing rooms and items via computer vision, and syncing offline data. It supports teams of any size. That is the core of what Easylist does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Easylist free?
     a: Easylist is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Easylist?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Easylist ea
 
 ## What is Easylist?
 
-iListingAI is an AI‑driven inventory platform that quickly produces legally compliant inspection reports by capturing audio and photos, auto‑categorizing rooms and items via computer vision, and syncing offline data. It supports teams of any size. Document management Subscription - $65/mo
-
+iListingAI is an AI‑driven inventory platform that quickly produces legally compliant inspection reports by capturing audio and photos, auto‑categorizing rooms and items via computer vision, and syncing offline data. It supports teams of any size.
 In short, Easylist is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For plenty of users, that one capability of Easylist replaces several steps they used to do by hand.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Outspeak AI?
-    a: Outspeak converts text or audio into lip‑synced videos using AI avatars and voice generation, offering avatar creation from models or photos, voice cloning and multilingual TTS, audio upload/voice changing, and custom lip‑syncing for localized video content. Avatar Freemium That is the core of what Outspeak AI does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Outspeak converts text or audio into lip‑synced videos using AI avatars and voice generation, offering avatar creation from models or photos, voice cloning and multilingual TTS, audio upload/voice changing, and custom lip‑syncing for localized video content. That is the core of what Outspeak AI does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Outspeak AI free?
     a: Outspeak AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Outspeak AI?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Outspe
 
 ## What is Outspeak AI?
 
-Outspeak converts text or audio into lip‑synced videos using AI avatars and voice generation, offering avatar creation from models or photos, voice cloning and multilingual TTS, audio upload/voice changing, and custom lip‑syncing for localized video content. Avatar Freemium
-
+Outspeak converts text or audio into lip‑synced videos using AI avatars and voice generation, offering avatar creation from models or photos, voice cloning and multilingual TTS, audio upload/voice changing, and custom lip‑syncing for localized video content.
 In short, Outspeak AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. That one feature of Outspeak AI often eliminates several smaller steps from the usual workflow.
 
 ## Key features

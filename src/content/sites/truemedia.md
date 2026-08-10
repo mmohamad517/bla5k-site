@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TrueMedia?
-    a: TrueMedia.org offers AI-driven tools to detect political deepfakes on social media platforms, helping users assess the authenticity of video and audio content. It promotes informed discussions and addresses the challenges of misinformation in the digital landscape. AI detection Free That is the core of what TrueMedia does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: TrueMedia.org offers AI-driven tools to detect political deepfakes on social media platforms, helping users assess the authenticity of video and audio content. It promotes informed discussions and addresses the challenges of misinformation in the digital landscape. That is the core of what TrueMedia does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TrueMedia free?
     a: Yes — TrueMedia is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with TrueMedia?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is TrueMedia?
 
-TrueMedia.org offers AI-driven tools to detect political deepfakes on social media platforms, helping users assess the authenticity of video and audio content. It promotes informed discussions and addresses the challenges of misinformation in the digital landscape. AI detection Free
-
+TrueMedia.org offers AI-driven tools to detect political deepfakes on social media platforms, helping users assess the authenticity of video and audio content. It promotes informed discussions and addresses the challenges of misinformation in the digital landscape.
 In short, TrueMedia is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. That one feature of TrueMedia often eliminates several smaller steps from the usual workflow.
 
 ## Key features

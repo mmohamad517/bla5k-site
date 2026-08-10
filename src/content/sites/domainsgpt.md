@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is DomainsGPT?
-    a: DomainsGPT is an AI tool that generates brandable and memorable domain names using OpenAI, Vercel, and Edge Functions. It offers a variety of TLDs and types of names for users to choose from. Domain Management Freemium That is the core of what DomainsGPT does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: DomainsGPT is an AI tool that generates brandable and memorable domain names using OpenAI, Vercel, and Edge Functions. It offers a variety of TLDs and types of names for users to choose from. That is the core of what DomainsGPT does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is DomainsGPT free?
     a: DomainsGPT uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with DomainsGPT?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Domain
 
 ## What is DomainsGPT?
 
-DomainsGPT is an AI tool that generates brandable and memorable domain names using OpenAI, Vercel, and Edge Functions. It offers a variety of TLDs and types of names for users to choose from. Domain Management Freemium
-
+DomainsGPT is an AI tool that generates brandable and memorable domain names using OpenAI, Vercel, and Edge Functions. It offers a variety of TLDs and types of names for users to choose from.
 In short, DomainsGPT is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For plenty of users, that one capability of DomainsGPT replaces several steps they used to do by hand.
 
 ## Key features

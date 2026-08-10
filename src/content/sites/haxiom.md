@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Haxiom?
-    a: Haxiom is an online Markdown editor for collaborative teams that organizes knowledge into a unified, GitHub-linked knowledge base with real-time multiplayer editing, AI-driven note structuring and deduplication, semantic search, GitHub sync, Typst math rendering, and an AI assistant. Knowledge base management Freemium That is the core of what Haxiom does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Haxiom is an online Markdown editor for collaborative teams that organizes knowledge into a unified, GitHub-linked knowledge base with real-time multiplayer editing, AI-driven note structuring and deduplication, semantic search, GitHub sync, Typst math rendering, and an AI assistant. That is the core of what Haxiom does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Haxiom free?
     a: Haxiom uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Haxiom?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Haxiom?
 
-Haxiom is an online Markdown editor for collaborative teams that organizes knowledge into a unified, GitHub-linked knowledge base with real-time multiplayer editing, AI-driven note structuring and deduplication, semantic search, GitHub sync, Typst math rendering, and an AI assistant. Knowledge base management Freemium
-
+Haxiom is an online Markdown editor for collaborative teams that organizes knowledge into a unified, GitHub-linked knowledge base with real-time multiplayer editing, AI-driven note structuring and deduplication, semantic search, GitHub sync, Typst math rendering, and an AI assistant.
 In short, Haxiom is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For plenty of users, that one capability of Haxiom replaces several steps they used to do by hand.
 
 ## Key features

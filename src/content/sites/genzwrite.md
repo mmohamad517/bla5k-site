@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is GenZWrite?
-    a: GenZWrite humanizes AI output by rewriting text into natural, context-aware prose across modes—Academic, Social, DM, Hustle—producing role-specific tones, alternative drafts, summaries and multilingual rewrites for captions, essays, resumes and cover letters. Copywriting Free trial That is the core of what GenZWrite does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: GenZWrite humanizes AI output by rewriting text into natural, context-aware prose across modes—Academic, Social, DM, Hustle—producing role-specific tones, alternative drafts, summaries and multilingual rewrites for captions, essays, resumes and cover letters. That is the core of what GenZWrite does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is GenZWrite free?
     a: GenZWrite uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with GenZWrite?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like GenZWr
 
 ## What is GenZWrite?
 
-GenZWrite humanizes AI output by rewriting text into natural, context-aware prose across modes—Academic, Social, DM, Hustle—producing role-specific tones, alternative drafts, summaries and multilingual rewrites for captions, essays, resumes and cover letters. Copywriting Free trial
-
+GenZWrite humanizes AI output by rewriting text into natural, context-aware prose across modes—Academic, Social, DM, Hustle—producing role-specific tones, alternative drafts, summaries and multilingual rewrites for captions, essays, resumes and cover letters.
 In short, GenZWrite is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. Many users find that this one ability of GenZWrite removes several tasks from their daily routine.
 
 ## Key features

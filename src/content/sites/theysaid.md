@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TheySaid?
-    a: TheySay is an AI-driven survey platform that enhances engagement and feedback accuracy through conversational methods, personalized questions, and an automated chatbot, enabling organizations to gather deeper insights and improve customer experience. Customer support Free trial That is the core of what TheySaid does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: TheySay is an AI-driven survey platform that enhances engagement and feedback accuracy through conversational methods, personalized questions, and an automated chatbot, enabling organizations to gather deeper insights and improve customer experience. That is the core of what TheySaid does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TheySaid free?
     a: TheySaid uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with TheySaid?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like TheySaid earn th
 
 ## What is TheySaid?
 
-TheySay is an AI-driven survey platform that enhances engagement and feedback accuracy through conversational methods, personalized questions, and an automated chatbot, enabling organizations to gather deeper insights and improve customer experience. Customer support Free trial
-
+TheySay is an AI-driven survey platform that enhances engagement and feedback accuracy through conversational methods, personalized questions, and an automated chatbot, enabling organizations to gather deeper insights and improve customer experience.
 In short, TheySaid is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For plenty of users, that one capability of TheySaid replaces several steps they used to do by hand.
 
 ## Key features

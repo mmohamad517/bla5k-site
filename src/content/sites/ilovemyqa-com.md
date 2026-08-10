@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ilovemyqa.com?
-    a: ilovemyqa provides AI-powered software testing services from Vancouver, prioritizing clear communication and real device testing across platforms. Find critical bugs, enhance quality, and elevate user experience hassle-free.  That is the core of what ilovemyqa.com does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ilovemyqa provides AI-powered software testing services from Vancouver, prioritizing clear communication and real device testing across platforms. Find critical bugs, enhance quality, and elevate user experience hassle-free. That is the core of what ilovemyqa.com does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ilovemyqa.com free?
     a: ilovemyqa.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $49/mo, check the official website — pricing changes often.
   - q: What can you do with ilovemyqa.com?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AutoResponder?
-    a: AutoResponder.ai automates messaging on WhatsApp, Facebook Messenger, Instagram, Telegram, Signal, and Viber by delivering predefined replies. Users set unlimited custom rules, out‑of‑office messages, and integrate with ChatGPT, Gemini, Dialogflow, and Tasker for AI‑powered, automated workflows. Personal Chatbot Free That is the core of what AutoResponder does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AutoResponder.ai automates messaging on WhatsApp, Facebook Messenger, Instagram, Telegram, Signal, and Viber by delivering predefined replies. Users set unlimited custom rules, out‑of‑office messages, and integrate with ChatGPT, Gemini, Dialogflow, and Tasker for AI‑powered, automated workflows. That is the core of what AutoResponder does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AutoResponder free?
     a: Yes — AutoResponder is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with AutoResponder?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is AutoResponder?
 
-AutoResponder.ai automates messaging on WhatsApp, Facebook Messenger, Instagram, Telegram, Signal, and Viber by delivering predefined replies. Users set unlimited custom rules, out‑of‑office messages, and integrate with ChatGPT, Gemini, Dialogflow, and Tasker for AI‑powered, automated workflows. Personal Chatbot Free
-
+AutoResponder.ai automates messaging on WhatsApp, Facebook Messenger, Instagram, Telegram, Signal, and Viber by delivering predefined replies. Users set unlimited custom rules, out‑of‑office messages, and integrate with ChatGPT, Gemini, Dialogflow, and Tasker for AI‑powered, automated workflows.
 In short, AutoResponder is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For many, that single strength of AutoResponder is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

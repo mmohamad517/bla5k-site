@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is HitPublish.ai?
-    a: HitPublish.ai is an AI-powered content automation platform for WordPress that streamlines writing, formatting, SEO optimization, and bulk publishing. It supports multi-author workflows, scheduling, and performance tracking to help teams manage recurring, SEO-driven content at scale. Content Writing Free trial - $79/mo That is the core of what HitPublish.ai does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: HitPublish.ai is an AI-powered content automation platform for WordPress that streamlines writing, formatting, SEO optimization, and bulk publishing. It supports multi-author workflows, scheduling, and performance tracking to help teams manage recurring, SEO-driven content at scale. That is the core of what HitPublish.ai does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is HitPublish.ai free?
     a: HitPublish.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $79/mo, check the official website — pricing changes often.
   - q: What can you do with HitPublish.ai?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is HitPublish.ai?
 
-HitPublish.ai is an AI-powered content automation platform for WordPress that streamlines writing, formatting, SEO optimization, and bulk publishing. It supports multi-author workflows, scheduling, and performance tracking to help teams manage recurring, SEO-driven content at scale. Content Writing Free trial - $79/mo
-
+HitPublish.ai is an AI-powered content automation platform for WordPress that streamlines writing, formatting, SEO optimization, and bulk publishing. It supports multi-author workflows, scheduling, and performance tracking to help teams manage recurring, SEO-driven content at scale.
 In short, HitPublish.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. Many users find that this one ability of HitPublish.ai removes several tasks from their daily routine.
 
 ## Key features

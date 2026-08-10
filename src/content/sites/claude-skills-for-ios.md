@@ -173,8 +173,6 @@ Code Sharing: Ensure compliance with company policies when using cloud-based AI
 Proprietary Logic: Avoid sharing sensitive algorithms or business logic
 API Keys: Never expose credentials in AI conversations
 Data Handling: Understand how AI providers process and store conversation data Medium.
-Pricing and Availability
-Completely Free
 All Claude Skills for iOS development are:
 Open Source: MIT license allows free use for personal and commercial projects
 No Subscription: Skills themselves are free; you only need access to an AI coding assistant

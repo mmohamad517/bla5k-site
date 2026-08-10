@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Needle.app?
-    a: Needle.app is a knowledge threading platform that centralizes documents, apps, and data into a searchable AI knowledge base. It automates workflows for tasks like document processing, data extraction, and personalized outreach across sales, HR, and other teams. Knowledge base management Freemium - $29/mo That is the core of what Needle.app does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Needle.app is a knowledge threading platform that centralizes documents, apps, and data into a searchable AI knowledge base. It automates workflows for tasks like document processing, data extraction, and personalized outreach across sales, HR, and other teams. That is the core of what Needle.app does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Needle.app free?
     a: Needle.app uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $29/mo, check the official website — pricing changes often.
   - q: What can you do with Needle.app?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Needle.app?
 
-Needle.app is a knowledge threading platform that centralizes documents, apps, and data into a searchable AI knowledge base. It automates workflows for tasks like document processing, data extraction, and personalized outreach across sales, HR, and other teams. Knowledge base management Freemium - $29/mo
-
+Needle.app is a knowledge threading platform that centralizes documents, apps, and data into a searchable AI knowledge base. It automates workflows for tasks like document processing, data extraction, and personalized outreach across sales, HR, and other teams.
 In short, Needle.app is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For plenty of users, that one capability of Needle.app replaces several steps they used to do by hand.
 
 ## Key features

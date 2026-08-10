@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Jupid - AI Accountant?
-    a: Jupid - AI Accountant is an AI-powered accounting platform for small businesses and LLCs, automating bookkeeping, tax filing, and business formation. It offers 24/7 conversational AI support and integrates with accounts to streamline financial management.  That is the core of what Jupid - AI Accountant does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Jupid - AI Accountant is an AI-powered accounting platform for small businesses and LLCs, automating bookkeeping, tax filing, and business formation. It offers 24/7 conversational AI support and integrates with accounts to streamline financial management. That is the core of what Jupid - AI Accountant does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Jupid - AI Accountant free?
     a: Jupid - AI Accountant is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Jupid - AI Accountant?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is 5DollarJobs?
-    a: 5 Dollar Jobs is a global micro‑gig marketplace that connects freelance internet workers with clients for quick, skill‑based tasks. It offers a streamlined posting interface, AI‑powered assistants, instant notifications, and dedicated categories for video and administrative services.  That is the core of what 5DollarJobs does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: 5 Dollar Jobs is a global micro‑gig marketplace that connects freelance internet workers with clients for quick, skill‑based tasks. It offers a streamlined posting interface, AI‑powered assistants, instant notifications, and dedicated categories for video and administrative services. That is the core of what 5DollarJobs does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is 5DollarJobs free?
     a: 5DollarJobs is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with 5DollarJobs?

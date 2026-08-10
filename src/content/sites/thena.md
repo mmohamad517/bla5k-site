@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Thena?
-    a: Thena is an AI-driven customer support platform for B2B teams that consolidates communication across Slack, email, and chat. It streamlines ticket management, automates tasks, and integrates applications to enhance collaboration and efficiency in customer service. Customer support Free trial That is the core of what Thena does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Thena is an AI-driven customer support platform for B2B teams that consolidates communication across Slack, email, and chat. It streamlines ticket management, automates tasks, and integrates applications to enhance collaboration and efficiency in customer service. That is the core of what Thena does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Thena free?
     a: Thena uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Thena?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Thena?
 
-Thena is an AI-driven customer support platform for B2B teams that consolidates communication across Slack, email, and chat. It streamlines ticket management, automates tasks, and integrates applications to enhance collaboration and efficiency in customer service. Customer support Free trial
-
+Thena is an AI-driven customer support platform for B2B teams that consolidates communication across Slack, email, and chat. It streamlines ticket management, automates tasks, and integrates applications to enhance collaboration and efficiency in customer service.
 In short, Thena is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. That one capability of Thena frequently saves users from juggling several separate steps.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Kinetik?
-    a: Kinetikis a data-driven content intelligence platform that transforms analytics into creative direction and actionable recommendations. It streamlines content production and distribution through campaign optimization, workflow automation, and collaborative tools for cross-team coordination.  That is the core of what Kinetik does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Kinetikis a data-driven content intelligence platform that transforms analytics into creative direction and actionable recommendations. It streamlines content production and distribution through campaign optimization, workflow automation, and collaborative tools for cross-team coordination. That is the core of what Kinetik does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Kinetik free?
     a: Kinetik uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Kinetik?

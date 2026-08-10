@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is neuroflash?
-    a: A platform for AI-powered text and image generation, offering tools for content creation, natural language processing, machine learning, text summarization, image recognition, and visual search.  That is the core of what neuroflash does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: A platform for AI-powered text and image generation, offering tools for content creation, natural language processing, machine learning, text summarization, image recognition, and visual search. That is the core of what neuroflash does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is neuroflash free?
     a: neuroflash uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $30/mo, check the official website — pricing changes often.
   - q: What can you do with neuroflash?

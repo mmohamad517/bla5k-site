@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Gista?
-    a: Gista turns a website into a chatbot that crawls key pages and captures visitor data such as name, email, company, and service interest. It learns from PDFs or CSVs, supports up to 80 languages, and embeds as a dark‑mode widget. Knowledge base management Freemium - $19/mo That is the core of what Gista does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Gista turns a website into a chatbot that crawls key pages and captures visitor data such as name, email, company, and service interest. It learns from PDFs or CSVs, supports up to 80 languages, and embeds as a dark‑mode widget. That is the core of what Gista does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Gista free?
     a: Gista uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $19/mo, check the official website — pricing changes often.
   - q: What can you do with Gista?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Gista earn 
 
 ## What is Gista?
 
-Gista turns a website into a chatbot that crawls key pages and captures visitor data such as name, email, company, and service interest. It learns from PDFs or CSVs, supports up to 80 languages, and embeds as a dark‑mode widget. Knowledge base management Freemium - $19/mo
-
+Gista turns a website into a chatbot that crawls key pages and captures visitor data such as name, email, company, and service interest. It learns from PDFs or CSVs, supports up to 80 languages, and embeds as a dark‑mode widget.
 In short, Gista is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. That one capability of Gista frequently saves users from juggling several separate steps.
 
 ## Key features

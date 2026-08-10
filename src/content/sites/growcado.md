@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Growcado?
-    a: Growcado connects first-party Shopify, Klaviyo and analytics data to deliver no-code on-site personalization. Its rule engine displays dynamic messaging, images and offers based on browsing, cart contents, purchase history, loyalty tier and referral source. Content creation Free trial That is the core of what Growcado does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Growcado connects first-party Shopify, Klaviyo and analytics data to deliver no-code on-site personalization. Its rule engine displays dynamic messaging, images and offers based on browsing, cart contents, purchase history, loyalty tier and referral source. That is the core of what Growcado does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Growcado free?
     a: Growcado uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Growcado?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Growcado?
 
-Growcado connects first-party Shopify, Klaviyo and analytics data to deliver no-code on-site personalization. Its rule engine displays dynamic messaging, images and offers based on browsing, cart contents, purchase history, loyalty tier and referral source. Content creation Free trial
-
+Growcado connects first-party Shopify, Klaviyo and analytics data to deliver no-code on-site personalization. Its rule engine displays dynamic messaging, images and offers based on browsing, cart contents, purchase history, loyalty tier and referral source.
 In short, Growcado is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. That single feature of Growcado alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

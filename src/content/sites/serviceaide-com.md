@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Serviceaide.com?
-    a: Serviceaide Luma Virtual Agent is an AI‑powered assistant inside the Serviceaide Digital Service Management Platform. It deflects tickets by routing users to a central knowledge base, automates change approvals, unifies ITSM processes, and supplies real‑time performance metrics for administrators. AI Assistant Free That is the core of what Serviceaide.com does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Serviceaide Luma Virtual Agent is an AI‑powered assistant inside the Serviceaide Digital Service Management Platform. It deflects tickets by routing users to a central knowledge base, automates change approvals, unifies ITSM processes, and supplies real‑time performance metrics for administrators. That is the core of what Serviceaide.com does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Serviceaide.com free?
     a: Yes — Serviceaide.com is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Serviceaide.com?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Serviceaide.com?
 
-Serviceaide Luma Virtual Agent is an AI‑powered assistant inside the Serviceaide Digital Service Management Platform. It deflects tickets by routing users to a central knowledge base, automates change approvals, unifies ITSM processes, and supplies real‑time performance metrics for administrators. AI Assistant Free
-
+Serviceaide Luma Virtual Agent is an AI‑powered assistant inside the Serviceaide Digital Service Management Platform. It deflects tickets by routing users to a central knowledge base, automates change approvals, unifies ITSM processes, and supplies real‑time performance metrics for administrators.
 In short, Serviceaide.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one capability of Serviceaide.com frequently saves users from juggling several separate steps.
 
 ## Key features

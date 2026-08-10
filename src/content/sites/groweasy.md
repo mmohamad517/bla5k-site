@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is GrowEasy?
-    a: GrowEasy uses AI to generate and continuously optimize banner, video, copy, and lead‑form ads across Google, Instagram, YouTube, and Facebook. It offers a built‑in CRM, WhatsApp AI follow‑up, and multilingual support for service and product businesses. Marketing Freemium - $0.83/mo That is the core of what GrowEasy does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: GrowEasy uses AI to generate and continuously optimize banner, video, copy, and lead‑form ads across Google, Instagram, YouTube, and Facebook. It offers a built‑in CRM, WhatsApp AI follow‑up, and multilingual support for service and product businesses. That is the core of what GrowEasy does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is GrowEasy free?
     a: GrowEasy uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $0.83/mo, check the official website — pricing changes often.
   - q: What can you do with GrowEasy?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is GrowEasy?
 
-GrowEasy uses AI to generate and continuously optimize banner, video, copy, and lead‑form ads across Google, Instagram, YouTube, and Facebook. It offers a built‑in CRM, WhatsApp AI follow‑up, and multilingual support for service and product businesses. Marketing Freemium - $0.83/mo
-
+GrowEasy uses AI to generate and continuously optimize banner, video, copy, and lead‑form ads across Google, Instagram, YouTube, and Facebook. It offers a built‑in CRM, WhatsApp AI follow‑up, and multilingual support for service and product businesses.
 In short, GrowEasy is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That one capability of GrowEasy frequently saves users from juggling several separate steps.
 
 ## Key features

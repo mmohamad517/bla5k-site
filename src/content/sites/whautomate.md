@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Whautomate?
-    a: WHAutomate is a customer engagement platform that simplifies communication through personalized messages and targeted campaigns. Enhance customer relationships with automated follow-ups and responses for increased engagement and conversions.  That is the core of what Whautomate does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: WHAutomate is a customer engagement platform that simplifies communication through personalized messages and targeted campaigns. Enhance customer relationships with automated follow-ups and responses for increased engagement and conversions. That is the core of what Whautomate does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Whautomate free?
     a: Whautomate uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Whautomate?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ChatWise?
-    a: Chatwise is a versatile AI chatbot that enhances productivity with multi-modal support for various LLMs, prioritizes user privacy by storing data locally, and features integrated web search for real-time information within conversations.  That is the core of what ChatWise does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Chatwise is a versatile AI chatbot that enhances productivity with multi-modal support for various LLMs, prioritizes user privacy by storing data locally, and features integrated web search for real-time information within conversations. That is the core of what ChatWise does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ChatWise free?
     a: ChatWise uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ChatWise?

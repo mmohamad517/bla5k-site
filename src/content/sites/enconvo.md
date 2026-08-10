@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Enconvo?
-    a: EnConvo turns macOS apps into AI agents via SmartBar, PopBar, and Companion Orb, offering voice input, live screen and camera sharing, multi‑provider web search, image generation, custom workflows, document chat, offline LLMs, open‑source plugins, and real‑time captions. Personal assistant Freemium - $10/mo That is the core of what Enconvo does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: EnConvo turns macOS apps into AI agents via SmartBar, PopBar, and Companion Orb, offering voice input, live screen and camera sharing, multi‑provider web search, image generation, custom workflows, document chat, offline LLMs, open‑source plugins, and real‑time captions. That is the core of what Enconvo does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Enconvo free?
     a: Enconvo uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $10/mo, check the official website — pricing changes often.
   - q: What can you do with Enconvo?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Enconvo earn the
 
 ## What is Enconvo?
 
-EnConvo turns macOS apps into AI agents via SmartBar, PopBar, and Companion Orb, offering voice input, live screen and camera sharing, multi‑provider web search, image generation, custom workflows, document chat, offline LLMs, open‑source plugins, and real‑time captions. Personal assistant Freemium - $10/mo
-
+EnConvo turns macOS apps into AI agents via SmartBar, PopBar, and Companion Orb, offering voice input, live screen and camera sharing, multi‑provider web search, image generation, custom workflows, document chat, offline LLMs, open‑source plugins, and real‑time captions.
 In short, Enconvo is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many, that single strength of Enconvo is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Personalized Energy?
-    a: Personalized.energy uses AI to search and compare electricity plans based on a home address, analyzing location and usage to recommend the best options across multiple suppliers. It covers Texas and other states, simplifying the selection process for homeowners.  That is the core of what Personalized Energy does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Personalized.energy uses AI to search and compare electricity plans based on a home address, analyzing location and usage to recommend the best options across multiple suppliers. It covers Texas and other states, simplifying the selection process for homeowners. That is the core of what Personalized Energy does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Personalized Energy free?
     a: Personalized Energy uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Personalized Energy?

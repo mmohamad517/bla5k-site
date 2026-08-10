@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Daetama?
-    a: Daetama is a comprehensive data science preparation tool that offers a wide variety of SQL questions from top companies for real-world practice, job board integration for easy job searching, and upcoming data science courses for skill enhancement. Code assistant Free trial - $20/mo That is the core of what Daetama does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Daetama is a comprehensive data science preparation tool that offers a wide variety of SQL questions from top companies for real-world practice, job board integration for easy job searching, and upcoming data science courses for skill enhancement. That is the core of what Daetama does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Daetama free?
     a: Daetama uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $20/mo, check the official website — pricing changes often.
   - q: What can you do with Daetama?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Daetama?
 
-Daetama is a comprehensive data science preparation tool that offers a wide variety of SQL questions from top companies for real-world practice, job board integration for easy job searching, and upcoming data science courses for skill enhancement. Code assistant Free trial - $20/mo
-
+Daetama is a comprehensive data science preparation tool that offers a wide variety of SQL questions from top companies for real-world practice, job board integration for easy job searching, and upcoming data science courses for skill enhancement.
 In short, Daetama is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many, that single strength of Daetama is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

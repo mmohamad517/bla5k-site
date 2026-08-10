@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Gnbly?
-    a: NatterGPT automates outbound and inbound calls, dialing contact lists, navigating IVRs, and transferring to humans. It records, summarizes, and reports leads, supports up to 1,000 calls/hour, and is customizable for sales, support, and dispatching. Communication Automation Subscription - $49/mo That is the core of what Gnbly does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: NatterGPT automates outbound and inbound calls, dialing contact lists, navigating IVRs, and transferring to humans. It records, summarizes, and reports leads, supports up to 1,000 calls/hour, and is customizable for sales, support, and dispatching. That is the core of what Gnbly does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Gnbly free?
     a: Gnbly is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Gnbly?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Gnbly earn 
 
 ## What is Gnbly?
 
-NatterGPT automates outbound and inbound calls, dialing contact lists, navigating IVRs, and transferring to humans. It records, summarizes, and reports leads, supports up to 1,000 calls/hour, and is customizable for sales, support, and dispatching. Communication Automation Subscription - $49/mo
-
+NatterGPT automates outbound and inbound calls, dialing contact lists, navigating IVRs, and transferring to humans. It records, summarizes, and reports leads, supports up to 1,000 calls/hour, and is customizable for sales, support, and dispatching.
 In short, Gnbly is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. For a lot of people, that one function of Gnbly collapses multiple steps into a single action.
 
 ## Key features

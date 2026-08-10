@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Protoface?
-    a: protoface.com is a real-time AI avatar platform that delivers expressive full-face motion from a single image with sub-300ms latency. It offers a fast API and SDK integrations for embedding low-latency, high-resolution voice avatars into web and mobile applications. Avatar Free trial - $20/mo That is the core of what Protoface does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: protoface.com is a real-time AI avatar platform that delivers expressive full-face motion from a single image with sub-300ms latency. It offers a fast API and SDK integrations for embedding low-latency, high-resolution voice avatars into web and mobile applications. That is the core of what Protoface does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Protoface free?
     a: Protoface uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $20/mo, check the official website — pricing changes often.
   - q: What can you do with Protoface?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Protoface?
 
-protoface.com is a real-time AI avatar platform that delivers expressive full-face motion from a single image with sub-300ms latency. It offers a fast API and SDK integrations for embedding low-latency, high-resolution voice avatars into web and mobile applications. Avatar Free trial - $20/mo
-
+protoface.com is a real-time AI avatar platform that delivers expressive full-face motion from a single image with sub-300ms latency. It offers a fast API and SDK integrations for embedding low-latency, high-resolution voice avatars into web and mobile applications.
 In short, Protoface is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. That single feature of Protoface alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

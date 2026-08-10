@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Explain An Error?
-    a: Explain by Whybug uses a large language model trained on StackExchange data to analyze code errors. Paste an error message (≤200 characters) and receive concise explanations and actionable fixes, helping developers and students debug faster. Code Debugging Freemium That is the core of what Explain An Error does — developer tools handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Explain by Whybug uses a large language model trained on StackExchange data to analyze code errors. Paste an error message (≤200 characters) and receive concise explanations and actionable fixes, helping developers and students debug faster. That is the core of what Explain An Error does — developer tools handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Explain An Error free?
     a: Explain An Error uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Explain An Error?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Explain An Error?
 
-Explain by Whybug uses a large language model trained on StackExchange data to analyze code errors. Paste an error message (≤200 characters) and receive concise explanations and actionable fixes, helping developers and students debug faster. Code Debugging Freemium
-
+Explain by Whybug uses a large language model trained on StackExchange data to analyze code errors. Paste an error message (≤200 characters) and receive concise explanations and actionable fixes, helping developers and students debug faster.
 In short, Explain An Error is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for developer tools without the manual grind. That single feature of Explain An Error alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

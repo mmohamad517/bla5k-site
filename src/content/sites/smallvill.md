@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SmallVill?
-    a: SmallVill is a virtual environment that simulates interactions among multiple AI agents—including historical figures—within a modern village. It supports autonomous behavior research, offers case studies, and lets users mint and trade agent tokens on OpenSea. AI Agents Freemium That is the core of what SmallVill does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SmallVill is a virtual environment that simulates interactions among multiple AI agents—including historical figures—within a modern village. It supports autonomous behavior research, offers case studies, and lets users mint and trade agent tokens on OpenSea. That is the core of what SmallVill does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SmallVill free?
     a: SmallVill uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with SmallVill?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like SmallVill e
 
 ## What is SmallVill?
 
-SmallVill is a virtual environment that simulates interactions among multiple AI agents—including historical figures—within a modern village. It supports autonomous behavior research, offers case studies, and lets users mint and trade agent tokens on OpenSea. AI Agents Freemium
-
+SmallVill is a virtual environment that simulates interactions among multiple AI agents—including historical figures—within a modern village. It supports autonomous behavior research, offers case studies, and lets users mint and trade agent tokens on OpenSea.
 In short, SmallVill is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users find that this one ability of SmallVill removes several tasks from their daily routine.
 
 ## Key features

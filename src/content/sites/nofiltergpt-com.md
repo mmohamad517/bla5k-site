@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is NoFilterGpt.com?
-    a: Nofiltergpt is an AI chat tool that offers anonymous and unfiltered conversations. It ensures data security through local cloud storage and AES encryption, supports multiple languages, and provides a RESTful API for seamless integration.  That is the core of what NoFilterGpt.com does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Nofiltergpt is an AI chat tool that offers anonymous and unfiltered conversations. It ensures data security through local cloud storage and AES encryption, supports multiple languages, and provides a RESTful API for seamless integration. That is the core of what NoFilterGpt.com does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is NoFilterGpt.com free?
     a: NoFilterGpt.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with NoFilterGpt.com?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SamaritanAI?
-    a: SamaritanAI simplifies open source contributions by visualizing complex codebases as navigable graphs, helping users identify necessary file changes, manage tasks, and gain insights on GitHub issues, thereby enhancing overall productivity for developers. Code assistant Free That is the core of what SamaritanAI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SamaritanAI simplifies open source contributions by visualizing complex codebases as navigable graphs, helping users identify necessary file changes, manage tasks, and gain insights on GitHub issues, thereby enhancing overall productivity for developers. That is the core of what SamaritanAI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SamaritanAI free?
     a: Yes — SamaritanAI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with SamaritanAI?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like SamaritanAI earn
 
 ## What is SamaritanAI?
 
-SamaritanAI simplifies open source contributions by visualizing complex codebases as navigable graphs, helping users identify necessary file changes, manage tasks, and gain insights on GitHub issues, thereby enhancing overall productivity for developers. Code assistant Free
-
+SamaritanAI simplifies open source contributions by visualizing complex codebases as navigable graphs, helping users identify necessary file changes, manage tasks, and gain insights on GitHub issues, thereby enhancing overall productivity for developers.
 In short, SamaritanAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many, that single strength of SamaritanAI is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

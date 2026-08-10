@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MagnetsAI?
-    a: Magnets AI is an AI-powered lead forms tool that provides hyper-personalized content, easy creation and embedding of forms, and lead tracking features. It's designed to be user-friendly with no coding skills required. Marketing Freemium That is the core of what MagnetsAI does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Magnets AI is an AI-powered lead forms tool that provides hyper-personalized content, easy creation and embedding of forms, and lead tracking features. It's designed to be user-friendly with no coding skills required. That is the core of what MagnetsAI does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MagnetsAI free?
     a: MagnetsAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with MagnetsAI?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is MagnetsAI?
 
-Magnets AI is an AI-powered lead forms tool that provides hyper-personalized content, easy creation and embedding of forms, and lead tracking features. It's designed to be user-friendly with no coding skills required. Marketing Freemium
-
+Magnets AI is an AI-powered lead forms tool that provides hyper-personalized content, easy creation and embedding of forms, and lead tracking features. It's designed to be user-friendly with no coding skills required.
 In short, MagnetsAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many, that single strength of MagnetsAI is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

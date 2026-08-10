@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Reforgify?
-    a: AI platform that aggregates public startup data, letting users search VC‑backed ideas by industry, user group, or JTBD and filter by launch date, geography, business model, etc., while providing detailed profiles and trend analysis to accelerate validation and market entry. AI Assistant Freemium That is the core of what Reforgify does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI platform that aggregates public startup data, letting users search VC‑backed ideas by industry, user group, or JTBD and filter by launch date, geography, business model, etc., while providing detailed profiles and trend analysis to accelerate validation and market entry. That is the core of what Reforgify does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Reforgify free?
     a: Reforgify uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Reforgify?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Reforgify earn t
 
 ## What is Reforgify?
 
-AI platform that aggregates public startup data, letting users search VC‑backed ideas by industry, user group, or JTBD and filter by launch date, geography, business model, etc., while providing detailed profiles and trend analysis to accelerate validation and market entry. AI Assistant Freemium
-
+AI platform that aggregates public startup data, letting users search VC‑backed ideas by industry, user group, or JTBD and filter by launch date, geography, business model, etc., while providing detailed profiles and trend analysis to accelerate validation and market entry.
 In short, Reforgify is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For a lot of people, that one function of Reforgify collapses multiple steps into a single action.
 
 ## Key features

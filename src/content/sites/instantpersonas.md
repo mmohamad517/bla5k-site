@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Instantpersonas?
-    a: InstantPersonas automatically creates detailed user personas from limited input, revealing motivations, preferences, and behaviors. It assesses website perception per persona, supports design and content decisions, and offers market research insights, competitor personas, niche opportunities, and SEO‑ready content suggestions. Marketing Paid That is the core of what Instantpersonas does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: InstantPersonas automatically creates detailed user personas from limited input, revealing motivations, preferences, and behaviors. It assesses website perception per persona, supports design and content decisions, and offers market research insights, competitor personas, niche opportunities, and SEO‑ready content suggestions. That is the core of what Instantpersonas does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Instantpersonas free?
     a: Instantpersonas is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Instantpersonas?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Instantpers
 
 ## What is Instantpersonas?
 
-InstantPersonas automatically creates detailed user personas from limited input, revealing motivations, preferences, and behaviors. It assesses website perception per persona, supports design and content decisions, and offers market research insights, competitor personas, niche opportunities, and SEO‑ready content suggestions. Marketing Paid
-
+InstantPersonas automatically creates detailed user personas from limited input, revealing motivations, preferences, and behaviors. It assesses website perception per persona, supports design and content decisions, and offers market research insights, competitor personas, niche opportunities, and SEO‑ready content suggestions.
 In short, Instantpersonas is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That one feature of Instantpersonas often eliminates several smaller steps from the usual workflow.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is arcloop?
-    a: arcloop.ai is an AI-driven anime video creation engine that transforms scripts or text prompts into fully animated sequences with original characters, worlds, and narrative arcs. It provides storyboard, timeline, and export tools for precise control over pacing, visuals, and collaboration. Anime Generation Freemium That is the core of what arcloop does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: arcloop.ai is an AI-driven anime video creation engine that transforms scripts or text prompts into fully animated sequences with original characters, worlds, and narrative arcs. It provides storyboard, timeline, and export tools for precise control over pacing, visuals, and collaboration. That is the core of what arcloop does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is arcloop free?
     a: arcloop uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with arcloop?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is arcloop?
 
-arcloop.ai is an AI-driven anime video creation engine that transforms scripts or text prompts into fully animated sequences with original characters, worlds, and narrative arcs. It provides storyboard, timeline, and export tools for precise control over pacing, visuals, and collaboration. Anime Generation Freemium
-
+arcloop.ai is an AI-driven anime video creation engine that transforms scripts or text prompts into fully animated sequences with original characters, worlds, and narrative arcs. It provides storyboard, timeline, and export tools for precise control over pacing, visuals, and collaboration.
 In short, arcloop is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. That one feature of arcloop often eliminates several smaller steps from the usual workflow.
 
 ## Key features

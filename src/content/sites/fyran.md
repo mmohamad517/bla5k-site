@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is FYRAN?
-    a: Fyran is an AI chatbot builder that easily generates advanced bots from uploaded files like PDF or MP3. It provides lifelike digital human assistance and can manage podcast audio content, making it a versatile tool for businesses of any scale. Chatbot builder Free trial That is the core of what FYRAN does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Fyran is an AI chatbot builder that easily generates advanced bots from uploaded files like PDF or MP3. It provides lifelike digital human assistance and can manage podcast audio content, making it a versatile tool for businesses of any scale. That is the core of what FYRAN does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is FYRAN free?
     a: FYRAN uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with FYRAN?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like FYRAN matte
 
 ## What is FYRAN?
 
-Fyran is an AI chatbot builder that easily generates advanced bots from uploaded files like PDF or MP3. It provides lifelike digital human assistance and can manage podcast audio content, making it a versatile tool for businesses of any scale. Chatbot builder Free trial
-
+Fyran is an AI chatbot builder that easily generates advanced bots from uploaded files like PDF or MP3. It provides lifelike digital human assistance and can manage podcast audio content, making it a versatile tool for businesses of any scale.
 In short, FYRAN is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. That single feature of FYRAN alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

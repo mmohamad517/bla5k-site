@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Truebees?
-    a: Introducing Truebees, the first deepfakes detector designed to combat the spread of AI-generated portraits on social media platforms. Truebees helps verify the trustworthiness of images, detect deepfakes, and prevent the sharing of AI-generated images. AI detection Freemium That is the core of what Truebees does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Introducing Truebees, the first deepfakes detector designed to combat the spread of AI-generated portraits on social media platforms. Truebees helps verify the trustworthiness of images, detect deepfakes, and prevent the sharing of AI-generated images. That is the core of what Truebees does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Truebees free?
     a: Truebees uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Truebees?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Truebees ea
 
 ## What is Truebees?
 
-Introducing Truebees, the first deepfakes detector designed to combat the spread of AI-generated portraits on social media platforms. Truebees helps verify the trustworthiness of images, detect deepfakes, and prevent the sharing of AI-generated images. AI detection Freemium
-
+Introducing Truebees, the first deepfakes detector designed to combat the spread of AI-generated portraits on social media platforms. Truebees helps verify the trustworthiness of images, detect deepfakes, and prevent the sharing of AI-generated images.
 In short, Truebees is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. For many, that single strength of Truebees is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Talynce?
-    a: Talynce AI automates hiring by parsing bulk resumes into searchable profiles, conducting AI-driven screening and semantic candidate matching, enabling WhatsApp/email outreach, supporting ATS workflows with collaboration, analytics, APIs, role-based permissions and enterprise security. AI Agents Freemium That is the core of what Talynce does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Talynce AI automates hiring by parsing bulk resumes into searchable profiles, conducting AI-driven screening and semantic candidate matching, enabling WhatsApp/email outreach, supporting ATS workflows with collaboration, analytics, APIs, role-based permissions and enterprise security. That is the core of what Talynce does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Talynce free?
     a: Talynce uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Talynce?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Talynce mat
 
 ## What is Talynce?
 
-Talynce AI automates hiring by parsing bulk resumes into searchable profiles, conducting AI-driven screening and semantic candidate matching, enabling WhatsApp/email outreach, supporting ATS workflows with collaboration, analytics, APIs, role-based permissions and enterprise security. AI Agents Freemium
-
+Talynce AI automates hiring by parsing bulk resumes into searchable profiles, conducting AI-driven screening and semantic candidate matching, enabling WhatsApp/email outreach, supporting ATS workflows with collaboration, analytics, APIs, role-based permissions and enterprise security.
 In short, Talynce is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users discover that this feature of Talynce alone covers what previously took multiple tools.
 
 ## Key features

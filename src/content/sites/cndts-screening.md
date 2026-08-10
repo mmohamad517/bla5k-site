@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CNDTS Screening?
-    a: Candidate Screening Software utilizes AI for efficient hiring by offering customizable assessments, instant results, video interviews, and seamless integration with applicant tracking systems, enabling businesses to effectively evaluate and manage large volumes of job applicants. AI Agents Free trial That is the core of what CNDTS Screening does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Candidate Screening Software utilizes AI for efficient hiring by offering customizable assessments, instant results, video interviews, and seamless integration with applicant tracking systems, enabling businesses to effectively evaluate and manage large volumes of job applicants. That is the core of what CNDTS Screening does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CNDTS Screening free?
     a: CNDTS Screening uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with CNDTS Screening?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like CNDTS Scree
 
 ## What is CNDTS Screening?
 
-Candidate Screening Software utilizes AI for efficient hiring by offering customizable assessments, instant results, video interviews, and seamless integration with applicant tracking systems, enabling businesses to effectively evaluate and manage large volumes of job applicants. AI Agents Free trial
-
+Candidate Screening Software utilizes AI for efficient hiring by offering customizable assessments, instant results, video interviews, and seamless integration with applicant tracking systems, enabling businesses to effectively evaluate and manage large volumes of job applicants.
 In short, CNDTS Screening is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users find that this one ability of CNDTS Screening removes several tasks from their daily routine.
 
 ## Key features

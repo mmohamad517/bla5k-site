@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is LongShot?
-    a: Longshot AI is an AI-powered writing tool that generates engaging and SEO-optimized long-form content quickly, offering features like fact-checking, custom templates, and SEO score calculation, with a free trial and integration with various platforms.  That is the core of what LongShot does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Longshot AI is an AI-powered writing tool that generates engaging and SEO-optimized long-form content quickly, offering features like fact-checking, custom templates, and SEO score calculation, with a free trial and integration with various platforms. That is the core of what LongShot does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is LongShot free?
     a: LongShot uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $6/mo, check the official website — pricing changes often.
   - q: What can you do with LongShot?

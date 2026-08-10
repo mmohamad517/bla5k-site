@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Dub.io?
-    a: "##dub is an AI tool that automates high-quality, SEO-friendly blog article generation. It offers customizable workflows, content summarization, monetization options, and community-building features, enabling users to effectively scale their blogging efforts and engage their audience. Content Writing Free trial That is the core of what Dub.io does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "##dub is an AI tool that automates high-quality, SEO-friendly blog article generation. It offers customizable workflows, content summarization, monetization options, and community-building features, enabling users to effectively scale their blogging efforts and engage their audience. That is the core of what Dub.io does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is Dub.io free?
     a: Dub.io uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Dub.io?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Dub.io
 
 ## What is Dub.io?
 
-##dub is an AI tool that automates high-quality, SEO-friendly blog article generation. It offers customizable workflows, content summarization, monetization options, and community-building features, enabling users to effectively scale their blogging efforts and engage their audience. Content Writing Free trial
-
+##dub is an AI tool that automates high-quality, SEO-friendly blog article generation. It offers customizable workflows, content summarization, monetization options, and community-building features, enabling users to effectively scale their blogging efforts and engage their audience.
 In short, Dub.io is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For many, that single strength of Dub.io is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

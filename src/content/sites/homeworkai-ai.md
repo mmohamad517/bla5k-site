@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is HomeworkAI.ai?
-    a: Homework AI processes uploaded images or text files, delivering step‑by‑step solutions for math, science, literature, and history. It supports PDFs, DOCX, JPEG, PNG, and provides detailed explanations with alternative methods, available 24/7 for all school levels.  That is the core of what HomeworkAI.ai does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Homework AI processes uploaded images or text files, delivering step‑by‑step solutions for math, science, literature, and history. It supports PDFs, DOCX, JPEG, PNG, and provides detailed explanations with alternative methods, available 24/7 for all school levels. That is the core of what HomeworkAI.ai does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is HomeworkAI.ai free?
     a: HomeworkAI.ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with HomeworkAI.ai?

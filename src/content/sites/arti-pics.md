@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ARTi.PiCS?
-    a: AI-Pow Avatar Maker generates 200 unique avatars from uploaded photos in different styles using AI training that can take 2-3 hours. The output quality is filtered, and you have some control over it. There is no free trial. Avatar Free trial That is the core of what ARTi.PiCS does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI-Pow Avatar Maker generates 200 unique avatars from uploaded photos in different styles using AI training that can take 2-3 hours. The output quality is filtered, and you have some control over it. There is no free trial. That is the core of what ARTi.PiCS does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ARTi.PiCS free?
     a: ARTi.PiCS uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ARTi.PiCS?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is ARTi.PiCS?
 
-AI-Pow Avatar Maker generates 200 unique avatars from uploaded photos in different styles using AI training that can take 2-3 hours. The output quality is filtered, and you have some control over it. There is no free trial. Avatar Free trial
-
+AI-Pow Avatar Maker generates 200 unique avatars from uploaded photos in different styles using AI training that can take 2-3 hours. The output quality is filtered, and you have some control over it. There is no free trial.
 In short, ARTi.PiCS is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. For many, that single strength of ARTi.PiCS is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Google Workspace?
-    a: Google Workspace is a comprehensive suite of online productivity tools, including Gmail, Drive, Meet, Chat, Calendar, and Docs, designed to facilitate real-time collaboration and efficient workflows across various industries.  That is the core of what Google Workspace does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Google Workspace is a comprehensive suite of online productivity tools, including Gmail, Drive, Meet, Chat, Calendar, and Docs, designed to facilitate real-time collaboration and efficient workflows across various industries. That is the core of what Google Workspace does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Google Workspace free?
     a: Google Workspace is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Google Workspace?

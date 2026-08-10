@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Overchat?
-    a: Overchat is a versatile AI app that integrates multiple AI models like ChatGPT, Claude, and Gemini for dynamic text generation, summarization, coding assistance, and image creation. It supports multilingual translation, homework help, and ensures secure, encrypted interactions across all features.  That is the core of what Overchat does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Overchat is a versatile AI app that integrates multiple AI models like ChatGPT, Claude, and Gemini for dynamic text generation, summarization, coding assistance, and image creation. It supports multilingual translation, homework help, and ensures secure, encrypted interactions across all features. That is the core of what Overchat does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Overchat free?
     a: Overchat uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $7/mo, check the official website — pricing changes often.
   - q: What can you do with Overchat?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is VibeMe AI?
-    a: VibeMe AI is an end-to-end creative studio that lets you generate original songs, synthesize vocals, and turn text ideas into music videos. It combines a storyboard editor, asset library, and multiple AI models for HD export and social-ready formatting. Art Generation Freemium That is the core of what VibeMe AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: VibeMe AI is an end-to-end creative studio that lets you generate original songs, synthesize vocals, and turn text ideas into music videos. It combines a storyboard editor, asset library, and multiple AI models for HD export and social-ready formatting. That is the core of what VibeMe AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is VibeMe AI free?
     a: VibeMe AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with VibeMe AI?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like VibeMe AI e
 
 ## What is VibeMe AI?
 
-VibeMe AI is an end-to-end creative studio that lets you generate original songs, synthesize vocals, and turn text ideas into music videos. It combines a storyboard editor, asset library, and multiple AI models for HD export and social-ready formatting. Art Generation Freemium
-
+VibeMe AI is an end-to-end creative studio that lets you generate original songs, synthesize vocals, and turn text ideas into music videos. It combines a storyboard editor, asset library, and multiple AI models for HD export and social-ready formatting.
 In short, VibeMe AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. That one capability of VibeMe AI frequently saves users from juggling several separate steps.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Muses AI?
-    a: Muses is an AI writing agent for articles, marketing copy, academic papers, and fiction, offering multi-model comparison (GPT-5, Claude 4.5, Gemini 2.5), an idea-to-draft editor, prompt expansion tools, source upload, and optional fact‑checking. Copywriting Free That is the core of what Muses AI does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Muses is an AI writing agent for articles, marketing copy, academic papers, and fiction, offering multi-model comparison (GPT-5, Claude 4.5, Gemini 2.5), an idea-to-draft editor, prompt expansion tools, source upload, and optional fact‑checking. That is the core of what Muses AI does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Muses AI free?
     a: Yes — Muses AI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Muses AI?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Muses AI ma
 
 ## What is Muses AI?
 
-Muses is an AI writing agent for articles, marketing copy, academic papers, and fiction, offering multi-model comparison (GPT-5, Claude 4.5, Gemini 2.5), an idea-to-draft editor, prompt expansion tools, source upload, and optional fact‑checking. Copywriting Free
-
+Muses is an AI writing agent for articles, marketing copy, academic papers, and fiction, offering multi-model comparison (GPT-5, Claude 4.5, Gemini 2.5), an idea-to-draft editor, prompt expansion tools, source upload, and optional fact‑checking.
 In short, Muses AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. For plenty of users, that one capability of Muses AI replaces several steps they used to do by hand.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Emotsy?
-    a: Emotsy converts followers into owned contacts and delivers behavior‑driven email and chat campaigns. It offers real‑time intent, loyalty, and purchase insights, AI‑segmentation, automated action triggers, and a flexible editor for rapid, scalable customer journeys. Marketing Freemium That is the core of what Emotsy does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Emotsy converts followers into owned contacts and delivers behavior‑driven email and chat campaigns. It offers real‑time intent, loyalty, and purchase insights, AI‑segmentation, automated action triggers, and a flexible editor for rapid, scalable customer journeys. That is the core of what Emotsy does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Emotsy free?
     a: Emotsy uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Emotsy?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Emotsy
 
 ## What is Emotsy?
 
-Emotsy converts followers into owned contacts and delivers behavior‑driven email and chat campaigns. It offers real‑time intent, loyalty, and purchase insights, AI‑segmentation, automated action triggers, and a flexible editor for rapid, scalable customer journeys. Marketing Freemium
-
+Emotsy converts followers into owned contacts and delivers behavior‑driven email and chat campaigns. It offers real‑time intent, loyalty, and purchase insights, AI‑segmentation, automated action triggers, and a flexible editor for rapid, scalable customer journeys.
 In short, Emotsy is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For a lot of people, that one function of Emotsy collapses multiple steps into a single action.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ideal Hire AI?
-    a: Ideal Hire AI analyzes applicant data to identify skills, cultural fit, and career potential, reducing time‑to‑hire and improving selection quality. It parses résumés, schedules interviews, and delivers workforce forecasting, diversity insights, and marketing briefs. AI Assistant Freemium That is the core of what Ideal Hire AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ideal Hire AI analyzes applicant data to identify skills, cultural fit, and career potential, reducing time‑to‑hire and improving selection quality. It parses résumés, schedules interviews, and delivers workforce forecasting, diversity insights, and marketing briefs. That is the core of what Ideal Hire AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ideal Hire AI free?
     a: Ideal Hire AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Ideal Hire AI?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Ideal Hire 
 
 ## What is Ideal Hire AI?
 
-Ideal Hire AI analyzes applicant data to identify skills, cultural fit, and career potential, reducing time‑to‑hire and improving selection quality. It parses résumés, schedules interviews, and delivers workforce forecasting, diversity insights, and marketing briefs. AI Assistant Freemium
-
+Ideal Hire AI analyzes applicant data to identify skills, cultural fit, and career potential, reducing time‑to‑hire and improving selection quality. It parses résumés, schedules interviews, and delivers workforce forecasting, diversity insights, and marketing briefs.
 In short, Ideal Hire AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users discover that this feature of Ideal Hire AI alone covers what previously took multiple tools.
 
 ## Key features

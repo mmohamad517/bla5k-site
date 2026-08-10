@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Toum AI?
-    a: Toum AI is a multilingual voice AI platform that enables teams to build, deploy, and orchestrate autonomous voice agents for contact centers. It combines speech analytics, real-time transcription, and developer tools to handle inbound and outbound conversations across languages and dialects. Voice Communication Free trial That is the core of what Toum AI does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Toum AI is a multilingual voice AI platform that enables teams to build, deploy, and orchestrate autonomous voice agents for contact centers. It combines speech analytics, real-time transcription, and developer tools to handle inbound and outbound conversations across languages and dialects. That is the core of what Toum AI does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Toum AI free?
     a: Toum AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Toum AI?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Toum AI ear
 
 ## What is Toum AI?
 
-Toum AI is a multilingual voice AI platform that enables teams to build, deploy, and orchestrate autonomous voice agents for contact centers. It combines speech analytics, real-time transcription, and developer tools to handle inbound and outbound conversations across languages and dialects. Voice Communication Free trial
-
+Toum AI is a multilingual voice AI platform that enables teams to build, deploy, and orchestrate autonomous voice agents for contact centers. It combines speech analytics, real-time transcription, and developer tools to handle inbound and outbound conversations across languages and dialects.
 In short, Toum AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For a lot of people, that one function of Toum AI collapses multiple steps into a single action.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SparkReceipt?
-    a: SparkReceipt is a comprehensive preaccounting tool that simplifies financial record management through receipt scanning, expense tracking, document management, and accountant collaboration, with cloud access and support for 150 currencies.  That is the core of what SparkReceipt does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SparkReceipt is a comprehensive preaccounting tool that simplifies financial record management through receipt scanning, expense tracking, document management, and accountant collaboration, with cloud access and support for 150 currencies. That is the core of what SparkReceipt does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SparkReceipt free?
     a: SparkReceipt uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with SparkReceipt?

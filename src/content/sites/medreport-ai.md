@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MedReport AI?
-    a: MedReport AI is a clinical documentation tool that generates Medicare reports, session summaries, and referral letters instantly. It offers customizable templates, quick patient detail input, and secure, ISO/IEC-compliant report downloads for efficient medical reporting in healthcare settings. AI Assistant Free trial That is the core of what MedReport AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: MedReport AI is a clinical documentation tool that generates Medicare reports, session summaries, and referral letters instantly. It offers customizable templates, quick patient detail input, and secure, ISO/IEC-compliant report downloads for efficient medical reporting in healthcare settings. That is the core of what MedReport AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MedReport AI free?
     a: MedReport AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with MedReport AI?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like MedRep
 
 ## What is MedReport AI?
 
-MedReport AI is a clinical documentation tool that generates Medicare reports, session summaries, and referral letters instantly. It offers customizable templates, quick patient detail input, and secure, ISO/IEC-compliant report downloads for efficient medical reporting in healthcare settings. AI Assistant Free trial
-
+MedReport AI is a clinical documentation tool that generates Medicare reports, session summaries, and referral letters instantly. It offers customizable templates, quick patient detail input, and secure, ISO/IEC-compliant report downloads for efficient medical reporting in healthcare settings.
 In short, MedReport AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of MedReport AI replaces several steps they used to do by hand.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SalesCloser?
-    a: SalesCloser.ai is a powerful AI sales tool that revolutionizes the way sales teams perform. It eliminates the need for training and management hassles by providing automated demos, discovery calls, and presentations. This tool supports multi-language sales conversations in 10 languages, making it perfect for selling globally. Sales Free trial That is the core of what SalesCloser does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SalesCloser.ai is a powerful AI sales tool that revolutionizes the way sales teams perform. It eliminates the need for training and management hassles by providing automated demos, discovery calls, and presentations. This tool supports multi-language sales conversations in 10 languages, making it perfect for selling globally. That is the core of what SalesCloser does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SalesCloser free?
     a: SalesCloser uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with SalesCloser?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is SalesCloser?
 
-SalesCloser.ai is a powerful AI sales tool that revolutionizes the way sales teams perform. It eliminates the need for training and management hassles by providing automated demos, discovery calls, and presentations. This tool supports multi-language sales conversations in 10 languages, making it perfect for selling globally. Sales Free trial
-
+SalesCloser.ai is a powerful AI sales tool that revolutionizes the way sales teams perform. It eliminates the need for training and management hassles by providing automated demos, discovery calls, and presentations. This tool supports multi-language sales conversations in 10 languages, making it perfect for selling globally.
 In short, SalesCloser is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. Many users discover that this feature of SalesCloser alone covers what previously took multiple tools.
 
 ## Key features

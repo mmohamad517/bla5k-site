@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Sketch2scheme?
-    a: Sketch2scheme uses AI to convert hand‑drawn flowcharts and textual descriptions into clean digital diagrams. It auto‑detects nodes, aligns them, and lets users tweak via a visual editor or Mermaid code. Export to PNG, SVG, PDF, or diagrams.net. Conceptual Generation Paid - $3.99/mo That is the core of what Sketch2scheme does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Sketch2scheme uses AI to convert hand‑drawn flowcharts and textual descriptions into clean digital diagrams. It auto‑detects nodes, aligns them, and lets users tweak via a visual editor or Mermaid code. Export to PNG, SVG, PDF, or diagrams.net. That is the core of what Sketch2scheme does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Sketch2scheme free?
     a: Sketch2scheme is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Sketch2scheme?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Sketch2scheme?
 
-Sketch2scheme uses AI to convert hand‑drawn flowcharts and textual descriptions into clean digital diagrams. It auto‑detects nodes, aligns them, and lets users tweak via a visual editor or Mermaid code. Export to PNG, SVG, PDF, or diagrams.net. Conceptual Generation Paid - $3.99/mo
-
+Sketch2scheme uses AI to convert hand‑drawn flowcharts and textual descriptions into clean digital diagrams. It auto‑detects nodes, aligns them, and lets users tweak via a visual editor or Mermaid code. Export to PNG, SVG, PDF, or diagrams.net.
 In short, Sketch2scheme is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. Many users find that this one ability of Sketch2scheme removes several tasks from their daily routine.
 
 ## Key features

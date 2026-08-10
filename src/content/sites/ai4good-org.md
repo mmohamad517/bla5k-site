@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ai4good.org?
-    a: AI Good Foundation enhances humanitarian efforts by providing project management tools for refugee assistance and social impact. It features an intelligent assistant for improved workflows and collaboration, alongside business management capabilities for AI audits and process optimization. Project management Freemium That is the core of what ai4good.org does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Good Foundation enhances humanitarian efforts by providing project management tools for refugee assistance and social impact. It features an intelligent assistant for improved workflows and collaboration, alongside business management capabilities for AI audits and process optimization. That is the core of what ai4good.org does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ai4good.org free?
     a: ai4good.org uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ai4good.org?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is ai4good.org?
 
-AI Good Foundation enhances humanitarian efforts by providing project management tools for refugee assistance and social impact. It features an intelligent assistant for improved workflows and collaboration, alongside business management capabilities for AI audits and process optimization. Project management Freemium
-
+AI Good Foundation enhances humanitarian efforts by providing project management tools for refugee assistance and social impact. It features an intelligent assistant for improved workflows and collaboration, alongside business management capabilities for AI audits and process optimization.
 In short, ai4good.org is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. That single feature of ai4good.org alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

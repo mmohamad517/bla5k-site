@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is GPTAnywhere?
-    a: GPTAnywhere is a desktop client that lets users chat offline with GPT‑3.5‑turbo and GPT‑4, maintain conversation history, query local files (txt, pdf, docx, ppt, csv, json) via LangChain, and use split view, markdown, shortcuts, auto‑save, and terminal commands for multitasking. Personal assistant Subscription That is the core of what GPTAnywhere does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: GPTAnywhere is a desktop client that lets users chat offline with GPT‑3.5‑turbo and GPT‑4, maintain conversation history, query local files (txt, pdf, docx, ppt, csv, json) via LangChain, and use split view, markdown, shortcuts, auto‑save, and terminal commands for multitasking. That is the core of what GPTAnywhere does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is GPTAnywhere free?
     a: GPTAnywhere is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with GPTAnywhere?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like GPTAnywhere
 
 ## What is GPTAnywhere?
 
-GPTAnywhere is a desktop client that lets users chat offline with GPT‑3.5‑turbo and GPT‑4, maintain conversation history, query local files (txt, pdf, docx, ppt, csv, json) via LangChain, and use split view, markdown, shortcuts, auto‑save, and terminal commands for multitasking. Personal assistant Subscription
-
+GPTAnywhere is a desktop client that lets users chat offline with GPT‑3.5‑turbo and GPT‑4, maintain conversation history, query local files (txt, pdf, docx, ppt, csv, json) via LangChain, and use split view, markdown, shortcuts, auto‑save, and terminal commands for multitasking.
 In short, GPTAnywhere is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users find that this one ability of GPTAnywhere removes several tasks from their daily routine.
 
 ## Key features

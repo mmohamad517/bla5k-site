@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CodeReviewBot.AI?
-    a: AI Code Review Bot automatically scans GitHub pull requests for bugs, security flaws, and performance issues across multiple languages. It adds detailed, actionable comments directly to PR threads, enabling consistent, rapid code quality checks without manual effort. Code assistant Freemium - $15/mo That is the core of what CodeReviewBot.AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Code Review Bot automatically scans GitHub pull requests for bugs, security flaws, and performance issues across multiple languages. It adds detailed, actionable comments directly to PR threads, enabling consistent, rapid code quality checks without manual effort. That is the core of what CodeReviewBot.AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CodeReviewBot.AI free?
     a: CodeReviewBot.AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $15/mo, check the official website — pricing changes often.
   - q: What can you do with CodeReviewBot.AI?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like CodeReviewBot.AI
 
 ## What is CodeReviewBot.AI?
 
-AI Code Review Bot automatically scans GitHub pull requests for bugs, security flaws, and performance issues across multiple languages. It adds detailed, actionable comments directly to PR threads, enabling consistent, rapid code quality checks without manual effort. Code assistant Freemium - $15/mo
-
+AI Code Review Bot automatically scans GitHub pull requests for bugs, security flaws, and performance issues across multiple languages. It adds detailed, actionable comments directly to PR threads, enabling consistent, rapid code quality checks without manual effort.
 In short, CodeReviewBot.AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users find that this one ability of CodeReviewBot.AI removes several tasks from their daily routine.
 
 ## Key features

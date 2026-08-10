@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Lunchbreak AI?
-    a: Lunchbreak AI scans documents with Turnitin, GPTZero and other detectors, highlights AI‑flagged sections, and offers one‑click rewriting that preserves meaning and voice. It supports academic, research, and business writing, ensuring detector compliance without loss of originality. AI detection Freemium That is the core of what Lunchbreak AI does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Lunchbreak AI scans documents with Turnitin, GPTZero and other detectors, highlights AI‑flagged sections, and offers one‑click rewriting that preserves meaning and voice. It supports academic, research, and business writing, ensuring detector compliance without loss of originality. That is the core of what Lunchbreak AI does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Lunchbreak AI free?
     a: Lunchbreak AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Lunchbreak AI?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Lunchbreak AI?
 
-Lunchbreak AI scans documents with Turnitin, GPTZero and other detectors, highlights AI‑flagged sections, and offers one‑click rewriting that preserves meaning and voice. It supports academic, research, and business writing, ensuring detector compliance without loss of originality. AI detection Freemium
-
+Lunchbreak AI scans documents with Turnitin, GPTZero and other detectors, highlights AI‑flagged sections, and offers one‑click rewriting that preserves meaning and voice. It supports academic, research, and business writing, ensuring detector compliance without loss of originality.
 In short, Lunchbreak AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. That one feature of Lunchbreak AI often eliminates several smaller steps from the usual workflow.
 
 ## Key features

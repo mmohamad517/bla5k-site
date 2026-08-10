@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Smartereply?
-    a: Smartereply is an AI communication tool that automates replies and generates concise email drafts across platforms like LinkedIn, Twitter, and Slack, enhancing productivity and facilitating efficient management of professional correspondence.  That is the core of what Smartereply does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Smartereply is an AI communication tool that automates replies and generates concise email drafts across platforms like LinkedIn, Twitter, and Slack, enhancing productivity and facilitating efficient management of professional correspondence. That is the core of what Smartereply does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Smartereply free?
     a: Smartereply uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Smartereply?

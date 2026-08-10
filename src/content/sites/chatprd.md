@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Chatprd?
-    a: ChatPRD automates creation of requirement documents, user stories, and technical specs from simple prompts, analyzing research, code, and issues to spot gaps. It offers real‑time coaching, collaborative dashboards, and secure export to Linear, Notion, Confluence, Google Docs, Slack, and GitHub. AI Assistant Freemium - $5 That is the core of what Chatprd does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ChatPRD automates creation of requirement documents, user stories, and technical specs from simple prompts, analyzing research, code, and issues to spot gaps. It offers real‑time coaching, collaborative dashboards, and secure export to Linear, Notion, Confluence, Google Docs, Slack, and GitHub. That is the core of what Chatprd does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Chatprd free?
     a: Chatprd uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $5, check the official website — pricing changes often.
   - q: What can you do with Chatprd?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Chatprd?
 
-ChatPRD automates creation of requirement documents, user stories, and technical specs from simple prompts, analyzing research, code, and issues to spot gaps. It offers real‑time coaching, collaborative dashboards, and secure export to Linear, Notion, Confluence, Google Docs, Slack, and GitHub. AI Assistant Freemium - $5
-
+ChatPRD automates creation of requirement documents, user stories, and technical specs from simple prompts, analyzing research, code, and issues to spot gaps. It offers real‑time coaching, collaborative dashboards, and secure export to Linear, Notion, Confluence, Google Docs, Slack, and GitHub.
 In short, Chatprd is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one capability of Chatprd frequently saves users from juggling several separate steps.
 
 ## Key features

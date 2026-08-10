@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CodingFleet?
-    a: CodingFleet is a comprehensive AI-powered coding suite designed to streamline programming workflows. It offers tools like code generation, real-time assistance, code explanation, enhancement, conversion, and automated testing, all supported by an interactive chat feature for continuous guidance.  That is the core of what CodingFleet does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CodingFleet is a comprehensive AI-powered coding suite designed to streamline programming workflows. It offers tools like code generation, real-time assistance, code explanation, enhancement, conversion, and automated testing, all supported by an interactive chat feature for continuous guidance. That is the core of what CodingFleet does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CodingFleet free?
     a: CodingFleet uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $10/mo, check the official website — pricing changes often.
   - q: What can you do with CodingFleet?

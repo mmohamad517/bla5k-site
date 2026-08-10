@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Easy Posters AI?
-    a: Easy Posters AI is an intuitive AI-driven tool that enables users to create high-quality, custom posters effortlessly. It provides error-free text, a user-friendly editor, and delivers print-ready images for various purposes, from events to promotions.  That is the core of what Easy Posters AI does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Easy Posters AI is an intuitive AI-driven tool that enables users to create high-quality, custom posters effortlessly. It provides error-free text, a user-friendly editor, and delivers print-ready images for various purposes, from events to promotions. That is the core of what Easy Posters AI does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Easy Posters AI free?
     a: Easy Posters AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Easy Posters AI?

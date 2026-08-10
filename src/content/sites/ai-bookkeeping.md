@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Bookeeping AI?
-    a: AI Bookkeeping is an AI-powered accounting tool that automates bookkeeping, invoicing, and financial document analysis through chat-based management. It syncs with 5,000+ banks and apps, ensures tax compliance, and offers AI audit monitoring for error detection and savings.  That is the core of what Bookeeping AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Bookkeeping is an AI-powered accounting tool that automates bookkeeping, invoicing, and financial document analysis through chat-based management. It syncs with 5,000+ banks and apps, ensures tax compliance, and offers AI audit monitoring for error detection and savings. That is the core of what Bookeeping AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Bookeeping AI free?
     a: Bookeeping AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $25.49/mo, check the official website — pricing changes often.
   - q: What can you do with Bookeeping AI?

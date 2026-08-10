@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is brandwell.ai?
-    a: BrandWell is an intent-led GTM platform combining intent data, visitor identification, ABM audience management, contact enrichment, ad sync, programmatic SEO and AI-driven content/ad automation to identify researching accounts, build buying-committee audiences, and prioritize high-impact pages. Marketing Freemium - $899/mo That is the core of what brandwell.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: BrandWell is an intent-led GTM platform combining intent data, visitor identification, ABM audience management, contact enrichment, ad sync, programmatic SEO and AI-driven content/ad automation to identify researching accounts, build buying-committee audiences, and prioritize high-impact pages. That is the core of what brandwell.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is brandwell.ai free?
     a: brandwell.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $899/mo, check the official website — pricing changes often.
   - q: What can you do with brandwell.ai?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like brandwell.a
 
 ## What is brandwell.ai?
 
-BrandWell is an intent-led GTM platform combining intent data, visitor identification, ABM audience management, contact enrichment, ad sync, programmatic SEO and AI-driven content/ad automation to identify researching accounts, build buying-committee audiences, and prioritize high-impact pages. Marketing Freemium - $899/mo
-
+BrandWell is an intent-led GTM platform combining intent data, visitor identification, ABM audience management, contact enrichment, ad sync, programmatic SEO and AI-driven content/ad automation to identify researching accounts, build buying-committee audiences, and prioritize high-impact pages.
 In short, brandwell.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For a lot of people, that one function of brandwell.ai collapses multiple steps into a single action.
 
 ## Key features

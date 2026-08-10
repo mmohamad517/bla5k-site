@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Study Point AI?
-    a: Study Point AI delivers instant, step‑by‑step math solutions, AI‑assisted writing feedback, and tutoring across math, science, programming, and history. It includes graph plotting, an interactive periodic table, 3‑D solar explorer, custom quizzes, mind‑maps, progress analytics, and adaptive learning. Course Generator Subscription - $6.99/mo That is the core of what Study Point AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Study Point AI delivers instant, step‑by‑step math solutions, AI‑assisted writing feedback, and tutoring across math, science, programming, and history. It includes graph plotting, an interactive periodic table, 3‑D solar explorer, custom quizzes, mind‑maps, progress analytics, and adaptive learning. That is the core of what Study Point AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Study Point AI free?
     a: Study Point AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Study Point AI?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Study Point AI?
 
-Study Point AI delivers instant, step‑by‑step math solutions, AI‑assisted writing feedback, and tutoring across math, science, programming, and history. It includes graph plotting, an interactive periodic table, 3‑D solar explorer, custom quizzes, mind‑maps, progress analytics, and adaptive learning. Course Generator Subscription - $6.99/mo
-
+Study Point AI delivers instant, step‑by‑step math solutions, AI‑assisted writing feedback, and tutoring across math, science, programming, and history. It includes graph plotting, an interactive periodic table, 3‑D solar explorer, custom quizzes, mind‑maps, progress analytics, and adaptive learning.
 In short, Study Point AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. Many users find that this one ability of Study Point AI removes several tasks from their daily routine.
 
 ## Key features

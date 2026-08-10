@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Writeprint.ai?
-    a: writeprint.ai customizes AI-generated content to reflect individual writing styles, enhancing engagement and brand alignment. It allows users to upload samples for tailored output and offers API access for streamlined automation within existing workflows. Copywriting Free trial That is the core of what Writeprint.ai does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: writeprint.ai customizes AI-generated content to reflect individual writing styles, enhancing engagement and brand alignment. It allows users to upload samples for tailored output and offers API access for streamlined automation within existing workflows. That is the core of what Writeprint.ai does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Writeprint.ai free?
     a: Writeprint.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Writeprint.ai?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Writeprint.
 
 ## What is Writeprint.ai?
 
-writeprint.ai customizes AI-generated content to reflect individual writing styles, enhancing engagement and brand alignment. It allows users to upload samples for tailored output and offers API access for streamlined automation within existing workflows. Copywriting Free trial
-
+writeprint.ai customizes AI-generated content to reflect individual writing styles, enhancing engagement and brand alignment. It allows users to upload samples for tailored output and offers API access for streamlined automation within existing workflows.
 In short, Writeprint.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. For plenty of users, that one capability of Writeprint.ai replaces several steps they used to do by hand.
 
 ## Key features

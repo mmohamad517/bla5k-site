@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Eilla AI?
-    a: Eilla AI accelerates M&A for SMBs by combining senior advisors with machine‑learning. Scanning 9 million companies, it produces a focused buyer shortlist in days, speeding deal sourcing, valuation, and offer creation for faster market entry and higher valuations. Business Paid - $14/mo That is the core of what Eilla AI does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Eilla AI accelerates M&A for SMBs by combining senior advisors with machine‑learning. Scanning 9 million companies, it produces a focused buyer shortlist in days, speeding deal sourcing, valuation, and offer creation for faster market entry and higher valuations. That is the core of what Eilla AI does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Eilla AI free?
     a: Eilla AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Eilla AI?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Eilla AI ea
 
 ## What is Eilla AI?
 
-Eilla AI accelerates M&A for SMBs by combining senior advisors with machine‑learning. Scanning 9 million companies, it produces a focused buyer shortlist in days, speeding deal sourcing, valuation, and offer creation for faster market entry and higher valuations. Business Paid - $14/mo
-
+Eilla AI accelerates M&A for SMBs by combining senior advisors with machine‑learning. Scanning 9 million companies, it produces a focused buyer shortlist in days, speeding deal sourcing, valuation, and offer creation for faster market entry and higher valuations.
 In short, Eilla AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. Many users find that this one ability of Eilla AI removes several tasks from their daily routine.
 
 ## Key features

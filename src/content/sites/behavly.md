@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Behavly?
-    a: Behavly analyzes website content, design, and user flow to provide data‑driven suggestions for headlines, CTAs, visual consistency, copy, button colors, layout, and personalized financial calculators, helping owners improve conversion rates and traffic. Marketing Paid - $1.99 That is the core of what Behavly does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Behavly analyzes website content, design, and user flow to provide data‑driven suggestions for headlines, CTAs, visual consistency, copy, button colors, layout, and personalized financial calculators, helping owners improve conversion rates and traffic. That is the core of what Behavly does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Behavly free?
     a: Behavly is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Behavly?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Behavl
 
 ## What is Behavly?
 
-Behavly analyzes website content, design, and user flow to provide data‑driven suggestions for headlines, CTAs, visual consistency, copy, button colors, layout, and personalized financial calculators, helping owners improve conversion rates and traffic. Marketing Paid - $1.99
-
+Behavly analyzes website content, design, and user flow to provide data‑driven suggestions for headlines, CTAs, visual consistency, copy, button colors, layout, and personalized financial calculators, helping owners improve conversion rates and traffic.
 In short, Behavly is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That one feature of Behavly often eliminates several smaller steps from the usual workflow.
 
 ## Key features

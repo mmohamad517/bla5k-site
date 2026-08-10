@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SorSor?
-    a: Learnity is an AI‑driven educational assistant for math and science. Users create quizzes, take notes, manage projects, receive instant explanations, auto‑classify questions, generate flashcards, and track progress with analytics and gamified rewards. Available on iOS, Android, web, and WhatsApp. AI Assistant Freemium That is the core of what SorSor does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Learnity is an AI‑driven educational assistant for math and science. Users create quizzes, take notes, manage projects, receive instant explanations, auto‑classify questions, generate flashcards, and track progress with analytics and gamified rewards. Available on iOS, Android, web, and WhatsApp. That is the core of what SorSor does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SorSor free?
     a: SorSor uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with SorSor?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is SorSor?
 
-Learnity is an AI‑driven educational assistant for math and science. Users create quizzes, take notes, manage projects, receive instant explanations, auto‑classify questions, generate flashcards, and track progress with analytics and gamified rewards. Available on iOS, Android, web, and WhatsApp. AI Assistant Freemium
-
+Learnity is an AI‑driven educational assistant for math and science. Users create quizzes, take notes, manage projects, receive instant explanations, auto‑classify questions, generate flashcards, and track progress with analytics and gamified rewards. Available on iOS, Android, web, and WhatsApp.
 In short, SorSor is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one feature of SorSor often eliminates several smaller steps from the usual workflow.
 
 ## Key features

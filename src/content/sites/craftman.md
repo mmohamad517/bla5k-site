@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Craftman?
-    a: Craftman is an AI‑powered support inbox for startups, merging chat and email into one feed. It auto‑drafts replies using your knowledge base, learns from edits, and offers GDPR‑compliant, brand‑neutral responses.  That is the core of what Craftman does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Craftman is an AI‑powered support inbox for startups, merging chat and email into one feed. It auto‑drafts replies using your knowledge base, learns from edits, and offers GDPR‑compliant, brand‑neutral responses. That is the core of what Craftman does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Craftman free?
     a: Craftman uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $29/mo, check the official website — pricing changes often.
   - q: What can you do with Craftman?

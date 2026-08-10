@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Book Generator?
-    a: AIBookGenerator.org is a powerful AI tool that helps users effortlessly generate unique book ideas by customizing titles, plots, genres, and tones. Its user-friendly interface allows for easy adjustments in pacing and chapter settings, making the creative writing process engaging and dynamic.  That is the core of what AI Book Generator does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AIBookGenerator.org is a powerful AI tool that helps users effortlessly generate unique book ideas by customizing titles, plots, genres, and tones. Its user-friendly interface allows for easy adjustments in pacing and chapter settings, making the creative writing process engaging and dynamic. That is the core of what AI Book Generator does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI Book Generator free?
     a: AI Book Generator is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with AI Book Generator?

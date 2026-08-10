@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Helper.im?
-    a: Ai Helper is a cross‑platform desktop client that brings ChatGPT, GPT‑4, and other AI engines to macOS, Windows, and Linux. It lets users chat on webpages, PDFs, or videos via shortcuts and generate content, code, or emails within native apps. Personal assistant Freemium - $9.9 That is the core of what Helper.im does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ai Helper is a cross‑platform desktop client that brings ChatGPT, GPT‑4, and other AI engines to macOS, Windows, and Linux. It lets users chat on webpages, PDFs, or videos via shortcuts and generate content, code, or emails within native apps. That is the core of what Helper.im does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Helper.im free?
     a: Helper.im uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9.9, check the official website — pricing changes often.
   - q: What can you do with Helper.im?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Helper.im?
 
-Ai Helper is a cross‑platform desktop client that brings ChatGPT, GPT‑4, and other AI engines to macOS, Windows, and Linux. It lets users chat on webpages, PDFs, or videos via shortcuts and generate content, code, or emails within native apps. Personal assistant Freemium - $9.9
-
+Ai Helper is a cross‑platform desktop client that brings ChatGPT, GPT‑4, and other AI engines to macOS, Windows, and Linux. It lets users chat on webpages, PDFs, or videos via shortcuts and generate content, code, or emails within native apps.
 In short, Helper.im is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For a lot of people, that one function of Helper.im collapses multiple steps into a single action.
 
 ## Key features

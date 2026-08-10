@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Nubot?
-    a: Nubot is an AI sales agent and WhatsApp CRM that automates multi‑channel support and sales via no‑code conversational flows, unified inbox, scheduling and follow‑ups, segmented messaging, lead prioritization, integrations (APIs/webhooks) and team collaboration tools. Omnichannel chatbot Free That is the core of what Nubot does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Nubot is an AI sales agent and WhatsApp CRM that automates multi‑channel support and sales via no‑code conversational flows, unified inbox, scheduling and follow‑ups, segmented messaging, lead prioritization, integrations (APIs/webhooks) and team collaboration tools. That is the core of what Nubot does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Nubot free?
     a: Yes — Nubot is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Nubot?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Nubot?
 
-Nubot is an AI sales agent and WhatsApp CRM that automates multi‑channel support and sales via no‑code conversational flows, unified inbox, scheduling and follow‑ups, segmented messaging, lead prioritization, integrations (APIs/webhooks) and team collaboration tools. Omnichannel chatbot Free
-
+Nubot is an AI sales agent and WhatsApp CRM that automates multi‑channel support and sales via no‑code conversational flows, unified inbox, scheduling and follow‑ups, segmented messaging, lead prioritization, integrations (APIs/webhooks) and team collaboration tools.
 In short, Nubot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. That one feature of Nubot often eliminates several smaller steps from the usual workflow.
 
 ## Key features

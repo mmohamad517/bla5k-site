@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Merlu.io?
-    a: Merlu.io is an AI-powered Robo Advisor that predicts cryptocurrency prices in real-time. It assists in investment decision-making (buy/sell) by offering historical predictions, projected price changes, and up-to-date crypto news for informed trading. Crypto and Web3 Freemium That is the core of what Merlu.io does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Merlu.io is an AI-powered Robo Advisor that predicts cryptocurrency prices in real-time. It assists in investment decision-making (buy/sell) by offering historical predictions, projected price changes, and up-to-date crypto news for informed trading. That is the core of what Merlu.io does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Merlu.io free?
     a: Merlu.io uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Merlu.io?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Merlu.io?
 
-Merlu.io is an AI-powered Robo Advisor that predicts cryptocurrency prices in real-time. It assists in investment decision-making (buy/sell) by offering historical predictions, projected price changes, and up-to-date crypto news for informed trading. Crypto and Web3 Freemium
-
+Merlu.io is an AI-powered Robo Advisor that predicts cryptocurrency prices in real-time. It assists in investment decision-making (buy/sell) by offering historical predictions, projected price changes, and up-to-date crypto news for informed trading.
 In short, Merlu.io is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. Many users find that this one ability of Merlu.io removes several tasks from their daily routine.
 
 ## Key features

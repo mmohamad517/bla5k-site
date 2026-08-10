@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Leverbot?
-    a: LeverBot is a generative AI chatbot that provides 24/7 unified customer support across websites, messenger, and live chat. It learns from PDFs, web pages, audio, video, and Excel, offers a drag‑and‑drop builder, custom branding, and performance dashboards. Customer support Free That is the core of what Leverbot does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: LeverBot is a generative AI chatbot that provides 24/7 unified customer support across websites, messenger, and live chat. It learns from PDFs, web pages, audio, video, and Excel, offers a drag‑and‑drop builder, custom branding, and performance dashboards. That is the core of what Leverbot does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Leverbot free?
     a: Yes — Leverbot is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Leverbot?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Leverbot?
 
-LeverBot is a generative AI chatbot that provides 24/7 unified customer support across websites, messenger, and live chat. It learns from PDFs, web pages, audio, video, and Excel, offers a drag‑and‑drop builder, custom branding, and performance dashboards. Customer support Free
-
+LeverBot is a generative AI chatbot that provides 24/7 unified customer support across websites, messenger, and live chat. It learns from PDFs, web pages, audio, video, and Excel, offers a drag‑and‑drop builder, custom branding, and performance dashboards.
 In short, Leverbot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. Many users find that this one ability of Leverbot removes several tasks from their daily routine.
 
 ## Key features

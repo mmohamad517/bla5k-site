@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is QuickChatbot?
-    a: QuickChatbot lets users converse with GPT‑3 to answer questions, process PDFs/TXT for keyword searching, summarization, and insight extraction, upload CSVs for on‑the‑go data analysis, and retrieve YouTube video metadata and related content within chat. Chat Paid That is the core of what QuickChatbot does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: QuickChatbot lets users converse with GPT‑3 to answer questions, process PDFs/TXT for keyword searching, summarization, and insight extraction, upload CSVs for on‑the‑go data analysis, and retrieve YouTube video metadata and related content within chat. That is the core of what QuickChatbot does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is QuickChatbot free?
     a: QuickChatbot is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with QuickChatbot?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is QuickChatbot?
 
-QuickChatbot lets users converse with GPT‑3 to answer questions, process PDFs/TXT for keyword searching, summarization, and insight extraction, upload CSVs for on‑the‑go data analysis, and retrieve YouTube video metadata and related content within chat. Chat Paid
-
+QuickChatbot lets users converse with GPT‑3 to answer questions, process PDFs/TXT for keyword searching, summarization, and insight extraction, upload CSVs for on‑the‑go data analysis, and retrieve YouTube video metadata and related content within chat.
 In short, QuickChatbot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. That single feature of QuickChatbot alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

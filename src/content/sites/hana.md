@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Hana?
-    a: Hana AI Assistant integrates with Google Chat to deliver instant answers, drafts, and conversation summaries. It ingests chat logs, Drive files, Confluence, Jira, PDFs, and web links, creating a searchable knowledge graph for real‑time queries, task updates, and onboarding support. Chat Freemium That is the core of what Hana does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Hana AI Assistant integrates with Google Chat to deliver instant answers, drafts, and conversation summaries. It ingests chat logs, Drive files, Confluence, Jira, PDFs, and web links, creating a searchable knowledge graph for real‑time queries, task updates, and onboarding support. That is the core of what Hana does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Hana free?
     a: Hana uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Hana?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Hana?
 
-Hana AI Assistant integrates with Google Chat to deliver instant answers, drafts, and conversation summaries. It ingests chat logs, Drive files, Confluence, Jira, PDFs, and web links, creating a searchable knowledge graph for real‑time queries, task updates, and onboarding support. Chat Freemium
-
+Hana AI Assistant integrates with Google Chat to deliver instant answers, drafts, and conversation summaries. It ingests chat logs, Drive files, Confluence, Jira, PDFs, and web links, creating a searchable knowledge graph for real‑time queries, task updates, and onboarding support.
 In short, Hana is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. Many users discover that this feature of Hana alone covers what previously took multiple tools.
 
 ## Key features

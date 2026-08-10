@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Game Assets Generator?
-    a: AI Game Assets Generator turns natural‑language prompts into high‑quality game assets—characters, weapons, scenes, UI sprites—in seconds. It offers single‑click generation, GPT‑driven design suggestions, and multi‑language export for seamless integration into any game engine. Character Design Free That is the core of what Game Assets Generator does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Game Assets Generator turns natural‑language prompts into high‑quality game assets—characters, weapons, scenes, UI sprites—in seconds. It offers single‑click generation, GPT‑driven design suggestions, and multi‑language export for seamless integration into any game engine. That is the core of what Game Assets Generator does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Game Assets Generator free?
     a: Yes — Game Assets Generator is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Game Assets Generator?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Game A
 
 ## What is Game Assets Generator?
 
-AI Game Assets Generator turns natural‑language prompts into high‑quality game assets—characters, weapons, scenes, UI sprites—in seconds. It offers single‑click generation, GPT‑driven design suggestions, and multi‑language export for seamless integration into any game engine. Character Design Free
-
+AI Game Assets Generator turns natural‑language prompts into high‑quality game assets—characters, weapons, scenes, UI sprites—in seconds. It offers single‑click generation, GPT‑driven design suggestions, and multi‑language export for seamless integration into any game engine.
 In short, Game Assets Generator is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. For many, that single strength of Game Assets Generator is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

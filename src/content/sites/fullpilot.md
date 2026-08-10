@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Fullpilot?
-    a: Fullpilot automates 24/7 end‑to‑end go‑to‑market tasks with AI agents for outbound prospecting, multi‑channel sequencing, follow‑up nurturing, and content generation. Each message receives human review, and real‑time pipeline data tracks interactions across email, LinkedIn, voice, and web. Marketing Freemium - $3.25/mo That is the core of what Fullpilot does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Fullpilot automates 24/7 end‑to‑end go‑to‑market tasks with AI agents for outbound prospecting, multi‑channel sequencing, follow‑up nurturing, and content generation. Each message receives human review, and real‑time pipeline data tracks interactions across email, LinkedIn, voice, and web. That is the core of what Fullpilot does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Fullpilot free?
     a: Fullpilot uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $3.25/mo, check the official website — pricing changes often.
   - q: What can you do with Fullpilot?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Fullpilot e
 
 ## What is Fullpilot?
 
-Fullpilot automates 24/7 end‑to‑end go‑to‑market tasks with AI agents for outbound prospecting, multi‑channel sequencing, follow‑up nurturing, and content generation. Each message receives human review, and real‑time pipeline data tracks interactions across email, LinkedIn, voice, and web. Marketing Freemium - $3.25/mo
-
+Fullpilot automates 24/7 end‑to‑end go‑to‑market tasks with AI agents for outbound prospecting, multi‑channel sequencing, follow‑up nurturing, and content generation. Each message receives human review, and real‑time pipeline data tracks interactions across email, LinkedIn, voice, and web.
 In short, Fullpilot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That one capability of Fullpilot frequently saves users from juggling several separate steps.
 
 ## Key features

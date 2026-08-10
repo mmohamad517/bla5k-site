@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Suit Me Up?
-    a: SuitMeUp uses AI to convert 2‑5 casual selfies into 24 studio‑quality professional headshots in a realistic suit, delivering high‑resolution images for LinkedIn, resumes, websites, and dating profiles within minutes, quickly. Avatar Free That is the core of what Suit Me Up does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SuitMeUp uses AI to convert 2‑5 casual selfies into 24 studio‑quality professional headshots in a realistic suit, delivering high‑resolution images for LinkedIn, resumes, websites, and dating profiles within minutes, quickly. That is the core of what Suit Me Up does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Suit Me Up free?
     a: Yes — Suit Me Up is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Suit Me Up?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Suit Me Up?
 
-SuitMeUp uses AI to convert 2‑5 casual selfies into 24 studio‑quality professional headshots in a realistic suit, delivering high‑resolution images for LinkedIn, resumes, websites, and dating profiles within minutes, quickly. Avatar Free
-
+SuitMeUp uses AI to convert 2‑5 casual selfies into 24 studio‑quality professional headshots in a realistic suit, delivering high‑resolution images for LinkedIn, resumes, websites, and dating profiles within minutes, quickly.
 In short, Suit Me Up is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. Many users find that this one ability of Suit Me Up removes several tasks from their daily routine.
 
 ## Key features

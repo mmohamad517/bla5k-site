@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Copilot Hub?
-    a: Devv is an AI coding agent that builds full‑stack web applications from textual prompts, offering native integrations for authentication, language‑model inference, database, and image generation. It supports multiple languages, streamlines deployment, and provides automated testing and documentation utilities. Code assistant Freemium That is the core of what Copilot Hub does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Devv is an AI coding agent that builds full‑stack web applications from textual prompts, offering native integrations for authentication, language‑model inference, database, and image generation. It supports multiple languages, streamlines deployment, and provides automated testing and documentation utilities. That is the core of what Copilot Hub does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Copilot Hub free?
     a: Copilot Hub uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Copilot Hub?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Copilo
 
 ## What is Copilot Hub?
 
-Devv is an AI coding agent that builds full‑stack web applications from textual prompts, offering native integrations for authentication, language‑model inference, database, and image generation. It supports multiple languages, streamlines deployment, and provides automated testing and documentation utilities. Code assistant Freemium
-
+Devv is an AI coding agent that builds full‑stack web applications from textual prompts, offering native integrations for authentication, language‑model inference, database, and image generation. It supports multiple languages, streamlines deployment, and provides automated testing and documentation utilities.
 In short, Copilot Hub is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of Copilot Hub replaces several steps they used to do by hand.
 
 ## Key features

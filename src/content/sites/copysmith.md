@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Copysmith?
-    a: Copysmith delivers AI‑powered tools for SEO‑friendly content creation. It includes Frase for search signal tracking, Describely for bulk e‑commerce product descriptions, and Rytr for conversational copy, enabling teams to produce optimized, consistent material quickly. Digital Marketing Freemium That is the core of what Copysmith does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Copysmith delivers AI‑powered tools for SEO‑friendly content creation. It includes Frase for search signal tracking, Describely for bulk e‑commerce product descriptions, and Rytr for conversational copy, enabling teams to produce optimized, consistent material quickly. That is the core of what Copysmith does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Copysmith free?
     a: Copysmith uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Copysmith?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Copysmith earn t
 
 ## What is Copysmith?
 
-Copysmith delivers AI‑powered tools for SEO‑friendly content creation. It includes Frase for search signal tracking, Describely for bulk e‑commerce product descriptions, and Rytr for conversational copy, enabling teams to produce optimized, consistent material quickly. Digital Marketing Freemium
-
+Copysmith delivers AI‑powered tools for SEO‑friendly content creation. It includes Frase for search signal tracking, Describely for bulk e‑commerce product descriptions, and Rytr for conversational copy, enabling teams to produce optimized, consistent material quickly.
 In short, Copysmith is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many, that single strength of Copysmith is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

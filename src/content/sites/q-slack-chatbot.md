@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Q Slack Chatbot?
-    a: Q is a Slack‑integrated GPT assistant invoked with @Q that reads URLs and files, follows custom instructions, and offers unlimited chat history, advanced search, and 24/7 access for summarization, brainstorming, code review, translation, and content creation. Chatbot builder Paid - $6.67/mo That is the core of what Q Slack Chatbot does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Q is a Slack‑integrated GPT assistant invoked with @Q that reads URLs and files, follows custom instructions, and offers unlimited chat history, advanced search, and 24/7 access for summarization, brainstorming, code review, translation, and content creation. That is the core of what Q Slack Chatbot does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Q Slack Chatbot free?
     a: Q Slack Chatbot is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Q Slack Chatbot?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Q Slack Chatbot?
 
-Q is a Slack‑integrated GPT assistant invoked with @Q that reads URLs and files, follows custom instructions, and offers unlimited chat history, advanced search, and 24/7 access for summarization, brainstorming, code review, translation, and content creation. Chatbot builder Paid - $6.67/mo
-
+Q is a Slack‑integrated GPT assistant invoked with @Q that reads URLs and files, follows custom instructions, and offers unlimited chat history, advanced search, and 24/7 access for summarization, brainstorming, code review, translation, and content creation.
 In short, Q Slack Chatbot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For a lot of people, that one function of Q Slack Chatbot collapses multiple steps into a single action.
 
 ## Key features

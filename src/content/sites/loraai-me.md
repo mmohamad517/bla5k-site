@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Lora AI?
-    a: Lora AI is a no-code AI image generator that transforms text prompts and optional reference images into high-resolution artwork using pre-trained or user-uploaded LoRA models, compatible with Stable Diffusion XL and ComfyUI. It supports rapid generation with style presets, advanced settings, and integrations for designers, illustrators, and content creators.  That is the core of what Lora AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Lora AI is a no-code AI image generator that transforms text prompts and optional reference images into high-resolution artwork using pre-trained or user-uploaded LoRA models, compatible with Stable Diffusion XL and ComfyUI. It supports rapid generation with style presets, advanced settings, and integrations for designers, illustrators, and content creators. That is the core of what Lora AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Lora AI free?
     a: Lora AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Lora AI?

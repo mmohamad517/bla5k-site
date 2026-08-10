@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is QueryHub?
-    a: QueryHub is an AI-powered collaborative learning platform with an interactive forum, 24/7 chatbot assistance, smart search, resource sharing, and document collaboration for academics, enhancing efficiency, accelerating learning, and promoting team problem-solving.  That is the core of what QueryHub does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: QueryHub is an AI-powered collaborative learning platform with an interactive forum, 24/7 chatbot assistance, smart search, resource sharing, and document collaboration for academics, enhancing efficiency, accelerating learning, and promoting team problem-solving. That is the core of what QueryHub does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is QueryHub free?
     a: QueryHub uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with QueryHub?

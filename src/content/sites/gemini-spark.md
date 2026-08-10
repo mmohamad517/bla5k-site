@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Gemini Spark?
-    a: Gemini Spark is a background personal AI agent that automates Google Workspace tasks—summarizing and prioritizing email, extracting receipts and leads, organizing files, drafting emails, blocking calendar time, and running multi-step scheduled workflows across Workspace apps. Personal assistant Subscription That is the core of what Gemini Spark does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Gemini Spark is a background personal AI agent that automates Google Workspace tasks—summarizing and prioritizing email, extracting receipts and leads, organizing files, drafting emails, blocking calendar time, and running multi-step scheduled workflows across Workspace apps. That is the core of what Gemini Spark does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Gemini Spark free?
     a: Gemini Spark is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Gemini Spark?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Gemini Spark?
 
-Gemini Spark is a background personal AI agent that automates Google Workspace tasks—summarizing and prioritizing email, extracting receipts and leads, organizing files, drafting emails, blocking calendar time, and running multi-step scheduled workflows across Workspace apps. Personal assistant Subscription
-
+Gemini Spark is a background personal AI agent that automates Google Workspace tasks—summarizing and prioritizing email, extracting receipts and leads, organizing files, drafting emails, blocking calendar time, and running multi-step scheduled workflows across Workspace apps.
 In short, Gemini Spark is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users discover that this feature of Gemini Spark alone covers what previously took multiple tools.
 
 ## Key features

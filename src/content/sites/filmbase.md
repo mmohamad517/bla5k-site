@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Filmbase?
-    a: FilmBase is production management software that uses on-device AI to automate script breakdowns and tagging, optimize scheduling and stripboards, manage budgets, call sheets, locations and shotlists, link storyboards to camera plans, and store projects offline. Project management Subscription - $39 That is the core of what Filmbase does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: FilmBase is production management software that uses on-device AI to automate script breakdowns and tagging, optimize scheduling and stripboards, manage budgets, call sheets, locations and shotlists, link storyboards to camera plans, and store projects offline. That is the core of what Filmbase does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Filmbase free?
     a: Filmbase is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Filmbase?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Filmbase earn th
 
 ## What is Filmbase?
 
-FilmBase is production management software that uses on-device AI to automate script breakdowns and tagging, optimize scheduling and stripboards, manage budgets, call sheets, locations and shotlists, link storyboards to camera plans, and store projects offline. Project management Subscription - $39
-
+FilmBase is production management software that uses on-device AI to automate script breakdowns and tagging, optimize scheduling and stripboards, manage budgets, call sheets, locations and shotlists, link storyboards to camera plans, and store projects offline.
 In short, Filmbase is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For plenty of users, that one capability of Filmbase replaces several steps they used to do by hand.
 
 ## Key features

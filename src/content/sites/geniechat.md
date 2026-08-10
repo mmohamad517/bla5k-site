@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Geniechat?
-    a: Geniechat is a mobile keyboard that stores text, emojis, links, images, PDFs, and short videos in a searchable, customizable interface. It provides AI‑generated replies, conversation tracking, scheduling, and task reminders, syncing across devices for creators and marketers.  That is the core of what Geniechat does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Geniechat is a mobile keyboard that stores text, emojis, links, images, PDFs, and short videos in a searchable, customizable interface. It provides AI‑generated replies, conversation tracking, scheduling, and task reminders, syncing across devices for creators and marketers. That is the core of what Geniechat does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Geniechat free?
     a: Geniechat is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Geniechat?

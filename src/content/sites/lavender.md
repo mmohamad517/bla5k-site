@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Lavender?
-    a: Lavender is an AI email assistant that analyzes billions of past exchanges to give data‑driven recommendations on tone, structure, and content for sales outreach. It offers real‑time editing, Chrome integration, CRM enrichment, performance tracking, and meets SOC 2 and GDPR standards. Sales Freemium - $27/mo That is the core of what Lavender does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Lavender is an AI email assistant that analyzes billions of past exchanges to give data‑driven recommendations on tone, structure, and content for sales outreach. It offers real‑time editing, Chrome integration, CRM enrichment, performance tracking, and meets SOC 2 and GDPR standards. That is the core of what Lavender does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Lavender free?
     a: Lavender uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $27/mo, check the official website — pricing changes often.
   - q: What can you do with Lavender?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Lavender?
 
-Lavender is an AI email assistant that analyzes billions of past exchanges to give data‑driven recommendations on tone, structure, and content for sales outreach. It offers real‑time editing, Chrome integration, CRM enrichment, performance tracking, and meets SOC 2 and GDPR standards. Sales Freemium - $27/mo
-
+Lavender is an AI email assistant that analyzes billions of past exchanges to give data‑driven recommendations on tone, structure, and content for sales outreach. It offers real‑time editing, Chrome integration, CRM enrichment, performance tracking, and meets SOC 2 and GDPR standards.
 In short, Lavender is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. Many users discover that this feature of Lavender alone covers what previously took multiple tools.
 
 ## Key features

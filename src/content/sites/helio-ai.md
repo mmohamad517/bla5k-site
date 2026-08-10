@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Helio.AI?
-    a: Helio.AI is an integrated ATS that automates resume screening, offers multilingual gamified assessments, posts jobs to multiple boards, centralizes applications, automates email/SMS/WhatsApp/Telegram outreach, and delivers real‑time analytics for data‑driven hiring—all without external integrations. Human resources Free That is the core of what Helio.AI does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Helio.AI is an integrated ATS that automates resume screening, offers multilingual gamified assessments, posts jobs to multiple boards, centralizes applications, automates email/SMS/WhatsApp/Telegram outreach, and delivers real‑time analytics for data‑driven hiring—all without external integrations. That is the core of what Helio.AI does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Helio.AI free?
     a: Yes — Helio.AI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Helio.AI?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Helio.AI?
 
-Helio.AI is an integrated ATS that automates resume screening, offers multilingual gamified assessments, posts jobs to multiple boards, centralizes applications, automates email/SMS/WhatsApp/Telegram outreach, and delivers real‑time analytics for data‑driven hiring—all without external integrations. Human resources Free
-
+Helio.AI is an integrated ATS that automates resume screening, offers multilingual gamified assessments, posts jobs to multiple boards, centralizes applications, automates email/SMS/WhatsApp/Telegram outreach, and delivers real‑time analytics for data‑driven hiring—all without external integrations.
 In short, Helio.AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. That one capability of Helio.AI frequently saves users from juggling several separate steps.
 
 ## Key features

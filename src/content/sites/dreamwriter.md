@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Dreamwriter?
-    a: Dreamwriter converts sales and marketing briefs into branded decks, one‑pager briefs, and emails within seconds. It offers role‑ and industry‑specific segmentation, preserves brand voice, supports 18‑language translations, real‑time collaboration, and content reuse to cut prep time by up to 90%.  That is the core of what Dreamwriter does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Dreamwriter converts sales and marketing briefs into branded decks, one‑pager briefs, and emails within seconds. It offers role‑ and industry‑specific segmentation, preserves brand voice, supports 18‑language translations, real‑time collaboration, and content reuse to cut prep time by up to 90%. That is the core of what Dreamwriter does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Dreamwriter free?
     a: Dreamwriter uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Dreamwriter?

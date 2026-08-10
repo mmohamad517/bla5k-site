@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is japancv.co.jp?
-    a: JCV Cloud provides real‑time facial recognition for secure access, attendance, password‑less login, payment, loyalty, and compliance verification. Its APIs integrate with building, retail, and workforce systems, streamlining authentication and boosting security and operational efficiency.  That is the core of what japancv.co.jp does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: JCV Cloud provides real‑time facial recognition for secure access, attendance, password‑less login, payment, loyalty, and compliance verification. Its APIs integrate with building, retail, and workforce systems, streamlining authentication and boosting security and operational efficiency. That is the core of what japancv.co.jp does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is japancv.co.jp free?
     a: japancv.co.jp uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with japancv.co.jp?

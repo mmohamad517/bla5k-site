@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Simpla AI?
-    a: Simpla AI is an all-in-one AI financial tool that provides personalized tax advice, advanced solutions, document automation, statement analysis, and insightful business intelligence for improved tax, accounting, and finance management. Accounting assistant Free trial - $9.99/mo That is the core of what Simpla AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Simpla AI is an all-in-one AI financial tool that provides personalized tax advice, advanced solutions, document automation, statement analysis, and insightful business intelligence for improved tax, accounting, and finance management. That is the core of what Simpla AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Simpla AI free?
     a: Simpla AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9.99/mo, check the official website — pricing changes often.
   - q: What can you do with Simpla AI?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Simpla AI earn t
 
 ## What is Simpla AI?
 
-Simpla AI is an all-in-one AI financial tool that provides personalized tax advice, advanced solutions, document automation, statement analysis, and insightful business intelligence for improved tax, accounting, and finance management. Accounting assistant Free trial - $9.99/mo
-
+Simpla AI is an all-in-one AI financial tool that provides personalized tax advice, advanced solutions, document automation, statement analysis, and insightful business intelligence for improved tax, accounting, and finance management.
 In short, Simpla AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users discover that this feature of Simpla AI alone covers what previously took multiple tools.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ExpenseMonkey?
-    a: ExpenseMonkey is a streamlined expense management tool designed for freelancers, small businesses, and teams, offering mobile receipt scanning, automated expense tracking, and tax-ready reporting. It simplifies reimbursement workflows with intuitive approval processes and ensures financial compliance while reducing manual data entry.  That is the core of what ExpenseMonkey does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ExpenseMonkey is a streamlined expense management tool designed for freelancers, small businesses, and teams, offering mobile receipt scanning, automated expense tracking, and tax-ready reporting. It simplifies reimbursement workflows with intuitive approval processes and ensures financial compliance while reducing manual data entry. That is the core of what ExpenseMonkey does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ExpenseMonkey free?
     a: ExpenseMonkey uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9.99/mo, check the official website — pricing changes often.
   - q: What can you do with ExpenseMonkey?

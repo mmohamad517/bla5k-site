@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Risotto?
-    a: Risotto is an AI help‑desk that automates first‑level support for IT, HR, legal, finance, engineering, and security. It triages tickets, troubleshoots contextually, and resolves issues within existing channels while integrating with Jira, ServiceNow, IAM, and knowledge bases. Knowledge base management Paid That is the core of what Risotto does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Risotto is an AI help‑desk that automates first‑level support for IT, HR, legal, finance, engineering, and security. It triages tickets, troubleshoots contextually, and resolves issues within existing channels while integrating with Jira, ServiceNow, IAM, and knowledge bases. That is the core of what Risotto does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Risotto free?
     a: Risotto is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Risotto?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Risotto mat
 
 ## What is Risotto?
 
-Risotto is an AI help‑desk that automates first‑level support for IT, HR, legal, finance, engineering, and security. It triages tickets, troubleshoots contextually, and resolves issues within existing channels while integrating with Jira, ServiceNow, IAM, and knowledge bases. Knowledge base management Paid
-
+Risotto is an AI help‑desk that automates first‑level support for IT, HR, legal, finance, engineering, and security. It triages tickets, troubleshoots contextually, and resolves issues within existing channels while integrating with Jira, ServiceNow, IAM, and knowledge bases.
 In short, Risotto is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many, that single strength of Risotto is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

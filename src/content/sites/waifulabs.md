@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Waifulabs?
-    a: Waifu Lab is an AI tool for creating custom anime portraits in four easy steps. Anime Generation Freemium That is the core of what Waifulabs does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Waifu Lab is an AI tool for creating custom anime portraits in four easy steps. That is the core of what Waifulabs does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Waifulabs free?
     a: Waifulabs uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Waifulabs?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Waifulabs earn t
 
 ## What is Waifulabs?
 
-Waifu Lab is an AI tool for creating custom anime portraits in four easy steps. Anime Generation Freemium
-
+Waifu Lab is an AI tool for creating custom anime portraits in four easy steps.
 In short, Waifulabs is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. That single feature of Waifulabs alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

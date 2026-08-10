@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Yack?
-    a: Yack is an AI tool designed for Apple Silicon models from 2020 onwards with markdown support, multiple themes, keyboard-first design, and upcoming features such as cross-app integration, prompt completion, and search functionality. Personal assistant Paid That is the core of what Yack does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Yack is an AI tool designed for Apple Silicon models from 2020 onwards with markdown support, multiple themes, keyboard-first design, and upcoming features such as cross-app integration, prompt completion, and search functionality. That is the core of what Yack does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Yack free?
     a: Yack is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Yack?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Yack earn their 
 
 ## What is Yack?
 
-Yack is an AI tool designed for Apple Silicon models from 2020 onwards with markdown support, multiple themes, keyboard-first design, and upcoming features such as cross-app integration, prompt completion, and search functionality. Personal assistant Paid
-
+Yack is an AI tool designed for Apple Silicon models from 2020 onwards with markdown support, multiple themes, keyboard-first design, and upcoming features such as cross-app integration, prompt completion, and search functionality.
 In short, Yack is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many, that single strength of Yack is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Kursus AI?
-    a: Kursus AI is an AI-driven tool for analyzing candidate resumes, streamlining recruitment by allowing bulk CV uploads, tailored job postings, and mobile access, enhancing efficiency in candidate selection and management. AI Agents Freemium That is the core of what Kursus AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Kursus AI is an AI-driven tool for analyzing candidate resumes, streamlining recruitment by allowing bulk CV uploads, tailored job postings, and mobile access, enhancing efficiency in candidate selection and management. That is the core of what Kursus AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Kursus AI free?
     a: Kursus AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Kursus AI?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Kursus AI?
 
-Kursus AI is an AI-driven tool for analyzing candidate resumes, streamlining recruitment by allowing bulk CV uploads, tailored job postings, and mobile access, enhancing efficiency in candidate selection and management. AI Agents Freemium
-
+Kursus AI is an AI-driven tool for analyzing candidate resumes, streamlining recruitment by allowing bulk CV uploads, tailored job postings, and mobile access, enhancing efficiency in candidate selection and management.
 In short, Kursus AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users find that this one ability of Kursus AI removes several tasks from their daily routine.
 
 ## Key features

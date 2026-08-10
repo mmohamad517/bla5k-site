@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Embolden?
-    a: Embolden is an AI writing platform tailored for e‑commerce. It produces over 60 content types—product descriptions, ad copy, email templates, social posts, and customer‑service replies—optimized for SEO and conversions, and can export directly to stores and marketing channels. Content creation Freemium That is the core of what Embolden does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Embolden is an AI writing platform tailored for e‑commerce. It produces over 60 content types—product descriptions, ad copy, email templates, social posts, and customer‑service replies—optimized for SEO and conversions, and can export directly to stores and marketing channels. That is the core of what Embolden does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Embolden free?
     a: Embolden uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Embolden?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Embolden earn th
 
 ## What is Embolden?
 
-Embolden is an AI writing platform tailored for e‑commerce. It produces over 60 content types—product descriptions, ad copy, email templates, social posts, and customer‑service replies—optimized for SEO and conversions, and can export directly to stores and marketing channels. Content creation Freemium
-
+Embolden is an AI writing platform tailored for e‑commerce. It produces over 60 content types—product descriptions, ad copy, email templates, social posts, and customer‑service replies—optimized for SEO and conversions, and can export directly to stores and marketing channels.
 In short, Embolden is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For a lot of people, that one function of Embolden collapses multiple steps into a single action.
 
 ## Key features

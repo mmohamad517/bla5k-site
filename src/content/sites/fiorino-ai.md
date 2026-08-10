@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Fiorino AI?
-    a: Fiorino.ai is an open-source AI cost management tool that helps SaaS owners track and optimize AI spending. It offers real-time analytics, automated billing, and supports multi-tenant environments, ensuring privacy and seamless integration through SDK and API. Accounting assistant Subscription That is the core of what Fiorino AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Fiorino.ai is an open-source AI cost management tool that helps SaaS owners track and optimize AI spending. It offers real-time analytics, automated billing, and supports multi-tenant environments, ensuring privacy and seamless integration through SDK and API. That is the core of what Fiorino AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Fiorino AI free?
     a: Fiorino AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Fiorino AI?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Fiorino AI?
 
-Fiorino.ai is an open-source AI cost management tool that helps SaaS owners track and optimize AI spending. It offers real-time analytics, automated billing, and supports multi-tenant environments, ensuring privacy and seamless integration through SDK and API. Accounting assistant Subscription
-
+Fiorino.ai is an open-source AI cost management tool that helps SaaS owners track and optimize AI spending. It offers real-time analytics, automated billing, and supports multi-tenant environments, ensuring privacy and seamless integration through SDK and API.
 In short, Fiorino AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many, that single strength of Fiorino AI is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

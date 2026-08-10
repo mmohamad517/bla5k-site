@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Virtual Sapiens?
-    a: AI‑powered roleplay coach for managers, sales teams, and new hires. It simulates performance reviews, sales pitches, and executive briefings, delivering real‑time, science‑based feedback on tone, filler words, and body language. Includes GDPR‑compliant video replay and customizable frameworks. Coaching Subscription That is the core of what Virtual Sapiens does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI‑powered roleplay coach for managers, sales teams, and new hires. It simulates performance reviews, sales pitches, and executive briefings, delivering real‑time, science‑based feedback on tone, filler words, and body language. Includes GDPR‑compliant video replay and customizable frameworks. That is the core of what Virtual Sapiens does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Virtual Sapiens free?
     a: Virtual Sapiens is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Virtual Sapiens?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Virtual Sapiens?
 
-AI‑powered roleplay coach for managers, sales teams, and new hires. It simulates performance reviews, sales pitches, and executive briefings, delivering real‑time, science‑based feedback on tone, filler words, and body language. Includes GDPR‑compliant video replay and customizable frameworks. Coaching Subscription
-
+AI‑powered roleplay coach for managers, sales teams, and new hires. It simulates performance reviews, sales pitches, and executive briefings, delivering real‑time, science‑based feedback on tone, filler words, and body language. Includes GDPR‑compliant video replay and customizable frameworks.
 In short, Virtual Sapiens is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. That single feature of Virtual Sapiens alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

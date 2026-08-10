@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Content Redefined?
-    a: Content Redefined is an AI platform that generates SEO‑ and geo‑optimized articles based on user‑selected keywords, tone, and length. It auto‑adds research, links, FAQs, images, supports 20+ languages, and offers refresh and repurposing tools for teams. Article writer Subscription That is the core of what Content Redefined does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Content Redefined is an AI platform that generates SEO‑ and geo‑optimized articles based on user‑selected keywords, tone, and length. It auto‑adds research, links, FAQs, images, supports 20+ languages, and offers refresh and repurposing tools for teams. That is the core of what Content Redefined does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Content Redefined free?
     a: Content Redefined is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Content Redefined?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Content Redefined?
 
-Content Redefined is an AI platform that generates SEO‑ and geo‑optimized articles based on user‑selected keywords, tone, and length. It auto‑adds research, links, FAQs, images, supports 20+ languages, and offers refresh and repurposing tools for teams. Article writer Subscription
-
+Content Redefined is an AI platform that generates SEO‑ and geo‑optimized articles based on user‑selected keywords, tone, and length. It auto‑adds research, links, FAQs, images, supports 20+ languages, and offers refresh and repurposing tools for teams.
 In short, Content Redefined is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. That one capability of Content Redefined frequently saves users from juggling several separate steps.
 
 ## Key features

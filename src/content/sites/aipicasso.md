@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ai Picasso?
-    a: AI Picasso lets users create custom illustrations by entering prompts and choosing styles. It generates personal avatars from 10‑20 photos, supports LINE sticker export, pet transformations, AI profile pictures, and offers high‑resolution commercial art on iOS and Android until Aug 2025.  That is the core of what Ai Picasso does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Picasso lets users create custom illustrations by entering prompts and choosing styles. It generates personal avatars from 10‑20 photos, supports LINE sticker export, pet transformations, AI profile pictures, and offers high‑resolution commercial art on iOS and Android until Aug 2025. That is the core of what Ai Picasso does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ai Picasso free?
     a: Ai Picasso uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Ai Picasso?

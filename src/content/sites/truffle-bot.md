@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Truffle.bot?
-    a: Truffle automatically extracts and summarizes key information from Slack conversations, storing it in a searchable knowledge base. Teams can instantly retrieve answers to benefit inquiries, support requests, and product updates without scrolling through history. Chat Freemium - $60/mo That is the core of what Truffle.bot does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Truffle automatically extracts and summarizes key information from Slack conversations, storing it in a searchable knowledge base. Teams can instantly retrieve answers to benefit inquiries, support requests, and product updates without scrolling through history. That is the core of what Truffle.bot does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Truffle.bot free?
     a: Truffle.bot uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $60/mo, check the official website — pricing changes often.
   - q: What can you do with Truffle.bot?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Truffle.bot?
 
-Truffle automatically extracts and summarizes key information from Slack conversations, storing it in a searchable knowledge base. Teams can instantly retrieve answers to benefit inquiries, support requests, and product updates without scrolling through history. Chat Freemium - $60/mo
-
+Truffle automatically extracts and summarizes key information from Slack conversations, storing it in a searchable knowledge base. Teams can instantly retrieve answers to benefit inquiries, support requests, and product updates without scrolling through history.
 In short, Truffle.bot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. Many users discover that this feature of Truffle.bot alone covers what previously took multiple tools.
 
 ## Key features

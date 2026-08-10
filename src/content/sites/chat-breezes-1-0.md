@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Chat Breezes 1.0?
-    a: Chat Breezes centralizes WhatsApp, Instagram, Facebook, X, and more into a single inbox. It offers real‑time automation, AI‑assisted messaging, analytics, and e‑commerce integration for Shopify and WooCommerce, helping teams streamline support, sales, and marketing. Personal Chatbot Paid - $10/mo That is the core of what Chat Breezes 1.0 does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Chat Breezes centralizes WhatsApp, Instagram, Facebook, X, and more into a single inbox. It offers real‑time automation, AI‑assisted messaging, analytics, and e‑commerce integration for Shopify and WooCommerce, helping teams streamline support, sales, and marketing. That is the core of what Chat Breezes 1.0 does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Chat Breezes 1.0 free?
     a: Chat Breezes 1.0 is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Chat Breezes 1.0?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Chat Breezes 1.0?
 
-Chat Breezes centralizes WhatsApp, Instagram, Facebook, X, and more into a single inbox. It offers real‑time automation, AI‑assisted messaging, analytics, and e‑commerce integration for Shopify and WooCommerce, helping teams streamline support, sales, and marketing. Personal Chatbot Paid - $10/mo
-
+Chat Breezes centralizes WhatsApp, Instagram, Facebook, X, and more into a single inbox. It offers real‑time automation, AI‑assisted messaging, analytics, and e‑commerce integration for Shopify and WooCommerce, helping teams streamline support, sales, and marketing.
 In short, Chat Breezes 1.0 is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For plenty of users, that one capability of Chat Breezes 1.0 replaces several steps they used to do by hand.
 
 ## Key features

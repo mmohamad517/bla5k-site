@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Appzen.com?
-    a: AppZen automates accounts payable, travel & expense, and corporate card processes using AI to capture invoice data, assign GL codes, match POs, and audit expense reports in real time, reducing manual effort, ensuring compliance, and improving audit quality. Accounting assistant Freemium That is the core of what Appzen.com does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AppZen automates accounts payable, travel & expense, and corporate card processes using AI to capture invoice data, assign GL codes, match POs, and audit expense reports in real time, reducing manual effort, ensuring compliance, and improving audit quality. That is the core of what Appzen.com does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Appzen.com free?
     a: Appzen.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Appzen.com?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Appzen.com earn 
 
 ## What is Appzen.com?
 
-AppZen automates accounts payable, travel & expense, and corporate card processes using AI to capture invoice data, assign GL codes, match POs, and audit expense reports in real time, reducing manual effort, ensuring compliance, and improving audit quality. Accounting assistant Freemium
-
+AppZen automates accounts payable, travel & expense, and corporate card processes using AI to capture invoice data, assign GL codes, match POs, and audit expense reports in real time, reducing manual effort, ensuring compliance, and improving audit quality.
 In short, Appzen.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one feature of Appzen.com often eliminates several smaller steps from the usual workflow.
 
 ## Key features

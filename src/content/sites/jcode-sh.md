@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Jcode.sh?
-    a: JCode is an open-source terminal coding agent built with Rust, designed to revolutionize how we interact with AI. It intelligently scales test time through swarms, optimizes performance, and allows for self-development.  That is the core of what Jcode.sh does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: JCode is an open-source terminal coding agent built with Rust, designed to revolutionize how we interact with AI. It intelligently scales test time through swarms, optimizes performance, and allows for self-development. That is the core of what Jcode.sh does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Jcode.sh free?
     a: Yes — Jcode.sh is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Jcode.sh?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TemplateAI?
-    a: TemplateAI is a Next.js 13 full‑stack starter for AI apps, offering App Router, Tailwind styling, prebuilt landing page and dashboard, Supabase integration, Stripe payments, LangChain vector search, Replicate image generation, and multi‑model text chat. It cuts boilerplate, enabling rapid development.  That is the core of what TemplateAI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: TemplateAI is a Next.js 13 full‑stack starter for AI apps, offering App Router, Tailwind styling, prebuilt landing page and dashboard, Supabase integration, Stripe payments, LangChain vector search, Replicate image generation, and multi‑model text chat. It cuts boilerplate, enabling rapid development. That is the core of what TemplateAI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TemplateAI free?
     a: TemplateAI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with TemplateAI?

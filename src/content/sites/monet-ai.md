@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Monet AI?
-    a: Monet AI is an all-in-one content creation platform that combines multiple generative models for text-to-video, text-to-image, image-to-video, text-to-speech and music generation, with style-transfer presets, batch processing, centralized asset library and a unified API for workflows. Content creation Freemium That is the core of what Monet AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Monet AI is an all-in-one content creation platform that combines multiple generative models for text-to-video, text-to-image, image-to-video, text-to-speech and music generation, with style-transfer presets, batch processing, centralized asset library and a unified API for workflows. That is the core of what Monet AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Monet AI free?
     a: Monet AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Monet AI?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Monet AI ea
 
 ## What is Monet AI?
 
-Monet AI is an all-in-one content creation platform that combines multiple generative models for text-to-video, text-to-image, image-to-video, text-to-speech and music generation, with style-transfer presets, batch processing, centralized asset library and a unified API for workflows. Content creation Freemium
-
+Monet AI is an all-in-one content creation platform that combines multiple generative models for text-to-video, text-to-image, image-to-video, text-to-speech and music generation, with style-transfer presets, batch processing, centralized asset library and a unified API for workflows.
 In short, Monet AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. Many users find that this one ability of Monet AI removes several tasks from their daily routine.
 
 ## Key features

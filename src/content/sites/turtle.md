@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is turtle?
-    a: Turtle Try AI is an AI-driven unified CRM that streamlines customer journey management, featuring automated bookings, live chat, support tickets, and integrated analytics, all while enhancing data security and improving customer retention across sales and support teams. Customer support Free trial That is the core of what turtle does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Turtle Try AI is an AI-driven unified CRM that streamlines customer journey management, featuring automated bookings, live chat, support tickets, and integrated analytics, all while enhancing data security and improving customer retention across sales and support teams. That is the core of what turtle does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is turtle free?
     a: turtle uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with turtle?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like turtle earn thei
 
 ## What is turtle?
 
-Turtle Try AI is an AI-driven unified CRM that streamlines customer journey management, featuring automated bookings, live chat, support tickets, and integrated analytics, all while enhancing data security and improving customer retention across sales and support teams. Customer support Free trial
-
+Turtle Try AI is an AI-driven unified CRM that streamlines customer journey management, featuring automated bookings, live chat, support tickets, and integrated analytics, all while enhancing data security and improving customer retention across sales and support teams.
 In short, turtle is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For a lot of people, that one function of turtle collapses multiple steps into a single action.
 
 ## Key features

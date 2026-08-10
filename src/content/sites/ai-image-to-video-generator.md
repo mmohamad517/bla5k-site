@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Image To Video Generator?
-    a: Ai Image To Video converts single photos into animated clips by adding AI‑generated motion and style layers. Users upload an image, provide a prompt, choose an animation style, adjust motion intensity, and download the resulting video within seconds. Animation Generation Freemium - $8.9 That is the core of what AI Image To Video Generator does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ai Image To Video converts single photos into animated clips by adding AI‑generated motion and style layers. Users upload an image, provide a prompt, choose an animation style, adjust motion intensity, and download the resulting video within seconds. That is the core of what AI Image To Video Generator does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI Image To Video Generator free?
     a: AI Image To Video Generator uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $8.9, check the official website — pricing changes often.
   - q: What can you do with AI Image To Video Generator?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is AI Image To Video Generator?
 
-Ai Image To Video converts single photos into animated clips by adding AI‑generated motion and style layers. Users upload an image, provide a prompt, choose an animation style, adjust motion intensity, and download the resulting video within seconds. Animation Generation Freemium - $8.9
-
+Ai Image To Video converts single photos into animated clips by adding AI‑generated motion and style layers. Users upload an image, provide a prompt, choose an animation style, adjust motion intensity, and download the resulting video within seconds.
 In short, AI Image To Video Generator is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. That one feature of AI Image To Video Generator often eliminates several smaller steps from the usual workflow.
 
 ## Key features

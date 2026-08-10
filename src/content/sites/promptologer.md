@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Promptologer?
-    a: Promptologer lets users create, showcase, and monetize GPT prompts without coding. It includes a web app builder, SEO‑friendly blog integration, AI product‑planning tools, quiz generation, and team workspaces for consistent AI prompt management. AI Assistant Freemium That is the core of what Promptologer does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Promptologer lets users create, showcase, and monetize GPT prompts without coding. It includes a web app builder, SEO‑friendly blog integration, AI product‑planning tools, quiz generation, and team workspaces for consistent AI prompt management. That is the core of what Promptologer does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Promptologer free?
     a: Promptologer uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Promptologer?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Promptologer?
 
-Promptologer lets users create, showcase, and monetize GPT prompts without coding. It includes a web app builder, SEO‑friendly blog integration, AI product‑planning tools, quiz generation, and team workspaces for consistent AI prompt management. AI Assistant Freemium
-
+Promptologer lets users create, showcase, and monetize GPT prompts without coding. It includes a web app builder, SEO‑friendly blog integration, AI product‑planning tools, quiz generation, and team workspaces for consistent AI prompt management.
 In short, Promptologer is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one capability of Promptologer frequently saves users from juggling several separate steps.
 
 ## Key features

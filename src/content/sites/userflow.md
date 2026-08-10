@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Userflow?
-    a: Userflow is an AI-powered product adoption and onboarding platform that auto-creates editable in-app tours, checklists, banners and announcements, offers an AI assistant and surveys for support/feedback, localization tools, analytics/CRM integrations, and no-code builders. Content creation Freemium - $20/mo That is the core of what Userflow does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Userflow is an AI-powered product adoption and onboarding platform that auto-creates editable in-app tours, checklists, banners and announcements, offers an AI assistant and surveys for support/feedback, localization tools, analytics/CRM integrations, and no-code builders. That is the core of what Userflow does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Userflow free?
     a: Userflow uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $20/mo, check the official website — pricing changes often.
   - q: What can you do with Userflow?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Userflow ma
 
 ## What is Userflow?
 
-Userflow is an AI-powered product adoption and onboarding platform that auto-creates editable in-app tours, checklists, banners and announcements, offers an AI assistant and surveys for support/feedback, localization tools, analytics/CRM integrations, and no-code builders. Content creation Freemium - $20/mo
-
+Userflow is an AI-powered product adoption and onboarding platform that auto-creates editable in-app tours, checklists, banners and announcements, offers an AI assistant and surveys for support/feedback, localization tools, analytics/CRM integrations, and no-code builders.
 In short, Userflow is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. That one capability of Userflow frequently saves users from juggling several separate steps.
 
 ## Key features

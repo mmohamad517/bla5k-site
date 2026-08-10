@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is EpicAvatar?
-    a: Epic Avatar uses AI to turn 15–20 uploaded photos into 200 unique avatars, blending your likeness with themes like celebrity, historical or space motifs. Avatars are emailed for download; original photos are deleted after 24 hours.  That is the core of what EpicAvatar does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Epic Avatar uses AI to turn 15–20 uploaded photos into 200 unique avatars, blending your likeness with themes like celebrity, historical or space motifs. Avatars are emailed for download; original photos are deleted after 24 hours. That is the core of what EpicAvatar does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is EpicAvatar free?
     a: EpicAvatar is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with EpicAvatar?

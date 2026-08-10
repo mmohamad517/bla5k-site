@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SuperAPI.ai?
-    a: SuperAPI.ai is a digital sales analyst for public sector and enterprise sales that continuously monitors hundreds of public sources to surface tender opportunities, procurement signals, and personnel changes. It provides real-time alerts and opportunity prioritization with match scoring, configurable role-based views, and a searchable database to focus sellers on high-fit leads across healthcare, construction, IT, and education. Sales Freemium That is the core of what SuperAPI.ai does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SuperAPI.ai is a digital sales analyst for public sector and enterprise sales that continuously monitors hundreds of public sources to surface tender opportunities, procurement signals, and personnel changes. It provides real-time alerts and opportunity prioritization with match scoring, configurable role-based views, and a searchable database to focus sellers on high-fit leads across healthcare, construction, IT, and education. That is the core of what SuperAPI.ai does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SuperAPI.ai free?
     a: SuperAPI.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with SuperAPI.ai?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like SuperA
 
 ## What is SuperAPI.ai?
 
-SuperAPI.ai is a digital sales analyst for public sector and enterprise sales that continuously monitors hundreds of public sources to surface tender opportunities, procurement signals, and personnel changes. It provides real-time alerts and opportunity prioritization with match scoring, configurable role-based views, and a searchable database to focus sellers on high-fit leads across healthcare, construction, IT, and education. Sales Freemium
-
+SuperAPI.ai is a digital sales analyst for public sector and enterprise sales that continuously monitors hundreds of public sources to surface tender opportunities, procurement signals, and personnel changes. It provides real-time alerts and opportunity prioritization with match scoring, configurable role-based views, and a searchable database to focus sellers on high-fit leads across healthcare, construction, IT, and education.
 In short, SuperAPI.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For a lot of people, that one function of SuperAPI.ai collapses multiple steps into a single action.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Neuro (ADHD)?
-    a: Claudia is an AI personal assistant designed for individuals with ADHD, utilizing a voice-first approach to manage tasks, notes, and reminders. It organizes thoughts and schedules, promoting focus and productivity in daily activities. Personal assistant Free trial - $19/mo That is the core of what Neuro (ADHD) does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Claudia is an AI personal assistant designed for individuals with ADHD, utilizing a voice-first approach to manage tasks, notes, and reminders. It organizes thoughts and schedules, promoting focus and productivity in daily activities. That is the core of what Neuro (ADHD) does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Neuro (ADHD) free?
     a: Neuro (ADHD) uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $19/mo, check the official website — pricing changes often.
   - q: What can you do with Neuro (ADHD)?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Neuro (ADHD
 
 ## What is Neuro (ADHD)?
 
-Claudia is an AI personal assistant designed for individuals with ADHD, utilizing a voice-first approach to manage tasks, notes, and reminders. It organizes thoughts and schedules, promoting focus and productivity in daily activities. Personal assistant Free trial - $19/mo
-
+Claudia is an AI personal assistant designed for individuals with ADHD, utilizing a voice-first approach to manage tasks, notes, and reminders. It organizes thoughts and schedules, promoting focus and productivity in daily activities.
 In short, Neuro (ADHD) is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users find that this one ability of Neuro (ADHD) removes several tasks from their daily routine.
 
 ## Key features

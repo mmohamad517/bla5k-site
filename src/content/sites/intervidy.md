@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Intervidy?
-    a: Intervidy evaluates CVs against job specs, scoring strengths and gaps. It invites candidates to self‑paced AI‑video interviews, then delivers transcripts, confidence, originality, grammar analytics, and actionable insights for recruiters to make informed hires. Human resources Freemium - $49/mo That is the core of what Intervidy does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Intervidy evaluates CVs against job specs, scoring strengths and gaps. It invites candidates to self‑paced AI‑video interviews, then delivers transcripts, confidence, originality, grammar analytics, and actionable insights for recruiters to make informed hires. That is the core of what Intervidy does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Intervidy free?
     a: Intervidy uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $49/mo, check the official website — pricing changes often.
   - q: What can you do with Intervidy?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Intervidy e
 
 ## What is Intervidy?
 
-Intervidy evaluates CVs against job specs, scoring strengths and gaps. It invites candidates to self‑paced AI‑video interviews, then delivers transcripts, confidence, originality, grammar analytics, and actionable insights for recruiters to make informed hires. Human resources Freemium - $49/mo
-
+Intervidy evaluates CVs against job specs, scoring strengths and gaps. It invites candidates to self‑paced AI‑video interviews, then delivers transcripts, confidence, originality, grammar analytics, and actionable insights for recruiters to make informed hires.
 In short, Intervidy is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. That single feature of Intervidy alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

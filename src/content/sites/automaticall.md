@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Automaticall?
-    a: Automaticall is an AI call assistant that operates 24/7, supporting multiple languages and seamless scheduling integration. It enhances business communication by responding to inquiries naturally and converting website visitors into qualified leads. Customer support Free trial - $9.99/mo That is the core of what Automaticall does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Automaticall is an AI call assistant that operates 24/7, supporting multiple languages and seamless scheduling integration. It enhances business communication by responding to inquiries naturally and converting website visitors into qualified leads. That is the core of what Automaticall does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Automaticall free?
     a: Automaticall uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9.99/mo, check the official website — pricing changes often.
   - q: What can you do with Automaticall?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Automaticall?
 
-Automaticall is an AI call assistant that operates 24/7, supporting multiple languages and seamless scheduling integration. It enhances business communication by responding to inquiries naturally and converting website visitors into qualified leads. Customer support Free trial - $9.99/mo
-
+Automaticall is an AI call assistant that operates 24/7, supporting multiple languages and seamless scheduling integration. It enhances business communication by responding to inquiries naturally and converting website visitors into qualified leads.
 In short, Automaticall is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. That one capability of Automaticall frequently saves users from juggling several separate steps.
 
 ## Key features

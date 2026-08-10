@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is NOAN?
-    a: NOAN is an AI-native business partner designed to streamline operations and decision-making for founders and teams. It acts as a central system of record’ built on verified facts, eliminating reliance on fragmented tools.  That is the core of what NOAN does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: NOAN is an AI-native business partner designed to streamline operations and decision-making for founders and teams. It acts as a central system of record’ built on verified facts, eliminating reliance on fragmented tools. That is the core of what NOAN does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is NOAN free?
     a: NOAN is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with NOAN?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Frontly?
-    a: Frontly is a no-code AI app builder that generates and edits custom software from natural-language prompts, combining a visual editor, templates, client portals, workflow integrations, API access and team controls for prototyping to production. App Builder Free That is the core of what Frontly does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Frontly is a no-code AI app builder that generates and edits custom software from natural-language prompts, combining a visual editor, templates, client portals, workflow integrations, API access and team controls for prototyping to production. That is the core of what Frontly does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Frontly free?
     a: Yes — Frontly is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Frontly?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Frontly earn the
 
 ## What is Frontly?
 
-Frontly is a no-code AI app builder that generates and edits custom software from natural-language prompts, combining a visual editor, templates, client portals, workflow integrations, API access and team controls for prototyping to production. App Builder Free
-
+Frontly is a no-code AI app builder that generates and edits custom software from natural-language prompts, combining a visual editor, templates, client portals, workflow integrations, API access and team controls for prototyping to production.
 In short, Frontly is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many, that single strength of Frontly is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

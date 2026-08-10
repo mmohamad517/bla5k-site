@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AIStoryBuilders?
-    a: AIStoryBuilders lets authors organize characters, settings, and plot details in a structured database. The AI uses this metadata to generate or extend scenes, maintain continuity across timelines, locations, and character arcs, and log each paragraph with context.  That is the core of what AIStoryBuilders does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AIStoryBuilders lets authors organize characters, settings, and plot details in a structured database. The AI uses this metadata to generate or extend scenes, maintain continuity across timelines, locations, and character arcs, and log each paragraph with context. That is the core of what AIStoryBuilders does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AIStoryBuilders free?
     a: Yes — AIStoryBuilders is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with AIStoryBuilders?

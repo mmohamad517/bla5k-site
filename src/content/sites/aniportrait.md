@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AniPortrait?
-    a: AniPortrait is a framework for generating high-quality animations driven by audio and reference portrait images. It supports face reenactment and audio-driven synthesis, enabling users to create photorealistic animations for entertainment, marketing, and research. Animation Generation Free That is the core of what AniPortrait does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AniPortrait is a framework for generating high-quality animations driven by audio and reference portrait images. It supports face reenactment and audio-driven synthesis, enabling users to create photorealistic animations for entertainment, marketing, and research. That is the core of what AniPortrait does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AniPortrait free?
     a: Yes — AniPortrait is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with AniPortrait?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is AniPortrait?
 
-AniPortrait is a framework for generating high-quality animations driven by audio and reference portrait images. It supports face reenactment and audio-driven synthesis, enabling users to create photorealistic animations for entertainment, marketing, and research. Animation Generation Free
-
+AniPortrait is a framework for generating high-quality animations driven by audio and reference portrait images. It supports face reenactment and audio-driven synthesis, enabling users to create photorealistic animations for entertainment, marketing, and research.
 In short, AniPortrait is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. Many users discover that this feature of AniPortrait alone covers what previously took multiple tools.
 
 ## Key features

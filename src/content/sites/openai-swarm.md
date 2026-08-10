@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is OpenAI swarm?
-    a: Swarm is an experimental framework by OpenAI for orchestrating multiple AI agents in a modular, scalable manner. It enables dynamic task handoffs, function execution, and context management, making it ideal for complex, multi-agent workflows like customer support and automation.  That is the core of what OpenAI swarm does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Swarm is an experimental framework by OpenAI for orchestrating multiple AI agents in a modular, scalable manner. It enables dynamic task handoffs, function execution, and context management, making it ideal for complex, multi-agent workflows like customer support and automation. That is the core of what OpenAI swarm does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is OpenAI swarm free?
     a: Yes — OpenAI swarm is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with OpenAI swarm?

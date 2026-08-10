@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TableSprint?
-    a: Tablesprint is an AI-driven platform that enables users to create and manage custom applications easily, integrating data from tools like WhatsApp and Excel while offering automation, customizable dashboards, and adaptable features for diverse business functions. App Builder Free trial That is the core of what TableSprint does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Tablesprint is an AI-driven platform that enables users to create and manage custom applications easily, integrating data from tools like WhatsApp and Excel while offering automation, customizable dashboards, and adaptable features for diverse business functions. That is the core of what TableSprint does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TableSprint free?
     a: TableSprint uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with TableSprint?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like TableSprint
 
 ## What is TableSprint?
 
-Tablesprint is an AI-driven platform that enables users to create and manage custom applications easily, integrating data from tools like WhatsApp and Excel while offering automation, customizable dashboards, and adaptable features for diverse business functions. App Builder Free trial
-
+Tablesprint is an AI-driven platform that enables users to create and manage custom applications easily, integrating data from tools like WhatsApp and Excel while offering automation, customizable dashboards, and adaptable features for diverse business functions.
 In short, TableSprint is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. That single feature of TableSprint alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

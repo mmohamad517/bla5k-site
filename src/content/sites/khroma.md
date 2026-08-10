@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Khroma?
-    a: Khroma AI learns a designer’s color preferences to generate endless custom palettes. It displays options as typography, gradients, or images, searchable by hue, HEX, or name, and provides name, HEX, RGB, CSS, and WCAG ratings. Coloring Freemium That is the core of what Khroma does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Khroma AI learns a designer’s color preferences to generate endless custom palettes. It displays options as typography, gradients, or images, searchable by hue, HEX, or name, and provides name, HEX, RGB, CSS, and WCAG ratings. That is the core of what Khroma does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Khroma free?
     a: Khroma uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Khroma?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Khroma?
 
-Khroma AI learns a designer’s color preferences to generate endless custom palettes. It displays options as typography, gradients, or images, searchable by hue, HEX, or name, and provides name, HEX, RGB, CSS, and WCAG ratings. Coloring Freemium
-
+Khroma AI learns a designer’s color preferences to generate endless custom palettes. It displays options as typography, gradients, or images, searchable by hue, HEX, or name, and provides name, HEX, RGB, CSS, and WCAG ratings.
 In short, Khroma is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. That single feature of Khroma alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Kilo Code AI?
-    a: Kilo Code is an open-source AI agent extension for VS Code that enhances coding efficiency by generating code, automating tasks, and providing intelligent suggestions. It supports real-time developer assistance and integrates with multiple AI models for future expansion.  That is the core of what Kilo Code AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Kilo Code is an open-source AI agent extension for VS Code that enhances coding efficiency by generating code, automating tasks, and providing intelligent suggestions. It supports real-time developer assistance and integrates with multiple AI models for future expansion. That is the core of what Kilo Code AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Kilo Code AI free?
     a: Yes — Kilo Code AI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Kilo Code AI?

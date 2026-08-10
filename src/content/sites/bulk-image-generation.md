@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Bulk Image Generation?
-    a: Bulk Image Generation quickly produces up to 100 images in 15 seconds with the Flux 1.1 model, needs only a simple description, and offers bulk editing, resizing, aspect‑ratio calculations, and prompt conversion for diverse projects.  That is the core of what Bulk Image Generation does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Bulk Image Generation quickly produces up to 100 images in 15 seconds with the Flux 1.1 model, needs only a simple description, and offers bulk editing, resizing, aspect‑ratio calculations, and prompt conversion for diverse projects. That is the core of what Bulk Image Generation does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Bulk Image Generation free?
     a: Bulk Image Generation is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Bulk Image Generation?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Vamos AI?
-    a: Vamos is an AI content research and creation platform that mines live social media for trending short-form videos, analyzes competitors and visual composition, transcribes uploads, and generates ready-to-film, brand-voice scripts and topic ideas aligned with niche performance metrics. Content creation Subscription That is the core of what Vamos AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Vamos is an AI content research and creation platform that mines live social media for trending short-form videos, analyzes competitors and visual composition, transcribes uploads, and generates ready-to-film, brand-voice scripts and topic ideas aligned with niche performance metrics. That is the core of what Vamos AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Vamos AI free?
     a: Vamos AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Vamos AI?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Vamos AI earn th
 
 ## What is Vamos AI?
 
-Vamos is an AI content research and creation platform that mines live social media for trending short-form videos, analyzes competitors and visual composition, transcribes uploads, and generates ready-to-film, brand-voice scripts and topic ideas aligned with niche performance metrics. Content creation Subscription
-
+Vamos is an AI content research and creation platform that mines live social media for trending short-form videos, analyzes competitors and visual composition, transcribes uploads, and generates ready-to-film, brand-voice scripts and topic ideas aligned with niche performance metrics.
 In short, Vamos AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. That single feature of Vamos AI alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

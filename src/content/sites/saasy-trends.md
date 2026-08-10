@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SaaSy Trends?
-    a: Saasy Trends is a newsletter offering access to a database of over 30,000 SaaS startups. It provides insights into emerging trends, competitor research, and effective growth strategies, aiding product managers, investors, and marketers in informed decision-making. Business Freemium - $29.99 That is the core of what SaaSy Trends does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Saasy Trends is a newsletter offering access to a database of over 30,000 SaaS startups. It provides insights into emerging trends, competitor research, and effective growth strategies, aiding product managers, investors, and marketers in informed decision-making. That is the core of what SaaSy Trends does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SaaSy Trends free?
     a: SaaSy Trends uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $29.99, check the official website — pricing changes often.
   - q: What can you do with SaaSy Trends?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is SaaSy Trends?
 
-Saasy Trends is a newsletter offering access to a database of over 30,000 SaaS startups. It provides insights into emerging trends, competitor research, and effective growth strategies, aiding product managers, investors, and marketers in informed decision-making. Business Freemium - $29.99
-
+Saasy Trends is a newsletter offering access to a database of over 30,000 SaaS startups. It provides insights into emerging trends, competitor research, and effective growth strategies, aiding product managers, investors, and marketers in informed decision-making.
 In short, SaaSy Trends is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. For a lot of people, that one function of SaaSy Trends collapses multiple steps into a single action.
 
 ## Key features

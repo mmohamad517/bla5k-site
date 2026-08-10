@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Agent Reach?
-    a: agent-reach gives AI agents one-command access to web and social platforms (Twitter/X, Reddit, YouTube, Bilibili, Xiaohongshu, GitHub, LinkedIn, V2EX, Xueqiu), enabling zero-config search, subtitle/transcript extraction, repo cloning with mirror, Markdown ingestion and diagnostics. AI Agents Free That is the core of what Agent Reach does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: agent-reach gives AI agents one-command access to web and social platforms (Twitter/X, Reddit, YouTube, Bilibili, Xiaohongshu, GitHub, LinkedIn, V2EX, Xueqiu), enabling zero-config search, subtitle/transcript extraction, repo cloning with mirror, Markdown ingestion and diagnostics. That is the core of what Agent Reach does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Agent Reach free?
     a: Yes — Agent Reach is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Agent Reach?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Agent Reach?
 
-agent-reach gives AI agents one-command access to web and social platforms (Twitter/X, Reddit, YouTube, Bilibili, Xiaohongshu, GitHub, LinkedIn, V2EX, Xueqiu), enabling zero-config search, subtitle/transcript extraction, repo cloning with mirror, Markdown ingestion and diagnostics. AI Agents Free
-
+agent-reach gives AI agents one-command access to web and social platforms (Twitter/X, Reddit, YouTube, Bilibili, Xiaohongshu, GitHub, LinkedIn, V2EX, Xueqiu), enabling zero-config search, subtitle/transcript extraction, repo cloning with mirror, Markdown ingestion and diagnostics.
 In short, Agent Reach is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users find that this one ability of Agent Reach removes several tasks from their daily routine.
 
 ## Key features

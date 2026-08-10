@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Morphllm?
-    a: Morphllmis a high-throughput AI code-editing platform that applies LLM-generated multi-file edits, automated diffs, and merges at 10,500+ tokens/sec via edit_file and MCP/OpenAI-compatible SDKs (TypeScript, Python) for editor, CI, and agent integration. It combines warp-grep/warpsearch semantic code search with embeddings trained on millions of commits for precise localization and reranking, delivering 20x faster grep-style replacements, ≈98% edit accuracy, token/time savings, and cloud/on‑prem SOC2-backed deployments with high rate limits and SLA options for engineering teams. Code assistant Free trial That is the core of what Morphllm does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Morphllmis a high-throughput AI code-editing platform that applies LLM-generated multi-file edits, automated diffs, and merges at 10,500+ tokens/sec via edit_file and MCP/OpenAI-compatible SDKs (TypeScript, Python) for editor, CI, and agent integration. It combines warp-grep/warpsearch semantic code search with embeddings trained on millions of commits for precise localization and reranking, delivering 20x faster grep-style replacements, ≈98% edit accuracy, token/time savings, and cloud/on‑prem SOC2-backed deployments with high rate limits and SLA options for engineering teams. That is the core of what Morphllm does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Morphllm free?
     a: Morphllm uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Morphllm?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Morphllm?
 
-Morphllmis a high-throughput AI code-editing platform that applies LLM-generated multi-file edits, automated diffs, and merges at 10,500+ tokens/sec via edit_file and MCP/OpenAI-compatible SDKs (TypeScript, Python) for editor, CI, and agent integration. It combines warp-grep/warpsearch semantic code search with embeddings trained on millions of commits for precise localization and reranking, delivering 20x faster grep-style replacements, ≈98% edit accuracy, token/time savings, and cloud/on‑prem SOC2-backed deployments with high rate limits and SLA options for engineering teams. Code assistant Free trial
-
+Morphllmis a high-throughput AI code-editing platform that applies LLM-generated multi-file edits, automated diffs, and merges at 10,500+ tokens/sec via edit_file and MCP/OpenAI-compatible SDKs (TypeScript, Python) for editor, CI, and agent integration. It combines warp-grep/warpsearch semantic code search with embeddings trained on millions of commits for precise localization and reranking, delivering 20x faster grep-style replacements, ≈98% edit accuracy, token/time savings, and cloud/on‑prem SOC2-backed deployments with high rate limits and SLA options for engineering teams.
 In short, Morphllm is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That single feature of Morphllm alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

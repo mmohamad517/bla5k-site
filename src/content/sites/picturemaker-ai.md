@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PictureMaker AI?
-    a: PictureMaker is an AI image and video creation platform that generates avatars, logos, cartoons, and edited visuals from text prompts or uploads. It also produces talking-character videos with synchronized audio, supporting multiple AI models for tailored style and fidelity. Avatar Free trial That is the core of what PictureMaker AI does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: PictureMaker is an AI image and video creation platform that generates avatars, logos, cartoons, and edited visuals from text prompts or uploads. It also produces talking-character videos with synchronized audio, supporting multiple AI models for tailored style and fidelity. That is the core of what PictureMaker AI does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is PictureMaker AI free?
     a: PictureMaker AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with PictureMaker AI?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is PictureMaker AI?
 
-PictureMaker is an AI image and video creation platform that generates avatars, logos, cartoons, and edited visuals from text prompts or uploads. It also produces talking-character videos with synchronized audio, supporting multiple AI models for tailored style and fidelity. Avatar Free trial
-
+PictureMaker is an AI image and video creation platform that generates avatars, logos, cartoons, and edited visuals from text prompts or uploads. It also produces talking-character videos with synchronized audio, supporting multiple AI models for tailored style and fidelity.
 In short, PictureMaker AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. For a lot of people, that one function of PictureMaker AI collapses multiple steps into a single action.
 
 ## Key features

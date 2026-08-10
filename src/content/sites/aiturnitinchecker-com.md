@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AIturnitinchecker.com?
-    a: aiturnitinchecker.com is a pre-submission integrity screener that runs combined AI detection and plagiarism checks on DOCX, PDF, TXT, or RTF files, delivering a report in 5–15 minutes. It highlights AI-written and paraphrased passages with similarity matches and plain-language explanations, with 24-hour file deletion and 30-day report access for privacy.  That is the core of what AIturnitinchecker.com does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: aiturnitinchecker.com is a pre-submission integrity screener that runs combined AI detection and plagiarism checks on DOCX, PDF, TXT, or RTF files, delivering a report in 5–15 minutes. It highlights AI-written and paraphrased passages with similarity matches and plain-language explanations, with 24-hour file deletion and 30-day report access for privacy. That is the core of what AIturnitinchecker.com does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AIturnitinchecker.com free?
     a: AIturnitinchecker.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AIturnitinchecker.com?

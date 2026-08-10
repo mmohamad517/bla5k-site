@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PyjamaHR?
-    a: PyjamaHR is an ATS that centralizes job postings, automates resume parsing and AI matching, screens candidates, schedules interviews via Teams and Zoom, enables real‑time collaboration, offers mobile access, and integrates with 20+ tools on Azure, compliant with SOC‑2 and ISO 27001. Administration Subscription - $15/mo That is the core of what PyjamaHR does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: PyjamaHR is an ATS that centralizes job postings, automates resume parsing and AI matching, screens candidates, schedules interviews via Teams and Zoom, enables real‑time collaboration, offers mobile access, and integrates with 20+ tools on Azure, compliant with SOC‑2 and ISO 27001. That is the core of what PyjamaHR does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is PyjamaHR free?
     a: PyjamaHR is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with PyjamaHR?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is PyjamaHR?
 
-PyjamaHR is an ATS that centralizes job postings, automates resume parsing and AI matching, screens candidates, schedules interviews via Teams and Zoom, enables real‑time collaboration, offers mobile access, and integrates with 20+ tools on Azure, compliant with SOC‑2 and ISO 27001. Administration Subscription - $15/mo
-
+PyjamaHR is an ATS that centralizes job postings, automates resume parsing and AI matching, screens candidates, schedules interviews via Teams and Zoom, enables real‑time collaboration, offers mobile access, and integrates with 20+ tools on Azure, compliant with SOC‑2 and ISO 27001.
 In short, PyjamaHR is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. Many users find that this one ability of PyjamaHR removes several tasks from their daily routine.
 
 ## Key features

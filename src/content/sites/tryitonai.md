@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Tryitonai?
-    a: Try it on AI generates professional headshots for individuals and teams, offering Express mode for quick social‑profile shots, Creative Studio for custom styles, and editing tools for post‑processing. It supports team collaboration and consistent branding across industries.  That is the core of what Tryitonai does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Try it on AI generates professional headshots for individuals and teams, offering Express mode for quick social‑profile shots, Creative Studio for custom styles, and editing tools for post‑processing. It supports team collaboration and consistent branding across industries. That is the core of what Tryitonai does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Tryitonai free?
     a: Tryitonai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Tryitonai?

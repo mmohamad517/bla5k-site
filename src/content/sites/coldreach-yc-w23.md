@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Coldreach (YC W23)?
-    a: Coldreach automates B2B lead research, personalizes outreach, and engages qualified prospects 24/7 across email and LinkedIn. It captures real‑time buying signals, manages deliverability, and integrates with Salesforce, HubSpot, Slack, and Gong. Sales Subscription That is the core of what Coldreach (YC W23) does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Coldreach automates B2B lead research, personalizes outreach, and engages qualified prospects 24/7 across email and LinkedIn. It captures real‑time buying signals, manages deliverability, and integrates with Salesforce, HubSpot, Slack, and Gong. That is the core of what Coldreach (YC W23) does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Coldreach (YC W23) free?
     a: Coldreach (YC W23) is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Coldreach (YC W23)?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Coldreach (
 
 ## What is Coldreach (YC W23)?
 
-Coldreach automates B2B lead research, personalizes outreach, and engages qualified prospects 24/7 across email and LinkedIn. It captures real‑time buying signals, manages deliverability, and integrates with Salesforce, HubSpot, Slack, and Gong. Sales Subscription
-
+Coldreach automates B2B lead research, personalizes outreach, and engages qualified prospects 24/7 across email and LinkedIn. It captures real‑time buying signals, manages deliverability, and integrates with Salesforce, HubSpot, Slack, and Gong.
 In short, Coldreach (YC W23) is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. That single feature of Coldreach (YC W23) alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

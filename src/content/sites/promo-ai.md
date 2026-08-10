@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Promo.ai?
-    a: Promo helps you quickly create and send personalized newsletters using your latest content. Marketing Freemium That is the core of what Promo.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Promo helps you quickly create and send personalized newsletters using your latest content. That is the core of what Promo.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Promo.ai free?
     a: Promo.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Promo.ai?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Promo.ai?
 
-Promo helps you quickly create and send personalized newsletters using your latest content. Marketing Freemium
-
+Promo helps you quickly create and send personalized newsletters using your latest content.
 In short, Promo.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. Many users discover that this feature of Promo.ai alone covers what previously took multiple tools.
 
 ## Key features

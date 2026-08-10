@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Agency-agents?
-    a: Agency-agents is a GitHub repository of specialized AI agent templates and production-ready workflows. It provides deliverable-focused agents with defined missions and integrations to automate tasks and generate measurable outcomes across development, design, and business roles. AI Agents Freemium That is the core of what Agency-agents does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Agency-agents is a GitHub repository of specialized AI agent templates and production-ready workflows. It provides deliverable-focused agents with defined missions and integrations to automate tasks and generate measurable outcomes across development, design, and business roles. That is the core of what Agency-agents does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Agency-agents free?
     a: Agency-agents uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Agency-agents?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Agency-agents?
 
-Agency-agents is a GitHub repository of specialized AI agent templates and production-ready workflows. It provides deliverable-focused agents with defined missions and integrations to automate tasks and generate measurable outcomes across development, design, and business roles. AI Agents Freemium
-
+Agency-agents is a GitHub repository of specialized AI agent templates and production-ready workflows. It provides deliverable-focused agents with defined missions and integrations to automate tasks and generate measurable outcomes across development, design, and business roles.
 In short, Agency-agents is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That single feature of Agency-agents alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

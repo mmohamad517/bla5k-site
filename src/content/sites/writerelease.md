@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Writerelease?
-    a: Write Release auto‑generates professional press releases in minutes from a mobile‑friendly interface. Users answer brief prompts to receive headline suggestions and full content, which can be edited before distribution. The system incorporates media analysis to enhance relevance. Copywriting Free That is the core of what Writerelease does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Write Release auto‑generates professional press releases in minutes from a mobile‑friendly interface. Users answer brief prompts to receive headline suggestions and full content, which can be edited before distribution. The system incorporates media analysis to enhance relevance. That is the core of what Writerelease does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Writerelease free?
     a: Yes — Writerelease is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Writerelease?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Writereleas
 
 ## What is Writerelease?
 
-Write Release auto‑generates professional press releases in minutes from a mobile‑friendly interface. Users answer brief prompts to receive headline suggestions and full content, which can be edited before distribution. The system incorporates media analysis to enhance relevance. Copywriting Free
-
+Write Release auto‑generates professional press releases in minutes from a mobile‑friendly interface. Users answer brief prompts to receive headline suggestions and full content, which can be edited before distribution. The system incorporates media analysis to enhance relevance.
 In short, Writerelease is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. For a lot of people, that one function of Writerelease collapses multiple steps into a single action.
 
 ## Key features

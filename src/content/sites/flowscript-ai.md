@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Flowscript.AI?
-    a: Flowscript transforms plain‑English requirements into fully functional web apps with minimal coding. Its AI workflow engine auto‑generates task flows, data tables, and secure operations, supporting on‑premise or cloud storage for compliant, rapid development. App Builder Freemium That is the core of what Flowscript.AI does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Flowscript transforms plain‑English requirements into fully functional web apps with minimal coding. Its AI workflow engine auto‑generates task flows, data tables, and secure operations, supporting on‑premise or cloud storage for compliant, rapid development. That is the core of what Flowscript.AI does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Flowscript.AI free?
     a: Flowscript.AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Flowscript.AI?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Flowscript.
 
 ## What is Flowscript.AI?
 
-Flowscript transforms plain‑English requirements into fully functional web apps with minimal coding. Its AI workflow engine auto‑generates task flows, data tables, and secure operations, supporting on‑premise or cloud storage for compliant, rapid development. App Builder Freemium
-
+Flowscript transforms plain‑English requirements into fully functional web apps with minimal coding. Its AI workflow engine auto‑generates task flows, data tables, and secure operations, supporting on‑premise or cloud storage for compliant, rapid development.
 In short, Flowscript.AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. That one feature of Flowscript.AI often eliminates several smaller steps from the usual workflow.
 
 ## Key features

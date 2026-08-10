@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Recursechat?
-    a: RecurseChat is a macOS app that runs large language models locally, offering offline AI with a floating chat window, file‑based RAG, support for multiple model formats, and seamless switching between local and cloud models while keeping data local. Chat Paid That is the core of what Recursechat does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: RecurseChat is a macOS app that runs large language models locally, offering offline AI with a floating chat window, file‑based RAG, support for multiple model formats, and seamless switching between local and cloud models while keeping data local. That is the core of what Recursechat does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Recursechat free?
     a: Recursechat is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Recursechat?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Recursechat
 
 ## What is Recursechat?
 
-RecurseChat is a macOS app that runs large language models locally, offering offline AI with a floating chat window, file‑based RAG, support for multiple model formats, and seamless switching between local and cloud models while keeping data local. Chat Paid
-
+RecurseChat is a macOS app that runs large language models locally, offering offline AI with a floating chat window, file‑based RAG, support for multiple model formats, and seamless switching between local and cloud models while keeping data local.
 In short, Recursechat is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For a lot of people, that one function of Recursechat collapses multiple steps into a single action.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Pictorial?
-    a: The AI tool generates professional and diverse graphics for blogs and other messaging needs using AI. Content creation Free - $19/mo That is the core of what Pictorial does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: The AI tool generates professional and diverse graphics for blogs and other messaging needs using AI. That is the core of what Pictorial does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Pictorial free?
     a: Pictorial uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Pictorial?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Pictorial earn t
 
 ## What is Pictorial?
 
-The AI tool generates professional and diverse graphics for blogs and other messaging needs using AI. Content creation Free - $19/mo
-
+The AI tool generates professional and diverse graphics for blogs and other messaging needs using AI.
 In short, Pictorial is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. For plenty of users, that one capability of Pictorial replaces several steps they used to do by hand.
 
 ## Key features

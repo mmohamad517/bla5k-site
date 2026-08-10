@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ottic?
-    a: Ottic automates junior HR roles with AI agents running in isolated Docker containers and scoped permissions. Preconfigured for SDR, content writing, data entry, and support, they integrate with Slack, HubSpot, Google Workspace, Salesforce, learn from interactions, and log all actions. AI Agents Subscription - $4200/mo That is the core of what Ottic does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ottic automates junior HR roles with AI agents running in isolated Docker containers and scoped permissions. Preconfigured for SDR, content writing, data entry, and support, they integrate with Slack, HubSpot, Google Workspace, Salesforce, learn from interactions, and log all actions. That is the core of what Ottic does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ottic free?
     a: Ottic is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Ottic?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Ottic earn their
 
 ## What is Ottic?
 
-Ottic automates junior HR roles with AI agents running in isolated Docker containers and scoped permissions. Preconfigured for SDR, content writing, data entry, and support, they integrate with Slack, HubSpot, Google Workspace, Salesforce, learn from interactions, and log all actions. AI Agents Subscription - $4200/mo
-
+Ottic automates junior HR roles with AI agents running in isolated Docker containers and scoped permissions. Preconfigured for SDR, content writing, data entry, and support, they integrate with Slack, HubSpot, Google Workspace, Salesforce, learn from interactions, and log all actions.
 In short, Ottic is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many, that single strength of Ottic is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

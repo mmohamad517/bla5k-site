@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Colorin AI?
-    a: Colorin AI Generator turns text, characters, or photos into clean printable coloring outlines with styles like kawaii and line art. Batch creation, photo conversion, AI editing, auto‑margins, and PDF export enable ready‑to‑print resources for educators, creators, and mindfulness practitioners. Coloring Pages Freemium That is the core of what Colorin AI does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Colorin AI Generator turns text, characters, or photos into clean printable coloring outlines with styles like kawaii and line art. Batch creation, photo conversion, AI editing, auto‑margins, and PDF export enable ready‑to‑print resources for educators, creators, and mindfulness practitioners. That is the core of what Colorin AI does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Colorin AI free?
     a: Colorin AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Colorin AI?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Colorin AI earn 
 
 ## What is Colorin AI?
 
-Colorin AI Generator turns text, characters, or photos into clean printable coloring outlines with styles like kawaii and line art. Batch creation, photo conversion, AI editing, auto‑margins, and PDF export enable ready‑to‑print resources for educators, creators, and mindfulness practitioners. Coloring Pages Freemium
-
+Colorin AI Generator turns text, characters, or photos into clean printable coloring outlines with styles like kawaii and line art. Batch creation, photo conversion, AI editing, auto‑margins, and PDF export enable ready‑to‑print resources for educators, creators, and mindfulness practitioners.
 In short, Colorin AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For plenty of users, that one capability of Colorin AI replaces several steps they used to do by hand.
 
 ## Key features

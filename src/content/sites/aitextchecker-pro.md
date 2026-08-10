@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AITextChecker.pro?
-    a: AITextChecker.pro is an AI-powered tool that detects AI-generated content from models like ChatGPT, GPT-4, and others with over 97% accuracy. It offers instant, detailed analysis in multiple languages, supports bulk checking, and ensures privacy by not storing content.  That is the core of what AITextChecker.pro does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AITextChecker.pro is an AI-powered tool that detects AI-generated content from models like ChatGPT, GPT-4, and others with over 97% accuracy. It offers instant, detailed analysis in multiple languages, supports bulk checking, and ensures privacy by not storing content. That is the core of what AITextChecker.pro does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AITextChecker.pro free?
     a: AITextChecker.pro uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AITextChecker.pro?

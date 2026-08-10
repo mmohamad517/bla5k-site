@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ecosia AI?
-    a: Ecosia is a privacy-minded search engine with an integrated AI chat that combines web, image, video, news, maps and shopping results, offers summarization, document-aware drafting with attachments, cross-device sync, and renewable-energy–powered servers.  That is the core of what Ecosia AI does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ecosia is a privacy-minded search engine with an integrated AI chat that combines web, image, video, news, maps and shopping results, offers summarization, document-aware drafting with attachments, cross-device sync, and renewable-energy–powered servers. That is the core of what Ecosia AI does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ecosia AI free?
     a: Yes — Ecosia AI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Ecosia AI?

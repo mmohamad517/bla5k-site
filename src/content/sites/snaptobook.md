@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Snaptobook?
-    a: SnaptoBook is a personal accounting software that simplifies invoice and receipt management, automates reimbursement forms, organizes tax-related documents, and enables accurate bill splitting with AI-enhanced receipt recognition and secure cloud storage for financial documents.  That is the core of what Snaptobook does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SnaptoBook is a personal accounting software that simplifies invoice and receipt management, automates reimbursement forms, organizes tax-related documents, and enables accurate bill splitting with AI-enhanced receipt recognition and secure cloud storage for financial documents. That is the core of what Snaptobook does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Snaptobook free?
     a: Yes — Snaptobook is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Snaptobook?

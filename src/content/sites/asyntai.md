@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Asyntai?
-    a: Asyntai is a customizable AI chat support tool that provides instant, brand-aligned responses. It deploys easily via a JavaScript snippet and offers multi-language support with average response times of 3 seconds.  That is the core of what Asyntai does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Asyntai is a customizable AI chat support tool that provides instant, brand-aligned responses. It deploys easily via a JavaScript snippet and offers multi-language support with average response times of 3 seconds. That is the core of what Asyntai does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Asyntai free?
     a: Asyntai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $39/mo, check the official website — pricing changes often.
   - q: What can you do with Asyntai?

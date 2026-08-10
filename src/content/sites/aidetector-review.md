@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AIDetector.review?
-    a: AIDetector.review is an AI text detection tool that identifies AI-generated content with detailed reports and confidence scores. It offers fast, 99.2% accurate analysis for academic, publishing, recruitment, and business use cases.  That is the core of what AIDetector.review does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AIDetector.review is an AI text detection tool that identifies AI-generated content with detailed reports and confidence scores. It offers fast, 99.2% accurate analysis for academic, publishing, recruitment, and business use cases. That is the core of what AIDetector.review does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AIDetector.review free?
     a: Yes — AIDetector.review is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with AIDetector.review?

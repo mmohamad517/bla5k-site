@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Blueprint?
-    a: Blueprint is an AI-based scope management tool that helps project teams define, track, and manage project requirements effectively. It analyzes data to identify risks and provides insights, enhancing collaboration and minimizing scope creep throughout the project lifecycle. Project management Freemium That is the core of what Blueprint does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Blueprint is an AI-based scope management tool that helps project teams define, track, and manage project requirements effectively. It analyzes data to identify risks and provides insights, enhancing collaboration and minimizing scope creep throughout the project lifecycle. That is the core of what Blueprint does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Blueprint free?
     a: Blueprint uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Blueprint?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Blueprint e
 
 ## What is Blueprint?
 
-Blueprint is an AI-based scope management tool that helps project teams define, track, and manage project requirements effectively. It analyzes data to identify risks and provides insights, enhancing collaboration and minimizing scope creep throughout the project lifecycle. Project management Freemium
-
+Blueprint is an AI-based scope management tool that helps project teams define, track, and manage project requirements effectively. It analyzes data to identify risks and provides insights, enhancing collaboration and minimizing scope creep throughout the project lifecycle.
 In short, Blueprint is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. Many users find that this one ability of Blueprint removes several tasks from their daily routine.
 
 ## Key features

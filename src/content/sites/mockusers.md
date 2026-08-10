@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MockUsers?
-    a: MockUsers analyzes landing pages, auto-detects ideal customer profiles and deploys AI visitor agents to simulate behavior, pinpoint sentence-level doubts and conversion blockers, rank issues by impact, and generate ICP-tailored hero, bullets and CTA rewrites with scored actionable fixes. AI Agents Freemium - $12/mo That is the core of what MockUsers does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: MockUsers analyzes landing pages, auto-detects ideal customer profiles and deploys AI visitor agents to simulate behavior, pinpoint sentence-level doubts and conversion blockers, rank issues by impact, and generate ICP-tailored hero, bullets and CTA rewrites with scored actionable fixes. That is the core of what MockUsers does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MockUsers free?
     a: MockUsers uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $12/mo, check the official website — pricing changes often.
   - q: What can you do with MockUsers?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like MockUs
 
 ## What is MockUsers?
 
-MockUsers analyzes landing pages, auto-detects ideal customer profiles and deploys AI visitor agents to simulate behavior, pinpoint sentence-level doubts and conversion blockers, rank issues by impact, and generate ICP-tailored hero, bullets and CTA rewrites with scored actionable fixes. AI Agents Freemium - $12/mo
-
+MockUsers analyzes landing pages, auto-detects ideal customer profiles and deploys AI visitor agents to simulate behavior, pinpoint sentence-level doubts and conversion blockers, rank issues by impact, and generate ICP-tailored hero, bullets and CTA rewrites with scored actionable fixes.
 In short, MockUsers is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many, that single strength of MockUsers is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

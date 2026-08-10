@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Plurai AI?
-    a: Simulation-driven platform that evaluates and monitors AI agents across modalities with realistic multi-turn scenarios, CI/CD-integrated automated tests, configurable safety/policy guardrails, and analytics for failures, hallucinations, and performance to ensure production readiness. AI Agents Free trial That is the core of what Plurai AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Simulation-driven platform that evaluates and monitors AI agents across modalities with realistic multi-turn scenarios, CI/CD-integrated automated tests, configurable safety/policy guardrails, and analytics for failures, hallucinations, and performance to ensure production readiness. That is the core of what Plurai AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Plurai AI free?
     a: Plurai AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Plurai AI?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Plurai AI?
 
-Simulation-driven platform that evaluates and monitors AI agents across modalities with realistic multi-turn scenarios, CI/CD-integrated automated tests, configurable safety/policy guardrails, and analytics for failures, hallucinations, and performance to ensure production readiness. AI Agents Free trial
-
+Simulation-driven platform that evaluates and monitors AI agents across modalities with realistic multi-turn scenarios, CI/CD-integrated automated tests, configurable safety/policy guardrails, and analytics for failures, hallucinations, and performance to ensure production readiness.
 In short, Plurai AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That single feature of Plurai AI alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

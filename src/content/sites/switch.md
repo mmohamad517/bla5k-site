@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Switch?
-    a: Switch is an AI-driven platform for phone and messaging workflows, offering web/mobile apps, APIs and integrations, account and access management, configurable preferences, built-in analytics and error monitoring, plus developer documentation for CRM, helpdesk, and automation integration. Communication Automation Freemium That is the core of what Switch does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Switch is an AI-driven platform for phone and messaging workflows, offering web/mobile apps, APIs and integrations, account and access management, configurable preferences, built-in analytics and error monitoring, plus developer documentation for CRM, helpdesk, and automation integration. That is the core of what Switch does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Switch free?
     a: Switch uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Switch?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Switch?
 
-Switch is an AI-driven platform for phone and messaging workflows, offering web/mobile apps, APIs and integrations, account and access management, configurable preferences, built-in analytics and error monitoring, plus developer documentation for CRM, helpdesk, and automation integration. Communication Automation Freemium
-
+Switch is an AI-driven platform for phone and messaging workflows, offering web/mobile apps, APIs and integrations, account and access management, configurable preferences, built-in analytics and error monitoring, plus developer documentation for CRM, helpdesk, and automation integration.
 In short, Switch is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. For plenty of users, that one capability of Switch replaces several steps they used to do by hand.
 
 ## Key features

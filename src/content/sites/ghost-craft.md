@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ghost Craft?
-    a: Ghost Craft is an AI‑powered platform that auto‑generates, rewrites, and clusters trending news content, offering bulk rewrite, pillar‑post creation, multi‑language editing, direct WordPress publishing, image generation, and SEO‑ready links for streamlined team collaboration.  That is the core of what Ghost Craft does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ghost Craft is an AI‑powered platform that auto‑generates, rewrites, and clusters trending news content, offering bulk rewrite, pillar‑post creation, multi‑language editing, direct WordPress publishing, image generation, and SEO‑ready links for streamlined team collaboration. That is the core of what Ghost Craft does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ghost Craft free?
     a: Ghost Craft uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $45/mo, check the official website — pricing changes often.
   - q: What can you do with Ghost Craft?

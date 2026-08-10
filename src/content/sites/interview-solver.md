@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Interview Solver?
-    a: Interview Solver is a desktop AI copilot that supplies real‑time code and system‑design solutions during coding interviews, accepting screenshots, voice, and documents, and remains invisible in screen sharing and background processes. Code assistant Freemium - $30 That is the core of what Interview Solver does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Interview Solver is a desktop AI copilot that supplies real‑time code and system‑design solutions during coding interviews, accepting screenshots, voice, and documents, and remains invisible in screen sharing and background processes. That is the core of what Interview Solver does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Interview Solver free?
     a: Interview Solver uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $30, check the official website — pricing changes often.
   - q: What can you do with Interview Solver?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Interview S
 
 ## What is Interview Solver?
 
-Interview Solver is a desktop AI copilot that supplies real‑time code and system‑design solutions during coding interviews, accepting screenshots, voice, and documents, and remains invisible in screen sharing and background processes. Code assistant Freemium - $30
-
+Interview Solver is a desktop AI copilot that supplies real‑time code and system‑design solutions during coding interviews, accepting screenshots, voice, and documents, and remains invisible in screen sharing and background processes.
 In short, Interview Solver is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users find that this one ability of Interview Solver removes several tasks from their daily routine.
 
 ## Key features

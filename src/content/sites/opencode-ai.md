@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is OpenCode.ai?
-    a: OpenCode.ai is an open-source AI coding agent that runs directly in your terminal, IDE, or desktop. It connects to 75+ LLM providers, supports offline use, and enables multi-session collaboration for code review and debugging.  That is the core of what OpenCode.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: OpenCode.ai is an open-source AI coding agent that runs directly in your terminal, IDE, or desktop. It connects to 75+ LLM providers, supports offline use, and enables multi-session collaboration for code review and debugging. That is the core of what OpenCode.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is OpenCode.ai free?
     a: Yes — OpenCode.ai is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with OpenCode.ai?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AskCory.ai?
-    a: AskCory generates tailored marketing plans, tactics, and ready‑made content such as social posts, blogs, and presentations within minutes. It provides benchmark data, KPI guidance, collaborative workspaces, and export options for agencies, freelancers, startups, and in‑house teams. Marketing Subscription That is the core of what AskCory.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AskCory generates tailored marketing plans, tactics, and ready‑made content such as social posts, blogs, and presentations within minutes. It provides benchmark data, KPI guidance, collaborative workspaces, and export options for agencies, freelancers, startups, and in‑house teams. That is the core of what AskCory.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AskCory.ai free?
     a: AskCory.ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with AskCory.ai?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like AskCory.ai 
 
 ## What is AskCory.ai?
 
-AskCory generates tailored marketing plans, tactics, and ready‑made content such as social posts, blogs, and presentations within minutes. It provides benchmark data, KPI guidance, collaborative workspaces, and export options for agencies, freelancers, startups, and in‑house teams. Marketing Subscription
-
+AskCory generates tailored marketing plans, tactics, and ready‑made content such as social posts, blogs, and presentations within minutes. It provides benchmark data, KPI guidance, collaborative workspaces, and export options for agencies, freelancers, startups, and in‑house teams.
 In short, AskCory.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. Many users discover that this feature of AskCory.ai alone covers what previously took multiple tools.
 
 ## Key features

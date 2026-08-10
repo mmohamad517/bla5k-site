@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Paymefy?
-    a: Paymefy automates accounts‑receivable by integrating with ERP, CRM, and billing systems. It routes payments via multiple gateways, sends AI‑driven reminders, reconciles transactions, and delivers real‑time dashboards, cutting DSO by 30% and reducing manual effort. Accounting assistant Freemium That is the core of what Paymefy does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Paymefy automates accounts‑receivable by integrating with ERP, CRM, and billing systems. It routes payments via multiple gateways, sends AI‑driven reminders, reconciles transactions, and delivers real‑time dashboards, cutting DSO by 30% and reducing manual effort. That is the core of what Paymefy does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Paymefy free?
     a: Paymefy uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Paymefy?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Paymefy?
 
-Paymefy automates accounts‑receivable by integrating with ERP, CRM, and billing systems. It routes payments via multiple gateways, sends AI‑driven reminders, reconciles transactions, and delivers real‑time dashboards, cutting DSO by 30% and reducing manual effort. Accounting assistant Freemium
-
+Paymefy automates accounts‑receivable by integrating with ERP, CRM, and billing systems. It routes payments via multiple gateways, sends AI‑driven reminders, reconciles transactions, and delivers real‑time dashboards, cutting DSO by 30% and reducing manual effort.
 In short, Paymefy is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users discover that this feature of Paymefy alone covers what previously took multiple tools.
 
 ## Key features

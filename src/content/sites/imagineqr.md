@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ImagineQr?
-    a: ImagineQr generates AI‑powered QR codes that link to any URL, using templates and a negative prompt to exclude unwanted content. Codes are saved in a dashboard, remain responsive, and keep readability on modern smartphones, ideal for marketers and creators. AI Assistant Freemium That is the core of what ImagineQr does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ImagineQr generates AI‑powered QR codes that link to any URL, using templates and a negative prompt to exclude unwanted content. Codes are saved in a dashboard, remain responsive, and keep readability on modern smartphones, ideal for marketers and creators. That is the core of what ImagineQr does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ImagineQr free?
     a: ImagineQr uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ImagineQr?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like ImagineQr m
 
 ## What is ImagineQr?
 
-ImagineQr generates AI‑powered QR codes that link to any URL, using templates and a negative prompt to exclude unwanted content. Codes are saved in a dashboard, remain responsive, and keep readability on modern smartphones, ideal for marketers and creators. AI Assistant Freemium
-
+ImagineQr generates AI‑powered QR codes that link to any URL, using templates and a negative prompt to exclude unwanted content. Codes are saved in a dashboard, remain responsive, and keep readability on modern smartphones, ideal for marketers and creators.
 In short, ImagineQr is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one capability of ImagineQr frequently saves users from juggling several separate steps.
 
 ## Key features

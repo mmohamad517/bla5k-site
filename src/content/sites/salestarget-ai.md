@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SalesTarget.ai?
-    a: SalesTarget.ai is a sales platform offering lead generation, automated email outreach, and CRM management with access to 50 million verified leads. It enables A/B testing, analytics, and unlimited integrations to optimize targeting and streamline sales workflows.  That is the core of what SalesTarget.ai does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SalesTarget.ai is a sales platform offering lead generation, automated email outreach, and CRM management with access to 50 million verified leads. It enables A/B testing, analytics, and unlimited integrations to optimize targeting and streamline sales workflows. That is the core of what SalesTarget.ai does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SalesTarget.ai free?
     a: SalesTarget.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $30/mo, check the official website — pricing changes often.
   - q: What can you do with SalesTarget.ai?

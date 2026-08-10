@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Attentionkart?
-    a: AttentionKart is an AI tool employing emotion AI to analyze real-time customer emotions in retail, online conferences, and customer service. It improves experiences, loyalty, and productivity via personalized interactions and tailored emotional marketing strategies. AI Assistant Free trial That is the core of what Attentionkart does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AttentionKart is an AI tool employing emotion AI to analyze real-time customer emotions in retail, online conferences, and customer service. It improves experiences, loyalty, and productivity via personalized interactions and tailored emotional marketing strategies. That is the core of what Attentionkart does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Attentionkart free?
     a: Attentionkart uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Attentionkart?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Attentionka
 
 ## What is Attentionkart?
 
-AttentionKart is an AI tool employing emotion AI to analyze real-time customer emotions in retail, online conferences, and customer service. It improves experiences, loyalty, and productivity via personalized interactions and tailored emotional marketing strategies. AI Assistant Free trial
-
+AttentionKart is an AI tool employing emotion AI to analyze real-time customer emotions in retail, online conferences, and customer service. It improves experiences, loyalty, and productivity via personalized interactions and tailored emotional marketing strategies.
 In short, Attentionkart is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one capability of Attentionkart frequently saves users from juggling several separate steps.
 
 ## Key features

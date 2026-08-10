@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Strama?
-    a: Strama is a sales outreach tool that streamlines prospecting by generating personalized messages based on LinkedIn profiles. Its three-step process allows users to define pitches, add leads, and review tailored outreach sequences quickly and easily. Sales Free trial That is the core of what Strama does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Strama is a sales outreach tool that streamlines prospecting by generating personalized messages based on LinkedIn profiles. Its three-step process allows users to define pitches, add leads, and review tailored outreach sequences quickly and easily. That is the core of what Strama does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Strama free?
     a: Strama uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Strama?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Strama?
 
-Strama is a sales outreach tool that streamlines prospecting by generating personalized messages based on LinkedIn profiles. Its three-step process allows users to define pitches, add leads, and review tailored outreach sequences quickly and easily. Sales Free trial
-
+Strama is a sales outreach tool that streamlines prospecting by generating personalized messages based on LinkedIn profiles. Its three-step process allows users to define pitches, add leads, and review tailored outreach sequences quickly and easily.
 In short, Strama is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For plenty of users, that one capability of Strama replaces several steps they used to do by hand.
 
 ## Key features

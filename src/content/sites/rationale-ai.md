@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Rationale AI?
-    a: Rationale is a GPT‑powered decision‑support tool that produces structured analyses—pros/cons, SWOT, multi‑option comparisons, causal chains—based on context and user profiles. It offers tone customization, multilingual output, <10 s results, and an API for batch processing up to 64 decisions.  That is the core of what Rationale AI does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Rationale is a GPT‑powered decision‑support tool that produces structured analyses—pros/cons, SWOT, multi‑option comparisons, causal chains—based on context and user profiles. It offers tone customization, multilingual output, <10 s results, and an API for batch processing up to 64 decisions. That is the core of what Rationale AI does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Rationale AI free?
     a: Rationale AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Rationale AI?

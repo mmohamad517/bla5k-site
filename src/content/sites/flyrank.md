@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is FlyRank?
-    a: Flyrank is an AI-powered content engine that automates SEO-optimized blog content creation. It features localization for global engagement, automatic SEO enhancements, and real-time insights, helping brands increase website visibility and drive organic traffic growth.  That is the core of what FlyRank does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Flyrank is an AI-powered content engine that automates SEO-optimized blog content creation. It features localization for global engagement, automatic SEO enhancements, and real-time insights, helping brands increase website visibility and drive organic traffic growth. That is the core of what FlyRank does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is FlyRank free?
     a: FlyRank uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $999/mo, check the official website — pricing changes often.
   - q: What can you do with FlyRank?

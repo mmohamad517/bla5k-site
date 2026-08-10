@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ATOMS?
-    a: ATOMS uses AI-assisted development to rapidly prototype apps and demos, enabling fast product validation and internal testing, with built-in workflow automation, payment and customer-acquisition features, team access controls, and configurable deployment and integrations.  That is the core of what ATOMS does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ATOMS uses AI-assisted development to rapidly prototype apps and demos, enabling fast product validation and internal testing, with built-in workflow automation, payment and customer-acquisition features, team access controls, and configurable deployment and integrations. That is the core of what ATOMS does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ATOMS free?
     a: ATOMS uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $20/mo, check the official website — pricing changes often.
   - q: What can you do with ATOMS?

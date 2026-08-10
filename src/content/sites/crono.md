@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Crono?
-    a: Crono is a sales automation platform for B2B teams, enabling task automation, centralized data management, advanced analytics, and AI-driven lead generation to enhance productivity and streamline sales processes. Sales Free trial That is the core of what Crono does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Crono is a sales automation platform for B2B teams, enabling task automation, centralized data management, advanced analytics, and AI-driven lead generation to enhance productivity and streamline sales processes. That is the core of what Crono does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Crono free?
     a: Crono uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Crono?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Crono matte
 
 ## What is Crono?
 
-Crono is a sales automation platform for B2B teams, enabling task automation, centralized data management, advanced analytics, and AI-driven lead generation to enhance productivity and streamline sales processes. Sales Free trial
-
+Crono is a sales automation platform for B2B teams, enabling task automation, centralized data management, advanced analytics, and AI-driven lead generation to enhance productivity and streamline sales processes.
 In short, Crono is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For plenty of users, that one capability of Crono replaces several steps they used to do by hand.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Kimi - CLI?
-    a: Kimi Code CLI is an intelligent command-line assistant for developers and DevOps, unifying CLI search, guides, config references, release notes, and LLM-assisted command suggestions into a customizable, searchable Markdown docs workflow with English and Simplified Chinese support.  That is the core of what Kimi - CLI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Kimi Code CLI is an intelligent command-line assistant for developers and DevOps, unifying CLI search, guides, config references, release notes, and LLM-assisted command suggestions into a customizable, searchable Markdown docs workflow with English and Simplified Chinese support. That is the core of what Kimi - CLI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Kimi - CLI free?
     a: Yes — Kimi - CLI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Kimi - CLI?

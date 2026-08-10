@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CVFormatter?
-    a: CVFormatter is an AI-driven resume formatting tool that streamlines the processing of resumes for HR professionals. It extracts, summarizes, and reformats documents into standardized templates while supporting bulk uploads and real-time collaboration for enhanced recruitment efficiency.  That is the core of what CVFormatter does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CVFormatter is an AI-driven resume formatting tool that streamlines the processing of resumes for HR professionals. It extracts, summarizes, and reformats documents into standardized templates while supporting bulk uploads and real-time collaboration for enhanced recruitment efficiency. That is the core of what CVFormatter does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CVFormatter free?
     a: CVFormatter uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with CVFormatter?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Cygentive?
-    a: Cygentive is an AI voice agent platform that automates 24/7 inbound and outbound calls for customer support, lead generation, and scheduling. It integrates with key business systems to update CRMs, automate workflows, and scale operations with full analytics and human escalation. Customer support Subscription That is the core of what Cygentive does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Cygentive is an AI voice agent platform that automates 24/7 inbound and outbound calls for customer support, lead generation, and scheduling. It integrates with key business systems to update CRMs, automate workflows, and scale operations with full analytics and human escalation. That is the core of what Cygentive does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Cygentive free?
     a: Cygentive is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Cygentive?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Cygentive?
 
-Cygentive is an AI voice agent platform that automates 24/7 inbound and outbound calls for customer support, lead generation, and scheduling. It integrates with key business systems to update CRMs, automate workflows, and scale operations with full analytics and human escalation. Customer support Subscription
-
+Cygentive is an AI voice agent platform that automates 24/7 inbound and outbound calls for customer support, lead generation, and scheduling. It integrates with key business systems to update CRMs, automate workflows, and scale operations with full analytics and human escalation.
 In short, Cygentive is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. That single feature of Cygentive alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

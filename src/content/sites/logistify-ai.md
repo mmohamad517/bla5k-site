@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Logistify AI?
-    a: Logistify AI automates inventory verification in factories and warehouses using generative AI and computer vision. It eliminates human errors, reduces labor costs, verifies SKUs, counts units, and recognizes vehicle plate numbers. Ideal for industries like food, mining, and pharmaceuticals. Business Subscription - $499/mo That is the core of what Logistify AI does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Logistify AI automates inventory verification in factories and warehouses using generative AI and computer vision. It eliminates human errors, reduces labor costs, verifies SKUs, counts units, and recognizes vehicle plate numbers. Ideal for industries like food, mining, and pharmaceuticals. That is the core of what Logistify AI does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Logistify AI free?
     a: Logistify AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Logistify AI?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Logistify AI?
 
-Logistify AI automates inventory verification in factories and warehouses using generative AI and computer vision. It eliminates human errors, reduces labor costs, verifies SKUs, counts units, and recognizes vehicle plate numbers. Ideal for industries like food, mining, and pharmaceuticals. Business Subscription - $499/mo
-
+Logistify AI automates inventory verification in factories and warehouses using generative AI and computer vision. It eliminates human errors, reduces labor costs, verifies SKUs, counts units, and recognizes vehicle plate numbers. Ideal for industries like food, mining, and pharmaceuticals.
 In short, Logistify AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. That single feature of Logistify AI alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

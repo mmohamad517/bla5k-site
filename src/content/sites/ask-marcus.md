@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ask Marcus?
-    a: Ask Marcus is a GPT‑4 chatbot that lets users converse with a virtual Marcus Aurelius, providing concise, historically grounded replies that illustrate Stoic principles and offer practical self‑discipline guidance for philosophy students and personal growth seekers. AI Assistant Free That is the core of what Ask Marcus does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ask Marcus is a GPT‑4 chatbot that lets users converse with a virtual Marcus Aurelius, providing concise, historically grounded replies that illustrate Stoic principles and offer practical self‑discipline guidance for philosophy students and personal growth seekers. That is the core of what Ask Marcus does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ask Marcus free?
     a: Yes — Ask Marcus is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Ask Marcus?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Ask Marcus?
 
-Ask Marcus is a GPT‑4 chatbot that lets users converse with a virtual Marcus Aurelius, providing concise, historically grounded replies that illustrate Stoic principles and offer practical self‑discipline guidance for philosophy students and personal growth seekers. AI Assistant Free
-
+Ask Marcus is a GPT‑4 chatbot that lets users converse with a virtual Marcus Aurelius, providing concise, historically grounded replies that illustrate Stoic principles and offer practical self‑discipline guidance for philosophy students and personal growth seekers.
 In short, Ask Marcus is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That single feature of Ask Marcus alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Novu Connect?
-    a: Novu Connect deploys managed Claude agents across Slack, Teams, WhatsApp, email and more while preserving a single conversational thread. It provides prebuilt agent templates, connectors to tools and repos, notifications, and enterprise-grade access and hosting. Omnichannel chatbot Freemium That is the core of what Novu Connect does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Novu Connect deploys managed Claude agents across Slack, Teams, WhatsApp, email and more while preserving a single conversational thread. It provides prebuilt agent templates, connectors to tools and repos, notifications, and enterprise-grade access and hosting. That is the core of what Novu Connect does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Novu Connect free?
     a: Novu Connect uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Novu Connect?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Novu Connect?
 
-Novu Connect deploys managed Claude agents across Slack, Teams, WhatsApp, email and more while preserving a single conversational thread. It provides prebuilt agent templates, connectors to tools and repos, notifications, and enterprise-grade access and hosting. Omnichannel chatbot Freemium
-
+Novu Connect deploys managed Claude agents across Slack, Teams, WhatsApp, email and more while preserving a single conversational thread. It provides prebuilt agent templates, connectors to tools and repos, notifications, and enterprise-grade access and hosting.
 In short, Novu Connect is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For plenty of users, that one capability of Novu Connect replaces several steps they used to do by hand.
 
 ## Key features

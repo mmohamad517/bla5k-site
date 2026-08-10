@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Serviceware ITFM?
-    a: Serviceware ITFM is an AI-driven platform that integrates planning, budgeting, and billing to automate financial operations. It provides cost benchmarking, vendor management, and transforms data into actionable insights for optimized spend and compliance.  That is the core of what Serviceware ITFM does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Serviceware ITFM is an AI-driven platform that integrates planning, budgeting, and billing to automate financial operations. It provides cost benchmarking, vendor management, and transforms data into actionable insights for optimized spend and compliance. That is the core of what Serviceware ITFM does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Serviceware ITFM free?
     a: Serviceware ITFM is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Serviceware ITFM?

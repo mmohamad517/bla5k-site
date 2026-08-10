@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is A2E.ai?
-    a: A2E.ai is a cutting-edge AI platform that generates lifelike avatars and videos with lip-sync, voice cloning, and multilingual text-to-video capabilities. It delivers high-quality, fast results with API integration for seamless application embedding.  That is the core of what A2E.ai does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: A2E.ai is a cutting-edge AI platform that generates lifelike avatars and videos with lip-sync, voice cloning, and multilingual text-to-video capabilities. It delivers high-quality, fast results with API integration for seamless application embedding. That is the core of what A2E.ai does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is A2E.ai free?
     a: A2E.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with A2E.ai?

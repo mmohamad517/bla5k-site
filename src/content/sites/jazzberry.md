@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Jazzberry?
-    a: Jazzberry is an AI-driven bug detection tool that analyzes code repositories in a secure environment, identifying vulnerabilities like SQL injection and authentication bypasses. It prioritizes data security with enterprise-grade measures and provides efficient, categorized bug identification. Code Debugging Freemium That is the core of what Jazzberry does — developer tools handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Jazzberry is an AI-driven bug detection tool that analyzes code repositories in a secure environment, identifying vulnerabilities like SQL injection and authentication bypasses. It prioritizes data security with enterprise-grade measures and provides efficient, categorized bug identification. That is the core of what Jazzberry does — developer tools handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Jazzberry free?
     a: Jazzberry uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Jazzberry?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Jazzberry earn t
 
 ## What is Jazzberry?
 
-Jazzberry is an AI-driven bug detection tool that analyzes code repositories in a secure environment, identifying vulnerabilities like SQL injection and authentication bypasses. It prioritizes data security with enterprise-grade measures and provides efficient, categorized bug identification. Code Debugging Freemium
-
+Jazzberry is an AI-driven bug detection tool that analyzes code repositories in a secure environment, identifying vulnerabilities like SQL injection and authentication bypasses. It prioritizes data security with enterprise-grade measures and provides efficient, categorized bug identification.
 In short, Jazzberry is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for developer tools without the manual grind. For a lot of people, that one function of Jazzberry collapses multiple steps into a single action.
 
 ## Key features

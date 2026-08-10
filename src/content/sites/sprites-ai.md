@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Sprites.ai?
-    a: Sprites AI is an AI copilot for performance marketing that automates Google Ads, Meta Ads and SEO workflows—building campaigns, generating ads and creatives, doing keyword research and technical SEO, running automations and integrations for cross-channel reporting. Marketing Freemium - $48/mo That is the core of what Sprites.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Sprites AI is an AI copilot for performance marketing that automates Google Ads, Meta Ads and SEO workflows—building campaigns, generating ads and creatives, doing keyword research and technical SEO, running automations and integrations for cross-channel reporting. That is the core of what Sprites.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Sprites.ai free?
     a: Sprites.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $48/mo, check the official website — pricing changes often.
   - q: What can you do with Sprites.ai?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Sprites.ai?
 
-Sprites AI is an AI copilot for performance marketing that automates Google Ads, Meta Ads and SEO workflows—building campaigns, generating ads and creatives, doing keyword research and technical SEO, running automations and integrations for cross-channel reporting. Marketing Freemium - $48/mo
-
+Sprites AI is an AI copilot for performance marketing that automates Google Ads, Meta Ads and SEO workflows—building campaigns, generating ads and creatives, doing keyword research and technical SEO, running automations and integrations for cross-channel reporting.
 In short, Sprites.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That single feature of Sprites.ai alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

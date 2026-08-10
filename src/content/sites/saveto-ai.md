@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Saveto AI?
-    a: Saveto AI is an all-in-one AI content creation and collaboration platform for teams. It combines AI-assisted generation, workflow management, and cross-channel publishing tools in a unified workspace.  That is the core of what Saveto AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Saveto AI is an all-in-one AI content creation and collaboration platform for teams. It combines AI-assisted generation, workflow management, and cross-channel publishing tools in a unified workspace. That is the core of what Saveto AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Saveto AI free?
     a: Saveto AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Saveto AI?

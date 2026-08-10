@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ioPartners?
-    a: A browser‑based AI companion that lets you create and customize a 3‑D avatar. The AI remembers past chats, enabling evolving, personalized interactions. Users can adjust personality, looks, and animation, with all data confined to the session. Community support via Discord. Avatar Freemium That is the core of what ioPartners does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: A browser‑based AI companion that lets you create and customize a 3‑D avatar. The AI remembers past chats, enabling evolving, personalized interactions. Users can adjust personality, looks, and animation, with all data confined to the session. Community support via Discord. That is the core of what ioPartners does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ioPartners free?
     a: ioPartners uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ioPartners?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like ioPart
 
 ## What is ioPartners?
 
-A browser‑based AI companion that lets you create and customize a 3‑D avatar. The AI remembers past chats, enabling evolving, personalized interactions. Users can adjust personality, looks, and animation, with all data confined to the session. Community support via Discord. Avatar Freemium
-
+A browser‑based AI companion that lets you create and customize a 3‑D avatar. The AI remembers past chats, enabling evolving, personalized interactions. Users can adjust personality, looks, and animation, with all data confined to the session. Community support via Discord.
 In short, ioPartners is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. For many, that single strength of ioPartners is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

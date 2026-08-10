@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CoinScreener?
-    a: CoinScreener delivers AI‑driven crypto signals and real‑time insights for over 1,000 markets. It provides technical analysis, alerts for whale trades, market pumps/dumps, and tracks top traders' actions, enabling quick responses to spot and futures activity. Crypto and Web3 Freemium That is the core of what CoinScreener does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CoinScreener delivers AI‑driven crypto signals and real‑time insights for over 1,000 markets. It provides technical analysis, alerts for whale trades, market pumps/dumps, and tracks top traders' actions, enabling quick responses to spot and futures activity. That is the core of what CoinScreener does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CoinScreener free?
     a: CoinScreener uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with CoinScreener?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like CoinScreene
 
 ## What is CoinScreener?
 
-CoinScreener delivers AI‑driven crypto signals and real‑time insights for over 1,000 markets. It provides technical analysis, alerts for whale trades, market pumps/dumps, and tracks top traders' actions, enabling quick responses to spot and futures activity. Crypto and Web3 Freemium
-
+CoinScreener delivers AI‑driven crypto signals and real‑time insights for over 1,000 markets. It provides technical analysis, alerts for whale trades, market pumps/dumps, and tracks top traders' actions, enabling quick responses to spot and futures activity.
 In short, CoinScreener is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. That one capability of CoinScreener frequently saves users from juggling several separate steps.
 
 ## Key features

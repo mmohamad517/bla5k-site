@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Sapio AI?
-    a: Sapio AI is an AI‑powered coaching platform offering 25+ conversation scenarios in 10 languages. It records dialogues, gives instant tone and intent feedback, and provides analytics to track improvement in communication, empathy, and conflict resolution.  That is the core of what Sapio AI does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Sapio AI is an AI‑powered coaching platform offering 25+ conversation scenarios in 10 languages. It records dialogues, gives instant tone and intent feedback, and provides analytics to track improvement in communication, empathy, and conflict resolution. That is the core of what Sapio AI does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Sapio AI free?
     a: Yes — Sapio AI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Sapio AI?

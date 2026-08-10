@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SamurAi?
-    a: SamurAI is a community chatbot built on ChatGPT that allows you to create, manage, and grow your community on Discord through features such as creating servers, channels, managing invitations and welcomes, and answering queries.  That is the core of what SamurAi does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SamurAI is a community chatbot built on ChatGPT that allows you to create, manage, and grow your community on Discord through features such as creating servers, channels, managing invitations and welcomes, and answering queries. That is the core of what SamurAi does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SamurAi free?
     a: Yes — SamurAi is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with SamurAi?

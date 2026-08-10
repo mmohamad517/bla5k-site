@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Invoce.ai?
-    a: Invoce.ai generates professional invoices and quotes from plain-English input or a manual editor, centralizes clients, services, payments and records, supports branding and major currencies, embeds payment links, tracks revenue and exports data for bookkeeping. Accounting assistant Freemium That is the core of what Invoce.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Invoce.ai generates professional invoices and quotes from plain-English input or a manual editor, centralizes clients, services, payments and records, supports branding and major currencies, embeds payment links, tracks revenue and exports data for bookkeeping. That is the core of what Invoce.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Invoce.ai free?
     a: Invoce.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Invoce.ai?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Invoce
 
 ## What is Invoce.ai?
 
-Invoce.ai generates professional invoices and quotes from plain-English input or a manual editor, centralizes clients, services, payments and records, supports branding and major currencies, embeds payment links, tracks revenue and exports data for bookkeeping. Accounting assistant Freemium
-
+Invoce.ai generates professional invoices and quotes from plain-English input or a manual editor, centralizes clients, services, payments and records, supports branding and major currencies, embeds payment links, tracks revenue and exports data for bookkeeping.
 In short, Invoce.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For a lot of people, that one function of Invoce.ai collapses multiple steps into a single action.
 
 ## Key features

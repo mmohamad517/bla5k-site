@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Daydrm?
-    a: AI‑driven platform that generates creative concepts, briefs, and production assets for ad teams. It offers Idea, Brief, Naming, ShotList, and dialogue tools with up to three outputs per brief, a chat interface with AI partner Ari, and private, folder‑organized workflows. Marketing Subscription - $39/mo That is the core of what Daydrm does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI‑driven platform that generates creative concepts, briefs, and production assets for ad teams. It offers Idea, Brief, Naming, ShotList, and dialogue tools with up to three outputs per brief, a chat interface with AI partner Ari, and private, folder‑organized workflows. That is the core of what Daydrm does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Daydrm free?
     a: Daydrm is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Daydrm?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Daydrm?
 
-AI‑driven platform that generates creative concepts, briefs, and production assets for ad teams. It offers Idea, Brief, Naming, ShotList, and dialogue tools with up to three outputs per brief, a chat interface with AI partner Ari, and private, folder‑organized workflows. Marketing Subscription - $39/mo
-
+AI‑driven platform that generates creative concepts, briefs, and production assets for ad teams. It offers Idea, Brief, Naming, ShotList, and dialogue tools with up to three outputs per brief, a chat interface with AI partner Ari, and private, folder‑organized workflows.
 In short, Daydrm is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That one feature of Daydrm often eliminates several smaller steps from the usual workflow.
 
 ## Key features

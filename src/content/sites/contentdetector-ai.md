@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ContentDetector.ai?
-    a: ContentDetector.AI is a free tool that identifies AI-generated written text, including Chat GPT and GPT 3 content, and provides an estimated percentage score of AI generation likelihood. AI detection Free That is the core of what ContentDetector.ai does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ContentDetector.AI is a free tool that identifies AI-generated written text, including Chat GPT and GPT 3 content, and provides an estimated percentage score of AI generation likelihood. That is the core of what ContentDetector.ai does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ContentDetector.ai free?
     a: Yes — ContentDetector.ai is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with ContentDetector.ai?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is ContentDetector.ai?
 
-ContentDetector.AI is a free tool that identifies AI-generated written text, including Chat GPT and GPT 3 content, and provides an estimated percentage score of AI generation likelihood. AI detection Free
-
+ContentDetector.AI is a free tool that identifies AI-generated written text, including Chat GPT and GPT 3 content, and provides an estimated percentage score of AI generation likelihood.
 In short, ContentDetector.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. That one capability of ContentDetector.ai frequently saves users from juggling several separate steps.
 
 ## Key features

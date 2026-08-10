@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is IsOn24?
-    a: IsOn24 automates call center tasks with AI, handling calls, texts, and chat using pre‑recorded or custom voices. It collects caller data, schedules appointments via integrated calendars, and pushes leads to CRMs, offering 24‑hour engagement without a front desk. Customer support Subscription - $59/mo That is the core of what IsOn24 does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: IsOn24 automates call center tasks with AI, handling calls, texts, and chat using pre‑recorded or custom voices. It collects caller data, schedules appointments via integrated calendars, and pushes leads to CRMs, offering 24‑hour engagement without a front desk. That is the core of what IsOn24 does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is IsOn24 free?
     a: IsOn24 is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with IsOn24?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like IsOn24 matt
 
 ## What is IsOn24?
 
-IsOn24 automates call center tasks with AI, handling calls, texts, and chat using pre‑recorded or custom voices. It collects caller data, schedules appointments via integrated calendars, and pushes leads to CRMs, offering 24‑hour engagement without a front desk. Customer support Subscription - $59/mo
-
+IsOn24 automates call center tasks with AI, handling calls, texts, and chat using pre‑recorded or custom voices. It collects caller data, schedules appointments via integrated calendars, and pushes leads to CRMs, offering 24‑hour engagement without a front desk.
 In short, IsOn24 is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. Many users discover that this feature of IsOn24 alone covers what previously took multiple tools.
 
 ## Key features

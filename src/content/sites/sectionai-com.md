@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Section AI?
-    a: sectionai.com is an enterprise platform that accelerates AI adoption by providing personalized, role-specific training and certification to transform workforce proficiency. It measures usage, identifies barriers, and connects AI activity to business KPIs and ROI through detailed analytics dashboards. AI Agents Free That is the core of what Section AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: sectionai.com is an enterprise platform that accelerates AI adoption by providing personalized, role-specific training and certification to transform workforce proficiency. It measures usage, identifies barriers, and connects AI activity to business KPIs and ROI through detailed analytics dashboards. That is the core of what Section AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Section AI free?
     a: Yes — Section AI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Section AI?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Section AI?
 
-sectionai.com is an enterprise platform that accelerates AI adoption by providing personalized, role-specific training and certification to transform workforce proficiency. It measures usage, identifies barriers, and connects AI activity to business KPIs and ROI through detailed analytics dashboards. AI Agents Free
-
+sectionai.com is an enterprise platform that accelerates AI adoption by providing personalized, role-specific training and certification to transform workforce proficiency. It measures usage, identifies barriers, and connects AI activity to business KPIs and ROI through detailed analytics dashboards.
 In short, Section AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users find that this one ability of Section AI removes several tasks from their daily routine.
 
 ## Key features

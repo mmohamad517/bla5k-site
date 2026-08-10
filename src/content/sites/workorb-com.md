@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is workorb.com?
-    a: Workorb AI automates proposal and RFP workflows—scoring go/no-go decisions and leveling bids—while generating consistent proposals and responses from templates and firm data, organizing a searchable knowledge hub, and assisting reviewers, resource planners, and recruiters. Document management Free - $149 That is the core of what workorb.com does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Workorb AI automates proposal and RFP workflows—scoring go/no-go decisions and leveling bids—while generating consistent proposals and responses from templates and firm data, organizing a searchable knowledge hub, and assisting reviewers, resource planners, and recruiters. That is the core of what workorb.com does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is workorb.com free?
     a: workorb.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with workorb.com?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like workor
 
 ## What is workorb.com?
 
-Workorb AI automates proposal and RFP workflows—scoring go/no-go decisions and leveling bids—while generating consistent proposals and responses from templates and firm data, organizing a searchable knowledge hub, and assisting reviewers, resource planners, and recruiters. Document management Free - $149
-
+Workorb AI automates proposal and RFP workflows—scoring go/no-go decisions and leveling bids—while generating consistent proposals and responses from templates and firm data, organizing a searchable knowledge hub, and assisting reviewers, resource planners, and recruiters.
 In short, workorb.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. Many users find that this one ability of workorb.com removes several tasks from their daily routine.
 
 ## Key features

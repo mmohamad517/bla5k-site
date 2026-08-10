@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Berrycast Transcripts?
-    a: Berrycast is a cross‑platform screen‑recording tool that captures webcam, screen activity, and live voice narration. It instantly shares screencasts, integrates into productivity apps, and meets GDPR privacy and data‑security standards. Project management Subscription - $1.33/mo That is the core of what Berrycast Transcripts does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Berrycast is a cross‑platform screen‑recording tool that captures webcam, screen activity, and live voice narration. It instantly shares screencasts, integrates into productivity apps, and meets GDPR privacy and data‑security standards. That is the core of what Berrycast Transcripts does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Berrycast Transcripts free?
     a: Berrycast Transcripts is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Berrycast Transcripts?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Berrycast Transcripts?
 
-Berrycast is a cross‑platform screen‑recording tool that captures webcam, screen activity, and live voice narration. It instantly shares screencasts, integrates into productivity apps, and meets GDPR privacy and data‑security standards. Project management Subscription - $1.33/mo
-
+Berrycast is a cross‑platform screen‑recording tool that captures webcam, screen activity, and live voice narration. It instantly shares screencasts, integrates into productivity apps, and meets GDPR privacy and data‑security standards.
 In short, Berrycast Transcripts is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. Many users discover that this feature of Berrycast Transcripts alone covers what previously took multiple tools.
 
 ## Key features

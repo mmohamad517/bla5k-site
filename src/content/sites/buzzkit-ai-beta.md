@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Buzzkit.ai (Beta)?
-    a: Buzzkit AI automates SEO blog creation and management, enabling users to generate bulk, optimized articles. It supports multiple domains, offers keyword analysis, integrates analytics for performance tracking, and facilitates multilingual content creation for broader audience reach. Content Writing Free trial - $29/mo That is the core of what Buzzkit.ai (Beta) does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Buzzkit AI automates SEO blog creation and management, enabling users to generate bulk, optimized articles. It supports multiple domains, offers keyword analysis, integrates analytics for performance tracking, and facilitates multilingual content creation for broader audience reach. That is the core of what Buzzkit.ai (Beta) does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Buzzkit.ai (Beta) free?
     a: Buzzkit.ai (Beta) uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $29/mo, check the official website — pricing changes often.
   - q: What can you do with Buzzkit.ai (Beta)?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Buzzki
 
 ## What is Buzzkit.ai (Beta)?
 
-Buzzkit AI automates SEO blog creation and management, enabling users to generate bulk, optimized articles. It supports multiple domains, offers keyword analysis, integrates analytics for performance tracking, and facilitates multilingual content creation for broader audience reach. Content Writing Free trial - $29/mo
-
+Buzzkit AI automates SEO blog creation and management, enabling users to generate bulk, optimized articles. It supports multiple domains, offers keyword analysis, integrates analytics for performance tracking, and facilitates multilingual content creation for broader audience reach.
 In short, Buzzkit.ai (Beta) is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. Many users discover that this feature of Buzzkit.ai (Beta) alone covers what previously took multiple tools.
 
 ## Key features

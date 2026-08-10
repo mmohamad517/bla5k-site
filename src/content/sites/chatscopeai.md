@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ChatScopeAI?
-    a: ChatScope AI embeds in Slack, providing instant ChatGPT, DALL‑E, Bard access via direct messages and commands. It summarizes threads, tracks usage for cost control, and supports analysts, managers, and creators with AI‑driven insights, task automation, and creative drafting. AI Assistant Free trial That is the core of what ChatScopeAI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ChatScope AI embeds in Slack, providing instant ChatGPT, DALL‑E, Bard access via direct messages and commands. It summarizes threads, tracks usage for cost control, and supports analysts, managers, and creators with AI‑driven insights, task automation, and creative drafting. That is the core of what ChatScopeAI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ChatScopeAI free?
     a: ChatScopeAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ChatScopeAI?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like ChatScopeAI
 
 ## What is ChatScopeAI?
 
-ChatScope AI embeds in Slack, providing instant ChatGPT, DALL‑E, Bard access via direct messages and commands. It summarizes threads, tracks usage for cost control, and supports analysts, managers, and creators with AI‑driven insights, task automation, and creative drafting. AI Assistant Free trial
-
+ChatScope AI embeds in Slack, providing instant ChatGPT, DALL‑E, Bard access via direct messages and commands. It summarizes threads, tracks usage for cost control, and supports analysts, managers, and creators with AI‑driven insights, task automation, and creative drafting.
 In short, ChatScopeAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For a lot of people, that one function of ChatScopeAI collapses multiple steps into a single action.
 
 ## Key features

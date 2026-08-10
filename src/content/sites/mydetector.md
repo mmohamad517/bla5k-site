@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MyDetector?
-    a: MyDetector is a free tool that detects AI-generated text and humanizes it to ensure authenticity. It supports multiple languages, offers 99% accuracy, and refines content to match human-like quality.  That is the core of what MyDetector does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: MyDetector is a free tool that detects AI-generated text and humanizes it to ensure authenticity. It supports multiple languages, offers 99% accuracy, and refines content to match human-like quality. That is the core of what MyDetector does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MyDetector free?
     a: Yes — MyDetector is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with MyDetector?

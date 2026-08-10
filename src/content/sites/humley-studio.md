@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Humley Studio?
-    a: Humley delivers context‑aware, hallucination‑free AI assistants powered by large language models, integrating enterprise knowledge bases across web, voice, and live‑agent channels. It extends to agent and telephone support, cutting effort, improving experience, and scaling operations. Omnichannel chatbot Free - $500/mo That is the core of what Humley Studio does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Humley delivers context‑aware, hallucination‑free AI assistants powered by large language models, integrating enterprise knowledge bases across web, voice, and live‑agent channels. It extends to agent and telephone support, cutting effort, improving experience, and scaling operations. That is the core of what Humley Studio does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Humley Studio free?
     a: Humley Studio uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Humley Studio?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Humley Stud
 
 ## What is Humley Studio?
 
-Humley delivers context‑aware, hallucination‑free AI assistants powered by large language models, integrating enterprise knowledge bases across web, voice, and live‑agent channels. It extends to agent and telephone support, cutting effort, improving experience, and scaling operations. Omnichannel chatbot Free - $500/mo
-
+Humley delivers context‑aware, hallucination‑free AI assistants powered by large language models, integrating enterprise knowledge bases across web, voice, and live‑agent channels. It extends to agent and telephone support, cutting effort, improving experience, and scaling operations.
 In short, Humley Studio is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. For a lot of people, that one function of Humley Studio collapses multiple steps into a single action.
 
 ## Key features

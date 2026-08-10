@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Perception.io?
-    a: Perception is an AI color palette generator that applies color psychology to create mood‑based schemes. It offers instant palette creation, analysis against emotional data, a searchable dictionary of thousands of mood‑tagged palettes, and validation tools for brand consistency. Coloring Freemium That is the core of what Perception.io does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Perception is an AI color palette generator that applies color psychology to create mood‑based schemes. It offers instant palette creation, analysis against emotional data, a searchable dictionary of thousands of mood‑tagged palettes, and validation tools for brand consistency. That is the core of what Perception.io does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Perception.io free?
     a: Perception.io uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Perception.io?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Perception.
 
 ## What is Perception.io?
 
-Perception is an AI color palette generator that applies color psychology to create mood‑based schemes. It offers instant palette creation, analysis against emotional data, a searchable dictionary of thousands of mood‑tagged palettes, and validation tools for brand consistency. Coloring Freemium
-
+Perception is an AI color palette generator that applies color psychology to create mood‑based schemes. It offers instant palette creation, analysis against emotional data, a searchable dictionary of thousands of mood‑tagged palettes, and validation tools for brand consistency.
 In short, Perception.io is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. That one capability of Perception.io frequently saves users from juggling several separate steps.
 
 ## Key features

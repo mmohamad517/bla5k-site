@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Memno?
-    a: Memno is a privacy-first personal AI assistant that builds a personal knowledge graph from photos, documents, voice notes, emails, contacts and calendars to enable context-aware search, reminders, automated scheduling, multilingual calls and task automation. Personal assistant Freemium That is the core of what Memno does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Memno is a privacy-first personal AI assistant that builds a personal knowledge graph from photos, documents, voice notes, emails, contacts and calendars to enable context-aware search, reminders, automated scheduling, multilingual calls and task automation. That is the core of what Memno does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Memno free?
     a: Memno uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Memno?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Memno?
 
-Memno is a privacy-first personal AI assistant that builds a personal knowledge graph from photos, documents, voice notes, emails, contacts and calendars to enable context-aware search, reminders, automated scheduling, multilingual calls and task automation. Personal assistant Freemium
-
+Memno is a privacy-first personal AI assistant that builds a personal knowledge graph from photos, documents, voice notes, emails, contacts and calendars to enable context-aware search, reminders, automated scheduling, multilingual calls and task automation.
 In short, Memno is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of Memno replaces several steps they used to do by hand.
 
 ## Key features

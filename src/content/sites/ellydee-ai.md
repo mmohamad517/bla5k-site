@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ellydee AI?
-    a: Ellydee is a privacy first AI chat platform offering end to end encryption, no data harvesting, configurable retention and training exclusions, uncensored dialogue, and an eco mode routing inference to renewable energy centers with chat compression and an impact dashboard. Chat Free trial That is the core of what Ellydee AI does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ellydee is a privacy first AI chat platform offering end to end encryption, no data harvesting, configurable retention and training exclusions, uncensored dialogue, and an eco mode routing inference to renewable energy centers with chat compression and an impact dashboard. That is the core of what Ellydee AI does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ellydee AI free?
     a: Ellydee AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Ellydee AI?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Ellydee AI?
 
-Ellydee is a privacy first AI chat platform offering end to end encryption, no data harvesting, configurable retention and training exclusions, uncensored dialogue, and an eco mode routing inference to renewable energy centers with chat compression and an impact dashboard. Chat Free trial
-
+Ellydee is a privacy first AI chat platform offering end to end encryption, no data harvesting, configurable retention and training exclusions, uncensored dialogue, and an eco mode routing inference to renewable energy centers with chat compression and an impact dashboard.
 In short, Ellydee AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For many, that single strength of Ellydee AI is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MonAi?
-    a: Monai is an AI-powered expense tracker that simplifies recording via voice messages, categorizes expenses, secures data in private iCloud, and facilitates collaborative sharing among users. Accounting assistant Freemium That is the core of what MonAi does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Monai is an AI-powered expense tracker that simplifies recording via voice messages, categorizes expenses, secures data in private iCloud, and facilitates collaborative sharing among users. That is the core of what MonAi does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MonAi free?
     a: MonAi uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with MonAi?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is MonAi?
 
-Monai is an AI-powered expense tracker that simplifies recording via voice messages, categorizes expenses, secures data in private iCloud, and facilitates collaborative sharing among users. Accounting assistant Freemium
-
+Monai is an AI-powered expense tracker that simplifies recording via voice messages, categorizes expenses, secures data in private iCloud, and facilitates collaborative sharing among users.
 In short, MonAi is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one feature of MonAi often eliminates several smaller steps from the usual workflow.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Nonverbia?
-    a: Stella analyzes nonverbal cues and voice patterns to detect buying intent and resistance, auto-generates call notes and CRM updates, produces stakeholder maps and deal-priority recommendations, and delivers personalized coaching and standardized post-call analysis for sales teams. Sales Free trial That is the core of what Nonverbia does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Stella analyzes nonverbal cues and voice patterns to detect buying intent and resistance, auto-generates call notes and CRM updates, produces stakeholder maps and deal-priority recommendations, and delivers personalized coaching and standardized post-call analysis for sales teams. That is the core of what Nonverbia does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Nonverbia free?
     a: Nonverbia uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Nonverbia?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Nonver
 
 ## What is Nonverbia?
 
-Stella analyzes nonverbal cues and voice patterns to detect buying intent and resistance, auto-generates call notes and CRM updates, produces stakeholder maps and deal-priority recommendations, and delivers personalized coaching and standardized post-call analysis for sales teams. Sales Free trial
-
+Stella analyzes nonverbal cues and voice patterns to detect buying intent and resistance, auto-generates call notes and CRM updates, produces stakeholder maps and deal-priority recommendations, and delivers personalized coaching and standardized post-call analysis for sales teams.
 In short, Nonverbia is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. That one capability of Nonverbia frequently saves users from juggling several separate steps.
 
 ## Key features

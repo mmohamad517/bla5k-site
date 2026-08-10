@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Mentara?
-    a: Mentara is an AI-powered coaching tool that helps founders practice investor pitches and business conversations through roleplay scenarios, goal tracking, and performance evaluations, enhancing their presentation skills and communication effectiveness for securing investment. Coaching Subscription That is the core of what Mentara does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Mentara is an AI-powered coaching tool that helps founders practice investor pitches and business conversations through roleplay scenarios, goal tracking, and performance evaluations, enhancing their presentation skills and communication effectiveness for securing investment. That is the core of what Mentara does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Mentara free?
     a: Mentara is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Mentara?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Mentara?
 
-Mentara is an AI-powered coaching tool that helps founders practice investor pitches and business conversations through roleplay scenarios, goal tracking, and performance evaluations, enhancing their presentation skills and communication effectiveness for securing investment. Coaching Subscription
-
+Mentara is an AI-powered coaching tool that helps founders practice investor pitches and business conversations through roleplay scenarios, goal tracking, and performance evaluations, enhancing their presentation skills and communication effectiveness for securing investment.
 In short, Mentara is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. That single feature of Mentara alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

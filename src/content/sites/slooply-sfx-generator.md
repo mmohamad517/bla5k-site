@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Slooply SFX Generator?
-    a: Slooply SFX Generator is a text‑to‑sound effect AI that creates custom, royalty‑free audio for games, films, and music. It produces multiple WAV variants per prompt at studio quality, streamlining iterative sound design for creators.  That is the core of what Slooply SFX Generator does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Slooply SFX Generator is a text‑to‑sound effect AI that creates custom, royalty‑free audio for games, films, and music. It produces multiple WAV variants per prompt at studio quality, streamlining iterative sound design for creators. That is the core of what Slooply SFX Generator does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Slooply SFX Generator free?
     a: Slooply SFX Generator uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9.99, check the official website — pricing changes often.
   - q: What can you do with Slooply SFX Generator?

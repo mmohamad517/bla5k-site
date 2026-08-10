@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is LessonPlans.ai?
-    a: LessonPlans.ai instantly generates K‑12 lesson plans that align with Common Core, offering outlines, objectives, assessments, activities, and multimedia resources. Teachers can customize pacing, differentiate instruction, and store reusable plans for collaboration.  That is the core of what LessonPlans.ai does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: LessonPlans.ai instantly generates K‑12 lesson plans that align with Common Core, offering outlines, objectives, assessments, activities, and multimedia resources. Teachers can customize pacing, differentiate instruction, and store reusable plans for collaboration. That is the core of what LessonPlans.ai does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is LessonPlans.ai free?
     a: LessonPlans.ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with LessonPlans.ai?

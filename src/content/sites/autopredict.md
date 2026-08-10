@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AutoPredict?
-    a: AutoPredict uses AI on 100 million+ data points to forecast vehicle lifespans for specific makes and models, incorporating MOT history. It provides a RESTful API, a searchable historical MOT database, and continuously updates with new data and research insights.  That is the core of what AutoPredict does — automotive ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AutoPredict uses AI on 100 million+ data points to forecast vehicle lifespans for specific makes and models, incorporating MOT history. It provides a RESTful API, a searchable historical MOT database, and continuously updates with new data and research insights. That is the core of what AutoPredict does — automotive ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AutoPredict free?
     a: AutoPredict uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AutoPredict?

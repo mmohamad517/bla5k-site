@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Contents?
-    a: The AI tool is a comprehensive content generation platform with various solutions to boost creativity and productivity including AI writer, copywriting, audio-to-text transformation, translation services, industry trends, AI chat, and brief writers. Content creation Free trial That is the core of what Contents does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: The AI tool is a comprehensive content generation platform with various solutions to boost creativity and productivity including AI writer, copywriting, audio-to-text transformation, translation services, industry trends, AI chat, and brief writers. That is the core of what Contents does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Contents free?
     a: Contents uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Contents?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Conten
 
 ## What is Contents?
 
-The AI tool is a comprehensive content generation platform with various solutions to boost creativity and productivity including AI writer, copywriting, audio-to-text transformation, translation services, industry trends, AI chat, and brief writers. Content creation Free trial
-
+The AI tool is a comprehensive content generation platform with various solutions to boost creativity and productivity including AI writer, copywriting, audio-to-text transformation, translation services, industry trends, AI chat, and brief writers.
 In short, Contents is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For many, that single strength of Contents is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

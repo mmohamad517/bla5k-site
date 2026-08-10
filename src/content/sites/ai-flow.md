@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI-Flow?
-    a: AI-Flow is a no‑code platform enabling creators to build and run AI workflows via drag‑and‑drop, integrating models from OpenAI, StabilityAI, Anthropic, and Replicate for batch image, video, and content summarization. AI Assistant Paid That is the core of what AI-Flow does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI-Flow is a no‑code platform enabling creators to build and run AI workflows via drag‑and‑drop, integrating models from OpenAI, StabilityAI, Anthropic, and Replicate for batch image, video, and content summarization. That is the core of what AI-Flow does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI-Flow free?
     a: AI-Flow is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with AI-Flow?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is AI-Flow?
 
-AI-Flow is a no‑code platform enabling creators to build and run AI workflows via drag‑and‑drop, integrating models from OpenAI, StabilityAI, Anthropic, and Replicate for batch image, video, and content summarization. AI Assistant Paid
-
+AI-Flow is a no‑code platform enabling creators to build and run AI workflows via drag‑and‑drop, integrating models from OpenAI, StabilityAI, Anthropic, and Replicate for batch image, video, and content summarization.
 In short, AI-Flow is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For a lot of people, that one function of AI-Flow collapses multiple steps into a single action.
 
 ## Key features

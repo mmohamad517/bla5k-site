@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is BulkGenerate?
-    a: BulkGenerate is a Bulk Article Generator and AI Auto Writer, ideal for boosting site traffic with SEO articles. Generate over 100 SEO-optimized articles effortlessly using your OpenAI API key.  That is the core of what BulkGenerate does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: BulkGenerate is a Bulk Article Generator and AI Auto Writer, ideal for boosting site traffic with SEO articles. Generate over 100 SEO-optimized articles effortlessly using your OpenAI API key. That is the core of what BulkGenerate does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is BulkGenerate free?
     a: BulkGenerate uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with BulkGenerate?

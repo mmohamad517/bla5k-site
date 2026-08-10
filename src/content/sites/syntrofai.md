@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SyntrofAI?
-    a: SyntrofAI is a multi-agent operating system that coordinates AI agents to design, execute, and share end-to-end workflows, enabling persistent memory, low-latency neural-hybrid processing, local/air-gapped deployment, developer debugging, audited logs, and modular scaling. AI Agents Freemium That is the core of what SyntrofAI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SyntrofAI is a multi-agent operating system that coordinates AI agents to design, execute, and share end-to-end workflows, enabling persistent memory, low-latency neural-hybrid processing, local/air-gapped deployment, developer debugging, audited logs, and modular scaling. That is the core of what SyntrofAI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SyntrofAI free?
     a: SyntrofAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with SyntrofAI?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is SyntrofAI?
 
-SyntrofAI is a multi-agent operating system that coordinates AI agents to design, execute, and share end-to-end workflows, enabling persistent memory, low-latency neural-hybrid processing, local/air-gapped deployment, developer debugging, audited logs, and modular scaling. AI Agents Freemium
-
+SyntrofAI is a multi-agent operating system that coordinates AI agents to design, execute, and share end-to-end workflows, enabling persistent memory, low-latency neural-hybrid processing, local/air-gapped deployment, developer debugging, audited logs, and modular scaling.
 In short, SyntrofAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users discover that this feature of SyntrofAI alone covers what previously took multiple tools.
 
 ## Key features

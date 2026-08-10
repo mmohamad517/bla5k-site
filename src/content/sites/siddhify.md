@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Siddhify?
-    a: Siddhify is a project management tool designed for entrepreneurs, offering features for net worth management, milestone creation, and task delegation. It supports remote collaboration, multi-device access, and includes reporting tools to enhance productivity and maintain work-life balance. Project management Freemium - $6.99/mo That is the core of what Siddhify does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Siddhify is a project management tool designed for entrepreneurs, offering features for net worth management, milestone creation, and task delegation. It supports remote collaboration, multi-device access, and includes reporting tools to enhance productivity and maintain work-life balance. That is the core of what Siddhify does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Siddhify free?
     a: Siddhify uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $6.99/mo, check the official website — pricing changes often.
   - q: What can you do with Siddhify?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Siddhify ea
 
 ## What is Siddhify?
 
-Siddhify is a project management tool designed for entrepreneurs, offering features for net worth management, milestone creation, and task delegation. It supports remote collaboration, multi-device access, and includes reporting tools to enhance productivity and maintain work-life balance. Project management Freemium - $6.99/mo
-
+Siddhify is a project management tool designed for entrepreneurs, offering features for net worth management, milestone creation, and task delegation. It supports remote collaboration, multi-device access, and includes reporting tools to enhance productivity and maintain work-life balance.
 In short, Siddhify is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For plenty of users, that one capability of Siddhify replaces several steps they used to do by hand.
 
 ## Key features

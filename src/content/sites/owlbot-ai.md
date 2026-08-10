@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Owlbot.ai?
-    a: Owlbot is an AI chatbot platform that aggregates data from documents, markdown, webpages, and APIs, delivering instant multilingual answers in 95 languages. It supports custom branding, embed options, analytics, function‑calling, 12 LLM choices, and automated lead capture.  That is the core of what Owlbot.ai does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Owlbot is an AI chatbot platform that aggregates data from documents, markdown, webpages, and APIs, delivering instant multilingual answers in 95 languages. It supports custom branding, embed options, analytics, function‑calling, 12 LLM choices, and automated lead capture. That is the core of what Owlbot.ai does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Owlbot.ai free?
     a: Owlbot.ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Owlbot.ai?

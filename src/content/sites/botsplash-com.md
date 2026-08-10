@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is botsplash.com?
-    a: Botsplash is an AI engagement platform that automates chat, voice and text across web, SMS and RCS, centralizes omnichannel conversations, qualifies leads, schedules appointments and integrates with Salesforce/CRM to improve response times, follow-ups and retention. Personal Chatbot Freemium That is the core of what botsplash.com does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Botsplash is an AI engagement platform that automates chat, voice and text across web, SMS and RCS, centralizes omnichannel conversations, qualifies leads, schedules appointments and integrates with Salesforce/CRM to improve response times, follow-ups and retention. That is the core of what botsplash.com does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is botsplash.com free?
     a: botsplash.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with botsplash.com?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is botsplash.com?
 
-Botsplash is an AI engagement platform that automates chat, voice and text across web, SMS and RCS, centralizes omnichannel conversations, qualifies leads, schedules appointments and integrates with Salesforce/CRM to improve response times, follow-ups and retention. Personal Chatbot Freemium
-
+Botsplash is an AI engagement platform that automates chat, voice and text across web, SMS and RCS, centralizes omnichannel conversations, qualifies leads, schedules appointments and integrates with Salesforce/CRM to improve response times, follow-ups and retention.
 In short, botsplash.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. Many users discover that this feature of botsplash.com alone covers what previously took multiple tools.
 
 ## Key features

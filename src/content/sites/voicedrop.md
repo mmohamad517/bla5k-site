@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is VoiceDrop?
-    a: VoiceDrop delivers ringless voicemail using AI voice cloning from a short sample. Users upload contacts, customize scripts with variables, schedule campaigns, integrate via CRM or API, and monitor compliance‑aware delivery and response analytics. Personal assistant Subscription - $95/mo That is the core of what VoiceDrop does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: VoiceDrop delivers ringless voicemail using AI voice cloning from a short sample. Users upload contacts, customize scripts with variables, schedule campaigns, integrate via CRM or API, and monitor compliance‑aware delivery and response analytics. That is the core of what VoiceDrop does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is VoiceDrop free?
     a: VoiceDrop is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with VoiceDrop?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like VoiceDrop m
 
 ## What is VoiceDrop?
 
-VoiceDrop delivers ringless voicemail using AI voice cloning from a short sample. Users upload contacts, customize scripts with variables, schedule campaigns, integrate via CRM or API, and monitor compliance‑aware delivery and response analytics. Personal assistant Subscription - $95/mo
-
+VoiceDrop delivers ringless voicemail using AI voice cloning from a short sample. Users upload contacts, customize scripts with variables, schedule campaigns, integrate via CRM or API, and monitor compliance‑aware delivery and response analytics.
 In short, VoiceDrop is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one feature of VoiceDrop often eliminates several smaller steps from the usual workflow.
 
 ## Key features

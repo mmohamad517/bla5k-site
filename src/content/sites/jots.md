@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Jots?
-    a: Jots helps developers build Slow Thinking habits through short daily reflection sessions, a distraction-free editor and VSCode extension, mood and progress tracking, AI summaries highlighting trends, and a career-coach chat to turn work into actionable learning. Code assistant Free That is the core of what Jots does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Jots helps developers build Slow Thinking habits through short daily reflection sessions, a distraction-free editor and VSCode extension, mood and progress tracking, AI summaries highlighting trends, and a career-coach chat to turn work into actionable learning. That is the core of what Jots does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Jots free?
     a: Yes — Jots is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Jots?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Jots?
 
-Jots helps developers build Slow Thinking habits through short daily reflection sessions, a distraction-free editor and VSCode extension, mood and progress tracking, AI summaries highlighting trends, and a career-coach chat to turn work into actionable learning. Code assistant Free
-
+Jots helps developers build Slow Thinking habits through short daily reflection sessions, a distraction-free editor and VSCode extension, mood and progress tracking, AI summaries highlighting trends, and a career-coach chat to turn work into actionable learning.
 In short, Jots is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For a lot of people, that one function of Jots collapses multiple steps into a single action.
 
 ## Key features

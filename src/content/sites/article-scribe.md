@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Article Scribe?
-    a: Article Scribe is a content generation tool that helps create unique product descriptions, blog posts, and social media content. It features virtual assistant capabilities, supports multiple languages, and includes advanced editing tools for enhanced content management. Content Writing Free trial That is the core of what Article Scribe does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Article Scribe is a content generation tool that helps create unique product descriptions, blog posts, and social media content. It features virtual assistant capabilities, supports multiple languages, and includes advanced editing tools for enhanced content management. That is the core of what Article Scribe does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Article Scribe free?
     a: Article Scribe uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Article Scribe?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Article Scr
 
 ## What is Article Scribe?
 
-Article Scribe is a content generation tool that helps create unique product descriptions, blog posts, and social media content. It features virtual assistant capabilities, supports multiple languages, and includes advanced editing tools for enhanced content management. Content Writing Free trial
-
+Article Scribe is a content generation tool that helps create unique product descriptions, blog posts, and social media content. It features virtual assistant capabilities, supports multiple languages, and includes advanced editing tools for enhanced content management.
 In short, Article Scribe is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For many, that single strength of Article Scribe is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

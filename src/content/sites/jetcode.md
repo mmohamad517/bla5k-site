@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is JetCode?
-    a: JetCode is an AI-powered tool that converts system requirements into executable code instantly, streamlining software development. It enhances productivity, reduces debugging, and supports various platforms with step-by-step implementation guides for efficient project execution. Code assistant Free trial That is the core of what JetCode does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: JetCode is an AI-powered tool that converts system requirements into executable code instantly, streamlining software development. It enhances productivity, reduces debugging, and supports various platforms with step-by-step implementation guides for efficient project execution. That is the core of what JetCode does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is JetCode free?
     a: JetCode uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with JetCode?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is JetCode?
 
-JetCode is an AI-powered tool that converts system requirements into executable code instantly, streamlining software development. It enhances productivity, reduces debugging, and supports various platforms with step-by-step implementation guides for efficient project execution. Code assistant Free trial
-
+JetCode is an AI-powered tool that converts system requirements into executable code instantly, streamlining software development. It enhances productivity, reduces debugging, and supports various platforms with step-by-step implementation guides for efficient project execution.
 In short, JetCode is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one capability of JetCode frequently saves users from juggling several separate steps.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is toma.com?
-    a: Toma is a dealership AI platform that automates inbound/outbound call handling, appointment scheduling, recall outreach and message routing for service departments and BDCs, recording calls, generating transcripts, logging interactions, and providing configurable routing, scripts and analytics. Customer support Subscription That is the core of what toma.com does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Toma is a dealership AI platform that automates inbound/outbound call handling, appointment scheduling, recall outreach and message routing for service departments and BDCs, recording calls, generating transcripts, logging interactions, and providing configurable routing, scripts and analytics. That is the core of what toma.com does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is toma.com free?
     a: toma.com is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with toma.com?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is toma.com?
 
-Toma is a dealership AI platform that automates inbound/outbound call handling, appointment scheduling, recall outreach and message routing for service departments and BDCs, recording calls, generating transcripts, logging interactions, and providing configurable routing, scripts and analytics. Customer support Subscription
-
+Toma is a dealership AI platform that automates inbound/outbound call handling, appointment scheduling, recall outreach and message routing for service departments and BDCs, recording calls, generating transcripts, logging interactions, and providing configurable routing, scripts and analytics.
 In short, toma.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. That one capability of toma.com frequently saves users from juggling several separate steps.
 
 ## Key features

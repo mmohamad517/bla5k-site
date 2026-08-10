@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Digital First AI?
-    a: DFIRST AI is a marketing platform that lets users build custom campaigns via drag‑and‑drop, using AI agents for research, copywriting, visual creation, and data extraction. It integrates tools like Claude, Stable Diffusion, and SEMrush for competitive intelligence and real‑time optimization.  That is the core of what Digital First AI does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: DFIRST AI is a marketing platform that lets users build custom campaigns via drag‑and‑drop, using AI agents for research, copywriting, visual creation, and data extraction. It integrates tools like Claude, Stable Diffusion, and SEMrush for competitive intelligence and real‑time optimization. That is the core of what Digital First AI does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Digital First AI free?
     a: Yes — Digital First AI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Digital First AI?

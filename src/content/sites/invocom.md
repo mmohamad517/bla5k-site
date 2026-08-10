@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Invocom?
-    a: "Tool Description: Invocom is an AI-driven chatbot that assists businesses in lead qualification, automated customer support, and enhances interactions. It offers intelligent bot conversations, real-time analytics, and boosts sales & customer engagement. Chatbot builder Free trial That is the core of what Invocom does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "Tool Description: Invocom is an AI-driven chatbot that assists businesses in lead qualification, automated customer support, and enhances interactions. It offers intelligent bot conversations, real-time analytics, and boosts sales & customer engagement. That is the core of what Invocom does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is Invocom free?
     a: Invocom uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Invocom?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Invocom earn the
 
 ## What is Invocom?
 
-Tool Description: Invocom is an AI-driven chatbot that assists businesses in lead qualification, automated customer support, and enhances interactions. It offers intelligent bot conversations, real-time analytics, and boosts sales & customer engagement. Chatbot builder Free trial
-
+Tool Description: Invocom is an AI-driven chatbot that assists businesses in lead qualification, automated customer support, and enhances interactions. It offers intelligent bot conversations, real-time analytics, and boosts sales & customer engagement.
 In short, Invocom is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. That single feature of Invocom alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

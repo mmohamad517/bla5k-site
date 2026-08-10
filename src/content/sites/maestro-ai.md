@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Maestro AI?
-    a: Maestro is an AI agent command center that orchestrates autonomous coding agents across desktop, CLI, and mobile, supporting multi-agent workflows, scheduling, Git-aware editing, remote control, real-time monitoring, and JSON/log outputs for automation. AI Agents Free That is the core of what Maestro AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Maestro is an AI agent command center that orchestrates autonomous coding agents across desktop, CLI, and mobile, supporting multi-agent workflows, scheduling, Git-aware editing, remote control, real-time monitoring, and JSON/log outputs for automation. That is the core of what Maestro AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Maestro AI free?
     a: Yes — Maestro AI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Maestro AI?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Maestro AI earn 
 
 ## What is Maestro AI?
 
-Maestro is an AI agent command center that orchestrates autonomous coding agents across desktop, CLI, and mobile, supporting multi-agent workflows, scheduling, Git-aware editing, remote control, real-time monitoring, and JSON/log outputs for automation. AI Agents Free
-
+Maestro is an AI agent command center that orchestrates autonomous coding agents across desktop, CLI, and mobile, supporting multi-agent workflows, scheduling, Git-aware editing, remote control, real-time monitoring, and JSON/log outputs for automation.
 In short, Maestro AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That one feature of Maestro AI often eliminates several smaller steps from the usual workflow.
 
 ## Key features

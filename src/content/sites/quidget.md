@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Quidget?
-    a: Quidget is an AI chat builder that enhances customer interactions by utilizing knowledge bases for instant answers. It offers customizable chatbots and real-time content updates, making it suitable for businesses of all sizes to improve support efficiency.  That is the core of what Quidget does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Quidget is an AI chat builder that enhances customer interactions by utilizing knowledge bases for instant answers. It offers customizable chatbots and real-time content updates, making it suitable for businesses of all sizes to improve support efficiency. That is the core of what Quidget does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Quidget free?
     a: Quidget uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Quidget?

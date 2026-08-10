@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is voicy.ai?
-    a: Voicy.AI automates customer interactions for offline commerce, handling calls, texts, chat, and voice in real time. It integrates with POS and booking systems, supports SMS/Facebook Messenger, and scales personalized communication while lowering engagement costs. AI Assistant Freemium That is the core of what voicy.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Voicy.AI automates customer interactions for offline commerce, handling calls, texts, chat, and voice in real time. It integrates with POS and booking systems, supports SMS/Facebook Messenger, and scales personalized communication while lowering engagement costs. That is the core of what voicy.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is voicy.ai free?
     a: voicy.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with voicy.ai?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like voicy.
 
 ## What is voicy.ai?
 
-Voicy.AI automates customer interactions for offline commerce, handling calls, texts, chat, and voice in real time. It integrates with POS and booking systems, supports SMS/Facebook Messenger, and scales personalized communication while lowering engagement costs. AI Assistant Freemium
-
+Voicy.AI automates customer interactions for offline commerce, handling calls, texts, chat, and voice in real time. It integrates with POS and booking systems, supports SMS/Facebook Messenger, and scales personalized communication while lowering engagement costs.
 In short, voicy.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users discover that this feature of voicy.ai alone covers what previously took multiple tools.
 
 ## Key features

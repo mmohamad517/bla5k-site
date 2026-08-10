@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ReceiptMaker AI?
-    a: ReceiptMaker is an online receipt generator offering over 100 customizable templates for retail, restaurant, taxi, and service businesses. It allows you to edit details, taxes, and logos, export as PDF/PNG/JPG, and process everything in-browser with no server storage.  That is the core of what ReceiptMaker AI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ReceiptMaker is an online receipt generator offering over 100 customizable templates for retail, restaurant, taxi, and service businesses. It allows you to edit details, taxes, and logos, export as PDF/PNG/JPG, and process everything in-browser with no server storage. That is the core of what ReceiptMaker AI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ReceiptMaker AI free?
     a: ReceiptMaker AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ReceiptMaker AI?

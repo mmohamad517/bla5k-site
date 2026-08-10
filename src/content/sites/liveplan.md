@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is LivePlan?
-    a: LivePlan is a business plan software that helps entrepreneurs create detailed plans with AI assistance, offering sample plans, financial forecasting, and integration with accounting software for effective strategy formulation and performance tracking. Business planning Freemium - $20 That is the core of what LivePlan does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: LivePlan is a business plan software that helps entrepreneurs create detailed plans with AI assistance, offering sample plans, financial forecasting, and integration with accounting software for effective strategy formulation and performance tracking. That is the core of what LivePlan does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is LivePlan free?
     a: LivePlan uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $20, check the official website — pricing changes often.
   - q: What can you do with LivePlan?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is LivePlan?
 
-LivePlan is a business plan software that helps entrepreneurs create detailed plans with AI assistance, offering sample plans, financial forecasting, and integration with accounting software for effective strategy formulation and performance tracking. Business planning Freemium - $20
-
+LivePlan is a business plan software that helps entrepreneurs create detailed plans with AI assistance, offering sample plans, financial forecasting, and integration with accounting software for effective strategy formulation and performance tracking.
 In short, LivePlan is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI planning without the manual grind. Many users find that this one ability of LivePlan removes several tasks from their daily routine.
 
 ## Key features

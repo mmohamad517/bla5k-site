@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Dreamwell?
-    a: Dreamwell AI automates influencer prospecting by analyzing brand sites, scoring partners, and providing rate‑optimization formulas. Its performance pixel tracks reach, conversions, and sales, while built‑in CRM and dynamic landing pages streamline outreach and boost ROAS. Marketing Subscription That is the core of what Dreamwell does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Dreamwell AI automates influencer prospecting by analyzing brand sites, scoring partners, and providing rate‑optimization formulas. Its performance pixel tracks reach, conversions, and sales, while built‑in CRM and dynamic landing pages streamline outreach and boost ROAS. That is the core of what Dreamwell does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Dreamwell free?
     a: Dreamwell is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Dreamwell?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Dreamwell m
 
 ## What is Dreamwell?
 
-Dreamwell AI automates influencer prospecting by analyzing brand sites, scoring partners, and providing rate‑optimization formulas. Its performance pixel tracks reach, conversions, and sales, while built‑in CRM and dynamic landing pages streamline outreach and boost ROAS. Marketing Subscription
-
+Dreamwell AI automates influencer prospecting by analyzing brand sites, scoring partners, and providing rate‑optimization formulas. Its performance pixel tracks reach, conversions, and sales, while built‑in CRM and dynamic landing pages streamline outreach and boost ROAS.
 In short, Dreamwell is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. Many users find that this one ability of Dreamwell removes several tasks from their daily routine.
 
 ## Key features

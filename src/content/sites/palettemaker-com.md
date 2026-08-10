@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is palettemaker.com?
-    a: Palettemaker is an AI‑powered color palette generator that lets designers and non‑designers create, tweak, and preview color schemes in real‑world design contexts. It offers export options for Procreate, Adobe ASE, images, and CSS.  That is the core of what palettemaker.com does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Palettemaker is an AI‑powered color palette generator that lets designers and non‑designers create, tweak, and preview color schemes in real‑world design contexts. It offers export options for Procreate, Adobe ASE, images, and CSS. That is the core of what palettemaker.com does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is palettemaker.com free?
     a: Yes — palettemaker.com is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with palettemaker.com?

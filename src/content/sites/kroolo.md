@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Kroolo?
-    a: Kroolo unifies project management, task tracking, goal setting, and team collaboration in one AI‑powered platform. It automates sprint planning, risk assessment, and workload distribution, offers enterprise search, and integrates with Asana, Jira, Notion, Google Calendar, enhancing data‑driven teamwork.  That is the core of what Kroolo does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Kroolo unifies project management, task tracking, goal setting, and team collaboration in one AI‑powered platform. It automates sprint planning, risk assessment, and workload distribution, offers enterprise search, and integrates with Asana, Jira, Notion, Google Calendar, enhancing data‑driven teamwork. That is the core of what Kroolo does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Kroolo free?
     a: Kroolo uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $25/mo, check the official website — pricing changes often.
   - q: What can you do with Kroolo?

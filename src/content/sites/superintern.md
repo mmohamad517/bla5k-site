@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SuperIntern?
-    a: SuperIntern is an all-in-one AI workplace assistant that automates meeting summaries, email triage, scheduling, and social media publishing. It also features a no-code skill hub for building custom agents, with secure integrations across 1,000+ apps and cross-platform communication tools. Workflow Automation Paid - $24/mo That is the core of what SuperIntern does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SuperIntern is an all-in-one AI workplace assistant that automates meeting summaries, email triage, scheduling, and social media publishing. It also features a no-code skill hub for building custom agents, with secure integrations across 1,000+ apps and cross-platform communication tools. That is the core of what SuperIntern does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SuperIntern free?
     a: SuperIntern is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with SuperIntern?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like SuperIntern
 
 ## What is SuperIntern?
 
-SuperIntern is an all-in-one AI workplace assistant that automates meeting summaries, email triage, scheduling, and social media publishing. It also features a no-code skill hub for building custom agents, with secure integrations across 1,000+ apps and cross-platform communication tools. Workflow Automation Paid - $24/mo
-
+SuperIntern is an all-in-one AI workplace assistant that automates meeting summaries, email triage, scheduling, and social media publishing. It also features a no-code skill hub for building custom agents, with secure integrations across 1,000+ apps and cross-platform communication tools.
 In short, SuperIntern is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. That one capability of SuperIntern frequently saves users from juggling several separate steps.
 
 ## Key features

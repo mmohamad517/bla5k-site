@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Deep Face Swap?
-    a: DeepFaceSwap.AI lets users swap faces in photos and videos without watermarks, using GANs for high‑resolution results. The platform supports batch uploads, target selection, and a Magic Editor for quick text‑prompt adjustments, plus avatar and chatbot features.  That is the core of what Deep Face Swap does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: DeepFaceSwap.AI lets users swap faces in photos and videos without watermarks, using GANs for high‑resolution results. The platform supports batch uploads, target selection, and a Magic Editor for quick text‑prompt adjustments, plus avatar and chatbot features. That is the core of what Deep Face Swap does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Deep Face Swap free?
     a: Deep Face Swap is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Deep Face Swap?

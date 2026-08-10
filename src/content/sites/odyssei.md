@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Odyssei?
-    a: Site Mover AI is a seamless solution for transferring website files to a new host. With easy guidance and automation, this tool simplifies the migration process, saving time and effort. Communication Automation Freemium That is the core of what Odyssei does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Site Mover AI is a seamless solution for transferring website files to a new host. With easy guidance and automation, this tool simplifies the migration process, saving time and effort. That is the core of what Odyssei does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Odyssei free?
     a: Odyssei uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Odyssei?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Odyssei ear
 
 ## What is Odyssei?
 
-Site Mover AI is a seamless solution for transferring website files to a new host. With easy guidance and automation, this tool simplifies the migration process, saving time and effort. Communication Automation Freemium
-
+Site Mover AI is a seamless solution for transferring website files to a new host. With easy guidance and automation, this tool simplifies the migration process, saving time and effort.
 In short, Odyssei is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. For a lot of people, that one function of Odyssei collapses multiple steps into a single action.
 
 ## Key features

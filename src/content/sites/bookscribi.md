@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is BookScribi?
-    a: Bookscribi is an AI platform for creating non-fiction books and poetry, allowing users to generate manuscripts through topic input. It streamlines writing, editing, and formatting, and supports various languages and self-publishing platforms. Book writer Freemium That is the core of what BookScribi does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Bookscribi is an AI platform for creating non-fiction books and poetry, allowing users to generate manuscripts through topic input. It streamlines writing, editing, and formatting, and supports various languages and self-publishing platforms. That is the core of what BookScribi does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is BookScribi free?
     a: BookScribi uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with BookScribi?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is BookScribi?
 
-Bookscribi is an AI platform for creating non-fiction books and poetry, allowing users to generate manuscripts through topic input. It streamlines writing, editing, and formatting, and supports various languages and self-publishing platforms. Book writer Freemium
-
+Bookscribi is an AI platform for creating non-fiction books and poetry, allowing users to generate manuscripts through topic input. It streamlines writing, editing, and formatting, and supports various languages and self-publishing platforms.
 In short, BookScribi is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For plenty of users, that one capability of BookScribi replaces several steps they used to do by hand.
 
 ## Key features

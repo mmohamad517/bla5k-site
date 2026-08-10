@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is KBaseBot?
-    a: KBaseBot is an AI tool powered by GPT-4 that creates customizable chatbots for smooth customer support and lead generation. It offers conversation logging, robust analytics, and optimizes website automated interactions. Knowledge base management Free trial That is the core of what KBaseBot does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: KBaseBot is an AI tool powered by GPT-4 that creates customizable chatbots for smooth customer support and lead generation. It offers conversation logging, robust analytics, and optimizes website automated interactions. That is the core of what KBaseBot does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is KBaseBot free?
     a: KBaseBot uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with KBaseBot?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is KBaseBot?
 
-KBaseBot is an AI tool powered by GPT-4 that creates customizable chatbots for smooth customer support and lead generation. It offers conversation logging, robust analytics, and optimizes website automated interactions. Knowledge base management Free trial
-
+KBaseBot is an AI tool powered by GPT-4 that creates customizable chatbots for smooth customer support and lead generation. It offers conversation logging, robust analytics, and optimizes website automated interactions.
 In short, KBaseBot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many, that single strength of KBaseBot is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

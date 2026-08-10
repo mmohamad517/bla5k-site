@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Manychat AI?
-    a: ManyChat is a multi-channel chatbot and messaging automation platform (Messenger, Instagram, WhatsApp, SMS, email) offering a visual flow builder, audience segmentation, integrations (Shopify, Zapier, CRMs, payments), analytics and APIs to automate customer interactions and lead workflows. Chatbot builder Freemium That is the core of what Manychat AI does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ManyChat is a multi-channel chatbot and messaging automation platform (Messenger, Instagram, WhatsApp, SMS, email) offering a visual flow builder, audience segmentation, integrations (Shopify, Zapier, CRMs, payments), analytics and APIs to automate customer interactions and lead workflows. That is the core of what Manychat AI does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Manychat AI free?
     a: Manychat AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Manychat AI?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Manychat AI?
 
-ManyChat is a multi-channel chatbot and messaging automation platform (Messenger, Instagram, WhatsApp, SMS, email) offering a visual flow builder, audience segmentation, integrations (Shopify, Zapier, CRMs, payments), analytics and APIs to automate customer interactions and lead workflows. Chatbot builder Freemium
-
+ManyChat is a multi-channel chatbot and messaging automation platform (Messenger, Instagram, WhatsApp, SMS, email) offering a visual flow builder, audience segmentation, integrations (Shopify, Zapier, CRMs, payments), analytics and APIs to automate customer interactions and lead workflows.
 In short, Manychat AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. That single feature of Manychat AI alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

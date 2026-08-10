@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Explee?
-    a: Explee is an AI-powered search and discovery tool for finding companies and professionals. It uses AI enrichment and similarity analysis on its unified database of millions of profiles to help you identify lookalike companies.  That is the core of what Explee does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Explee is an AI-powered search and discovery tool for finding companies and professionals. It uses AI enrichment and similarity analysis on its unified database of millions of profiles to help you identify lookalike companies. That is the core of what Explee does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Explee free?
     a: Explee uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Explee?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PandaOS AI?
-    a: pandaos.ai is a local AI workstation that unifies code, tools, and AI agents into a single desktop workspace, preserving context across projects. It automates recurring tasks with reusable workflows and connects directly to services like GitHub and Slack for end-to-end development processes. AI Agents Freemium That is the core of what PandaOS AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: pandaos.ai is a local AI workstation that unifies code, tools, and AI agents into a single desktop workspace, preserving context across projects. It automates recurring tasks with reusable workflows and connects directly to services like GitHub and Slack for end-to-end development processes. That is the core of what PandaOS AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is PandaOS AI free?
     a: PandaOS AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with PandaOS AI?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like PandaO
 
 ## What is PandaOS AI?
 
-pandaos.ai is a local AI workstation that unifies code, tools, and AI agents into a single desktop workspace, preserving context across projects. It automates recurring tasks with reusable workflows and connects directly to services like GitHub and Slack for end-to-end development processes. AI Agents Freemium
-
+pandaos.ai is a local AI workstation that unifies code, tools, and AI agents into a single desktop workspace, preserving context across projects. It automates recurring tasks with reusable workflows and connects directly to services like GitHub and Slack for end-to-end development processes.
 In short, PandaOS AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users discover that this feature of PandaOS AI alone covers what previously took multiple tools.
 
 ## Key features

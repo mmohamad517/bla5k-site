@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Recibo?
-    a: Recibo is a sales automation platform for CPG and retail distribution that optimizes field routes and workloads, predicts store-level orders, uses image recognition for on-shelf compliance, consolidates SFA/DMS/ERP data, verifies attendance, and integrates with ERPs. Sales Free That is the core of what Recibo does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Recibo is a sales automation platform for CPG and retail distribution that optimizes field routes and workloads, predicts store-level orders, uses image recognition for on-shelf compliance, consolidates SFA/DMS/ERP data, verifies attendance, and integrates with ERPs. That is the core of what Recibo does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Recibo free?
     a: Yes — Recibo is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Recibo?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Recibo?
 
-Recibo is a sales automation platform for CPG and retail distribution that optimizes field routes and workloads, predicts store-level orders, uses image recognition for on-shelf compliance, consolidates SFA/DMS/ERP data, verifies attendance, and integrates with ERPs. Sales Free
-
+Recibo is a sales automation platform for CPG and retail distribution that optimizes field routes and workloads, predicts store-level orders, uses image recognition for on-shelf compliance, consolidates SFA/DMS/ERP data, verifies attendance, and integrates with ERPs.
 In short, Recibo is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. Many users find that this one ability of Recibo removes several tasks from their daily routine.
 
 ## Key features

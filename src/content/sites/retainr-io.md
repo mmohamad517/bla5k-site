@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Retainr.io?
-    a: Retainr centralizes client data, tasks, files, and tickets in one dashboard, offering white‑label branding, automated invoicing, real‑time task tracking, and integrations via Zapier and workflow automation. Mobile‑ready, secure, with a built‑in helpdesk.  That is the core of what Retainr.io does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Retainr centralizes client data, tasks, files, and tickets in one dashboard, offering white‑label branding, automated invoicing, real‑time task tracking, and integrations via Zapier and workflow automation. Mobile‑ready, secure, with a built‑in helpdesk. That is the core of what Retainr.io does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Retainr.io free?
     a: Retainr.io is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Retainr.io?

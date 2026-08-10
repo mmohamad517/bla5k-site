@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Vidlux AI?
-    a: Vidlux is a platform that converts still images into animated videos by adding motion, camera movement, and timed transitions. It supports multiple AI models for cinematic, character, or stylized animation with precise control over motion, composition, and frame transitions. Animation Generation Freemium - $23/mo That is the core of what Vidlux AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Vidlux is a platform that converts still images into animated videos by adding motion, camera movement, and timed transitions. It supports multiple AI models for cinematic, character, or stylized animation with precise control over motion, composition, and frame transitions. That is the core of what Vidlux AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Vidlux AI free?
     a: Vidlux AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $23/mo, check the official website — pricing changes often.
   - q: What can you do with Vidlux AI?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Vidlux AI?
 
-Vidlux is a platform that converts still images into animated videos by adding motion, camera movement, and timed transitions. It supports multiple AI models for cinematic, character, or stylized animation with precise control over motion, composition, and frame transitions. Animation Generation Freemium - $23/mo
-
+Vidlux is a platform that converts still images into animated videos by adding motion, camera movement, and timed transitions. It supports multiple AI models for cinematic, character, or stylized animation with precise control over motion, composition, and frame transitions.
 In short, Vidlux AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. For a lot of people, that one function of Vidlux AI collapses multiple steps into a single action.
 
 ## Key features

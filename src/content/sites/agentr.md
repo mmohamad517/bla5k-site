@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AgentR?
-    a: Agentr is an AI hiring assistant that streamlines recruitment by analyzing over 30 career patterns. It automates candidate screening, scheduling, and provides detailed evaluation reports, enhancing hiring efficiency and decision-making for HR teams. AI Agents Free trial That is the core of what AgentR does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Agentr is an AI hiring assistant that streamlines recruitment by analyzing over 30 career patterns. It automates candidate screening, scheduling, and provides detailed evaluation reports, enhancing hiring efficiency and decision-making for HR teams. That is the core of what AgentR does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AgentR free?
     a: AgentR uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AgentR?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like AgentR matt
 
 ## What is AgentR?
 
-Agentr is an AI hiring assistant that streamlines recruitment by analyzing over 30 career patterns. It automates candidate screening, scheduling, and provides detailed evaluation reports, enhancing hiring efficiency and decision-making for HR teams. AI Agents Free trial
-
+Agentr is an AI hiring assistant that streamlines recruitment by analyzing over 30 career patterns. It automates candidate screening, scheduling, and provides detailed evaluation reports, enhancing hiring efficiency and decision-making for HR teams.
 In short, AgentR is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many, that single strength of AgentR is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

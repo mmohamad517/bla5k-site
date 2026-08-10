@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is StatStream.ai?
-    a: Statstream is an AI-driven IoT platform for monitoring energy usage, production parameters, and utilities in mid-scale enterprises. It provides real-time data access, customizable reporting, and alerts to optimize energy efficiency and minimize downtime. AI Agents Freemium That is the core of what StatStream.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Statstream is an AI-driven IoT platform for monitoring energy usage, production parameters, and utilities in mid-scale enterprises. It provides real-time data access, customizable reporting, and alerts to optimize energy efficiency and minimize downtime. That is the core of what StatStream.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is StatStream.ai free?
     a: StatStream.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with StatStream.ai?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like StatStream.
 
 ## What is StatStream.ai?
 
-Statstream is an AI-driven IoT platform for monitoring energy usage, production parameters, and utilities in mid-scale enterprises. It provides real-time data access, customizable reporting, and alerts to optimize energy efficiency and minimize downtime. AI Agents Freemium
-
+Statstream is an AI-driven IoT platform for monitoring energy usage, production parameters, and utilities in mid-scale enterprises. It provides real-time data access, customizable reporting, and alerts to optimize energy efficiency and minimize downtime.
 In short, StatStream.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many, that single strength of StatStream.ai is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

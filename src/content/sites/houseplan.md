@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is HousePlan?
-    a: HousePlan is an AI house plan generator that creates and edits 2D, 2.5D, and 3D floor plans from image uploads or text prompts. It produces multiple layout variations for rapid iteration, custom room configurations, and presentation-ready visuals. Architectural Design Subscription That is the core of what HousePlan does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: HousePlan is an AI house plan generator that creates and edits 2D, 2.5D, and 3D floor plans from image uploads or text prompts. It produces multiple layout variations for rapid iteration, custom room configurations, and presentation-ready visuals. That is the core of what HousePlan does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is HousePlan free?
     a: HousePlan is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with HousePlan?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is HousePlan?
 
-HousePlan is an AI house plan generator that creates and edits 2D, 2.5D, and 3D floor plans from image uploads or text prompts. It produces multiple layout variations for rapid iteration, custom room configurations, and presentation-ready visuals. Architectural Design Subscription
-
+HousePlan is an AI house plan generator that creates and edits 2D, 2.5D, and 3D floor plans from image uploads or text prompts. It produces multiple layout variations for rapid iteration, custom room configurations, and presentation-ready visuals.
 In short, HousePlan is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. For many, that single strength of HousePlan is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

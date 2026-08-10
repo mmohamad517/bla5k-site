@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Cresta?
-    a: Cresta is a generative‑AI platform for contact centers that gives agents real‑time guidance, contextual suggestions, and translation across voice, chat, and email. It captures interaction insights for coaching, quality management, and performance dashboards, supporting multilingual deployment and data‑privacy compliance. Sales Freemium That is the core of what Cresta does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Cresta is a generative‑AI platform for contact centers that gives agents real‑time guidance, contextual suggestions, and translation across voice, chat, and email. It captures interaction insights for coaching, quality management, and performance dashboards, supporting multilingual deployment and data‑privacy compliance. That is the core of what Cresta does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Cresta free?
     a: Cresta uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Cresta?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Cresta?
 
-Cresta is a generative‑AI platform for contact centers that gives agents real‑time guidance, contextual suggestions, and translation across voice, chat, and email. It captures interaction insights for coaching, quality management, and performance dashboards, supporting multilingual deployment and data‑privacy compliance. Sales Freemium
-
+Cresta is a generative‑AI platform for contact centers that gives agents real‑time guidance, contextual suggestions, and translation across voice, chat, and email. It captures interaction insights for coaching, quality management, and performance dashboards, supporting multilingual deployment and data‑privacy compliance.
 In short, Cresta is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. Many users find that this one ability of Cresta removes several tasks from their daily routine.
 
 ## Key features

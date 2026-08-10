@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is FreeMusic AI?
-    a: FreeMusic AI is an AI music generator that creates original, royalty-free tracks from text prompts or lyrics. It also includes tools for mastering audio, removing vocals, and splitting tracks into stems for creative control.  That is the core of what FreeMusic AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: FreeMusic AI is an AI music generator that creates original, royalty-free tracks from text prompts or lyrics. It also includes tools for mastering audio, removing vocals, and splitting tracks into stems for creative control. That is the core of what FreeMusic AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is FreeMusic AI free?
     a: FreeMusic AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with FreeMusic AI?

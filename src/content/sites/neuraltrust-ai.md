@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is NeuralTrust?
-    a: NeuralTrust is an AI agent security platform that discovers, inventories, and governs autonomous agents across cloud, hybrid, and on-prem environments, while providing runtime security, posture management, and centralized policy enforcement for governance and compliance. AI Agents Freemium That is the core of what NeuralTrust does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: NeuralTrust is an AI agent security platform that discovers, inventories, and governs autonomous agents across cloud, hybrid, and on-prem environments, while providing runtime security, posture management, and centralized policy enforcement for governance and compliance. That is the core of what NeuralTrust does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is NeuralTrust free?
     a: NeuralTrust uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with NeuralTrust?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is NeuralTrust?
 
-NeuralTrust is an AI agent security platform that discovers, inventories, and governs autonomous agents across cloud, hybrid, and on-prem environments, while providing runtime security, posture management, and centralized policy enforcement for governance and compliance. AI Agents Freemium
-
+NeuralTrust is an AI agent security platform that discovers, inventories, and governs autonomous agents across cloud, hybrid, and on-prem environments, while providing runtime security, posture management, and centralized policy enforcement for governance and compliance.
 In short, NeuralTrust is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For a lot of people, that one function of NeuralTrust collapses multiple steps into a single action.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Coframe?
-    a: Coframe automates conversion rate optimization and website experimentation by generating deployable UI code, performance-focused copy, and visuals, surfacing and prioritizing test ideas from site structure and audience data, enabling rapid deployment, analytics, and enterprise-grade security. AI Agents Free That is the core of what Coframe does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Coframe automates conversion rate optimization and website experimentation by generating deployable UI code, performance-focused copy, and visuals, surfacing and prioritizing test ideas from site structure and audience data, enabling rapid deployment, analytics, and enterprise-grade security. That is the core of what Coframe does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Coframe free?
     a: Yes — Coframe is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Coframe?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Coframe?
 
-Coframe automates conversion rate optimization and website experimentation by generating deployable UI code, performance-focused copy, and visuals, surfacing and prioritizing test ideas from site structure and audience data, enabling rapid deployment, analytics, and enterprise-grade security. AI Agents Free
-
+Coframe automates conversion rate optimization and website experimentation by generating deployable UI code, performance-focused copy, and visuals, surfacing and prioritizing test ideas from site structure and audience data, enabling rapid deployment, analytics, and enterprise-grade security.
 In short, Coframe is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That one capability of Coframe frequently saves users from juggling several separate steps.
 
 ## Key features

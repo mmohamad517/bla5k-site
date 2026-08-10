@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Krikey.ai?
-    a: Krikey AI turns text or video into animated characters—talking avatars, NPCs, cartoons—using an editor that offers motion‑capture style animations, multilingual voiceovers, camera control, and export options (GIF, MP4, FBX, PNG). It integrates with Canva and Adobe Express for workflow.  That is the core of what Krikey.ai does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Krikey AI turns text or video into animated characters—talking avatars, NPCs, cartoons—using an editor that offers motion‑capture style animations, multilingual voiceovers, camera control, and export options (GIF, MP4, FBX, PNG). It integrates with Canva and Adobe Express for workflow. That is the core of what Krikey.ai does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Krikey.ai free?
     a: Krikey.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Krikey.ai?

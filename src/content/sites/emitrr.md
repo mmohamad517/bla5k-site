@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Emitrr?
-    a: Emitrr is an AI receptionist and 24/7 virtual employee that manages business texting from your existing number, appointment scheduling and reminders, automated follow-ups and digital forms, integrates with 500+ CRMs, and centralizes multi-location communications.  That is the core of what Emitrr does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Emitrr is an AI receptionist and 24/7 virtual employee that manages business texting from your existing number, appointment scheduling and reminders, automated follow-ups and digital forms, integrates with 500+ CRMs, and centralizes multi-location communications. That is the core of what Emitrr does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Emitrr free?
     a: Emitrr uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Emitrr?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Novius AI Recruiter?
-    a: Novius is a recruitment automation tool that streamlines hiring by creating job descriptions, providing advanced candidate matching, and offering seamless communication integration with Google Workspace and Outlook, along with customizable assessments for evaluating candidate skills. Human resources Free trial That is the core of what Novius AI Recruiter does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Novius is a recruitment automation tool that streamlines hiring by creating job descriptions, providing advanced candidate matching, and offering seamless communication integration with Google Workspace and Outlook, along with customizable assessments for evaluating candidate skills. That is the core of what Novius AI Recruiter does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Novius AI Recruiter free?
     a: Novius AI Recruiter uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Novius AI Recruiter?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Novius AI Recrui
 
 ## What is Novius AI Recruiter?
 
-Novius is a recruitment automation tool that streamlines hiring by creating job descriptions, providing advanced candidate matching, and offering seamless communication integration with Google Workspace and Outlook, along with customizable assessments for evaluating candidate skills. Human resources Free trial
-
+Novius is a recruitment automation tool that streamlines hiring by creating job descriptions, providing advanced candidate matching, and offering seamless communication integration with Google Workspace and Outlook, along with customizable assessments for evaluating candidate skills.
 In short, Novius AI Recruiter is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. For plenty of users, that one capability of Novius AI Recruiter replaces several steps they used to do by hand.
 
 ## Key features

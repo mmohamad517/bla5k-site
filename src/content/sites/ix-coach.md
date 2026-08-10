@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is IX Coach?
-    a: ix Coach is an AI-powered interdisciplinary coaching tool that aims to improve various areas of life. Users can select a specific area of focus, such as personal growth, relationships, or emotional intelligence, and the tool provides the necessary guidance and support.  That is the core of what IX Coach does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ix Coach is an AI-powered interdisciplinary coaching tool that aims to improve various areas of life. Users can select a specific area of focus, such as personal growth, relationships, or emotional intelligence, and the tool provides the necessary guidance and support. That is the core of what IX Coach does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is IX Coach free?
     a: IX Coach uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with IX Coach?

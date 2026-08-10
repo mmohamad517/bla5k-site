@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ToonCrafter?
-    a: ToonCrafter turns 2‑4 static cartoon images into 8 fps, 512×512 MP4 clips by interpolating keyframes. It preserves texture with style transfer, supports WEBP, PNG, JPG, and offers looping for extended sequences.  That is the core of what ToonCrafter does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ToonCrafter turns 2‑4 static cartoon images into 8 fps, 512×512 MP4 clips by interpolating keyframes. It preserves texture with style transfer, supports WEBP, PNG, JPG, and offers looping for extended sequences. That is the core of what ToonCrafter does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ToonCrafter free?
     a: ToonCrafter uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ToonCrafter?

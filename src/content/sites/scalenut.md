@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Scalenut?
-    a: Scalenut AI Copywriter generates ad copy, social media posts, and articles by integrating keyword research, SERP analysis, and content planning. Its Cruise Mode drafts a copy in under five minutes, while the Content Optimizer grades readability and SEO. Copywriting Free trial That is the core of what Scalenut does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Scalenut AI Copywriter generates ad copy, social media posts, and articles by integrating keyword research, SERP analysis, and content planning. Its Cruise Mode drafts a copy in under five minutes, while the Content Optimizer grades readability and SEO. That is the core of what Scalenut does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Scalenut free?
     a: Scalenut uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Scalenut?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Scalenut ea
 
 ## What is Scalenut?
 
-Scalenut AI Copywriter generates ad copy, social media posts, and articles by integrating keyword research, SERP analysis, and content planning. Its Cruise Mode drafts a copy in under five minutes, while the Content Optimizer grades readability and SEO. Copywriting Free trial
-
+Scalenut AI Copywriter generates ad copy, social media posts, and articles by integrating keyword research, SERP analysis, and content planning. Its Cruise Mode drafts a copy in under five minutes, while the Content Optimizer grades readability and SEO.
 In short, Scalenut is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. For plenty of users, that one capability of Scalenut replaces several steps they used to do by hand.
 
 ## Key features

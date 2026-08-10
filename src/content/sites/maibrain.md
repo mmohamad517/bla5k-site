@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Maibrain?
-    a: Maibrain enables users to create personalized digital agents for knowledge preservation and professional collaboration. It supports various content types and offers features like real-time conversations, voice cloning, and customizable chat experiences across multiple devices. AI Agents Free trial That is the core of what Maibrain does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Maibrain enables users to create personalized digital agents for knowledge preservation and professional collaboration. It supports various content types and offers features like real-time conversations, voice cloning, and customizable chat experiences across multiple devices. That is the core of what Maibrain does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Maibrain free?
     a: Maibrain uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Maibrain?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Maibra
 
 ## What is Maibrain?
 
-Maibrain enables users to create personalized digital agents for knowledge preservation and professional collaboration. It supports various content types and offers features like real-time conversations, voice cloning, and customizable chat experiences across multiple devices. AI Agents Free trial
-
+Maibrain enables users to create personalized digital agents for knowledge preservation and professional collaboration. It supports various content types and offers features like real-time conversations, voice cloning, and customizable chat experiences across multiple devices.
 In short, Maibrain is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That one capability of Maibrain frequently saves users from juggling several separate steps.
 
 ## Key features

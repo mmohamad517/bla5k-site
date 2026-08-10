@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is accent-technologies.com?
-    a: Accent AI provides AI‑driven revenue enablement for sales, marketing, and ops. Its CMS recommends buyer‑journey assets, offers guided selling and real‑time rep coaching, tracks pipeline health and forecast accuracy, and centralizes a Custom ChatGPT knowledgebase to streamline training and collaboration.  That is the core of what accent-technologies.com does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Accent AI provides AI‑driven revenue enablement for sales, marketing, and ops. Its CMS recommends buyer‑journey assets, offers guided selling and real‑time rep coaching, tracks pipeline health and forecast accuracy, and centralizes a Custom ChatGPT knowledgebase to streamline training and collaboration. That is the core of what accent-technologies.com does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is accent-technologies.com free?
     a: accent-technologies.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with accent-technologies.com?

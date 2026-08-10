@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Quick Hub?
-    a: Quick Hub is an automation tool that centralizes marketing efforts, enabling users to manage communications and campaigns across various platforms from a single dashboard. It features real-time ROI tracking, smart audience segmentation, and automated follow-ups to enhance engagement. Marketing Free trial - $49/mo That is the core of what Quick Hub does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Quick Hub is an automation tool that centralizes marketing efforts, enabling users to manage communications and campaigns across various platforms from a single dashboard. It features real-time ROI tracking, smart audience segmentation, and automated follow-ups to enhance engagement. That is the core of what Quick Hub does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Quick Hub free?
     a: Quick Hub uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $49/mo, check the official website — pricing changes often.
   - q: What can you do with Quick Hub?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Quick 
 
 ## What is Quick Hub?
 
-Quick Hub is an automation tool that centralizes marketing efforts, enabling users to manage communications and campaigns across various platforms from a single dashboard. It features real-time ROI tracking, smart audience segmentation, and automated follow-ups to enhance engagement. Marketing Free trial - $49/mo
-
+Quick Hub is an automation tool that centralizes marketing efforts, enabling users to manage communications and campaigns across various platforms from a single dashboard. It features real-time ROI tracking, smart audience segmentation, and automated follow-ups to enhance engagement.
 In short, Quick Hub is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That single feature of Quick Hub alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

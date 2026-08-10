@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Contract Power AI?
-    a: ContractPower uses AI to extract obligations from renewable energy contracts, track deadlines, manage documents, and analyze regulatory changes. It delivers clause‑level insights, automated reminders, and compliance dashboards for developers, legal and finance teams. AI Agents Subscription - $500/mo That is the core of what Contract Power AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ContractPower uses AI to extract obligations from renewable energy contracts, track deadlines, manage documents, and analyze regulatory changes. It delivers clause‑level insights, automated reminders, and compliance dashboards for developers, legal and finance teams. That is the core of what Contract Power AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Contract Power AI free?
     a: Contract Power AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Contract Power AI?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Contract Po
 
 ## What is Contract Power AI?
 
-ContractPower uses AI to extract obligations from renewable energy contracts, track deadlines, manage documents, and analyze regulatory changes. It delivers clause‑level insights, automated reminders, and compliance dashboards for developers, legal and finance teams. AI Agents Subscription - $500/mo
-
+ContractPower uses AI to extract obligations from renewable energy contracts, track deadlines, manage documents, and analyze regulatory changes. It delivers clause‑level insights, automated reminders, and compliance dashboards for developers, legal and finance teams.
 In short, Contract Power AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For a lot of people, that one function of Contract Power AI collapses multiple steps into a single action.
 
 ## Key features

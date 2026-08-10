@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Algobash.com?
-    a: Algobash is an assessment platform that streamlines hiring with AI-driven interviews, coding tests, and evaluations for data handling, culture fit, cognitive skills, and technical abilities, suitable for diverse recruitment needs across various industries.  That is the core of what Algobash.com does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Algobash is an assessment platform that streamlines hiring with AI-driven interviews, coding tests, and evaluations for data handling, culture fit, cognitive skills, and technical abilities, suitable for diverse recruitment needs across various industries. That is the core of what Algobash.com does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Algobash.com free?
     a: Algobash.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Algobash.com?

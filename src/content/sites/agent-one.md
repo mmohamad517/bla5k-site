@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Agent One?
-    a: Agent One is a no‑code platform that lets businesses build white‑labeled AI assistants on custom domains. It supports OpenAI, Claude, and Gemini, offers one‑click deployment, real‑time data fetching, API integration, and multilingual analytics. Chatbot builder Subscription - $8/mo That is the core of what Agent One does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Agent One is a no‑code platform that lets businesses build white‑labeled AI assistants on custom domains. It supports OpenAI, Claude, and Gemini, offers one‑click deployment, real‑time data fetching, API integration, and multilingual analytics. That is the core of what Agent One does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Agent One free?
     a: Agent One is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Agent One?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Agent One?
 
-Agent One is a no‑code platform that lets businesses build white‑labeled AI assistants on custom domains. It supports OpenAI, Claude, and Gemini, offers one‑click deployment, real‑time data fetching, API integration, and multilingual analytics. Chatbot builder Subscription - $8/mo
-
+Agent One is a no‑code platform that lets businesses build white‑labeled AI assistants on custom domains. It supports OpenAI, Claude, and Gemini, offers one‑click deployment, real‑time data fetching, API integration, and multilingual analytics.
 In short, Agent One is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many, that single strength of Agent One is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

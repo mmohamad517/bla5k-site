@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Sudo AI?
-    a: Sudo is a multi-model API platform offering a single endpoint and SDKs for Python/TypeScript to access GPT-4, Claude, and open-source LLMs for text, image, and audio generation with built-in routing and centralized billing. AI Agents Free That is the core of what Sudo AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Sudo is a multi-model API platform offering a single endpoint and SDKs for Python/TypeScript to access GPT-4, Claude, and open-source LLMs for text, image, and audio generation with built-in routing and centralized billing. That is the core of what Sudo AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Sudo AI free?
     a: Yes — Sudo AI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Sudo AI?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Sudo AI?
 
-Sudo is a multi-model API platform offering a single endpoint and SDKs for Python/TypeScript to access GPT-4, Claude, and open-source LLMs for text, image, and audio generation with built-in routing and centralized billing. AI Agents Free
-
+Sudo is a multi-model API platform offering a single endpoint and SDKs for Python/TypeScript to access GPT-4, Claude, and open-source LLMs for text, image, and audio generation with built-in routing and centralized billing.
 In short, Sudo AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For plenty of users, that one capability of Sudo AI replaces several steps they used to do by hand.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Mexty?
-    a: Mexty is an AI-powered platform for creating interactive and personalized learning content, including courses, quizzes, and assessments. It supports SCORM compliance, adaptive learning, and multilingual content, streamlining collaboration for educators and trainers.  That is the core of what Mexty does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Mexty is an AI-powered platform for creating interactive and personalized learning content, including courses, quizzes, and assessments. It supports SCORM compliance, adaptive learning, and multilingual content, streamlining collaboration for educators and trainers. That is the core of what Mexty does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Mexty free?
     a: Mexty uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Mexty?

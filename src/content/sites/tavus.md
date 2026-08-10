@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Tavus?
-    a: The Tavus AI Human tool creates lifelike, interactive AI agents that feel like talking to a real person, offering customizable conversational experiences for a range of applications. AI Agents Freemium That is the core of what Tavus does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: The Tavus AI Human tool creates lifelike, interactive AI agents that feel like talking to a real person, offering customizable conversational experiences for a range of applications. That is the core of what Tavus does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Tavus free?
     a: Tavus uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Tavus?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Tavus?
 
-The Tavus AI Human tool creates lifelike, interactive AI agents that feel like talking to a real person, offering customizable conversational experiences for a range of applications. AI Agents Freemium
-
+The Tavus AI Human tool creates lifelike, interactive AI agents that feel like talking to a real person, offering customizable conversational experiences for a range of applications.
 In short, Tavus is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That one capability of Tavus frequently saves users from juggling several separate steps.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Productlane?
-    a: Productlane is a customer support feedback system that centralizes communication across multiple channels, prioritizes user feedback, and provides a public roadmap. Its API integration and real-time widget streamline support tracking and engagement for B2B companies.  That is the core of what Productlane does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Productlane is a customer support feedback system that centralizes communication across multiple channels, prioritizes user feedback, and provides a public roadmap. Its API integration and real-time widget streamline support tracking and engagement for B2B companies. That is the core of what Productlane does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Productlane free?
     a: Productlane uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Productlane?

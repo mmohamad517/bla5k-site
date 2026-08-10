@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is EfficientAI?
-    a: Efficient AI is an open-source voice evaluation platform that automates end-to-end testing of conversational agents—simulating IVR/contact-center call flows, measuring TTS, ASR, NLU and dialogue performance, exporting detailed per-call metrics and supporting CI and live monitoring. Communication Automation Free That is the core of what EfficientAI does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Efficient AI is an open-source voice evaluation platform that automates end-to-end testing of conversational agents—simulating IVR/contact-center call flows, measuring TTS, ASR, NLU and dialogue performance, exporting detailed per-call metrics and supporting CI and live monitoring. That is the core of what EfficientAI does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is EfficientAI free?
     a: Yes — EfficientAI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with EfficientAI?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is EfficientAI?
 
-Efficient AI is an open-source voice evaluation platform that automates end-to-end testing of conversational agents—simulating IVR/contact-center call flows, measuring TTS, ASR, NLU and dialogue performance, exporting detailed per-call metrics and supporting CI and live monitoring. Communication Automation Free
-
+Efficient AI is an open-source voice evaluation platform that automates end-to-end testing of conversational agents—simulating IVR/contact-center call flows, measuring TTS, ASR, NLU and dialogue performance, exporting detailed per-call metrics and supporting CI and live monitoring.
 In short, EfficientAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. For a lot of people, that one function of EfficientAI collapses multiple steps into a single action.
 
 ## Key features

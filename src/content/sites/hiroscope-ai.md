@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is hiroscope.ai?
-    a: Hioscope.ai automates video interview screening, parsing job keywords, matching resumes, and scoring skills and personality. It offers screen‑share interviews with speech‑to‑text, coding support, and detailed reports for data‑driven hiring decisions.  That is the core of what hiroscope.ai does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Hioscope.ai automates video interview screening, parsing job keywords, matching resumes, and scoring skills and personality. It offers screen‑share interviews with speech‑to‑text, coding support, and detailed reports for data‑driven hiring decisions. That is the core of what hiroscope.ai does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is hiroscope.ai free?
     a: hiroscope.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with hiroscope.ai?

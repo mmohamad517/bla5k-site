@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Vly AI?
-    a: vly.ai is a full‑stack web builder that embeds AI engines (Claude, Codex, Gemini) into its IDE, offering real‑time REST queries, one‑click publishing, custom domains, visual backend dashboards, and thousands of prebuilt integrations with CI/version control for rapid, production‑ready prototypes. App Builder Subscription - $3/mo That is the core of what Vly AI does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: vly.ai is a full‑stack web builder that embeds AI engines (Claude, Codex, Gemini) into its IDE, offering real‑time REST queries, one‑click publishing, custom domains, visual backend dashboards, and thousands of prebuilt integrations with CI/version control for rapid, production‑ready prototypes. That is the core of what Vly AI does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Vly AI free?
     a: Vly AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Vly AI?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Vly AI?
 
-vly.ai is a full‑stack web builder that embeds AI engines (Claude, Codex, Gemini) into its IDE, offering real‑time REST queries, one‑click publishing, custom domains, visual backend dashboards, and thousands of prebuilt integrations with CI/version control for rapid, production‑ready prototypes. App Builder Subscription - $3/mo
-
+vly.ai is a full‑stack web builder that embeds AI engines (Claude, Codex, Gemini) into its IDE, offering real‑time REST queries, one‑click publishing, custom domains, visual backend dashboards, and thousands of prebuilt integrations with CI/version control for rapid, production‑ready prototypes.
 In short, Vly AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For plenty of users, that one capability of Vly AI replaces several steps they used to do by hand.
 
 ## Key features

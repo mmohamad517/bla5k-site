@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ChatBoo?
-    a: ChatBoo lets you chat, voice‑call, and share images with customizable AI companions on iOS, Android, and web. Create or modify bots, store conversations for memory, and access a library of thousands of pre‑built bots through an intuitive interface. Avatar Paid That is the core of what ChatBoo does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ChatBoo lets you chat, voice‑call, and share images with customizable AI companions on iOS, Android, and web. Create or modify bots, store conversations for memory, and access a library of thousands of pre‑built bots through an intuitive interface. That is the core of what ChatBoo does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ChatBoo free?
     a: ChatBoo is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with ChatBoo?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like ChatBoo mat
 
 ## What is ChatBoo?
 
-ChatBoo lets you chat, voice‑call, and share images with customizable AI companions on iOS, Android, and web. Create or modify bots, store conversations for memory, and access a library of thousands of pre‑built bots through an intuitive interface. Avatar Paid
-
+ChatBoo lets you chat, voice‑call, and share images with customizable AI companions on iOS, Android, and web. Create or modify bots, store conversations for memory, and access a library of thousands of pre‑built bots through an intuitive interface.
 In short, ChatBoo is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. Many users discover that this feature of ChatBoo alone covers what previously took multiple tools.
 
 ## Key features

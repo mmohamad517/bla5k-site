@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MaxKB?
-    a: Maxkb is an open-source platform for building enterprise-grade agents that enhance interaction and information retrieval using retrieval-augmented generation. Its model-agnostic design supports various applications in customer service, knowledge management, research, and education. AI Agents Subscription That is the core of what MaxKB does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Maxkb is an open-source platform for building enterprise-grade agents that enhance interaction and information retrieval using retrieval-augmented generation. Its model-agnostic design supports various applications in customer service, knowledge management, research, and education. That is the core of what MaxKB does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MaxKB free?
     a: MaxKB is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with MaxKB?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is MaxKB?
 
-Maxkb is an open-source platform for building enterprise-grade agents that enhance interaction and information retrieval using retrieval-augmented generation. Its model-agnostic design supports various applications in customer service, knowledge management, research, and education. AI Agents Subscription
-
+Maxkb is an open-source platform for building enterprise-grade agents that enhance interaction and information retrieval using retrieval-augmented generation. Its model-agnostic design supports various applications in customer service, knowledge management, research, and education.
 In short, MaxKB is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That one capability of MaxKB frequently saves users from juggling several separate steps.
 
 ## Key features

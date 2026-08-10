@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ChatGPT Français (French)?
-    a: Free GPT‑3.5 API access in French, no sign‑up needed. Accepts text or voice via mic, delivers instant replies, and lets you download session transcripts. Ideal for students, researchers, and casual users seeking quick language assistance. AI Assistant Freemium That is the core of what ChatGPT Français (French) does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Free GPT‑3.5 API access in French, no sign‑up needed. Accepts text or voice via mic, delivers instant replies, and lets you download session transcripts. Ideal for students, researchers, and casual users seeking quick language assistance. That is the core of what ChatGPT Français (French) does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ChatGPT Français (French) free?
     a: ChatGPT Français (French) uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ChatGPT Français (French)?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like ChatGPT Fra
 
 ## What is ChatGPT Français (French)?
 
-Free GPT‑3.5 API access in French, no sign‑up needed. Accepts text or voice via mic, delivers instant replies, and lets you download session transcripts. Ideal for students, researchers, and casual users seeking quick language assistance. AI Assistant Freemium
-
+Free GPT‑3.5 API access in French, no sign‑up needed. Accepts text or voice via mic, delivers instant replies, and lets you download session transcripts. Ideal for students, researchers, and casual users seeking quick language assistance.
 In short, ChatGPT Français (French) is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of ChatGPT Français (French) replaces several steps they used to do by hand.
 
 ## Key features

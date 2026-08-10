@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is THERAi?
-    a: OwnAI is an AI assistant that remembers prior conversations for personalized responses. It supports text, voice, and multimodal input, offers built‑in image generation, live web search, and tone‑adjusting tools, while giving users full data privacy control. Personal assistant Freemium That is the core of what THERAi does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: OwnAI is an AI assistant that remembers prior conversations for personalized responses. It supports text, voice, and multimodal input, offers built‑in image generation, live web search, and tone‑adjusting tools, while giving users full data privacy control. That is the core of what THERAi does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is THERAi free?
     a: THERAi uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with THERAi?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is THERAi?
 
-OwnAI is an AI assistant that remembers prior conversations for personalized responses. It supports text, voice, and multimodal input, offers built‑in image generation, live web search, and tone‑adjusting tools, while giving users full data privacy control. Personal assistant Freemium
-
+OwnAI is an AI assistant that remembers prior conversations for personalized responses. It supports text, voice, and multimodal input, offers built‑in image generation, live web search, and tone‑adjusting tools, while giving users full data privacy control.
 In short, THERAi is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many, that single strength of THERAi is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

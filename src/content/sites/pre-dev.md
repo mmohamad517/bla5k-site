@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is pre.dev?
-    a: . pre.dev automates end‑to‑end software development. It accepts ideas or repositories, generates architecture, writes and verifies code, then pushes to a feature branch. Integrations with GitHub, Slack, Jira via OAuth run agents in secure, multi‑stack sandboxes. Code assistant Freemium That is the core of what pre.dev does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: . pre.dev automates end‑to‑end software development. It accepts ideas or repositories, generates architecture, writes and verifies code, then pushes to a feature branch. Integrations with GitHub, Slack, Jira via OAuth run agents in secure, multi‑stack sandboxes. That is the core of what pre.dev does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is pre.dev free?
     a: pre.dev uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with pre.dev?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like pre.dev ear
 
 ## What is pre.dev?
 
-. pre.dev automates end‑to‑end software development. It accepts ideas or repositories, generates architecture, writes and verifies code, then pushes to a feature branch. Integrations with GitHub, Slack, Jira via OAuth run agents in secure, multi‑stack sandboxes. Code assistant Freemium
-
+. pre.dev automates end‑to‑end software development. It accepts ideas or repositories, generates architecture, writes and verifies code, then pushes to a feature branch. Integrations with GitHub, Slack, Jira via OAuth run agents in secure, multi‑stack sandboxes.
 In short, pre.dev is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of pre.dev replaces several steps they used to do by hand.
 
 ## Key features

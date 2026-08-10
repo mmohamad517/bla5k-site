@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Inbox AI?
-    a: Inbox AI is a voice-driven automation tool for macOS that streamlines email management and task processing. It integrates with Apple Mail for smart actions, supports custom voice assistants, and ensures privacy through on-device processing.  That is the core of what Inbox AI does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Inbox AI is a voice-driven automation tool for macOS that streamlines email management and task processing. It integrates with Apple Mail for smart actions, supports custom voice assistants, and ensures privacy through on-device processing. That is the core of what Inbox AI does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Inbox AI free?
     a: Yes — Inbox AI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Inbox AI?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Illuminarty?
-    a: Illuminarty is an AI tool that detects AI-generated images and texts using computer vision and NLP algorithms. It offers a browser extension and API for automated detection.  That is the core of what Illuminarty does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Illuminarty is an AI tool that detects AI-generated images and texts using computer vision and NLP algorithms. It offers a browser extension and API for automated detection. That is the core of what Illuminarty does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Illuminarty free?
     a: Illuminarty uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Illuminarty?

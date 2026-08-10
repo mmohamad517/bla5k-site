@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Intentsify?
-    a: Intentsify aggregates 1.1 trillion intent signals monthly from 460,000+ sites, pinpointing in‑market accounts and delivering persona‑level insights. Its managed activation syncs dynamic ads across display, CTV, and audio, producing verified leads and reducing wasted impressions. Marketing Subscription That is the core of what Intentsify does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Intentsify aggregates 1.1 trillion intent signals monthly from 460,000+ sites, pinpointing in‑market accounts and delivering persona‑level insights. Its managed activation syncs dynamic ads across display, CTV, and audio, producing verified leads and reducing wasted impressions. That is the core of what Intentsify does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Intentsify free?
     a: Intentsify is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Intentsify?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Intentsify?
 
-Intentsify aggregates 1.1 trillion intent signals monthly from 460,000+ sites, pinpointing in‑market accounts and delivering persona‑level insights. Its managed activation syncs dynamic ads across display, CTV, and audio, producing verified leads and reducing wasted impressions. Marketing Subscription
-
+Intentsify aggregates 1.1 trillion intent signals monthly from 460,000+ sites, pinpointing in‑market accounts and delivering persona‑level insights. Its managed activation syncs dynamic ads across display, CTV, and audio, producing verified leads and reducing wasted impressions.
 In short, Intentsify is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. Many users find that this one ability of Intentsify removes several tasks from their daily routine.
 
 ## Key features

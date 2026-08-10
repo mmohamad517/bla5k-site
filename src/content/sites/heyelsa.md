@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Heyelsa?
-    a: "Elsa: AI Crypto Copilot is an integrated platform that simplifies cryptocurrency trading with automated strategies, market monitoring, customizable price alerts, and support for a wide range of digital assets, enhancing portfolio management and investment optimization. Crypto and Web3 Freemium That is the core of what Heyelsa does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "Elsa: AI Crypto Copilot is an integrated platform that simplifies cryptocurrency trading with automated strategies, market monitoring, customizable price alerts, and support for a wide range of digital assets, enhancing portfolio management and investment optimization. That is the core of what Heyelsa does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is Heyelsa free?
     a: Heyelsa uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Heyelsa?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Heyelsa mat
 
 ## What is Heyelsa?
 
-Elsa: AI Crypto Copilot is an integrated platform that simplifies cryptocurrency trading with automated strategies, market monitoring, customizable price alerts, and support for a wide range of digital assets, enhancing portfolio management and investment optimization. Crypto and Web3 Freemium
-
+Elsa: AI Crypto Copilot is an integrated platform that simplifies cryptocurrency trading with automated strategies, market monitoring, customizable price alerts, and support for a wide range of digital assets, enhancing portfolio management and investment optimization.
 In short, Heyelsa is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. Many users discover that this feature of Heyelsa alone covers what previously took multiple tools.
 
 ## Key features

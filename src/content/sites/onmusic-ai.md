@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is OnMusic AI?
-    a: OnMusic AI is a browser-based AI music generator that creates full songs with vocals, melodies, and instrumentals from mood, genre, lyrics, or short prompts. It also offers editing, stem splitting, AI mastering, and song cover tools for easy customization and post-production. Audio generation Freemium That is the core of what OnMusic AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: OnMusic AI is a browser-based AI music generator that creates full songs with vocals, melodies, and instrumentals from mood, genre, lyrics, or short prompts. It also offers editing, stem splitting, AI mastering, and song cover tools for easy customization and post-production. That is the core of what OnMusic AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is OnMusic AI free?
     a: OnMusic AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with OnMusic AI?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is OnMusic AI?
 
-OnMusic AI is a browser-based AI music generator that creates full songs with vocals, melodies, and instrumentals from mood, genre, lyrics, or short prompts. It also offers editing, stem splitting, AI mastering, and song cover tools for easy customization and post-production. Audio generation Freemium
-
+OnMusic AI is a browser-based AI music generator that creates full songs with vocals, melodies, and instrumentals from mood, genre, lyrics, or short prompts. It also offers editing, stem splitting, AI mastering, and song cover tools for easy customization and post-production.
 In short, OnMusic AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. Many users discover that this feature of OnMusic AI alone covers what previously took multiple tools.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Heep AI?
-    a: Heep AI is an AI social media assistant that automates customer interactions on platforms like WhatsApp and Instagram, managing tasks such as reservations and order processing. It offers 24/7 multilingual support and customizable features for various industries. Customer support Free trial That is the core of what Heep AI does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Heep AI is an AI social media assistant that automates customer interactions on platforms like WhatsApp and Instagram, managing tasks such as reservations and order processing. It offers 24/7 multilingual support and customizable features for various industries. That is the core of what Heep AI does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Heep AI free?
     a: Heep AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Heep AI?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Heep AI earn the
 
 ## What is Heep AI?
 
-Heep AI is an AI social media assistant that automates customer interactions on platforms like WhatsApp and Instagram, managing tasks such as reservations and order processing. It offers 24/7 multilingual support and customizable features for various industries. Customer support Free trial
-
+Heep AI is an AI social media assistant that automates customer interactions on platforms like WhatsApp and Instagram, managing tasks such as reservations and order processing. It offers 24/7 multilingual support and customizable features for various industries.
 In short, Heep AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. That one capability of Heep AI frequently saves users from juggling several separate steps.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Gerwin?
-    a: Gerwin AI is a unified Russian‑language platform offering 150+ AI models for text, image, video, and audio generation. It provides business writing, design, animation, music synthesis, and API integration for developers. Content creation Freemium That is the core of what Gerwin does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Gerwin AI is a unified Russian‑language platform offering 150+ AI models for text, image, video, and audio generation. It provides business writing, design, animation, music synthesis, and API integration for developers. That is the core of what Gerwin does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Gerwin free?
     a: Gerwin uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Gerwin?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Gerwin?
 
-Gerwin AI is a unified Russian‑language platform offering 150+ AI models for text, image, video, and audio generation. It provides business writing, design, animation, music synthesis, and API integration for developers. Content creation Freemium
-
+Gerwin AI is a unified Russian‑language platform offering 150+ AI models for text, image, video, and audio generation. It provides business writing, design, animation, music synthesis, and API integration for developers.
 In short, Gerwin is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For plenty of users, that one capability of Gerwin replaces several steps they used to do by hand.
 
 ## Key features

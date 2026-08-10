@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Chat Forefront AI?
-    a: Forefront lets users chat with PDFs, Word, PowerPoint, CSVs, images, and browse the web via multiple LLMs (GPT‑4, Claude, etc.). It supports custom personas, team sharing, enterprise security, and optional self‑hosting.  That is the core of what Chat Forefront AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Forefront lets users chat with PDFs, Word, PowerPoint, CSVs, images, and browse the web via multiple LLMs (GPT‑4, Claude, etc.). It supports custom personas, team sharing, enterprise security, and optional self‑hosting. That is the core of what Chat Forefront AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Chat Forefront AI free?
     a: Chat Forefront AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Chat Forefront AI?

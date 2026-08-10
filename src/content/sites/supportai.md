@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SupportAI?
-    a: SupportAI integrates ChatGPT to create personalized AI chatbots for real-time customer assistance. It handles diverse content, multiple languages, and boosts user engagement via lead capturing, data integration, and feedback collection. Customer support Free trial - $29/mo That is the core of what SupportAI does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SupportAI integrates ChatGPT to create personalized AI chatbots for real-time customer assistance. It handles diverse content, multiple languages, and boosts user engagement via lead capturing, data integration, and feedback collection. That is the core of what SupportAI does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SupportAI free?
     a: SupportAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $29/mo, check the official website — pricing changes often.
   - q: What can you do with SupportAI?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is SupportAI?
 
-SupportAI integrates ChatGPT to create personalized AI chatbots for real-time customer assistance. It handles diverse content, multiple languages, and boosts user engagement via lead capturing, data integration, and feedback collection. Customer support Free trial - $29/mo
-
+SupportAI integrates ChatGPT to create personalized AI chatbots for real-time customer assistance. It handles diverse content, multiple languages, and boosts user engagement via lead capturing, data integration, and feedback collection.
 In short, SupportAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. That one capability of SupportAI frequently saves users from juggling several separate steps.
 
 ## Key features

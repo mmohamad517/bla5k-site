@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Teacha?
-    a: AI Teacha streamlines teaching with tools like lesson note, activity, and lesson plan generators, visual aids, math/physics solvers, and more. Simplify assignment planning, enhance engagement, and create dynamic classroom environments effortlessly. AI Assistant Free trial - $29/mo That is the core of what AI Teacha does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Teacha streamlines teaching with tools like lesson note, activity, and lesson plan generators, visual aids, math/physics solvers, and more. Simplify assignment planning, enhance engagement, and create dynamic classroom environments effortlessly. That is the core of what AI Teacha does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI Teacha free?
     a: AI Teacha uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $29/mo, check the official website — pricing changes often.
   - q: What can you do with AI Teacha?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like AI Tea
 
 ## What is AI Teacha?
 
-AI Teacha streamlines teaching with tools like lesson note, activity, and lesson plan generators, visual aids, math/physics solvers, and more. Simplify assignment planning, enhance engagement, and create dynamic classroom environments effortlessly. AI Assistant Free trial - $29/mo
-
+AI Teacha streamlines teaching with tools like lesson note, activity, and lesson plan generators, visual aids, math/physics solvers, and more. Simplify assignment planning, enhance engagement, and create dynamic classroom environments effortlessly.
 In short, AI Teacha is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one feature of AI Teacha often eliminates several smaller steps from the usual workflow.
 
 ## Key features

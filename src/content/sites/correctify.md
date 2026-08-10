@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Correctify?
-    a: Correctify is an AI menu maker for restaurants and hotels that replaces spreadsheets with structured blocks, offering AI proofreading across Word/PDF/images, dish and cocktail generation, real‑time collaboration, version control, and online publishing with QR codes. Content creation Free - $5/mo That is the core of what Correctify does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Correctify is an AI menu maker for restaurants and hotels that replaces spreadsheets with structured blocks, offering AI proofreading across Word/PDF/images, dish and cocktail generation, real‑time collaboration, version control, and online publishing with QR codes. That is the core of what Correctify does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Correctify free?
     a: Correctify uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Correctify?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Correctify earn 
 
 ## What is Correctify?
 
-Correctify is an AI menu maker for restaurants and hotels that replaces spreadsheets with structured blocks, offering AI proofreading across Word/PDF/images, dish and cocktail generation, real‑time collaboration, version control, and online publishing with QR codes. Content creation Free - $5/mo
-
+Correctify is an AI menu maker for restaurants and hotels that replaces spreadsheets with structured blocks, offering AI proofreading across Word/PDF/images, dish and cocktail generation, real‑time collaboration, version control, and online publishing with QR codes.
 In short, Correctify is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. For many, that single strength of Correctify is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

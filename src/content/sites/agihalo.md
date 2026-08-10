@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Agihalo?
-    a: Agihalo LLM Router for Agent connects multi-agent systems to multiple LLMs with routing logic, per-agent API keys, unified SDK, and autonomous USDC micro-payments, providing real-time usage analytics, cost tracking, and integrations for CI/CD, CRM, and workflows. AI Agents Subscription That is the core of what Agihalo does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Agihalo LLM Router for Agent connects multi-agent systems to multiple LLMs with routing logic, per-agent API keys, unified SDK, and autonomous USDC micro-payments, providing real-time usage analytics, cost tracking, and integrations for CI/CD, CRM, and workflows. That is the core of what Agihalo does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Agihalo free?
     a: Agihalo is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Agihalo?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Agihalo mat
 
 ## What is Agihalo?
 
-Agihalo LLM Router for Agent connects multi-agent systems to multiple LLMs with routing logic, per-agent API keys, unified SDK, and autonomous USDC micro-payments, providing real-time usage analytics, cost tracking, and integrations for CI/CD, CRM, and workflows. AI Agents Subscription
-
+Agihalo LLM Router for Agent connects multi-agent systems to multiple LLMs with routing logic, per-agent API keys, unified SDK, and autonomous USDC micro-payments, providing real-time usage analytics, cost tracking, and integrations for CI/CD, CRM, and workflows.
 In short, Agihalo is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That single feature of Agihalo alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

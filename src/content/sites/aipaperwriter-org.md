@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is aipaperwriter.org?
-    a: AI Paper Writer Online drafts essays, research papers, and reports from user‑specified topics, pulls data from multiple sources, auto‑formats citations (APA, MLA, Chicago), and includes grammar and plagiarism checks—no registration or payment required.  That is the core of what aipaperwriter.org does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Paper Writer Online drafts essays, research papers, and reports from user‑specified topics, pulls data from multiple sources, auto‑formats citations (APA, MLA, Chicago), and includes grammar and plagiarism checks—no registration or payment required. That is the core of what aipaperwriter.org does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is aipaperwriter.org free?
     a: Yes — aipaperwriter.org is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with aipaperwriter.org?

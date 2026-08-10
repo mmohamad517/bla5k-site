@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TinyHumans?
-    a: TinyHumans is a platform for building practical AI products and personal assistants, offering OpenHuman for individual workflow support and Neocortex for production-grade memory infrastructure. It emphasizes privacy, simple integration, and low-latency retrieval to accelerate team decision-making and automate routine tasks.  That is the core of what TinyHumans does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: TinyHumans is a platform for building practical AI products and personal assistants, offering OpenHuman for individual workflow support and Neocortex for production-grade memory infrastructure. It emphasizes privacy, simple integration, and low-latency retrieval to accelerate team decision-making and automate routine tasks. That is the core of what TinyHumans does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TinyHumans free?
     a: Yes — TinyHumans is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with TinyHumans?

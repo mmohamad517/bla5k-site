@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Agentica?
-    a: agentica is an open-source AI coding assistant and IDE offering code completion, generation, debugging, review, and PR workflows. Supports standalone IDE and VS Code, local/cloud/OpenAI-compatible models, API key routing, self-hosting and extensible integrations.  That is the core of what Agentica does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: agentica is an open-source AI coding assistant and IDE offering code completion, generation, debugging, review, and PR workflows. Supports standalone IDE and VS Code, local/cloud/OpenAI-compatible models, API key routing, self-hosting and extensible integrations. That is the core of what Agentica does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Agentica free?
     a: Yes — Agentica is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Agentica?

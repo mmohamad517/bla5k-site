@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Architectures?
-    a: AI Architectures is a generative AI platform that transforms sketches into detailed 3D models, photorealistic renders, and compliant floor plans. It streamlines design with a style library and an intuitive editor for architects and designers.  That is the core of what AI Architectures does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Architectures is a generative AI platform that transforms sketches into detailed 3D models, photorealistic renders, and compliant floor plans. It streamlines design with a style library and an intuitive editor for architects and designers. That is the core of what AI Architectures does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI Architectures free?
     a: AI Architectures is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with AI Architectures?

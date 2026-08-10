@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is BrewNote?
-    a: Looppanel lets researchers upload interview recordings via drag‑and‑drop, producing concise AI‑generated transcripts within about ten minutes. No human review occurs, keeping data private, and the notes are downloadable for further analysis within the platform. Human resources Free That is the core of what BrewNote does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Looppanel lets researchers upload interview recordings via drag‑and‑drop, producing concise AI‑generated transcripts within about ten minutes. No human review occurs, keeping data private, and the notes are downloadable for further analysis within the platform. That is the core of what BrewNote does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is BrewNote free?
     a: Yes — BrewNote is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with BrewNote?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like BrewNote ea
 
 ## What is BrewNote?
 
-Looppanel lets researchers upload interview recordings via drag‑and‑drop, producing concise AI‑generated transcripts within about ten minutes. No human review occurs, keeping data private, and the notes are downloadable for further analysis within the platform. Human resources Free
-
+Looppanel lets researchers upload interview recordings via drag‑and‑drop, producing concise AI‑generated transcripts within about ten minutes. No human review occurs, keeping data private, and the notes are downloadable for further analysis within the platform.
 In short, BrewNote is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. For a lot of people, that one function of BrewNote collapses multiple steps into a single action.
 
 ## Key features

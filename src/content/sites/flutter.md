@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Flutter?
-    a: ShipFlutter is a customizable boilerplate starter kit for Flutter, enabling rapid project generation with an AI builder. It offers modular features, Firebase integration, and tools for SEO and payment processing, suitable for responsive mobile and web applications.  That is the core of what Flutter does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ShipFlutter is a customizable boilerplate starter kit for Flutter, enabling rapid project generation with an AI builder. It offers modular features, Firebase integration, and tools for SEO and payment processing, suitable for responsive mobile and web applications. That is the core of what Flutter does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Flutter free?
     a: Flutter uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Flutter?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Moss?
-    a: MOSS AI lets businesses build AGI‑ready office and entertainment apps using hire‑able AI agents. It offers simulation tools, a blockchain‑powered game, and modular HyperAGI components for enterprise workflows and gaming. Chatbot builder Freemium That is the core of what Moss does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: MOSS AI lets businesses build AGI‑ready office and entertainment apps using hire‑able AI agents. It offers simulation tools, a blockchain‑powered game, and modular HyperAGI components for enterprise workflows and gaming. That is the core of what Moss does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Moss free?
     a: Moss uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Moss?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Moss earn t
 
 ## What is Moss?
 
-MOSS AI lets businesses build AGI‑ready office and entertainment apps using hire‑able AI agents. It offers simulation tools, a blockchain‑powered game, and modular HyperAGI components for enterprise workflows and gaming. Chatbot builder Freemium
-
+MOSS AI lets businesses build AGI‑ready office and entertainment apps using hire‑able AI agents. It offers simulation tools, a blockchain‑powered game, and modular HyperAGI components for enterprise workflows and gaming.
 In short, Moss is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For plenty of users, that one capability of Moss replaces several steps they used to do by hand.
 
 ## Key features

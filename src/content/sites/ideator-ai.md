@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ideator AI?
-    a: Ideator AI is an innovative tool for designers and innovators, featuring iterative functionality to generate interactive variations while preserving the primary purpose. It facilitates user flows, scenario constraints, and UX principles, fostering enhanced creativity in design exploration.  That is the core of what Ideator AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ideator AI is an innovative tool for designers and innovators, featuring iterative functionality to generate interactive variations while preserving the primary purpose. It facilitates user flows, scenario constraints, and UX principles, fostering enhanced creativity in design exploration. That is the core of what Ideator AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ideator AI free?
     a: Ideator AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Ideator AI?

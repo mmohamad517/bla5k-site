@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is OmniChannel?
-    a: Omni Channel Outreach System automates and centralizes outbound campaigns across email, LinkedIn, and other platforms. It delivers AI‑generated templates, real‑time lead updates, warm‑up for deliverability, and seamless CRM integration for scalable, data‑driven sales outreach. Communication Automation Freemium That is the core of what OmniChannel does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Omni Channel Outreach System automates and centralizes outbound campaigns across email, LinkedIn, and other platforms. It delivers AI‑generated templates, real‑time lead updates, warm‑up for deliverability, and seamless CRM integration for scalable, data‑driven sales outreach. That is the core of what OmniChannel does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is OmniChannel free?
     a: OmniChannel uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with OmniChannel?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like OmniChannel
 
 ## What is OmniChannel?
 
-Omni Channel Outreach System automates and centralizes outbound campaigns across email, LinkedIn, and other platforms. It delivers AI‑generated templates, real‑time lead updates, warm‑up for deliverability, and seamless CRM integration for scalable, data‑driven sales outreach. Communication Automation Freemium
-
+Omni Channel Outreach System automates and centralizes outbound campaigns across email, LinkedIn, and other platforms. It delivers AI‑generated templates, real‑time lead updates, warm‑up for deliverability, and seamless CRM integration for scalable, data‑driven sales outreach.
 In short, OmniChannel is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. That one feature of OmniChannel often eliminates several smaller steps from the usual workflow.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ChurchCalls.ai?
-    a: ChurchCalls.ai is an AI solution for church ministries that handles calls 24/7, directs inquiries to the right departments, and generates automated call summaries. It enhances communication and engagement without requiring coding knowledge for setup. Customer support Freemium That is the core of what ChurchCalls.ai does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ChurchCalls.ai is an AI solution for church ministries that handles calls 24/7, directs inquiries to the right departments, and generates automated call summaries. It enhances communication and engagement without requiring coding knowledge for setup. That is the core of what ChurchCalls.ai does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ChurchCalls.ai free?
     a: ChurchCalls.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ChurchCalls.ai?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like ChurchCalls
 
 ## What is ChurchCalls.ai?
 
-ChurchCalls.ai is an AI solution for church ministries that handles calls 24/7, directs inquiries to the right departments, and generates automated call summaries. It enhances communication and engagement without requiring coding knowledge for setup. Customer support Freemium
-
+ChurchCalls.ai is an AI solution for church ministries that handles calls 24/7, directs inquiries to the right departments, and generates automated call summaries. It enhances communication and engagement without requiring coding knowledge for setup.
 In short, ChurchCalls.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. That one capability of ChurchCalls.ai frequently saves users from juggling several separate steps.
 
 ## Key features

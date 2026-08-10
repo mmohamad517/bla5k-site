@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Rava AI?
-    a: Rava AI automates go-to-market strategy, market analysis, and content creation for startups and investors, producing investor-ready pitch decks, funding-readiness scores, full-funnel marketing plans, audience personas, on-brand campaign assets, roadmaps, and performance analytics. Business Free trial That is the core of what Rava AI does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Rava AI automates go-to-market strategy, market analysis, and content creation for startups and investors, producing investor-ready pitch decks, funding-readiness scores, full-funnel marketing plans, audience personas, on-brand campaign assets, roadmaps, and performance analytics. That is the core of what Rava AI does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Rava AI free?
     a: Rava AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Rava AI?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Rava AI?
 
-Rava AI automates go-to-market strategy, market analysis, and content creation for startups and investors, producing investor-ready pitch decks, funding-readiness scores, full-funnel marketing plans, audience personas, on-brand campaign assets, roadmaps, and performance analytics. Business Free trial
-
+Rava AI automates go-to-market strategy, market analysis, and content creation for startups and investors, producing investor-ready pitch decks, funding-readiness scores, full-funnel marketing plans, audience personas, on-brand campaign assets, roadmaps, and performance analytics.
 In short, Rava AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. For plenty of users, that one capability of Rava AI replaces several steps they used to do by hand.
 
 ## Key features

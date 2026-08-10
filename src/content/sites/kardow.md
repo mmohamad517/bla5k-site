@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Kardow?
-    a: Kardow automates job board management by AI‑driven job imports, provides real‑time analytics, supports multiple payment gateways, and offers customizable dashboards, multilingual content, SEO schema, sitemaps, and an API for flexible posting. Business Free trial That is the core of what Kardow does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Kardow automates job board management by AI‑driven job imports, provides real‑time analytics, supports multiple payment gateways, and offers customizable dashboards, multilingual content, SEO schema, sitemaps, and an API for flexible posting. That is the core of what Kardow does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Kardow free?
     a: Kardow uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Kardow?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Kardow?
 
-Kardow automates job board management by AI‑driven job imports, provides real‑time analytics, supports multiple payment gateways, and offers customizable dashboards, multilingual content, SEO schema, sitemaps, and an API for flexible posting. Business Free trial
-
+Kardow automates job board management by AI‑driven job imports, provides real‑time analytics, supports multiple payment gateways, and offers customizable dashboards, multilingual content, SEO schema, sitemaps, and an API for flexible posting.
 In short, Kardow is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. For a lot of people, that one function of Kardow collapses multiple steps into a single action.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Hercules by TestZeus?
-    a: TestZeus is an open‑source autonomous testing agent that runs Gherkin tests without coding. It auto‑executes across browsers, APIs, and databases, captures video and network logs, supports multilingual UI, Salesforce automation, and multiple LLMs for CI/CD integration. AI Agents Free That is the core of what Hercules by TestZeus does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: TestZeus is an open‑source autonomous testing agent that runs Gherkin tests without coding. It auto‑executes across browsers, APIs, and databases, captures video and network logs, supports multilingual UI, Salesforce automation, and multiple LLMs for CI/CD integration. That is the core of what Hercules by TestZeus does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Hercules by TestZeus free?
     a: Yes — Hercules by TestZeus is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Hercules by TestZeus?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Hercules by
 
 ## What is Hercules by TestZeus?
 
-TestZeus is an open‑source autonomous testing agent that runs Gherkin tests without coding. It auto‑executes across browsers, APIs, and databases, captures video and network logs, supports multilingual UI, Salesforce automation, and multiple LLMs for CI/CD integration. AI Agents Free
-
+TestZeus is an open‑source autonomous testing agent that runs Gherkin tests without coding. It auto‑executes across browsers, APIs, and databases, captures video and network logs, supports multilingual UI, Salesforce automation, and multiple LLMs for CI/CD integration.
 In short, Hercules by TestZeus is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That one capability of Hercules by TestZeus frequently saves users from juggling several separate steps.
 
 ## Key features

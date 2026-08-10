@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Leadsourcing?
-    a: LeadSourcing is an AI-driven sales tool that simplifies lead generation and meeting scheduling for businesses. It automates lead sorting, personalized campaigns, and accelerates booking, optimizing sales through cost-effective advanced algorithms and customizable persona targeting. Sales Free That is the core of what Leadsourcing does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: LeadSourcing is an AI-driven sales tool that simplifies lead generation and meeting scheduling for businesses. It automates lead sorting, personalized campaigns, and accelerates booking, optimizing sales through cost-effective advanced algorithms and customizable persona targeting. That is the core of what Leadsourcing does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Leadsourcing free?
     a: Yes — Leadsourcing is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Leadsourcing?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Leadsourcing?
 
-LeadSourcing is an AI-driven sales tool that simplifies lead generation and meeting scheduling for businesses. It automates lead sorting, personalized campaigns, and accelerates booking, optimizing sales through cost-effective advanced algorithms and customizable persona targeting. Sales Free
-
+LeadSourcing is an AI-driven sales tool that simplifies lead generation and meeting scheduling for businesses. It automates lead sorting, personalized campaigns, and accelerates booking, optimizing sales through cost-effective advanced algorithms and customizable persona targeting.
 In short, Leadsourcing is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. Many users discover that this feature of Leadsourcing alone covers what previously took multiple tools.
 
 ## Key features

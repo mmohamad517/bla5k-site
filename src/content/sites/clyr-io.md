@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Clyr?
-    a: Clyr centralizes expense and bill management for field and finance teams, offering real-time receipt capture, AI-driven transaction coding and matching, live card/bank integrations, automated AP and reimbursements, project job costing, profitability tracking, and custom reporting. Accounting assistant Free That is the core of what Clyr does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Clyr centralizes expense and bill management for field and finance teams, offering real-time receipt capture, AI-driven transaction coding and matching, live card/bank integrations, automated AP and reimbursements, project job costing, profitability tracking, and custom reporting. That is the core of what Clyr does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Clyr free?
     a: Yes — Clyr is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Clyr?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Clyr earn their 
 
 ## What is Clyr?
 
-Clyr centralizes expense and bill management for field and finance teams, offering real-time receipt capture, AI-driven transaction coding and matching, live card/bank integrations, automated AP and reimbursements, project job costing, profitability tracking, and custom reporting. Accounting assistant Free
-
+Clyr centralizes expense and bill management for field and finance teams, offering real-time receipt capture, AI-driven transaction coding and matching, live card/bank integrations, automated AP and reimbursements, project job costing, profitability tracking, and custom reporting.
 In short, Clyr is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users find that this one ability of Clyr removes several tasks from their daily routine.
 
 ## Key features

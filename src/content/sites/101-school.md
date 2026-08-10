@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is 101.school?
-    a: 101.school lets users create personalized courses or select from STEM, humanities, business, and skill subjects. AI recommends modules, learning paths, and assessments, supporting self‑paced or structured 4–13‑week programs with progress tracking and feedback. Course Generator Freemium That is the core of what 101.school does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: 101.school lets users create personalized courses or select from STEM, humanities, business, and skill subjects. AI recommends modules, learning paths, and assessments, supporting self‑paced or structured 4–13‑week programs with progress tracking and feedback. That is the core of what 101.school does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is 101.school free?
     a: 101.school uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with 101.school?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like 101.sc
 
 ## What is 101.school?
 
-101.school lets users create personalized courses or select from STEM, humanities, business, and skill subjects. AI recommends modules, learning paths, and assessments, supporting self‑paced or structured 4–13‑week programs with progress tracking and feedback. Course Generator Freemium
-
+101.school lets users create personalized courses or select from STEM, humanities, business, and skill subjects. AI recommends modules, learning paths, and assessments, supporting self‑paced or structured 4–13‑week programs with progress tracking and feedback.
 In short, 101.school is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. For many, that single strength of 101.school is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

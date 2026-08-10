@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Scribly AI?
-    a: Scribly AI accelerates blog creation by generating outlines, drafts, and topic ideas. It optimizes posts for SEO, tracks performance, and offers improvement suggestions, helping writers publish faster, attract readers, and boost search rankings. Content Writing Freemium - $39/mo That is the core of what Scribly AI does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Scribly AI accelerates blog creation by generating outlines, drafts, and topic ideas. It optimizes posts for SEO, tracks performance, and offers improvement suggestions, helping writers publish faster, attract readers, and boost search rankings. That is the core of what Scribly AI does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Scribly AI free?
     a: Scribly AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $39/mo, check the official website — pricing changes often.
   - q: What can you do with Scribly AI?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Scribl
 
 ## What is Scribly AI?
 
-Scribly AI accelerates blog creation by generating outlines, drafts, and topic ideas. It optimizes posts for SEO, tracks performance, and offers improvement suggestions, helping writers publish faster, attract readers, and boost search rankings. Content Writing Freemium - $39/mo
-
+Scribly AI accelerates blog creation by generating outlines, drafts, and topic ideas. It optimizes posts for SEO, tracks performance, and offers improvement suggestions, helping writers publish faster, attract readers, and boost search rankings.
 In short, Scribly AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. That one feature of Scribly AI often eliminates several smaller steps from the usual workflow.
 
 ## Key features

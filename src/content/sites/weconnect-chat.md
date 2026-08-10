@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is WeConnect.chat?
-    a: WeConnect.chat is a no‑code platform that lets businesses build AI‑powered chatbots with drag‑and‑drop, combining custom AI, rule‑based logic, live chat fallback, and a unified agent dashboard for web, mobile, and desktop. Omnichannel chatbot Subscription - $39/mo That is the core of what WeConnect.chat does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: WeConnect.chat is a no‑code platform that lets businesses build AI‑powered chatbots with drag‑and‑drop, combining custom AI, rule‑based logic, live chat fallback, and a unified agent dashboard for web, mobile, and desktop. That is the core of what WeConnect.chat does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is WeConnect.chat free?
     a: WeConnect.chat is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with WeConnect.chat?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like WeConnect.chat e
 
 ## What is WeConnect.chat?
 
-WeConnect.chat is a no‑code platform that lets businesses build AI‑powered chatbots with drag‑and‑drop, combining custom AI, rule‑based logic, live chat fallback, and a unified agent dashboard for web, mobile, and desktop. Omnichannel chatbot Subscription - $39/mo
-
+WeConnect.chat is a no‑code platform that lets businesses build AI‑powered chatbots with drag‑and‑drop, combining custom AI, rule‑based logic, live chat fallback, and a unified agent dashboard for web, mobile, and desktop.
 In short, WeConnect.chat is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. Many users discover that this feature of WeConnect.chat alone covers what previously took multiple tools.
 
 ## Key features

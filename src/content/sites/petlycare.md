@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PetlyCare?
-    a: Petly is a dog groomer software that streamlines operations for pet service providers with lead management, automated quotes, client database, payment processing, and scheduling integration, all designed for mobile use to enhance productivity and minimize double bookings. Business Free trial That is the core of what PetlyCare does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Petly is a dog groomer software that streamlines operations for pet service providers with lead management, automated quotes, client database, payment processing, and scheduling integration, all designed for mobile use to enhance productivity and minimize double bookings. That is the core of what PetlyCare does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is PetlyCare free?
     a: PetlyCare uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with PetlyCare?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like PetlyCare e
 
 ## What is PetlyCare?
 
-Petly is a dog groomer software that streamlines operations for pet service providers with lead management, automated quotes, client database, payment processing, and scheduling integration, all designed for mobile use to enhance productivity and minimize double bookings. Business Free trial
-
+Petly is a dog groomer software that streamlines operations for pet service providers with lead management, automated quotes, client database, payment processing, and scheduling integration, all designed for mobile use to enhance productivity and minimize double bookings.
 In short, PetlyCare is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. Many users discover that this feature of PetlyCare alone covers what previously took multiple tools.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is WriteMage?
-    a: WriteMage overlays ChatGPT across macOS/iOS apps, preserving session memory and local labeled chat history. Users can edit or create prompts, supply custom OpenAI keys to lift word limits, and enjoy seamless multi‑device use on Intel/Apple Silicon.  That is the core of what WriteMage does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: WriteMage overlays ChatGPT across macOS/iOS apps, preserving session memory and local labeled chat history. Users can edit or create prompts, supply custom OpenAI keys to lift word limits, and enjoy seamless multi‑device use on Intel/Apple Silicon. That is the core of what WriteMage does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is WriteMage free?
     a: WriteMage is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with WriteMage?

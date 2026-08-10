@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Freshenup.io?
-    a: FreshenUp.io is a WordPress plugin that automates updates to old blog posts by adding new content and insights. It provides side-by-side comparisons for review, ensuring content stays relevant while maintaining the original voice and SEO compliance. Content Writing Free trial That is the core of what Freshenup.io does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: FreshenUp.io is a WordPress plugin that automates updates to old blog posts by adding new content and insights. It provides side-by-side comparisons for review, ensuring content stays relevant while maintaining the original voice and SEO compliance. That is the core of what Freshenup.io does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Freshenup.io free?
     a: Freshenup.io uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Freshenup.io?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Freshenup.io?
 
-FreshenUp.io is a WordPress plugin that automates updates to old blog posts by adding new content and insights. It provides side-by-side comparisons for review, ensuring content stays relevant while maintaining the original voice and SEO compliance. Content Writing Free trial
-
+FreshenUp.io is a WordPress plugin that automates updates to old blog posts by adding new content and insights. It provides side-by-side comparisons for review, ensuring content stays relevant while maintaining the original voice and SEO compliance.
 In short, Freshenup.io is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. Many users discover that this feature of Freshenup.io alone covers what previously took multiple tools.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Word.studio?
-    a: Word.Studio offers 150+ AI-powered tools for content creation, research, and brand development, providing article, essay, and business plan generators, creative writing aids, marketing support, educational utilities, and graphic asset generators.  That is the core of what Word.studio does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Word.Studio offers 150+ AI-powered tools for content creation, research, and brand development, providing article, essay, and business plan generators, creative writing aids, marketing support, educational utilities, and graphic asset generators. That is the core of what Word.studio does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Word.studio free?
     a: Word.studio uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Word.studio?

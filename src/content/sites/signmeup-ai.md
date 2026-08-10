@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Signmeup.ai?
-    a: SignMeUp.ai auto‑generates complete web forms from a text prompt, adding fields, copy, and layout. Users customize via drag‑and‑drop, embed with a snippet, view real‑time analytics, and connect to Google Sheets, Mailchimp, Notion, Zapier for automated workflows. Marketing Freemium That is the core of what Signmeup.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SignMeUp.ai auto‑generates complete web forms from a text prompt, adding fields, copy, and layout. Users customize via drag‑and‑drop, embed with a snippet, view real‑time analytics, and connect to Google Sheets, Mailchimp, Notion, Zapier for automated workflows. That is the core of what Signmeup.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Signmeup.ai free?
     a: Signmeup.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Signmeup.ai?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Signmeup.ai?
 
-SignMeUp.ai auto‑generates complete web forms from a text prompt, adding fields, copy, and layout. Users customize via drag‑and‑drop, embed with a snippet, view real‑time analytics, and connect to Google Sheets, Mailchimp, Notion, Zapier for automated workflows. Marketing Freemium
-
+SignMeUp.ai auto‑generates complete web forms from a text prompt, adding fields, copy, and layout. Users customize via drag‑and‑drop, embed with a snippet, view real‑time analytics, and connect to Google Sheets, Mailchimp, Notion, Zapier for automated workflows.
 In short, Signmeup.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That one feature of Signmeup.ai often eliminates several smaller steps from the usual workflow.
 
 ## Key features

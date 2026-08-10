@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is hrflow.ai?
-    a: HrFlow.ai is an API‑first platform that consolidates talent data, uses AI modules (parsing, tagging, embedding, searching, scoring, upskilling) to turn HR documents into structured insights, and offers 200+ connectors, real‑time webhooks, and SDKs for quick integration. Human resources Freemium That is the core of what hrflow.ai does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: HrFlow.ai is an API‑first platform that consolidates talent data, uses AI modules (parsing, tagging, embedding, searching, scoring, upskilling) to turn HR documents into structured insights, and offers 200+ connectors, real‑time webhooks, and SDKs for quick integration. That is the core of what hrflow.ai does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is hrflow.ai free?
     a: hrflow.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with hrflow.ai?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is hrflow.ai?
 
-HrFlow.ai is an API‑first platform that consolidates talent data, uses AI modules (parsing, tagging, embedding, searching, scoring, upskilling) to turn HR documents into structured insights, and offers 200+ connectors, real‑time webhooks, and SDKs for quick integration. Human resources Freemium
-
+HrFlow.ai is an API‑first platform that consolidates talent data, uses AI modules (parsing, tagging, embedding, searching, scoring, upskilling) to turn HR documents into structured insights, and offers 200+ connectors, real‑time webhooks, and SDKs for quick integration.
 In short, hrflow.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. That one feature of hrflow.ai often eliminates several smaller steps from the usual workflow.
 
 ## Key features

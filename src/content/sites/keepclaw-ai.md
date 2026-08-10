@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is KeepClaw.ai?
-    a: KeepClaw.ai is a managed hosting platform for personal AI agents that run 24/7, automating tasks like research, content drafting, and monitoring. It provides a simple dashboard, multi-model support, and workflow features without requiring infrastructure management. AI Agents Freemium - $19/mo That is the core of what KeepClaw.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: KeepClaw.ai is a managed hosting platform for personal AI agents that run 24/7, automating tasks like research, content drafting, and monitoring. It provides a simple dashboard, multi-model support, and workflow features without requiring infrastructure management. That is the core of what KeepClaw.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is KeepClaw.ai free?
     a: KeepClaw.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $19/mo, check the official website — pricing changes often.
   - q: What can you do with KeepClaw.ai?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like KeepClaw.ai
 
 ## What is KeepClaw.ai?
 
-KeepClaw.ai is a managed hosting platform for personal AI agents that run 24/7, automating tasks like research, content drafting, and monitoring. It provides a simple dashboard, multi-model support, and workflow features without requiring infrastructure management. AI Agents Freemium - $19/mo
-
+KeepClaw.ai is a managed hosting platform for personal AI agents that run 24/7, automating tasks like research, content drafting, and monitoring. It provides a simple dashboard, multi-model support, and workflow features without requiring infrastructure management.
 In short, KeepClaw.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That single feature of KeepClaw.ai alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

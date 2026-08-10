@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Bloggr AI?
-    a: Bloggr AI is a AI blog writer that generates SEO-optimized, original content. It creates tailored posts from your documents or URLs, featuring topic generation, style customization, and plagiarism detection.  That is the core of what Bloggr AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Bloggr AI is a AI blog writer that generates SEO-optimized, original content. It creates tailored posts from your documents or URLs, featuring topic generation, style customization, and plagiarism detection. That is the core of what Bloggr AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Bloggr AI free?
     a: Bloggr AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $4.99/mo, check the official website — pricing changes often.
   - q: What can you do with Bloggr AI?

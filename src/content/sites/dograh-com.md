@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Dograh?
-    a: Dograh is an open-source VAPI alternative for building self-deployed AI voice agents, offering a no-code drag-and-drop builder, telephony and multilingual (30+) support, voice customization, advanced NLP with intent handling, intelligent human routing, and real-time analytics.  That is the core of what Dograh does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Dograh is an open-source VAPI alternative for building self-deployed AI voice agents, offering a no-code drag-and-drop builder, telephony and multilingual (30+) support, voice customization, advanced NLP with intent handling, intelligent human routing, and real-time analytics. That is the core of what Dograh does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Dograh free?
     a: Dograh uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Dograh?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Hyring?
-    a: Hyring is an AI recruiting software that enhances the hiring process with features like video and phone interviews, resume screening, and live coding assessments, streamlining candidate evaluation and improving recruitment efficiency for employers and job seekers. Human resources Subscription That is the core of what Hyring does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Hyring is an AI recruiting software that enhances the hiring process with features like video and phone interviews, resume screening, and live coding assessments, streamlining candidate evaluation and improving recruitment efficiency for employers and job seekers. That is the core of what Hyring does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Hyring free?
     a: Hyring is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Hyring?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Hyring?
 
-Hyring is an AI recruiting software that enhances the hiring process with features like video and phone interviews, resume screening, and live coding assessments, streamlining candidate evaluation and improving recruitment efficiency for employers and job seekers. Human resources Subscription
-
+Hyring is an AI recruiting software that enhances the hiring process with features like video and phone interviews, resume screening, and live coding assessments, streamlining candidate evaluation and improving recruitment efficiency for employers and job seekers.
 In short, Hyring is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. Many users discover that this feature of Hyring alone covers what previously took multiple tools.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is imini AI?
-    a: iMini is a super AI agent that autonomously completes tasks based on human instructions, mimicking human thought processes like planning, research, and analysis, delivering results in minutes instead of days.  That is the core of what imini AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: iMini is a super AI agent that autonomously completes tasks based on human instructions, mimicking human thought processes like planning, research, and analysis, delivering results in minutes instead of days. That is the core of what imini AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is imini AI free?
     a: imini AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with imini AI?

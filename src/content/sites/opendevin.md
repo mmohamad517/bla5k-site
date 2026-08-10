@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is OpenDevin?
-    a: OpenDevin is an open-source project replicating and enhancing Devin, an AI engineer for software tasks. It offers a sandboxing environment for code execution, integrating a chat interface and browser for user-friendly development. Aimed at simplifying software engineering, it welcomes contributions for research and development. Code assistant Free That is the core of what OpenDevin does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: OpenDevin is an open-source project replicating and enhancing Devin, an AI engineer for software tasks. It offers a sandboxing environment for code execution, integrating a chat interface and browser for user-friendly development. Aimed at simplifying software engineering, it welcomes contributions for research and development. That is the core of what OpenDevin does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is OpenDevin free?
     a: Yes — OpenDevin is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with OpenDevin?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like OpenDe
 
 ## What is OpenDevin?
 
-OpenDevin is an open-source project replicating and enhancing Devin, an AI engineer for software tasks. It offers a sandboxing environment for code execution, integrating a chat interface and browser for user-friendly development. Aimed at simplifying software engineering, it welcomes contributions for research and development. Code assistant Free
-
+OpenDevin is an open-source project replicating and enhancing Devin, an AI engineer for software tasks. It offers a sandboxing environment for code execution, integrating a chat interface and browser for user-friendly development. Aimed at simplifying software engineering, it welcomes contributions for research and development.
 In short, OpenDevin is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users find that this one ability of OpenDevin removes several tasks from their daily routine.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AIArion?
-    a: Aiarion offers a curated collection of AI prompts focused on personal development, career growth, and productivity, integrating the Ikigai framework for purpose alignment and utilizing the GTD method for effective task prioritization and strategic planning. Personal assistant Free That is the core of what AIArion does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Aiarion offers a curated collection of AI prompts focused on personal development, career growth, and productivity, integrating the Ikigai framework for purpose alignment and utilizing the GTD method for effective task prioritization and strategic planning. That is the core of what AIArion does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AIArion free?
     a: Yes — AIArion is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with AIArion?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like AIArio
 
 ## What is AIArion?
 
-Aiarion offers a curated collection of AI prompts focused on personal development, career growth, and productivity, integrating the Ikigai framework for purpose alignment and utilizing the GTD method for effective task prioritization and strategic planning. Personal assistant Free
-
+Aiarion offers a curated collection of AI prompts focused on personal development, career growth, and productivity, integrating the Ikigai framework for purpose alignment and utilizing the GTD method for effective task prioritization and strategic planning.
 In short, AIArion is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users discover that this feature of AIArion alone covers what previously took multiple tools.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Anything?
-    a: Anything is an AI app builder that enables users to create mobile apps and websites without coding. It integrates GPT-5 and various APIs, offering automatic error detection and a user-friendly interface for rapid development and deployment.  That is the core of what Anything does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Anything is an AI app builder that enables users to create mobile apps and websites without coding. It integrates GPT-5 and various APIs, offering automatic error detection and a user-friendly interface for rapid development and deployment. That is the core of what Anything does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Anything free?
     a: Anything uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Anything?

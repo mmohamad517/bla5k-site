@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Strategy-First AI?
-    a: Generate customer personas and unique selling propositions through an AI questionnaire, delivering data‑backed brand strategy recommendations by email in minutes. It streamlines persona creation and positioning for small businesses, startups, and marketing teams.  That is the core of what Strategy-First AI does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Generate customer personas and unique selling propositions through an AI questionnaire, delivering data‑backed brand strategy recommendations by email in minutes. It streamlines persona creation and positioning for small businesses, startups, and marketing teams. That is the core of what Strategy-First AI does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Strategy-First AI free?
     a: Strategy-First AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Strategy-First AI?

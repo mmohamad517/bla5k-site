@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is WebsiteColorsAI?
-    a: WebsiteColorsAI is an AI tool that extracts hex color codes from websites, allowing users to effortlessly create visually appealing color schemes. Simply enter a URL, generate colors, and transform your website's aesthetic with ease. Coloring Free That is the core of what WebsiteColorsAI does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: WebsiteColorsAI is an AI tool that extracts hex color codes from websites, allowing users to effortlessly create visually appealing color schemes. Simply enter a URL, generate colors, and transform your website's aesthetic with ease. That is the core of what WebsiteColorsAI does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is WebsiteColorsAI free?
     a: Yes — WebsiteColorsAI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with WebsiteColorsAI?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like WebsiteColorsAI 
 
 ## What is WebsiteColorsAI?
 
-WebsiteColorsAI is an AI tool that extracts hex color codes from websites, allowing users to effortlessly create visually appealing color schemes. Simply enter a URL, generate colors, and transform your website's aesthetic with ease. Coloring Free
-
+WebsiteColorsAI is an AI tool that extracts hex color codes from websites, allowing users to effortlessly create visually appealing color schemes. Simply enter a URL, generate colors, and transform your website's aesthetic with ease.
 In short, WebsiteColorsAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. For many, that single strength of WebsiteColorsAI is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

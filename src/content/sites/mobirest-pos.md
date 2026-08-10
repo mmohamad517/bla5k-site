@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MobiRest POS?
-    a: Mobirest is a cloud-based POS system for the hospitality industry, offering features like sales tracking, inventory management, staff scheduling, and AI-driven price suggestions to streamline operations and enhance customer experiences. Business Free trial That is the core of what MobiRest POS does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Mobirest is a cloud-based POS system for the hospitality industry, offering features like sales tracking, inventory management, staff scheduling, and AI-driven price suggestions to streamline operations and enhance customer experiences. That is the core of what MobiRest POS does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MobiRest POS free?
     a: MobiRest POS uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with MobiRest POS?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is MobiRest POS?
 
-Mobirest is a cloud-based POS system for the hospitality industry, offering features like sales tracking, inventory management, staff scheduling, and AI-driven price suggestions to streamline operations and enhance customer experiences. Business Free trial
-
+Mobirest is a cloud-based POS system for the hospitality industry, offering features like sales tracking, inventory management, staff scheduling, and AI-driven price suggestions to streamline operations and enhance customer experiences.
 In short, MobiRest POS is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. That one capability of MobiRest POS frequently saves users from juggling several separate steps.
 
 ## Key features

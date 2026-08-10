@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Roojoom.com?
-    a: Roojoom offers AI‑powered customer journey orchestration that adapts in real time across web, mobile, and voice. It auto‑generates UX and journey logic, enabling marketers to set goals while AI selects high‑impact touchpoints, driving conversion, retention, and measurable KPIs. Marketing Free That is the core of what Roojoom.com does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Roojoom offers AI‑powered customer journey orchestration that adapts in real time across web, mobile, and voice. It auto‑generates UX and journey logic, enabling marketers to set goals while AI selects high‑impact touchpoints, driving conversion, retention, and measurable KPIs. That is the core of what Roojoom.com does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Roojoom.com free?
     a: Yes — Roojoom.com is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Roojoom.com?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Roojoom.com
 
 ## What is Roojoom.com?
 
-Roojoom offers AI‑powered customer journey orchestration that adapts in real time across web, mobile, and voice. It auto‑generates UX and journey logic, enabling marketers to set goals while AI selects high‑impact touchpoints, driving conversion, retention, and measurable KPIs. Marketing Free
-
+Roojoom offers AI‑powered customer journey orchestration that adapts in real time across web, mobile, and voice. It auto‑generates UX and journey logic, enabling marketers to set goals while AI selects high‑impact touchpoints, driving conversion, retention, and measurable KPIs.
 In short, Roojoom.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. Many users find that this one ability of Roojoom.com removes several tasks from their daily routine.
 
 ## Key features

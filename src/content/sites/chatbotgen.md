@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ChatbotGen?
-    a: ChatbotGen builds AI chatbots for WhatsApp, Telegram, websites, and direct links without coding. Users upload content or type responses, customize branding, and deploy with one click. It tracks queries, offers smart forms, real‑time analytics, and supports 95+ languages. Omnichannel chatbot Paid - $42 That is the core of what ChatbotGen does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ChatbotGen builds AI chatbots for WhatsApp, Telegram, websites, and direct links without coding. Users upload content or type responses, customize branding, and deploy with one click. It tracks queries, offers smart forms, real‑time analytics, and supports 95+ languages. That is the core of what ChatbotGen does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ChatbotGen free?
     a: ChatbotGen is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with ChatbotGen?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is ChatbotGen?
 
-ChatbotGen builds AI chatbots for WhatsApp, Telegram, websites, and direct links without coding. Users upload content or type responses, customize branding, and deploy with one click. It tracks queries, offers smart forms, real‑time analytics, and supports 95+ languages. Omnichannel chatbot Paid - $42
-
+ChatbotGen builds AI chatbots for WhatsApp, Telegram, websites, and direct links without coding. Users upload content or type responses, customize branding, and deploy with one click. It tracks queries, offers smart forms, real‑time analytics, and supports 95+ languages.
 In short, ChatbotGen is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For plenty of users, that one capability of ChatbotGen replaces several steps they used to do by hand.
 
 ## Key features

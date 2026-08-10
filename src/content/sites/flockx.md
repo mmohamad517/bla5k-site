@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Flockx?
-    a: FlockX enables businesses to create no-code AI agents for automating repetitive tasks, leveraging existing knowledge bases for accurate responses. With easy integration across multiple channels and over 50 workflow templates, it enhances operational efficiency and customer engagement.  That is the core of what Flockx does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: FlockX enables businesses to create no-code AI agents for automating repetitive tasks, leveraging existing knowledge bases for accurate responses. With easy integration across multiple channels and over 50 workflow templates, it enhances operational efficiency and customer engagement. That is the core of what Flockx does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Flockx free?
     a: Flockx is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Flockx?

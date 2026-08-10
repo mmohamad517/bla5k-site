@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is KoalaKonvo?
-    a: KoalaKonvo is a Telegram bot that assists users with JavaScript coding, offers web browsing summaries, image generation, and grammar correction, while supporting multiple conversation threads and tailored responses through model selection. Code assistant Freemium That is the core of what KoalaKonvo does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: KoalaKonvo is a Telegram bot that assists users with JavaScript coding, offers web browsing summaries, image generation, and grammar correction, while supporting multiple conversation threads and tailored responses through model selection. That is the core of what KoalaKonvo does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is KoalaKonvo free?
     a: KoalaKonvo uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with KoalaKonvo?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like KoalaKonvo 
 
 ## What is KoalaKonvo?
 
-KoalaKonvo is a Telegram bot that assists users with JavaScript coding, offers web browsing summaries, image generation, and grammar correction, while supporting multiple conversation threads and tailored responses through model selection. Code assistant Freemium
-
+KoalaKonvo is a Telegram bot that assists users with JavaScript coding, offers web browsing summaries, image generation, and grammar correction, while supporting multiple conversation threads and tailored responses through model selection.
 In short, KoalaKonvo is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many, that single strength of KoalaKonvo is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

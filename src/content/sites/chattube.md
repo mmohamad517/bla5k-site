@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ChatTube?
-    a: ChatTube lets users converse in real‑time with any YouTube video, asking questions, summarizing content, locating key moments, translating, and generating transcripts. It supports 45‑minute videos or 2‑hour podcasts, retains chat history, and works across Chromium browsers with a web fallback.  That is the core of what ChatTube does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ChatTube lets users converse in real‑time with any YouTube video, asking questions, summarizing content, locating key moments, translating, and generating transcripts. It supports 45‑minute videos or 2‑hour podcasts, retains chat history, and works across Chromium browsers with a web fallback. That is the core of what ChatTube does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ChatTube free?
     a: ChatTube is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with ChatTube?

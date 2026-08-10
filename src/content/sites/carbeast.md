@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CarBeast?
-    a: CarBeast uses AI to analyze vehicle symptoms, delivering instant diagnosis, cost estimates, and future maintenance forecasts. Drawing from millions of repair records, it enables owners, technicians, and fleets to plan repairs and reduce downtime. Automotive Paid - $7.99 That is the core of what CarBeast does — automotive ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CarBeast uses AI to analyze vehicle symptoms, delivering instant diagnosis, cost estimates, and future maintenance forecasts. Drawing from millions of repair records, it enables owners, technicians, and fleets to plan repairs and reduce downtime. That is the core of what CarBeast does — automotive ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CarBeast free?
     a: CarBeast is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with CarBeast?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is CarBeast?
 
-CarBeast uses AI to analyze vehicle symptoms, delivering instant diagnosis, cost estimates, and future maintenance forecasts. Drawing from millions of repair records, it enables owners, technicians, and fleets to plan repairs and reduce downtime. Automotive Paid - $7.99
-
+CarBeast uses AI to analyze vehicle symptoms, delivering instant diagnosis, cost estimates, and future maintenance forecasts. Drawing from millions of repair records, it enables owners, technicians, and fleets to plan repairs and reduce downtime.
 In short, CarBeast is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for automotive AI without the manual grind. For a lot of people, that one function of CarBeast collapses multiple steps into a single action.
 
 ## Key features

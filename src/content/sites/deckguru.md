@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is DeckGuru?
-    a: DeckGuru AI analyzes uploaded PDF pitch decks (≤20 MB, 20 pages) and offers quick, actionable feedback on structure, content, visuals, storytelling, and clarity, helping founders refine narratives for stronger investor presentations in a lightweight, fast process. Business Free That is the core of what DeckGuru does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: DeckGuru AI analyzes uploaded PDF pitch decks (≤20 MB, 20 pages) and offers quick, actionable feedback on structure, content, visuals, storytelling, and clarity, helping founders refine narratives for stronger investor presentations in a lightweight, fast process. That is the core of what DeckGuru does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is DeckGuru free?
     a: Yes — DeckGuru is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with DeckGuru?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like DeckGu
 
 ## What is DeckGuru?
 
-DeckGuru AI analyzes uploaded PDF pitch decks (≤20 MB, 20 pages) and offers quick, actionable feedback on structure, content, visuals, storytelling, and clarity, helping founders refine narratives for stronger investor presentations in a lightweight, fast process. Business Free
-
+DeckGuru AI analyzes uploaded PDF pitch decks (≤20 MB, 20 pages) and offers quick, actionable feedback on structure, content, visuals, storytelling, and clarity, helping founders refine narratives for stronger investor presentations in a lightweight, fast process.
 In short, DeckGuru is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. Many users find that this one ability of DeckGuru removes several tasks from their daily routine.
 
 ## Key features

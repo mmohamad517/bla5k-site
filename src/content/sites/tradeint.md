@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TradeInt?
-    a: TradeInt™ offers global trade data, shipment and bill‑of‑lading records for 200+ countries, enabling users to locate prospects, filter by HS codes, analyze trends, and monitor compliance and risk monitoring through interactive visualizations. Business Paid - $83.25/mo That is the core of what TradeInt does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: TradeInt™ offers global trade data, shipment and bill‑of‑lading records for 200+ countries, enabling users to locate prospects, filter by HS codes, analyze trends, and monitor compliance and risk monitoring through interactive visualizations. That is the core of what TradeInt does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TradeInt free?
     a: TradeInt is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with TradeInt?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is TradeInt?
 
-TradeInt™ offers global trade data, shipment and bill‑of‑lading records for 200+ countries, enabling users to locate prospects, filter by HS codes, analyze trends, and monitor compliance and risk monitoring through interactive visualizations. Business Paid - $83.25/mo
-
+TradeInt™ offers global trade data, shipment and bill‑of‑lading records for 200+ countries, enabling users to locate prospects, filter by HS codes, analyze trends, and monitor compliance and risk monitoring through interactive visualizations.
 In short, TradeInt is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. For a lot of people, that one function of TradeInt collapses multiple steps into a single action.
 
 ## Key features

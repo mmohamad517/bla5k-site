@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Live-Portrait.org?
-    a: Live Portrait converts a still image into an animated video by mapping facial motion from a driving video or audio source. It offers multiple styles, precise eye/lip control, motion transfer, and processes each frame in about 12.8 ms on an RTX 4090. Animation Generation Free - $7.9 That is the core of what Live-Portrait.org does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Live Portrait converts a still image into an animated video by mapping facial motion from a driving video or audio source. It offers multiple styles, precise eye/lip control, motion transfer, and processes each frame in about 12.8 ms on an RTX 4090. That is the core of what Live-Portrait.org does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Live-Portrait.org free?
     a: Live-Portrait.org uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Live-Portrait.org?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Live-Portra
 
 ## What is Live-Portrait.org?
 
-Live Portrait converts a still image into an animated video by mapping facial motion from a driving video or audio source. It offers multiple styles, precise eye/lip control, motion transfer, and processes each frame in about 12.8 ms on an RTX 4090. Animation Generation Free - $7.9
-
+Live Portrait converts a still image into an animated video by mapping facial motion from a driving video or audio source. It offers multiple styles, precise eye/lip control, motion transfer, and processes each frame in about 12.8 ms on an RTX 4090.
 In short, Live-Portrait.org is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. For plenty of users, that one capability of Live-Portrait.org replaces several steps they used to do by hand.
 
 ## Key features

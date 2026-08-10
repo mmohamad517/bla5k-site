@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Warden AI?
-    a: Warden AI is an auditing tool for HR tech platforms, focusing on bias assurance and compliance with AI regulations. It offers continuous auditing, transparent reporting, and leverages a dataset of 20,000 candidate profiles for effective risk mitigation.  That is the core of what Warden AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Warden AI is an auditing tool for HR tech platforms, focusing on bias assurance and compliance with AI regulations. It offers continuous auditing, transparent reporting, and leverages a dataset of 20,000 candidate profiles for effective risk mitigation. That is the core of what Warden AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Warden AI free?
     a: Warden AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Warden AI?

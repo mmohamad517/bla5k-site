@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Zora Learning?
-    a: Zora is an adaptive storytelling platform that generates personalized narratives for K‑12 and college readers, adjusting difficulty and vocabulary as users progress. It offers custom characters, themes, gamified rewards, and local storage for privacy.  That is the core of what Zora Learning does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Zora is an adaptive storytelling platform that generates personalized narratives for K‑12 and college readers, adjusting difficulty and vocabulary as users progress. It offers custom characters, themes, gamified rewards, and local storage for privacy. That is the core of what Zora Learning does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Zora Learning free?
     a: Yes — Zora Learning is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Zora Learning?

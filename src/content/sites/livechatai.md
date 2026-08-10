@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is LiveChatAI?
-    a: LiveChatAI uses GPT‑4o to transform a knowledge base into a chatbot that auto‑resolves ~70 % of tickets. It imports content from sites, PDFs, Notion, YouTube, Q&A, supports 95 languages, automates booking, payments, CRM updates, and integrates with WhatsApp, Shopify, WordPress, Slack. Customer support Freemium - $39/mo That is the core of what LiveChatAI does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: LiveChatAI uses GPT‑4o to transform a knowledge base into a chatbot that auto‑resolves ~70 % of tickets. It imports content from sites, PDFs, Notion, YouTube, Q&A, supports 95 languages, automates booking, payments, CRM updates, and integrates with WhatsApp, Shopify, WordPress, Slack. That is the core of what LiveChatAI does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is LiveChatAI free?
     a: LiveChatAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $39/mo, check the official website — pricing changes often.
   - q: What can you do with LiveChatAI?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is LiveChatAI?
 
-LiveChatAI uses GPT‑4o to transform a knowledge base into a chatbot that auto‑resolves ~70 % of tickets. It imports content from sites, PDFs, Notion, YouTube, Q&A, supports 95 languages, automates booking, payments, CRM updates, and integrates with WhatsApp, Shopify, WordPress, Slack. Customer support Freemium - $39/mo
-
+LiveChatAI uses GPT‑4o to transform a knowledge base into a chatbot that auto‑resolves ~70 % of tickets. It imports content from sites, PDFs, Notion, YouTube, Q&A, supports 95 languages, automates booking, payments, CRM updates, and integrates with WhatsApp, Shopify, WordPress, Slack.
 In short, LiveChatAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For many, that single strength of LiveChatAI is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

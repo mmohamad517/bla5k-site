@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Univw.AI?
-    a: Univw is a cloud‑based CRM for start‑ups and small businesses offering custom dashboards, call‑center metrics, AI‑driven agent coaching, automated QA, and script monitoring. It supports email, webhooks, Zapier, cloud telephony, and a workflow engine that aggregates data for analytics. Sales Free - $50/mo That is the core of what Univw.AI does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Univw is a cloud‑based CRM for start‑ups and small businesses offering custom dashboards, call‑center metrics, AI‑driven agent coaching, automated QA, and script monitoring. It supports email, webhooks, Zapier, cloud telephony, and a workflow engine that aggregates data for analytics. That is the core of what Univw.AI does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Univw.AI free?
     a: Univw.AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Univw.AI?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Univw.AI?
 
-Univw is a cloud‑based CRM for start‑ups and small businesses offering custom dashboards, call‑center metrics, AI‑driven agent coaching, automated QA, and script monitoring. It supports email, webhooks, Zapier, cloud telephony, and a workflow engine that aggregates data for analytics. Sales Free - $50/mo
-
+Univw is a cloud‑based CRM for start‑ups and small businesses offering custom dashboards, call‑center metrics, AI‑driven agent coaching, automated QA, and script monitoring. It supports email, webhooks, Zapier, cloud telephony, and a workflow engine that aggregates data for analytics.
 In short, Univw.AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. That one capability of Univw.AI frequently saves users from juggling several separate steps.
 
 ## Key features

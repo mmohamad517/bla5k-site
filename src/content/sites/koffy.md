@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Koffy?
-    a: Koffy delivers real‑time crypto news with daily AI summaries, sentiment analysis from social media, and a three‑year archive. Users customize keyword feeds, access audio podcasts, and embed feeds via API for investors, traders, media, and enterprises. Crypto and Web3 Subscription That is the core of what Koffy does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Koffy delivers real‑time crypto news with daily AI summaries, sentiment analysis from social media, and a three‑year archive. Users customize keyword feeds, access audio podcasts, and embed feeds via API for investors, traders, media, and enterprises. That is the core of what Koffy does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Koffy free?
     a: Koffy is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Koffy?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Koffy?
 
-Koffy delivers real‑time crypto news with daily AI summaries, sentiment analysis from social media, and a three‑year archive. Users customize keyword feeds, access audio podcasts, and embed feeds via API for investors, traders, media, and enterprises. Crypto and Web3 Subscription
-
+Koffy delivers real‑time crypto news with daily AI summaries, sentiment analysis from social media, and a three‑year archive. Users customize keyword feeds, access audio podcasts, and embed feeds via API for investors, traders, media, and enterprises.
 In short, Koffy is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. For a lot of people, that one function of Koffy collapses multiple steps into a single action.
 
 ## Key features

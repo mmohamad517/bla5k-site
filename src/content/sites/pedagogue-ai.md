@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Pedagogue AI?
-    a: Pedagogue offers UK schools a 70‑minute AI micro‑learning program covering fundamentals, classroom use, and responsible practice. It auto‑tracks progress, issues verifiable Passports, and supplies evidence packs for governors and inspectors to support safeguarding and audits.  That is the core of what Pedagogue AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Pedagogue offers UK schools a 70‑minute AI micro‑learning program covering fundamentals, classroom use, and responsible practice. It auto‑tracks progress, issues verifiable Passports, and supplies evidence packs for governors and inspectors to support safeguarding and audits. That is the core of what Pedagogue AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Pedagogue AI free?
     a: Pedagogue AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9.99/mo, check the official website — pricing changes often.
   - q: What can you do with Pedagogue AI?

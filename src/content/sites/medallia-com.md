@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Medallia?
-    a: medallia.com is an AI-powered experience management platform that captures omnichannel feedback and analyzes it to provide real-time insights. It enables teams to automate issue resolution, orchestrate personalized actions, and operationalize improvements across customer and employee journeys. Customer support Subscription That is the core of what Medallia does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: medallia.com is an AI-powered experience management platform that captures omnichannel feedback and analyzes it to provide real-time insights. It enables teams to automate issue resolution, orchestrate personalized actions, and operationalize improvements across customer and employee journeys. That is the core of what Medallia does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Medallia free?
     a: Medallia is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Medallia?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Medall
 
 ## What is Medallia?
 
-medallia.com is an AI-powered experience management platform that captures omnichannel feedback and analyzes it to provide real-time insights. It enables teams to automate issue resolution, orchestrate personalized actions, and operationalize improvements across customer and employee journeys. Customer support Subscription
-
+medallia.com is an AI-powered experience management platform that captures omnichannel feedback and analyzes it to provide real-time insights. It enables teams to automate issue resolution, orchestrate personalized actions, and operationalize improvements across customer and employee journeys.
 In short, Medallia is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. That one capability of Medallia frequently saves users from juggling several separate steps.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Heartfelt Services?
-    a: Heartfelt Services delivers AI‑driven therapeutic conversations. Users select from therapists using IFS, spiritual grounding, or mindfulness. Sessions start instantly, progress tracks, and evidence‑based suggestions are provided, all with end‑to‑end encryption and confidential storage. AI Assistant Paid That is the core of what Heartfelt Services does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Heartfelt Services delivers AI‑driven therapeutic conversations. Users select from therapists using IFS, spiritual grounding, or mindfulness. Sessions start instantly, progress tracks, and evidence‑based suggestions are provided, all with end‑to‑end encryption and confidential storage. That is the core of what Heartfelt Services does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Heartfelt Services free?
     a: Heartfelt Services is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Heartfelt Services?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Heartfelt S
 
 ## What is Heartfelt Services?
 
-Heartfelt Services delivers AI‑driven therapeutic conversations. Users select from therapists using IFS, spiritual grounding, or mindfulness. Sessions start instantly, progress tracks, and evidence‑based suggestions are provided, all with end‑to‑end encryption and confidential storage. AI Assistant Paid
-
+Heartfelt Services delivers AI‑driven therapeutic conversations. Users select from therapists using IFS, spiritual grounding, or mindfulness. Sessions start instantly, progress tracks, and evidence‑based suggestions are provided, all with end‑to‑end encryption and confidential storage.
 In short, Heartfelt Services is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one capability of Heartfelt Services frequently saves users from juggling several separate steps.
 
 ## Key features

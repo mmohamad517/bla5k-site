@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Chatbit?
-    a: Chatbit lets users train a custom GPT model on their website, PDFs, or knowledge bases without coding. The chatbot embeds via a single code line or link, captures contacts, stores chats, and supports multilingual use with platform integrations. Knowledge base management Freemium That is the core of what Chatbit does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Chatbit lets users train a custom GPT model on their website, PDFs, or knowledge bases without coding. The chatbot embeds via a single code line or link, captures contacts, stores chats, and supports multilingual use with platform integrations. That is the core of what Chatbit does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Chatbit free?
     a: Chatbit uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Chatbit?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Chatbi
 
 ## What is Chatbit?
 
-Chatbit lets users train a custom GPT model on their website, PDFs, or knowledge bases without coding. The chatbot embeds via a single code line or link, captures contacts, stores chats, and supports multilingual use with platform integrations. Knowledge base management Freemium
-
+Chatbit lets users train a custom GPT model on their website, PDFs, or knowledge bases without coding. The chatbot embeds via a single code line or link, captures contacts, stores chats, and supports multilingual use with platform integrations.
 In short, Chatbit is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many, that single strength of Chatbit is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

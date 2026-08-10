@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Little Author?
-    a: BlueGiraffeLabs delivers end‑to‑end mobile app development, designing architecture, databases, APIs, authentication, and AI prompt engineering. Using Flutter, it builds cross‑platform apps for developers, product teams, and research groups and scalable solutions. AI Assistant Freemium That is the core of what Little Author does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: BlueGiraffeLabs delivers end‑to‑end mobile app development, designing architecture, databases, APIs, authentication, and AI prompt engineering. Using Flutter, it builds cross‑platform apps for developers, product teams, and research groups and scalable solutions. That is the core of what Little Author does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Little Author free?
     a: Little Author uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Little Author?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Little Author?
 
-BlueGiraffeLabs delivers end‑to‑end mobile app development, designing architecture, databases, APIs, authentication, and AI prompt engineering. Using Flutter, it builds cross‑platform apps for developers, product teams, and research groups and scalable solutions. AI Assistant Freemium
-
+BlueGiraffeLabs delivers end‑to‑end mobile app development, designing architecture, databases, APIs, authentication, and AI prompt engineering. Using Flutter, it builds cross‑platform apps for developers, product teams, and research groups and scalable solutions.
 In short, Little Author is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of Little Author replaces several steps they used to do by hand.
 
 ## Key features

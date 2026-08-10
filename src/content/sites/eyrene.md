@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Eyrene?
-    a: Eyrene is an AI mobile platform that recognizes products, prices, promos, and planogram items in real time on Android and iOS without internet. It computes shelf metrics, offers a web portal, Power BI dashboards, and API integrations for scalable retail audits. AI Agents Freemium That is the core of what Eyrene does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Eyrene is an AI mobile platform that recognizes products, prices, promos, and planogram items in real time on Android and iOS without internet. It computes shelf metrics, offers a web portal, Power BI dashboards, and API integrations for scalable retail audits. That is the core of what Eyrene does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Eyrene free?
     a: Eyrene uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Eyrene?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Eyrene earn thei
 
 ## What is Eyrene?
 
-Eyrene is an AI mobile platform that recognizes products, prices, promos, and planogram items in real time on Android and iOS without internet. It computes shelf metrics, offers a web portal, Power BI dashboards, and API integrations for scalable retail audits. AI Agents Freemium
-
+Eyrene is an AI mobile platform that recognizes products, prices, promos, and planogram items in real time on Android and iOS without internet. It computes shelf metrics, offers a web portal, Power BI dashboards, and API integrations for scalable retail audits.
 In short, Eyrene is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users find that this one ability of Eyrene removes several tasks from their daily routine.
 
 ## Key features

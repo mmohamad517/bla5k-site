@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Prompt.fun?
-    a: Prompt.fun is a collaborative platform that connects users with expert prompt engineers, facilitating real-time feedback and file sharing to enhance the creation of effective AI prompts, suitable for all experience levels. Content creation Subscription That is the core of what Prompt.fun does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Prompt.fun is a collaborative platform that connects users with expert prompt engineers, facilitating real-time feedback and file sharing to enhance the creation of effective AI prompts, suitable for all experience levels. That is the core of what Prompt.fun does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Prompt.fun free?
     a: Prompt.fun is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Prompt.fun?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Prompt.fun?
 
-Prompt.fun is a collaborative platform that connects users with expert prompt engineers, facilitating real-time feedback and file sharing to enhance the creation of effective AI prompts, suitable for all experience levels. Content creation Subscription
-
+Prompt.fun is a collaborative platform that connects users with expert prompt engineers, facilitating real-time feedback and file sharing to enhance the creation of effective AI prompts, suitable for all experience levels.
 In short, Prompt.fun is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. That one capability of Prompt.fun frequently saves users from juggling several separate steps.
 
 ## Key features

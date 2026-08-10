@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SummaVerse?
-    a: SummaVerse converts PDFs and scanned documents into concise summaries—extractive, abstractive, bullet, key points, or chronological—within a click. Users set type, language, and length; chatbots answer document questions. Secure, browser‑based, aiding researchers, academics, and analysts. AI Assistant Free trial - $95.88/mo That is the core of what SummaVerse does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SummaVerse converts PDFs and scanned documents into concise summaries—extractive, abstractive, bullet, key points, or chronological—within a click. Users set type, language, and length; chatbots answer document questions. Secure, browser‑based, aiding researchers, academics, and analysts. That is the core of what SummaVerse does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SummaVerse free?
     a: SummaVerse uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $95.88/mo, check the official website — pricing changes often.
   - q: What can you do with SummaVerse?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like SummaVerse 
 
 ## What is SummaVerse?
 
-SummaVerse converts PDFs and scanned documents into concise summaries—extractive, abstractive, bullet, key points, or chronological—within a click. Users set type, language, and length; chatbots answer document questions. Secure, browser‑based, aiding researchers, academics, and analysts. AI Assistant Free trial - $95.88/mo
-
+SummaVerse converts PDFs and scanned documents into concise summaries—extractive, abstractive, bullet, key points, or chronological—within a click. Users set type, language, and length; chatbots answer document questions. Secure, browser‑based, aiding researchers, academics, and analysts.
 In short, SummaVerse is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of SummaVerse replaces several steps they used to do by hand.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Describy?
-    a: Describy is an AI‑powered interview tool that automatically gathers user feedback. It offers a standalone web page or lightweight widget for embedded interviews, supports mobile calls, automates question delivery, compiles concise summaries, and exports data securely. Coaching Subscription - $4 That is the core of what Describy does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Describy is an AI‑powered interview tool that automatically gathers user feedback. It offers a standalone web page or lightweight widget for embedded interviews, supports mobile calls, automates question delivery, compiles concise summaries, and exports data securely. That is the core of what Describy does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Describy free?
     a: Describy is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Describy?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Descri
 
 ## What is Describy?
 
-Describy is an AI‑powered interview tool that automatically gathers user feedback. It offers a standalone web page or lightweight widget for embedded interviews, supports mobile calls, automates question delivery, compiles concise summaries, and exports data securely. Coaching Subscription - $4
-
+Describy is an AI‑powered interview tool that automatically gathers user feedback. It offers a standalone web page or lightweight widget for embedded interviews, supports mobile calls, automates question delivery, compiles concise summaries, and exports data securely.
 In short, Describy is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. That one capability of Describy frequently saves users from juggling several separate steps.
 
 ## Key features

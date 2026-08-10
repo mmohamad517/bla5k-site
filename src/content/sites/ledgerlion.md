@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is LedgerLion?
-    a: LedgerLion auto‑categorizes transactions in real time, supports custom rules, and imports bank, card, and payment statements for automatic reconciliation. It generates Profit & Loss and Balance Sheet reports, offers chat insights, and alerts for unusual expenses through secure connections. Accounting assistant Subscription - $79/mo That is the core of what LedgerLion does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: LedgerLion auto‑categorizes transactions in real time, supports custom rules, and imports bank, card, and payment statements for automatic reconciliation. It generates Profit & Loss and Balance Sheet reports, offers chat insights, and alerts for unusual expenses through secure connections. That is the core of what LedgerLion does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is LedgerLion free?
     a: LedgerLion is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with LedgerLion?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is LedgerLion?
 
-LedgerLion auto‑categorizes transactions in real time, supports custom rules, and imports bank, card, and payment statements for automatic reconciliation. It generates Profit & Loss and Balance Sheet reports, offers chat insights, and alerts for unusual expenses through secure connections. Accounting assistant Subscription - $79/mo
-
+LedgerLion auto‑categorizes transactions in real time, supports custom rules, and imports bank, card, and payment statements for automatic reconciliation. It generates Profit & Loss and Balance Sheet reports, offers chat insights, and alerts for unusual expenses through secure connections.
 In short, LedgerLion is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users find that this one ability of LedgerLion removes several tasks from their daily routine.
 
 ## Key features

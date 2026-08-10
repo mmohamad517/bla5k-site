@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ideta.io?
-    a: Ideta lets users build and manage AI agents—chatbots, callbots, mailbots—without coding. Its no‑code builder, workflow automation, and integrations streamline support, community engagement, and outreach, enabling 24/7 operation with handover to humans. AI Agents Free That is the core of what ideta.io does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ideta lets users build and manage AI agents—chatbots, callbots, mailbots—without coding. Its no‑code builder, workflow automation, and integrations streamline support, community engagement, and outreach, enabling 24/7 operation with handover to humans. That is the core of what ideta.io does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ideta.io free?
     a: Yes — ideta.io is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with ideta.io?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is ideta.io?
 
-Ideta lets users build and manage AI agents—chatbots, callbots, mailbots—without coding. Its no‑code builder, workflow automation, and integrations streamline support, community engagement, and outreach, enabling 24/7 operation with handover to humans. AI Agents Free
-
+Ideta lets users build and manage AI agents—chatbots, callbots, mailbots—without coding. Its no‑code builder, workflow automation, and integrations streamline support, community engagement, and outreach, enabling 24/7 operation with handover to humans.
 In short, ideta.io is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users find that this one ability of ideta.io removes several tasks from their daily routine.
 
 ## Key features

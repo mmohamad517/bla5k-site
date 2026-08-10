@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Templify.ai?
-    a: Templify.ai is an AI-powered content generator that streamlines content creation by offering ready-to-use templates for unique and engaging content. Content Writing Free trial - $99/mo That is the core of what Templify.ai does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Templify.ai is an AI-powered content generator that streamlines content creation by offering ready-to-use templates for unique and engaging content. That is the core of what Templify.ai does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Templify.ai free?
     a: Templify.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $99/mo, check the official website — pricing changes often.
   - q: What can you do with Templify.ai?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Templify.ai
 
 ## What is Templify.ai?
 
-Templify.ai is an AI-powered content generator that streamlines content creation by offering ready-to-use templates for unique and engaging content. Content Writing Free trial - $99/mo
-
+Templify.ai is an AI-powered content generator that streamlines content creation by offering ready-to-use templates for unique and engaging content.
 In short, Templify.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For a lot of people, that one function of Templify.ai collapses multiple steps into a single action.
 
 ## Key features

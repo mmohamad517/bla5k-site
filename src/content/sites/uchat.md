@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Uchat?
-    a: UChat AI Agent creates no‑code chatbots for Web, WhatsApp, Messenger, Instagram, Telegram, and SMS via a drag‑and‑drop builder. It supports GPT, Claude, Gemini, and real‑time function calls, plus a unified CRM, analytics, and integrations with Shopify, HubSpot, Zapier, Stripe, and Calendly.  That is the core of what Uchat does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: UChat AI Agent creates no‑code chatbots for Web, WhatsApp, Messenger, Instagram, Telegram, and SMS via a drag‑and‑drop builder. It supports GPT, Claude, Gemini, and real‑time function calls, plus a unified CRM, analytics, and integrations with Shopify, HubSpot, Zapier, Stripe, and Calendly. That is the core of what Uchat does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Uchat free?
     a: Uchat uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Uchat?

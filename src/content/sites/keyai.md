@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Keyai?
-    a: KeyAI lets businesses deploy code‑free chatbots for real‑time support across websites, LiveChat, Messenger, and Slack. It automates routine queries, offers proactive outreach, e‑commerce upsell, multilingual capability, and tracks performance metrics to free staff for complex tasks.  That is the core of what Keyai does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: KeyAI lets businesses deploy code‑free chatbots for real‑time support across websites, LiveChat, Messenger, and Slack. It automates routine queries, offers proactive outreach, e‑commerce upsell, multilingual capability, and tracks performance metrics to free staff for complex tasks. That is the core of what Keyai does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Keyai free?
     a: Keyai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $13/mo, check the official website — pricing changes often.
   - q: What can you do with Keyai?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Tasklet.ai?
-    a: Tasklet.ai is a workflow automation tool that uses webhooks to capture external events like email opens and calendar bookings, then triggers automated research and personalized follow-up actions. It automates lead sourcing, CRM enrichment, and sales qualification by integrating with platforms like Slack, HubSpot, and LinkedIn to streamline outreach and operations.  That is the core of what Tasklet.ai does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Tasklet.ai is a workflow automation tool that uses webhooks to capture external events like email opens and calendar bookings, then triggers automated research and personalized follow-up actions. It automates lead sourcing, CRM enrichment, and sales qualification by integrating with platforms like Slack, HubSpot, and LinkedIn to streamline outreach and operations. That is the core of what Tasklet.ai does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Tasklet.ai free?
     a: Tasklet.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $25/mo, check the official website — pricing changes often.
   - q: What can you do with Tasklet.ai?

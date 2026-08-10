@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Quark?
-    a: Quark Publishing Platform is an enterprise content lifecycle management system for structured, componentized authoring and automated document assembly, offering XML CCMS, version control, approval workflows, AI-assisted unstructured-to-structured conversion, LLM integrations, APIs, omnichannel publishing and localization. Business Free trial That is the core of what Quark does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Quark Publishing Platform is an enterprise content lifecycle management system for structured, componentized authoring and automated document assembly, offering XML CCMS, version control, approval workflows, AI-assisted unstructured-to-structured conversion, LLM integrations, APIs, omnichannel publishing and localization. That is the core of what Quark does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Quark free?
     a: Quark uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Quark?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Quark?
 
-Quark Publishing Platform is an enterprise content lifecycle management system for structured, componentized authoring and automated document assembly, offering XML CCMS, version control, approval workflows, AI-assisted unstructured-to-structured conversion, LLM integrations, APIs, omnichannel publishing and localization. Business Free trial
-
+Quark Publishing Platform is an enterprise content lifecycle management system for structured, componentized authoring and automated document assembly, offering XML CCMS, version control, approval workflows, AI-assisted unstructured-to-structured conversion, LLM integrations, APIs, omnichannel publishing and localization.
 In short, Quark is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. For many, that single strength of Quark is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Lanceboard?
-    a: Lanceboard is a freelance platform that simplifies task assignment and management, featuring AI-driven talent matching, secure payments, and collaborative project tools to enhance productivity for clients and freelancers in the gig economy. Project management Free That is the core of what Lanceboard does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Lanceboard is a freelance platform that simplifies task assignment and management, featuring AI-driven talent matching, secure payments, and collaborative project tools to enhance productivity for clients and freelancers in the gig economy. That is the core of what Lanceboard does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Lanceboard free?
     a: Yes — Lanceboard is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Lanceboard?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Lanceboard 
 
 ## What is Lanceboard?
 
-Lanceboard is a freelance platform that simplifies task assignment and management, featuring AI-driven talent matching, secure payments, and collaborative project tools to enhance productivity for clients and freelancers in the gig economy. Project management Free
-
+Lanceboard is a freelance platform that simplifies task assignment and management, featuring AI-driven talent matching, secure payments, and collaborative project tools to enhance productivity for clients and freelancers in the gig economy.
 In short, Lanceboard is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. Many users discover that this feature of Lanceboard alone covers what previously took multiple tools.
 
 ## Key features

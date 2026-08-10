@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Graphia ai?
-    a: Graphia AI is a versatile platform for generating text, images, and voice content using advanced AI models. It simplifies content creation for blogs, articles, and visuals, catering to diverse needs across various industries and regions. Content creation Freemium - $15/mo That is the core of what Graphia ai does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Graphia AI is a versatile platform for generating text, images, and voice content using advanced AI models. It simplifies content creation for blogs, articles, and visuals, catering to diverse needs across various industries and regions. That is the core of what Graphia ai does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Graphia ai free?
     a: Graphia ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $15/mo, check the official website — pricing changes often.
   - q: What can you do with Graphia ai?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Graphia ai 
 
 ## What is Graphia ai?
 
-Graphia AI is a versatile platform for generating text, images, and voice content using advanced AI models. It simplifies content creation for blogs, articles, and visuals, catering to diverse needs across various industries and regions. Content creation Freemium - $15/mo
-
+Graphia AI is a versatile platform for generating text, images, and voice content using advanced AI models. It simplifies content creation for blogs, articles, and visuals, catering to diverse needs across various industries and regions.
 In short, Graphia ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For many, that single strength of Graphia ai is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

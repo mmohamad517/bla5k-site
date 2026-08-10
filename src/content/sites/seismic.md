@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Seismic?
-    a: Seismic Platform centralizes content, playbooks, and digital rooms, delivering real‑time buyer insights and AI recommendations. It adds coaching modules and meeting intelligence to streamline workflows, cut manual effort, and maintain compliance for sales, marketing, and revenue teams.  That is the core of what Seismic does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Seismic Platform centralizes content, playbooks, and digital rooms, delivering real‑time buyer insights and AI recommendations. It adds coaching modules and meeting intelligence to streamline workflows, cut manual effort, and maintain compliance for sales, marketing, and revenue teams. That is the core of what Seismic does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Seismic free?
     a: Seismic is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Seismic?

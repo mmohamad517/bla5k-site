@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Trring Me?
-    a: WhatsApp Business Solution is an omnichannel platform that enhances customer engagement with customizable chatbots, bulk messaging, a shared inbox, and live chat integration, while also enabling contact segmentation and automated marketing campaigns for improved operational efficiency.  That is the core of what Trring Me does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: WhatsApp Business Solution is an omnichannel platform that enhances customer engagement with customizable chatbots, bulk messaging, a shared inbox, and live chat integration, while also enabling contact segmentation and automated marketing campaigns for improved operational efficiency. That is the core of what Trring Me does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Trring Me free?
     a: Trring Me uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Trring Me?

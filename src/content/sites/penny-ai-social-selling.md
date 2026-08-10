@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Penny AI - Social selling?
-    a: Penny AI is an AI platform for social selling that offers daily action tasks, custom sales scripts, and learning modules. It facilitates contact management, automated customer care, prospecting, and data integration to enhance sales growth and customer retention. Sales Free trial That is the core of what Penny AI - Social selling does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Penny AI is an AI platform for social selling that offers daily action tasks, custom sales scripts, and learning modules. It facilitates contact management, automated customer care, prospecting, and data integration to enhance sales growth and customer retention. That is the core of what Penny AI - Social selling does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Penny AI - Social selling free?
     a: Penny AI - Social selling uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Penny AI - Social selling?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Penny AI - Social selling?
 
-Penny AI is an AI platform for social selling that offers daily action tasks, custom sales scripts, and learning modules. It facilitates contact management, automated customer care, prospecting, and data integration to enhance sales growth and customer retention. Sales Free trial
-
+Penny AI is an AI platform for social selling that offers daily action tasks, custom sales scripts, and learning modules. It facilitates contact management, automated customer care, prospecting, and data integration to enhance sales growth and customer retention.
 In short, Penny AI - Social selling is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. That one capability of Penny AI - Social selling frequently saves users from juggling several separate steps.
 
 ## Key features

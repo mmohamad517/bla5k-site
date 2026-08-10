@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is JournoPitch?
-    a: Journopitch is an AI-driven platform that helps users create and scale professional pitch templates for journalists, enhancing media coverage opportunities and building credibility for content creators, PR agencies, and experts with limited marketing budgets.  That is the core of what JournoPitch does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Journopitch is an AI-driven platform that helps users create and scale professional pitch templates for journalists, enhancing media coverage opportunities and building credibility for content creators, PR agencies, and experts with limited marketing budgets. That is the core of what JournoPitch does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is JournoPitch free?
     a: JournoPitch is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with JournoPitch?

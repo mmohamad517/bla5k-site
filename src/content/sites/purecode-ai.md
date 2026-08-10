@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PureCode AI?
-    a: PureCode AI assists enterprise teams in managing legacy codebases with features like automated refactoring, bug fixing, and UI generation. Its multi-solution context and compliance focus enhance collaboration and optimize .NET, Java, and C++ applications.  That is the core of what PureCode AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: PureCode AI assists enterprise teams in managing legacy codebases with features like automated refactoring, bug fixing, and UI generation. Its multi-solution context and compliance focus enhance collaboration and optimize .NET, Java, and C++ applications. That is the core of what PureCode AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is PureCode AI free?
     a: PureCode AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $20, check the official website — pricing changes often.
   - q: What can you do with PureCode AI?

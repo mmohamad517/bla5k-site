@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Idscan.net?
-    a: IDScan.net offers an AI‑driven identity verification platform that scans passports, driver’s licenses, and mobile IDs using UV/IR imaging and deep‑fake detection. It supports real‑time data capture, KYC/AML compliance, and APIs for integration across banking, retail, and logistics. AI Agents Free That is the core of what Idscan.net does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: IDScan.net offers an AI‑driven identity verification platform that scans passports, driver’s licenses, and mobile IDs using UV/IR imaging and deep‑fake detection. It supports real‑time data capture, KYC/AML compliance, and APIs for integration across banking, retail, and logistics. That is the core of what Idscan.net does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Idscan.net free?
     a: Yes — Idscan.net is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Idscan.net?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Idscan.net?
 
-IDScan.net offers an AI‑driven identity verification platform that scans passports, driver’s licenses, and mobile IDs using UV/IR imaging and deep‑fake detection. It supports real‑time data capture, KYC/AML compliance, and APIs for integration across banking, retail, and logistics. AI Agents Free
-
+IDScan.net offers an AI‑driven identity verification platform that scans passports, driver’s licenses, and mobile IDs using UV/IR imaging and deep‑fake detection. It supports real‑time data capture, KYC/AML compliance, and APIs for integration across banking, retail, and logistics.
 In short, Idscan.net is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That one feature of Idscan.net often eliminates several smaller steps from the usual workflow.
 
 ## Key features

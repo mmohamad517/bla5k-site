@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CopyNinja?
-    a: CopyNinja, powered by ChatGPT and GPT-3.5, is an AI SEO copywriting tool that simplifies multilingual content creation while boosting SEO performance, streamlining workflows, and ensuring writing consistency.  That is the core of what CopyNinja does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CopyNinja, powered by ChatGPT and GPT-3.5, is an AI SEO copywriting tool that simplifies multilingual content creation while boosting SEO performance, streamlining workflows, and ensuring writing consistency. That is the core of what CopyNinja does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CopyNinja free?
     a: CopyNinja uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with CopyNinja?

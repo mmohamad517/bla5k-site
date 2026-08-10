@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Target Client AI?
-    a: Target Client AI streamlines audience analysis, providing actionable customer insights and detailed reports in under five minutes. It helps users identify ideal customers and creates effective marketing strategies, all through an intuitive and easy-to-use interface. Marketing Free That is the core of what Target Client AI does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Target Client AI streamlines audience analysis, providing actionable customer insights and detailed reports in under five minutes. It helps users identify ideal customers and creates effective marketing strategies, all through an intuitive and easy-to-use interface. That is the core of what Target Client AI does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Target Client AI free?
     a: Yes — Target Client AI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Target Client AI?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Target Client AI?
 
-Target Client AI streamlines audience analysis, providing actionable customer insights and detailed reports in under five minutes. It helps users identify ideal customers and creates effective marketing strategies, all through an intuitive and easy-to-use interface. Marketing Free
-
+Target Client AI streamlines audience analysis, providing actionable customer insights and detailed reports in under five minutes. It helps users identify ideal customers and creates effective marketing strategies, all through an intuitive and easy-to-use interface.
 In short, Target Client AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. Many users find that this one ability of Target Client AI removes several tasks from their daily routine.
 
 ## Key features

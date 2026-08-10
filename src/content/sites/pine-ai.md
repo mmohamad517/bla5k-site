@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Pine AI?
-    a: Pine AI is an intelligent assistant that automates customer service tasks like bill negotiation, subscription cancellations, and complaint resolution with minimal user input. It securely handles communications, provides summaries, and processes refunds or fee waivers while prioritizing data privacy.  That is the core of what Pine AI does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Pine AI is an intelligent assistant that automates customer service tasks like bill negotiation, subscription cancellations, and complaint resolution with minimal user input. It securely handles communications, provides summaries, and processes refunds or fee waivers while prioritizing data privacy. That is the core of what Pine AI does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Pine AI free?
     a: Pine AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Pine AI?

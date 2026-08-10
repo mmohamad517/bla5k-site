@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SymbiotAI?
-    a: Symbiot AI is a versatile platform utilizing a chat interface for streamlined AI model interactions. It simplifies workflows by consolidating resources, enables smooth collaboration, context setting, and offers monetization opportunities within a nurturing community.  That is the core of what SymbiotAI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Symbiot AI is a versatile platform utilizing a chat interface for streamlined AI model interactions. It simplifies workflows by consolidating resources, enables smooth collaboration, context setting, and offers monetization opportunities within a nurturing community. That is the core of what SymbiotAI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SymbiotAI free?
     a: SymbiotAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with SymbiotAI?

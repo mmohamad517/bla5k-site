@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Sandra AI?
-    a: Sandra AI automates call routing, SMS/WhatsApp, and chatbot interactions for automotive dealerships. Integrated with DMS/CRM and 50+ tools, it enables 24/7 inbound coverage, appointment booking, campaign building, real‑time KPI dashboards, and rapid onboarding. Customer support Freemium That is the core of what Sandra AI does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Sandra AI automates call routing, SMS/WhatsApp, and chatbot interactions for automotive dealerships. Integrated with DMS/CRM and 50+ tools, it enables 24/7 inbound coverage, appointment booking, campaign building, real‑time KPI dashboards, and rapid onboarding. That is the core of what Sandra AI does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Sandra AI free?
     a: Sandra AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Sandra AI?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Sandra AI?
 
-Sandra AI automates call routing, SMS/WhatsApp, and chatbot interactions for automotive dealerships. Integrated with DMS/CRM and 50+ tools, it enables 24/7 inbound coverage, appointment booking, campaign building, real‑time KPI dashboards, and rapid onboarding. Customer support Freemium
-
+Sandra AI automates call routing, SMS/WhatsApp, and chatbot interactions for automotive dealerships. Integrated with DMS/CRM and 50+ tools, it enables 24/7 inbound coverage, appointment booking, campaign building, real‑time KPI dashboards, and rapid onboarding.
 In short, Sandra AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For many, that single strength of Sandra AI is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

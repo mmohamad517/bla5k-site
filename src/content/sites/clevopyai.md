@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ClevopyAi?
-    a: ClevopyAI generates blog posts, ad copy, social media content, product descriptions, and video topics using customizable templates. It offers a text‑to‑image engine, sentence expander, grammar correction, PDF/Google Drive export, multilingual support, auto‑save, and collaboration features. Content creation Freemium That is the core of what ClevopyAi does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ClevopyAI generates blog posts, ad copy, social media content, product descriptions, and video topics using customizable templates. It offers a text‑to‑image engine, sentence expander, grammar correction, PDF/Google Drive export, multilingual support, auto‑save, and collaboration features. That is the core of what ClevopyAi does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ClevopyAi free?
     a: ClevopyAi uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ClevopyAi?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is ClevopyAi?
 
-ClevopyAI generates blog posts, ad copy, social media content, product descriptions, and video topics using customizable templates. It offers a text‑to‑image engine, sentence expander, grammar correction, PDF/Google Drive export, multilingual support, auto‑save, and collaboration features. Content creation Freemium
-
+ClevopyAI generates blog posts, ad copy, social media content, product descriptions, and video topics using customizable templates. It offers a text‑to‑image engine, sentence expander, grammar correction, PDF/Google Drive export, multilingual support, auto‑save, and collaboration features.
 In short, ClevopyAi is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. That one capability of ClevopyAi frequently saves users from juggling several separate steps.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SRC?
-    a: Shared Recruiting Co. is an open‑source platform that streamlines candidate‑company communication, offering opt‑in messaging, inbox control, targeted outreach, engagement tracking, and ATS integration for customizable recruitment workflows. Human resources Free That is the core of what SRC does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Shared Recruiting Co. is an open‑source platform that streamlines candidate‑company communication, offering opt‑in messaging, inbox control, targeted outreach, engagement tracking, and ATS integration for customizable recruitment workflows. That is the core of what SRC does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SRC free?
     a: Yes — SRC is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with SRC?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is SRC?
 
-Shared Recruiting Co. is an open‑source platform that streamlines candidate‑company communication, offering opt‑in messaging, inbox control, targeted outreach, engagement tracking, and ATS integration for customizable recruitment workflows. Human resources Free
-
+Shared Recruiting Co. is an open‑source platform that streamlines candidate‑company communication, offering opt‑in messaging, inbox control, targeted outreach, engagement tracking, and ATS integration for customizable recruitment workflows.
 In short, SRC is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. For many, that single strength of SRC is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

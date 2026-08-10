@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is HitPaw AI Avatar?
-    a: HitPaw AI Avatar enables quick creation of realistic talking avatars with lip sync, 400+ voices, 40+ languages, and voice cloning. Users select a meta‑human template and script; the platform outputs polished videos without editing skill.  That is the core of what HitPaw AI Avatar does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: HitPaw AI Avatar enables quick creation of realistic talking avatars with lip sync, 400+ voices, 40+ languages, and voice cloning. Users select a meta‑human template and script; the platform outputs polished videos without editing skill. That is the core of what HitPaw AI Avatar does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is HitPaw AI Avatar free?
     a: HitPaw AI Avatar uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with HitPaw AI Avatar?

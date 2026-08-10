@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is inBuild?
-    a: inBuild automates construction billing and financial workflows for contractors, subcontractors, and accounting teams, centralizing invoices and payables, syncing with QuickBooks/Procore, reducing manual entry and errors, enabling project-level cost visibility, approvals, and audit-ready records. Accounting assistant Freemium That is the core of what inBuild does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: inBuild automates construction billing and financial workflows for contractors, subcontractors, and accounting teams, centralizing invoices and payables, syncing with QuickBooks/Procore, reducing manual entry and errors, enabling project-level cost visibility, approvals, and audit-ready records. That is the core of what inBuild does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is inBuild free?
     a: inBuild uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with inBuild?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like inBuild ear
 
 ## What is inBuild?
 
-inBuild automates construction billing and financial workflows for contractors, subcontractors, and accounting teams, centralizing invoices and payables, syncing with QuickBooks/Procore, reducing manual entry and errors, enabling project-level cost visibility, approvals, and audit-ready records. Accounting assistant Freemium
-
+inBuild automates construction billing and financial workflows for contractors, subcontractors, and accounting teams, centralizing invoices and payables, syncing with QuickBooks/Procore, reducing manual entry and errors, enabling project-level cost visibility, approvals, and audit-ready records.
 In short, inBuild is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one feature of inBuild often eliminates several smaller steps from the usual workflow.
 
 ## Key features

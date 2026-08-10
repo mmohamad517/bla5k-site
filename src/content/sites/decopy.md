@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Decopy?
-    a: Decopy is a free AI content detection tool with 99% accuracy, capable of identifying AI-generated text, providing detailed reports, and enhancing text quality. It supports multiple languages and is user-friendly and versatile.  That is the core of what Decopy does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Decopy is a free AI content detection tool with 99% accuracy, capable of identifying AI-generated text, providing detailed reports, and enhancing text quality. It supports multiple languages and is user-friendly and versatile. That is the core of what Decopy does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Decopy free?
     a: Yes — Decopy is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Decopy?

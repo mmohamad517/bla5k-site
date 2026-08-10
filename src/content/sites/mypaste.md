@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MyPaste?
-    a: mypaste is an AI-powered code pasting tool for Github users. Upload pastes seamlessly from your terminal with CLI convenience. Customize expiration policies and programming languages for flexible and efficient workflow. Code assistant Freemium That is the core of what MyPaste does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: mypaste is an AI-powered code pasting tool for Github users. Upload pastes seamlessly from your terminal with CLI convenience. Customize expiration policies and programming languages for flexible and efficient workflow. That is the core of what MyPaste does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MyPaste free?
     a: MyPaste uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with MyPaste?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is MyPaste?
 
-mypaste is an AI-powered code pasting tool for Github users. Upload pastes seamlessly from your terminal with CLI convenience. Customize expiration policies and programming languages for flexible and efficient workflow. Code assistant Freemium
-
+mypaste is an AI-powered code pasting tool for Github users. Upload pastes seamlessly from your terminal with CLI convenience. Customize expiration policies and programming languages for flexible and efficient workflow.
 In short, MyPaste is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of MyPaste replaces several steps they used to do by hand.
 
 ## Key features

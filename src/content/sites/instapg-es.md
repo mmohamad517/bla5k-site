@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is instapg.es?
-    a: Instapage builds conversion-optimized, mobile-responsive landing pages for social ads using a drag-and-drop editor and templates, with personalization, Global Blocks, lead forms, A/B testing, AdMap ad-to-page mapping, AMP support and integrations for measurement. Marketing Free - $79/mo That is the core of what instapg.es does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Instapage builds conversion-optimized, mobile-responsive landing pages for social ads using a drag-and-drop editor and templates, with personalization, Global Blocks, lead forms, A/B testing, AdMap ad-to-page mapping, AMP support and integrations for measurement. That is the core of what instapg.es does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is instapg.es free?
     a: instapg.es uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with instapg.es?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like instapg.es earn 
 
 ## What is instapg.es?
 
-Instapage builds conversion-optimized, mobile-responsive landing pages for social ads using a drag-and-drop editor and templates, with personalization, Global Blocks, lead forms, A/B testing, AdMap ad-to-page mapping, AMP support and integrations for measurement. Marketing Free - $79/mo
-
+Instapage builds conversion-optimized, mobile-responsive landing pages for social ads using a drag-and-drop editor and templates, with personalization, Global Blocks, lead forms, A/B testing, AdMap ad-to-page mapping, AMP support and integrations for measurement.
 In short, instapg.es is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. Many users discover that this feature of instapg.es alone covers what previously took multiple tools.
 
 ## Key features

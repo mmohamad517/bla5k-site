@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Producks AI?
-    a: Producks.ai automatically generates SEO‑optimized product titles and descriptions from product photos, extracting key visual attributes and assembling keyword‑rich copy. It integrates with WooCommerce, Shopify and webhooks, enabling bulk catalog updates and improved search visibility. Content creation Paid - $1/mo That is the core of what Producks AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Producks.ai automatically generates SEO‑optimized product titles and descriptions from product photos, extracting key visual attributes and assembling keyword‑rich copy. It integrates with WooCommerce, Shopify and webhooks, enabling bulk catalog updates and improved search visibility. That is the core of what Producks AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Producks AI free?
     a: Producks AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Producks AI?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Producks AI?
 
-Producks.ai automatically generates SEO‑optimized product titles and descriptions from product photos, extracting key visual attributes and assembling keyword‑rich copy. It integrates with WooCommerce, Shopify and webhooks, enabling bulk catalog updates and improved search visibility. Content creation Paid - $1/mo
-
+Producks.ai automatically generates SEO‑optimized product titles and descriptions from product photos, extracting key visual attributes and assembling keyword‑rich copy. It integrates with WooCommerce, Shopify and webhooks, enabling bulk catalog updates and improved search visibility.
 In short, Producks AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For many, that single strength of Producks AI is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

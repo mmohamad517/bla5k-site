@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Nana Banana Pro?
-    a: Nana Banana Pro uses multimodal AI to edit and generate consistent character images across poses, scenes, and styles, offering style transfer, high resolution export, batch generation, photo restoration, clothes changes and anime-to-cosplay conversion for fast asset production. Character Design Free - $6.21 That is the core of what Nana Banana Pro does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Nana Banana Pro uses multimodal AI to edit and generate consistent character images across poses, scenes, and styles, offering style transfer, high resolution export, batch generation, photo restoration, clothes changes and anime-to-cosplay conversion for fast asset production. That is the core of what Nana Banana Pro does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Nana Banana Pro free?
     a: Nana Banana Pro uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Nana Banana Pro?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Nana B
 
 ## What is Nana Banana Pro?
 
-Nana Banana Pro uses multimodal AI to edit and generate consistent character images across poses, scenes, and styles, offering style transfer, high resolution export, batch generation, photo restoration, clothes changes and anime-to-cosplay conversion for fast asset production. Character Design Free - $6.21
-
+Nana Banana Pro uses multimodal AI to edit and generate consistent character images across poses, scenes, and styles, offering style transfer, high resolution export, batch generation, photo restoration, clothes changes and anime-to-cosplay conversion for fast asset production.
 In short, Nana Banana Pro is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. That one capability of Nana Banana Pro frequently saves users from juggling several separate steps.
 
 ## Key features

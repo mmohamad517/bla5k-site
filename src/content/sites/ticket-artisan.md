@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ticket Artisan?
-    a: Ticket Artisan simplifies the conversion of designs into development tickets. Upload design screenshots to generate development tasks, split files, and create user stories. Efficiently translate visual concepts into actionable tasks. Project management Freemium That is the core of what Ticket Artisan does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ticket Artisan simplifies the conversion of designs into development tickets. Upload design screenshots to generate development tasks, split files, and create user stories. Efficiently translate visual concepts into actionable tasks. That is the core of what Ticket Artisan does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ticket Artisan free?
     a: Ticket Artisan uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Ticket Artisan?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Ticket Artisan?
 
-Ticket Artisan simplifies the conversion of designs into development tickets. Upload design screenshots to generate development tasks, split files, and create user stories. Efficiently translate visual concepts into actionable tasks. Project management Freemium
-
+Ticket Artisan simplifies the conversion of designs into development tickets. Upload design screenshots to generate development tasks, split files, and create user stories. Efficiently translate visual concepts into actionable tasks.
 In short, Ticket Artisan is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many, that single strength of Ticket Artisan is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

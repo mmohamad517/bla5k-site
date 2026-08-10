@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is HybridAI?
-    a: HybridAI enables users to create intelligent chatbots and virtual agents with emotional awareness for various business objectives. It features API integration, automated workflows, and real-time human takeover, enhancing customer engagement across multiple sectors while ensuring data sovereignty. AI Agents Free trial That is the core of what HybridAI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: HybridAI enables users to create intelligent chatbots and virtual agents with emotional awareness for various business objectives. It features API integration, automated workflows, and real-time human takeover, enhancing customer engagement across multiple sectors while ensuring data sovereignty. That is the core of what HybridAI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is HybridAI free?
     a: HybridAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with HybridAI?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is HybridAI?
 
-HybridAI enables users to create intelligent chatbots and virtual agents with emotional awareness for various business objectives. It features API integration, automated workflows, and real-time human takeover, enhancing customer engagement across multiple sectors while ensuring data sovereignty. AI Agents Free trial
-
+HybridAI enables users to create intelligent chatbots and virtual agents with emotional awareness for various business objectives. It features API integration, automated workflows, and real-time human takeover, enhancing customer engagement across multiple sectors while ensuring data sovereignty.
 In short, HybridAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That single feature of HybridAI alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

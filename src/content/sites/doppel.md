@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Doppel?
-    a: Doppel - Chat Era is an app with AI personas of famous personalities from various fields for engaging in stimulating conversations and learning about their perspectives on current world issues. Personal Chatbot Free That is the core of what Doppel does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Doppel - Chat Era is an app with AI personas of famous personalities from various fields for engaging in stimulating conversations and learning about their perspectives on current world issues. That is the core of what Doppel does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Doppel free?
     a: Yes — Doppel is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Doppel?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Doppel?
 
-Doppel - Chat Era is an app with AI personas of famous personalities from various fields for engaging in stimulating conversations and learning about their perspectives on current world issues. Personal Chatbot Free
-
+Doppel - Chat Era is an app with AI personas of famous personalities from various fields for engaging in stimulating conversations and learning about their perspectives on current world issues.
 In short, Doppel is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. Many users discover that this feature of Doppel alone covers what previously took multiple tools.
 
 ## Key features

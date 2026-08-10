@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is a0.dev?
-    a: a0.dev is an AI-driven platform for developing mobile applications for iOS and Android. It features a user-friendly interface, real-time collaboration, customizable templates, and a quick build process, enhancing productivity for developers and entrepreneurs. App Builder Subscription That is the core of what a0.dev does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: a0.dev is an AI-driven platform for developing mobile applications for iOS and Android. It features a user-friendly interface, real-time collaboration, customizable templates, and a quick build process, enhancing productivity for developers and entrepreneurs. That is the core of what a0.dev does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is a0.dev free?
     a: a0.dev is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with a0.dev?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is a0.dev?
 
-a0.dev is an AI-driven platform for developing mobile applications for iOS and Android. It features a user-friendly interface, real-time collaboration, customizable templates, and a quick build process, enhancing productivity for developers and entrepreneurs. App Builder Subscription
-
+a0.dev is an AI-driven platform for developing mobile applications for iOS and Android. It features a user-friendly interface, real-time collaboration, customizable templates, and a quick build process, enhancing productivity for developers and entrepreneurs.
 In short, a0.dev is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. Many users find that this one ability of a0.dev removes several tasks from their daily routine.
 
 ## Key features

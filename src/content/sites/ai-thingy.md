@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Thingy?
-    a: AI Thingy is an AI‑driven content generator that creates ads, blogs, emails, and social posts in seconds, automatically inserting SEO keywords. It offers customizable templates, tone options, image creation, output history, and Slack, Chrome, and Figma integrations. Copywriting Paid That is the core of what AI Thingy does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Thingy is an AI‑driven content generator that creates ads, blogs, emails, and social posts in seconds, automatically inserting SEO keywords. It offers customizable templates, tone options, image creation, output history, and Slack, Chrome, and Figma integrations. That is the core of what AI Thingy does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI Thingy free?
     a: AI Thingy is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with AI Thingy?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like AI Thingy e
 
 ## What is AI Thingy?
 
-AI Thingy is an AI‑driven content generator that creates ads, blogs, emails, and social posts in seconds, automatically inserting SEO keywords. It offers customizable templates, tone options, image creation, output history, and Slack, Chrome, and Figma integrations. Copywriting Paid
-
+AI Thingy is an AI‑driven content generator that creates ads, blogs, emails, and social posts in seconds, automatically inserting SEO keywords. It offers customizable templates, tone options, image creation, output history, and Slack, Chrome, and Figma integrations.
 In short, AI Thingy is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. That one feature of AI Thingy often eliminates several smaller steps from the usual workflow.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PictoDream?
-    a: PictoDream.com aggregates AI tools by industry, offering quick access to generators for business plans, resumes, marketing copy, social media posts, and creative content. It streamlines workflows for professionals, students, and creators, enabling efficient, consistent output.  That is the core of what PictoDream does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: PictoDream.com aggregates AI tools by industry, offering quick access to generators for business plans, resumes, marketing copy, social media posts, and creative content. It streamlines workflows for professionals, students, and creators, enabling efficient, consistent output. That is the core of what PictoDream does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is PictoDream free?
     a: PictoDream uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with PictoDream?

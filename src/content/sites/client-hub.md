@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Client Hub?
-    a: Client Hub streamlines accounting practice management with task automation, a client portal, and document exchange. It syncs real‑time with QuickBooks Online and Xero, supports email summarization and drafting, tracks tasks and time, and offers role‑based access for teams. Accounting assistant Free - $49/mo That is the core of what Client Hub does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Client Hub streamlines accounting practice management with task automation, a client portal, and document exchange. It syncs real‑time with QuickBooks Online and Xero, supports email summarization and drafting, tracks tasks and time, and offers role‑based access for teams. That is the core of what Client Hub does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Client Hub free?
     a: Client Hub uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Client Hub?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Client Hub earn 
 
 ## What is Client Hub?
 
-Client Hub streamlines accounting practice management with task automation, a client portal, and document exchange. It syncs real‑time with QuickBooks Online and Xero, supports email summarization and drafting, tracks tasks and time, and offers role‑based access for teams. Accounting assistant Free - $49/mo
-
+Client Hub streamlines accounting practice management with task automation, a client portal, and document exchange. It syncs real‑time with QuickBooks Online and Xero, supports email summarization and drafting, tracks tasks and time, and offers role‑based access for teams.
 In short, Client Hub is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. For plenty of users, that one capability of Client Hub replaces several steps they used to do by hand.
 
 ## Key features

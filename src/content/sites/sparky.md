@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Sparky?
-    a: Sparky is an AI-driven journaling and note-taking app that enhances focus and productivity through guided sessions, personalized reflections, and structured task management, helping users manage their routines and promote personal growth effectively. Personal assistant Freemium That is the core of what Sparky does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Sparky is an AI-driven journaling and note-taking app that enhances focus and productivity through guided sessions, personalized reflections, and structured task management, helping users manage their routines and promote personal growth effectively. That is the core of what Sparky does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Sparky free?
     a: Sparky uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Sparky?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Sparky?
 
-Sparky is an AI-driven journaling and note-taking app that enhances focus and productivity through guided sessions, personalized reflections, and structured task management, helping users manage their routines and promote personal growth effectively. Personal assistant Freemium
-
+Sparky is an AI-driven journaling and note-taking app that enhances focus and productivity through guided sessions, personalized reflections, and structured task management, helping users manage their routines and promote personal growth effectively.
 In short, Sparky is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many, that single strength of Sparky is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

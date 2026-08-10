@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Goose AI agent?
-    a: Goose is an open-source, extensible AI agent for code automation and LLM-driven developer workflows. It installs, edits, tests, and deploys code, integrates with GitHub Actions/Codespaces/CI, supports plugins, terminal tools, PR security scans, and secret protection. AI Agents Subscription That is the core of what Goose AI agent does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Goose is an open-source, extensible AI agent for code automation and LLM-driven developer workflows. It installs, edits, tests, and deploys code, integrates with GitHub Actions/Codespaces/CI, supports plugins, terminal tools, PR security scans, and secret protection. That is the core of what Goose AI agent does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Goose AI agent free?
     a: Goose AI agent is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Goose AI agent?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Goose 
 
 ## What is Goose AI agent?
 
-Goose is an open-source, extensible AI agent for code automation and LLM-driven developer workflows. It installs, edits, tests, and deploys code, integrates with GitHub Actions/Codespaces/CI, supports plugins, terminal tools, PR security scans, and secret protection. AI Agents Subscription
-
+Goose is an open-source, extensible AI agent for code automation and LLM-driven developer workflows. It installs, edits, tests, and deploys code, integrates with GitHub Actions/Codespaces/CI, supports plugins, terminal tools, PR security scans, and secret protection.
 In short, Goose AI agent is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That one capability of Goose AI agent frequently saves users from juggling several separate steps.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Floot?
-    a: Floot is a no-code platform enabling entrepreneurs to create web applications without coding skills. It integrates project management, hosting, and database management, offering features like quick hosting, personalized support, and full code ownership for seamless app development. App Builder Free trial That is the core of what Floot does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Floot is a no-code platform enabling entrepreneurs to create web applications without coding skills. It integrates project management, hosting, and database management, offering features like quick hosting, personalized support, and full code ownership for seamless app development. That is the core of what Floot does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Floot free?
     a: Floot uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Floot?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Floot 
 
 ## What is Floot?
 
-Floot is a no-code platform enabling entrepreneurs to create web applications without coding skills. It integrates project management, hosting, and database management, offering features like quick hosting, personalized support, and full code ownership for seamless app development. App Builder Free trial
-
+Floot is a no-code platform enabling entrepreneurs to create web applications without coding skills. It integrates project management, hosting, and database management, offering features like quick hosting, personalized support, and full code ownership for seamless app development.
 In short, Floot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. Many users discover that this feature of Floot alone covers what previously took multiple tools.
 
 ## Key features

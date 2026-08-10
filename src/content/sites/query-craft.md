@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Query craft?
-    a: Query Craft translates plain language into Jira Query Language (JQL), enabling teams to quickly generate accurate issue filters. It supports status, assignee, priority, and custom fields, offers real‑time syntax validation, and integrates directly with Jira dashboards. Code assistant Freemium That is the core of what Query craft does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Query Craft translates plain language into Jira Query Language (JQL), enabling teams to quickly generate accurate issue filters. It supports status, assignee, priority, and custom fields, offers real‑time syntax validation, and integrates directly with Jira dashboards. That is the core of what Query craft does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Query craft free?
     a: Query craft uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Query craft?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Query craft
 
 ## What is Query craft?
 
-Query Craft translates plain language into Jira Query Language (JQL), enabling teams to quickly generate accurate issue filters. It supports status, assignee, priority, and custom fields, offers real‑time syntax validation, and integrates directly with Jira dashboards. Code assistant Freemium
-
+Query Craft translates plain language into Jira Query Language (JQL), enabling teams to quickly generate accurate issue filters. It supports status, assignee, priority, and custom fields, offers real‑time syntax validation, and integrates directly with Jira dashboards.
 In short, Query craft is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one capability of Query craft frequently saves users from juggling several separate steps.
 
 ## Key features

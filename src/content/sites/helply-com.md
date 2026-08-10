@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Helply.com?
-    a: Helply is an AI customer support platform that automates tier-1 helpdesk tasks, handling billing lookups, invoice delivery, plan changes and refunds, integrating with helpdesk tools, training on uploaded docs, surfacing documentation gaps and providing operational insights. Customer support Freemium That is the core of what Helply.com does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Helply is an AI customer support platform that automates tier-1 helpdesk tasks, handling billing lookups, invoice delivery, plan changes and refunds, integrating with helpdesk tools, training on uploaded docs, surfacing documentation gaps and providing operational insights. That is the core of what Helply.com does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Helply.com free?
     a: Helply.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Helply.com?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Helply.com 
 
 ## What is Helply.com?
 
-Helply is an AI customer support platform that automates tier-1 helpdesk tasks, handling billing lookups, invoice delivery, plan changes and refunds, integrating with helpdesk tools, training on uploaded docs, surfacing documentation gaps and providing operational insights. Customer support Freemium
-
+Helply is an AI customer support platform that automates tier-1 helpdesk tasks, handling billing lookups, invoice delivery, plan changes and refunds, integrating with helpdesk tools, training on uploaded docs, surfacing documentation gaps and providing operational insights.
 In short, Helply.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. That one feature of Helply.com often eliminates several smaller steps from the usual workflow.
 
 ## Key features

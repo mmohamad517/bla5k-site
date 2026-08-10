@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Stellr?
-    a: Sahil is an AI-powered electronic lab notebook for bio-pharma professionals, offering easy document management, rapid search capabilities, and streamlined collaboration. It enhances research efficiency by transitioning users from paper to a centralized digital platform. Document management Free That is the core of what Stellr does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Sahil is an AI-powered electronic lab notebook for bio-pharma professionals, offering easy document management, rapid search capabilities, and streamlined collaboration. It enhances research efficiency by transitioning users from paper to a centralized digital platform. That is the core of what Stellr does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Stellr free?
     a: Yes — Stellr is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Stellr?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Stellr earn thei
 
 ## What is Stellr?
 
-Sahil is an AI-powered electronic lab notebook for bio-pharma professionals, offering easy document management, rapid search capabilities, and streamlined collaboration. It enhances research efficiency by transitioning users from paper to a centralized digital platform. Document management Free
-
+Sahil is an AI-powered electronic lab notebook for bio-pharma professionals, offering easy document management, rapid search capabilities, and streamlined collaboration. It enhances research efficiency by transitioning users from paper to a centralized digital platform.
 In short, Stellr is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. That one feature of Stellr often eliminates several smaller steps from the usual workflow.
 
 ## Key features

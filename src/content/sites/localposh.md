@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Localposh?
-    a: Localposh provides continuous remote monitoring and AI risk detection for dementia, delivering real‑time alerts and coordinated care across medical specialties. It offers families predictable respite, reduces crises, and supports clinicians and payers with shared tools and lower ER use. AI Agents Subscription That is the core of what Localposh does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Localposh provides continuous remote monitoring and AI risk detection for dementia, delivering real‑time alerts and coordinated care across medical specialties. It offers families predictable respite, reduces crises, and supports clinicians and payers with shared tools and lower ER use. That is the core of what Localposh does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Localposh free?
     a: Localposh is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Localposh?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Localposh e
 
 ## What is Localposh?
 
-Localposh provides continuous remote monitoring and AI risk detection for dementia, delivering real‑time alerts and coordinated care across medical specialties. It offers families predictable respite, reduces crises, and supports clinicians and payers with shared tools and lower ER use. AI Agents Subscription
-
+Localposh provides continuous remote monitoring and AI risk detection for dementia, delivering real‑time alerts and coordinated care across medical specialties. It offers families predictable respite, reduces crises, and supports clinicians and payers with shared tools and lower ER use.
 In short, Localposh is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users discover that this feature of Localposh alone covers what previously took multiple tools.
 
 ## Key features

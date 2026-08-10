@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is IntegraBot.ai?
-    a: Integrabot automates task execution, data analysis, and lead management via natural‑language commands. Its autonomous agents chat on WhatsApp and Telegram, qualify leads, schedule meetings, send follow‑ups, and update contacts, while cross‑checking responses against a user‑uploaded knowledge base. AI Agents Paid That is the core of what IntegraBot.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Integrabot automates task execution, data analysis, and lead management via natural‑language commands. Its autonomous agents chat on WhatsApp and Telegram, qualify leads, schedule meetings, send follow‑ups, and update contacts, while cross‑checking responses against a user‑uploaded knowledge base. That is the core of what IntegraBot.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is IntegraBot.ai free?
     a: IntegraBot.ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with IntegraBot.ai?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like IntegraBot.
 
 ## What is IntegraBot.ai?
 
-Integrabot automates task execution, data analysis, and lead management via natural‑language commands. Its autonomous agents chat on WhatsApp and Telegram, qualify leads, schedule meetings, send follow‑ups, and update contacts, while cross‑checking responses against a user‑uploaded knowledge base. AI Agents Paid
-
+Integrabot automates task execution, data analysis, and lead management via natural‑language commands. Its autonomous agents chat on WhatsApp and Telegram, qualify leads, schedule meetings, send follow‑ups, and update contacts, while cross‑checking responses against a user‑uploaded knowledge base.
 In short, IntegraBot.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users find that this one ability of IntegraBot.ai removes several tasks from their daily routine.
 
 ## Key features

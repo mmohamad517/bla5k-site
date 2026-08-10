@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is HumanLayer?
-    a: HumanLayer is an open-source IDE and orchestration layer for AI coding agents, managing parallel Claude Code sessions, multiclaude workflows, worktrees and remote workers, with context-engineering tools, session replay, workflow templates and GitHub-integrated code-review automation. AI Agents Freemium That is the core of what HumanLayer does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: HumanLayer is an open-source IDE and orchestration layer for AI coding agents, managing parallel Claude Code sessions, multiclaude workflows, worktrees and remote workers, with context-engineering tools, session replay, workflow templates and GitHub-integrated code-review automation. That is the core of what HumanLayer does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is HumanLayer free?
     a: HumanLayer uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with HumanLayer?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is HumanLayer?
 
-HumanLayer is an open-source IDE and orchestration layer for AI coding agents, managing parallel Claude Code sessions, multiclaude workflows, worktrees and remote workers, with context-engineering tools, session replay, workflow templates and GitHub-integrated code-review automation. AI Agents Freemium
-
+HumanLayer is an open-source IDE and orchestration layer for AI coding agents, managing parallel Claude Code sessions, multiclaude workflows, worktrees and remote workers, with context-engineering tools, session replay, workflow templates and GitHub-integrated code-review automation.
 In short, HumanLayer is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For a lot of people, that one function of HumanLayer collapses multiple steps into a single action.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CREV?
-    a: Crev is a command-line tool for AI-driven code reviews, enabling developers to bundle entire codebases for efficient review. It integrates within the terminal to provide instant feedback on code quality, performance, and security across multiple platforms. Code Debugging Subscription That is the core of what CREV does — developer tools handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Crev is a command-line tool for AI-driven code reviews, enabling developers to bundle entire codebases for efficient review. It integrates within the terminal to provide instant feedback on code quality, performance, and security across multiple platforms. That is the core of what CREV does — developer tools handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CREV free?
     a: CREV is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with CREV?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like CREV matter
 
 ## What is CREV?
 
-Crev is a command-line tool for AI-driven code reviews, enabling developers to bundle entire codebases for efficient review. It integrates within the terminal to provide instant feedback on code quality, performance, and security across multiple platforms. Code Debugging Subscription
-
+Crev is a command-line tool for AI-driven code reviews, enabling developers to bundle entire codebases for efficient review. It integrates within the terminal to provide instant feedback on code quality, performance, and security across multiple platforms.
 In short, CREV is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for developer tools without the manual grind. That single feature of CREV alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

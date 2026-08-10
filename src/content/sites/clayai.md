@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is clayai?
-    a: CLAY AI converts uploaded character photos into clay, 3D, emoji, video‑game, or pixel‑style images within 10–20 seconds. Users upload, select a preset style, and download a high‑resolution result. Data is encrypted and deleted after processing. Character Design Paid That is the core of what clayai does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CLAY AI converts uploaded character photos into clay, 3D, emoji, video‑game, or pixel‑style images within 10–20 seconds. Users upload, select a preset style, and download a high‑resolution result. Data is encrypted and deleted after processing. That is the core of what clayai does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is clayai free?
     a: clayai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with clayai?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like clayai matt
 
 ## What is clayai?
 
-CLAY AI converts uploaded character photos into clay, 3D, emoji, video‑game, or pixel‑style images within 10–20 seconds. Users upload, select a preset style, and download a high‑resolution result. Data is encrypted and deleted after processing. Character Design Paid
-
+CLAY AI converts uploaded character photos into clay, 3D, emoji, video‑game, or pixel‑style images within 10–20 seconds. Users upload, select a preset style, and download a high‑resolution result. Data is encrypted and deleted after processing.
 In short, clayai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. For plenty of users, that one capability of clayai replaces several steps they used to do by hand.
 
 ## Key features

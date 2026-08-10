@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Libraria?
-    a: Libraria is an AI chatbot platform for businesses, facilitating personalized customer interactions through natural language processing. It boosts user engagement with call-to-actions, deep linking, and seamless multimedia integration for immersive experiences. Omnichannel chatbot Freemium That is the core of what Libraria does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Libraria is an AI chatbot platform for businesses, facilitating personalized customer interactions through natural language processing. It boosts user engagement with call-to-actions, deep linking, and seamless multimedia integration for immersive experiences. That is the core of what Libraria does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Libraria free?
     a: Libraria uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Libraria?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Libraria?
 
-Libraria is an AI chatbot platform for businesses, facilitating personalized customer interactions through natural language processing. It boosts user engagement with call-to-actions, deep linking, and seamless multimedia integration for immersive experiences. Omnichannel chatbot Freemium
-
+Libraria is an AI chatbot platform for businesses, facilitating personalized customer interactions through natural language processing. It boosts user engagement with call-to-actions, deep linking, and seamless multimedia integration for immersive experiences.
 In short, Libraria is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. Many users find that this one ability of Libraria removes several tasks from their daily routine.
 
 ## Key features

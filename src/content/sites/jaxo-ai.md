@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Jaxo AI?
-    a: JaxoAI unifies text, image, code, chatbot, and speech‑to‑text AI generation in one dashboard. It supports multiple languages, custom prompts, and fine‑tuned AI settings, and exports content as text, PDF, Word, or HTML. File analysis transforms PDFs and CSVs into insights. Content creation Paid That is the core of what Jaxo AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: JaxoAI unifies text, image, code, chatbot, and speech‑to‑text AI generation in one dashboard. It supports multiple languages, custom prompts, and fine‑tuned AI settings, and exports content as text, PDF, Word, or HTML. File analysis transforms PDFs and CSVs into insights. That is the core of what Jaxo AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Jaxo AI free?
     a: Jaxo AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Jaxo AI?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Jaxo AI mat
 
 ## What is Jaxo AI?
 
-JaxoAI unifies text, image, code, chatbot, and speech‑to‑text AI generation in one dashboard. It supports multiple languages, custom prompts, and fine‑tuned AI settings, and exports content as text, PDF, Word, or HTML. File analysis transforms PDFs and CSVs into insights. Content creation Paid
-
+JaxoAI unifies text, image, code, chatbot, and speech‑to‑text AI generation in one dashboard. It supports multiple languages, custom prompts, and fine‑tuned AI settings, and exports content as text, PDF, Word, or HTML. File analysis transforms PDFs and CSVs into insights.
 In short, Jaxo AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For plenty of users, that one capability of Jaxo AI replaces several steps they used to do by hand.
 
 ## Key features

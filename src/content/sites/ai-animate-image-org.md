@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Animate Image?
-    a: AI Animate Image is an online tool that uses AI to transform static photos into dynamic animations with various styles. It supports multiple image formats, offers fast cloud-based rendering, and is ideal for social media and creative projects.  That is the core of what AI Animate Image does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Animate Image is an online tool that uses AI to transform static photos into dynamic animations with various styles. It supports multiple image formats, offers fast cloud-based rendering, and is ideal for social media and creative projects. That is the core of what AI Animate Image does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI Animate Image free?
     a: AI Animate Image uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AI Animate Image?

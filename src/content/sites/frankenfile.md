@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Frankenfile?
-    a: Frankenfile is a macOS desktop app that automatically converts, resizes, and crops images, videos, audio, and PDFs locally, providing quick file manipulation for photographers, videographers, designers, and office users, ensuring privacy. Document management Freemium That is the core of what Frankenfile does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Frankenfile is a macOS desktop app that automatically converts, resizes, and crops images, videos, audio, and PDFs locally, providing quick file manipulation for photographers, videographers, designers, and office users, ensuring privacy. That is the core of what Frankenfile does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Frankenfile free?
     a: Frankenfile uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Frankenfile?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Frankenfile earn
 
 ## What is Frankenfile?
 
-Frankenfile is a macOS desktop app that automatically converts, resizes, and crops images, videos, audio, and PDFs locally, providing quick file manipulation for photographers, videographers, designers, and office users, ensuring privacy. Document management Freemium
-
+Frankenfile is a macOS desktop app that automatically converts, resizes, and crops images, videos, audio, and PDFs locally, providing quick file manipulation for photographers, videographers, designers, and office users, ensuring privacy.
 In short, Frankenfile is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For a lot of people, that one function of Frankenfile collapses multiple steps into a single action.
 
 ## Key features

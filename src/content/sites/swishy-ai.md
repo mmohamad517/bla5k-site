@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Swishy AI?
-    a: Swishy is an AI-powered motion design and animation tool that rapidly creates stunning visuals, offering pre-built templates and dynamic animation capabilities, effectively functioning as an After Effects alternative. Animation Generation Freemium That is the core of what Swishy AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Swishy is an AI-powered motion design and animation tool that rapidly creates stunning visuals, offering pre-built templates and dynamic animation capabilities, effectively functioning as an After Effects alternative. That is the core of what Swishy AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Swishy AI free?
     a: Swishy AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Swishy AI?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Swishy AI?
 
-Swishy is an AI-powered motion design and animation tool that rapidly creates stunning visuals, offering pre-built templates and dynamic animation capabilities, effectively functioning as an After Effects alternative. Animation Generation Freemium
-
+Swishy is an AI-powered motion design and animation tool that rapidly creates stunning visuals, offering pre-built templates and dynamic animation capabilities, effectively functioning as an After Effects alternative.
 In short, Swishy AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. Many users find that this one ability of Swishy AI removes several tasks from their daily routine.
 
 ## Key features

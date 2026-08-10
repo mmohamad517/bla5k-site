@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ChainGPT?
-    a: Chaingpt is an AI platform for cryptocurrency and blockchain technology assistance that offers unlimited solutions and use cases. Crypto and Web3 Freemium That is the core of what ChainGPT does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Chaingpt is an AI platform for cryptocurrency and blockchain technology assistance that offers unlimited solutions and use cases. That is the core of what ChainGPT does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ChainGPT free?
     a: ChainGPT uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ChainGPT?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is ChainGPT?
 
-Chaingpt is an AI platform for cryptocurrency and blockchain technology assistance that offers unlimited solutions and use cases. Crypto and Web3 Freemium
-
+Chaingpt is an AI platform for cryptocurrency and blockchain technology assistance that offers unlimited solutions and use cases.
 In short, ChainGPT is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. That one feature of ChainGPT often eliminates several smaller steps from the usual workflow.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is papermerge.com?
-    a: Papermerge DMS is open‑source document management storing, indexing, and searching PDFs, JPEGs, TIFFs. OCR via Tesseract adds selectable text; versioning, tagging, custom metadata, page editing, and a web interface support archivists, legal teams, and small businesses. AI Assistant Freemium That is the core of what papermerge.com does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Papermerge DMS is open‑source document management storing, indexing, and searching PDFs, JPEGs, TIFFs. OCR via Tesseract adds selectable text; versioning, tagging, custom metadata, page editing, and a web interface support archivists, legal teams, and small businesses. That is the core of what papermerge.com does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is papermerge.com free?
     a: papermerge.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with papermerge.com?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is papermerge.com?
 
-Papermerge DMS is open‑source document management storing, indexing, and searching PDFs, JPEGs, TIFFs. OCR via Tesseract adds selectable text; versioning, tagging, custom metadata, page editing, and a web interface support archivists, legal teams, and small businesses. AI Assistant Freemium
-
+Papermerge DMS is open‑source document management storing, indexing, and searching PDFs, JPEGs, TIFFs. OCR via Tesseract adds selectable text; versioning, tagging, custom metadata, page editing, and a web interface support archivists, legal teams, and small businesses.
 In short, papermerge.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one feature of papermerge.com often eliminates several smaller steps from the usual workflow.
 
 ## Key features

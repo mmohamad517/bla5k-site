@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Droplette?
-    a: Droplette is an AI‑driven color palette generator for Figma and FigJam. It extracts colors from selected frames or syncs with existing styles, offering real‑time adjustments and multiple iteration options for cohesive palettes. Coloring Paid That is the core of what Droplette does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Droplette is an AI‑driven color palette generator for Figma and FigJam. It extracts colors from selected frames or syncs with existing styles, offering real‑time adjustments and multiple iteration options for cohesive palettes. That is the core of what Droplette does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Droplette free?
     a: Droplette is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Droplette?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Droplette?
 
-Droplette is an AI‑driven color palette generator for Figma and FigJam. It extracts colors from selected frames or syncs with existing styles, offering real‑time adjustments and multiple iteration options for cohesive palettes. Coloring Paid
-
+Droplette is an AI‑driven color palette generator for Figma and FigJam. It extracts colors from selected frames or syncs with existing styles, offering real‑time adjustments and multiple iteration options for cohesive palettes.
 In short, Droplette is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. Many users discover that this feature of Droplette alone covers what previously took multiple tools.
 
 ## Key features

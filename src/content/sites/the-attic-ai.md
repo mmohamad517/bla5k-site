@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is The Attic AI?
-    a: Attic AI offers no‑code tools to create and deploy custom LLMs that convert internal documents into searchable knowledge bases, automate grant and proposal drafting for contractors and universities, and analyze congressional appropriations for compliance—all on secure on‑prem or private cloud. AI Assistant Freemium That is the core of what The Attic AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Attic AI offers no‑code tools to create and deploy custom LLMs that convert internal documents into searchable knowledge bases, automate grant and proposal drafting for contractors and universities, and analyze congressional appropriations for compliance—all on secure on‑prem or private cloud. That is the core of what The Attic AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is The Attic AI free?
     a: The Attic AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with The Attic AI?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is The Attic AI?
 
-Attic AI offers no‑code tools to create and deploy custom LLMs that convert internal documents into searchable knowledge bases, automate grant and proposal drafting for contractors and universities, and analyze congressional appropriations for compliance—all on secure on‑prem or private cloud. AI Assistant Freemium
-
+Attic AI offers no‑code tools to create and deploy custom LLMs that convert internal documents into searchable knowledge bases, automate grant and proposal drafting for contractors and universities, and analyze congressional appropriations for compliance—all on secure on‑prem or private cloud.
 In short, The Attic AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For a lot of people, that one function of The Attic AI collapses multiple steps into a single action.
 
 ## Key features

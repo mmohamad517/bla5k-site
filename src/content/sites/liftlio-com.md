@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Liftlio?
-    a: Liftlio automates SaaS content marketing by generating SEO-optimized posts, repurposing and distributing platform-specific content across communities, monitoring conversations to place contextual mentions and backlinks, and tracking placements, traffic, and conversions to boost organic discovery. Content creation Subscription That is the core of what Liftlio does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Liftlio automates SaaS content marketing by generating SEO-optimized posts, repurposing and distributing platform-specific content across communities, monitoring conversations to place contextual mentions and backlinks, and tracking placements, traffic, and conversions to boost organic discovery. That is the core of what Liftlio does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Liftlio free?
     a: Liftlio is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Liftlio?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Liftlio earn the
 
 ## What is Liftlio?
 
-Liftlio automates SaaS content marketing by generating SEO-optimized posts, repurposing and distributing platform-specific content across communities, monitoring conversations to place contextual mentions and backlinks, and tracking placements, traffic, and conversions to boost organic discovery. Content creation Subscription
-
+Liftlio automates SaaS content marketing by generating SEO-optimized posts, repurposing and distributing platform-specific content across communities, monitoring conversations to place contextual mentions and backlinks, and tracking placements, traffic, and conversions to boost organic discovery.
 In short, Liftlio is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For plenty of users, that one capability of Liftlio replaces several steps they used to do by hand.
 
 ## Key features

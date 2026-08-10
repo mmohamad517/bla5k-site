@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Lotse?
-    a: LotseAI aggregates project data from Notion, Google Docs, Jira, Trello, Asana, Slack, Monday, HubSpot, and Figma into one hub, providing real‑time insights, AI‑generated reports, risk analysis, and proactive blockers, streamlining reporting for product, engineering, and ops teams. Project management Freemium That is the core of what Lotse does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: LotseAI aggregates project data from Notion, Google Docs, Jira, Trello, Asana, Slack, Monday, HubSpot, and Figma into one hub, providing real‑time insights, AI‑generated reports, risk analysis, and proactive blockers, streamlining reporting for product, engineering, and ops teams. That is the core of what Lotse does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Lotse free?
     a: Lotse uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Lotse?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Lotse?
 
-LotseAI aggregates project data from Notion, Google Docs, Jira, Trello, Asana, Slack, Monday, HubSpot, and Figma into one hub, providing real‑time insights, AI‑generated reports, risk analysis, and proactive blockers, streamlining reporting for product, engineering, and ops teams. Project management Freemium
-
+LotseAI aggregates project data from Notion, Google Docs, Jira, Trello, Asana, Slack, Monday, HubSpot, and Figma into one hub, providing real‑time insights, AI‑generated reports, risk analysis, and proactive blockers, streamlining reporting for product, engineering, and ops teams.
 In short, Lotse is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many, that single strength of Lotse is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

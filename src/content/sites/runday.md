@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Runday?
-    a: Runday.ai automates engagement across channels, sending hyper‑personalized outreach based on prospect profiles and company data. It answers queries with sales materials, schedules qualified meetings up to three days faster, and handles up to 95% of customer inquiries automatically.  That is the core of what Runday does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Runday.ai automates engagement across channels, sending hyper‑personalized outreach based on prospect profiles and company data. It answers queries with sales materials, schedules qualified meetings up to three days faster, and handles up to 95% of customer inquiries automatically. That is the core of what Runday does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Runday free?
     a: Runday uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Runday?

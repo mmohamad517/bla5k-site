@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Genius offer ai?
-    a: Genius Offer AI streamlines offer creation for small businesses, marketers, and sales professionals. It enables rapid customization of sales offers, enhances email campaigns, and increases conversion rates using AI-driven insights tailored to resonate with target audiences. Marketing Free trial That is the core of what Genius offer ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Genius Offer AI streamlines offer creation for small businesses, marketers, and sales professionals. It enables rapid customization of sales offers, enhances email campaigns, and increases conversion rates using AI-driven insights tailored to resonate with target audiences. That is the core of what Genius offer ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Genius offer ai free?
     a: Genius offer ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Genius offer ai?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Genius offer ai?
 
-Genius Offer AI streamlines offer creation for small businesses, marketers, and sales professionals. It enables rapid customization of sales offers, enhances email campaigns, and increases conversion rates using AI-driven insights tailored to resonate with target audiences. Marketing Free trial
-
+Genius Offer AI streamlines offer creation for small businesses, marketers, and sales professionals. It enables rapid customization of sales offers, enhances email campaigns, and increases conversion rates using AI-driven insights tailored to resonate with target audiences.
 In short, Genius offer ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That one feature of Genius offer ai often eliminates several smaller steps from the usual workflow.
 
 ## Key features

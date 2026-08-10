@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Heights?
-    a: Heights AI Coach autonomously generates weekly tasks, tips, and reminders for course creators, coaches, and digital marketers, analyzing goals and progress to maintain momentum. It integrates with existing Heights tools and keeps all coaching data private.  That is the core of what Heights does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Heights AI Coach autonomously generates weekly tasks, tips, and reminders for course creators, coaches, and digital marketers, analyzing goals and progress to maintain momentum. It integrates with existing Heights tools and keeps all coaching data private. That is the core of what Heights does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Heights free?
     a: Heights is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Heights?

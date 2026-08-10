@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Immersfy?
-    a: Immersfy is a storyboarding tool that rapidly transforms scripts into detailed visual representations, enhancing pre-production efficiency. Its intuitive editing features enable seamless scene and character adjustments while ensuring narrative coherence throughout the storyboard. Conceptual Generation Free trial That is the core of what Immersfy does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Immersfy is a storyboarding tool that rapidly transforms scripts into detailed visual representations, enhancing pre-production efficiency. Its intuitive editing features enable seamless scene and character adjustments while ensuring narrative coherence throughout the storyboard. That is the core of what Immersfy does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Immersfy free?
     a: Immersfy uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Immersfy?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Immersfy earn th
 
 ## What is Immersfy?
 
-Immersfy is a storyboarding tool that rapidly transforms scripts into detailed visual representations, enhancing pre-production efficiency. Its intuitive editing features enable seamless scene and character adjustments while ensuring narrative coherence throughout the storyboard. Conceptual Generation Free trial
-
+Immersfy is a storyboarding tool that rapidly transforms scripts into detailed visual representations, enhancing pre-production efficiency. Its intuitive editing features enable seamless scene and character adjustments while ensuring narrative coherence throughout the storyboard.
 In short, Immersfy is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. That one feature of Immersfy often eliminates several smaller steps from the usual workflow.
 
 ## Key features

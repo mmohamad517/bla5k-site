@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Coralflavor?
-    a: coralflavor provides secure, unfiltered AI chat for adults with configurable conversation history (auto-save, disable, burn/delete), file uploads (PNG/JPG/WEBP, PDF) with OCR/PDF text extraction, and optional live-source web search for document-aware workflows. Chat Freemium That is the core of what Coralflavor does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: coralflavor provides secure, unfiltered AI chat for adults with configurable conversation history (auto-save, disable, burn/delete), file uploads (PNG/JPG/WEBP, PDF) with OCR/PDF text extraction, and optional live-source web search for document-aware workflows. That is the core of what Coralflavor does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Coralflavor free?
     a: Coralflavor uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Coralflavor?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Coralflavor?
 
-coralflavor provides secure, unfiltered AI chat for adults with configurable conversation history (auto-save, disable, burn/delete), file uploads (PNG/JPG/WEBP, PDF) with OCR/PDF text extraction, and optional live-source web search for document-aware workflows. Chat Freemium
-
+coralflavor provides secure, unfiltered AI chat for adults with configurable conversation history (auto-save, disable, burn/delete), file uploads (PNG/JPG/WEBP, PDF) with OCR/PDF text extraction, and optional live-source web search for document-aware workflows.
 In short, Coralflavor is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For plenty of users, that one capability of Coralflavor replaces several steps they used to do by hand.
 
 ## Key features

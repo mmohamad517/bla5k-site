@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is luzia.com?
-    a: "Luzia is a cross-platform AI assistant on web, iOS, Android and WhatsApp offering conversational chat and task workflows: text and image generation and analysis, PDF extraction, math, code, transcription and translation tools, customizable personas, exportable results. Chat Free That is the core of what luzia.com does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "Luzia is a cross-platform AI assistant on web, iOS, Android and WhatsApp offering conversational chat and task workflows: text and image generation and analysis, PDF extraction, math, code, transcription and translation tools, customizable personas, exportable results. That is the core of what luzia.com does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is luzia.com free?
     a: Yes — luzia.com is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with luzia.com?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like luzia.com m
 
 ## What is luzia.com?
 
-Luzia is a cross-platform AI assistant on web, iOS, Android and WhatsApp offering conversational chat and task workflows: text and image generation and analysis, PDF extraction, math, code, transcription and translation tools, customizable personas, exportable results. Chat Free
-
+Luzia is a cross-platform AI assistant on web, iOS, Android and WhatsApp offering conversational chat and task workflows: text and image generation and analysis, PDF extraction, math, code, transcription and translation tools, customizable personas, exportable results.
 In short, luzia.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. That one capability of luzia.com frequently saves users from juggling several separate steps.
 
 ## Key features

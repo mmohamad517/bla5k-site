@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Helploom?
-    a: Helploom combines live chat, a shared inbox and an AI chatbot trained on your knowledge base to automate 24/7 multilingual support, searchable help center, analytics, escalation to human agents, and developer integration via a JS widget and REST API. Customer support Freemium That is the core of what Helploom does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Helploom combines live chat, a shared inbox and an AI chatbot trained on your knowledge base to automate 24/7 multilingual support, searchable help center, analytics, escalation to human agents, and developer integration via a JS widget and REST API. That is the core of what Helploom does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Helploom free?
     a: Helploom uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Helploom?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Helploom?
 
-Helploom combines live chat, a shared inbox and an AI chatbot trained on your knowledge base to automate 24/7 multilingual support, searchable help center, analytics, escalation to human agents, and developer integration via a JS widget and REST API. Customer support Freemium
-
+Helploom combines live chat, a shared inbox and an AI chatbot trained on your knowledge base to automate 24/7 multilingual support, searchable help center, analytics, escalation to human agents, and developer integration via a JS widget and REST API.
 In short, Helploom is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For many, that single strength of Helploom is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

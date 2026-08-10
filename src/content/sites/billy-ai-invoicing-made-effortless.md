@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Billy?
-    a: Billy creates professional invoices from a single prompt, integrates Stripe for credit card, Apple Pay, Google Pay payments, tracks view status in real time, sends PDFs via email automatically, and keeps all data private without subscription fees. Billing Management Free trial That is the core of what Billy does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Billy creates professional invoices from a single prompt, integrates Stripe for credit card, Apple Pay, Google Pay payments, tracks view status in real time, sends PDFs via email automatically, and keeps all data private without subscription fees. That is the core of what Billy does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Billy free?
     a: Billy uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Billy?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Billy?
 
-Billy creates professional invoices from a single prompt, integrates Stripe for credit card, Apple Pay, Google Pay payments, tracks view status in real time, sends PDFs via email automatically, and keeps all data private without subscription fees. Billing Management Free trial
-
+Billy creates professional invoices from a single prompt, integrates Stripe for credit card, Apple Pay, Google Pay payments, tracks view status in real time, sends PDFs via email automatically, and keeps all data private without subscription fees.
 In short, Billy is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For plenty of users, that one capability of Billy replaces several steps they used to do by hand.
 
 ## Key features

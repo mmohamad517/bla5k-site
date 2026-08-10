@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is v0 report?
-    a: v0 Report is an AI‑powered platform that produces professional reports, essays, literature reviews, and business documents from plain text or PDFs within minutes. It offers template‑based layouts, customizable tone, citation styles, OCR summarization, version control, and collaboration tools.  That is the core of what v0 report does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: v0 Report is an AI‑powered platform that produces professional reports, essays, literature reviews, and business documents from plain text or PDFs within minutes. It offers template‑based layouts, customizable tone, citation styles, OCR summarization, version control, and collaboration tools. That is the core of what v0 report does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is v0 report free?
     a: v0 report is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with v0 report?

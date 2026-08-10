@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Parafact?
-    a: Parafact is an AI-driven fact-checking tool that evaluates text for accuracy using reliable sources. It supports various domains, provides source citations, and offers an API for developers to integrate fact-checking into their applications efficiently. AI detection Subscription That is the core of what Parafact does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Parafact is an AI-driven fact-checking tool that evaluates text for accuracy using reliable sources. It supports various domains, provides source citations, and offers an API for developers to integrate fact-checking into their applications efficiently. That is the core of what Parafact does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Parafact free?
     a: Parafact is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Parafact?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Parafact?
 
-Parafact is an AI-driven fact-checking tool that evaluates text for accuracy using reliable sources. It supports various domains, provides source citations, and offers an API for developers to integrate fact-checking into their applications efficiently. AI detection Subscription
-
+Parafact is an AI-driven fact-checking tool that evaluates text for accuracy using reliable sources. It supports various domains, provides source citations, and offers an API for developers to integrate fact-checking into their applications efficiently.
 In short, Parafact is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. For a lot of people, that one function of Parafact collapses multiple steps into a single action.
 
 ## Key features

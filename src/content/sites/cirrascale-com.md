@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is cirrascale.com?
-    a: Cirrascale offers a private AI cloud that supports training and inference on AMD, Cerebras, NVIDIA, and Qualcomm accelerators. It provides zero DevOps, no data‑transfer fees, high‑bandwidth networking, and configurable multi‑GPU servers, streamlining workflows and accelerating deployment. AI Agents Freemium That is the core of what cirrascale.com does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Cirrascale offers a private AI cloud that supports training and inference on AMD, Cerebras, NVIDIA, and Qualcomm accelerators. It provides zero DevOps, no data‑transfer fees, high‑bandwidth networking, and configurable multi‑GPU servers, streamlining workflows and accelerating deployment. That is the core of what cirrascale.com does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is cirrascale.com free?
     a: cirrascale.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with cirrascale.com?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is cirrascale.com?
 
-Cirrascale offers a private AI cloud that supports training and inference on AMD, Cerebras, NVIDIA, and Qualcomm accelerators. It provides zero DevOps, no data‑transfer fees, high‑bandwidth networking, and configurable multi‑GPU servers, streamlining workflows and accelerating deployment. AI Agents Freemium
-
+Cirrascale offers a private AI cloud that supports training and inference on AMD, Cerebras, NVIDIA, and Qualcomm accelerators. It provides zero DevOps, no data‑transfer fees, high‑bandwidth networking, and configurable multi‑GPU servers, streamlining workflows and accelerating deployment.
 In short, cirrascale.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users discover that this feature of cirrascale.com alone covers what previously took multiple tools.
 
 ## Key features

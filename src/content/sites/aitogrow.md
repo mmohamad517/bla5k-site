@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AItoGrow?
-    a: AItoGrow aggregates AI tools for startup growth, categorizing solutions in marketing, outreach, recruiting, SEO, productivity, and creative content. Users preview features, search, and access educational resources and community discussions to adopt AI effectively.  That is the core of what AItoGrow does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AItoGrow aggregates AI tools for startup growth, categorizing solutions in marketing, outreach, recruiting, SEO, productivity, and creative content. Users preview features, search, and access educational resources and community discussions to adopt AI effectively. That is the core of what AItoGrow does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AItoGrow free?
     a: AItoGrow uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $19/mo, check the official website — pricing changes often.
   - q: What can you do with AItoGrow?

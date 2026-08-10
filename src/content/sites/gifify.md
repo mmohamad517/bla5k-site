@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Gifify?
-    a: Gifify is a versatile AI content generator that transforms text prompts or uploaded images into polished GIFs, short videos, and stylized images. It supports advanced workflows like text-to-video, face swaps, background removal, and video enhancement for seamless, shareable media.  That is the core of what Gifify does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Gifify is a versatile AI content generator that transforms text prompts or uploaded images into polished GIFs, short videos, and stylized images. It supports advanced workflows like text-to-video, face swaps, background removal, and video enhancement for seamless, shareable media. That is the core of what Gifify does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Gifify free?
     a: Gifify uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Gifify?

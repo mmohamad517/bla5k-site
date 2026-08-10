@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Edward?
-    a: Edward AI is an enterprise-grade AI tool that enhances security and compliance through tailored experiences, providing seamless integrations across multiple platforms and accessing and analyzing data from various business systems. Business Subscription That is the core of what Edward does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Edward AI is an enterprise-grade AI tool that enhances security and compliance through tailored experiences, providing seamless integrations across multiple platforms and accessing and analyzing data from various business systems. That is the core of what Edward does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Edward free?
     a: Edward is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Edward?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Edward matt
 
 ## What is Edward?
 
-Edward AI is an enterprise-grade AI tool that enhances security and compliance through tailored experiences, providing seamless integrations across multiple platforms and accessing and analyzing data from various business systems. Business Subscription
-
+Edward AI is an enterprise-grade AI tool that enhances security and compliance through tailored experiences, providing seamless integrations across multiple platforms and accessing and analyzing data from various business systems.
 In short, Edward is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. That single feature of Edward alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

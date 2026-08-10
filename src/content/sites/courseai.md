@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CourseAI?
-    a: CourseAI automates online course creation by generating outlines, objectives, personas, videos, quizzes, and email sequences from a chosen or AI‑recommended topic. It supports content upload, AI video production, and hosting while keeping full revenue and simplifying setup. Course Generator Subscription - $39.99/mo That is the core of what CourseAI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CourseAI automates online course creation by generating outlines, objectives, personas, videos, quizzes, and email sequences from a chosen or AI‑recommended topic. It supports content upload, AI video production, and hosting while keeping full revenue and simplifying setup. That is the core of what CourseAI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CourseAI free?
     a: CourseAI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with CourseAI?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is CourseAI?
 
-CourseAI automates online course creation by generating outlines, objectives, personas, videos, quizzes, and email sequences from a chosen or AI‑recommended topic. It supports content upload, AI video production, and hosting while keeping full revenue and simplifying setup. Course Generator Subscription - $39.99/mo
-
+CourseAI automates online course creation by generating outlines, objectives, personas, videos, quizzes, and email sequences from a chosen or AI‑recommended topic. It supports content upload, AI video production, and hosting while keeping full revenue and simplifying setup.
 In short, CourseAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. For a lot of people, that one function of CourseAI collapses multiple steps into a single action.
 
 ## Key features

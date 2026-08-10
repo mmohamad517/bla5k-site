@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CopyMonkey?
-    a: CopyMonkey is an AI‑powered Amazon listing generator that creates keyword‑optimized titles, bullets, and descriptions by analyzing competitors and keyword performance. It updates listings with sales data, tracks click‑through and conversion metrics, and streamlines copywriting. Copywriting Paid - $49 That is the core of what CopyMonkey does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CopyMonkey is an AI‑powered Amazon listing generator that creates keyword‑optimized titles, bullets, and descriptions by analyzing competitors and keyword performance. It updates listings with sales data, tracks click‑through and conversion metrics, and streamlines copywriting. That is the core of what CopyMonkey does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CopyMonkey free?
     a: CopyMonkey is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with CopyMonkey?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like CopyMonkey earn 
 
 ## What is CopyMonkey?
 
-CopyMonkey is an AI‑powered Amazon listing generator that creates keyword‑optimized titles, bullets, and descriptions by analyzing competitors and keyword performance. It updates listings with sales data, tracks click‑through and conversion metrics, and streamlines copywriting. Copywriting Paid - $49
-
+CopyMonkey is an AI‑powered Amazon listing generator that creates keyword‑optimized titles, bullets, and descriptions by analyzing competitors and keyword performance. It updates listings with sales data, tracks click‑through and conversion metrics, and streamlines copywriting.
 In short, CopyMonkey is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. For many, that single strength of CopyMonkey is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

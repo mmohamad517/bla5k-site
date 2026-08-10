@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Learnt.ai?
-    a: Learnt.ai is an AI‑powered platform for educators that turns prompts into course outlines, interactive activities, scenario questions, facilitator guides, and assessments within seconds. It enforces consistency with standards, brand tone, and offers 110 sidekicks for quick, accurate content creation. Course Generator Free trial That is the core of what Learnt.ai does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Learnt.ai is an AI‑powered platform for educators that turns prompts into course outlines, interactive activities, scenario questions, facilitator guides, and assessments within seconds. It enforces consistency with standards, brand tone, and offers 110 sidekicks for quick, accurate content creation. That is the core of what Learnt.ai does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Learnt.ai free?
     a: Learnt.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Learnt.ai?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Learnt.ai?
 
-Learnt.ai is an AI‑powered platform for educators that turns prompts into course outlines, interactive activities, scenario questions, facilitator guides, and assessments within seconds. It enforces consistency with standards, brand tone, and offers 110 sidekicks for quick, accurate content creation. Course Generator Free trial
-
+Learnt.ai is an AI‑powered platform for educators that turns prompts into course outlines, interactive activities, scenario questions, facilitator guides, and assessments within seconds. It enforces consistency with standards, brand tone, and offers 110 sidekicks for quick, accurate content creation.
 In short, Learnt.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. For a lot of people, that one function of Learnt.ai collapses multiple steps into a single action.
 
 ## Key features

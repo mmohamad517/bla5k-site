@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Book AI?
-    a: Book AI produces complete 10,000‑150,000‑word manuscripts in minutes, covering fiction, self‑help, business, and educational genres. It adapts tone, ensures long‑form coherence, outputs a ready‑to‑edit file, and includes publishing tools for authors and editors. Book writer Paid That is the core of what Book AI does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Book AI produces complete 10,000‑150,000‑word manuscripts in minutes, covering fiction, self‑help, business, and educational genres. It adapts tone, ensures long‑form coherence, outputs a ready‑to‑edit file, and includes publishing tools for authors and editors. That is the core of what Book AI does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Book AI free?
     a: Book AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Book AI?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Book AI earn the
 
 ## What is Book AI?
 
-Book AI produces complete 10,000‑150,000‑word manuscripts in minutes, covering fiction, self‑help, business, and educational genres. It adapts tone, ensures long‑form coherence, outputs a ready‑to‑edit file, and includes publishing tools for authors and editors. Book writer Paid
-
+Book AI produces complete 10,000‑150,000‑word manuscripts in minutes, covering fiction, self‑help, business, and educational genres. It adapts tone, ensures long‑form coherence, outputs a ready‑to‑edit file, and includes publishing tools for authors and editors.
 In short, Book AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. That single feature of Book AI alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

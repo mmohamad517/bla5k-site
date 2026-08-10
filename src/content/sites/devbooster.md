@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is DevBooster?
-    a: DevBooster is an AI coding assistant that enhances productivity by providing real-time code validation, intelligent code translation across 100+ languages, step-by-step explanations, automated documentation generation, and a library of curated code samples for improved collaboration and workflow. Code assistant Freemium That is the core of what DevBooster does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: DevBooster is an AI coding assistant that enhances productivity by providing real-time code validation, intelligent code translation across 100+ languages, step-by-step explanations, automated documentation generation, and a library of curated code samples for improved collaboration and workflow. That is the core of what DevBooster does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is DevBooster free?
     a: DevBooster uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with DevBooster?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like DevBooster earn 
 
 ## What is DevBooster?
 
-DevBooster is an AI coding assistant that enhances productivity by providing real-time code validation, intelligent code translation across 100+ languages, step-by-step explanations, automated documentation generation, and a library of curated code samples for improved collaboration and workflow. Code assistant Freemium
-
+DevBooster is an AI coding assistant that enhances productivity by providing real-time code validation, intelligent code translation across 100+ languages, step-by-step explanations, automated documentation generation, and a library of curated code samples for improved collaboration and workflow.
 In short, DevBooster is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That single feature of DevBooster alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

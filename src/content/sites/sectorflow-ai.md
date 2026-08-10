@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SectorFlow AI?
-    a: SectorFlow AI Agents connects to Salesforce, Microsoft 365, HubSpot, Slack, and Zendesk to automate document processing, invoices, and customer support. Within 4‑8 weeks, it maps workflows, deploys custom agents for data movement and validation, cuts manual effort, speeds contract handling, and provides continuous monitoring for mid‑market enterprises.  That is the core of what SectorFlow AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SectorFlow AI Agents connects to Salesforce, Microsoft 365, HubSpot, Slack, and Zendesk to automate document processing, invoices, and customer support. Within 4‑8 weeks, it maps workflows, deploys custom agents for data movement and validation, cuts manual effort, speeds contract handling, and provides continuous monitoring for mid‑market enterprises. That is the core of what SectorFlow AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SectorFlow AI free?
     a: SectorFlow AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with SectorFlow AI?

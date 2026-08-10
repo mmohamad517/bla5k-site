@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Kowboykit.com?
-    a: KowboyKit is an AI‑powered platform that centralizes server building, landing page creation, and analytics for affiliate campaigns. It automates offer rotation, A/B testing, and cap detection, while providing role‑based team controls and detailed reporting. Marketing Paid - $1500/mo That is the core of what Kowboykit.com does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: KowboyKit is an AI‑powered platform that centralizes server building, landing page creation, and analytics for affiliate campaigns. It automates offer rotation, A/B testing, and cap detection, while providing role‑based team controls and detailed reporting. That is the core of what Kowboykit.com does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Kowboykit.com free?
     a: Kowboykit.com is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Kowboykit.com?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Kowboykit.com?
 
-KowboyKit is an AI‑powered platform that centralizes server building, landing page creation, and analytics for affiliate campaigns. It automates offer rotation, A/B testing, and cap detection, while providing role‑based team controls and detailed reporting. Marketing Paid - $1500/mo
-
+KowboyKit is an AI‑powered platform that centralizes server building, landing page creation, and analytics for affiliate campaigns. It automates offer rotation, A/B testing, and cap detection, while providing role‑based team controls and detailed reporting.
 In short, Kowboykit.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That single feature of Kowboykit.com alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

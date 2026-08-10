@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Dentrochat?
-    a: DentroChat is a GDPR‑compliant chatbot running on European infrastructure, keeping all user data inside the EU. It provides a single chat interface for text, image generation, web search, and file analysis, with Fast, Thinking, and Creative modes and conversation memory. Chatbot builder Freemium That is the core of what Dentrochat does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: DentroChat is a GDPR‑compliant chatbot running on European infrastructure, keeping all user data inside the EU. It provides a single chat interface for text, image generation, web search, and file analysis, with Fast, Thinking, and Creative modes and conversation memory. That is the core of what Dentrochat does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Dentrochat free?
     a: Dentrochat uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Dentrochat?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Dentrochat?
 
-DentroChat is a GDPR‑compliant chatbot running on European infrastructure, keeping all user data inside the EU. It provides a single chat interface for text, image generation, web search, and file analysis, with Fast, Thinking, and Creative modes and conversation memory. Chatbot builder Freemium
-
+DentroChat is a GDPR‑compliant chatbot running on European infrastructure, keeping all user data inside the EU. It provides a single chat interface for text, image generation, web search, and file analysis, with Fast, Thinking, and Creative modes and conversation memory.
 In short, Dentrochat is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. That one feature of Dentrochat often eliminates several smaller steps from the usual workflow.
 
 ## Key features

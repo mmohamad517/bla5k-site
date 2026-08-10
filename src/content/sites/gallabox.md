@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Gallabox?
-    a: Gallabox is a conversational AI platform for WhatsApp that automates customer interactions. It features drag-and-drop workflows, chatbots, lead qualification, and integrates with CRM tools, facilitating improved communication and lead management for businesses.  That is the core of what Gallabox does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Gallabox is a conversational AI platform for WhatsApp that automates customer interactions. It features drag-and-drop workflows, chatbots, lead qualification, and integrates with CRM tools, facilitating improved communication and lead management for businesses. That is the core of what Gallabox does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Gallabox free?
     a: Gallabox uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $0.0695, check the official website — pricing changes often.
   - q: What can you do with Gallabox?

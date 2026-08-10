@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is flutch.ai?
-    a: flutch.ai is a no-code platform for businesses to build and manage custom AI agents that automate processes. It offers real-time analytics, on-premise deployment, and seamless integration with existing systems.  That is the core of what flutch.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: flutch.ai is a no-code platform for businesses to build and manage custom AI agents that automate processes. It offers real-time analytics, on-premise deployment, and seamless integration with existing systems. That is the core of what flutch.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is flutch.ai free?
     a: flutch.ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with flutch.ai?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TimeSkip?
-    a: Timeskip AI is a Chrome extension that automates the creation of SEO-optimized chapters for YouTube videos, podcasts, and webinars, enhancing discoverability and viewer engagement by generating chapters with timestamps in seconds. Content creation Free trial That is the core of what TimeSkip does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Timeskip AI is a Chrome extension that automates the creation of SEO-optimized chapters for YouTube videos, podcasts, and webinars, enhancing discoverability and viewer engagement by generating chapters with timestamps in seconds. That is the core of what TimeSkip does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TimeSkip free?
     a: TimeSkip uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with TimeSkip?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like TimeSkip ea
 
 ## What is TimeSkip?
 
-Timeskip AI is a Chrome extension that automates the creation of SEO-optimized chapters for YouTube videos, podcasts, and webinars, enhancing discoverability and viewer engagement by generating chapters with timestamps in seconds. Content creation Free trial
-
+Timeskip AI is a Chrome extension that automates the creation of SEO-optimized chapters for YouTube videos, podcasts, and webinars, enhancing discoverability and viewer engagement by generating chapters with timestamps in seconds.
 In short, TimeSkip is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. That single feature of TimeSkip alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

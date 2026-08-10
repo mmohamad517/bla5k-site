@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Simbly?
-    a: Generate a 25‑page, bank‑compliant business plan in seconds. Simbly.ai guides users through a questionnaire, creates a five‑year forecast, market and competitor analysis, and delivers editable Word or Excel files, securely stored in the EU. Business planning Paid That is the core of what Simbly does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Generate a 25‑page, bank‑compliant business plan in seconds. Simbly.ai guides users through a questionnaire, creates a five‑year forecast, market and competitor analysis, and delivers editable Word or Excel files, securely stored in the EU. That is the core of what Simbly does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Simbly free?
     a: Simbly is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Simbly?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Simbly?
 
-Generate a 25‑page, bank‑compliant business plan in seconds. Simbly.ai guides users through a questionnaire, creates a five‑year forecast, market and competitor analysis, and delivers editable Word or Excel files, securely stored in the EU. Business planning Paid
-
+Generate a 25‑page, bank‑compliant business plan in seconds. Simbly.ai guides users through a questionnaire, creates a five‑year forecast, market and competitor analysis, and delivers editable Word or Excel files, securely stored in the EU.
 In short, Simbly is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI planning without the manual grind. Many users find that this one ability of Simbly removes several tasks from their daily routine.
 
 ## Key features

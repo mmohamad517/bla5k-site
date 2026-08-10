@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Fiddler AI?
-    a: Fiddler AI is an observability platform for monitoring AI models, focusing on performance assessment, anomaly detection, and explainable AI. It supports responsible AI practices across sectors like healthcare and finance while integrating with various MLOps tools. AI Agents Freemium That is the core of what Fiddler AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Fiddler AI is an observability platform for monitoring AI models, focusing on performance assessment, anomaly detection, and explainable AI. It supports responsible AI practices across sectors like healthcare and finance while integrating with various MLOps tools. That is the core of what Fiddler AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Fiddler AI free?
     a: Fiddler AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Fiddler AI?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Fiddler AI 
 
 ## What is Fiddler AI?
 
-Fiddler AI is an observability platform for monitoring AI models, focusing on performance assessment, anomaly detection, and explainable AI. It supports responsible AI practices across sectors like healthcare and finance while integrating with various MLOps tools. AI Agents Freemium
-
+Fiddler AI is an observability platform for monitoring AI models, focusing on performance assessment, anomaly detection, and explainable AI. It supports responsible AI practices across sectors like healthcare and finance while integrating with various MLOps tools.
 In short, Fiddler AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users discover that this feature of Fiddler AI alone covers what previously took multiple tools.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is enterprisebot.ai?
-    a: Enterprise Bot unifies voice, email, and chat into a single AI engine, automating call routing, agent assistance, and self‑service chat. It integrates with CRMs and CCaaS, reduces manual effort, shortens handling time, and maintains security and compliance. Chatbot builder Freemium That is the core of what enterprisebot.ai does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Enterprise Bot unifies voice, email, and chat into a single AI engine, automating call routing, agent assistance, and self‑service chat. It integrates with CRMs and CCaaS, reduces manual effort, shortens handling time, and maintains security and compliance. That is the core of what enterprisebot.ai does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is enterprisebot.ai free?
     a: enterprisebot.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with enterprisebot.ai?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like enterprisebot.ai
 
 ## What is enterprisebot.ai?
 
-Enterprise Bot unifies voice, email, and chat into a single AI engine, automating call routing, agent assistance, and self‑service chat. It integrates with CRMs and CCaaS, reduces manual effort, shortens handling time, and maintains security and compliance. Chatbot builder Freemium
-
+Enterprise Bot unifies voice, email, and chat into a single AI engine, automating call routing, agent assistance, and self‑service chat. It integrates with CRMs and CCaaS, reduces manual effort, shortens handling time, and maintains security and compliance.
 In short, enterprisebot.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many, that single strength of enterprisebot.ai is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

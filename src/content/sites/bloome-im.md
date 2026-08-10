@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Bloome?
-    a: Bloome is a platform that coordinates AI agents and human teams across product development, content creation, sales, and operations, enabling end-to-end workflow automation with shared memory and governance. It integrates multiple AI models (Claude, GPT, Gemini, etc.) for research, coding, QA, and reporting, offering sandboxed execution, audit trails, and SOC 2-ready compliance for enterprise use. AI Agents Freemium That is the core of what Bloome does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Bloome is a platform that coordinates AI agents and human teams across product development, content creation, sales, and operations, enabling end-to-end workflow automation with shared memory and governance. It integrates multiple AI models (Claude, GPT, Gemini, etc.) for research, coding, QA, and reporting, offering sandboxed execution, audit trails, and SOC 2-ready compliance for enterprise use. That is the core of what Bloome does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Bloome free?
     a: Bloome uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Bloome?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Bloome earn
 
 ## What is Bloome?
 
-Bloome is a platform that coordinates AI agents and human teams across product development, content creation, sales, and operations, enabling end-to-end workflow automation with shared memory and governance. It integrates multiple AI models (Claude, GPT, Gemini, etc.) for research, coding, QA, and reporting, offering sandboxed execution, audit trails, and SOC 2-ready compliance for enterprise use. AI Agents Freemium
-
+Bloome is a platform that coordinates AI agents and human teams across product development, content creation, sales, and operations, enabling end-to-end workflow automation with shared memory and governance. It integrates multiple AI models (Claude, GPT, Gemini, etc.) for research, coding, QA, and reporting, offering sandboxed execution, audit trails, and SOC 2-ready compliance for enterprise use.
 In short, Bloome is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many, that single strength of Bloome is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

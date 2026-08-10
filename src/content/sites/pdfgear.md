@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PDFgear?
-    a: PDFgear is a cross‑platform PDF editor that allows editing of text, images, shapes, and form fields; supports annotations, batch conversion to Word/Excel/PowerPoint, OCR in 30+ languages, AI chat summaries, and merge/split/compress/sign functions.  That is the core of what PDFgear does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: PDFgear is a cross‑platform PDF editor that allows editing of text, images, shapes, and form fields; supports annotations, batch conversion to Word/Excel/PowerPoint, OCR in 30+ languages, AI chat summaries, and merge/split/compress/sign functions. That is the core of what PDFgear does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is PDFgear free?
     a: Yes — PDFgear is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with PDFgear?

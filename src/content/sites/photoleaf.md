@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PhotoLeaf?
-    a: PhotoLeaf AI creates photorealistic profile pictures by training on 20 personal photos, generating 300+ images in 50+ styles via Stable Diffusion and Dreambooth. It supports social media, LinkedIn, dating avatars and deletes data after 48 hours. Avatar Free That is the core of what PhotoLeaf does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: PhotoLeaf AI creates photorealistic profile pictures by training on 20 personal photos, generating 300+ images in 50+ styles via Stable Diffusion and Dreambooth. It supports social media, LinkedIn, dating avatars and deletes data after 48 hours. That is the core of what PhotoLeaf does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is PhotoLeaf free?
     a: Yes — PhotoLeaf is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with PhotoLeaf?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like PhotoLeaf m
 
 ## What is PhotoLeaf?
 
-PhotoLeaf AI creates photorealistic profile pictures by training on 20 personal photos, generating 300+ images in 50+ styles via Stable Diffusion and Dreambooth. It supports social media, LinkedIn, dating avatars and deletes data after 48 hours. Avatar Free
-
+PhotoLeaf AI creates photorealistic profile pictures by training on 20 personal photos, generating 300+ images in 50+ styles via Stable Diffusion and Dreambooth. It supports social media, LinkedIn, dating avatars and deletes data after 48 hours.
 In short, PhotoLeaf is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. For many, that single strength of PhotoLeaf is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

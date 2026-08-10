@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is iChatWithGPT?
-    a: iChatWithGPT is an AI assistant integrated into iMessage that uses GPT‑5.2, Claude 4.5, and Google Search for real‑time web research, news, weather, and game results. It offers text reminders, AI‑generated images, voice‑activated messaging across iPhone, Apple Watch, MacBook, and CarPlay.  That is the core of what iChatWithGPT does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: iChatWithGPT is an AI assistant integrated into iMessage that uses GPT‑5.2, Claude 4.5, and Google Search for real‑time web research, news, weather, and game results. It offers text reminders, AI‑generated images, voice‑activated messaging across iPhone, Apple Watch, MacBook, and CarPlay. That is the core of what iChatWithGPT does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is iChatWithGPT free?
     a: Yes — iChatWithGPT is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with iChatWithGPT?

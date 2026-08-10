@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Aampe?
-    a: Aampe is an agentic infrastructure for real-time personalization, assigning a dedicated AI agent to each user to run parallel experiments and adapt messaging individually. It enables automated testing and causal simulation to optimize engagement across integrated marketing channels without manual model building. AI Agents Freemium That is the core of what Aampe does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Aampe is an agentic infrastructure for real-time personalization, assigning a dedicated AI agent to each user to run parallel experiments and adapt messaging individually. It enables automated testing and causal simulation to optimize engagement across integrated marketing channels without manual model building. That is the core of what Aampe does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Aampe free?
     a: Aampe uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Aampe?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Aampe?
 
-Aampe is an agentic infrastructure for real-time personalization, assigning a dedicated AI agent to each user to run parallel experiments and adapt messaging individually. It enables automated testing and causal simulation to optimize engagement across integrated marketing channels without manual model building. AI Agents Freemium
-
+Aampe is an agentic infrastructure for real-time personalization, assigning a dedicated AI agent to each user to run parallel experiments and adapt messaging individually. It enables automated testing and causal simulation to optimize engagement across integrated marketing channels without manual model building.
 In short, Aampe is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users discover that this feature of Aampe alone covers what previously took multiple tools.
 
 ## Key features

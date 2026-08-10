@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is BlogBuster.so?
-    a: BlogBuster.so is an AI-powered tool that automates the creation, optimization, and publishing of SEO-friendly blog articles. It streamlines workflow with features like keyword suggestions, backlink generation, and direct CMS integration.  That is the core of what BlogBuster.so does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: BlogBuster.so is an AI-powered tool that automates the creation, optimization, and publishing of SEO-friendly blog articles. It streamlines workflow with features like keyword suggestions, backlink generation, and direct CMS integration. That is the core of what BlogBuster.so does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is BlogBuster.so free?
     a: BlogBuster.so uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with BlogBuster.so?

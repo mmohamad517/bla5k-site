@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is DomainHunt?
-    a: "Summary: DomainHuntAI is an AI-powered startup domain name generator that simplifies finding the perfect domain name for a business idea. Domain Management Free - $29/mo That is the core of what DomainHunt does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "Summary: DomainHuntAI is an AI-powered startup domain name generator that simplifies finding the perfect domain name for a business idea. That is the core of what DomainHunt does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is DomainHunt free?
     a: DomainHunt uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with DomainHunt?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is DomainHunt?
 
-Summary: DomainHuntAI is an AI-powered startup domain name generator that simplifies finding the perfect domain name for a business idea. Domain Management Free - $29/mo
-
+Summary: DomainHuntAI is an AI-powered startup domain name generator that simplifies finding the perfect domain name for a business idea.
 In short, DomainHunt is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. Many users find that this one ability of DomainHunt removes several tasks from their daily routine.
 
 ## Key features

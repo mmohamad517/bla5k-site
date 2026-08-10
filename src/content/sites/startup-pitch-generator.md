@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Startup Pitch Generator?
-    a: Startup Pitch Generator transforms brief project and audience details into a concise defining sentence, elevator pitch, and suggested business model. It maps customer journeys, produces a structured pitch deck, and auto‑deletes confidential inputs for privacy. Business Freemium That is the core of what Startup Pitch Generator does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Startup Pitch Generator transforms brief project and audience details into a concise defining sentence, elevator pitch, and suggested business model. It maps customer journeys, produces a structured pitch deck, and auto‑deletes confidential inputs for privacy. That is the core of what Startup Pitch Generator does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Startup Pitch Generator free?
     a: Startup Pitch Generator uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Startup Pitch Generator?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Startup Pitch Ge
 
 ## What is Startup Pitch Generator?
 
-Startup Pitch Generator transforms brief project and audience details into a concise defining sentence, elevator pitch, and suggested business model. It maps customer journeys, produces a structured pitch deck, and auto‑deletes confidential inputs for privacy. Business Freemium
-
+Startup Pitch Generator transforms brief project and audience details into a concise defining sentence, elevator pitch, and suggested business model. It maps customer journeys, produces a structured pitch deck, and auto‑deletes confidential inputs for privacy.
 In short, Startup Pitch Generator is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. For a lot of people, that one function of Startup Pitch Generator collapses multiple steps into a single action.
 
 ## Key features

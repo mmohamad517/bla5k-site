@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Korbit?
-    a: Korbit AI streamlines code reviews by automatically generating pull request descriptions, detecting issues with contextual feedback, and providing actionable insights, enhancing software development efficiency and code quality while integrating with platforms like GitHub and GitLab. Code Debugging Free trial That is the core of what Korbit does — developer tools handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Korbit AI streamlines code reviews by automatically generating pull request descriptions, detecting issues with contextual feedback, and providing actionable insights, enhancing software development efficiency and code quality while integrating with platforms like GitHub and GitLab. That is the core of what Korbit does — developer tools handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Korbit free?
     a: Korbit uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Korbit?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Korbit earn
 
 ## What is Korbit?
 
-Korbit AI streamlines code reviews by automatically generating pull request descriptions, detecting issues with contextual feedback, and providing actionable insights, enhancing software development efficiency and code quality while integrating with platforms like GitHub and GitLab. Code Debugging Free trial
-
+Korbit AI streamlines code reviews by automatically generating pull request descriptions, detecting issues with contextual feedback, and providing actionable insights, enhancing software development efficiency and code quality while integrating with platforms like GitHub and GitLab.
 In short, Korbit is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for developer tools without the manual grind. For plenty of users, that one capability of Korbit replaces several steps they used to do by hand.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Textomap?
-    a: Textomap turns text, images, links, and CSVs into interactive maps instantly. It extracts coordinates, supports 28 languages, and lets users embed maps on blogs, export CSVs, or link to Google Maps, with real‑time updates across devices. Digital Marketing Freemium - $8/mo That is the core of what Textomap does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Textomap turns text, images, links, and CSVs into interactive maps instantly. It extracts coordinates, supports 28 languages, and lets users embed maps on blogs, export CSVs, or link to Google Maps, with real‑time updates across devices. That is the core of what Textomap does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Textomap free?
     a: Textomap uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $8/mo, check the official website — pricing changes often.
   - q: What can you do with Textomap?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Textomap ma
 
 ## What is Textomap?
 
-Textomap turns text, images, links, and CSVs into interactive maps instantly. It extracts coordinates, supports 28 languages, and lets users embed maps on blogs, export CSVs, or link to Google Maps, with real‑time updates across devices. Digital Marketing Freemium - $8/mo
-
+Textomap turns text, images, links, and CSVs into interactive maps instantly. It extracts coordinates, supports 28 languages, and lets users embed maps on blogs, export CSVs, or link to Google Maps, with real‑time updates across devices.
 In short, Textomap is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For plenty of users, that one capability of Textomap replaces several steps they used to do by hand.
 
 ## Key features

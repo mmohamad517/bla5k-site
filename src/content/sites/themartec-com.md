@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is themartec.com?
-    a: themartec.com is an AI-powered talent marketing platform that centralizes employee advocacy and content creation. It uses AI to transform employee stories into branded narratives and campaigns, then manages distribution and engagement across social channels and talent pools. Content creation Free That is the core of what themartec.com does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: themartec.com is an AI-powered talent marketing platform that centralizes employee advocacy and content creation. It uses AI to transform employee stories into branded narratives and campaigns, then manages distribution and engagement across social channels and talent pools. That is the core of what themartec.com does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is themartec.com free?
     a: Yes — themartec.com is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with themartec.com?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is themartec.com?
 
-themartec.com is an AI-powered talent marketing platform that centralizes employee advocacy and content creation. It uses AI to transform employee stories into branded narratives and campaigns, then manages distribution and engagement across social channels and talent pools. Content creation Free
-
+themartec.com is an AI-powered talent marketing platform that centralizes employee advocacy and content creation. It uses AI to transform employee stories into branded narratives and campaigns, then manages distribution and engagement across social channels and talent pools.
 In short, themartec.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. That one feature of themartec.com often eliminates several smaller steps from the usual workflow.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Regex.ai?
-    a: Regex.ai generates regular expression patterns from highlighted text snippets, offering syntax validation and instant matching feedback. Developers, analysts, QA testers can quickly extract emails, logs, or validate data, with copy‑paste ready expressions for workflow integration. Code assistant Freemium That is the core of what Regex.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Regex.ai generates regular expression patterns from highlighted text snippets, offering syntax validation and instant matching feedback. Developers, analysts, QA testers can quickly extract emails, logs, or validate data, with copy‑paste ready expressions for workflow integration. That is the core of what Regex.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Regex.ai free?
     a: Regex.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Regex.ai?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Regex.ai?
 
-Regex.ai generates regular expression patterns from highlighted text snippets, offering syntax validation and instant matching feedback. Developers, analysts, QA testers can quickly extract emails, logs, or validate data, with copy‑paste ready expressions for workflow integration. Code assistant Freemium
-
+Regex.ai generates regular expression patterns from highlighted text snippets, offering syntax validation and instant matching feedback. Developers, analysts, QA testers can quickly extract emails, logs, or validate data, with copy‑paste ready expressions for workflow integration.
 In short, Regex.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many, that single strength of Regex.ai is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

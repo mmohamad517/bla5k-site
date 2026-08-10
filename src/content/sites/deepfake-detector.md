@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Deepfake Detector?
-    a: Deepfake Detector analyzes audio, video, and image files with up to 95 % accuracy, offering noise removal, probability scores, confidence levels, and multilingual support. It includes a Chrome extension for web checks and an API for real‑time verification in business communications.  That is the core of what Deepfake Detector does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Deepfake Detector analyzes audio, video, and image files with up to 95 % accuracy, offering noise removal, probability scores, confidence levels, and multilingual support. It includes a Chrome extension for web checks and an API for real‑time verification in business communications. That is the core of what Deepfake Detector does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Deepfake Detector free?
     a: Deepfake Detector is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Deepfake Detector?

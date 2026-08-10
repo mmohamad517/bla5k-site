@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Twenty?
-    a: Twenty.com is an open-source CRM and SDK for building customizable CRM solutions, offering modular objects, fields, relations, and TypeScript tooling for technical teams to extend, integrate, and deploy custom applications. CRM Integration Subscription - $5/u/mo That is the core of what Twenty does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Twenty.com is an open-source CRM and SDK for building customizable CRM solutions, offering modular objects, fields, relations, and TypeScript tooling for technical teams to extend, integrate, and deploy custom applications. That is the core of what Twenty does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Twenty free?
     a: Twenty uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Twenty?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Twenty?
 
-Twenty.com is an open-source CRM and SDK for building customizable CRM solutions, offering modular objects, fields, relations, and TypeScript tooling for technical teams to extend, integrate, and deploy custom applications. CRM Integration Subscription - $5/u/mo
-
+Twenty.com is an open-source CRM and SDK for building customizable CRM solutions, offering modular objects, fields, relations, and TypeScript tooling for technical teams to extend, integrate, and deploy custom applications.
 In short, Twenty is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. Many users find that this one ability of Twenty removes several tasks from their daily routine.
 
 ## Key features

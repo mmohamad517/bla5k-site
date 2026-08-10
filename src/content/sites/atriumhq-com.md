@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is atriumhq.com?
-    a: Fullcast Performance integrates with CRM, data warehouses, and communication tools to unify sales planning and execution. It delivers AI‑driven coaching, automated goal tracking, real‑time territory and quota visibility, and data enrichment to reduce cycle time and expand pipeline reach.  That is the core of what atriumhq.com does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Fullcast Performance integrates with CRM, data warehouses, and communication tools to unify sales planning and execution. It delivers AI‑driven coaching, automated goal tracking, real‑time territory and quota visibility, and data enrichment to reduce cycle time and expand pipeline reach. That is the core of what atriumhq.com does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is atriumhq.com free?
     a: atriumhq.com is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with atriumhq.com?

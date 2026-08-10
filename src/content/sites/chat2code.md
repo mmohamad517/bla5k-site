@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Chat2Code?
-    a: Chat2Code converts natural‑language prompts into ready‑to‑use Vue, React, or React‑TS web components, auto‑installing libraries such as Zustand or usehooks‑ts. Users preview live, share, and edit in CodeSandbox, and can upload images via a modal interface. Bilingual prompts support French and English.  That is the core of what Chat2Code does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Chat2Code converts natural‑language prompts into ready‑to‑use Vue, React, or React‑TS web components, auto‑installing libraries such as Zustand or usehooks‑ts. Users preview live, share, and edit in CodeSandbox, and can upload images via a modal interface. Bilingual prompts support French and English. That is the core of what Chat2Code does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Chat2Code free?
     a: Chat2Code uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Chat2Code?

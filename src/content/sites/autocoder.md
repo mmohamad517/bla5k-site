@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AutoCoder?
-    a: Autocoder.cc is a full-stack coding tool that generates front-end, back-end, and database components through conversational interaction, offering streamlined development and single-click deployment.  That is the core of what AutoCoder does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Autocoder.cc is a full-stack coding tool that generates front-end, back-end, and database components through conversational interaction, offering streamlined development and single-click deployment. That is the core of what AutoCoder does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AutoCoder free?
     a: AutoCoder uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AutoCoder?

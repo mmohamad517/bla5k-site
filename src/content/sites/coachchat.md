@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Coachchat?
-    a: Coachchat is a 24/7 AI voice tutor that monitors your screen in real time, providing spoken step‑by‑step guidance and instant visual feedback. It adapts explanations to your pace, highlights needed corrections, and celebrates progress across desktop, tablet, and mobile. Coaching Freemium That is the core of what Coachchat does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Coachchat is a 24/7 AI voice tutor that monitors your screen in real time, providing spoken step‑by‑step guidance and instant visual feedback. It adapts explanations to your pace, highlights needed corrections, and celebrates progress across desktop, tablet, and mobile. That is the core of what Coachchat does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Coachchat free?
     a: Coachchat uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Coachchat?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Coachc
 
 ## What is Coachchat?
 
-Coachchat is a 24/7 AI voice tutor that monitors your screen in real time, providing spoken step‑by‑step guidance and instant visual feedback. It adapts explanations to your pace, highlights needed corrections, and celebrates progress across desktop, tablet, and mobile. Coaching Freemium
-
+Coachchat is a 24/7 AI voice tutor that monitors your screen in real time, providing spoken step‑by‑step guidance and instant visual feedback. It adapts explanations to your pace, highlights needed corrections, and celebrates progress across desktop, tablet, and mobile.
 In short, Coachchat is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. Many users find that this one ability of Coachchat removes several tasks from their daily routine.
 
 ## Key features

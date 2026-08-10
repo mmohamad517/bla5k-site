@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Clacky?
-    a: Clackyai enables users to create and monetize applications quickly with customizable features like authentication and payment processing. Its modular design supports template remixing and community collaboration, suitable for various personal and professional use cases. App Builder Subscription That is the core of what Clacky does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Clackyai enables users to create and monetize applications quickly with customizable features like authentication and payment processing. Its modular design supports template remixing and community collaboration, suitable for various personal and professional use cases. That is the core of what Clacky does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Clacky free?
     a: Clacky is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Clacky?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Clacky earn thei
 
 ## What is Clacky?
 
-Clackyai enables users to create and monetize applications quickly with customizable features like authentication and payment processing. Its modular design supports template remixing and community collaboration, suitable for various personal and professional use cases. App Builder Subscription
-
+Clackyai enables users to create and monetize applications quickly with customizable features like authentication and payment processing. Its modular design supports template remixing and community collaboration, suitable for various personal and professional use cases.
 In short, Clacky is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For plenty of users, that one capability of Clacky replaces several steps they used to do by hand.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SpeakBrightly?
-    a: SpeakBrightly is an AI tool that helps users overcome speaking anxiety and improve public speaking skills through personalized practice, constructive feedback, and progress tracking. It focuses on building confidence, reducing filler words, and enhancing vocal variety. Coaching Free trial That is the core of what SpeakBrightly does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SpeakBrightly is an AI tool that helps users overcome speaking anxiety and improve public speaking skills through personalized practice, constructive feedback, and progress tracking. It focuses on building confidence, reducing filler words, and enhancing vocal variety. That is the core of what SpeakBrightly does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SpeakBrightly free?
     a: SpeakBrightly uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with SpeakBrightly?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like SpeakBright
 
 ## What is SpeakBrightly?
 
-SpeakBrightly is an AI tool that helps users overcome speaking anxiety and improve public speaking skills through personalized practice, constructive feedback, and progress tracking. It focuses on building confidence, reducing filler words, and enhancing vocal variety. Coaching Free trial
-
+SpeakBrightly is an AI tool that helps users overcome speaking anxiety and improve public speaking skills through personalized practice, constructive feedback, and progress tracking. It focuses on building confidence, reducing filler words, and enhancing vocal variety.
 In short, SpeakBrightly is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. That one capability of SpeakBrightly frequently saves users from juggling several separate steps.
 
 ## Key features

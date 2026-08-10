@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Jessica by BetterSpeech?
-    a: Jessica is an AI‑powered speech therapy assistant that uses speech recognition to assess patterns, offers on‑demand personalized practice, and delivers instant, data‑based feedback. It supports stuttering, dysarthria, aphasia, and sound disorders with an engaging avatar for users of all ages.  That is the core of what Jessica by BetterSpeech does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Jessica is an AI‑powered speech therapy assistant that uses speech recognition to assess patterns, offers on‑demand personalized practice, and delivers instant, data‑based feedback. It supports stuttering, dysarthria, aphasia, and sound disorders with an engaging avatar for users of all ages. That is the core of what Jessica by BetterSpeech does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Jessica by BetterSpeech free?
     a: Jessica by BetterSpeech is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Jessica by BetterSpeech?

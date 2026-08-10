@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is UNTOLD?
-    a: Untold lets users craft or randomly generate interactive stories across genres like fantasy, space, or mystery, even mixing them. The AI creates adaptive plots, characters, and dialogue, with bookmarking, theme toggles, and secure account saving.  That is the core of what UNTOLD does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Untold lets users craft or randomly generate interactive stories across genres like fantasy, space, or mystery, even mixing them. The AI creates adaptive plots, characters, and dialogue, with bookmarking, theme toggles, and secure account saving. That is the core of what UNTOLD does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is UNTOLD free?
     a: Yes — UNTOLD is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with UNTOLD?

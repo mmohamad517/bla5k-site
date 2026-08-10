@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is tangent.ai?
-    a: TANGENT AI lets beauty brands build skin‑ and hair‑analysis quizzes, sync results to CRM, personalize storefronts and bundles, track user progress, and deliver insights via a dashboard that measures conversion, basket size, and first‑time shopper impact.  That is the core of what tangent.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: TANGENT AI lets beauty brands build skin‑ and hair‑analysis quizzes, sync results to CRM, personalize storefronts and bundles, track user progress, and deliver insights via a dashboard that measures conversion, basket size, and first‑time shopper impact. That is the core of what tangent.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is tangent.ai free?
     a: tangent.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with tangent.ai?

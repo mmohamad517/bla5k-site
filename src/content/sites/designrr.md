@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Designrr?
-    a: Designrr converts blog posts, Word/Google Docs, PDFs, audio and video into ebooks, PDFs, flipbooks and blog posts, using automatic transcription, templates and editing tools to produce export-ready layouts, transcripts and publishable lead magnets. Content creation Subscription - $29 That is the core of what Designrr does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Designrr converts blog posts, Word/Google Docs, PDFs, audio and video into ebooks, PDFs, flipbooks and blog posts, using automatic transcription, templates and editing tools to produce export-ready layouts, transcripts and publishable lead magnets. That is the core of what Designrr does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Designrr free?
     a: Designrr is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Designrr?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Design
 
 ## What is Designrr?
 
-Designrr converts blog posts, Word/Google Docs, PDFs, audio and video into ebooks, PDFs, flipbooks and blog posts, using automatic transcription, templates and editing tools to produce export-ready layouts, transcripts and publishable lead magnets. Content creation Subscription - $29
-
+Designrr converts blog posts, Word/Google Docs, PDFs, audio and video into ebooks, PDFs, flipbooks and blog posts, using automatic transcription, templates and editing tools to produce export-ready layouts, transcripts and publishable lead magnets.
 In short, Designrr is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For a lot of people, that one function of Designrr collapses multiple steps into a single action.
 
 ## Key features

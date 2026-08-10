@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is FalsoAI?
-    a: FalsoAI is a psycho-security platform that uses behavioral AI to detect cognitive manipulation and persuasion tactics in digital content. It analyzes text, URLs, and transcripts in seconds, producing structured reports that highlight manipulation patterns for investigative and editorial review. Personal assistant 1 Freemium That is the core of what FalsoAI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: FalsoAI is a psycho-security platform that uses behavioral AI to detect cognitive manipulation and persuasion tactics in digital content. It analyzes text, URLs, and transcripts in seconds, producing structured reports that highlight manipulation patterns for investigative and editorial review. That is the core of what FalsoAI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is FalsoAI free?
     a: FalsoAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with FalsoAI?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is FalsoAI?
 
-FalsoAI is a psycho-security platform that uses behavioral AI to detect cognitive manipulation and persuasion tactics in digital content. It analyzes text, URLs, and transcripts in seconds, producing structured reports that highlight manipulation patterns for investigative and editorial review. Personal assistant 1 Freemium
-
+FalsoAI is a psycho-security platform that uses behavioral AI to detect cognitive manipulation and persuasion tactics in digital content. It analyzes text, URLs, and transcripts in seconds, producing structured reports that highlight manipulation patterns for investigative and editorial review.
 In short, FalsoAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That single feature of FalsoAI alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Folionomics?
-    a: Folionomics is a multi-chain crypto portfolio management tool that helps users optimize investments across various blockchains through AI-driven insights, advanced filtering options, and regular rebalancing features, all while ensuring data privacy and security. Crypto and Web3 Freemium That is the core of what Folionomics does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Folionomics is a multi-chain crypto portfolio management tool that helps users optimize investments across various blockchains through AI-driven insights, advanced filtering options, and regular rebalancing features, all while ensuring data privacy and security. That is the core of what Folionomics does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Folionomics free?
     a: Folionomics uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Folionomics?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Folionomics?
 
-Folionomics is a multi-chain crypto portfolio management tool that helps users optimize investments across various blockchains through AI-driven insights, advanced filtering options, and regular rebalancing features, all while ensuring data privacy and security. Crypto and Web3 Freemium
-
+Folionomics is a multi-chain crypto portfolio management tool that helps users optimize investments across various blockchains through AI-driven insights, advanced filtering options, and regular rebalancing features, all while ensuring data privacy and security.
 In short, Folionomics is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. Many users discover that this feature of Folionomics alone covers what previously took multiple tools.
 
 ## Key features

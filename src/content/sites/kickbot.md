@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is KickBot?
-    a: KickBot is a cloud‑based platform for Kick streamers that unifies chat management, customizable widgets, real‑time alerts, and moderation. It offers an AI‑powered chatbot, TTS voice responses, clip creation, VOD editing, and global tipping with chargeback protection, all without local software. Chatbot builder Free That is the core of what KickBot does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: KickBot is a cloud‑based platform for Kick streamers that unifies chat management, customizable widgets, real‑time alerts, and moderation. It offers an AI‑powered chatbot, TTS voice responses, clip creation, VOD editing, and global tipping with chargeback protection, all without local software. That is the core of what KickBot does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is KickBot free?
     a: Yes — KickBot is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with KickBot?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is KickBot?
 
-KickBot is a cloud‑based platform for Kick streamers that unifies chat management, customizable widgets, real‑time alerts, and moderation. It offers an AI‑powered chatbot, TTS voice responses, clip creation, VOD editing, and global tipping with chargeback protection, all without local software. Chatbot builder Free
-
+KickBot is a cloud‑based platform for Kick streamers that unifies chat management, customizable widgets, real‑time alerts, and moderation. It offers an AI‑powered chatbot, TTS voice responses, clip creation, VOD editing, and global tipping with chargeback protection, all without local software.
 In short, KickBot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For plenty of users, that one capability of KickBot replaces several steps they used to do by hand.
 
 ## Key features

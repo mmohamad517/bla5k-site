@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ForEva?
-    a: For Eva is an AI-powered voice ordering and call management tool for restaurants, automating phone orders, reservations, and inquiries 24/7. It integrates with Square POS, syncs menus effortlessly, and converts missed calls into orders, freeing staff for in-person service. Customer support Freemium That is the core of what ForEva does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: For Eva is an AI-powered voice ordering and call management tool for restaurants, automating phone orders, reservations, and inquiries 24/7. It integrates with Square POS, syncs menus effortlessly, and converts missed calls into orders, freeing staff for in-person service. That is the core of what ForEva does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ForEva free?
     a: ForEva uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ForEva?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like ForEva earn
 
 ## What is ForEva?
 
-For Eva is an AI-powered voice ordering and call management tool for restaurants, automating phone orders, reservations, and inquiries 24/7. It integrates with Square POS, syncs menus effortlessly, and converts missed calls into orders, freeing staff for in-person service. Customer support Freemium
-
+For Eva is an AI-powered voice ordering and call management tool for restaurants, automating phone orders, reservations, and inquiries 24/7. It integrates with Square POS, syncs menus effortlessly, and converts missed calls into orders, freeing staff for in-person service.
 In short, ForEva is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. That single feature of ForEva alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

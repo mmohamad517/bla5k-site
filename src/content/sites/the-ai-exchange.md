@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is The AI Exchange?
-    a: The AI Exchange delivers structured learning and certification to help teams operationalize AI at scale. It offers playbooks, templates, a Slack community, and weekly events focused on AI operations and streamline decision‑making. AI Assistant Subscription - $49.99/mo That is the core of what The AI Exchange does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: The AI Exchange delivers structured learning and certification to help teams operationalize AI at scale. It offers playbooks, templates, a Slack community, and weekly events focused on AI operations and streamline decision‑making. That is the core of what The AI Exchange does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is The AI Exchange free?
     a: The AI Exchange is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with The AI Exchange?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is The AI Exchange?
 
-The AI Exchange delivers structured learning and certification to help teams operationalize AI at scale. It offers playbooks, templates, a Slack community, and weekly events focused on AI operations and streamline decision‑making. AI Assistant Subscription - $49.99/mo
-
+The AI Exchange delivers structured learning and certification to help teams operationalize AI at scale. It offers playbooks, templates, a Slack community, and weekly events focused on AI operations and streamline decision‑making.
 In short, The AI Exchange is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For a lot of people, that one function of The AI Exchange collapses multiple steps into a single action.
 
 ## Key features

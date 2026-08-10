@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Thrivebase?
-    a: Thrivebase lets businesses build GPT‑3.5 or GPT‑4 powered chatbots without coding. It ingests documents, websites, or CSVs, provides real‑time responses, voice input, conversation logs, lead capture, feedback collection, and exportable data for customer support, sales, and internal use. Chatbot builder Freemium - $17/mo That is the core of what Thrivebase does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Thrivebase lets businesses build GPT‑3.5 or GPT‑4 powered chatbots without coding. It ingests documents, websites, or CSVs, provides real‑time responses, voice input, conversation logs, lead capture, feedback collection, and exportable data for customer support, sales, and internal use. That is the core of what Thrivebase does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Thrivebase free?
     a: Thrivebase uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $17/mo, check the official website — pricing changes often.
   - q: What can you do with Thrivebase?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Thrivebase?
 
-Thrivebase lets businesses build GPT‑3.5 or GPT‑4 powered chatbots without coding. It ingests documents, websites, or CSVs, provides real‑time responses, voice input, conversation logs, lead capture, feedback collection, and exportable data for customer support, sales, and internal use. Chatbot builder Freemium - $17/mo
-
+Thrivebase lets businesses build GPT‑3.5 or GPT‑4 powered chatbots without coding. It ingests documents, websites, or CSVs, provides real‑time responses, voice input, conversation logs, lead capture, feedback collection, and exportable data for customer support, sales, and internal use.
 In short, Thrivebase is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. Many users discover that this feature of Thrivebase alone covers what previously took multiple tools.
 
 ## Key features

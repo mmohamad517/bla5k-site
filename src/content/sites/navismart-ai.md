@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Navismart AI?
-    a: Navismart AI simplifies the immigration process with AI-driven form filling, an eligibility checker for visa options, 24/7 support, mock interview practice, real-time application tracking, and multilingual assistance, enhancing efficiency for individuals and families navigating immigration. AI Agents Free trial That is the core of what Navismart AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Navismart AI simplifies the immigration process with AI-driven form filling, an eligibility checker for visa options, 24/7 support, mock interview practice, real-time application tracking, and multilingual assistance, enhancing efficiency for individuals and families navigating immigration. That is the core of what Navismart AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Navismart AI free?
     a: Navismart AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Navismart AI?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Navismart AI?
 
-Navismart AI simplifies the immigration process with AI-driven form filling, an eligibility checker for visa options, 24/7 support, mock interview practice, real-time application tracking, and multilingual assistance, enhancing efficiency for individuals and families navigating immigration. AI Agents Free trial
-
+Navismart AI simplifies the immigration process with AI-driven form filling, an eligibility checker for visa options, 24/7 support, mock interview practice, real-time application tracking, and multilingual assistance, enhancing efficiency for individuals and families navigating immigration.
 In short, Navismart AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users find that this one ability of Navismart AI removes several tasks from their daily routine.
 
 ## Key features

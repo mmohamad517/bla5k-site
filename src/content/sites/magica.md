@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Magica?
-    a: Magica is an all-in-one AI agent platform that unifies text, image, audio, and video generation to automate complex creative workflows. It enables users to produce campaign-ready assets—from 4K image edits and voice cloning to UGC-style ads—by routing tasks across major AI models like GPT and Midjourney.  That is the core of what Magica does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Magica is an all-in-one AI agent platform that unifies text, image, audio, and video generation to automate complex creative workflows. It enables users to produce campaign-ready assets—from 4K image edits and voice cloning to UGC-style ads—by routing tasks across major AI models like GPT and Midjourney. That is the core of what Magica does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Magica free?
     a: Magica uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $14.99/mo, check the official website — pricing changes often.
   - q: What can you do with Magica?

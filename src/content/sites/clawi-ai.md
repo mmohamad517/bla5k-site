@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Clawi.ai?
-    a: Clawi.ai is a cloud-based personal AI assistant that connects to popular messaging apps to automate tasks and manage workflows via chat. It features persistent memory, developer tools for custom automation, and multi-agent capabilities for organizational use. AI Agents Subscription - $30/mo That is the core of what Clawi.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Clawi.ai is a cloud-based personal AI assistant that connects to popular messaging apps to automate tasks and manage workflows via chat. It features persistent memory, developer tools for custom automation, and multi-agent capabilities for organizational use. That is the core of what Clawi.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Clawi.ai free?
     a: Clawi.ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Clawi.ai?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Clawi.
 
 ## What is Clawi.ai?
 
-Clawi.ai is a cloud-based personal AI assistant that connects to popular messaging apps to automate tasks and manage workflows via chat. It features persistent memory, developer tools for custom automation, and multi-agent capabilities for organizational use. AI Agents Subscription - $30/mo
-
+Clawi.ai is a cloud-based personal AI assistant that connects to popular messaging apps to automate tasks and manage workflows via chat. It features persistent memory, developer tools for custom automation, and multi-agent capabilities for organizational use.
 In short, Clawi.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For a lot of people, that one function of Clawi.ai collapses multiple steps into a single action.
 
 ## Key features

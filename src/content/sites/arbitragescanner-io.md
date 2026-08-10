@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ArbitrageScanner.io?
-    a: Crypto Arbitrage Bot identifies price discrepancies across over 40 exchanges, enabling users to execute profitable trades. It features real-time alerts, wallet analysis, and AI-driven insights, catering to both novice and experienced cryptocurrency traders. Crypto and Web3 0 1 Free trial That is the core of what ArbitrageScanner.io does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Crypto Arbitrage Bot identifies price discrepancies across over 40 exchanges, enabling users to execute profitable trades. It features real-time alerts, wallet analysis, and AI-driven insights, catering to both novice and experienced cryptocurrency traders. That is the core of what ArbitrageScanner.io does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ArbitrageScanner.io free?
     a: ArbitrageScanner.io uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ArbitrageScanner.io?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is ArbitrageScanner.io?
 
-Crypto Arbitrage Bot identifies price discrepancies across over 40 exchanges, enabling users to execute profitable trades. It features real-time alerts, wallet analysis, and AI-driven insights, catering to both novice and experienced cryptocurrency traders. Crypto and Web3 0 1 Free trial
-
+Crypto Arbitrage Bot identifies price discrepancies across over 40 exchanges, enabling users to execute profitable trades. It features real-time alerts, wallet analysis, and AI-driven insights, catering to both novice and experienced cryptocurrency traders.
 In short, ArbitrageScanner.io is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. For plenty of users, that one capability of ArbitrageScanner.io replaces several steps they used to do by hand.
 
 ## Key features

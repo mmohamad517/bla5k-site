@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Interflexion?
-    a: Interflexion delivers AI‑powered role‑play scenarios for leadership and interpersonal skill development. Users engage via voice, video, or text, then review audio‑visual replays with behavioral insights. The platform tracks progress and can be tailored to corporate training. Coaching Subscription That is the core of what Interflexion does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Interflexion delivers AI‑powered role‑play scenarios for leadership and interpersonal skill development. Users engage via voice, video, or text, then review audio‑visual replays with behavioral insights. The platform tracks progress and can be tailored to corporate training. That is the core of what Interflexion does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Interflexion free?
     a: Interflexion is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Interflexion?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Interflexio
 
 ## What is Interflexion?
 
-Interflexion delivers AI‑powered role‑play scenarios for leadership and interpersonal skill development. Users engage via voice, video, or text, then review audio‑visual replays with behavioral insights. The platform tracks progress and can be tailored to corporate training. Coaching Subscription
-
+Interflexion delivers AI‑powered role‑play scenarios for leadership and interpersonal skill development. Users engage via voice, video, or text, then review audio‑visual replays with behavioral insights. The platform tracks progress and can be tailored to corporate training.
 In short, Interflexion is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. For many, that single strength of Interflexion is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

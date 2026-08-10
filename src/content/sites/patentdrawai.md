@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PatentDrawAI?
-    a: PatentDrawAI consolidates the IP lifecycle into one platform, generating patent drafts from plain English and providing real‑time prior‑art searches, novelty scores, market valuations, and on‑demand technical drawings for inventors, attorneys, startups, and R&D teams. AI Assistant Subscription - $49/mo That is the core of what PatentDrawAI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: PatentDrawAI consolidates the IP lifecycle into one platform, generating patent drafts from plain English and providing real‑time prior‑art searches, novelty scores, market valuations, and on‑demand technical drawings for inventors, attorneys, startups, and R&D teams. That is the core of what PatentDrawAI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is PatentDrawAI free?
     a: PatentDrawAI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with PatentDrawAI?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is PatentDrawAI?
 
-PatentDrawAI consolidates the IP lifecycle into one platform, generating patent drafts from plain English and providing real‑time prior‑art searches, novelty scores, market valuations, and on‑demand technical drawings for inventors, attorneys, startups, and R&D teams. AI Assistant Subscription - $49/mo
-
+PatentDrawAI consolidates the IP lifecycle into one platform, generating patent drafts from plain English and providing real‑time prior‑art searches, novelty scores, market valuations, and on‑demand technical drawings for inventors, attorneys, startups, and R&D teams.
 In short, PatentDrawAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That single feature of PatentDrawAI alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

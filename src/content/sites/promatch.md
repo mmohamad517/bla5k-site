@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ProMatch?
-    a: Promatch is an AI talent sourcing solution that simplifies hiring in blue-collar and gray-collar sectors. It features job post generation, candidate ranking, AI-driven interviews, and comprehensive reporting, enhancing recruitment efficiency and candidate interactions. Human resources Freemium That is the core of what ProMatch does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Promatch is an AI talent sourcing solution that simplifies hiring in blue-collar and gray-collar sectors. It features job post generation, candidate ranking, AI-driven interviews, and comprehensive reporting, enhancing recruitment efficiency and candidate interactions. That is the core of what ProMatch does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ProMatch free?
     a: ProMatch uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ProMatch?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is ProMatch?
 
-Promatch is an AI talent sourcing solution that simplifies hiring in blue-collar and gray-collar sectors. It features job post generation, candidate ranking, AI-driven interviews, and comprehensive reporting, enhancing recruitment efficiency and candidate interactions. Human resources Freemium
-
+Promatch is an AI talent sourcing solution that simplifies hiring in blue-collar and gray-collar sectors. It features job post generation, candidate ranking, AI-driven interviews, and comprehensive reporting, enhancing recruitment efficiency and candidate interactions.
 In short, ProMatch is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. Many users find that this one ability of ProMatch removes several tasks from their daily routine.
 
 ## Key features

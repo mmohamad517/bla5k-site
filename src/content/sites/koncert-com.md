@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is koncert.com?
-    a: Koncert is an AI‑powered dialing platform for high‑volume, low‑latency B2B calls, offering modes such as AI Parallel, Flow, and Agent‑Assisted. It delivers multi‑channel cadences, AI script creation, data enrichment, real‑time caller‑ID heat maps, remote coaching, analytics, and CRM integration. Sales Freemium That is the core of what koncert.com does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Koncert is an AI‑powered dialing platform for high‑volume, low‑latency B2B calls, offering modes such as AI Parallel, Flow, and Agent‑Assisted. It delivers multi‑channel cadences, AI script creation, data enrichment, real‑time caller‑ID heat maps, remote coaching, analytics, and CRM integration. That is the core of what koncert.com does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is koncert.com free?
     a: koncert.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with koncert.com?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is koncert.com?
 
-Koncert is an AI‑powered dialing platform for high‑volume, low‑latency B2B calls, offering modes such as AI Parallel, Flow, and Agent‑Assisted. It delivers multi‑channel cadences, AI script creation, data enrichment, real‑time caller‑ID heat maps, remote coaching, analytics, and CRM integration. Sales Freemium
-
+Koncert is an AI‑powered dialing platform for high‑volume, low‑latency B2B calls, offering modes such as AI Parallel, Flow, and Agent‑Assisted. It delivers multi‑channel cadences, AI script creation, data enrichment, real‑time caller‑ID heat maps, remote coaching, analytics, and CRM integration.
 In short, koncert.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For many, that single strength of koncert.com is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

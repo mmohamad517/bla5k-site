@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MindMac?
-    a: MindMac is a native macOS client that integrates ChatGPT, Azure OpenAI, Gemini, and Claude on the desktop. It offers inline prompts, a 150‑template library, customizable context modes, shortcuts, keychain storage, and 15 UI languages for developers, researchers, and teams. AI Assistant Paid - $29 That is the core of what MindMac does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: MindMac is a native macOS client that integrates ChatGPT, Azure OpenAI, Gemini, and Claude on the desktop. It offers inline prompts, a 150‑template library, customizable context modes, shortcuts, keychain storage, and 15 UI languages for developers, researchers, and teams. That is the core of what MindMac does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MindMac free?
     a: MindMac is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with MindMac?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is MindMac?
 
-MindMac is a native macOS client that integrates ChatGPT, Azure OpenAI, Gemini, and Claude on the desktop. It offers inline prompts, a 150‑template library, customizable context modes, shortcuts, keychain storage, and 15 UI languages for developers, researchers, and teams. AI Assistant Paid - $29
-
+MindMac is a native macOS client that integrates ChatGPT, Azure OpenAI, Gemini, and Claude on the desktop. It offers inline prompts, a 150‑template library, customizable context modes, shortcuts, keychain storage, and 15 UI languages for developers, researchers, and teams.
 In short, MindMac is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That single feature of MindMac alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

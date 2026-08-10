@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ImagenMIA.com?
-    a: Imagenmia is an AI tool that generates personalized profile pictures based on user preferences. It supports various styles and formats, enabling individuals to create unique visuals for social media, professional profiles, and gaming avatars easily.  That is the core of what ImagenMIA.com does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Imagenmia is an AI tool that generates personalized profile pictures based on user preferences. It supports various styles and formats, enabling individuals to create unique visuals for social media, professional profiles, and gaming avatars easily. That is the core of what ImagenMIA.com does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ImagenMIA.com free?
     a: ImagenMIA.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ImagenMIA.com?

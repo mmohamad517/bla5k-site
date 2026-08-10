@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Quoai?
-    a: Quoai is an AI-powered quote calculator for tech project management, enabling quick generation of detailed quotes from specifications and RFPs. It streamlines pricing calculations, offers customizable templates, and enhances communication through intelligent requirements extraction. Project management Free trial That is the core of what Quoai does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Quoai is an AI-powered quote calculator for tech project management, enabling quick generation of detailed quotes from specifications and RFPs. It streamlines pricing calculations, offers customizable templates, and enhances communication through intelligent requirements extraction. That is the core of what Quoai does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Quoai free?
     a: Quoai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Quoai?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Quoai?
 
-Quoai is an AI-powered quote calculator for tech project management, enabling quick generation of detailed quotes from specifications and RFPs. It streamlines pricing calculations, offers customizable templates, and enhances communication through intelligent requirements extraction. Project management Free trial
-
+Quoai is an AI-powered quote calculator for tech project management, enabling quick generation of detailed quotes from specifications and RFPs. It streamlines pricing calculations, offers customizable templates, and enhances communication through intelligent requirements extraction.
 In short, Quoai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. That one feature of Quoai often eliminates several smaller steps from the usual workflow.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Typewise?
-    a: Typewise is an AI tool for customer service sales teams that improves efficiency, reduces response time, and enhances customer satisfaction through features like text prediction, auto-reply, and analytics dashboard. Sales Free trial That is the core of what Typewise does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Typewise is an AI tool for customer service sales teams that improves efficiency, reduces response time, and enhances customer satisfaction through features like text prediction, auto-reply, and analytics dashboard. That is the core of what Typewise does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Typewise free?
     a: Typewise uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Typewise?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Typewise?
 
-Typewise is an AI tool for customer service sales teams that improves efficiency, reduces response time, and enhances customer satisfaction through features like text prediction, auto-reply, and analytics dashboard. Sales Free trial
-
+Typewise is an AI tool for customer service sales teams that improves efficiency, reduces response time, and enhances customer satisfaction through features like text prediction, auto-reply, and analytics dashboard.
 In short, Typewise is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. That single feature of Typewise alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Onnix?
-    a: Onnix AI creates slide decks from bank templates, learns from past decks for rapid iteration, and performs Excel‑style data analysis via prompt commands, integrating with FactSet, CapIQ, or other feeds, delivering traceable, shareable insights for senior and junior teams.  That is the core of what Onnix does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Onnix AI creates slide decks from bank templates, learns from past decks for rapid iteration, and performs Excel‑style data analysis via prompt commands, integrating with FactSet, CapIQ, or other feeds, delivering traceable, shareable insights for senior and junior teams. That is the core of what Onnix does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Onnix free?
     a: Onnix uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Onnix?

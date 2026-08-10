@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is buzzleads.io?
-    a: BuzzLeads consolidates sales, marketing, and customer engagement for small businesses into a single CRM. It offers unified contact management, automated email/SMS follow‑ups, two‑way messaging, appointment booking, landing page and funnel builders, lead capture, and real‑time analytics. Sales Paid That is the core of what buzzleads.io does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: BuzzLeads consolidates sales, marketing, and customer engagement for small businesses into a single CRM. It offers unified contact management, automated email/SMS follow‑ups, two‑way messaging, appointment booking, landing page and funnel builders, lead capture, and real‑time analytics. That is the core of what buzzleads.io does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is buzzleads.io free?
     a: buzzleads.io is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with buzzleads.io?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like buzzleads.i
 
 ## What is buzzleads.io?
 
-BuzzLeads consolidates sales, marketing, and customer engagement for small businesses into a single CRM. It offers unified contact management, automated email/SMS follow‑ups, two‑way messaging, appointment booking, landing page and funnel builders, lead capture, and real‑time analytics. Sales Paid
-
+BuzzLeads consolidates sales, marketing, and customer engagement for small businesses into a single CRM. It offers unified contact management, automated email/SMS follow‑ups, two‑way messaging, appointment booking, landing page and funnel builders, lead capture, and real‑time analytics.
 In short, buzzleads.io is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. That one capability of buzzleads.io frequently saves users from juggling several separate steps.
 
 ## Key features

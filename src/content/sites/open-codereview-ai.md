@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Open-codereview AI?
-    a: open-codereview.ai is a privacy-first AI code review tool that generates precise line-level comments using LLMs, supporting multiple model providers and 10+ languages. It combines deterministic engineering with intelligent agents to handle large changesets, detect risks, and ensure accurate feedback without exposing code.  That is the core of what Open-codereview AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: open-codereview.ai is a privacy-first AI code review tool that generates precise line-level comments using LLMs, supporting multiple model providers and 10+ languages. It combines deterministic engineering with intelligent agents to handle large changesets, detect risks, and ensure accurate feedback without exposing code. That is the core of what Open-codereview AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Open-codereview AI free?
     a: Yes — Open-codereview AI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Open-codereview AI?

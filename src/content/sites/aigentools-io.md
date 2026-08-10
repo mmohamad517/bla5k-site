@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AIGenTools?
-    a: aigentools.io is a unified AI platform for chat, image, and video generation, combining models like GPT, Claude, and Kling into one workflow. It streamlines content creation with tools for image editing, video production, and asset generation, eliminating the need to switch between multiple apps.  That is the core of what AIGenTools does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: aigentools.io is a unified AI platform for chat, image, and video generation, combining models like GPT, Claude, and Kling into one workflow. It streamlines content creation with tools for image editing, video production, and asset generation, eliminating the need to switch between multiple apps. That is the core of what AIGenTools does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AIGenTools free?
     a: AIGenTools uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9.9/mo, check the official website — pricing changes often.
   - q: What can you do with AIGenTools?

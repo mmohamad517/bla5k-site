@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Gabber?
-    a: Gabber is a cloud-based platform for developing real-time AI applications with voice, vision, and speech capabilities using a drag-and-drop interface. It supports low-latency inference, customizable inputs, and collaborative features for diverse multi-modal projects. AI Agents Freemium That is the core of what Gabber does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Gabber is a cloud-based platform for developing real-time AI applications with voice, vision, and speech capabilities using a drag-and-drop interface. It supports low-latency inference, customizable inputs, and collaborative features for diverse multi-modal projects. That is the core of what Gabber does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Gabber free?
     a: Gabber uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Gabber?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Gabber earn thei
 
 ## What is Gabber?
 
-Gabber is a cloud-based platform for developing real-time AI applications with voice, vision, and speech capabilities using a drag-and-drop interface. It supports low-latency inference, customizable inputs, and collaborative features for diverse multi-modal projects. AI Agents Freemium
-
+Gabber is a cloud-based platform for developing real-time AI applications with voice, vision, and speech capabilities using a drag-and-drop interface. It supports low-latency inference, customizable inputs, and collaborative features for diverse multi-modal projects.
 In short, Gabber is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For plenty of users, that one capability of Gabber replaces several steps they used to do by hand.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Assistive Chat?
-    a: Assistive Chat is a GPT‑4 multimodal assistant that creates and converts text, images, videos, audio, and code. It remembers context, browses the web, retrieves PDFs, analyzes data, and previews code for executable scripts. Chat Freemium That is the core of what Assistive Chat does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Assistive Chat is a GPT‑4 multimodal assistant that creates and converts text, images, videos, audio, and code. It remembers context, browses the web, retrieves PDFs, analyzes data, and previews code for executable scripts. That is the core of what Assistive Chat does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Assistive Chat free?
     a: Assistive Chat uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Assistive Chat?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Assistive C
 
 ## What is Assistive Chat?
 
-Assistive Chat is a GPT‑4 multimodal assistant that creates and converts text, images, videos, audio, and code. It remembers context, browses the web, retrieves PDFs, analyzes data, and previews code for executable scripts. Chat Freemium
-
+Assistive Chat is a GPT‑4 multimodal assistant that creates and converts text, images, videos, audio, and code. It remembers context, browses the web, retrieves PDFs, analyzes data, and previews code for executable scripts.
 In short, Assistive Chat is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. That single feature of Assistive Chat alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

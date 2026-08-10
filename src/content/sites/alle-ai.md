@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Alle-AI?
-    a: Alle‑AI aggregates and compares outputs from multiple generative AI models, delivering unified results while reducing bias and hallucinations through consistency checks and fact‑checking. It supports text, image, audio, video generation, offers an API, workbench, and an educational licensing program. AI Assistant Subscription That is the core of what Alle-AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Alle‑AI aggregates and compares outputs from multiple generative AI models, delivering unified results while reducing bias and hallucinations through consistency checks and fact‑checking. It supports text, image, audio, video generation, offers an API, workbench, and an educational licensing program. That is the core of what Alle-AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Alle-AI free?
     a: Alle-AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Alle-AI?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Alle-AI?
 
-Alle‑AI aggregates and compares outputs from multiple generative AI models, delivering unified results while reducing bias and hallucinations through consistency checks and fact‑checking. It supports text, image, audio, video generation, offers an API, workbench, and an educational licensing program. AI Assistant Subscription
-
+Alle‑AI aggregates and compares outputs from multiple generative AI models, delivering unified results while reducing bias and hallucinations through consistency checks and fact‑checking. It supports text, image, audio, video generation, offers an API, workbench, and an educational licensing program.
 In short, Alle-AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one feature of Alle-AI often eliminates several smaller steps from the usual workflow.
 
 ## Key features

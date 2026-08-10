@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Airfriend?
-    a: Airfriend is a conversational AI tool for WhatsApp that engages users in personalized daily chats, adapting responses based on preferences and past interactions, and aims to create a friendship-like experience for ongoing, thoughtful communication. Personal Chatbot Freemium That is the core of what Airfriend does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Airfriend is a conversational AI tool for WhatsApp that engages users in personalized daily chats, adapting responses based on preferences and past interactions, and aims to create a friendship-like experience for ongoing, thoughtful communication. That is the core of what Airfriend does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Airfriend free?
     a: Airfriend uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Airfriend?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Airfriend?
 
-Airfriend is a conversational AI tool for WhatsApp that engages users in personalized daily chats, adapting responses based on preferences and past interactions, and aims to create a friendship-like experience for ongoing, thoughtful communication. Personal Chatbot Freemium
-
+Airfriend is a conversational AI tool for WhatsApp that engages users in personalized daily chats, adapting responses based on preferences and past interactions, and aims to create a friendship-like experience for ongoing, thoughtful communication.
 In short, Airfriend is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For a lot of people, that one function of Airfriend collapses multiple steps into a single action.
 
 ## Key features

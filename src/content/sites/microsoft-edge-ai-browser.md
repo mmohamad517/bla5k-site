@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Microsoft Edge AI-Browser?
-    a: Microsoft Edge AI-Browser is a Copilot-powered browser for Mac that delivers quick answers and voice navigation. It enhances productivity with features like vertical tabs, a built-in VPN, split-screen, and real-time video translation. AI Assistant Freemium That is the core of what Microsoft Edge AI-Browser does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Microsoft Edge AI-Browser is a Copilot-powered browser for Mac that delivers quick answers and voice navigation. It enhances productivity with features like vertical tabs, a built-in VPN, split-screen, and real-time video translation. That is the core of what Microsoft Edge AI-Browser does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Microsoft Edge AI-Browser free?
     a: Microsoft Edge AI-Browser uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Microsoft Edge AI-Browser?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Microsoft Edge AI-Browser?
 
-Microsoft Edge AI-Browser is a Copilot-powered browser for Mac that delivers quick answers and voice navigation. It enhances productivity with features like vertical tabs, a built-in VPN, split-screen, and real-time video translation. AI Assistant Freemium
-
+Microsoft Edge AI-Browser is a Copilot-powered browser for Mac that delivers quick answers and voice navigation. It enhances productivity with features like vertical tabs, a built-in VPN, split-screen, and real-time video translation.
 In short, Microsoft Edge AI-Browser is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users discover that this feature of Microsoft Edge AI-Browser alone covers what previously took multiple tools.
 
 ## Key features

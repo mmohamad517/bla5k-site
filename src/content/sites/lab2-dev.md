@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Lab2.dev?
-    a: Python app generator that builds Streamlit applications from plain text prompts. Ideal for non‑coding users such as data scientists and product managers, it enables rapid prototyping of AI‑powered features and allows post‑creation customization. App Builder Free That is the core of what Lab2.dev does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Python app generator that builds Streamlit applications from plain text prompts. Ideal for non‑coding users such as data scientists and product managers, it enables rapid prototyping of AI‑powered features and allows post‑creation customization. That is the core of what Lab2.dev does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Lab2.dev free?
     a: Yes — Lab2.dev is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Lab2.dev?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Lab2.dev earn th
 
 ## What is Lab2.dev?
 
-Python app generator that builds Streamlit applications from plain text prompts. Ideal for non‑coding users such as data scientists and product managers, it enables rapid prototyping of AI‑powered features and allows post‑creation customization. App Builder Free
-
+Python app generator that builds Streamlit applications from plain text prompts. Ideal for non‑coding users such as data scientists and product managers, it enables rapid prototyping of AI‑powered features and allows post‑creation customization.
 In short, Lab2.dev is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. Many users find that this one ability of Lab2.dev removes several tasks from their daily routine.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SalesHero.io?
-    a: SalesHero.io boosts sales team productivity by automating tasks such as coaching, deal analysis, and meeting support. It provides data-driven insights and seamless integration with calendar apps to enhance customer interactions and streamline the sales process.  That is the core of what SalesHero.io does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SalesHero.io boosts sales team productivity by automating tasks such as coaching, deal analysis, and meeting support. It provides data-driven insights and seamless integration with calendar apps to enhance customer interactions and streamline the sales process. That is the core of what SalesHero.io does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SalesHero.io free?
     a: SalesHero.io uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with SalesHero.io?

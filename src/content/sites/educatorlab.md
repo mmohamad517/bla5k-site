@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is EducatorLab?
-    a: Educator Lab uses AI to generate compliant lesson plans, worksheets, and activities for all grades and subjects. It exports PDFs/Docs, allows curriculum alignment, offers a collaboration hub, and streamlines planning and assessment workflows. Course Generator Subscription That is the core of what EducatorLab does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Educator Lab uses AI to generate compliant lesson plans, worksheets, and activities for all grades and subjects. It exports PDFs/Docs, allows curriculum alignment, offers a collaboration hub, and streamlines planning and assessment workflows. That is the core of what EducatorLab does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is EducatorLab free?
     a: EducatorLab is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with EducatorLab?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is EducatorLab?
 
-Educator Lab uses AI to generate compliant lesson plans, worksheets, and activities for all grades and subjects. It exports PDFs/Docs, allows curriculum alignment, offers a collaboration hub, and streamlines planning and assessment workflows. Course Generator Subscription
-
+Educator Lab uses AI to generate compliant lesson plans, worksheets, and activities for all grades and subjects. It exports PDFs/Docs, allows curriculum alignment, offers a collaboration hub, and streamlines planning and assessment workflows.
 In short, EducatorLab is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. That one feature of EducatorLab often eliminates several smaller steps from the usual workflow.
 
 ## Key features

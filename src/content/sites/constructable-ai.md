@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Constructable.ai?
-    a: Constructable centralizes plan review, markups, versioned document histories and issue tracking for preconstruction and field teams. AI extracts issues, compares revisions, creates searchable markups/reports, and links costs, RFIs, takeoffs, and coordination across trades. Construction Management Subscription - $850/mo That is the core of what Constructable.ai does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Constructable centralizes plan review, markups, versioned document histories and issue tracking for preconstruction and field teams. AI extracts issues, compares revisions, creates searchable markups/reports, and links costs, RFIs, takeoffs, and coordination across trades. That is the core of what Constructable.ai does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Constructable.ai free?
     a: Constructable.ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Constructable.ai?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Constructable.ai?
 
-Constructable centralizes plan review, markups, versioned document histories and issue tracking for preconstruction and field teams. AI extracts issues, compares revisions, creates searchable markups/reports, and links costs, RFIs, takeoffs, and coordination across trades. Construction Management Subscription - $850/mo
-
+Constructable centralizes plan review, markups, versioned document histories and issue tracking for preconstruction and field teams. AI extracts issues, compares revisions, creates searchable markups/reports, and links costs, RFIs, takeoffs, and coordination across trades.
 In short, Constructable.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many, that single strength of Constructable.ai is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

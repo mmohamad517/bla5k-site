@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PingMeBud?
-    a: PingMeBud is a macOS menu bar app that monitors meeting audio locally on Apple Silicon, sending real-time alerts for specific keywords without joining calls. It processes speech entirely on-device for privacy, works with major conferencing apps, and requires no cloud or account. Audio Free trial That is the core of what PingMeBud does — ai audio handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: PingMeBud is a macOS menu bar app that monitors meeting audio locally on Apple Silicon, sending real-time alerts for specific keywords without joining calls. It processes speech entirely on-device for privacy, works with major conferencing apps, and requires no cloud or account. That is the core of what PingMeBud does — ai audio handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is PingMeBud free?
     a: PingMeBud uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with PingMeBud?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is PingMeBud?
 
-PingMeBud is a macOS menu bar app that monitors meeting audio locally on Apple Silicon, sending real-time alerts for specific keywords without joining calls. It processes speech entirely on-device for privacy, works with major conferencing apps, and requires no cloud or account. Audio Free trial
-
+PingMeBud is a macOS menu bar app that monitors meeting audio locally on Apple Silicon, sending real-time alerts for specific keywords without joining calls. It processes speech entirely on-device for privacy, works with major conferencing apps, and requires no cloud or account.
 In short, PingMeBud is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI audio without the manual grind. That one feature of PingMeBud often eliminates several smaller steps from the usual workflow.
 
 ## Key features

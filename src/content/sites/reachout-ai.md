@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Reachout.ai?
-    a: "Reachout.AI is a personalization platform for automated 1:1 video messaging that helps founders and sales teams break through inbox clutter and drive consistent, predictable sales conversations and appointments using A.I. Sales Subscription - $249 That is the core of what Reachout.ai does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "Reachout.AI is a personalization platform for automated 1:1 video messaging that helps founders and sales teams break through inbox clutter and drive consistent, predictable sales conversations and appointments using A.I. That is the core of what Reachout.ai does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is Reachout.ai free?
     a: Reachout.ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Reachout.ai?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Reachout.ai earn
 
 ## What is Reachout.ai?
 
-Reachout.AI is a personalization platform for automated 1:1 video messaging that helps founders and sales teams break through inbox clutter and drive consistent, predictable sales conversations and appointments using A.I. Sales Subscription - $249
-
+Reachout.AI is a personalization platform for automated 1:1 video messaging that helps founders and sales teams break through inbox clutter and drive consistent, predictable sales conversations and appointments using A.I.
 In short, Reachout.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For a lot of people, that one function of Reachout.ai collapses multiple steps into a single action.
 
 ## Key features

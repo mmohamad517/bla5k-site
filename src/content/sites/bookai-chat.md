@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is BookAI.chat?
-    a: BookAI.chat lets users chat with any book by entering title and author, supports over 30 languages, and uses GPT‑3/4 to deliver instant, context‑aware summaries, plot insights, and character analysis for students, researchers, and readers. Chat Freemium That is the core of what BookAI.chat does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: BookAI.chat lets users chat with any book by entering title and author, supports over 30 languages, and uses GPT‑3/4 to deliver instant, context‑aware summaries, plot insights, and character analysis for students, researchers, and readers. That is the core of what BookAI.chat does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is BookAI.chat free?
     a: BookAI.chat uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with BookAI.chat?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is BookAI.chat?
 
-BookAI.chat lets users chat with any book by entering title and author, supports over 30 languages, and uses GPT‑3/4 to deliver instant, context‑aware summaries, plot insights, and character analysis for students, researchers, and readers. Chat Freemium
-
+BookAI.chat lets users chat with any book by entering title and author, supports over 30 languages, and uses GPT‑3/4 to deliver instant, context‑aware summaries, plot insights, and character analysis for students, researchers, and readers.
 In short, BookAI.chat is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. That single feature of BookAI.chat alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

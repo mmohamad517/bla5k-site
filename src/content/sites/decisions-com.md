@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Decisions.com?
-    a: Decisions is a low‑code platform that unites a visual rules engine, workflow management, AI orchestration, and process mining. It lets analysts design, test, and deploy decision logic while IT enforces governance across enterprise integrations like SAP and Dynamics. App Builder Freemium - $6750 That is the core of what Decisions.com does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Decisions is a low‑code platform that unites a visual rules engine, workflow management, AI orchestration, and process mining. It lets analysts design, test, and deploy decision logic while IT enforces governance across enterprise integrations like SAP and Dynamics. That is the core of what Decisions.com does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Decisions.com free?
     a: Decisions.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $6750, check the official website — pricing changes often.
   - q: What can you do with Decisions.com?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Decisions.com?
 
-Decisions is a low‑code platform that unites a visual rules engine, workflow management, AI orchestration, and process mining. It lets analysts design, test, and deploy decision logic while IT enforces governance across enterprise integrations like SAP and Dynamics. App Builder Freemium - $6750
-
+Decisions is a low‑code platform that unites a visual rules engine, workflow management, AI orchestration, and process mining. It lets analysts design, test, and deploy decision logic while IT enforces governance across enterprise integrations like SAP and Dynamics.
 In short, Decisions.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For a lot of people, that one function of Decisions.com collapses multiple steps into a single action.
 
 ## Key features

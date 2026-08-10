@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Chatbuild ai?
-    a: Create a custom AI chatbot without coding. Upload documents or site content to train it, then deploy via a single code snippet on WordPress, Shopify, or any site. Manage chats, export logs, and view engagement analytics. Chatbot builder Subscription - $39.99/mo That is the core of what Chatbuild ai does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Create a custom AI chatbot without coding. Upload documents or site content to train it, then deploy via a single code snippet on WordPress, Shopify, or any site. Manage chats, export logs, and view engagement analytics. That is the core of what Chatbuild ai does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Chatbuild ai free?
     a: Chatbuild ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Chatbuild ai?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Chatbuild a
 
 ## What is Chatbuild ai?
 
-Create a custom AI chatbot without coding. Upload documents or site content to train it, then deploy via a single code snippet on WordPress, Shopify, or any site. Manage chats, export logs, and view engagement analytics. Chatbot builder Subscription - $39.99/mo
-
+Create a custom AI chatbot without coding. Upload documents or site content to train it, then deploy via a single code snippet on WordPress, Shopify, or any site. Manage chats, export logs, and view engagement analytics.
 In short, Chatbuild ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For a lot of people, that one function of Chatbuild ai collapses multiple steps into a single action.
 
 ## Key features

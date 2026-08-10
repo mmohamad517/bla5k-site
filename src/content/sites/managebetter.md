@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Managebetter?
-    a: "ManageBetter uses AI to automate performance reviews, offering one‑click generation, analytics, 360° feedback, milestone tracking, coaching tools, and real‑time 1:1 scheduling, cutting review time by up to 80% while centralizing data for actionable insights. Human resources Subscription - $30/mo That is the core of what Managebetter does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "ManageBetter uses AI to automate performance reviews, offering one‑click generation, analytics, 360° feedback, milestone tracking, coaching tools, and real‑time 1:1 scheduling, cutting review time by up to 80% while centralizing data for actionable insights. That is the core of what Managebetter does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is Managebetter free?
     a: Managebetter is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Managebetter?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Managebette
 
 ## What is Managebetter?
 
-ManageBetter uses AI to automate performance reviews, offering one‑click generation, analytics, 360° feedback, milestone tracking, coaching tools, and real‑time 1:1 scheduling, cutting review time by up to 80% while centralizing data for actionable insights. Human resources Subscription - $30/mo
-
+ManageBetter uses AI to automate performance reviews, offering one‑click generation, analytics, 360° feedback, milestone tracking, coaching tools, and real‑time 1:1 scheduling, cutting review time by up to 80% while centralizing data for actionable insights.
 In short, Managebetter is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. For many, that single strength of Managebetter is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

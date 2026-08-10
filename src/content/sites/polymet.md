@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Polymet?
-    a: Polymet is an AI-driven design tool for quick idea prototyping and product design. It integrates with Figma, supports various frameworks, and facilitates collaboration, allowing users to upload, edit, and preview designs efficiently. Conceptual Generation Freemium That is the core of what Polymet does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Polymet is an AI-driven design tool for quick idea prototyping and product design. It integrates with Figma, supports various frameworks, and facilitates collaboration, allowing users to upload, edit, and preview designs efficiently. That is the core of what Polymet does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Polymet free?
     a: Polymet uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Polymet?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Polymet?
 
-Polymet is an AI-driven design tool for quick idea prototyping and product design. It integrates with Figma, supports various frameworks, and facilitates collaboration, allowing users to upload, edit, and preview designs efficiently. Conceptual Generation Freemium
-
+Polymet is an AI-driven design tool for quick idea prototyping and product design. It integrates with Figma, supports various frameworks, and facilitates collaboration, allowing users to upload, edit, and preview designs efficiently.
 In short, Polymet is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. For many, that single strength of Polymet is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

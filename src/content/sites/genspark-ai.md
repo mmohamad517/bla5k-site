@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Genspark.ai?
-    a: Genspark unifies inbox, workflows, and collaboration into one AI workspace, offering a 1‑million‑token context window, voice‑to‑text, auto‑meeting notes, and Chrome extensions for instant summarization and task automation across WhatsApp, Slack, and Teams.  That is the core of what Genspark.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Genspark unifies inbox, workflows, and collaboration into one AI workspace, offering a 1‑million‑token context window, voice‑to‑text, auto‑meeting notes, and Chrome extensions for instant summarization and task automation across WhatsApp, Slack, and Teams. That is the core of what Genspark.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Genspark.ai free?
     a: Genspark.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Genspark.ai?

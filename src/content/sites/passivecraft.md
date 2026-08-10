@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PassiveCraft?
-    a: PassiveCraft is an AI-powered tool that transforms social media content into professional ebooks, guides, and workbooks. It analyzes engagement trends from connected platforms (Instagram, TikTok, YouTube, Facebook) and generates formatted PDF outputs.  That is the core of what PassiveCraft does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: PassiveCraft is an AI-powered tool that transforms social media content into professional ebooks, guides, and workbooks. It analyzes engagement trends from connected platforms (Instagram, TikTok, YouTube, Facebook) and generates formatted PDF outputs. That is the core of what PassiveCraft does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is PassiveCraft free?
     a: Yes — PassiveCraft is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with PassiveCraft?

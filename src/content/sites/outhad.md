@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Outhad?
-    a: Outhad AI is a real-time customer activation platform that unifies data, automates customer journeys, and delivers personalized experiences using AI. It features audience segmentation, advanced analytics, and continuous optimization to enhance user engagement and conversion rates. Marketing Free That is the core of what Outhad does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Outhad AI is a real-time customer activation platform that unifies data, automates customer journeys, and delivers personalized experiences using AI. It features audience segmentation, advanced analytics, and continuous optimization to enhance user engagement and conversion rates. That is the core of what Outhad does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Outhad free?
     a: Yes — Outhad is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Outhad?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Outhad earn thei
 
 ## What is Outhad?
 
-Outhad AI is a real-time customer activation platform that unifies data, automates customer journeys, and delivers personalized experiences using AI. It features audience segmentation, advanced analytics, and continuous optimization to enhance user engagement and conversion rates. Marketing Free
-
+Outhad AI is a real-time customer activation platform that unifies data, automates customer journeys, and delivers personalized experiences using AI. It features audience segmentation, advanced analytics, and continuous optimization to enhance user engagement and conversion rates.
 In short, Outhad is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For plenty of users, that one capability of Outhad replaces several steps they used to do by hand.
 
 ## Key features

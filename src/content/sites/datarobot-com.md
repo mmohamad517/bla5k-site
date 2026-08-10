@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is datarobot.com?
-    a: DataRobot is an enterprise agent workforce platform for building, deploying, and governing production-grade AI agents across on-prem, hybrid, and cross-cloud environments, offering blueprints, integrations, compute orchestration, observability, security controls, and governance tooling. AI Agents Freemium That is the core of what datarobot.com does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: DataRobot is an enterprise agent workforce platform for building, deploying, and governing production-grade AI agents across on-prem, hybrid, and cross-cloud environments, offering blueprints, integrations, compute orchestration, observability, security controls, and governance tooling. That is the core of what datarobot.com does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is datarobot.com free?
     a: datarobot.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with datarobot.com?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like datarobot.c
 
 ## What is datarobot.com?
 
-DataRobot is an enterprise agent workforce platform for building, deploying, and governing production-grade AI agents across on-prem, hybrid, and cross-cloud environments, offering blueprints, integrations, compute orchestration, observability, security controls, and governance tooling. AI Agents Freemium
-
+DataRobot is an enterprise agent workforce platform for building, deploying, and governing production-grade AI agents across on-prem, hybrid, and cross-cloud environments, offering blueprints, integrations, compute orchestration, observability, security controls, and governance tooling.
 In short, datarobot.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That single feature of datarobot.com alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

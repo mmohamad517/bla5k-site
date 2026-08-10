@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PollyReach?
-    a: Pollyreach provides AI voice agents that place real inbound and outbound calls using dedicated numbers across 50+ countries, offering installable skills and API integration for multilingual appointment scheduling, reservations, support, callbacks, call transfers, and secure encrypted communication. Voice Communication Free trial - $17-$20/mo That is the core of what PollyReach does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Pollyreach provides AI voice agents that place real inbound and outbound calls using dedicated numbers across 50+ countries, offering installable skills and API integration for multilingual appointment scheduling, reservations, support, callbacks, call transfers, and secure encrypted communication. That is the core of what PollyReach does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is PollyReach free?
     a: PollyReach uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with PollyReach?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is PollyReach?
 
-Pollyreach provides AI voice agents that place real inbound and outbound calls using dedicated numbers across 50+ countries, offering installable skills and API integration for multilingual appointment scheduling, reservations, support, callbacks, call transfers, and secure encrypted communication. Voice Communication Free trial - $17-$20/mo
-
+Pollyreach provides AI voice agents that place real inbound and outbound calls using dedicated numbers across 50+ countries, offering installable skills and API integration for multilingual appointment scheduling, reservations, support, callbacks, call transfers, and secure encrypted communication.
 In short, PollyReach is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. Many users find that this one ability of PollyReach removes several tasks from their daily routine.
 
 ## Key features

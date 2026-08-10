@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is aiCode.fail?
-    a: aiCode.fail reviews generated code independently of chat context, supports all languages without compiling, detects hallucinations and security issues, and integrates with Monaco Editor for instant copy and unlimited audits, speeding debugging and development cycles. Code Debugging Freemium - $5/mo That is the core of what aiCode.fail does — developer tools handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: aiCode.fail reviews generated code independently of chat context, supports all languages without compiling, detects hallucinations and security issues, and integrates with Monaco Editor for instant copy and unlimited audits, speeding debugging and development cycles. That is the core of what aiCode.fail does — developer tools handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is aiCode.fail free?
     a: aiCode.fail uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $5/mo, check the official website — pricing changes often.
   - q: What can you do with aiCode.fail?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like aiCode
 
 ## What is aiCode.fail?
 
-aiCode.fail reviews generated code independently of chat context, supports all languages without compiling, detects hallucinations and security issues, and integrates with Monaco Editor for instant copy and unlimited audits, speeding debugging and development cycles. Code Debugging Freemium - $5/mo
-
+aiCode.fail reviews generated code independently of chat context, supports all languages without compiling, detects hallucinations and security issues, and integrates with Monaco Editor for instant copy and unlimited audits, speeding debugging and development cycles.
 In short, aiCode.fail is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for developer tools without the manual grind. For a lot of people, that one function of aiCode.fail collapses multiple steps into a single action.
 
 ## Key features

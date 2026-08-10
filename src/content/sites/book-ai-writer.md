@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Book AI Writer?
-    a: BookAIWriter.com streamlines book creation by converting a simple outline into full chapters and matching cover art. Writers set plot, characters, style, and chapter count; the platform generates complete text and visual branding in a single interface.  That is the core of what Book AI Writer does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: BookAIWriter.com streamlines book creation by converting a simple outline into full chapters and matching cover art. Writers set plot, characters, style, and chapter count; the platform generates complete text and visual branding in a single interface. That is the core of what Book AI Writer does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Book AI Writer free?
     a: Book AI Writer uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Book AI Writer?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Maket?
-    a: Maket uses AI to generate accurate, build‑ready residential floor plans from simple room, size, and shape inputs. It accepts uploads for renovation, offers a single canvas for editing and visualization, and eliminates the need for CAD expertise. Architectural Design Free trial That is the core of what Maket does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Maket uses AI to generate accurate, build‑ready residential floor plans from simple room, size, and shape inputs. It accepts uploads for renovation, offers a single canvas for editing and visualization, and eliminates the need for CAD expertise. That is the core of what Maket does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Maket free?
     a: Maket uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Maket?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Maket?
 
-Maket uses AI to generate accurate, build‑ready residential floor plans from simple room, size, and shape inputs. It accepts uploads for renovation, offers a single canvas for editing and visualization, and eliminates the need for CAD expertise. Architectural Design Free trial
-
+Maket uses AI to generate accurate, build‑ready residential floor plans from simple room, size, and shape inputs. It accepts uploads for renovation, offers a single canvas for editing and visualization, and eliminates the need for CAD expertise.
 In short, Maket is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. That single feature of Maket alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

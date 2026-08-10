@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Jingle Maker?
-    a: AI JINGLEMAKER generates MP3 jingles, DJ drops, station IDs, podcast intros and audio promos from typed text or uploaded voice, blending selectable intro/background/outro layers, 40+ AI voices, 750+ sound effects, sung-jingle and advanced timing controls. Audio generation Free That is the core of what AI Jingle Maker does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI JINGLEMAKER generates MP3 jingles, DJ drops, station IDs, podcast intros and audio promos from typed text or uploaded voice, blending selectable intro/background/outro layers, 40+ AI voices, 750+ sound effects, sung-jingle and advanced timing controls. That is the core of what AI Jingle Maker does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI Jingle Maker free?
     a: Yes — AI Jingle Maker is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with AI Jingle Maker?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like AI Jingle M
 
 ## What is AI Jingle Maker?
 
-AI JINGLEMAKER generates MP3 jingles, DJ drops, station IDs, podcast intros and audio promos from typed text or uploaded voice, blending selectable intro/background/outro layers, 40+ AI voices, 750+ sound effects, sung-jingle and advanced timing controls. Audio generation Free
-
+AI JINGLEMAKER generates MP3 jingles, DJ drops, station IDs, podcast intros and audio promos from typed text or uploaded voice, blending selectable intro/background/outro layers, 40+ AI voices, 750+ sound effects, sung-jingle and advanced timing controls.
 In short, AI Jingle Maker is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. Many users find that this one ability of AI Jingle Maker removes several tasks from their daily routine.
 
 ## Key features

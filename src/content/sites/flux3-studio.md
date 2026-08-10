@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Flux3.studio?
-    a: flux3.studio is an all-in-one AI studio for generating and editing images and video with synchronized audio, using structured visual briefs to maintain consistent style and composition. It enables iterative refinement through targeted edits and prompt blueprints, with revision controls that preserve key visual anchors across stills and motion for production-ready asset creation. Art Generation Subscription - $23.9/mo That is the core of what Flux3.studio does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: flux3.studio is an all-in-one AI studio for generating and editing images and video with synchronized audio, using structured visual briefs to maintain consistent style and composition. It enables iterative refinement through targeted edits and prompt blueprints, with revision controls that preserve key visual anchors across stills and motion for production-ready asset creation. That is the core of what Flux3.studio does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Flux3.studio free?
     a: Flux3.studio is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Flux3.studio?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Flux3.studio?
 
-flux3.studio is an all-in-one AI studio for generating and editing images and video with synchronized audio, using structured visual briefs to maintain consistent style and composition. It enables iterative refinement through targeted edits and prompt blueprints, with revision controls that preserve key visual anchors across stills and motion for production-ready asset creation. Art Generation Subscription - $23.9/mo
-
+flux3.studio is an all-in-one AI studio for generating and editing images and video with synchronized audio, using structured visual briefs to maintain consistent style and composition. It enables iterative refinement through targeted edits and prompt blueprints, with revision controls that preserve key visual anchors across stills and motion for production-ready asset creation.
 In short, Flux3.studio is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. Many users find that this one ability of Flux3.studio removes several tasks from their daily routine.
 
 ## Key features

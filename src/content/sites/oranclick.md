@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is OranClick?
-    a: OranClick tracks every link and message, giving creators real‑time insights into click behavior and funnel performance. It auto‑detects conversion bottlenecks, offers AI recommendations, segments audiences, and increases earnings. Digital Marketing Freemium - $8/mo That is the core of what OranClick does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: OranClick tracks every link and message, giving creators real‑time insights into click behavior and funnel performance. It auto‑detects conversion bottlenecks, offers AI recommendations, segments audiences, and increases earnings. That is the core of what OranClick does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is OranClick free?
     a: OranClick uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $8/mo, check the official website — pricing changes often.
   - q: What can you do with OranClick?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like OranCl
 
 ## What is OranClick?
 
-OranClick tracks every link and message, giving creators real‑time insights into click behavior and funnel performance. It auto‑detects conversion bottlenecks, offers AI recommendations, segments audiences, and increases earnings. Digital Marketing Freemium - $8/mo
-
+OranClick tracks every link and message, giving creators real‑time insights into click behavior and funnel performance. It auto‑detects conversion bottlenecks, offers AI recommendations, segments audiences, and increases earnings.
 In short, OranClick is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That one capability of OranClick frequently saves users from juggling several separate steps.
 
 ## Key features

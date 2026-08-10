@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Feedyou.ai?
-    a: Feedyou lets businesses build and deploy chatbots, voice assistants, email bots, and knowledge bases across web, mobile, messaging, and internal tools. No coding needed; it integrates with Salesforce, SAP, CRMs, offers analytics, automated routing, and modular updates. Customer support Freemium That is the core of what Feedyou.ai does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Feedyou lets businesses build and deploy chatbots, voice assistants, email bots, and knowledge bases across web, mobile, messaging, and internal tools. No coding needed; it integrates with Salesforce, SAP, CRMs, offers analytics, automated routing, and modular updates. That is the core of what Feedyou.ai does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Feedyou.ai free?
     a: Feedyou.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Feedyou.ai?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Feedyou.ai earn 
 
 ## What is Feedyou.ai?
 
-Feedyou lets businesses build and deploy chatbots, voice assistants, email bots, and knowledge bases across web, mobile, messaging, and internal tools. No coding needed; it integrates with Salesforce, SAP, CRMs, offers analytics, automated routing, and modular updates. Customer support Freemium
-
+Feedyou lets businesses build and deploy chatbots, voice assistants, email bots, and knowledge bases across web, mobile, messaging, and internal tools. No coding needed; it integrates with Salesforce, SAP, CRMs, offers analytics, automated routing, and modular updates.
 In short, Feedyou.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. That one capability of Feedyou.ai frequently saves users from juggling several separate steps.
 
 ## Key features

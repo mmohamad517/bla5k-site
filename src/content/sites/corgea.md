@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Corgea?
-    a: Corgea is an AI tool that expedites vulnerability detection and repair in codes for security teams. It boosts productivity by simplifying fixes on popular repositories and enables developers to concentrate on high-value work. Code Debugging Freemium That is the core of what Corgea does — developer tools handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Corgea is an AI tool that expedites vulnerability detection and repair in codes for security teams. It boosts productivity by simplifying fixes on popular repositories and enables developers to concentrate on high-value work. That is the core of what Corgea does — developer tools handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Corgea free?
     a: Corgea uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Corgea?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Corgea
 
 ## What is Corgea?
 
-Corgea is an AI tool that expedites vulnerability detection and repair in codes for security teams. It boosts productivity by simplifying fixes on popular repositories and enables developers to concentrate on high-value work. Code Debugging Freemium
-
+Corgea is an AI tool that expedites vulnerability detection and repair in codes for security teams. It boosts productivity by simplifying fixes on popular repositories and enables developers to concentrate on high-value work.
 In short, Corgea is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for developer tools without the manual grind. That one capability of Corgea frequently saves users from juggling several separate steps.
 
 ## Key features

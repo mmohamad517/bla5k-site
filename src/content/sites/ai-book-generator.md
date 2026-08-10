@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Book Generator?
-    a: "AI Book Generator lets authors produce full books in three steps: choose a title/genre, plan chapters with AI prompts, and export the manuscript. Supports 30+ languages and formats like EPUB, PDF, DOC, plus cover design and chapter editing.  That is the core of what AI Book Generator does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "AI Book Generator lets authors produce full books in three steps: choose a title/genre, plan chapters with AI prompts, and export the manuscript. Supports 30+ languages and formats like EPUB, PDF, DOC, plus cover design and chapter editing. That is the core of what AI Book Generator does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is AI Book Generator free?
     a: AI Book Generator is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with AI Book Generator?

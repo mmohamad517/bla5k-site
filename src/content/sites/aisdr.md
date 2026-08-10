@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AiSDR?
-    a: AiSDR automates outbound prospecting, lead research, and personalized outreach across email, phone, and LinkedIn using intent‑first targeting and live AI search. It creates full campaign strategies, manages sequences, qualifies responses, and syncs with HubSpot/Salesforce for seamless sales workflow.  That is the core of what AiSDR does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AiSDR automates outbound prospecting, lead research, and personalized outreach across email, phone, and LinkedIn using intent‑first targeting and live AI search. It creates full campaign strategies, manages sequences, qualifies responses, and syncs with HubSpot/Salesforce for seamless sales workflow. That is the core of what AiSDR does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AiSDR free?
     a: AiSDR is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with AiSDR?

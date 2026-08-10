@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Summaletter?
-    a: SummaLetter streamlines multiple newsletter subscriptions into a weekly digest using AI. Customizable summaries save time, with multi-language support to ensure important updates are never missed. Simplify newsletter overload effortlessly. Content Writing Freemium That is the core of what Summaletter does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SummaLetter streamlines multiple newsletter subscriptions into a weekly digest using AI. Customizable summaries save time, with multi-language support to ensure important updates are never missed. Simplify newsletter overload effortlessly. That is the core of what Summaletter does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Summaletter free?
     a: Summaletter uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Summaletter?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Summal
 
 ## What is Summaletter?
 
-SummaLetter streamlines multiple newsletter subscriptions into a weekly digest using AI. Customizable summaries save time, with multi-language support to ensure important updates are never missed. Simplify newsletter overload effortlessly. Content Writing Freemium
-
+SummaLetter streamlines multiple newsletter subscriptions into a weekly digest using AI. Customizable summaries save time, with multi-language support to ensure important updates are never missed. Simplify newsletter overload effortlessly.
 In short, Summaletter is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. That single feature of Summaletter alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

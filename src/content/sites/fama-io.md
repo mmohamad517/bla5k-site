@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is fama.io?
-    a: Fama analyzes public digital footprints across thousands of sources to surface professional attributes, detect misconduct indicators (fraud, harassment, threats), and identify skills like creativity and leadership, integrating with HRIS/ATS and complying with FCRA, EEOC, and SOC2. Human resources Freemium That is the core of what fama.io does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Fama analyzes public digital footprints across thousands of sources to surface professional attributes, detect misconduct indicators (fraud, harassment, threats), and identify skills like creativity and leadership, integrating with HRIS/ATS and complying with FCRA, EEOC, and SOC2. That is the core of what fama.io does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is fama.io free?
     a: fama.io uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with fama.io?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is fama.io?
 
-Fama analyzes public digital footprints across thousands of sources to surface professional attributes, detect misconduct indicators (fraud, harassment, threats), and identify skills like creativity and leadership, integrating with HRIS/ATS and complying with FCRA, EEOC, and SOC2. Human resources Freemium
-
+Fama analyzes public digital footprints across thousands of sources to surface professional attributes, detect misconduct indicators (fraud, harassment, threats), and identify skills like creativity and leadership, integrating with HRIS/ATS and complying with FCRA, EEOC, and SOC2.
 In short, fama.io is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. Many users discover that this feature of fama.io alone covers what previously took multiple tools.
 
 ## Key features

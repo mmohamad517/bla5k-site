@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Evov.ai?
-    a: EVOV AI generates personalized marketing plans and multi‑modal content for brands, influencers, and solopreneurs. It analyzes market trends, viewer engagement, and refines strategies in real time, enabling streamlined, multilingual, multi‑channel campaigns that scale reach and improve engagement.  That is the core of what Evov.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: EVOV AI generates personalized marketing plans and multi‑modal content for brands, influencers, and solopreneurs. It analyzes market trends, viewer engagement, and refines strategies in real time, enabling streamlined, multilingual, multi‑channel campaigns that scale reach and improve engagement. That is the core of what Evov.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Evov.ai free?
     a: Evov.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Evov.ai?

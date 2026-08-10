@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is FloorPlanAI?
-    a: FloorPlanAI is a text-to-floorplan generator that creates 2D layouts and downloadable 3D GLB models from plain English prompts. It supports multiple drawing styles, image-to-image reference, and high-resolution exports up to 4K for use in renders, games, and AR/VR scenes. Architectural Design Free trial - $19/mo That is the core of what FloorPlanAI does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: FloorPlanAI is a text-to-floorplan generator that creates 2D layouts and downloadable 3D GLB models from plain English prompts. It supports multiple drawing styles, image-to-image reference, and high-resolution exports up to 4K for use in renders, games, and AR/VR scenes. That is the core of what FloorPlanAI does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is FloorPlanAI free?
     a: FloorPlanAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $19/mo, check the official website — pricing changes often.
   - q: What can you do with FloorPlanAI?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is FloorPlanAI?
 
-FloorPlanAI is a text-to-floorplan generator that creates 2D layouts and downloadable 3D GLB models from plain English prompts. It supports multiple drawing styles, image-to-image reference, and high-resolution exports up to 4K for use in renders, games, and AR/VR scenes. Architectural Design Free trial - $19/mo
-
+FloorPlanAI is a text-to-floorplan generator that creates 2D layouts and downloadable 3D GLB models from plain English prompts. It supports multiple drawing styles, image-to-image reference, and high-resolution exports up to 4K for use in renders, games, and AR/VR scenes.
 In short, FloorPlanAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. That one capability of FloorPlanAI frequently saves users from juggling several separate steps.
 
 ## Key features

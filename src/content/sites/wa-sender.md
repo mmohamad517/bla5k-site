@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is WA Sender?
-    a: WA Sender is a bulk WhatsApp messaging tool for mass campaigns, scheduling, and group outreach. It features contact list import, message personalization, anti-ban pacing, and delivery analytics to improve campaign performance.  That is the core of what WA Sender does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: WA Sender is a bulk WhatsApp messaging tool for mass campaigns, scheduling, and group outreach. It features contact list import, message personalization, anti-ban pacing, and delivery analytics to improve campaign performance. That is the core of what WA Sender does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is WA Sender free?
     a: WA Sender uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with WA Sender?

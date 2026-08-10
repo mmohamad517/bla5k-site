@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is recruitRyte?
-    a: Recruitryte is an AI recruitment sourcing platform that enhances hiring with candidate matching, automated outreach, and job description analysis. It supports Boolean searches and promotes diversity while ensuring data privacy and security in the recruitment process. Human resources Free trial That is the core of what recruitRyte does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Recruitryte is an AI recruitment sourcing platform that enhances hiring with candidate matching, automated outreach, and job description analysis. It supports Boolean searches and promotes diversity while ensuring data privacy and security in the recruitment process. That is the core of what recruitRyte does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is recruitRyte free?
     a: recruitRyte uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with recruitRyte?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is recruitRyte?
 
-Recruitryte is an AI recruitment sourcing platform that enhances hiring with candidate matching, automated outreach, and job description analysis. It supports Boolean searches and promotes diversity while ensuring data privacy and security in the recruitment process. Human resources Free trial
-
+Recruitryte is an AI recruitment sourcing platform that enhances hiring with candidate matching, automated outreach, and job description analysis. It supports Boolean searches and promotes diversity while ensuring data privacy and security in the recruitment process.
 In short, recruitRyte is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. That one capability of recruitRyte frequently saves users from juggling several separate steps.
 
 ## Key features

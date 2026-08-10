@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Applicant AI?
-    a: Applicant AI is an AI-powered platform that automates, optimizes, and streamlines recruitment and onboarding processes, assesses candidates, and provides insights for better decision making, reducing costs and providing a competitive edge.  That is the core of what Applicant AI does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Applicant AI is an AI-powered platform that automates, optimizes, and streamlines recruitment and onboarding processes, assesses candidates, and provides insights for better decision making, reducing costs and providing a competitive edge. That is the core of what Applicant AI does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Applicant AI free?
     a: Applicant AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Applicant AI?

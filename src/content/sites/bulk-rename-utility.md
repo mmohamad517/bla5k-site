@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Bulk Rename Utility?
-    a: Web‑based AI bulk renamer that processes files locally, interpreting natural‑language instructions for batch renaming, numbering, or pattern rules. Supports Windows, macOS, and browsers via the File System Access API, offering preview, instant execution, and photo tagging by date or event. Document management Free That is the core of what Bulk Rename Utility does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Web‑based AI bulk renamer that processes files locally, interpreting natural‑language instructions for batch renaming, numbering, or pattern rules. Supports Windows, macOS, and browsers via the File System Access API, offering preview, instant execution, and photo tagging by date or event. That is the core of what Bulk Rename Utility does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Bulk Rename Utility free?
     a: Yes — Bulk Rename Utility is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Bulk Rename Utility?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Bulk Rename
 
 ## What is Bulk Rename Utility?
 
-Web‑based AI bulk renamer that processes files locally, interpreting natural‑language instructions for batch renaming, numbering, or pattern rules. Supports Windows, macOS, and browsers via the File System Access API, offering preview, instant execution, and photo tagging by date or event. Document management Free
-
+Web‑based AI bulk renamer that processes files locally, interpreting natural‑language instructions for batch renaming, numbering, or pattern rules. Supports Windows, macOS, and browsers via the File System Access API, offering preview, instant execution, and photo tagging by date or event.
 In short, Bulk Rename Utility is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many, that single strength of Bulk Rename Utility is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

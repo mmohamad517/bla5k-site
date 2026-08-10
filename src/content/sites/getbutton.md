@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is GetButton?
-    a: GetButton is an AI-powered chatbot tool for websites like Shopify and WordPress, integrating WhatsApp, Messenger, and Telegram for seamless communication. It offers customizable buttons, multilingual support, and 24/7 automated assistance to enhance user engagement.  That is the core of what GetButton does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: GetButton is an AI-powered chatbot tool for websites like Shopify and WordPress, integrating WhatsApp, Messenger, and Telegram for seamless communication. It offers customizable buttons, multilingual support, and 24/7 automated assistance to enhance user engagement. That is the core of what GetButton does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is GetButton free?
     a: GetButton uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with GetButton?

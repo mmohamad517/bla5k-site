@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is fdo.ai?
-    a: Edison offers AI‑powered tools for small businesses, automating bookkeeping, guiding strategy, managing marketing campaigns, and delivering real‑time analytics for budgeting, forecasting, and resource allocation – all within a unified interface for efficient growth. Accounting assistant Freemium That is the core of what fdo.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Edison offers AI‑powered tools for small businesses, automating bookkeeping, guiding strategy, managing marketing campaigns, and delivering real‑time analytics for budgeting, forecasting, and resource allocation – all within a unified interface for efficient growth. That is the core of what fdo.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is fdo.ai free?
     a: fdo.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with fdo.ai?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like fdo.ai matt
 
 ## What is fdo.ai?
 
-Edison offers AI‑powered tools for small businesses, automating bookkeeping, guiding strategy, managing marketing campaigns, and delivering real‑time analytics for budgeting, forecasting, and resource allocation – all within a unified interface for efficient growth. Accounting assistant Freemium
-
+Edison offers AI‑powered tools for small businesses, automating bookkeeping, guiding strategy, managing marketing campaigns, and delivering real‑time analytics for budgeting, forecasting, and resource allocation – all within a unified interface for efficient growth.
 In short, fdo.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of fdo.ai replaces several steps they used to do by hand.
 
 ## Key features

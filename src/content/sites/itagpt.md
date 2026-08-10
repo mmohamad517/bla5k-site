@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ItaGPT?
-    a: ItaGPT links OpenAI’s ChatGPT to WhatsApp, letting users send questions and receive real‑time AI answers within their chat app. No registration or credit card needed, it supports educational, marketing, legal, and general queries through natural language prompts. Personal Chatbot Freemium That is the core of what ItaGPT does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ItaGPT links OpenAI’s ChatGPT to WhatsApp, letting users send questions and receive real‑time AI answers within their chat app. No registration or credit card needed, it supports educational, marketing, legal, and general queries through natural language prompts. That is the core of what ItaGPT does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ItaGPT free?
     a: ItaGPT uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ItaGPT?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like ItaGPT earn
 
 ## What is ItaGPT?
 
-ItaGPT links OpenAI’s ChatGPT to WhatsApp, letting users send questions and receive real‑time AI answers within their chat app. No registration or credit card needed, it supports educational, marketing, legal, and general queries through natural language prompts. Personal Chatbot Freemium
-
+ItaGPT links OpenAI’s ChatGPT to WhatsApp, letting users send questions and receive real‑time AI answers within their chat app. No registration or credit card needed, it supports educational, marketing, legal, and general queries through natural language prompts.
 In short, ItaGPT is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For a lot of people, that one function of ItaGPT collapses multiple steps into a single action.
 
 ## Key features

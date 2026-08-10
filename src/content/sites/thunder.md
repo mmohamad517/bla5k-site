@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Thunder?
-    a: Thunder uses AI-driven deal matching and automated warm email introductions to connect founders, GPs, VCs, family offices, and accredited investors. It provides targeted investor lists, vetted deal flow, outreach automation, and integrated workflows for fundraising, M&A, and debt financing. Business Free That is the core of what Thunder does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Thunder uses AI-driven deal matching and automated warm email introductions to connect founders, GPs, VCs, family offices, and accredited investors. It provides targeted investor lists, vetted deal flow, outreach automation, and integrated workflows for fundraising, M&A, and debt financing. That is the core of what Thunder does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Thunder free?
     a: Yes — Thunder is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Thunder?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Thunder?
 
-Thunder uses AI-driven deal matching and automated warm email introductions to connect founders, GPs, VCs, family offices, and accredited investors. It provides targeted investor lists, vetted deal flow, outreach automation, and integrated workflows for fundraising, M&A, and debt financing. Business Free
-
+Thunder uses AI-driven deal matching and automated warm email introductions to connect founders, GPs, VCs, family offices, and accredited investors. It provides targeted investor lists, vetted deal flow, outreach automation, and integrated workflows for fundraising, M&A, and debt financing.
 In short, Thunder is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. For a lot of people, that one function of Thunder collapses multiple steps into a single action.
 
 ## Key features

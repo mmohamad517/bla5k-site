@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Meet Alfred?
-    a: Meet Alfred is a LinkedIn automation tool that facilitates multi-channel outreach with features like automated messaging, AI-driven lead finding, a centralized inbox, and performance tracking, aimed at enhancing lead generation and improving conversion rates. Sales Free trial That is the core of what Meet Alfred does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Meet Alfred is a LinkedIn automation tool that facilitates multi-channel outreach with features like automated messaging, AI-driven lead finding, a centralized inbox, and performance tracking, aimed at enhancing lead generation and improving conversion rates. That is the core of what Meet Alfred does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Meet Alfred free?
     a: Meet Alfred uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Meet Alfred?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Meet Alfred?
 
-Meet Alfred is a LinkedIn automation tool that facilitates multi-channel outreach with features like automated messaging, AI-driven lead finding, a centralized inbox, and performance tracking, aimed at enhancing lead generation and improving conversion rates. Sales Free trial
-
+Meet Alfred is a LinkedIn automation tool that facilitates multi-channel outreach with features like automated messaging, AI-driven lead finding, a centralized inbox, and performance tracking, aimed at enhancing lead generation and improving conversion rates.
 In short, Meet Alfred is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. That one capability of Meet Alfred frequently saves users from juggling several separate steps.
 
 ## Key features

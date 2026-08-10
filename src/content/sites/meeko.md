@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Meeko?
-    a: Meeko.ai is an AI coaching platform for League of Legends, providing personalized guidance, drafts, matchup advice, builds, and tier lists. It enhances gameplay with tips, proactive in-match assistance, session recaps, pre-game insights, and goal setting tools.  That is the core of what Meeko does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Meeko.ai is an AI coaching platform for League of Legends, providing personalized guidance, drafts, matchup advice, builds, and tier lists. It enhances gameplay with tips, proactive in-match assistance, session recaps, pre-game insights, and goal setting tools. That is the core of what Meeko does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Meeko free?
     a: Meeko uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Meeko?

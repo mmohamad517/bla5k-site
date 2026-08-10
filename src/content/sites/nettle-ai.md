@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Nettle.ai?
-    a: People Nettle creates customizable, lifelike digital humans for brands, enhancing customer engagement through interactive, voice-responsive avatars powered by natural language processing. The tool uses mixed reality technologies to deliver immersive, wearables-free experiences. Avatar Free That is the core of what Nettle.ai does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: People Nettle creates customizable, lifelike digital humans for brands, enhancing customer engagement through interactive, voice-responsive avatars powered by natural language processing. The tool uses mixed reality technologies to deliver immersive, wearables-free experiences. That is the core of what Nettle.ai does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Nettle.ai free?
     a: Yes — Nettle.ai is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Nettle.ai?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Nettle.ai?
 
-People Nettle creates customizable, lifelike digital humans for brands, enhancing customer engagement through interactive, voice-responsive avatars powered by natural language processing. The tool uses mixed reality technologies to deliver immersive, wearables-free experiences. Avatar Free
-
+People Nettle creates customizable, lifelike digital humans for brands, enhancing customer engagement through interactive, voice-responsive avatars powered by natural language processing. The tool uses mixed reality technologies to deliver immersive, wearables-free experiences.
 In short, Nettle.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. For a lot of people, that one function of Nettle.ai collapses multiple steps into a single action.
 
 ## Key features

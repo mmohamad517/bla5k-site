@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TinyTap AI?
-    a: TinyTap AI automatically creates interactive lessons on any topic, assembling multimedia content, quizzes, and prompts. Teachers can customize lessons instantly, saving research time, and the multilingual beta expands accessibility for diverse classrooms.  That is the core of what TinyTap AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: TinyTap AI automatically creates interactive lessons on any topic, assembling multimedia content, quizzes, and prompts. Teachers can customize lessons instantly, saving research time, and the multilingual beta expands accessibility for diverse classrooms. That is the core of what TinyTap AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TinyTap AI free?
     a: TinyTap AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with TinyTap AI?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Song Creator?
-    a: AI song creator is a free AI tool that generates studio-quality, royalty-free songs from text prompts, producing full tracks with structure, vocals, and instrumentation. It offers custom controls, stem exports, and built-in commercial licensing for creators and brands.  That is the core of what AI Song Creator does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI song creator is a free AI tool that generates studio-quality, royalty-free songs from text prompts, producing full tracks with structure, vocals, and instrumentation. It offers custom controls, stem exports, and built-in commercial licensing for creators and brands. That is the core of what AI Song Creator does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI Song Creator free?
     a: AI Song Creator uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AI Song Creator?

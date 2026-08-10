@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Quo?
-    a: Quo is a business phone system that centralizes calls, SMS, voicemails, recordings, and contact history into shared inboxes. Sona AI handles 24/7 call answering, qualification and routing, with automated tagging, summaries, CRM integrations and analytics.  That is the core of what Quo does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Quo is a business phone system that centralizes calls, SMS, voicemails, recordings, and contact history into shared inboxes. Sona AI handles 24/7 call answering, qualification and routing, with automated tagging, summaries, CRM integrations and analytics. That is the core of what Quo does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Quo free?
     a: Quo uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Quo?

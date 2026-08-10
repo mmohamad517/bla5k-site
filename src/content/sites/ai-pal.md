@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ai Pal?
-    a: Ultim AI Power is an AI tool that can assist with various tasks, integrates with WhatsApp and offers both standard and premium subscription plans. AI Agents Freemium - $8.97/mo That is the core of what Ai Pal does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ultim AI Power is an AI tool that can assist with various tasks, integrates with WhatsApp and offers both standard and premium subscription plans. That is the core of what Ai Pal does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ai Pal free?
     a: Ai Pal uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $8.97/mo, check the official website — pricing changes often.
   - q: What can you do with Ai Pal?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Ai Pal matt
 
 ## What is Ai Pal?
 
-Ultim AI Power is an AI tool that can assist with various tasks, integrates with WhatsApp and offers both standard and premium subscription plans. AI Agents Freemium - $8.97/mo
-
+Ultim AI Power is an AI tool that can assist with various tasks, integrates with WhatsApp and offers both standard and premium subscription plans.
 In short, Ai Pal is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many, that single strength of Ai Pal is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

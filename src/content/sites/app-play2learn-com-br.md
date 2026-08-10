@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Play2Learn?
-    a: Play2Learn converts existing content into gamified training modules, roleplay simulations, and quizzes, automating course creation, integrating with LMS and WhatsApp, and providing real-time dashboards to track individual and team performance for data-driven training adjustments. AI Agents Free That is the core of what Play2Learn does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Play2Learn converts existing content into gamified training modules, roleplay simulations, and quizzes, automating course creation, integrating with LMS and WhatsApp, and providing real-time dashboards to track individual and team performance for data-driven training adjustments. That is the core of what Play2Learn does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Play2Learn free?
     a: Yes — Play2Learn is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Play2Learn?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Play2Learn?
 
-Play2Learn converts existing content into gamified training modules, roleplay simulations, and quizzes, automating course creation, integrating with LMS and WhatsApp, and providing real-time dashboards to track individual and team performance for data-driven training adjustments. AI Agents Free
-
+Play2Learn converts existing content into gamified training modules, roleplay simulations, and quizzes, automating course creation, integrating with LMS and WhatsApp, and providing real-time dashboards to track individual and team performance for data-driven training adjustments.
 In short, Play2Learn is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For a lot of people, that one function of Play2Learn collapses multiple steps into a single action.
 
 ## Key features

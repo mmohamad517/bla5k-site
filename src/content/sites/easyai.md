@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is EasyAI?
-    a: "EasyAI's Course Creation Tool: Personalize eLearning Experiences with AI & Manage Consent.  That is the core of what EasyAI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "EasyAI's Course Creation Tool: Personalize eLearning Experiences with AI & Manage Consent. That is the core of what EasyAI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is EasyAI free?
     a: EasyAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9/mo, check the official website — pricing changes often.
   - q: What can you do with EasyAI?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is JobStream?
-    a: JobStream uses GPT‑4 to auto‑generate cover letters and answer application questions from a Chrome extension‑selected job description. It customizes each document to highlight the user’s skills, speeding up the job‑app process. AI Assistant Free That is the core of what JobStream does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: JobStream uses GPT‑4 to auto‑generate cover letters and answer application questions from a Chrome extension‑selected job description. It customizes each document to highlight the user’s skills, speeding up the job‑app process. That is the core of what JobStream does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is JobStream free?
     a: Yes — JobStream is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with JobStream?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like JobStream e
 
 ## What is JobStream?
 
-JobStream uses GPT‑4 to auto‑generate cover letters and answer application questions from a Chrome extension‑selected job description. It customizes each document to highlight the user’s skills, speeding up the job‑app process. AI Assistant Free
-
+JobStream uses GPT‑4 to auto‑generate cover letters and answer application questions from a Chrome extension‑selected job description. It customizes each document to highlight the user’s skills, speeding up the job‑app process.
 In short, JobStream is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users discover that this feature of JobStream alone covers what previously took multiple tools.
 
 ## Key features

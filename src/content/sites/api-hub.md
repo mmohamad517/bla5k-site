@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is API Hub?
-    a: API Hub is a centralized platform offering enterprise-grade MCP API solutions for seamless integration with AI agents. It features tools for document processing and standardizes functionality across various AI tools, enhancing operational efficiency for developers and businesses. AI Agents Freemium That is the core of what API Hub does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: API Hub is a centralized platform offering enterprise-grade MCP API solutions for seamless integration with AI agents. It features tools for document processing and standardizes functionality across various AI tools, enhancing operational efficiency for developers and businesses. That is the core of what API Hub does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is API Hub free?
     a: API Hub uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with API Hub?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is API Hub?
 
-API Hub is a centralized platform offering enterprise-grade MCP API solutions for seamless integration with AI agents. It features tools for document processing and standardizes functionality across various AI tools, enhancing operational efficiency for developers and businesses. AI Agents Freemium
-
+API Hub is a centralized platform offering enterprise-grade MCP API solutions for seamless integration with AI agents. It features tools for document processing and standardizes functionality across various AI tools, enhancing operational efficiency for developers and businesses.
 In short, API Hub is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For a lot of people, that one function of API Hub collapses multiple steps into a single action.
 
 ## Key features

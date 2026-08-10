@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Thirdi?
-    a: Third i consolidates Google, Meta, TikTok, LinkedIn Ads, and GA4 data into a single workspace. It auto‑generates a prioritized Action Feed for creative, keyword, and budget changes, plus AI‑driven insights and auto‑reporting, freeing teams for strategy.  That is the core of what Thirdi does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Third i consolidates Google, Meta, TikTok, LinkedIn Ads, and GA4 data into a single workspace. It auto‑generates a prioritized Action Feed for creative, keyword, and budget changes, plus AI‑driven insights and auto‑reporting, freeing teams for strategy. That is the core of what Thirdi does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Thirdi free?
     a: Thirdi is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Thirdi?

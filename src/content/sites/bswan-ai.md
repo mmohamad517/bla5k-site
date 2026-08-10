@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Bswan.ai?
-    a: bswan.ai is an AI-driven calling solution that automates lead qualification, call routing, and appointment scheduling. Its seamless CRM integration and 24/7 availability enhance customer engagement while reducing lost leads and no-show rates. Communication Automation Free trial That is the core of what Bswan.ai does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: bswan.ai is an AI-driven calling solution that automates lead qualification, call routing, and appointment scheduling. Its seamless CRM integration and 24/7 availability enhance customer engagement while reducing lost leads and no-show rates. That is the core of what Bswan.ai does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Bswan.ai free?
     a: Bswan.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Bswan.ai?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Bswan.ai ea
 
 ## What is Bswan.ai?
 
-bswan.ai is an AI-driven calling solution that automates lead qualification, call routing, and appointment scheduling. Its seamless CRM integration and 24/7 availability enhance customer engagement while reducing lost leads and no-show rates. Communication Automation Free trial
-
+bswan.ai is an AI-driven calling solution that automates lead qualification, call routing, and appointment scheduling. Its seamless CRM integration and 24/7 availability enhance customer engagement while reducing lost leads and no-show rates.
 In short, Bswan.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. For many, that single strength of Bswan.ai is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

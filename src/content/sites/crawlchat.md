@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CrawlChat?
-    a: CrawlChat converts product and technical documentation into an AI chatbot and searchable knowledge base for websites, Discord, and Slack, importing from Docusaurus, Notion, Confluence, GitHub, files, and YouTube, with source citations, ticket escalation, analytics, and customization. Knowledge base management Free trial - $45/mo That is the core of what CrawlChat does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CrawlChat converts product and technical documentation into an AI chatbot and searchable knowledge base for websites, Discord, and Slack, importing from Docusaurus, Notion, Confluence, GitHub, files, and YouTube, with source citations, ticket escalation, analytics, and customization. That is the core of what CrawlChat does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CrawlChat free?
     a: CrawlChat uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $45/mo, check the official website — pricing changes often.
   - q: What can you do with CrawlChat?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is CrawlChat?
 
-CrawlChat converts product and technical documentation into an AI chatbot and searchable knowledge base for websites, Discord, and Slack, importing from Docusaurus, Notion, Confluence, GitHub, files, and YouTube, with source citations, ticket escalation, analytics, and customization. Knowledge base management Free trial - $45/mo
-
+CrawlChat converts product and technical documentation into an AI chatbot and searchable knowledge base for websites, Discord, and Slack, importing from Docusaurus, Notion, Confluence, GitHub, files, and YouTube, with source citations, ticket escalation, analytics, and customization.
 In short, CrawlChat is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. That one capability of CrawlChat frequently saves users from juggling several separate steps.
 
 ## Key features

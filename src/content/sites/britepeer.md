@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Britepeer?
-    a: Britepeer uses data‑driven matching to connect community members by expertise and interest, automating introductions and tracking engagement. It offers dashboards for retention, activity, ROI, and analytics on connections and topic popularity. AI Assistant Freemium That is the core of what Britepeer does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Britepeer uses data‑driven matching to connect community members by expertise and interest, automating introductions and tracking engagement. It offers dashboards for retention, activity, ROI, and analytics on connections and topic popularity. That is the core of what Britepeer does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Britepeer free?
     a: Britepeer uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Britepeer?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Britep
 
 ## What is Britepeer?
 
-Britepeer uses data‑driven matching to connect community members by expertise and interest, automating introductions and tracking engagement. It offers dashboards for retention, activity, ROI, and analytics on connections and topic popularity. AI Assistant Freemium
-
+Britepeer uses data‑driven matching to connect community members by expertise and interest, automating introductions and tracking engagement. It offers dashboards for retention, activity, ROI, and analytics on connections and topic popularity.
 In short, Britepeer is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one feature of Britepeer often eliminates several smaller steps from the usual workflow.
 
 ## Key features

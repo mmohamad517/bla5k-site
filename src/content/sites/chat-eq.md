@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Chat EQ?
-    a: ChatEQ uses AI to analyze conversation scenarios, offering evidence‑based feedback, emotional insights, and dialogue strategies. It coaches users in real time, reframes blame, recommends collaborative responses, and helps improve communication without formal training. Coaching Freemium That is the core of what Chat EQ does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ChatEQ uses AI to analyze conversation scenarios, offering evidence‑based feedback, emotional insights, and dialogue strategies. It coaches users in real time, reframes blame, recommends collaborative responses, and helps improve communication without formal training. That is the core of what Chat EQ does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Chat EQ free?
     a: Chat EQ uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Chat EQ?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Chat EQ mat
 
 ## What is Chat EQ?
 
-ChatEQ uses AI to analyze conversation scenarios, offering evidence‑based feedback, emotional insights, and dialogue strategies. It coaches users in real time, reframes blame, recommends collaborative responses, and helps improve communication without formal training. Coaching Freemium
-
+ChatEQ uses AI to analyze conversation scenarios, offering evidence‑based feedback, emotional insights, and dialogue strategies. It coaches users in real time, reframes blame, recommends collaborative responses, and helps improve communication without formal training.
 In short, Chat EQ is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. Many users find that this one ability of Chat EQ removes several tasks from their daily routine.
 
 ## Key features

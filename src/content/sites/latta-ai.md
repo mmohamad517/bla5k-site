@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Latta AI?
-    a: Latta is an AI tool that helps developers efficiently fix non-working code by providing integrated bug detection, session recording, and automatic task generation for quick diagnosis and resolution, enhancing application quality and reducing maintenance efforts.  That is the core of what Latta AI does — developer tools handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Latta is an AI tool that helps developers efficiently fix non-working code by providing integrated bug detection, session recording, and automatic task generation for quick diagnosis and resolution, enhancing application quality and reducing maintenance efforts. That is the core of what Latta AI does — developer tools handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Latta AI free?
     a: Latta AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Latta AI?

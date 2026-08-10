@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is The100kPrompts?
-    a: the100kprompts is a vast database of over 100,000 AI prompts, covering 500+ niches. It's designed for content creators and artists, offering tailored prompts for various AI models and includes a community and prompt engineering resources. Content Writing Freemium That is the core of what The100kPrompts does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: the100kprompts is a vast database of over 100,000 AI prompts, covering 500+ niches. It's designed for content creators and artists, offering tailored prompts for various AI models and includes a community and prompt engineering resources. That is the core of what The100kPrompts does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is The100kPrompts free?
     a: The100kPrompts uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with The100kPrompts?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like The100kPrompts e
 
 ## What is The100kPrompts?
 
-the100kprompts is a vast database of over 100,000 AI prompts, covering 500+ niches. It's designed for content creators and artists, offering tailored prompts for various AI models and includes a community and prompt engineering resources. Content Writing Freemium
-
+the100kprompts is a vast database of over 100,000 AI prompts, covering 500+ niches. It's designed for content creators and artists, offering tailored prompts for various AI models and includes a community and prompt engineering resources.
 In short, The100kPrompts is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. That one feature of The100kPrompts often eliminates several smaller steps from the usual workflow.
 
 ## Key features

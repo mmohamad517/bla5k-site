@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Workflow.Design?
-    a: "###workflow is a project management tool that enhances creative collaboration by organizing assets, tracking tasks, and managing feedback with features like centralized inboxes and version control, streamlining workflow and improving project quality for teams. Project management Subscription That is the core of what Workflow.Design does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "###workflow is a project management tool that enhances creative collaboration by organizing assets, tracking tasks, and managing feedback with features like centralized inboxes and version control, streamlining workflow and improving project quality for teams. That is the core of what Workflow.Design does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is Workflow.Design free?
     a: Workflow.Design is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Workflow.Design?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Workflow.Design?
 
-###workflow is a project management tool that enhances creative collaboration by organizing assets, tracking tasks, and managing feedback with features like centralized inboxes and version control, streamlining workflow and improving project quality for teams. Project management Subscription
-
+###workflow is a project management tool that enhances creative collaboration by organizing assets, tracking tasks, and managing feedback with features like centralized inboxes and version control, streamlining workflow and improving project quality for teams.
 In short, Workflow.Design is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many, that single strength of Workflow.Design is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

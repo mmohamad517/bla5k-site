@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is fieldnotes.ai?
-    a: Fieldnotes.ai is an AI platform for real estate professionals, automating lead management and follow-ups through voice, text, and email. It integrates CRM capabilities for tracking client interactions and supports digital marketing for targeted lead generation. AI Agents Free That is the core of what fieldnotes.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Fieldnotes.ai is an AI platform for real estate professionals, automating lead management and follow-ups through voice, text, and email. It integrates CRM capabilities for tracking client interactions and supports digital marketing for targeted lead generation. That is the core of what fieldnotes.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is fieldnotes.ai free?
     a: Yes — fieldnotes.ai is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with fieldnotes.ai?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like fieldnotes.
 
 ## What is fieldnotes.ai?
 
-Fieldnotes.ai is an AI platform for real estate professionals, automating lead management and follow-ups through voice, text, and email. It integrates CRM capabilities for tracking client interactions and supports digital marketing for targeted lead generation. AI Agents Free
-
+Fieldnotes.ai is an AI platform for real estate professionals, automating lead management and follow-ups through voice, text, and email. It integrates CRM capabilities for tracking client interactions and supports digital marketing for targeted lead generation.
 In short, fieldnotes.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For plenty of users, that one capability of fieldnotes.ai replaces several steps they used to do by hand.
 
 ## Key features

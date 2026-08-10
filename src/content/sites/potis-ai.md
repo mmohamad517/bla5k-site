@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Potis.ai?
-    a: Potis.AI automates video screening, behavioral interviews, and delivers heat‑map analytics with a unified scoring system to streamline talent acquisition. It supports global remote hiring, enables real‑time team collaboration, and integrates APIs into existing workflows. Human resources Subscription - $99/mo That is the core of what Potis.ai does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Potis.AI automates video screening, behavioral interviews, and delivers heat‑map analytics with a unified scoring system to streamline talent acquisition. It supports global remote hiring, enables real‑time team collaboration, and integrates APIs into existing workflows. That is the core of what Potis.ai does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Potis.ai free?
     a: Potis.ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Potis.ai?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Potis.ai?
 
-Potis.AI automates video screening, behavioral interviews, and delivers heat‑map analytics with a unified scoring system to streamline talent acquisition. It supports global remote hiring, enables real‑time team collaboration, and integrates APIs into existing workflows. Human resources Subscription - $99/mo
-
+Potis.AI automates video screening, behavioral interviews, and delivers heat‑map analytics with a unified scoring system to streamline talent acquisition. It supports global remote hiring, enables real‑time team collaboration, and integrates APIs into existing workflows.
 In short, Potis.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. For many, that single strength of Potis.ai is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Kognitium?
-    a: Kognitium provides real‑time, context‑aware answers across science, history, tech, and current events. It offers conversational queries, continuous news updates, multi‑language code snippets, and file‑processing for developers, while tracking interactions for personalized learning. AI Agents Freemium - $12.5/mo That is the core of what Kognitium does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Kognitium provides real‑time, context‑aware answers across science, history, tech, and current events. It offers conversational queries, continuous news updates, multi‑language code snippets, and file‑processing for developers, while tracking interactions for personalized learning. That is the core of what Kognitium does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Kognitium free?
     a: Kognitium uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $12.5/mo, check the official website — pricing changes often.
   - q: What can you do with Kognitium?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Kognitium?
 
-Kognitium provides real‑time, context‑aware answers across science, history, tech, and current events. It offers conversational queries, continuous news updates, multi‑language code snippets, and file‑processing for developers, while tracking interactions for personalized learning. AI Agents Freemium - $12.5/mo
-
+Kognitium provides real‑time, context‑aware answers across science, history, tech, and current events. It offers conversational queries, continuous news updates, multi‑language code snippets, and file‑processing for developers, while tracking interactions for personalized learning.
 In short, Kognitium is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That single feature of Kognitium alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

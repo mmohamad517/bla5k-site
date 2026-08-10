@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Vonvo.ai?
-    a: Vonvo.ai is an enterprise AI sales training platform that uses configurable AI personas for roleplay and call analysis in 25+ languages. It integrates with major CRM and sales tools, offering secure, scalable training for onboarding, coaching, and deal preparation across global teams.  That is the core of what Vonvo.ai does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Vonvo.ai is an enterprise AI sales training platform that uses configurable AI personas for roleplay and call analysis in 25+ languages. It integrates with major CRM and sales tools, offering secure, scalable training for onboarding, coaching, and deal preparation across global teams. That is the core of what Vonvo.ai does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Vonvo.ai free?
     a: Vonvo.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $49/mo, check the official website — pricing changes often.
   - q: What can you do with Vonvo.ai?

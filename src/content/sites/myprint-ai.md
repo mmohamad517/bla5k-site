@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MyPrint.ai?
-    a: Upload at least ten photos to generate 100+ themed artworks per set. Choose styles such as watercolor, cyberpunk, graffiti, and receive 512 × 512 images, with optional 4K. Download instantly or print posters, mugs, and more worldwide. Art Prints Freemium That is the core of what MyPrint.ai does — ai print design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Upload at least ten photos to generate 100+ themed artworks per set. Choose styles such as watercolor, cyberpunk, graffiti, and receive 512 × 512 images, with optional 4K. Download instantly or print posters, mugs, and more worldwide. That is the core of what MyPrint.ai does — ai print design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MyPrint.ai free?
     a: MyPrint.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with MyPrint.ai?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is MyPrint.ai?
 
-Upload at least ten photos to generate 100+ themed artworks per set. Choose styles such as watercolor, cyberpunk, graffiti, and receive 512 × 512 images, with optional 4K. Download instantly or print posters, mugs, and more worldwide. Art Prints Freemium
-
+Upload at least ten photos to generate 100+ themed artworks per set. Choose styles such as watercolor, cyberpunk, graffiti, and receive 512 × 512 images, with optional 4K. Download instantly or print posters, mugs, and more worldwide.
 In short, MyPrint.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI print design without the manual grind. Many users find that this one ability of MyPrint.ai removes several tasks from their daily routine.
 
 ## Key features

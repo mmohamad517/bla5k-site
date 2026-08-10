@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Evant?
-    a: Evant automates event RSVPs, check‑ins, and fundraising via SMS and online links, with keyword‑triggered replies and scheduled messaging. It integrates with CRMs and payment processors, providing real‑time attendance analytics and streamlined donor outreach.  That is the core of what Evant does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Evant automates event RSVPs, check‑ins, and fundraising via SMS and online links, with keyword‑triggered replies and scheduled messaging. It integrates with CRMs and payment processors, providing real‑time attendance analytics and streamlined donor outreach. That is the core of what Evant does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Evant free?
     a: Evant is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Evant?

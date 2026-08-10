@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is writewithspiral.com?
-    a: Spiral is an AI writing partner that asks targeted questions to clarify intent, generates multiple draft angles, learns brand voice from examples, ingests documents to ground content, and supports collaborative workflows for export-ready social, landing, presentation, and documentation copy. Copywriting Subscription That is the core of what writewithspiral.com does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Spiral is an AI writing partner that asks targeted questions to clarify intent, generates multiple draft angles, learns brand voice from examples, ingests documents to ground content, and supports collaborative workflows for export-ready social, landing, presentation, and documentation copy. That is the core of what writewithspiral.com does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is writewithspiral.com free?
     a: writewithspiral.com is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with writewithspiral.com?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is writewithspiral.com?
 
-Spiral is an AI writing partner that asks targeted questions to clarify intent, generates multiple draft angles, learns brand voice from examples, ingests documents to ground content, and supports collaborative workflows for export-ready social, landing, presentation, and documentation copy. Copywriting Subscription
-
+Spiral is an AI writing partner that asks targeted questions to clarify intent, generates multiple draft angles, learns brand voice from examples, ingests documents to ground content, and supports collaborative workflows for export-ready social, landing, presentation, and documentation copy.
 In short, writewithspiral.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. For many, that single strength of writewithspiral.com is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

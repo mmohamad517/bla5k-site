@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Audio Cut?
-    a: Audio Cut is a browser-based tool for trimming and cutting audio files without installation. It supports multiple formats, processes files securely in your browser, and allows for lossless export.  That is the core of what Audio Cut does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Audio Cut is a browser-based tool for trimming and cutting audio files without installation. It supports multiple formats, processes files securely in your browser, and allows for lossless export. That is the core of what Audio Cut does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Audio Cut free?
     a: Yes — Audio Cut is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Audio Cut?

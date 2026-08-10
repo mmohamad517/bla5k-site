@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Sweep AI?
-    a: Sweep is an AI coding assistant plugin for all JetBrains IDEs that offers low‑latency autocomplete, next‑tab predictions, code review suggestions, and precise refactoring by indexing the entire project. It maintains privacy by keeping code local or on secure servers. Code assistant Freemium That is the core of what Sweep AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Sweep is an AI coding assistant plugin for all JetBrains IDEs that offers low‑latency autocomplete, next‑tab predictions, code review suggestions, and precise refactoring by indexing the entire project. It maintains privacy by keeping code local or on secure servers. That is the core of what Sweep AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Sweep AI free?
     a: Sweep AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Sweep AI?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Sweep AI?
 
-Sweep is an AI coding assistant plugin for all JetBrains IDEs that offers low‑latency autocomplete, next‑tab predictions, code review suggestions, and precise refactoring by indexing the entire project. It maintains privacy by keeping code local or on secure servers. Code assistant Freemium
-
+Sweep is an AI coding assistant plugin for all JetBrains IDEs that offers low‑latency autocomplete, next‑tab predictions, code review suggestions, and precise refactoring by indexing the entire project. It maintains privacy by keeping code local or on secure servers.
 In short, Sweep AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one feature of Sweep AI often eliminates several smaller steps from the usual workflow.
 
 ## Key features

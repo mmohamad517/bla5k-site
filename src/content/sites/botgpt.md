@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is BotGPT?
-    a: BotGPT is a data‑driven chatbot that embeds in minutes, pulling content from PDFs or website crawls to create a virtual assistant. It integrates with messaging platforms, offers 24/7 support, and preserves privacy by storing no personal data. Chat Freemium - $2.99/mo That is the core of what BotGPT does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: BotGPT is a data‑driven chatbot that embeds in minutes, pulling content from PDFs or website crawls to create a virtual assistant. It integrates with messaging platforms, offers 24/7 support, and preserves privacy by storing no personal data. That is the core of what BotGPT does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is BotGPT free?
     a: BotGPT uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $2.99/mo, check the official website — pricing changes often.
   - q: What can you do with BotGPT?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is BotGPT?
 
-BotGPT is a data‑driven chatbot that embeds in minutes, pulling content from PDFs or website crawls to create a virtual assistant. It integrates with messaging platforms, offers 24/7 support, and preserves privacy by storing no personal data. Chat Freemium - $2.99/mo
-
+BotGPT is a data‑driven chatbot that embeds in minutes, pulling content from PDFs or website crawls to create a virtual assistant. It integrates with messaging platforms, offers 24/7 support, and preserves privacy by storing no personal data.
 In short, BotGPT is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. That one capability of BotGPT frequently saves users from juggling several separate steps.
 
 ## Key features

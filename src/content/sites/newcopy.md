@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is newcopy?
-    a: New Copy is an AI tool for enhancing marketing copy, featuring headline generation, content optimization, and a collaborative workspace. It helps users create engaging and impactful materials tailored to their audience's preferences. Copywriting Freemium - $35/mo That is the core of what newcopy does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: New Copy is an AI tool for enhancing marketing copy, featuring headline generation, content optimization, and a collaborative workspace. It helps users create engaging and impactful materials tailored to their audience's preferences. That is the core of what newcopy does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is newcopy free?
     a: newcopy uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $35/mo, check the official website — pricing changes often.
   - q: What can you do with newcopy?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like newcopy earn the
 
 ## What is newcopy?
 
-New Copy is an AI tool for enhancing marketing copy, featuring headline generation, content optimization, and a collaborative workspace. It helps users create engaging and impactful materials tailored to their audience's preferences. Copywriting Freemium - $35/mo
-
+New Copy is an AI tool for enhancing marketing copy, featuring headline generation, content optimization, and a collaborative workspace. It helps users create engaging and impactful materials tailored to their audience's preferences.
 In short, newcopy is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. For plenty of users, that one capability of newcopy replaces several steps they used to do by hand.
 
 ## Key features

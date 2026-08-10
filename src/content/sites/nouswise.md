@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Nouswise?
-    a: Nouswise is a research platform that centralizes information management by allowing users to curate personal libraries, conduct multimodal searches, and maintain long-term memory of notes, enhancing knowledge synthesis and information retrieval while ensuring user privacy. Knowledge base management Free trial That is the core of what Nouswise does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Nouswise is a research platform that centralizes information management by allowing users to curate personal libraries, conduct multimodal searches, and maintain long-term memory of notes, enhancing knowledge synthesis and information retrieval while ensuring user privacy. That is the core of what Nouswise does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Nouswise free?
     a: Nouswise uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Nouswise?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Nouswise?
 
-Nouswise is a research platform that centralizes information management by allowing users to curate personal libraries, conduct multimodal searches, and maintain long-term memory of notes, enhancing knowledge synthesis and information retrieval while ensuring user privacy. Knowledge base management Free trial
-
+Nouswise is a research platform that centralizes information management by allowing users to curate personal libraries, conduct multimodal searches, and maintain long-term memory of notes, enhancing knowledge synthesis and information retrieval while ensuring user privacy.
 In short, Nouswise is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For plenty of users, that one capability of Nouswise replaces several steps they used to do by hand.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is GitBrain?
-    a: GitBrain is a macOS AI‑powered Git client that auto‑splits changes into AI‑generated commits, lets developers edit, reorder, or merge them, and summarizes pending changes for quick review. It integrates with popular IDEs, supports full keyboard shortcuts, and uses native themes.  That is the core of what GitBrain does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: GitBrain is a macOS AI‑powered Git client that auto‑splits changes into AI‑generated commits, lets developers edit, reorder, or merge them, and summarizes pending changes for quick review. It integrates with popular IDEs, supports full keyboard shortcuts, and uses native themes. That is the core of what GitBrain does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is GitBrain free?
     a: GitBrain uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with GitBrain?

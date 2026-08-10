@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MLflow?
-    a: MLflow is an open‑source AI engineering platform that tracks LLM and agent execution, monitors performance, cost, and safety, manages prompts, and supports experiment tracking, tuning, and deployment across multiple clouds or on‑premises. AI Agents Subscription That is the core of what MLflow does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: MLflow is an open‑source AI engineering platform that tracks LLM and agent execution, monitors performance, cost, and safety, manages prompts, and supports experiment tracking, tuning, and deployment across multiple clouds or on‑premises. That is the core of what MLflow does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MLflow free?
     a: MLflow is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with MLflow?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like MLflow
 
 ## What is MLflow?
 
-MLflow is an open‑source AI engineering platform that tracks LLM and agent execution, monitors performance, cost, and safety, manages prompts, and supports experiment tracking, tuning, and deployment across multiple clouds or on‑premises. AI Agents Subscription
-
+MLflow is an open‑source AI engineering platform that tracks LLM and agent execution, monitors performance, cost, and safety, manages prompts, and supports experiment tracking, tuning, and deployment across multiple clouds or on‑premises.
 In short, MLflow is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That single feature of MLflow alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Refact AI?
-    a: Refact.ai is an autonomous AI agent for IDEs (VS Code, JetBrains, Neovim) that analyzes entire projects, generates code, completes, debugs, and runs end‑to‑end tasks. It supports multiple LLMs, on‑prem or cloud hosting, and builds a knowledge base from interactions.  That is the core of what Refact AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Refact.ai is an autonomous AI agent for IDEs (VS Code, JetBrains, Neovim) that analyzes entire projects, generates code, completes, debugs, and runs end‑to‑end tasks. It supports multiple LLMs, on‑prem or cloud hosting, and builds a knowledge base from interactions. That is the core of what Refact AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Refact AI free?
     a: Refact AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $10/mo, check the official website — pricing changes often.
   - q: What can you do with Refact AI?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Cinnamon.ai?
-    a: Cinnamon AI is a document platform that uses Flax Scanner OCR without manual templates, integrates RAG for instant, context‑aware queries, and supports complex layouts. It automates data extraction, cuts manual effort, and delivers insights for legal, finance, and operations teams. Document management Freemium That is the core of what Cinnamon.ai does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Cinnamon AI is a document platform that uses Flax Scanner OCR without manual templates, integrates RAG for instant, context‑aware queries, and supports complex layouts. It automates data extraction, cuts manual effort, and delivers insights for legal, finance, and operations teams. That is the core of what Cinnamon.ai does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Cinnamon.ai free?
     a: Cinnamon.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Cinnamon.ai?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Cinnamon.ai?
 
-Cinnamon AI is a document platform that uses Flax Scanner OCR without manual templates, integrates RAG for instant, context‑aware queries, and supports complex layouts. It automates data extraction, cuts manual effort, and delivers insights for legal, finance, and operations teams. Document management Freemium
-
+Cinnamon AI is a document platform that uses Flax Scanner OCR without manual templates, integrates RAG for instant, context‑aware queries, and supports complex layouts. It automates data extraction, cuts manual effort, and delivers insights for legal, finance, and operations teams.
 In short, Cinnamon.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. Many users discover that this feature of Cinnamon.ai alone covers what previously took multiple tools.
 
 ## Key features

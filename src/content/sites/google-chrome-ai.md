@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Google Chrome AI?
-    a: Google Chrome integrates AI features—Gemini-powered context-aware assistance and AI search via the Omnibox—plus Google Lens, password manager, Safe Browsing, tab grouping, performance and privacy controls, offline Workspace access, and extensions across desktop and mobile.  That is the core of what Google Chrome AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Google Chrome integrates AI features—Gemini-powered context-aware assistance and AI search via the Omnibox—plus Google Lens, password manager, Safe Browsing, tab grouping, performance and privacy controls, offline Workspace access, and extensions across desktop and mobile. That is the core of what Google Chrome AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Google Chrome AI free?
     a: Yes — Google Chrome AI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Google Chrome AI?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ProdMoh AI?
-    a: ProdMoh is an AI‑enabled chief‑of‑staff platform that consolidates product intent into a Product Canvas, tracks releases with evidence‑based Decision Queues, auto‑generates launch assets, and aligns engineering, product, and GTM teams while reducing support load. Business planning Paid That is the core of what ProdMoh AI does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ProdMoh is an AI‑enabled chief‑of‑staff platform that consolidates product intent into a Product Canvas, tracks releases with evidence‑based Decision Queues, auto‑generates launch assets, and aligns engineering, product, and GTM teams while reducing support load. That is the core of what ProdMoh AI does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ProdMoh AI free?
     a: ProdMoh AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with ProdMoh AI?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like ProdMoh AI 
 
 ## What is ProdMoh AI?
 
-ProdMoh is an AI‑enabled chief‑of‑staff platform that consolidates product intent into a Product Canvas, tracks releases with evidence‑based Decision Queues, auto‑generates launch assets, and aligns engineering, product, and GTM teams while reducing support load. Business planning Paid
-
+ProdMoh is an AI‑enabled chief‑of‑staff platform that consolidates product intent into a Product Canvas, tracks releases with evidence‑based Decision Queues, auto‑generates launch assets, and aligns engineering, product, and GTM teams while reducing support load.
 In short, ProdMoh AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI planning without the manual grind. For plenty of users, that one capability of ProdMoh AI replaces several steps they used to do by hand.
 
 ## Key features

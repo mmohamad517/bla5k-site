@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is remko online (for Whatsapp)?
-    a: ChatGPT for WhatsApp brings GPT‑4 chat into the messaging app, enabling quick document drafting, legal research, proofreading, image generation, quizzes, translation, and document summarization via prompts and shortcut commands for writers.  That is the core of what remko online (for Whatsapp) does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ChatGPT for WhatsApp brings GPT‑4 chat into the messaging app, enabling quick document drafting, legal research, proofreading, image generation, quizzes, translation, and document summarization via prompts and shortcut commands for writers. That is the core of what remko online (for Whatsapp) does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is remko online (for Whatsapp) free?
     a: Yes — remko online (for Whatsapp) is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with remko online (for Whatsapp)?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Rewritify?
-    a: Rewritify AI transforms AI‑generated text into natural, human‑like prose in 50+ languages while preserving meaning and keyword density. Real‑time AI detection checks, plagiarism verification, and SEO‑friendly output make it suitable for students, writers, marketers, journalists, and e‑commerce operators. Copywriting Subscription - $9/mo That is the core of what Rewritify does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Rewritify AI transforms AI‑generated text into natural, human‑like prose in 50+ languages while preserving meaning and keyword density. Real‑time AI detection checks, plagiarism verification, and SEO‑friendly output make it suitable for students, writers, marketers, journalists, and e‑commerce operators. That is the core of what Rewritify does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Rewritify free?
     a: Rewritify is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Rewritify?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Rewritify?
 
-Rewritify AI transforms AI‑generated text into natural, human‑like prose in 50+ languages while preserving meaning and keyword density. Real‑time AI detection checks, plagiarism verification, and SEO‑friendly output make it suitable for students, writers, marketers, journalists, and e‑commerce operators. Copywriting Subscription - $9/mo
-
+Rewritify AI transforms AI‑generated text into natural, human‑like prose in 50+ languages while preserving meaning and keyword density. Real‑time AI detection checks, plagiarism verification, and SEO‑friendly output make it suitable for students, writers, marketers, journalists, and e‑commerce operators.
 In short, Rewritify is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. For many, that single strength of Rewritify is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

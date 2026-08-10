@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Motion Control AI?
-    a: motion-control-ai.net is an AI video generator that extracts full-body motion, facial expressions, hand gestures, and lip sync from a reference video to animate any character image without manual rigging or mocap suits. It outputs watermark-free videos in standard aspect ratios, enabling creators, marketers, and indie filmmakers to produce realistic motion transfer and retargeting for publishing. Animation Generation Free trial - $15.9/mo That is the core of what Motion Control AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: motion-control-ai.net is an AI video generator that extracts full-body motion, facial expressions, hand gestures, and lip sync from a reference video to animate any character image without manual rigging or mocap suits. It outputs watermark-free videos in standard aspect ratios, enabling creators, marketers, and indie filmmakers to produce realistic motion transfer and retargeting for publishing. That is the core of what Motion Control AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Motion Control AI free?
     a: Motion Control AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $15.9/mo, check the official website — pricing changes often.
   - q: What can you do with Motion Control AI?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Motion
 
 ## What is Motion Control AI?
 
-motion-control-ai.net is an AI video generator that extracts full-body motion, facial expressions, hand gestures, and lip sync from a reference video to animate any character image without manual rigging or mocap suits. It outputs watermark-free videos in standard aspect ratios, enabling creators, marketers, and indie filmmakers to produce realistic motion transfer and retargeting for publishing. Animation Generation Free trial - $15.9/mo
-
+motion-control-ai.net is an AI video generator that extracts full-body motion, facial expressions, hand gestures, and lip sync from a reference video to animate any character image without manual rigging or mocap suits. It outputs watermark-free videos in standard aspect ratios, enabling creators, marketers, and indie filmmakers to produce realistic motion transfer and retargeting for publishing.
 In short, Motion Control AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. Many users discover that this feature of Motion Control AI alone covers what previously took multiple tools.
 
 ## Key features

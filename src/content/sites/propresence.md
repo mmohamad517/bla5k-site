@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ProPresence?
-    a: Propresence is an AI tool that enhances LinkedIn profiles for executives, helping them build a professional brand and share expertise. It streamlines resume creation and content generation to strengthen online presence efficiently. Business Free trial - $29/mo That is the core of what ProPresence does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Propresence is an AI tool that enhances LinkedIn profiles for executives, helping them build a professional brand and share expertise. It streamlines resume creation and content generation to strengthen online presence efficiently. That is the core of what ProPresence does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ProPresence free?
     a: ProPresence uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $29/mo, check the official website — pricing changes often.
   - q: What can you do with ProPresence?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like ProPresence
 
 ## What is ProPresence?
 
-Propresence is an AI tool that enhances LinkedIn profiles for executives, helping them build a professional brand and share expertise. It streamlines resume creation and content generation to strengthen online presence efficiently. Business Free trial - $29/mo
-
+Propresence is an AI tool that enhances LinkedIn profiles for executives, helping them build a professional brand and share expertise. It streamlines resume creation and content generation to strengthen online presence efficiently.
 In short, ProPresence is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. Many users find that this one ability of ProPresence removes several tasks from their daily routine.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Siteline.ai?
-    a: Siteline.ai is an AI agent analytics platform that tracks bot visits, citations, and query-level impressions across major AI platforms. It provides dashboards and data-driven recommendations to optimize content for AI search visibility and improve site performance. AI Agents Free trial - $49/mo That is the core of what Siteline.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Siteline.ai is an AI agent analytics platform that tracks bot visits, citations, and query-level impressions across major AI platforms. It provides dashboards and data-driven recommendations to optimize content for AI search visibility and improve site performance. That is the core of what Siteline.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Siteline.ai free?
     a: Siteline.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $49/mo, check the official website — pricing changes often.
   - q: What can you do with Siteline.ai?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Siteline.ai
 
 ## What is Siteline.ai?
 
-Siteline.ai is an AI agent analytics platform that tracks bot visits, citations, and query-level impressions across major AI platforms. It provides dashboards and data-driven recommendations to optimize content for AI search visibility and improve site performance. AI Agents Free trial - $49/mo
-
+Siteline.ai is an AI agent analytics platform that tracks bot visits, citations, and query-level impressions across major AI platforms. It provides dashboards and data-driven recommendations to optimize content for AI search visibility and improve site performance.
 In short, Siteline.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users discover that this feature of Siteline.ai alone covers what previously took multiple tools.
 
 ## Key features

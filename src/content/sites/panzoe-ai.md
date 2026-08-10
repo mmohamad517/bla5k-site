@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Panzoe AI?
-    a: Panzoe AI is an AI operating system that unifies personal and work tools into connected copilots with a single persistent memory. It automates daily briefings, inbox/calendar management, document summarization, tasks, meetings, and specialist workflows across health, finance, travel, and more. Personal assistant 1 Free trial - $11.68/mo That is the core of what Panzoe AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Panzoe AI is an AI operating system that unifies personal and work tools into connected copilots with a single persistent memory. It automates daily briefings, inbox/calendar management, document summarization, tasks, meetings, and specialist workflows across health, finance, travel, and more. That is the core of what Panzoe AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Panzoe AI free?
     a: Panzoe AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $11.68/mo, check the official website — pricing changes often.
   - q: What can you do with Panzoe AI?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Panzoe
 
 ## What is Panzoe AI?
 
-Panzoe AI is an AI operating system that unifies personal and work tools into connected copilots with a single persistent memory. It automates daily briefings, inbox/calendar management, document summarization, tasks, meetings, and specialist workflows across health, finance, travel, and more. Personal assistant 1 Free trial - $11.68/mo
-
+Panzoe AI is an AI operating system that unifies personal and work tools into connected copilots with a single persistent memory. It automates daily briefings, inbox/calendar management, document summarization, tasks, meetings, and specialist workflows across health, finance, travel, and more.
 In short, Panzoe AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one feature of Panzoe AI often eliminates several smaller steps from the usual workflow.
 
 ## Key features

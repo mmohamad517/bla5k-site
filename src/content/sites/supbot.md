@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SupBot?
-    a: SupBot is an AI‑powered support bot that can be embedded with minimal code. It learns from user inputs to answer routine questions instantly, 24/7, and logs interactions in a built‑in ticketing system for easy handoff to human agents. Customer support Freemium - $15/mo That is the core of what SupBot does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SupBot is an AI‑powered support bot that can be embedded with minimal code. It learns from user inputs to answer routine questions instantly, 24/7, and logs interactions in a built‑in ticketing system for easy handoff to human agents. That is the core of what SupBot does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SupBot free?
     a: SupBot uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $15/mo, check the official website — pricing changes often.
   - q: What can you do with SupBot?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is SupBot?
 
-SupBot is an AI‑powered support bot that can be embedded with minimal code. It learns from user inputs to answer routine questions instantly, 24/7, and logs interactions in a built‑in ticketing system for easy handoff to human agents. Customer support Freemium - $15/mo
-
+SupBot is an AI‑powered support bot that can be embedded with minimal code. It learns from user inputs to answer routine questions instantly, 24/7, and logs interactions in a built‑in ticketing system for easy handoff to human agents.
 In short, SupBot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For many, that single strength of SupBot is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is NA.VI?
-    a: NAVI is an AI learning companion that creates personalized study plans, offers real‑time chat, instant feedback, and adaptive quizzes. It integrates tools for planning, multilingual practice, speech, lesson design, and visuals while providing analytics and goal tracking. AI Assistant Freemium That is the core of what NA.VI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: NAVI is an AI learning companion that creates personalized study plans, offers real‑time chat, instant feedback, and adaptive quizzes. It integrates tools for planning, multilingual practice, speech, lesson design, and visuals while providing analytics and goal tracking. That is the core of what NA.VI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is NA.VI free?
     a: NA.VI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with NA.VI?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like NA.VI 
 
 ## What is NA.VI?
 
-NAVI is an AI learning companion that creates personalized study plans, offers real‑time chat, instant feedback, and adaptive quizzes. It integrates tools for planning, multilingual practice, speech, lesson design, and visuals while providing analytics and goal tracking. AI Assistant Freemium
-
+NAVI is an AI learning companion that creates personalized study plans, offers real‑time chat, instant feedback, and adaptive quizzes. It integrates tools for planning, multilingual practice, speech, lesson design, and visuals while providing analytics and goal tracking.
 In short, NA.VI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For a lot of people, that one function of NA.VI collapses multiple steps into a single action.
 
 ## Key features

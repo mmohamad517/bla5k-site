@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Digits — Accounting?
-    a: Digits is an advanced AI tool transforming accounting processes with automated bookkeeping, financial analysis, and insightful reports. With live dashboards and top-notch security, it assists in scaling operations for businesses and developers.  That is the core of what Digits — Accounting does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Digits is an advanced AI tool transforming accounting processes with automated bookkeeping, financial analysis, and insightful reports. With live dashboards and top-notch security, it assists in scaling operations for businesses and developers. That is the core of what Digits — Accounting does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Digits — Accounting free?
     a: Digits — Accounting is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Digits — Accounting?

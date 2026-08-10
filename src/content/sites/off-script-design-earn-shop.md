@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: "What is Off/Script: Design, Earn, Shop?"
-    a: "off/script is a community-led product creation platform enabling users to bring their product ideas to life for free. With a robust AI, creators can design like pros in seconds, retaining IP rights and earning from product sales.  That is the core of what Off/Script: Design, Earn, Shop does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "off/script is a community-led product creation platform enabling users to bring their product ideas to life for free. With a robust AI, creators can design like pros in seconds, retaining IP rights and earning from product sales. That is the core of what Off/Script: Design, Earn, Shop does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: "Is Off/Script: Design, Earn, Shop free?"
     a: "Yes — Off/Script: Design, Earn, Shop is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers."
   - q: "What can you do with Off/Script: Design, Earn, Shop?"

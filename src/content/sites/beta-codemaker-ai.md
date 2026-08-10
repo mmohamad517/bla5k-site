@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CodeMaker?
-    a: CodeMaker AI provides context-aware code completion and generation using file-level context, plus inline and automated documentation, batch directory-wide refactors, IDE/GitHub/CLI integrations, repository indexing, fine-tuning and testing workflows for team-aligned codebases. Code assistant Free trial That is the core of what CodeMaker does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CodeMaker AI provides context-aware code completion and generation using file-level context, plus inline and automated documentation, batch directory-wide refactors, IDE/GitHub/CLI integrations, repository indexing, fine-tuning and testing workflows for team-aligned codebases. That is the core of what CodeMaker does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CodeMaker free?
     a: CodeMaker uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with CodeMaker?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like CodeMaker m
 
 ## What is CodeMaker?
 
-CodeMaker AI provides context-aware code completion and generation using file-level context, plus inline and automated documentation, batch directory-wide refactors, IDE/GitHub/CLI integrations, repository indexing, fine-tuning and testing workflows for team-aligned codebases. Code assistant Free trial
-
+CodeMaker AI provides context-aware code completion and generation using file-level context, plus inline and automated documentation, batch directory-wide refactors, IDE/GitHub/CLI integrations, repository indexing, fine-tuning and testing workflows for team-aligned codebases.
 In short, CodeMaker is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That single feature of CodeMaker alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

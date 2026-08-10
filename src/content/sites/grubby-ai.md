@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Grubby.ai?
-    a: Grubby AI converts AI-generated content into human-like text, enabling it to evade detection systems. It processes plain text and PDFs in over 30 languages while eliminating AI-specific watermarks for unique outputs. AI detection Freemium That is the core of what Grubby.ai does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Grubby AI converts AI-generated content into human-like text, enabling it to evade detection systems. It processes plain text and PDFs in over 30 languages while eliminating AI-specific watermarks for unique outputs. That is the core of what Grubby.ai does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Grubby.ai free?
     a: Grubby.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Grubby.ai?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Grubby.ai?
 
-Grubby AI converts AI-generated content into human-like text, enabling it to evade detection systems. It processes plain text and PDFs in over 30 languages while eliminating AI-specific watermarks for unique outputs. AI detection Freemium
-
+Grubby AI converts AI-generated content into human-like text, enabling it to evade detection systems. It processes plain text and PDFs in over 30 languages while eliminating AI-specific watermarks for unique outputs.
 In short, Grubby.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. For a lot of people, that one function of Grubby.ai collapses multiple steps into a single action.
 
 ## Key features

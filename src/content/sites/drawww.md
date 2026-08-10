@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Drawww?
-    a: DRO is a drawing practice platform that provides themed sketch prompts across concept art, cartoons, character design, and anime. It offers scorecards with technical feedback, a leaderboard, and a portfolio to track progress for all skill levels. Character Design Freemium That is the core of what Drawww does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: DRO is a drawing practice platform that provides themed sketch prompts across concept art, cartoons, character design, and anime. It offers scorecards with technical feedback, a leaderboard, and a portfolio to track progress for all skill levels. That is the core of what Drawww does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Drawww free?
     a: Drawww uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Drawww?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Drawww earn thei
 
 ## What is Drawww?
 
-DRO is a drawing practice platform that provides themed sketch prompts across concept art, cartoons, character design, and anime. It offers scorecards with technical feedback, a leaderboard, and a portfolio to track progress for all skill levels. Character Design Freemium
-
+DRO is a drawing practice platform that provides themed sketch prompts across concept art, cartoons, character design, and anime. It offers scorecards with technical feedback, a leaderboard, and a portfolio to track progress for all skill levels.
 In short, Drawww is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. Many users discover that this feature of Drawww alone covers what previously took multiple tools.
 
 ## Key features

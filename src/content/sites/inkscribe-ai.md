@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Inkscribe AI?
-    a: Inkscribe AI is an advanced document management tool utilizing OCR to digitize and edit handwritten and complex text documents with high accuracy. It features automatic classification, secure file sharing, and an analytics dashboard for enhanced productivity insights. Document management Free trial That is the core of what Inkscribe AI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Inkscribe AI is an advanced document management tool utilizing OCR to digitize and edit handwritten and complex text documents with high accuracy. It features automatic classification, secure file sharing, and an analytics dashboard for enhanced productivity insights. That is the core of what Inkscribe AI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Inkscribe AI free?
     a: Inkscribe AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Inkscribe AI?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Inkscribe A
 
 ## What is Inkscribe AI?
 
-Inkscribe AI is an advanced document management tool utilizing OCR to digitize and edit handwritten and complex text documents with high accuracy. It features automatic classification, secure file sharing, and an analytics dashboard for enhanced productivity insights. Document management Free trial
-
+Inkscribe AI is an advanced document management tool utilizing OCR to digitize and edit handwritten and complex text documents with high accuracy. It features automatic classification, secure file sharing, and an analytics dashboard for enhanced productivity insights.
 In short, Inkscribe AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. Many users find that this one ability of Inkscribe AI removes several tasks from their daily routine.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is UltimateAI?
-    a: "UltimateAI is a SaaS plugin providing cutting-edge AI functionalities: intelligent text generation, human-like voice conversions, AI chatbots, and code generation. It expedites content creation in multiple formats with high quality and efficiency.  That is the core of what UltimateAI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "UltimateAI is a SaaS plugin providing cutting-edge AI functionalities: intelligent text generation, human-like voice conversions, AI chatbots, and code generation. It expedites content creation in multiple formats with high quality and efficiency. That is the core of what UltimateAI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is UltimateAI free?
     a: Yes — UltimateAI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with UltimateAI?

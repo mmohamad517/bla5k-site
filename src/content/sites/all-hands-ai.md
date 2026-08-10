@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is All Hands AI?
-    a: Hands AI is an open-source platform that automates repetitive software engineering tasks, supports code generation, and aggregates verified problem sets. It fosters collaboration among users and integrates with various large language model providers for enhanced productivity. Code assistant Free That is the core of what All Hands AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Hands AI is an open-source platform that automates repetitive software engineering tasks, supports code generation, and aggregates verified problem sets. It fosters collaboration among users and integrates with various large language model providers for enhanced productivity. That is the core of what All Hands AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is All Hands AI free?
     a: Yes — All Hands AI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with All Hands AI?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like All Hands A
 
 ## What is All Hands AI?
 
-Hands AI is an open-source platform that automates repetitive software engineering tasks, supports code generation, and aggregates verified problem sets. It fosters collaboration among users and integrates with various large language model providers for enhanced productivity. Code assistant Free
-
+Hands AI is an open-source platform that automates repetitive software engineering tasks, supports code generation, and aggregates verified problem sets. It fosters collaboration among users and integrates with various large language model providers for enhanced productivity.
 In short, All Hands AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users find that this one ability of All Hands AI removes several tasks from their daily routine.
 
 ## Key features

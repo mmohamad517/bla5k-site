@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Creatus?
-    a: CREATUS.AI provides an AI‑native workspace with 35+ models and 90 integrations for image editing, animation, music production, and more. It automates workflows, custom‑integrates solutions for SMEs and enterprises, and streamlines cross‑department creative collaboration. Content creation Free That is the core of what Creatus does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CREATUS.AI provides an AI‑native workspace with 35+ models and 90 integrations for image editing, animation, music production, and more. It automates workflows, custom‑integrates solutions for SMEs and enterprises, and streamlines cross‑department creative collaboration. That is the core of what Creatus does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Creatus free?
     a: Yes — Creatus is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Creatus?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Creatus?
 
-CREATUS.AI provides an AI‑native workspace with 35+ models and 90 integrations for image editing, animation, music production, and more. It automates workflows, custom‑integrates solutions for SMEs and enterprises, and streamlines cross‑department creative collaboration. Content creation Free
-
+CREATUS.AI provides an AI‑native workspace with 35+ models and 90 integrations for image editing, animation, music production, and more. It automates workflows, custom‑integrates solutions for SMEs and enterprises, and streamlines cross‑department creative collaboration.
 In short, Creatus is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. Many users discover that this feature of Creatus alone covers what previously took multiple tools.
 
 ## Key features

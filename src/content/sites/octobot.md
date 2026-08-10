@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is OctoBot?
-    a: Octobot is an automated trading platform for cryptocurrency investors, enabling diversified strategies like dollar-cost averaging. It integrates with TradingView, offers virtual money testing, and supports community-driven, open-source trading strategy development. Crypto and Web3 1 0 Free trial That is the core of what OctoBot does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Octobot is an automated trading platform for cryptocurrency investors, enabling diversified strategies like dollar-cost averaging. It integrates with TradingView, offers virtual money testing, and supports community-driven, open-source trading strategy development. That is the core of what OctoBot does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is OctoBot free?
     a: OctoBot uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with OctoBot?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like OctoBot earn the
 
 ## What is OctoBot?
 
-Octobot is an automated trading platform for cryptocurrency investors, enabling diversified strategies like dollar-cost averaging. It integrates with TradingView, offers virtual money testing, and supports community-driven, open-source trading strategy development. Crypto and Web3 1 0 Free trial
-
+Octobot is an automated trading platform for cryptocurrency investors, enabling diversified strategies like dollar-cost averaging. It integrates with TradingView, offers virtual money testing, and supports community-driven, open-source trading strategy development.
 In short, OctoBot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. For plenty of users, that one capability of OctoBot replaces several steps they used to do by hand.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Customvision.ai?
-    a: Custom Vision enables developers to create custom image classification and object detection models by uploading labeled images or auto‑tagging unlabelled sets. Train, test, and deploy via REST API; supports quick iteration and suits teams lacking deep ML skills. AI Agents Freemium That is the core of what Customvision.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Custom Vision enables developers to create custom image classification and object detection models by uploading labeled images or auto‑tagging unlabelled sets. Train, test, and deploy via REST API; supports quick iteration and suits teams lacking deep ML skills. That is the core of what Customvision.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Customvision.ai free?
     a: Customvision.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Customvision.ai?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Customvision.ai?
 
-Custom Vision enables developers to create custom image classification and object detection models by uploading labeled images or auto‑tagging unlabelled sets. Train, test, and deploy via REST API; supports quick iteration and suits teams lacking deep ML skills. AI Agents Freemium
-
+Custom Vision enables developers to create custom image classification and object detection models by uploading labeled images or auto‑tagging unlabelled sets. Train, test, and deploy via REST API; supports quick iteration and suits teams lacking deep ML skills.
 In short, Customvision.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users discover that this feature of Customvision.ai alone covers what previously took multiple tools.
 
 ## Key features

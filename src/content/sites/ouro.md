@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ouro?
-    a: Ouro is a collaborative platform that lets researchers upload and monetize Earth datasets, share APIs via Water APIs, embed live data and code in posts, organize community quests, and provide a Python SDK for automating pipelines, with private collaboration options. AI Agents Freemium - $10/mo That is the core of what Ouro does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ouro is a collaborative platform that lets researchers upload and monetize Earth datasets, share APIs via Water APIs, embed live data and code in posts, organize community quests, and provide a Python SDK for automating pipelines, with private collaboration options. That is the core of what Ouro does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ouro free?
     a: Ouro uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $10/mo, check the official website — pricing changes often.
   - q: What can you do with Ouro?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Ouro?
 
-Ouro is a collaborative platform that lets researchers upload and monetize Earth datasets, share APIs via Water APIs, embed live data and code in posts, organize community quests, and provide a Python SDK for automating pipelines, with private collaboration options. AI Agents Freemium - $10/mo
-
+Ouro is a collaborative platform that lets researchers upload and monetize Earth datasets, share APIs via Water APIs, embed live data and code in posts, organize community quests, and provide a Python SDK for automating pipelines, with private collaboration options.
 In short, Ouro is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many, that single strength of Ouro is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

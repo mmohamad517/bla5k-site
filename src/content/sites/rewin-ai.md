@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Rewin AI?
-    a: Rewin.ai generates YouTube and TikTok scripts by analyzing a video URL, extracting key elements, and producing concise, engaging scripts that match the original tone. It supports multiple languages, customizable style settings, and direct publishing.  That is the core of what Rewin AI does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Rewin.ai generates YouTube and TikTok scripts by analyzing a video URL, extracting key elements, and producing concise, engaging scripts that match the original tone. It supports multiple languages, customizable style settings, and direct publishing. That is the core of what Rewin AI does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Rewin AI free?
     a: Rewin AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Rewin AI?

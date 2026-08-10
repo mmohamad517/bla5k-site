@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Broearn?
-    a: Broearn Browser is a Web 3.0 browser with an integrated multi‑chain wallet and smart‑contract functionality. It offers built‑in security, AI GPT‑4 assistance, widget SDK, VPN, cloud storage, and a catalog of DApps across major networks. Crypto and Web3 0 1 Free That is the core of what Broearn does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Broearn Browser is a Web 3.0 browser with an integrated multi‑chain wallet and smart‑contract functionality. It offers built‑in security, AI GPT‑4 assistance, widget SDK, VPN, cloud storage, and a catalog of DApps across major networks. That is the core of what Broearn does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Broearn free?
     a: Yes — Broearn is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Broearn?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Broearn?
 
-Broearn Browser is a Web 3.0 browser with an integrated multi‑chain wallet and smart‑contract functionality. It offers built‑in security, AI GPT‑4 assistance, widget SDK, VPN, cloud storage, and a catalog of DApps across major networks. Crypto and Web3 0 1 Free
-
+Broearn Browser is a Web 3.0 browser with an integrated multi‑chain wallet and smart‑contract functionality. It offers built‑in security, AI GPT‑4 assistance, widget SDK, VPN, cloud storage, and a catalog of DApps across major networks.
 In short, Broearn is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. That one feature of Broearn often eliminates several smaller steps from the usual workflow.
 
 ## Key features

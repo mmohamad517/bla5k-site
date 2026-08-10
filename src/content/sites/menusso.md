@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Menusso?
-    a: Menusso Polska gives restaurants branded mobile apps that host menus, integrate card and BLIK payments, eliminate commission fees, allow real‑time edits, auto‑translate menus into 15+ languages, and include built‑in CRM and push notifications. AI Agents Freemium - $34/mo That is the core of what Menusso does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Menusso Polska gives restaurants branded mobile apps that host menus, integrate card and BLIK payments, eliminate commission fees, allow real‑time edits, auto‑translate menus into 15+ languages, and include built‑in CRM and push notifications. That is the core of what Menusso does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Menusso free?
     a: Menusso uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $34/mo, check the official website — pricing changes often.
   - q: What can you do with Menusso?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Menuss
 
 ## What is Menusso?
 
-Menusso Polska gives restaurants branded mobile apps that host menus, integrate card and BLIK payments, eliminate commission fees, allow real‑time edits, auto‑translate menus into 15+ languages, and include built‑in CRM and push notifications. AI Agents Freemium - $34/mo
-
+Menusso Polska gives restaurants branded mobile apps that host menus, integrate card and BLIK payments, eliminate commission fees, allow real‑time edits, auto‑translate menus into 15+ languages, and include built‑in CRM and push notifications.
 In short, Menusso is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That one feature of Menusso often eliminates several smaller steps from the usual workflow.
 
 ## Key features

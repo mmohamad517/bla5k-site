@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Dewstack?
-    a: Dewstack is an AI‑powered knowledge‑base and SOP platform that consolidates documents from Notion, Google Docs, Confluence, GitHub, PDFs, and more. It auto‑structures content, provides AI‑generated answers with citations, records workflows via a Chrome extension, and supports secure, real‑time team collaboration. Document management Free trial - $12 That is the core of what Dewstack does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Dewstack is an AI‑powered knowledge‑base and SOP platform that consolidates documents from Notion, Google Docs, Confluence, GitHub, PDFs, and more. It auto‑structures content, provides AI‑generated answers with citations, records workflows via a Chrome extension, and supports secure, real‑time team collaboration. That is the core of what Dewstack does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Dewstack free?
     a: Dewstack uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $12, check the official website — pricing changes often.
   - q: What can you do with Dewstack?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Dewstack?
 
-Dewstack is an AI‑powered knowledge‑base and SOP platform that consolidates documents from Notion, Google Docs, Confluence, GitHub, PDFs, and more. It auto‑structures content, provides AI‑generated answers with citations, records workflows via a Chrome extension, and supports secure, real‑time team collaboration. Document management Free trial - $12
-
+Dewstack is an AI‑powered knowledge‑base and SOP platform that consolidates documents from Notion, Google Docs, Confluence, GitHub, PDFs, and more. It auto‑structures content, provides AI‑generated answers with citations, records workflows via a Chrome extension, and supports secure, real‑time team collaboration.
 In short, Dewstack is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For plenty of users, that one capability of Dewstack replaces several steps they used to do by hand.
 
 ## Key features

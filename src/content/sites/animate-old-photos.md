@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Animate old photos?
-    a: Animate Old Photos is an online tool that transforms static images into animated videos using AI. Users can upload old photos, add captions, and create engaging animations to share cherished memories and storytelling elements. Animation Generation Freemium - $9.99 That is the core of what Animate old photos does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Animate Old Photos is an online tool that transforms static images into animated videos using AI. Users can upload old photos, add captions, and create engaging animations to share cherished memories and storytelling elements. That is the core of what Animate old photos does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Animate old photos free?
     a: Animate old photos uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9.99, check the official website — pricing changes often.
   - q: What can you do with Animate old photos?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Animate old photos?
 
-Animate Old Photos is an online tool that transforms static images into animated videos using AI. Users can upload old photos, add captions, and create engaging animations to share cherished memories and storytelling elements. Animation Generation Freemium - $9.99
-
+Animate Old Photos is an online tool that transforms static images into animated videos using AI. Users can upload old photos, add captions, and create engaging animations to share cherished memories and storytelling elements.
 In short, Animate old photos is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. That one capability of Animate old photos frequently saves users from juggling several separate steps.
 
 ## Key features

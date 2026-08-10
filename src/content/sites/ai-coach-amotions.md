@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Coach Amotions?
-    a: Amotions AI delivers real‑time, emotionally intelligent assistance for sales teams by analyzing calls, providing pre‑ and post‑call insights, and adaptive guidance. It offers AI coaching, role‑play, and multi‑call learning to improve qualification success. Coaching Freemium That is the core of what AI Coach Amotions does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Amotions AI delivers real‑time, emotionally intelligent assistance for sales teams by analyzing calls, providing pre‑ and post‑call insights, and adaptive guidance. It offers AI coaching, role‑play, and multi‑call learning to improve qualification success. That is the core of what AI Coach Amotions does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI Coach Amotions free?
     a: AI Coach Amotions uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AI Coach Amotions?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like AI Coach Am
 
 ## What is AI Coach Amotions?
 
-Amotions AI delivers real‑time, emotionally intelligent assistance for sales teams by analyzing calls, providing pre‑ and post‑call insights, and adaptive guidance. It offers AI coaching, role‑play, and multi‑call learning to improve qualification success. Coaching Freemium
-
+Amotions AI delivers real‑time, emotionally intelligent assistance for sales teams by analyzing calls, providing pre‑ and post‑call insights, and adaptive guidance. It offers AI coaching, role‑play, and multi‑call learning to improve qualification success.
 In short, AI Coach Amotions is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. For a lot of people, that one function of AI Coach Amotions collapses multiple steps into a single action.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is zeni.ai?
-    a: ZENI is an AI-based platform for startups, automating financial data processing and providing real-time insights. It offers personalized support, enabling faster decisions with accurate financial metrics and simplified bookkeeping. Accounting assistant Subscription - $45.75/mo That is the core of what zeni.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ZENI is an AI-based platform for startups, automating financial data processing and providing real-time insights. It offers personalized support, enabling faster decisions with accurate financial metrics and simplified bookkeeping. That is the core of what zeni.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is zeni.ai free?
     a: zeni.ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with zeni.ai?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is zeni.ai?
 
-ZENI is an AI-based platform for startups, automating financial data processing and providing real-time insights. It offers personalized support, enabling faster decisions with accurate financial metrics and simplified bookkeeping. Accounting assistant Subscription - $45.75/mo
-
+ZENI is an AI-based platform for startups, automating financial data processing and providing real-time insights. It offers personalized support, enabling faster decisions with accurate financial metrics and simplified bookkeeping.
 In short, zeni.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For a lot of people, that one function of zeni.ai collapses multiple steps into a single action.
 
 ## Key features

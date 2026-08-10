@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is DollMe?
-    a: DollMe.app is an AI tool for creating and customizing virtual dolls, enabling unique selfies for social media. It offers user-friendly navigation and emphasizes privacy, making it suitable for social media enthusiasts and content creators.  That is the core of what DollMe does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: DollMe.app is an AI tool for creating and customizing virtual dolls, enabling unique selfies for social media. It offers user-friendly navigation and emphasizes privacy, making it suitable for social media enthusiasts and content creators. That is the core of what DollMe does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is DollMe free?
     a: DollMe uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with DollMe?

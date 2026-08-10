@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is HumanCircles.AI?
-    a: Human Circles AI is a LinkedIn-enhancing Chrome extension utilizing generative AI. It facilitates meaningful connections, expert identification, and customized professional relationship building for an elevated networking experience. AI Assistant Free trial That is the core of what HumanCircles.AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Human Circles AI is a LinkedIn-enhancing Chrome extension utilizing generative AI. It facilitates meaningful connections, expert identification, and customized professional relationship building for an elevated networking experience. That is the core of what HumanCircles.AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is HumanCircles.AI free?
     a: HumanCircles.AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with HumanCircles.AI?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is HumanCircles.AI?
 
-Human Circles AI is a LinkedIn-enhancing Chrome extension utilizing generative AI. It facilitates meaningful connections, expert identification, and customized professional relationship building for an elevated networking experience. AI Assistant Free trial
-
+Human Circles AI is a LinkedIn-enhancing Chrome extension utilizing generative AI. It facilitates meaningful connections, expert identification, and customized professional relationship building for an elevated networking experience.
 In short, HumanCircles.AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one capability of HumanCircles.AI frequently saves users from juggling several separate steps.
 
 ## Key features

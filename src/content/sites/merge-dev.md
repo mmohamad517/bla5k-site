@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is merge.dev?
-    a: "merge.devis a get touch: an AI chatbot and conversational platform that automates lead generation and customer support across web chat, SMS, and social channels, with built-in CRM syncing and analytics for sales and marketing teams. Omnichannel chatbot Freemium That is the core of what merge.dev does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "merge.devis a get touch: an AI chatbot and conversational platform that automates lead generation and customer support across web chat, SMS, and social channels, with built-in CRM syncing and analytics for sales and marketing teams. That is the core of what merge.dev does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is merge.dev free?
     a: merge.dev uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with merge.dev?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is merge.dev?
 
-merge.devis a get touch: an AI chatbot and conversational platform that automates lead generation and customer support across web chat, SMS, and social channels, with built-in CRM syncing and analytics for sales and marketing teams. Omnichannel chatbot Freemium
-
+merge.devis a get touch: an AI chatbot and conversational platform that automates lead generation and customer support across web chat, SMS, and social channels, with built-in CRM syncing and analytics for sales and marketing teams.
 In short, merge.dev is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. That single feature of merge.dev alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

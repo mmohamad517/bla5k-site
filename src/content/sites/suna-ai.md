@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Suna AI?
-    a: Kortix Suna is an open-source AI agent designed for personal and professional use, supporting TypeScript and Python. Users can opt for self-hosted or cloud-managed deployment, benefiting from community-driven development and an auditable codebase. AI Agents Free That is the core of what Suna AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Kortix Suna is an open-source AI agent designed for personal and professional use, supporting TypeScript and Python. Users can opt for self-hosted or cloud-managed deployment, benefiting from community-driven development and an auditable codebase. That is the core of what Suna AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Suna AI free?
     a: Yes — Suna AI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Suna AI?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Suna AI?
 
-Kortix Suna is an open-source AI agent designed for personal and professional use, supporting TypeScript and Python. Users can opt for self-hosted or cloud-managed deployment, benefiting from community-driven development and an auditable codebase. AI Agents Free
-
+Kortix Suna is an open-source AI agent designed for personal and professional use, supporting TypeScript and Python. Users can opt for self-hosted or cloud-managed deployment, benefiting from community-driven development and an auditable codebase.
 In short, Suna AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For plenty of users, that one capability of Suna AI replaces several steps they used to do by hand.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Flowpost.io?
-    a: Flowpost is an AI tool that helps users create LinkedIn carousels and posts quickly by selecting topics, tones, and formats. It offers customizable settings, one-click translation, and scheduling, streamlining content generation for effective networking. Content creation Free trial That is the core of what Flowpost.io does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Flowpost is an AI tool that helps users create LinkedIn carousels and posts quickly by selecting topics, tones, and formats. It offers customizable settings, one-click translation, and scheduling, streamlining content generation for effective networking. That is the core of what Flowpost.io does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Flowpost.io free?
     a: Flowpost.io uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Flowpost.io?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Flowpost.io?
 
-Flowpost is an AI tool that helps users create LinkedIn carousels and posts quickly by selecting topics, tones, and formats. It offers customizable settings, one-click translation, and scheduling, streamlining content generation for effective networking. Content creation Free trial
-
+Flowpost is an AI tool that helps users create LinkedIn carousels and posts quickly by selecting topics, tones, and formats. It offers customizable settings, one-click translation, and scheduling, streamlining content generation for effective networking.
 In short, Flowpost.io is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. Many users find that this one ability of Flowpost.io removes several tasks from their daily routine.
 
 ## Key features

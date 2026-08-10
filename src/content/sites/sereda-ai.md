@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Sereda AI?
-    a: Sereda AI is an HCM and LMS that centralizes knowledge with a searchable knowledge base and AI assistant, offers course and onboarding builders, employee surveys and anonymous reviews, plus learning analytics and automation for training and performance. Knowledge base management Freemium That is the core of what Sereda AI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Sereda AI is an HCM and LMS that centralizes knowledge with a searchable knowledge base and AI assistant, offers course and onboarding builders, employee surveys and anonymous reviews, plus learning analytics and automation for training and performance. That is the core of what Sereda AI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Sereda AI free?
     a: Sereda AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Sereda AI?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Sereda AI?
 
-Sereda AI is an HCM and LMS that centralizes knowledge with a searchable knowledge base and AI assistant, offers course and onboarding builders, employee surveys and anonymous reviews, plus learning analytics and automation for training and performance. Knowledge base management Freemium
-
+Sereda AI is an HCM and LMS that centralizes knowledge with a searchable knowledge base and AI assistant, offers course and onboarding builders, employee surveys and anonymous reviews, plus learning analytics and automation for training and performance.
 In short, Sereda AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. Many users find that this one ability of Sereda AI removes several tasks from their daily routine.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Coach Me Up!?
-    a: AI Career Coach is a 24/7 personal AI coach offering tailored support in interview preparation, resume reviews, and career advancement. It uses advanced algorithms to provide personalized guidance while prioritizing user privacy and data protection. Coaching Free trial - $20 That is the core of what Coach Me Up! does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Career Coach is a 24/7 personal AI coach offering tailored support in interview preparation, resume reviews, and career advancement. It uses advanced algorithms to provide personalized guidance while prioritizing user privacy and data protection. That is the core of what Coach Me Up! does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Coach Me Up! free?
     a: Coach Me Up! uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $20, check the official website — pricing changes often.
   - q: What can you do with Coach Me Up!?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Coach Me Up! ear
 
 ## What is Coach Me Up!?
 
-AI Career Coach is a 24/7 personal AI coach offering tailored support in interview preparation, resume reviews, and career advancement. It uses advanced algorithms to provide personalized guidance while prioritizing user privacy and data protection. Coaching Free trial - $20
-
+AI Career Coach is a 24/7 personal AI coach offering tailored support in interview preparation, resume reviews, and career advancement. It uses advanced algorithms to provide personalized guidance while prioritizing user privacy and data protection.
 In short, Coach Me Up! is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. That one feature of Coach Me Up! often eliminates several smaller steps from the usual workflow.
 
 ## Key features

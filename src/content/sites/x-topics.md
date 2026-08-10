@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is X Topics?
-    a: Xtopics lets Threads creators discover trending topics via word clouds, analyze engagement and views, filter posts or replies, compare similar subjects, and copy content. It offers keyword searches back to June 2024 for efficient idea generation and performance tracking. Marketing Paid - $40 That is the core of what X Topics does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Xtopics lets Threads creators discover trending topics via word clouds, analyze engagement and views, filter posts or replies, compare similar subjects, and copy content. It offers keyword searches back to June 2024 for efficient idea generation and performance tracking. That is the core of what X Topics does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is X Topics free?
     a: X Topics is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with X Topics?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like X Topi
 
 ## What is X Topics?
 
-Xtopics lets Threads creators discover trending topics via word clouds, analyze engagement and views, filter posts or replies, compare similar subjects, and copy content. It offers keyword searches back to June 2024 for efficient idea generation and performance tracking. Marketing Paid - $40
-
+Xtopics lets Threads creators discover trending topics via word clouds, analyze engagement and views, filter posts or replies, compare similar subjects, and copy content. It offers keyword searches back to June 2024 for efficient idea generation and performance tracking.
 In short, X Topics is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That one capability of X Topics frequently saves users from juggling several separate steps.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Aftercare?
-    a: Aftercare is an AI‑powered survey platform that automates follow‑up prompts, flags data quality issues, auto‑codes responses, and builds dynamic paths via a drag‑and‑drop workflow. It summarizes insights, accelerating analysis for researchers and product managers. Customer support Free That is the core of what Aftercare does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Aftercare is an AI‑powered survey platform that automates follow‑up prompts, flags data quality issues, auto‑codes responses, and builds dynamic paths via a drag‑and‑drop workflow. It summarizes insights, accelerating analysis for researchers and product managers. That is the core of what Aftercare does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Aftercare free?
     a: Yes — Aftercare is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Aftercare?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Afterc
 
 ## What is Aftercare?
 
-Aftercare is an AI‑powered survey platform that automates follow‑up prompts, flags data quality issues, auto‑codes responses, and builds dynamic paths via a drag‑and‑drop workflow. It summarizes insights, accelerating analysis for researchers and product managers. Customer support Free
-
+Aftercare is an AI‑powered survey platform that automates follow‑up prompts, flags data quality issues, auto‑codes responses, and builds dynamic paths via a drag‑and‑drop workflow. It summarizes insights, accelerating analysis for researchers and product managers.
 In short, Aftercare is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. That single feature of Aftercare alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

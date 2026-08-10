@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Texta?
-    a: Texta monitors AI responses from multiple brands and models, logging prompts, mentions, and source links in real time. It delivers live analytics, sentiment scoring, geographic dashboards, automated alerts, and collaborative tools for rapid visibility insights. Business Subscription - $49/mo That is the core of what Texta does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Texta monitors AI responses from multiple brands and models, logging prompts, mentions, and source links in real time. It delivers live analytics, sentiment scoring, geographic dashboards, automated alerts, and collaborative tools for rapid visibility insights. That is the core of what Texta does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Texta free?
     a: Texta is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Texta?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Texta 
 
 ## What is Texta?
 
-Texta monitors AI responses from multiple brands and models, logging prompts, mentions, and source links in real time. It delivers live analytics, sentiment scoring, geographic dashboards, automated alerts, and collaborative tools for rapid visibility insights. Business Subscription - $49/mo
-
+Texta monitors AI responses from multiple brands and models, logging prompts, mentions, and source links in real time. It delivers live analytics, sentiment scoring, geographic dashboards, automated alerts, and collaborative tools for rapid visibility insights.
 In short, Texta is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. Many users find that this one ability of Texta removes several tasks from their daily routine.
 
 ## Key features

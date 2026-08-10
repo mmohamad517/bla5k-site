@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is BotDistrikt?
-    a: BotDistrikt lets businesses build AI chatbots that track clicks, impressions, and conversions. It supports real‑time analytics, drip campaigns, omnichannel inboxes, and programmable logic via regex, APIs, JS, and webhooks, using hybrid AI‑rule engines and contextual memory. Marketing Free That is the core of what BotDistrikt does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: BotDistrikt lets businesses build AI chatbots that track clicks, impressions, and conversions. It supports real‑time analytics, drip campaigns, omnichannel inboxes, and programmable logic via regex, APIs, JS, and webhooks, using hybrid AI‑rule engines and contextual memory. That is the core of what BotDistrikt does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is BotDistrikt free?
     a: Yes — BotDistrikt is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with BotDistrikt?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is BotDistrikt?
 
-BotDistrikt lets businesses build AI chatbots that track clicks, impressions, and conversions. It supports real‑time analytics, drip campaigns, omnichannel inboxes, and programmable logic via regex, APIs, JS, and webhooks, using hybrid AI‑rule engines and contextual memory. Marketing Free
-
+BotDistrikt lets businesses build AI chatbots that track clicks, impressions, and conversions. It supports real‑time analytics, drip campaigns, omnichannel inboxes, and programmable logic via regex, APIs, JS, and webhooks, using hybrid AI‑rule engines and contextual memory.
 In short, BotDistrikt is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. Many users find that this one ability of BotDistrikt removes several tasks from their daily routine.
 
 ## Key features

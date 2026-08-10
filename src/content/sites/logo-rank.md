@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Logo Rank?
-    a: Color Wheel automatically colorizes grayscale flat graphics, generating thousands of palettes from one upload. Users tweak schemes and preview styles from Warhol to NES, saving locally with no registration for web and UI projects.  That is the core of what Logo Rank does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Color Wheel automatically colorizes grayscale flat graphics, generating thousands of palettes from one upload. Users tweak schemes and preview styles from Warhol to NES, saving locally with no registration for web and UI projects. That is the core of what Logo Rank does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Logo Rank free?
     a: Yes — Logo Rank is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Logo Rank?

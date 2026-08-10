@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Firebender?
-    a: Firebender is an Android Studio AI agent that auto‑generates feature code, applies fixes with refactoring, debugger, and Logcat, and converts Figma designs to Jetpack Compose. It supports custom agents, runs locally for privacy, and cuts boilerplate to speed delivery. Code assistant Subscription - $30/mo That is the core of what Firebender does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Firebender is an Android Studio AI agent that auto‑generates feature code, applies fixes with refactoring, debugger, and Logcat, and converts Figma designs to Jetpack Compose. It supports custom agents, runs locally for privacy, and cuts boilerplate to speed delivery. That is the core of what Firebender does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Firebender free?
     a: Firebender is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Firebender?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Firebender?
 
-Firebender is an Android Studio AI agent that auto‑generates feature code, applies fixes with refactoring, debugger, and Logcat, and converts Figma designs to Jetpack Compose. It supports custom agents, runs locally for privacy, and cuts boilerplate to speed delivery. Code assistant Subscription - $30/mo
-
+Firebender is an Android Studio AI agent that auto‑generates feature code, applies fixes with refactoring, debugger, and Logcat, and converts Figma designs to Jetpack Compose. It supports custom agents, runs locally for privacy, and cuts boilerplate to speed delivery.
 In short, Firebender is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For a lot of people, that one function of Firebender collapses multiple steps into a single action.
 
 ## Key features

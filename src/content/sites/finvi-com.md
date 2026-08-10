@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is finvi.com?
-    a: Velosidy is a SaaS collections platform that automates workflows with RPA and AI, cuts manual effort and errors, segments accounts, provides real‑time dashboards, integrates payment processing, and supports large‑scale deployments for faster revenue recovery.  That is the core of what finvi.com does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Velosidy is a SaaS collections platform that automates workflows with RPA and AI, cuts manual effort and errors, segments accounts, provides real‑time dashboards, integrates payment processing, and supports large‑scale deployments for faster revenue recovery. That is the core of what finvi.com does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is finvi.com free?
     a: finvi.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with finvi.com?

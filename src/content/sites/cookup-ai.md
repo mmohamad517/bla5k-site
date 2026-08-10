@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Cookup.ai?
-    a: Cookup.AI is an AI‑powered personal assistant that analyzes user location, culinary preferences, and dining history to offer tailored restaurant suggestions. It provides real‑time recommendations, tracks future plans, and sends reservation reminders via conversational chat. Personal assistant Freemium That is the core of what Cookup.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Cookup.AI is an AI‑powered personal assistant that analyzes user location, culinary preferences, and dining history to offer tailored restaurant suggestions. It provides real‑time recommendations, tracks future plans, and sends reservation reminders via conversational chat. That is the core of what Cookup.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Cookup.ai free?
     a: Cookup.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Cookup.ai?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Cookup.ai?
 
-Cookup.AI is an AI‑powered personal assistant that analyzes user location, culinary preferences, and dining history to offer tailored restaurant suggestions. It provides real‑time recommendations, tracks future plans, and sends reservation reminders via conversational chat. Personal assistant Freemium
-
+Cookup.AI is an AI‑powered personal assistant that analyzes user location, culinary preferences, and dining history to offer tailored restaurant suggestions. It provides real‑time recommendations, tracks future plans, and sends reservation reminders via conversational chat.
 In short, Cookup.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users discover that this feature of Cookup.ai alone covers what previously took multiple tools.
 
 ## Key features

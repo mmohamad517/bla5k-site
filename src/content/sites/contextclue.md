@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ContextClue?
-    a: ContextClue transforms CAD, PDF, ERP and planning files into queryable knowledge graphs, enabling semantic search and automated generation of SOPs, compliance reports, and digital‑twin data. Ideal for manufacturing, R&D, and maintenance teams to streamline specification access and part reuse.  That is the core of what ContextClue does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ContextClue transforms CAD, PDF, ERP and planning files into queryable knowledge graphs, enabling semantic search and automated generation of SOPs, compliance reports, and digital‑twin data. Ideal for manufacturing, R&D, and maintenance teams to streamline specification access and part reuse. That is the core of what ContextClue does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ContextClue free?
     a: ContextClue uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ContextClue?

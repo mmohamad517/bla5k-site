@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SourceGeek?
-    a: SourceGeek is an AI-driven LinkedIn automation tool that streamlines candidate sourcing and engagement, automates outreach, and tracks interactions, enhancing recruitment efficiency while integrating seamlessly with popular CRM applications for improved workflow connectivity.  That is the core of what SourceGeek does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SourceGeek is an AI-driven LinkedIn automation tool that streamlines candidate sourcing and engagement, automates outreach, and tracks interactions, enhancing recruitment efficiency while integrating seamlessly with popular CRM applications for improved workflow connectivity. That is the core of what SourceGeek does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SourceGeek free?
     a: SourceGeek uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with SourceGeek?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Wedding Toast?
-    a: AI Wedding Toast auto‑writes personalized wedding speeches and vows in under two minutes. By answering guided prompts, users generate structured, emotionally resonant toasts that reflect their voice, reducing writer’s block and boosting confidence on stage.  That is the core of what AI Wedding Toast does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Wedding Toast auto‑writes personalized wedding speeches and vows in under two minutes. By answering guided prompts, users generate structured, emotionally resonant toasts that reflect their voice, reducing writer’s block and boosting confidence on stage. That is the core of what AI Wedding Toast does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI Wedding Toast free?
     a: Yes — AI Wedding Toast is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with AI Wedding Toast?

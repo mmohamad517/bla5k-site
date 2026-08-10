@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is OneTone.ai?
-    a: OneTone.ai is an AI-powered platform designed to improve communication and decision making for customer-focused companies with small business needs. AI Agents Free trial That is the core of what OneTone.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: OneTone.ai is an AI-powered platform designed to improve communication and decision making for customer-focused companies with small business needs. That is the core of what OneTone.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is OneTone.ai free?
     a: OneTone.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with OneTone.ai?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like OneTone.ai 
 
 ## What is OneTone.ai?
 
-OneTone.ai is an AI-powered platform designed to improve communication and decision making for customer-focused companies with small business needs. AI Agents Free trial
-
+OneTone.ai is an AI-powered platform designed to improve communication and decision making for customer-focused companies with small business needs.
 In short, OneTone.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many, that single strength of OneTone.ai is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

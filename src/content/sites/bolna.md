@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Bolna?
-    a: Bolna AI builds voice agents for 10+ Indian languages, enabling scalable inbound/outbound calls. Its no‑code playground, API integrations, and bulk calling support enterprise workflows, while offering privacy‑focused data residency and multiple ASR/LLM/TTS options. AI Agents Subscription That is the core of what Bolna does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Bolna AI builds voice agents for 10+ Indian languages, enabling scalable inbound/outbound calls. Its no‑code playground, API integrations, and bulk calling support enterprise workflows, while offering privacy‑focused data residency and multiple ASR/LLM/TTS options. That is the core of what Bolna does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Bolna free?
     a: Bolna is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Bolna?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Bolna?
 
-Bolna AI builds voice agents for 10+ Indian languages, enabling scalable inbound/outbound calls. Its no‑code playground, API integrations, and bulk calling support enterprise workflows, while offering privacy‑focused data residency and multiple ASR/LLM/TTS options. AI Agents Subscription
-
+Bolna AI builds voice agents for 10+ Indian languages, enabling scalable inbound/outbound calls. Its no‑code playground, API integrations, and bulk calling support enterprise workflows, while offering privacy‑focused data residency and multiple ASR/LLM/TTS options.
 In short, Bolna is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For plenty of users, that one capability of Bolna replaces several steps they used to do by hand.
 
 ## Key features

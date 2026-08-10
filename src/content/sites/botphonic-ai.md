@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Botphonic.ai?
-    a: Botphonic.ai is an AI call assistant that automates inbound and outbound voice interactions for industries like healthcare and real estate. It handles tasks like appointment booking and lead qualification while providing analytics, multilingual support, and telephony integrations. Chatbot builder Free trial That is the core of what Botphonic.ai does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Botphonic.ai is an AI call assistant that automates inbound and outbound voice interactions for industries like healthcare and real estate. It handles tasks like appointment booking and lead qualification while providing analytics, multilingual support, and telephony integrations. That is the core of what Botphonic.ai does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Botphonic.ai free?
     a: Botphonic.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Botphonic.ai?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Botpho
 
 ## What is Botphonic.ai?
 
-Botphonic.ai is an AI call assistant that automates inbound and outbound voice interactions for industries like healthcare and real estate. It handles tasks like appointment booking and lead qualification while providing analytics, multilingual support, and telephony integrations. Chatbot builder Free trial
-
+Botphonic.ai is an AI call assistant that automates inbound and outbound voice interactions for industries like healthcare and real estate. It handles tasks like appointment booking and lead qualification while providing analytics, multilingual support, and telephony integrations.
 In short, Botphonic.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many, that single strength of Botphonic.ai is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

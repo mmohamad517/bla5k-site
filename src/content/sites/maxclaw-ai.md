@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MaxClaw AI?
-    a: Maxclaw is a cloud-hosted AI agent built on minimax m2.5, offering one‑click deployment, persistent long‑term memory (200k+ tokens), persona customization, messaging integrations (Telegram/Discord/Slack), and tooling for browsing, code execution, file analysis and automation.  That is the core of what MaxClaw AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Maxclaw is a cloud-hosted AI agent built on minimax m2.5, offering one‑click deployment, persistent long‑term memory (200k+ tokens), persona customization, messaging integrations (Telegram/Discord/Slack), and tooling for browsing, code execution, file analysis and automation. That is the core of what MaxClaw AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MaxClaw AI free?
     a: MaxClaw AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with MaxClaw AI?

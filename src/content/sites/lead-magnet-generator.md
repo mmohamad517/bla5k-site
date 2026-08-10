@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Lead Magnet Generator?
-    a: Lead Magnet Generator uses AI to produce custom eBooks, whitepapers, checklists, and guides that attract leads. Input industry, audience, and tone; the platform outputs SEO‑optimized PDFs or DOCX, embeds widgets, tracks downloads, and alerts via email. Content Writing Freemium That is the core of what Lead Magnet Generator does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Lead Magnet Generator uses AI to produce custom eBooks, whitepapers, checklists, and guides that attract leads. Input industry, audience, and tone; the platform outputs SEO‑optimized PDFs or DOCX, embeds widgets, tracks downloads, and alerts via email. That is the core of what Lead Magnet Generator does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Lead Magnet Generator free?
     a: Lead Magnet Generator uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Lead Magnet Generator?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Lead Magnet Generator?
 
-Lead Magnet Generator uses AI to produce custom eBooks, whitepapers, checklists, and guides that attract leads. Input industry, audience, and tone; the platform outputs SEO‑optimized PDFs or DOCX, embeds widgets, tracks downloads, and alerts via email. Content Writing Freemium
-
+Lead Magnet Generator uses AI to produce custom eBooks, whitepapers, checklists, and guides that attract leads. Input industry, audience, and tone; the platform outputs SEO‑optimized PDFs or DOCX, embeds widgets, tracks downloads, and alerts via email.
 In short, Lead Magnet Generator is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. Many users discover that this feature of Lead Magnet Generator alone covers what previously took multiple tools.
 
 ## Key features

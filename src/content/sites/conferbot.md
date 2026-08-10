@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Conferbot?
-    a: Conferbot is a no-code chatbot platform with a visual builder and industry templates, enabling omnichannel deployment (WhatsApp, Messenger, Instagram, Telegram, web, mobile SDKs), NLP-driven flows for lead capture, bookings, FAQ automation, analytics, integrations and API access. Chatbot builder Freemium - $19/mo That is the core of what Conferbot does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Conferbot is a no-code chatbot platform with a visual builder and industry templates, enabling omnichannel deployment (WhatsApp, Messenger, Instagram, Telegram, web, mobile SDKs), NLP-driven flows for lead capture, bookings, FAQ automation, analytics, integrations and API access. That is the core of what Conferbot does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Conferbot free?
     a: Conferbot uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $19/mo, check the official website — pricing changes often.
   - q: What can you do with Conferbot?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Conferbot m
 
 ## What is Conferbot?
 
-Conferbot is a no-code chatbot platform with a visual builder and industry templates, enabling omnichannel deployment (WhatsApp, Messenger, Instagram, Telegram, web, mobile SDKs), NLP-driven flows for lead capture, bookings, FAQ automation, analytics, integrations and API access. Chatbot builder Freemium - $19/mo
-
+Conferbot is a no-code chatbot platform with a visual builder and industry templates, enabling omnichannel deployment (WhatsApp, Messenger, Instagram, Telegram, web, mobile SDKs), NLP-driven flows for lead capture, bookings, FAQ automation, analytics, integrations and API access.
 In short, Conferbot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For a lot of people, that one function of Conferbot collapses multiple steps into a single action.
 
 ## Key features

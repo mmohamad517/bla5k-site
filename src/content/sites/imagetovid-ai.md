@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ImageToVid?
-    a: imagetovid.ai is an AI image-to-video generator that converts a single photo or artwork into an animated HD video with configurable duration, resolution, and audio. It allows users to apply ready-made templates, enter action or camera-movement prompts, and export watermark-free files for social media, ads, and e-commerce.  That is the core of what ImageToVid does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: imagetovid.ai is an AI image-to-video generator that converts a single photo or artwork into an animated HD video with configurable duration, resolution, and audio. It allows users to apply ready-made templates, enter action or camera-movement prompts, and export watermark-free files for social media, ads, and e-commerce. That is the core of what ImageToVid does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ImageToVid free?
     a: ImageToVid uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ImageToVid?

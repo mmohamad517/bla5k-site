@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Contenov?
-    a: Contenov generates SEO-focused content briefs by analyzing top-ranking competitor articles to extract structure, keywords, search intent and content gaps, delivering recommended headings, on-page SEO suggestions, exportable briefs and collaboration templates to streamline content strategy. Content creation Free trial That is the core of what Contenov does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Contenov generates SEO-focused content briefs by analyzing top-ranking competitor articles to extract structure, keywords, search intent and content gaps, delivering recommended headings, on-page SEO suggestions, exportable briefs and collaboration templates to streamline content strategy. That is the core of what Contenov does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Contenov free?
     a: Contenov uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Contenov?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Conten
 
 ## What is Contenov?
 
-Contenov generates SEO-focused content briefs by analyzing top-ranking competitor articles to extract structure, keywords, search intent and content gaps, delivering recommended headings, on-page SEO suggestions, exportable briefs and collaboration templates to streamline content strategy. Content creation Free trial
-
+Contenov generates SEO-focused content briefs by analyzing top-ranking competitor articles to extract structure, keywords, search intent and content gaps, delivering recommended headings, on-page SEO suggestions, exportable briefs and collaboration templates to streamline content strategy.
 In short, Contenov is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. That one feature of Contenov often eliminates several smaller steps from the usual workflow.
 
 ## Key features

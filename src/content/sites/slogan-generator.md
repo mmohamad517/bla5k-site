@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Slogan Generator?
-    a: Aiseo is an AI-powered free online tool that helps businesses generate catchy, memorable, and effective slogans in 25 different languages with various templates.  That is the core of what Slogan Generator does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Aiseo is an AI-powered free online tool that helps businesses generate catchy, memorable, and effective slogans in 25 different languages with various templates. That is the core of what Slogan Generator does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Slogan Generator free?
     a: Slogan Generator uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Slogan Generator?

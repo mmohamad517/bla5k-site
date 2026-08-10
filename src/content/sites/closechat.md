@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CloseChat?
-    a: CloseChat is a cross‑platform AI chatbot mirroring ChatGPT and Claude, offering instant advanced features, file ingestion across formats, unlimited output, and a plugin marketplace, available natively on Windows, macOS, Linux, and Android. Digital Marketing Subscription That is the core of what CloseChat does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CloseChat is a cross‑platform AI chatbot mirroring ChatGPT and Claude, offering instant advanced features, file ingestion across formats, unlimited output, and a plugin marketplace, available natively on Windows, macOS, Linux, and Android. That is the core of what CloseChat does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CloseChat free?
     a: CloseChat is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with CloseChat?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like CloseChat e
 
 ## What is CloseChat?
 
-CloseChat is a cross‑platform AI chatbot mirroring ChatGPT and Claude, offering instant advanced features, file ingestion across formats, unlimited output, and a plugin marketplace, available natively on Windows, macOS, Linux, and Android. Digital Marketing Subscription
-
+CloseChat is a cross‑platform AI chatbot mirroring ChatGPT and Claude, offering instant advanced features, file ingestion across formats, unlimited output, and a plugin marketplace, available natively on Windows, macOS, Linux, and Android.
 In short, CloseChat is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. Many users discover that this feature of CloseChat alone covers what previously took multiple tools.
 
 ## Key features

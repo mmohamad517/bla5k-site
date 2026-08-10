@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is 8arms?
-    a: 8arms.ai is an AI copywriting tool that simplifies content creation for marketing campaigns, offering features like customizable tones, SEO optimization, and direct social media scheduling, enabling teams to launch campaigns quickly and efficiently. Copywriting Freemium - $9.99/mo That is the core of what 8arms does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: 8arms.ai is an AI copywriting tool that simplifies content creation for marketing campaigns, offering features like customizable tones, SEO optimization, and direct social media scheduling, enabling teams to launch campaigns quickly and efficiently. That is the core of what 8arms does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is 8arms free?
     a: 8arms uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9.99/mo, check the official website — pricing changes often.
   - q: What can you do with 8arms?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is 8arms?
 
-8arms.ai is an AI copywriting tool that simplifies content creation for marketing campaigns, offering features like customizable tones, SEO optimization, and direct social media scheduling, enabling teams to launch campaigns quickly and efficiently. Copywriting Freemium - $9.99/mo
-
+8arms.ai is an AI copywriting tool that simplifies content creation for marketing campaigns, offering features like customizable tones, SEO optimization, and direct social media scheduling, enabling teams to launch campaigns quickly and efficiently.
 In short, 8arms is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. For many, that single strength of 8arms is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

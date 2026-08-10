@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Lover Snap?
-    a: Lover Snap is an iOS app that creates virtual characters from user photos and places them in customizable scenes. It quickly generates photorealistic images, supports pet characters, and lets users relive moments in indoor or outdoor settings. Avatar Freemium That is the core of what Lover Snap does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Lover Snap is an iOS app that creates virtual characters from user photos and places them in customizable scenes. It quickly generates photorealistic images, supports pet characters, and lets users relive moments in indoor or outdoor settings. That is the core of what Lover Snap does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Lover Snap free?
     a: Lover Snap uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Lover Snap?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Lover Snap?
 
-Lover Snap is an iOS app that creates virtual characters from user photos and places them in customizable scenes. It quickly generates photorealistic images, supports pet characters, and lets users relive moments in indoor or outdoor settings. Avatar Freemium
-
+Lover Snap is an iOS app that creates virtual characters from user photos and places them in customizable scenes. It quickly generates photorealistic images, supports pet characters, and lets users relive moments in indoor or outdoor settings.
 In short, Lover Snap is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. For many, that single strength of Lover Snap is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Gaxu?
-    a: Meet gaxu, your AI marketing assistant, always on standby to provide insights, competitive analysis, keyword extraction, and quick summarization of content. Gain a competitive edge in digital marketing with gaxu's support 24/7.  That is the core of what Gaxu does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Meet gaxu, your AI marketing assistant, always on standby to provide insights, competitive analysis, keyword extraction, and quick summarization of content. Gain a competitive edge in digital marketing with gaxu's support 24/7. That is the core of what Gaxu does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Gaxu free?
     a: Yes — Gaxu is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Gaxu?

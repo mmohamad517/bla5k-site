@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is deci.ai?
-    a: NVIDIA AI Workbench unifies building, training, and deploying AI models on NVIDIA GPUs. It integrates Jupyter, preconfigured libraries, Docker, automatic GPU allocation, multi‑node scaling, and real‑time monitoring, supporting TensorFlow, PyTorch, and Hugging Face. Code assistant Free That is the core of what deci.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: NVIDIA AI Workbench unifies building, training, and deploying AI models on NVIDIA GPUs. It integrates Jupyter, preconfigured libraries, Docker, automatic GPU allocation, multi‑node scaling, and real‑time monitoring, supporting TensorFlow, PyTorch, and Hugging Face. That is the core of what deci.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is deci.ai free?
     a: Yes — deci.ai is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with deci.ai?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is deci.ai?
 
-NVIDIA AI Workbench unifies building, training, and deploying AI models on NVIDIA GPUs. It integrates Jupyter, preconfigured libraries, Docker, automatic GPU allocation, multi‑node scaling, and real‑time monitoring, supporting TensorFlow, PyTorch, and Hugging Face. Code assistant Free
-
+NVIDIA AI Workbench unifies building, training, and deploying AI models on NVIDIA GPUs. It integrates Jupyter, preconfigured libraries, Docker, automatic GPU allocation, multi‑node scaling, and real‑time monitoring, supporting TensorFlow, PyTorch, and Hugging Face.
 In short, deci.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That single feature of deci.ai alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

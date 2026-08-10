@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Aiwrita?
-    a: AI Writa is a free AI copywriting assistant that generates unique marketing content quickly using customizable templates. It includes transcription features and supports 30 languages, enhancing productivity for copywriters, marketers, and entrepreneurs while ensuring high-quality output.  That is the core of what Aiwrita does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Writa is a free AI copywriting assistant that generates unique marketing content quickly using customizable templates. It includes transcription features and supports 30 languages, enhancing productivity for copywriters, marketers, and entrepreneurs while ensuring high-quality output. That is the core of what Aiwrita does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Aiwrita free?
     a: Aiwrita uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Aiwrita?

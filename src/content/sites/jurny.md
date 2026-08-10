@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Jurny?
-    a: Jurny centralizes guest communication, channel management, pricing, housekeeping, and reporting for short‑term rentals and boutique hotels. Its AI agents automate messages, cleaning schedules, and upsell offers, while a unified inbox prioritizes tasks to prevent double bookings and provide real‑time performance insights. Customer support Subscription - $49 That is the core of what Jurny does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Jurny centralizes guest communication, channel management, pricing, housekeeping, and reporting for short‑term rentals and boutique hotels. Its AI agents automate messages, cleaning schedules, and upsell offers, while a unified inbox prioritizes tasks to prevent double bookings and provide real‑time performance insights. That is the core of what Jurny does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Jurny free?
     a: Jurny is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Jurny?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Jurny 
 
 ## What is Jurny?
 
-Jurny centralizes guest communication, channel management, pricing, housekeeping, and reporting for short‑term rentals and boutique hotels. Its AI agents automate messages, cleaning schedules, and upsell offers, while a unified inbox prioritizes tasks to prevent double bookings and provide real‑time performance insights. Customer support Subscription - $49
-
+Jurny centralizes guest communication, channel management, pricing, housekeeping, and reporting for short‑term rentals and boutique hotels. Its AI agents automate messages, cleaning schedules, and upsell offers, while a unified inbox prioritizes tasks to prevent double bookings and provide real‑time performance insights.
 In short, Jurny is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. That single feature of Jurny alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

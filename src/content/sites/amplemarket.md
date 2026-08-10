@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Amplemarket?
-    a: Amplemarket uses AI to generate high‑quality leads, analyze intent signals and competitive data, and create personalized multichannel outreach. It offers deliverability monitoring, real‑time analytics, workflow automation, data enrichment, and a unified conversation hub for sales teams. Sales Free trial That is the core of what Amplemarket does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Amplemarket uses AI to generate high‑quality leads, analyze intent signals and competitive data, and create personalized multichannel outreach. It offers deliverability monitoring, real‑time analytics, workflow automation, data enrichment, and a unified conversation hub for sales teams. That is the core of what Amplemarket does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Amplemarket free?
     a: Amplemarket uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Amplemarket?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Amplemarket?
 
-Amplemarket uses AI to generate high‑quality leads, analyze intent signals and competitive data, and create personalized multichannel outreach. It offers deliverability monitoring, real‑time analytics, workflow automation, data enrichment, and a unified conversation hub for sales teams. Sales Free trial
-
+Amplemarket uses AI to generate high‑quality leads, analyze intent signals and competitive data, and create personalized multichannel outreach. It offers deliverability monitoring, real‑time analytics, workflow automation, data enrichment, and a unified conversation hub for sales teams.
 In short, Amplemarket is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. That one feature of Amplemarket often eliminates several smaller steps from the usual workflow.
 
 ## Key features

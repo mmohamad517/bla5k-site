@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Narrato Workspace?
-    a: Narrato unifies content planning, creation, and publishing in one interface, auto‑generating briefs, outlines, copy, and SEO‑optimized text. Custom templates keep brand voice consistent, while built‑in graphics and project tools streamline collaboration and scheduled distribution to social channels and CMSs. Content Writing Free That is the core of what Narrato Workspace does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Narrato unifies content planning, creation, and publishing in one interface, auto‑generating briefs, outlines, copy, and SEO‑optimized text. Custom templates keep brand voice consistent, while built‑in graphics and project tools streamline collaboration and scheduled distribution to social channels and CMSs. That is the core of what Narrato Workspace does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Narrato Workspace free?
     a: Yes — Narrato Workspace is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Narrato Workspace?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Narrat
 
 ## What is Narrato Workspace?
 
-Narrato unifies content planning, creation, and publishing in one interface, auto‑generating briefs, outlines, copy, and SEO‑optimized text. Custom templates keep brand voice consistent, while built‑in graphics and project tools streamline collaboration and scheduled distribution to social channels and CMSs. Content Writing Free
-
+Narrato unifies content planning, creation, and publishing in one interface, auto‑generating briefs, outlines, copy, and SEO‑optimized text. Custom templates keep brand voice consistent, while built‑in graphics and project tools streamline collaboration and scheduled distribution to social channels and CMSs.
 In short, Narrato Workspace is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. Many users discover that this feature of Narrato Workspace alone covers what previously took multiple tools.
 
 ## Key features

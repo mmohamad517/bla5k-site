@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is HireTalent-Free Applicant TrackingSystem?
-    a: "HireTalent is an AI‑driven ATS that automates talent acquisition: globally posting jobs, filtering resumes, scheduling interviews, managing offers, and providing analytics for bias‑free hiring, cutting time‑to‑hire, boosting quality, and reducing costs.  That is the core of what HireTalent-Free Applicant TrackingSystem does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "HireTalent is an AI‑driven ATS that automates talent acquisition: globally posting jobs, filtering resumes, scheduling interviews, managing offers, and providing analytics for bias‑free hiring, cutting time‑to‑hire, boosting quality, and reducing costs. That is the core of what HireTalent-Free Applicant TrackingSystem does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is HireTalent-Free Applicant TrackingSystem free?
     a: HireTalent-Free Applicant TrackingSystem uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with HireTalent-Free Applicant TrackingSystem?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is GasbyAI?
-    a: GasbyAI is an AI chat platform that integrates GPT, Claude, Gemini, and more, offering automated copywriting, coding help, image and audio transcription, document summarization, and real‑time web access. It supports specialized assistants and collaborative workflows while safeguarding privacy.  That is the core of what GasbyAI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: GasbyAI is an AI chat platform that integrates GPT, Claude, Gemini, and more, offering automated copywriting, coding help, image and audio transcription, document summarization, and real‑time web access. It supports specialized assistants and collaborative workflows while safeguarding privacy. That is the core of what GasbyAI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is GasbyAI free?
     a: Yes — GasbyAI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with GasbyAI?

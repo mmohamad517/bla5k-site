@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is LightOn?
-    a: LightOn Enterprise Search is a secure on‑prem RAG platform that indexes text, images, PDFs, and scanned documents. It offers multimodal retrieval, a production‑ready API, white‑label interface, and compliance‑aware analytics for regulated industries.  That is the core of what LightOn does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: LightOn Enterprise Search is a secure on‑prem RAG platform that indexes text, images, PDFs, and scanned documents. It offers multimodal retrieval, a production‑ready API, white‑label interface, and compliance‑aware analytics for regulated industries. That is the core of what LightOn does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is LightOn free?
     a: LightOn is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with LightOn?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Magic Bookifier?
-    a: Magic Bookifier is an AI writing aid that assists book creation by providing top-notch questions and answers. It excels through intelligent chapter generation, catering to authors, speakers, and educators at all skill levels. Book writer Free trial - $59/mo That is the core of what Magic Bookifier does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Magic Bookifier is an AI writing aid that assists book creation by providing top-notch questions and answers. It excels through intelligent chapter generation, catering to authors, speakers, and educators at all skill levels. That is the core of what Magic Bookifier does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Magic Bookifier free?
     a: Magic Bookifier uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $59/mo, check the official website — pricing changes often.
   - q: What can you do with Magic Bookifier?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Magic Bookifier 
 
 ## What is Magic Bookifier?
 
-Magic Bookifier is an AI writing aid that assists book creation by providing top-notch questions and answers. It excels through intelligent chapter generation, catering to authors, speakers, and educators at all skill levels. Book writer Free trial - $59/mo
-
+Magic Bookifier is an AI writing aid that assists book creation by providing top-notch questions and answers. It excels through intelligent chapter generation, catering to authors, speakers, and educators at all skill levels.
 In short, Magic Bookifier is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. Many users find that this one ability of Magic Bookifier removes several tasks from their daily routine.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Rebolt?
-    a: Rebolt is a no-code AI app builder that uses natural language to create apps, agents, workflows and websites, integrating enterprise data sources (Gmail, Slack, Salesforce, databases) with OpenAI/Anthropic models, exportable code, and enterprise-grade security. App Builder Free trial - $25/mo That is the core of what Rebolt does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Rebolt is a no-code AI app builder that uses natural language to create apps, agents, workflows and websites, integrating enterprise data sources (Gmail, Slack, Salesforce, databases) with OpenAI/Anthropic models, exportable code, and enterprise-grade security. That is the core of what Rebolt does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Rebolt free?
     a: Rebolt uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $25/mo, check the official website — pricing changes often.
   - q: What can you do with Rebolt?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Rebolt matt
 
 ## What is Rebolt?
 
-Rebolt is a no-code AI app builder that uses natural language to create apps, agents, workflows and websites, integrating enterprise data sources (Gmail, Slack, Salesforce, databases) with OpenAI/Anthropic models, exportable code, and enterprise-grade security. App Builder Free trial - $25/mo
-
+Rebolt is a no-code AI app builder that uses natural language to create apps, agents, workflows and websites, integrating enterprise data sources (Gmail, Slack, Salesforce, databases) with OpenAI/Anthropic models, exportable code, and enterprise-grade security.
 In short, Rebolt is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. Many users discover that this feature of Rebolt alone covers what previously took multiple tools.
 
 ## Key features

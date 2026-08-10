@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Oppwiser?
-    a: Oppwiser is an AI revenue-discovery platform for account-based sales and B2B prospecting that identifies lookalike companies, scores net-new accounts from a 60M+ database, tracks buyer signals, enriches CRM data, and provides verified contact details and segmentation filters. Sales Free - $49/mo That is the core of what Oppwiser does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Oppwiser is an AI revenue-discovery platform for account-based sales and B2B prospecting that identifies lookalike companies, scores net-new accounts from a 60M+ database, tracks buyer signals, enriches CRM data, and provides verified contact details and segmentation filters. That is the core of what Oppwiser does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Oppwiser free?
     a: Oppwiser uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Oppwiser?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Oppwiser?
 
-Oppwiser is an AI revenue-discovery platform for account-based sales and B2B prospecting that identifies lookalike companies, scores net-new accounts from a 60M+ database, tracks buyer signals, enriches CRM data, and provides verified contact details and segmentation filters. Sales Free - $49/mo
-
+Oppwiser is an AI revenue-discovery platform for account-based sales and B2B prospecting that identifies lookalike companies, scores net-new accounts from a 60M+ database, tracks buyer signals, enriches CRM data, and provides verified contact details and segmentation filters.
 In short, Oppwiser is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. That one feature of Oppwiser often eliminates several smaller steps from the usual workflow.
 
 ## Key features

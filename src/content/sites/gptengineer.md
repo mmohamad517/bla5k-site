@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is GPTEngineer?
-    a: GPT Engineer is an open source AI tool that generates code based on user input and provides a simple and flexible user experience. Code assistant Free That is the core of what GPTEngineer does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: GPT Engineer is an open source AI tool that generates code based on user input and provides a simple and flexible user experience. That is the core of what GPTEngineer does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is GPTEngineer free?
     a: Yes — GPTEngineer is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with GPTEngineer?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is GPTEngineer?
 
-GPT Engineer is an open source AI tool that generates code based on user input and provides a simple and flexible user experience. Code assistant Free
-
+GPT Engineer is an open source AI tool that generates code based on user input and provides a simple and flexible user experience.
 In short, GPTEngineer is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users find that this one ability of GPTEngineer removes several tasks from their daily routine.
 
 ## Key features

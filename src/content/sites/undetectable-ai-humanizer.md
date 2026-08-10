@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Undetectable AI Humanizer?
-    a: Undetectable Humanizer generates human‑like text that evades AI detectors using GPT‑4, Gemini, and Claude. It offers readability scoring, workbooks, brand voice control, custom prompts, word‑limit flexibility, outlines, and team collaboration.  That is the core of what Undetectable AI Humanizer does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Undetectable Humanizer generates human‑like text that evades AI detectors using GPT‑4, Gemini, and Claude. It offers readability scoring, workbooks, brand voice control, custom prompts, word‑limit flexibility, outlines, and team collaboration. That is the core of what Undetectable AI Humanizer does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Undetectable AI Humanizer free?
     a: Undetectable AI Humanizer is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Undetectable AI Humanizer?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AIScanner.io?
-    a: AIScanner.io is a tool that detects AI-generated text from major models like GPT and Claude, providing a 0–100 authenticity score in seconds. It identifies paraphrased content and mixed samples with continuous model updates, helping educators and professionals verify content originality.  That is the core of what AIScanner.io does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AIScanner.io is a tool that detects AI-generated text from major models like GPT and Claude, providing a 0–100 authenticity score in seconds. It identifies paraphrased content and mixed samples with continuous model updates, helping educators and professionals verify content originality. That is the core of what AIScanner.io does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AIScanner.io free?
     a: Yes — AIScanner.io is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with AIScanner.io?

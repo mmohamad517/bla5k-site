@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is OpenNFT?
-    a: OpenNFT turns JPEGs into NFTs with a single click, no coding or online account needed. It works offline in 16 languages, integrates with OpenSea for instant listing, and can batch‑create up to 1,000 NFTs in ten seconds. Crypto and Web3 Freemium That is the core of what OpenNFT does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: OpenNFT turns JPEGs into NFTs with a single click, no coding or online account needed. It works offline in 16 languages, integrates with OpenSea for instant listing, and can batch‑create up to 1,000 NFTs in ten seconds. That is the core of what OpenNFT does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is OpenNFT free?
     a: OpenNFT uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with OpenNFT?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is OpenNFT?
 
-OpenNFT turns JPEGs into NFTs with a single click, no coding or online account needed. It works offline in 16 languages, integrates with OpenSea for instant listing, and can batch‑create up to 1,000 NFTs in ten seconds. Crypto and Web3 Freemium
-
+OpenNFT turns JPEGs into NFTs with a single click, no coding or online account needed. It works offline in 16 languages, integrates with OpenSea for instant listing, and can batch‑create up to 1,000 NFTs in ten seconds.
 In short, OpenNFT is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. That one capability of OpenNFT frequently saves users from juggling several separate steps.
 
 ## Key features

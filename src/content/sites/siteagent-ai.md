@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SiteAgent.AI?
-    a: SiteAgent.AI is a cutting-edge AI tool that transforms website experiences through voice and text personalized interactions. It provides live support, intelligent recommendations, and customization in up to 80 languages, driving sales, customer satisfaction, and valuable insights. AI Assistant Free trial - $10 That is the core of what SiteAgent.AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SiteAgent.AI is a cutting-edge AI tool that transforms website experiences through voice and text personalized interactions. It provides live support, intelligent recommendations, and customization in up to 80 languages, driving sales, customer satisfaction, and valuable insights. That is the core of what SiteAgent.AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SiteAgent.AI free?
     a: SiteAgent.AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $10, check the official website — pricing changes often.
   - q: What can you do with SiteAgent.AI?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like SiteAgent.A
 
 ## What is SiteAgent.AI?
 
-SiteAgent.AI is a cutting-edge AI tool that transforms website experiences through voice and text personalized interactions. It provides live support, intelligent recommendations, and customization in up to 80 languages, driving sales, customer satisfaction, and valuable insights. AI Assistant Free trial - $10
-
+SiteAgent.AI is a cutting-edge AI tool that transforms website experiences through voice and text personalized interactions. It provides live support, intelligent recommendations, and customization in up to 80 languages, driving sales, customer satisfaction, and valuable insights.
 In short, SiteAgent.AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of SiteAgent.AI replaces several steps they used to do by hand.
 
 ## Key features

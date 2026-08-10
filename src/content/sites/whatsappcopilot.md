@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is WhatsAppCopilot?
-    a: WhatsAppCopilot is an iOS app that auto‑extracts WhatsApp messages and, using GPT‑4o, generates quick, personalized replies in multiple styles. It supports on‑screen translation, works via iOS shortcuts, and forwards data to OpenAI without local storage for privacy. Personal Chatbot Freemium That is the core of what WhatsAppCopilot does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: WhatsAppCopilot is an iOS app that auto‑extracts WhatsApp messages and, using GPT‑4o, generates quick, personalized replies in multiple styles. It supports on‑screen translation, works via iOS shortcuts, and forwards data to OpenAI without local storage for privacy. That is the core of what WhatsAppCopilot does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is WhatsAppCopilot free?
     a: WhatsAppCopilot uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with WhatsAppCopilot?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is WhatsAppCopilot?
 
-WhatsAppCopilot is an iOS app that auto‑extracts WhatsApp messages and, using GPT‑4o, generates quick, personalized replies in multiple styles. It supports on‑screen translation, works via iOS shortcuts, and forwards data to OpenAI without local storage for privacy. Personal Chatbot Freemium
-
+WhatsAppCopilot is an iOS app that auto‑extracts WhatsApp messages and, using GPT‑4o, generates quick, personalized replies in multiple styles. It supports on‑screen translation, works via iOS shortcuts, and forwards data to OpenAI without local storage for privacy.
 In short, WhatsAppCopilot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. That single feature of WhatsAppCopilot alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

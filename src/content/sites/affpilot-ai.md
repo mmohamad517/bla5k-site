@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Affpilot AI?
-    a: Affpilot automatically generates bulk articles, reviews, and comparisons from keyword prompts, publishes to WordPress, Blogger, Medium, and integrates Amazon affiliate data. It adds keyword research, topical mapping, and readability optimization for scalable, SEO‑friendly content.  That is the core of what Affpilot AI does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Affpilot automatically generates bulk articles, reviews, and comparisons from keyword prompts, publishes to WordPress, Blogger, Medium, and integrates Amazon affiliate data. It adds keyword research, topical mapping, and readability optimization for scalable, SEO‑friendly content. That is the core of what Affpilot AI does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Affpilot AI free?
     a: Affpilot AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Affpilot AI?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ZykaAI?
-    a: Zyka is an AI-powered platform that enhances user onboarding and experience in SaaS applications. It features a customizable chatbot for user queries, data capture for lead generation, and integration with CRM systems while ensuring data privacy and support in over 80 languages. Chatbot builder Free trial That is the core of what ZykaAI does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Zyka is an AI-powered platform that enhances user onboarding and experience in SaaS applications. It features a customizable chatbot for user queries, data capture for lead generation, and integration with CRM systems while ensuring data privacy and support in over 80 languages. That is the core of what ZykaAI does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ZykaAI free?
     a: ZykaAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ZykaAI?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like ZykaAI earn
 
 ## What is ZykaAI?
 
-Zyka is an AI-powered platform that enhances user onboarding and experience in SaaS applications. It features a customizable chatbot for user queries, data capture for lead generation, and integration with CRM systems while ensuring data privacy and support in over 80 languages. Chatbot builder Free trial
-
+Zyka is an AI-powered platform that enhances user onboarding and experience in SaaS applications. It features a customizable chatbot for user queries, data capture for lead generation, and integration with CRM systems while ensuring data privacy and support in over 80 languages.
 In short, ZykaAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. That single feature of ZykaAI alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

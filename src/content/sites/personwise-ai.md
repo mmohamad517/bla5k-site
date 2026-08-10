@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Personwise AI?
-    a: Personwise is a digital-human course creation engine that turns a single-line topic prompt into a complete e-learning course with research, narration, and assessments in minutes. It features an interactive AI instructor with real-voice Q&A, full editability for rapid iteration, and team tools for assignment, tracking, and compliance reporting.  That is the core of what Personwise AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Personwise is a digital-human course creation engine that turns a single-line topic prompt into a complete e-learning course with research, narration, and assessments in minutes. It features an interactive AI instructor with real-voice Q&A, full editability for rapid iteration, and team tools for assignment, tracking, and compliance reporting. That is the core of what Personwise AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Personwise AI free?
     a: Personwise AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Personwise AI?

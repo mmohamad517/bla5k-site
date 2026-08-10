@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Coursology?
-    a: AI Homework Helper delivers instant, subject‑specific aid across Economics, Language, Geometry, Literature, Math, General Chemistry, Physics, and History. Students upload materials—files, notes, websites, YouTube links, or textbooks—to generate quizzes, flashcards, podcast summaries, and auto‑transcribed lecture notes for efficient review. AI Assistant Freemium - $100/mo That is the core of what Coursology does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Homework Helper delivers instant, subject‑specific aid across Economics, Language, Geometry, Literature, Math, General Chemistry, Physics, and History. Students upload materials—files, notes, websites, YouTube links, or textbooks—to generate quizzes, flashcards, podcast summaries, and auto‑transcribed lecture notes for efficient review. That is the core of what Coursology does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Coursology free?
     a: Coursology uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $100/mo, check the official website — pricing changes often.
   - q: What can you do with Coursology?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Courso
 
 ## What is Coursology?
 
-AI Homework Helper delivers instant, subject‑specific aid across Economics, Language, Geometry, Literature, Math, General Chemistry, Physics, and History. Students upload materials—files, notes, websites, YouTube links, or textbooks—to generate quizzes, flashcards, podcast summaries, and auto‑transcribed lecture notes for efficient review. AI Assistant Freemium - $100/mo
-
+AI Homework Helper delivers instant, subject‑specific aid across Economics, Language, Geometry, Literature, Math, General Chemistry, Physics, and History. Students upload materials—files, notes, websites, YouTube links, or textbooks—to generate quizzes, flashcards, podcast summaries, and auto‑transcribed lecture notes for efficient review.
 In short, Coursology is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one capability of Coursology frequently saves users from juggling several separate steps.
 
 ## Key features

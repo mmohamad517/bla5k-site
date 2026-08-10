@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Cloozo?
-    a: Cloozo simplifies ChatGPT chatbot creation for websites. It offers customization using internet data or custom sets, business-specific knowledge base training, versatile visuals, and provides speed, security, performance, and monetization benefits through individual OpenAI and Pinecone keys. Knowledge base management Freemium - $29/mo That is the core of what Cloozo does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Cloozo simplifies ChatGPT chatbot creation for websites. It offers customization using internet data or custom sets, business-specific knowledge base training, versatile visuals, and provides speed, security, performance, and monetization benefits through individual OpenAI and Pinecone keys. That is the core of what Cloozo does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Cloozo free?
     a: Cloozo uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $29/mo, check the official website — pricing changes often.
   - q: What can you do with Cloozo?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Cloozo?
 
-Cloozo simplifies ChatGPT chatbot creation for websites. It offers customization using internet data or custom sets, business-specific knowledge base training, versatile visuals, and provides speed, security, performance, and monetization benefits through individual OpenAI and Pinecone keys. Knowledge base management Freemium - $29/mo
-
+Cloozo simplifies ChatGPT chatbot creation for websites. It offers customization using internet data or custom sets, business-specific knowledge base training, versatile visuals, and provides speed, security, performance, and monetization benefits through individual OpenAI and Pinecone keys.
 In short, Cloozo is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. Many users find that this one ability of Cloozo removes several tasks from their daily routine.
 
 ## Key features

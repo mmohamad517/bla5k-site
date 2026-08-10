@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is NullClaw?
-    a: NullClaw is a compact, low-latency AI assistant infrastructure built in Zig. It enables developers to embed, orchestrate, and centrally manage autonomous agents within DevOps workflows and toolchains.  That is the core of what NullClaw does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: NullClaw is a compact, low-latency AI assistant infrastructure built in Zig. It enables developers to embed, orchestrate, and centrally manage autonomous agents within DevOps workflows and toolchains. That is the core of what NullClaw does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is NullClaw free?
     a: Yes — NullClaw is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with NullClaw?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Alita?
-    a: Alita aggregates 350 M+ social profiles and 180 M B2B contacts, offering AI‑driven ad optimization and segmentation. Its persona insight tool enables precise targeting across 360 channels, while real‑time updates, email/SMS/OTT integration, and a built‑in CRM streamline lead generation and campaigns. Marketing Freemium - $19/mo That is the core of what Alita does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Alita aggregates 350 M+ social profiles and 180 M B2B contacts, offering AI‑driven ad optimization and segmentation. Its persona insight tool enables precise targeting across 360 channels, while real‑time updates, email/SMS/OTT integration, and a built‑in CRM streamline lead generation and campaigns. That is the core of what Alita does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Alita free?
     a: Alita uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $19/mo, check the official website — pricing changes often.
   - q: What can you do with Alita?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Alita matte
 
 ## What is Alita?
 
-Alita aggregates 350 M+ social profiles and 180 M B2B contacts, offering AI‑driven ad optimization and segmentation. Its persona insight tool enables precise targeting across 360 channels, while real‑time updates, email/SMS/OTT integration, and a built‑in CRM streamline lead generation and campaigns. Marketing Freemium - $19/mo
-
+Alita aggregates 350 M+ social profiles and 180 M B2B contacts, offering AI‑driven ad optimization and segmentation. Its persona insight tool enables precise targeting across 360 channels, while real‑time updates, email/SMS/OTT integration, and a built‑in CRM streamline lead generation and campaigns.
 In short, Alita is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For plenty of users, that one capability of Alita replaces several steps they used to do by hand.
 
 ## Key features

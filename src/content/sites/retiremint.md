@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is RetireMint?
-    a: RetireMint is a Canadian retirement platform that delivers free expert assessments across finance, health, travel, estate, insurance, and downsizing. Users take quizzes, receive scoring and personalized guidance, and access interactive tools, a virtual assistant, and local planners. AI Assistant Free That is the core of what RetireMint does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: RetireMint is a Canadian retirement platform that delivers free expert assessments across finance, health, travel, estate, insurance, and downsizing. Users take quizzes, receive scoring and personalized guidance, and access interactive tools, a virtual assistant, and local planners. That is the core of what RetireMint does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is RetireMint free?
     a: Yes — RetireMint is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with RetireMint?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like RetireMint 
 
 ## What is RetireMint?
 
-RetireMint is a Canadian retirement platform that delivers free expert assessments across finance, health, travel, estate, insurance, and downsizing. Users take quizzes, receive scoring and personalized guidance, and access interactive tools, a virtual assistant, and local planners. AI Assistant Free
-
+RetireMint is a Canadian retirement platform that delivers free expert assessments across finance, health, travel, estate, insurance, and downsizing. Users take quizzes, receive scoring and personalized guidance, and access interactive tools, a virtual assistant, and local planners.
 In short, RetireMint is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of RetireMint replaces several steps they used to do by hand.
 
 ## Key features

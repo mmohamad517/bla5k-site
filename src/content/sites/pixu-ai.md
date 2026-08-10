@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is pixu.ai?
-    a: Pixu.ai is a cutting-edge AI tool for creating authentic images with 100% face likeness in seconds. It offers Portrait, Freestyle, and Composition modes for image creation, along with features like Face Swapper, Image Art, and Photo Restoration.  That is the core of what pixu.ai does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Pixu.ai is a cutting-edge AI tool for creating authentic images with 100% face likeness in seconds. It offers Portrait, Freestyle, and Composition modes for image creation, along with features like Face Swapper, Image Art, and Photo Restoration. That is the core of what pixu.ai does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is pixu.ai free?
     a: pixu.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with pixu.ai?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CodeNext AI?
-    a: Codenext.ai accelerates iOS and macOS app development with context-aware code completion, a natural language chat feature for code generation, and an image-to-code converter. It enhances workflow efficiency while supporting customizable themes for user comfort. Code assistant Free trial That is the core of what CodeNext AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Codenext.ai accelerates iOS and macOS app development with context-aware code completion, a natural language chat feature for code generation, and an image-to-code converter. It enhances workflow efficiency while supporting customizable themes for user comfort. That is the core of what CodeNext AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CodeNext AI free?
     a: CodeNext AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with CodeNext AI?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is CodeNext AI?
 
-Codenext.ai accelerates iOS and macOS app development with context-aware code completion, a natural language chat feature for code generation, and an image-to-code converter. It enhances workflow efficiency while supporting customizable themes for user comfort. Code assistant Free trial
-
+Codenext.ai accelerates iOS and macOS app development with context-aware code completion, a natural language chat feature for code generation, and an image-to-code converter. It enhances workflow efficiency while supporting customizable themes for user comfort.
 In short, CodeNext AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That single feature of CodeNext AI alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

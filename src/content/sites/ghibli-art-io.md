@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ghibli-art.io?
-    a: ghibli-art.io is an AI tool that transforms photos into Ghibli-inspired, painterly anime art with cinematic lighting and soft palettes. It supports batch uploads, custom style prompts, and aspect ratios for fast, high-resolution social-media-ready outputs.  That is the core of what Ghibli-art.io does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ghibli-art.io is an AI tool that transforms photos into Ghibli-inspired, painterly anime art with cinematic lighting and soft palettes. It supports batch uploads, custom style prompts, and aspect ratios for fast, high-resolution social-media-ready outputs. That is the core of what Ghibli-art.io does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ghibli-art.io free?
     a: Ghibli-art.io uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Ghibli-art.io?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Extrapolate?
-    a: Upload a photo to view AI‑generated aging projections at 10, 20, and 90 years, browse a gallery of 377.9 k reference images, manage privacy, and follow safety guidelines—helpful for hobbyists, researchers, and creators.  That is the core of what Extrapolate does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Upload a photo to view AI‑generated aging projections at 10, 20, and 90 years, browse a gallery of 377.9 k reference images, manage privacy, and follow safety guidelines—helpful for hobbyists, researchers, and creators. That is the core of what Extrapolate does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Extrapolate free?
     a: Extrapolate uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Extrapolate?

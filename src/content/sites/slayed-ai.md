@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Slayed.ai?
-    a: Slayed.ai is an AI invoicing tool designed to simplify and speed up the billing process for freelancers and small businesses. It offers quick invoice creation, easy tracking, and diverse payment options to enhance cash flow and business efficiency. Billing Management Free trial That is the core of what Slayed.ai does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Slayed.ai is an AI invoicing tool designed to simplify and speed up the billing process for freelancers and small businesses. It offers quick invoice creation, easy tracking, and diverse payment options to enhance cash flow and business efficiency. That is the core of what Slayed.ai does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Slayed.ai free?
     a: Slayed.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Slayed.ai?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Slayed.ai?
 
-Slayed.ai is an AI invoicing tool designed to simplify and speed up the billing process for freelancers and small businesses. It offers quick invoice creation, easy tracking, and diverse payment options to enhance cash flow and business efficiency. Billing Management Free trial
-
+Slayed.ai is an AI invoicing tool designed to simplify and speed up the billing process for freelancers and small businesses. It offers quick invoice creation, easy tracking, and diverse payment options to enhance cash flow and business efficiency.
 In short, Slayed.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. Many users find that this one ability of Slayed.ai removes several tasks from their daily routine.
 
 ## Key features

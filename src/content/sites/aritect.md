@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Aritect?
-    a: Aritect is a Solana-based risk intelligence platform and $ARITECT token offering wallet scoring, on-chain credit history and behavioral analytics via REST API and dashboard. It enables automated risk scoring, fraud prevention, underwriting and counterparty assessment for financial platforms. Crypto and Web3 Freemium That is the core of what Aritect does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Aritect is a Solana-based risk intelligence platform and $ARITECT token offering wallet scoring, on-chain credit history and behavioral analytics via REST API and dashboard. It enables automated risk scoring, fraud prevention, underwriting and counterparty assessment for financial platforms. That is the core of what Aritect does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Aritect free?
     a: Aritect uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Aritect?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Aritec
 
 ## What is Aritect?
 
-Aritect is a Solana-based risk intelligence platform and $ARITECT token offering wallet scoring, on-chain credit history and behavioral analytics via REST API and dashboard. It enables automated risk scoring, fraud prevention, underwriting and counterparty assessment for financial platforms. Crypto and Web3 Freemium
-
+Aritect is a Solana-based risk intelligence platform and $ARITECT token offering wallet scoring, on-chain credit history and behavioral analytics via REST API and dashboard. It enables automated risk scoring, fraud prevention, underwriting and counterparty assessment for financial platforms.
 In short, Aritect is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. That one feature of Aritect often eliminates several smaller steps from the usual workflow.
 
 ## Key features

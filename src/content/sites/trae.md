@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Trae AI?
-    a: Trae is an adaptive AI-powered IDE that boosts coding efficiency through dynamic task allocation, real-time previews, multimodal understanding of images, tailored code generation, and smart autocompletion, enhancing developer collaboration and workflow.  That is the core of what Trae AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Trae is an adaptive AI-powered IDE that boosts coding efficiency through dynamic task allocation, real-time previews, multimodal understanding of images, tailored code generation, and smart autocompletion, enhancing developer collaboration and workflow. That is the core of what Trae AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Trae AI free?
     a: Trae AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Trae AI?

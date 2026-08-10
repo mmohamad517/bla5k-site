@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Chatnra?
-    a: ChatNRA offers online formation and ongoing compliance for U.S. LLCs and corporations in Delaware, New Mexico, Wyoming, and Florida, including state registration, EIN issuance, tax filing packages, renewal filings, dissolution, bookkeeping support, and beneficial ownership reporting.  That is the core of what Chatnra does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ChatNRA offers online formation and ongoing compliance for U.S. LLCs and corporations in Delaware, New Mexico, Wyoming, and Florida, including state registration, EIN issuance, tax filing packages, renewal filings, dissolution, bookkeeping support, and beneficial ownership reporting. That is the core of what Chatnra does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Chatnra free?
     a: Chatnra is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Chatnra?

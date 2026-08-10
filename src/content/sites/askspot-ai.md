@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AskSpot.ai?
-    a: AskSpot is an AI chatbot platform for marketing and web development agencies, enabling the creation, customization, and reselling of chatbots. It features seamless integration, conversation tracking, branded options, and support for advanced AI models like GPT-3.5 and GPT-4.  That is the core of what AskSpot.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AskSpot is an AI chatbot platform for marketing and web development agencies, enabling the creation, customization, and reselling of chatbots. It features seamless integration, conversation tracking, branded options, and support for advanced AI models like GPT-3.5 and GPT-4. That is the core of what AskSpot.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AskSpot.ai free?
     a: AskSpot.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AskSpot.ai?

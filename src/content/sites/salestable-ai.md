@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SalesTable AI?
-    a: Salestable AI Sales Manager enhances sales team effectiveness with AI-driven training, real-time assistance during calls, and centralized content management. It supports rapid onboarding, live coaching, and performance tracking to increase efficiency and drive revenue growth.  That is the core of what SalesTable AI does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Salestable AI Sales Manager enhances sales team effectiveness with AI-driven training, real-time assistance during calls, and centralized content management. It supports rapid onboarding, live coaching, and performance tracking to increase efficiency and drive revenue growth. That is the core of what SalesTable AI does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SalesTable AI free?
     a: SalesTable AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with SalesTable AI?

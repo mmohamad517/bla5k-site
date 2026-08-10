@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Zev?
-    a: Zev is an AI chatbot on Telegram, Line, and Viber that can assist with answering questions, providing recommendations, language translation, and using different personas. It also offers a free trial and pricing starts at $10/month. AI Assistant Free That is the core of what Zev does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Zev is an AI chatbot on Telegram, Line, and Viber that can assist with answering questions, providing recommendations, language translation, and using different personas. It also offers a free trial and pricing starts at $10/month. That is the core of what Zev does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Zev free?
     a: Yes — Zev is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Zev?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Zev?
 
-Zev is an AI chatbot on Telegram, Line, and Viber that can assist with answering questions, providing recommendations, language translation, and using different personas. It also offers a free trial and pricing starts at $10/month. AI Assistant Free
-
+Zev is an AI chatbot on Telegram, Line, and Viber that can assist with answering questions, providing recommendations, language translation, and using different personas. It also offers a free trial and pricing starts at $10/month.
 In short, Zev is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of Zev replaces several steps they used to do by hand.
 
 ## Key features

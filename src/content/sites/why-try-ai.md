@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Why Try AI?
-    a: Why Try AI is a Substack newsletter that curates free AI tools for image‑to‑video, voice cloning, and prompt generation. It offers step‑by‑step guides, code snippets, and a searchable directory of 1,800+ tools. AI Assistant Freemium That is the core of what Why Try AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Why Try AI is a Substack newsletter that curates free AI tools for image‑to‑video, voice cloning, and prompt generation. It offers step‑by‑step guides, code snippets, and a searchable directory of 1,800+ tools. That is the core of what Why Try AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Why Try AI free?
     a: Why Try AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Why Try AI?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Why Try AI?
 
-Why Try AI is a Substack newsletter that curates free AI tools for image‑to‑video, voice cloning, and prompt generation. It offers step‑by‑step guides, code snippets, and a searchable directory of 1,800+ tools. AI Assistant Freemium
-
+Why Try AI is a Substack newsletter that curates free AI tools for image‑to‑video, voice cloning, and prompt generation. It offers step‑by‑step guides, code snippets, and a searchable directory of 1,800+ tools.
 In short, Why Try AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users discover that this feature of Why Try AI alone covers what previously took multiple tools.
 
 ## Key features

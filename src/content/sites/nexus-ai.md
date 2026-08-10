@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Nexus AI?
-    a: Nexus AI generates articles, research text, and citations while providing AI‑generated images and text‑to‑speech. It extracts data from PDFs, Word, and CSV, checks plagiarism, builds voice‑enabled chatbots, and supports collaborative editing with export to PDF, DOCX, and HTML. Content creation Subscription That is the core of what Nexus AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Nexus AI generates articles, research text, and citations while providing AI‑generated images and text‑to‑speech. It extracts data from PDFs, Word, and CSV, checks plagiarism, builds voice‑enabled chatbots, and supports collaborative editing with export to PDF, DOCX, and HTML. That is the core of what Nexus AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Nexus AI free?
     a: Nexus AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Nexus AI?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Nexus AI?
 
-Nexus AI generates articles, research text, and citations while providing AI‑generated images and text‑to‑speech. It extracts data from PDFs, Word, and CSV, checks plagiarism, builds voice‑enabled chatbots, and supports collaborative editing with export to PDF, DOCX, and HTML. Content creation Subscription
-
+Nexus AI generates articles, research text, and citations while providing AI‑generated images and text‑to‑speech. It extracts data from PDFs, Word, and CSV, checks plagiarism, builds voice‑enabled chatbots, and supports collaborative editing with export to PDF, DOCX, and HTML.
 In short, Nexus AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For plenty of users, that one capability of Nexus AI replaces several steps they used to do by hand.
 
 ## Key features

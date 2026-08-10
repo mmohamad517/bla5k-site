@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Day One Careers?
-    a: Day One Careers delivers Amazon interview prep with structured STAR and Leadership Principles content, AI‑powered story reviews, resume analysis, 14 hours of videos, 24/7 coaching, Bar Raiser sessions, job‑description mapping, salary‑negotiation workshop, and peer community. Coaching Free That is the core of what Day One Careers does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Day One Careers delivers Amazon interview prep with structured STAR and Leadership Principles content, AI‑powered story reviews, resume analysis, 14 hours of videos, 24/7 coaching, Bar Raiser sessions, job‑description mapping, salary‑negotiation workshop, and peer community. That is the core of what Day One Careers does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Day One Careers free?
     a: Yes — Day One Careers is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Day One Careers?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Day One Careers?
 
-Day One Careers delivers Amazon interview prep with structured STAR and Leadership Principles content, AI‑powered story reviews, resume analysis, 14 hours of videos, 24/7 coaching, Bar Raiser sessions, job‑description mapping, salary‑negotiation workshop, and peer community. Coaching Free
-
+Day One Careers delivers Amazon interview prep with structured STAR and Leadership Principles content, AI‑powered story reviews, resume analysis, 14 hours of videos, 24/7 coaching, Bar Raiser sessions, job‑description mapping, salary‑negotiation workshop, and peer community.
 In short, Day One Careers is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. For many, that single strength of Day One Careers is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

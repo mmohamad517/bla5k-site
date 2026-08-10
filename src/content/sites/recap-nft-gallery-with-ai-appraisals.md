@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Recap NFT Gallery?
-    a: Recap is a UK crypto‑tax platform that aggregates all transactions from exchanges and on‑chain wallets, provides real‑time portfolio tracking, automatically calculates HMRC‑compliant gains, and delivers SA108‑ready reports with secure accountant data sharing. Crypto and Web3 1 0 Paid - $8.25/mo That is the core of what Recap NFT Gallery does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Recap is a UK crypto‑tax platform that aggregates all transactions from exchanges and on‑chain wallets, provides real‑time portfolio tracking, automatically calculates HMRC‑compliant gains, and delivers SA108‑ready reports with secure accountant data sharing. That is the core of what Recap NFT Gallery does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Recap NFT Gallery free?
     a: Recap NFT Gallery is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Recap NFT Gallery?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Recap 
 
 ## What is Recap NFT Gallery?
 
-Recap is a UK crypto‑tax platform that aggregates all transactions from exchanges and on‑chain wallets, provides real‑time portfolio tracking, automatically calculates HMRC‑compliant gains, and delivers SA108‑ready reports with secure accountant data sharing. Crypto and Web3 1 0 Paid - $8.25/mo
-
+Recap is a UK crypto‑tax platform that aggregates all transactions from exchanges and on‑chain wallets, provides real‑time portfolio tracking, automatically calculates HMRC‑compliant gains, and delivers SA108‑ready reports with secure accountant data sharing.
 In short, Recap NFT Gallery is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. For plenty of users, that one capability of Recap NFT Gallery replaces several steps they used to do by hand.
 
 ## Key features

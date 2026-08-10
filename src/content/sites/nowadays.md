@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Nowadays?
-    a: Nowadays consolidates venue sourcing, budget tracking, registration, and vendor coordination into a single interface. It offers instant flight estimates, venue comparisons, automated outreach, real‑time expense alerts, and unified contract management for end‑to‑end event planning.  That is the core of what Nowadays does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Nowadays consolidates venue sourcing, budget tracking, registration, and vendor coordination into a single interface. It offers instant flight estimates, venue comparisons, automated outreach, real‑time expense alerts, and unified contract management for end‑to‑end event planning. That is the core of what Nowadays does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Nowadays free?
     a: Nowadays is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Nowadays?

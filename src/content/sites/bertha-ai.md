@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Bertha.ai?
-    a: Bertha AI integrates with WordPress and Chromium browsers to generate SEO‑optimized titles, meta descriptions, headlines, and long‑form content. It supports 25+ languages, bulk alt text, up to 50 monthly images, and creates product descriptions for WooCommerce and EDD. Marketing Free trial That is the core of what Bertha.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Bertha AI integrates with WordPress and Chromium browsers to generate SEO‑optimized titles, meta descriptions, headlines, and long‑form content. It supports 25+ languages, bulk alt text, up to 50 monthly images, and creates product descriptions for WooCommerce and EDD. That is the core of what Bertha.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Bertha.ai free?
     a: Bertha.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Bertha.ai?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Bertha.ai?
 
-Bertha AI integrates with WordPress and Chromium browsers to generate SEO‑optimized titles, meta descriptions, headlines, and long‑form content. It supports 25+ languages, bulk alt text, up to 50 monthly images, and creates product descriptions for WooCommerce and EDD. Marketing Free trial
-
+Bertha AI integrates with WordPress and Chromium browsers to generate SEO‑optimized titles, meta descriptions, headlines, and long‑form content. It supports 25+ languages, bulk alt text, up to 50 monthly images, and creates product descriptions for WooCommerce and EDD.
 In short, Bertha.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That one feature of Bertha.ai often eliminates several smaller steps from the usual workflow.
 
 ## Key features

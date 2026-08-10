@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Filepower AI?
-    a: FilePower AI lets users chat with PDFs, PPTs, Excel, and Word files, summarizing, translating, and organizing them into a searchable library. It uses a large‑language model with extended memory and encryption, speeding information extraction for researchers, educators, and analysts. Document management Free trial That is the core of what Filepower AI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: FilePower AI lets users chat with PDFs, PPTs, Excel, and Word files, summarizing, translating, and organizing them into a searchable library. It uses a large‑language model with extended memory and encryption, speeding information extraction for researchers, educators, and analysts. That is the core of what Filepower AI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Filepower AI free?
     a: Filepower AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Filepower AI?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Filepower AI?
 
-FilePower AI lets users chat with PDFs, PPTs, Excel, and Word files, summarizing, translating, and organizing them into a searchable library. It uses a large‑language model with extended memory and encryption, speeding information extraction for researchers, educators, and analysts. Document management Free trial
-
+FilePower AI lets users chat with PDFs, PPTs, Excel, and Word files, summarizing, translating, and organizing them into a searchable library. It uses a large‑language model with extended memory and encryption, speeding information extraction for researchers, educators, and analysts.
 In short, Filepower AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. Many users find that this one ability of Filepower AI removes several tasks from their daily routine.
 
 ## Key features

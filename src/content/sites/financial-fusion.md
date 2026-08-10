@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Financial Fusion?
-    a: Financial Fusion is an AI‑powered platform that automatically analyzes P&L, balance sheets, and cash flow to deliver actionable insights. It offers CFO‑style guidance, generates concise reports, and integrates natively with QuickBooks, Xero, Zoho, and Excel via interactive dashboards. Accounting assistant Free trial That is the core of what Financial Fusion does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Financial Fusion is an AI‑powered platform that automatically analyzes P&L, balance sheets, and cash flow to deliver actionable insights. It offers CFO‑style guidance, generates concise reports, and integrates natively with QuickBooks, Xero, Zoho, and Excel via interactive dashboards. That is the core of what Financial Fusion does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Financial Fusion free?
     a: Financial Fusion uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Financial Fusion?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Financial F
 
 ## What is Financial Fusion?
 
-Financial Fusion is an AI‑powered platform that automatically analyzes P&L, balance sheets, and cash flow to deliver actionable insights. It offers CFO‑style guidance, generates concise reports, and integrates natively with QuickBooks, Xero, Zoho, and Excel via interactive dashboards. Accounting assistant Free trial
-
+Financial Fusion is an AI‑powered platform that automatically analyzes P&L, balance sheets, and cash flow to deliver actionable insights. It offers CFO‑style guidance, generates concise reports, and integrates natively with QuickBooks, Xero, Zoho, and Excel via interactive dashboards.
 In short, Financial Fusion is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one capability of Financial Fusion frequently saves users from juggling several separate steps.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is auto-respond.com?
-    a: Yelp Auto Responder is an AI voice agent that answers leads across Yelp, Thumbtack, Facebook and Google, instantly qualifying inquiries, generating quotes, booking appointments, running batch campaigns, integrating with CRMs, and providing analytics and call recording for automated follow-up. Sales Free trial That is the core of what auto-respond.com does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Yelp Auto Responder is an AI voice agent that answers leads across Yelp, Thumbtack, Facebook and Google, instantly qualifying inquiries, generating quotes, booking appointments, running batch campaigns, integrating with CRMs, and providing analytics and call recording for automated follow-up. That is the core of what auto-respond.com does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is auto-respond.com free?
     a: auto-respond.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with auto-respond.com?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is auto-respond.com?
 
-Yelp Auto Responder is an AI voice agent that answers leads across Yelp, Thumbtack, Facebook and Google, instantly qualifying inquiries, generating quotes, booking appointments, running batch campaigns, integrating with CRMs, and providing analytics and call recording for automated follow-up. Sales Free trial
-
+Yelp Auto Responder is an AI voice agent that answers leads across Yelp, Thumbtack, Facebook and Google, instantly qualifying inquiries, generating quotes, booking appointments, running batch campaigns, integrating with CRMs, and providing analytics and call recording for automated follow-up.
 In short, auto-respond.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For many, that single strength of auto-respond.com is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

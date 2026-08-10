@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Its Bot?
-    a: itsbot offers an AI chatbot solution powered by GPT-3.5/4, enhancing customer engagement with customizable interactions. It automates communications across platforms, providing tailored responses while reducing support costs and improving lead generation and sales efficiency. Omnichannel chatbot Free trial That is the core of what Its Bot does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: itsbot offers an AI chatbot solution powered by GPT-3.5/4, enhancing customer engagement with customizable interactions. It automates communications across platforms, providing tailored responses while reducing support costs and improving lead generation and sales efficiency. That is the core of what Its Bot does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Its Bot free?
     a: Its Bot uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Its Bot?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Its Bot?
 
-itsbot offers an AI chatbot solution powered by GPT-3.5/4, enhancing customer engagement with customizable interactions. It automates communications across platforms, providing tailored responses while reducing support costs and improving lead generation and sales efficiency. Omnichannel chatbot Free trial
-
+itsbot offers an AI chatbot solution powered by GPT-3.5/4, enhancing customer engagement with customizable interactions. It automates communications across platforms, providing tailored responses while reducing support costs and improving lead generation and sales efficiency.
 In short, Its Bot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. That one feature of Its Bot often eliminates several smaller steps from the usual workflow.
 
 ## Key features

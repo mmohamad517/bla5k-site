@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Aide?
-    a: Aide deploys AI agents across platforms like Zendesk, Shopify, and Salesforce to automate ticket conversations, auto‑tag, route, and trigger actions. Its Copilot surfaces guidance, reducing agent context‑search, while analytics uncover trends and the solution meets SOC 2, GDPR, and HIPAA compliance.  That is the core of what Aide does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Aide deploys AI agents across platforms like Zendesk, Shopify, and Salesforce to automate ticket conversations, auto‑tag, route, and trigger actions. Its Copilot surfaces guidance, reducing agent context‑search, while analytics uncover trends and the solution meets SOC 2, GDPR, and HIPAA compliance. That is the core of what Aide does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Aide free?
     a: Aide uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Aide?

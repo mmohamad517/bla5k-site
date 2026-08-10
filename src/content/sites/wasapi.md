@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Wasapi?
-    a: Wasapi consolidates WhatsApp customer interactions into a single interface, automatically assigning chats to agents and tracking them in real‑time. It integrates with CRMs, e‑commerce, and payment systems, supports AI assistants and mass messaging, and offers a mobile app for remote agents. Omnichannel chatbot Freemium That is the core of what Wasapi does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Wasapi consolidates WhatsApp customer interactions into a single interface, automatically assigning chats to agents and tracking them in real‑time. It integrates with CRMs, e‑commerce, and payment systems, supports AI assistants and mass messaging, and offers a mobile app for remote agents. That is the core of what Wasapi does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Wasapi free?
     a: Wasapi uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Wasapi?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Wasapi earn thei
 
 ## What is Wasapi?
 
-Wasapi consolidates WhatsApp customer interactions into a single interface, automatically assigning chats to agents and tracking them in real‑time. It integrates with CRMs, e‑commerce, and payment systems, supports AI assistants and mass messaging, and offers a mobile app for remote agents. Omnichannel chatbot Freemium
-
+Wasapi consolidates WhatsApp customer interactions into a single interface, automatically assigning chats to agents and tracking them in real‑time. It integrates with CRMs, e‑commerce, and payment systems, supports AI assistants and mass messaging, and offers a mobile app for remote agents.
 In short, Wasapi is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. That one feature of Wasapi often eliminates several smaller steps from the usual workflow.
 
 ## Key features

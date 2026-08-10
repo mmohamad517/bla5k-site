@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is squirai.com?
-    a: Squirai automates product description creation, SEO‑focused content optimization, and bulk image processing. It integrates with Shopify, letting merchants edit copy and media directly in their store while receiving eight‑hour support. Digital Marketing Freemium That is the core of what squirai.com does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Squirai automates product description creation, SEO‑focused content optimization, and bulk image processing. It integrates with Shopify, letting merchants edit copy and media directly in their store while receiving eight‑hour support. That is the core of what squirai.com does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is squirai.com free?
     a: squirai.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with squirai.com?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is squirai.com?
 
-Squirai automates product description creation, SEO‑focused content optimization, and bulk image processing. It integrates with Shopify, letting merchants edit copy and media directly in their store while receiving eight‑hour support. Digital Marketing Freemium
-
+Squirai automates product description creation, SEO‑focused content optimization, and bulk image processing. It integrates with Shopify, letting merchants edit copy and media directly in their store while receiving eight‑hour support.
 In short, squirai.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That one feature of squirai.com often eliminates several smaller steps from the usual workflow.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Story Creator AI?
-    a: AI Enriches enables quick creation of custom AI‑generated images for marketing, education, and web use. Users adjust prompts and style, output multiple formats and resolutions, and can store images in libraries for reuse. An API supports workflow integration. Content creation Freemium That is the core of what Story Creator AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Enriches enables quick creation of custom AI‑generated images for marketing, education, and web use. Users adjust prompts and style, output multiple formats and resolutions, and can store images in libraries for reuse. An API supports workflow integration. That is the core of what Story Creator AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Story Creator AI free?
     a: Story Creator AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Story Creator AI?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Story Creator AI?
 
-AI Enriches enables quick creation of custom AI‑generated images for marketing, education, and web use. Users adjust prompts and style, output multiple formats and resolutions, and can store images in libraries for reuse. An API supports workflow integration. Content creation Freemium
-
+AI Enriches enables quick creation of custom AI‑generated images for marketing, education, and web use. Users adjust prompts and style, output multiple formats and resolutions, and can store images in libraries for reuse. An API supports workflow integration.
 In short, Story Creator AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. That one feature of Story Creator AI often eliminates several smaller steps from the usual workflow.
 
 ## Key features

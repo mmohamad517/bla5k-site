@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Cranston AI?
-    a: Cranston AI is an automated bookkeeping platform for startups and small businesses. It uses AI to categorize transactions, reconcile accounts, and sync with QuickBooks, with final reviews by licensed CPAs. Accounting assistant Subscription That is the core of what Cranston AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Cranston AI is an automated bookkeeping platform for startups and small businesses. It uses AI to categorize transactions, reconcile accounts, and sync with QuickBooks, with final reviews by licensed CPAs. That is the core of what Cranston AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Cranston AI free?
     a: Cranston AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Cranston AI?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Cranston AI?
 
-Cranston AI is an automated bookkeeping platform for startups and small businesses. It uses AI to categorize transactions, reconcile accounts, and sync with QuickBooks, with final reviews by licensed CPAs. Accounting assistant Subscription
-
+Cranston AI is an automated bookkeeping platform for startups and small businesses. It uses AI to categorize transactions, reconcile accounts, and sync with QuickBooks, with final reviews by licensed CPAs.
 In short, Cranston AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one capability of Cranston AI frequently saves users from juggling several separate steps.
 
 ## Key features

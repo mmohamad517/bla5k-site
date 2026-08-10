@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Knowbase?
-    a: Knowbase.ai turns PDFs, Word, PowerPoint, text, audio, video, and YouTube links into a searchable knowledge base, delivering AI‑generated answers with source citations. It supports chat with individual documents or all files, transcription with speaker ID, multilingual use, and private data handling.  That is the core of what Knowbase does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Knowbase.ai turns PDFs, Word, PowerPoint, text, audio, video, and YouTube links into a searchable knowledge base, delivering AI‑generated answers with source citations. It supports chat with individual documents or all files, transcription with speaker ID, multilingual use, and private data handling. That is the core of what Knowbase does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Knowbase free?
     a: Knowbase uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Knowbase?

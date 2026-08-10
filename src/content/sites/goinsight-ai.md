@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is GoInsight.AI?
-    a: GoInsight.AI is a ChatGPT-powered chatbot for enterprises that combines conversational support, workflow automation, role-based collaboration, integrations with CRM and analytics, and AI governance (policy controls, audit logs, model monitoring) to streamline support and internal processes. Omnichannel chatbot Freemium That is the core of what GoInsight.AI does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: GoInsight.AI is a ChatGPT-powered chatbot for enterprises that combines conversational support, workflow automation, role-based collaboration, integrations with CRM and analytics, and AI governance (policy controls, audit logs, model monitoring) to streamline support and internal processes. That is the core of what GoInsight.AI does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is GoInsight.AI free?
     a: GoInsight.AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with GoInsight.AI?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is GoInsight.AI?
 
-GoInsight.AI is a ChatGPT-powered chatbot for enterprises that combines conversational support, workflow automation, role-based collaboration, integrations with CRM and analytics, and AI governance (policy controls, audit logs, model monitoring) to streamline support and internal processes. Omnichannel chatbot Freemium
-
+GoInsight.AI is a ChatGPT-powered chatbot for enterprises that combines conversational support, workflow automation, role-based collaboration, integrations with CRM and analytics, and AI governance (policy controls, audit logs, model monitoring) to streamline support and internal processes.
 In short, GoInsight.AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. Many users discover that this feature of GoInsight.AI alone covers what previously took multiple tools.
 
 ## Key features

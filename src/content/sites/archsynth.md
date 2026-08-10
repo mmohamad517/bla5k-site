@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Archsynth?
-    a: Archsynth transforms 2‑D sketches into detailed 3‑D models and high‑resolution renders instantly, supporting image‑to‑CAD, mood‑board, texture, and virtual staging creation. It offers AI inpainting, background removal, and upscaling, and exports to SketchUp, Rhino, Revit, and 3ds Max.  That is the core of what Archsynth does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Archsynth transforms 2‑D sketches into detailed 3‑D models and high‑resolution renders instantly, supporting image‑to‑CAD, mood‑board, texture, and virtual staging creation. It offers AI inpainting, background removal, and upscaling, and exports to SketchUp, Rhino, Revit, and 3ds Max. That is the core of what Archsynth does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Archsynth free?
     a: Archsynth uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $29/mo, check the official website — pricing changes often.
   - q: What can you do with Archsynth?

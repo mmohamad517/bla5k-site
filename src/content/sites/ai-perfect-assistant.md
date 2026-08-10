@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Perfect Assistant?
-    a: AI Perfect Assistant adds ChatGPT, Gemini, Claude, and 60+ LLMs to Office 365 apps, delivering real‑time grammar, style checks, drafting, summarization, translation, and formula generation to streamline writing, analysis, and teamwork across Word, Excel, PowerPoint, Outlook, Teams, and OneNote.  That is the core of what AI Perfect Assistant does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Perfect Assistant adds ChatGPT, Gemini, Claude, and 60+ LLMs to Office 365 apps, delivering real‑time grammar, style checks, drafting, summarization, translation, and formula generation to streamline writing, analysis, and teamwork across Word, Excel, PowerPoint, Outlook, Teams, and OneNote. That is the core of what AI Perfect Assistant does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI Perfect Assistant free?
     a: AI Perfect Assistant uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AI Perfect Assistant?

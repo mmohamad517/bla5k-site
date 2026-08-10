@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Roadway?
-    a: Roadway aggregates performance‑marketing data from multiple sources into a single warehouse‑native workspace, enabling cross‑channel attribution, KPI dashboards, and AI‑driven weekly insights. Users can monitor campaigns, visualize CAC, payback, churn, and execute recommendations directly. Marketing Subscription That is the core of what Roadway does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Roadway aggregates performance‑marketing data from multiple sources into a single warehouse‑native workspace, enabling cross‑channel attribution, KPI dashboards, and AI‑driven weekly insights. Users can monitor campaigns, visualize CAC, payback, churn, and execute recommendations directly. That is the core of what Roadway does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Roadway free?
     a: Roadway is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Roadway?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Roadway mat
 
 ## What is Roadway?
 
-Roadway aggregates performance‑marketing data from multiple sources into a single warehouse‑native workspace, enabling cross‑channel attribution, KPI dashboards, and AI‑driven weekly insights. Users can monitor campaigns, visualize CAC, payback, churn, and execute recommendations directly. Marketing Subscription
-
+Roadway aggregates performance‑marketing data from multiple sources into a single warehouse‑native workspace, enabling cross‑channel attribution, KPI dashboards, and AI‑driven weekly insights. Users can monitor campaigns, visualize CAC, payback, churn, and execute recommendations directly.
 In short, Roadway is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. Many users discover that this feature of Roadway alone covers what previously took multiple tools.
 
 ## Key features

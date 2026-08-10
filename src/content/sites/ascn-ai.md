@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ASCN.AI?
-    a: Ascn.ai is a no-code platform for creating custom AI agents and automating crypto workflows. It enables automated market analytics and blockchain data integration for optimized processes and financial forecasting.  That is the core of what ASCN.AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ascn.ai is a no-code platform for creating custom AI agents and automating crypto workflows. It enables automated market analytics and blockchain data integration for optimized processes and financial forecasting. That is the core of what ASCN.AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ASCN.AI free?
     a: ASCN.AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $29/mo, check the official website — pricing changes often.
   - q: What can you do with ASCN.AI?

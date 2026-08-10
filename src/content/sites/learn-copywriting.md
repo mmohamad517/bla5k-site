@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Learn Copywriting?
-    a: Learn Copywriting is an interactive platform for improving copywriting skills through daily writing tasks, real-time feedback, and a structured environment. Users can track progress, store submissions in a portfolio, and draw inspiration from industry insights. Copywriting Free That is the core of what Learn Copywriting does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Learn Copywriting is an interactive platform for improving copywriting skills through daily writing tasks, real-time feedback, and a structured environment. Users can track progress, store submissions in a portfolio, and draw inspiration from industry insights. That is the core of what Learn Copywriting does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Learn Copywriting free?
     a: Yes — Learn Copywriting is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Learn Copywriting?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Learn 
 
 ## What is Learn Copywriting?
 
-Learn Copywriting is an interactive platform for improving copywriting skills through daily writing tasks, real-time feedback, and a structured environment. Users can track progress, store submissions in a portfolio, and draw inspiration from industry insights. Copywriting Free
-
+Learn Copywriting is an interactive platform for improving copywriting skills through daily writing tasks, real-time feedback, and a structured environment. Users can track progress, store submissions in a portfolio, and draw inspiration from industry insights.
 In short, Learn Copywriting is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. That single feature of Learn Copywriting alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

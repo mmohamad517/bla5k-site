@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is BingBangAI?
-    a: BingBang.ai offers 80+ AI writing tools, a GPT‑4 chatbot, prompt library, voice commands, and image generation. It supports 25+ languages, provides a built‑in editor, content planner, and team collaboration for streamlined publishing.  That is the core of what BingBangAI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: BingBang.ai offers 80+ AI writing tools, a GPT‑4 chatbot, prompt library, voice commands, and image generation. It supports 25+ languages, provides a built‑in editor, content planner, and team collaboration for streamlined publishing. That is the core of what BingBangAI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is BingBangAI free?
     a: BingBangAI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with BingBangAI?

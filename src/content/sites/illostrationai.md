@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is IllostrationAI?
-    a: Illustration AI creates images from text, letting users pick styles, upload CSVs for bulk production, edit backgrounds, and export high‑res PNGs or SVGs. Figma integration and AI upscaling streamline design workflows. Content creation Free - $4.9/mo That is the core of what IllostrationAI does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Illustration AI creates images from text, letting users pick styles, upload CSVs for bulk production, edit backgrounds, and export high‑res PNGs or SVGs. Figma integration and AI upscaling streamline design workflows. That is the core of what IllostrationAI does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is IllostrationAI free?
     a: IllostrationAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with IllostrationAI?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is IllostrationAI?
 
-Illustration AI creates images from text, letting users pick styles, upload CSVs for bulk production, edit backgrounds, and export high‑res PNGs or SVGs. Figma integration and AI upscaling streamline design workflows. Content creation Free - $4.9/mo
-
+Illustration AI creates images from text, letting users pick styles, upload CSVs for bulk production, edit backgrounds, and export high‑res PNGs or SVGs. Figma integration and AI upscaling streamline design workflows.
 In short, IllostrationAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. Many users discover that this feature of IllostrationAI alone covers what previously took multiple tools.
 
 ## Key features

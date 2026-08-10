@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Quriobot?
-    a: Quriobot is a no-code chatbot builder with drag-and-drop flow design, templates, conditional logic and form-based lead capture to automate FAQs, qualify prospects, route conversations, integrate with CRMs and analyze conversations for optimization. Chatbot builder Free That is the core of what Quriobot does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Quriobot is a no-code chatbot builder with drag-and-drop flow design, templates, conditional logic and form-based lead capture to automate FAQs, qualify prospects, route conversations, integrate with CRMs and analyze conversations for optimization. That is the core of what Quriobot does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Quriobot free?
     a: Yes — Quriobot is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Quriobot?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Quriobot?
 
-Quriobot is a no-code chatbot builder with drag-and-drop flow design, templates, conditional logic and form-based lead capture to automate FAQs, qualify prospects, route conversations, integrate with CRMs and analyze conversations for optimization. Chatbot builder Free
-
+Quriobot is a no-code chatbot builder with drag-and-drop flow design, templates, conditional logic and form-based lead capture to automate FAQs, qualify prospects, route conversations, integrate with CRMs and analyze conversations for optimization.
 In short, Quriobot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For plenty of users, that one capability of Quriobot replaces several steps they used to do by hand.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is WeWeb?
-    a: WeWeb is a no-code AI platform for building and customizing web apps with a drag-and-drop editor, requiring no coding skills. It accelerates development and deployment with AI-powered tools and workspace-based project management.  That is the core of what WeWeb does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: WeWeb is a no-code AI platform for building and customizing web apps with a drag-and-drop editor, requiring no coding skills. It accelerates development and deployment with AI-powered tools and workspace-based project management. That is the core of what WeWeb does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is WeWeb free?
     a: WeWeb uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with WeWeb?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Wilde AI?
-    a: Wilde AI is a cutting-edge tool that generates SEO-optimized, 2000+ word blog posts in English and Arabic with a single click, blending authenticity and literary flair. It delivers 100% original, human-like content with built-in SEO and bilingual mastery, ensuring factual accuracy and engaging reads for multilingual audiences.  That is the core of what Wilde AI does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Wilde AI is a cutting-edge tool that generates SEO-optimized, 2000+ word blog posts in English and Arabic with a single click, blending authenticity and literary flair. It delivers 100% original, human-like content with built-in SEO and bilingual mastery, ensuring factual accuracy and engaging reads for multilingual audiences. That is the core of what Wilde AI does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Wilde AI free?
     a: Wilde AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Wilde AI?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Boxy?
-    a: Boxy is an AI coding assistant that enhances the coding experience, speeds up machine performance, provides useful features like code reviews, sandboxes and optimization, and helps bring ideas to code faster.  That is the core of what Boxy does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Boxy is an AI coding assistant that enhances the coding experience, speeds up machine performance, provides useful features like code reviews, sandboxes and optimization, and helps bring ideas to code faster. That is the core of what Boxy does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Boxy free?
     a: Boxy uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9, check the official website — pricing changes often.
   - q: What can you do with Boxy?

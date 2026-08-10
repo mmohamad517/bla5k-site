@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AutoGen?
-    a: Autogen is an advanced AI tool for building AI agents large language model applications, offering a multi-agent conversation framework and optimized API for improved performance and cost reduction.  That is the core of what AutoGen does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Autogen is an advanced AI tool for building AI agents large language model applications, offering a multi-agent conversation framework and optimized API for improved performance and cost reduction. That is the core of what AutoGen does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AutoGen free?
     a: Yes — AutoGen is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with AutoGen?

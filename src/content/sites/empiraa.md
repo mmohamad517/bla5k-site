@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Empiraa?
-    a: Empiraa is a strategic management tool that streamlines planning and execution, aligning business vision with actionable strategies. It enhances efficiency through integration with 6,000+ apps, supports goal tracking, and fosters collaboration across organizational functions. Business planning Freemium That is the core of what Empiraa does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Empiraa is a strategic management tool that streamlines planning and execution, aligning business vision with actionable strategies. It enhances efficiency through integration with 6,000+ apps, supports goal tracking, and fosters collaboration across organizational functions. That is the core of what Empiraa does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Empiraa free?
     a: Empiraa uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Empiraa?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Empiraa?
 
-Empiraa is a strategic management tool that streamlines planning and execution, aligning business vision with actionable strategies. It enhances efficiency through integration with 6,000+ apps, supports goal tracking, and fosters collaboration across organizational functions. Business planning Freemium
-
+Empiraa is a strategic management tool that streamlines planning and execution, aligning business vision with actionable strategies. It enhances efficiency through integration with 6,000+ apps, supports goal tracking, and fosters collaboration across organizational functions.
 In short, Empiraa is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI planning without the manual grind. Many users find that this one ability of Empiraa removes several tasks from their daily routine.
 
 ## Key features

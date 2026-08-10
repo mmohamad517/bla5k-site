@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is DHTMLX Chatbot?
-    a: DHTMLX AI Chatbot UI Widget is a lightweight, 65 KB JavaScript component for embedding AI chat interfaces. It offers blocks, bubbles, cards, and flow displays, a typewriter effect, Markdown, customizable typing speed, sidebar chat history, and flexible LLM connections.  That is the core of what DHTMLX Chatbot does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: DHTMLX AI Chatbot UI Widget is a lightweight, 65 KB JavaScript component for embedding AI chat interfaces. It offers blocks, bubbles, cards, and flow displays, a typewriter effect, Markdown, customizable typing speed, sidebar chat history, and flexible LLM connections. That is the core of what DHTMLX Chatbot does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is DHTMLX Chatbot free?
     a: DHTMLX Chatbot is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with DHTMLX Chatbot?

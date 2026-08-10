@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI for Sheets by Cargo?
-    a: Cargo is an AI-powered Google Workspace add-on that assists in writing sales emails, follow-ups, Google Ad copy, and blog posts at scale using pre-built templates. It can also auto-fill spreadsheets based on user input. Sales Freemium That is the core of what AI for Sheets by Cargo does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Cargo is an AI-powered Google Workspace add-on that assists in writing sales emails, follow-ups, Google Ad copy, and blog posts at scale using pre-built templates. It can also auto-fill spreadsheets based on user input. That is the core of what AI for Sheets by Cargo does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI for Sheets by Cargo free?
     a: AI for Sheets by Cargo uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AI for Sheets by Cargo?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like AI for
 
 ## What is AI for Sheets by Cargo?
 
-Cargo is an AI-powered Google Workspace add-on that assists in writing sales emails, follow-ups, Google Ad copy, and blog posts at scale using pre-built templates. It can also auto-fill spreadsheets based on user input. Sales Freemium
-
+Cargo is an AI-powered Google Workspace add-on that assists in writing sales emails, follow-ups, Google Ad copy, and blog posts at scale using pre-built templates. It can also auto-fill spreadsheets based on user input.
 In short, AI for Sheets by Cargo is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. That one feature of AI for Sheets by Cargo often eliminates several smaller steps from the usual workflow.
 
 ## Key features

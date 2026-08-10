@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is OpenWorker?
-    a: OpenWorker is a platform that connects AI models with everyday tools to automate start-to-finish tasks for teams. It supports cloud, open-weight, and local models, integrating with Slack, Gmail, Google Calendar, and other business apps for privacy-preserving workflow automation.  That is the core of what OpenWorker does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: OpenWorker is a platform that connects AI models with everyday tools to automate start-to-finish tasks for teams. It supports cloud, open-weight, and local models, integrating with Slack, Gmail, Google Calendar, and other business apps for privacy-preserving workflow automation. That is the core of what OpenWorker does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is OpenWorker free?
     a: Yes — OpenWorker is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with OpenWorker?

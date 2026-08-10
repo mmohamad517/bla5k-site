@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Quantum Copilot?
-    a: Quantum Copilot is an AI‑driven assistant for quantum developers that generates, translates, and visualizes code across OpenQASM, Q#, Qiskit, Cirq, Quil, and more. It supports Jupyter integration, cloud simulation, real‑hardware execution, and offers an API, CLI, and conversational support. AI Assistant Freemium That is the core of what Quantum Copilot does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Quantum Copilot is an AI‑driven assistant for quantum developers that generates, translates, and visualizes code across OpenQASM, Q#, Qiskit, Cirq, Quil, and more. It supports Jupyter integration, cloud simulation, real‑hardware execution, and offers an API, CLI, and conversational support. That is the core of what Quantum Copilot does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Quantum Copilot free?
     a: Quantum Copilot uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Quantum Copilot?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Quantum Copilot?
 
-Quantum Copilot is an AI‑driven assistant for quantum developers that generates, translates, and visualizes code across OpenQASM, Q#, Qiskit, Cirq, Quil, and more. It supports Jupyter integration, cloud simulation, real‑hardware execution, and offers an API, CLI, and conversational support. AI Assistant Freemium
-
+Quantum Copilot is an AI‑driven assistant for quantum developers that generates, translates, and visualizes code across OpenQASM, Q#, Qiskit, Cirq, Quil, and more. It supports Jupyter integration, cloud simulation, real‑hardware execution, and offers an API, CLI, and conversational support.
 In short, Quantum Copilot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That single feature of Quantum Copilot alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

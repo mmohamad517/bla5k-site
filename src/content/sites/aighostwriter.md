@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AIGhostwriter?
-    a: Ghostwriting service allows users to create content inspired by renowned authors like Jane Austen and Mark Twain. It offers tailored writing that captures the unique voice of these literary figures, enhancing projects with a distinct literary touch. Copywriting Subscription - $15/mo That is the core of what AIGhostwriter does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ghostwriting service allows users to create content inspired by renowned authors like Jane Austen and Mark Twain. It offers tailored writing that captures the unique voice of these literary figures, enhancing projects with a distinct literary touch. That is the core of what AIGhostwriter does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AIGhostwriter free?
     a: AIGhostwriter is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with AIGhostwriter?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like AIGhos
 
 ## What is AIGhostwriter?
 
-Ghostwriting service allows users to create content inspired by renowned authors like Jane Austen and Mark Twain. It offers tailored writing that captures the unique voice of these literary figures, enhancing projects with a distinct literary touch. Copywriting Subscription - $15/mo
-
+Ghostwriting service allows users to create content inspired by renowned authors like Jane Austen and Mark Twain. It offers tailored writing that captures the unique voice of these literary figures, enhancing projects with a distinct literary touch.
 In short, AIGhostwriter is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. For a lot of people, that one function of AIGhostwriter collapses multiple steps into a single action.
 
 ## Key features

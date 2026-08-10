@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is HireAI?
-    a: Arc gives instant access to 450,000 professionals across 190 countries, with hiring timelines of 72 hours for freelance and up to 14 days for full‑time roles. Secure payments are managed via Employer‑of‑Record partners, and recruiter support covers LATAM and APAC.  That is the core of what HireAI does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Arc gives instant access to 450,000 professionals across 190 countries, with hiring timelines of 72 hours for freelance and up to 14 days for full‑time roles. Secure payments are managed via Employer‑of‑Record partners, and recruiter support covers LATAM and APAC. That is the core of what HireAI does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is HireAI free?
     a: HireAI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with HireAI?

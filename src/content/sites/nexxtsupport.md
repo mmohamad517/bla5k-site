@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is NexxtSupport?
-    a: NexxtSupport is an AI‑first platform that lets businesses train custom chatbots via documents, web links or Notion/Confluence, embed them with a single code snippet, capture leads, track analytics, support 50+ languages, and automate internal help desks. Knowledge base management Free That is the core of what NexxtSupport does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: NexxtSupport is an AI‑first platform that lets businesses train custom chatbots via documents, web links or Notion/Confluence, embed them with a single code snippet, capture leads, track analytics, support 50+ languages, and automate internal help desks. That is the core of what NexxtSupport does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is NexxtSupport free?
     a: Yes — NexxtSupport is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with NexxtSupport?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is NexxtSupport?
 
-NexxtSupport is an AI‑first platform that lets businesses train custom chatbots via documents, web links or Notion/Confluence, embed them with a single code snippet, capture leads, track analytics, support 50+ languages, and automate internal help desks. Knowledge base management Free
-
+NexxtSupport is an AI‑first platform that lets businesses train custom chatbots via documents, web links or Notion/Confluence, embed them with a single code snippet, capture leads, track analytics, support 50+ languages, and automate internal help desks.
 In short, NexxtSupport is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. That one capability of NexxtSupport frequently saves users from juggling several separate steps.
 
 ## Key features

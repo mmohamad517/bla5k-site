@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ai book writer?
-    a: AI Book Writer automates full manuscript creation, cover design, and formatting in minutes. One‑click workflow generates chapters, art, and layouts; exports to Word, PDF, EPUB; connects to Kindle for instant publishing. Customizable tone, style, and secure data handling.  That is the core of what Ai book writer does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Book Writer automates full manuscript creation, cover design, and formatting in minutes. One‑click workflow generates chapters, art, and layouts; exports to Word, PDF, EPUB; connects to Kindle for instant publishing. Customizable tone, style, and secure data handling. That is the core of what Ai book writer does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ai book writer free?
     a: Ai book writer uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $4/mo, check the official website — pricing changes often.
   - q: What can you do with Ai book writer?

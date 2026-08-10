@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is DataSavvy.Chat?
-    a: DataSavvy.chat lets businesses create AI chat assistants without coding, training on FAQs, PDFs, catalogs, and web content. It offers 24/7 multilingual support, data insight, custom appearance, shareable links, and API integration for easy deployment. Knowledge base management Paid That is the core of what DataSavvy.Chat does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: DataSavvy.chat lets businesses create AI chat assistants without coding, training on FAQs, PDFs, catalogs, and web content. It offers 24/7 multilingual support, data insight, custom appearance, shareable links, and API integration for easy deployment. That is the core of what DataSavvy.Chat does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is DataSavvy.Chat free?
     a: DataSavvy.Chat is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with DataSavvy.Chat?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is DataSavvy.Chat?
 
-DataSavvy.chat lets businesses create AI chat assistants without coding, training on FAQs, PDFs, catalogs, and web content. It offers 24/7 multilingual support, data insight, custom appearance, shareable links, and API integration for easy deployment. Knowledge base management Paid
-
+DataSavvy.chat lets businesses create AI chat assistants without coding, training on FAQs, PDFs, catalogs, and web content. It offers 24/7 multilingual support, data insight, custom appearance, shareable links, and API integration for easy deployment.
 In short, DataSavvy.Chat is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. That one capability of DataSavvy.Chat frequently saves users from juggling several separate steps.
 
 ## Key features

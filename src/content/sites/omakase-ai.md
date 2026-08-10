@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Omakase.ai?
-    a: Omakase.ai is a voice AI chatbot that converts websites into interactive voice sales agents for real-time customer conversations. It offers setup via URL, context-aware responses, guided selling, and analytics without requiring technical expertise.  That is the core of what Omakase.ai does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Omakase.ai is a voice AI chatbot that converts websites into interactive voice sales agents for real-time customer conversations. It offers setup via URL, context-aware responses, guided selling, and analytics without requiring technical expertise. That is the core of what Omakase.ai does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Omakase.ai free?
     a: Omakase.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Omakase.ai?

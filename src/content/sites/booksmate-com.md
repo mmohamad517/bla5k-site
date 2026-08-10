@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Booksmate?
-    a: Booksmate.com is an AI-powered tool that automates invoice and receipt capture by scanning emails, supplier portals, and over 400 websites to extract expense data with up to 99.9% accuracy. It seamlessly syncs with accounting platforms like Xero, QuickBooks, and Google Sheets, streamlining workflows and reducing manual data entry for businesses and accountants. Accounting assistant Free trial That is the core of what Booksmate does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Booksmate.com is an AI-powered tool that automates invoice and receipt capture by scanning emails, supplier portals, and over 400 websites to extract expense data with up to 99.9% accuracy. It seamlessly syncs with accounting platforms like Xero, QuickBooks, and Google Sheets, streamlining workflows and reducing manual data entry for businesses and accountants. That is the core of what Booksmate does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Booksmate free?
     a: Booksmate uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Booksmate?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Booksmate e
 
 ## What is Booksmate?
 
-Booksmate.com is an AI-powered tool that automates invoice and receipt capture by scanning emails, supplier portals, and over 400 websites to extract expense data with up to 99.9% accuracy. It seamlessly syncs with accounting platforms like Xero, QuickBooks, and Google Sheets, streamlining workflows and reducing manual data entry for businesses and accountants. Accounting assistant Free trial
-
+Booksmate.com is an AI-powered tool that automates invoice and receipt capture by scanning emails, supplier portals, and over 400 websites to extract expense data with up to 99.9% accuracy. It seamlessly syncs with accounting platforms like Xero, QuickBooks, and Google Sheets, streamlining workflows and reducing manual data entry for businesses and accountants.
 In short, Booksmate is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users find that this one ability of Booksmate removes several tasks from their daily routine.
 
 ## Key features

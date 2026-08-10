@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Juphy 3.0?
-    a: Juphy is a 24/7 AI sales assistant for Shopify that automates product recommendations, answers FAQs, tracks orders, and manages Instagram Direct messages. It centralizes communication, applies smart tags, offers performance reports, and improves response time to boost conversions. Sales Subscription That is the core of what Juphy 3.0 does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Juphy is a 24/7 AI sales assistant for Shopify that automates product recommendations, answers FAQs, tracks orders, and manages Instagram Direct messages. It centralizes communication, applies smart tags, offers performance reports, and improves response time to boost conversions. That is the core of what Juphy 3.0 does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Juphy 3.0 free?
     a: Juphy 3.0 is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Juphy 3.0?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Juphy 3.0 e
 
 ## What is Juphy 3.0?
 
-Juphy is a 24/7 AI sales assistant for Shopify that automates product recommendations, answers FAQs, tracks orders, and manages Instagram Direct messages. It centralizes communication, applies smart tags, offers performance reports, and improves response time to boost conversions. Sales Subscription
-
+Juphy is a 24/7 AI sales assistant for Shopify that automates product recommendations, answers FAQs, tracks orders, and manages Instagram Direct messages. It centralizes communication, applies smart tags, offers performance reports, and improves response time to boost conversions.
 In short, Juphy 3.0 is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. Many users discover that this feature of Juphy 3.0 alone covers what previously took multiple tools.
 
 ## Key features

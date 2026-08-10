@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Hermes Agent?
-    a: Hermes Agent is an open-source agent framework for building and deploying autonomous AI agents and developer workflows, offering multi-model adapters, runtime model switching, integrated tools (code execution, browser automation, image and file ops, messaging), plugin extensibility, and scheduler.  That is the core of what Hermes Agent does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Hermes Agent is an open-source agent framework for building and deploying autonomous AI agents and developer workflows, offering multi-model adapters, runtime model switching, integrated tools (code execution, browser automation, image and file ops, messaging), plugin extensibility, and scheduler. That is the core of what Hermes Agent does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Hermes Agent free?
     a: Yes — Hermes Agent is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Hermes Agent?

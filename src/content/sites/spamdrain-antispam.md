@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Spamdrain antispam?
-    a: Effortlessly declutter your inbox with SpamDrain Anti-Spam AI Tool. This smart filter effectively blocks spam, viruses, and automated emails on various devices, providing personalized email management for enhanced productivity. Communication Automation Free trial - $2.42/mo That is the core of what Spamdrain antispam does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Effortlessly declutter your inbox with SpamDrain Anti-Spam AI Tool. This smart filter effectively blocks spam, viruses, and automated emails on various devices, providing personalized email management for enhanced productivity. That is the core of what Spamdrain antispam does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Spamdrain antispam free?
     a: Spamdrain antispam uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $2.42/mo, check the official website — pricing changes often.
   - q: What can you do with Spamdrain antispam?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Spamdrain antisp
 
 ## What is Spamdrain antispam?
 
-Effortlessly declutter your inbox with SpamDrain Anti-Spam AI Tool. This smart filter effectively blocks spam, viruses, and automated emails on various devices, providing personalized email management for enhanced productivity. Communication Automation Free trial - $2.42/mo
-
+Effortlessly declutter your inbox with SpamDrain Anti-Spam AI Tool. This smart filter effectively blocks spam, viruses, and automated emails on various devices, providing personalized email management for enhanced productivity.
 In short, Spamdrain antispam is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. Many users find that this one ability of Spamdrain antispam removes several tasks from their daily routine.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Little-Coder?
-    a: little-coder is a Pi-based coding agent for running 5–25 GB local LLMs via llama.cpp or Ollama, offering Python/Node CLIs and TypeScript extensions, reproducible benchmarks, build/serve guides, and tools for local code generation, on-device development, and evaluation.  That is the core of what Little-Coder does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: little-coder is a Pi-based coding agent for running 5–25 GB local LLMs via llama.cpp or Ollama, offering Python/Node CLIs and TypeScript extensions, reproducible benchmarks, build/serve guides, and tools for local code generation, on-device development, and evaluation. That is the core of what Little-Coder does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Little-Coder free?
     a: Yes — Little-Coder is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Little-Coder?

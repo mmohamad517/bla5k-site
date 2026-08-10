@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Assembly?
-    a: Assembly is an employee recognition platform that automates peer shout‑outs, milestone celebrations, and point‑based rewards. It integrates with Slack, Teams, BambooHR, and HR systems, offering managers dashboards, AI prompts, community spaces, and mobile‑first recognition to boost culture, retention, and productivity.  That is the core of what Assembly does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Assembly is an employee recognition platform that automates peer shout‑outs, milestone celebrations, and point‑based rewards. It integrates with Slack, Teams, BambooHR, and HR systems, offering managers dashboards, AI prompts, community spaces, and mobile‑first recognition to boost culture, retention, and productivity. That is the core of what Assembly does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Assembly free?
     a: Assembly is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Assembly?

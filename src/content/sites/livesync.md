@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Livesync?
-    a: "##liveSync is a real-time face swap tool for live streaming and video conferencing, allowing users to create realistic avatars and characters. It integrates with platforms like YouTube, Twitch, and Zoom, enhancing interactivity and customizability for various content creators.  That is the core of what Livesync does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "##liveSync is a real-time face swap tool for live streaming and video conferencing, allowing users to create realistic avatars and characters. It integrates with platforms like YouTube, Twitch, and Zoom, enhancing interactivity and customizability for various content creators. That is the core of what Livesync does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is Livesync free?
     a: Livesync uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9/mo, check the official website — pricing changes often.
   - q: What can you do with Livesync?

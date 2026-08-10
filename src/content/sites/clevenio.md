@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Clevenio?
-    a: Clevenio is a B2B sales intelligence platform offering multi‑channel outreach, automated follow‑ups, and pipeline management. Its Target Group Builder pulls real‑time data for 80‑90 % coverage, while lead segmentation and analytics streamline admin tasks and boost conversion.  That is the core of what Clevenio does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Clevenio is a B2B sales intelligence platform offering multi‑channel outreach, automated follow‑ups, and pipeline management. Its Target Group Builder pulls real‑time data for 80‑90 % coverage, while lead segmentation and analytics streamline admin tasks and boost conversion. That is the core of what Clevenio does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Clevenio free?
     a: Clevenio is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Clevenio?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Receipt AI?
-    a: Receipt AI captures receipts via SMS, email, or upload, extracts date, vendor, amount, line items, and renames, categorizes, encrypts, and syncs them to QuickBooks or Xero. It supports multiple formats, 39 languages, detects duplicates, and allows direct approval in accounting software.  That is the core of what Receipt AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Receipt AI captures receipts via SMS, email, or upload, extracts date, vendor, amount, line items, and renames, categorizes, encrypts, and syncs them to QuickBooks or Xero. It supports multiple formats, 39 languages, detects duplicates, and allows direct approval in accounting software. That is the core of what Receipt AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Receipt AI free?
     a: Receipt AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Receipt AI?

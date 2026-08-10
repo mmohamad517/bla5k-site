@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is WanDesk AI?
-    a: WanDesk AI is a local desktop workspace for building and running AI-powered apps, modules, and interactive fiction from natural language descriptions. It combines chat, notebook, ledger, and board tools with a unified memory system, enabling cross-app workflows and no-code app generation that runs entirely on the user’s machine. App Builder Freemium That is the core of what WanDesk AI does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: WanDesk AI is a local desktop workspace for building and running AI-powered apps, modules, and interactive fiction from natural language descriptions. It combines chat, notebook, ledger, and board tools with a unified memory system, enabling cross-app workflows and no-code app generation that runs entirely on the user’s machine. That is the core of what WanDesk AI does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is WanDesk AI free?
     a: WanDesk AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with WanDesk AI?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like WanDesk AI 
 
 ## What is WanDesk AI?
 
-WanDesk AI is a local desktop workspace for building and running AI-powered apps, modules, and interactive fiction from natural language descriptions. It combines chat, notebook, ledger, and board tools with a unified memory system, enabling cross-app workflows and no-code app generation that runs entirely on the user’s machine. App Builder Freemium
-
+WanDesk AI is a local desktop workspace for building and running AI-powered apps, modules, and interactive fiction from natural language descriptions. It combines chat, notebook, ledger, and board tools with a unified memory system, enabling cross-app workflows and no-code app generation that runs entirely on the user’s machine.
 In short, WanDesk AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. That single feature of WanDesk AI alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

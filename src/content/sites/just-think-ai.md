@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Just Think AI?
-    a: Just Think AI offers a single platform for AI‑generated content, including chatbot research, text‑to‑speech, text‑to‑image, and image‑to‑video. It supplies lesson‑plan templates, writer briefs, multilingual support, and team collaboration workspace. AI Assistant Free trial That is the core of what Just Think AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Just Think AI offers a single platform for AI‑generated content, including chatbot research, text‑to‑speech, text‑to‑image, and image‑to‑video. It supplies lesson‑plan templates, writer briefs, multilingual support, and team collaboration workspace. That is the core of what Just Think AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Just Think AI free?
     a: Just Think AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Just Think AI?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Just Think AI?
 
-Just Think AI offers a single platform for AI‑generated content, including chatbot research, text‑to‑speech, text‑to‑image, and image‑to‑video. It supplies lesson‑plan templates, writer briefs, multilingual support, and team collaboration workspace. AI Assistant Free trial
-
+Just Think AI offers a single platform for AI‑generated content, including chatbot research, text‑to‑speech, text‑to‑image, and image‑to‑video. It supplies lesson‑plan templates, writer briefs, multilingual support, and team collaboration workspace.
 In short, Just Think AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one feature of Just Think AI often eliminates several smaller steps from the usual workflow.
 
 ## Key features

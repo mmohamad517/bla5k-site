@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CYTK?
-    a: CYTK transforms maintenance manuals, multimedia and service data into a mobile AI search platform for technicians, delivering on-site, voice-enabled access to verified repair procedures, diagnostics and step-by-step instructions, with integrations, offline support and secure versioning. Business Free That is the core of what CYTK does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CYTK transforms maintenance manuals, multimedia and service data into a mobile AI search platform for technicians, delivering on-site, voice-enabled access to verified repair procedures, diagnostics and step-by-step instructions, with integrations, offline support and secure versioning. That is the core of what CYTK does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CYTK free?
     a: Yes — CYTK is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with CYTK?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like CYTK matter
 
 ## What is CYTK?
 
-CYTK transforms maintenance manuals, multimedia and service data into a mobile AI search platform for technicians, delivering on-site, voice-enabled access to verified repair procedures, diagnostics and step-by-step instructions, with integrations, offline support and secure versioning. Business Free
-
+CYTK transforms maintenance manuals, multimedia and service data into a mobile AI search platform for technicians, delivering on-site, voice-enabled access to verified repair procedures, diagnostics and step-by-step instructions, with integrations, offline support and secure versioning.
 In short, CYTK is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. That one capability of CYTK frequently saves users from juggling several separate steps.
 
 ## Key features

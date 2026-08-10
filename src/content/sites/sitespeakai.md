@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SiteSpeakAI?
-    a: SiteSpeakAI automates customer support with a custom-trained GPT chatbot, handling up to 300 tickets monthly. Train it with diverse sources, track visitor interactions for better knowledge base and enhance lead conversion rates. Knowledge base management Free trial That is the core of what SiteSpeakAI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SiteSpeakAI automates customer support with a custom-trained GPT chatbot, handling up to 300 tickets monthly. Train it with diverse sources, track visitor interactions for better knowledge base and enhance lead conversion rates. That is the core of what SiteSpeakAI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SiteSpeakAI free?
     a: SiteSpeakAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with SiteSpeakAI?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like SiteSpeakAI
 
 ## What is SiteSpeakAI?
 
-SiteSpeakAI automates customer support with a custom-trained GPT chatbot, handling up to 300 tickets monthly. Train it with diverse sources, track visitor interactions for better knowledge base and enhance lead conversion rates. Knowledge base management Free trial
-
+SiteSpeakAI automates customer support with a custom-trained GPT chatbot, handling up to 300 tickets monthly. Train it with diverse sources, track visitor interactions for better knowledge base and enhance lead conversion rates.
 In short, SiteSpeakAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. Many users find that this one ability of SiteSpeakAI removes several tasks from their daily routine.
 
 ## Key features

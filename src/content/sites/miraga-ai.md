@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Miraga AI?
-    a: Miraga AI is a realistic image and video generator that turns text prompts into photo-realistic visuals and short clips. It offers adjustable controls for style, aspect ratio, and resolution, with batch processing and API integration for streamlined creative workflows.  That is the core of what Miraga AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Miraga AI is a realistic image and video generator that turns text prompts into photo-realistic visuals and short clips. It offers adjustable controls for style, aspect ratio, and resolution, with batch processing and API integration for streamlined creative workflows. That is the core of what Miraga AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Miraga AI free?
     a: Miraga AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Miraga AI?

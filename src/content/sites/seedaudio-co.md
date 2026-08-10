@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SeedAudio.co?
-    a: seedaudio.co is a multimodal AI audio studio that transforms text, images, and reference clips into layered sound scenes with multi-speaker dialogue, ambient beds, and SFX. It preserves separate stems for each element, enabling seamless mixing and voice-consistent, session-length generation. Audio generation Freemium - $9.99/mo That is the core of what SeedAudio.co does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: seedaudio.co is a multimodal AI audio studio that transforms text, images, and reference clips into layered sound scenes with multi-speaker dialogue, ambient beds, and SFX. It preserves separate stems for each element, enabling seamless mixing and voice-consistent, session-length generation. That is the core of what SeedAudio.co does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SeedAudio.co free?
     a: SeedAudio.co uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9.99/mo, check the official website — pricing changes often.
   - q: What can you do with SeedAudio.co?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like SeedAudio.c
 
 ## What is SeedAudio.co?
 
-seedaudio.co is a multimodal AI audio studio that transforms text, images, and reference clips into layered sound scenes with multi-speaker dialogue, ambient beds, and SFX. It preserves separate stems for each element, enabling seamless mixing and voice-consistent, session-length generation. Audio generation Freemium - $9.99/mo
-
+seedaudio.co is a multimodal AI audio studio that transforms text, images, and reference clips into layered sound scenes with multi-speaker dialogue, ambient beds, and SFX. It preserves separate stems for each element, enabling seamless mixing and voice-consistent, session-length generation.
 In short, SeedAudio.co is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. That one feature of SeedAudio.co often eliminates several smaller steps from the usual workflow.
 
 ## Key features

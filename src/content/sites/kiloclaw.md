@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is KiloClaw?
-    a: KiloClaw is a hosted platform for deploying and managing OpenClaw AI agents. It provides managed infrastructure, access to 500+ models, and integrations with 50+ chat platforms and tools for automation.  That is the core of what KiloClaw does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: KiloClaw is a hosted platform for deploying and managing OpenClaw AI agents. It provides managed infrastructure, access to 500+ models, and integrations with 50+ chat platforms and tools for automation. That is the core of what KiloClaw does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is KiloClaw free?
     a: KiloClaw uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9/mo, check the official website — pricing changes often.
   - q: What can you do with KiloClaw?

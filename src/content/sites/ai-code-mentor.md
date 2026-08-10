@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Code Mentor?
-    a: AI Code Mentor analyzes pasted JavaScript, Python, HTML, and CSS, providing detailed explanations, complexity metrics, automated refactoring, and code‑review alerts for errors and best‑practice violations, helping learners and developers improve code quality and efficiency. Code assistant Freemium That is the core of what AI Code Mentor does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Code Mentor analyzes pasted JavaScript, Python, HTML, and CSS, providing detailed explanations, complexity metrics, automated refactoring, and code‑review alerts for errors and best‑practice violations, helping learners and developers improve code quality and efficiency. That is the core of what AI Code Mentor does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI Code Mentor free?
     a: AI Code Mentor uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AI Code Mentor?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like AI Code Mentor e
 
 ## What is AI Code Mentor?
 
-AI Code Mentor analyzes pasted JavaScript, Python, HTML, and CSS, providing detailed explanations, complexity metrics, automated refactoring, and code‑review alerts for errors and best‑practice violations, helping learners and developers improve code quality and efficiency. Code assistant Freemium
-
+AI Code Mentor analyzes pasted JavaScript, Python, HTML, and CSS, providing detailed explanations, complexity metrics, automated refactoring, and code‑review alerts for errors and best‑practice violations, helping learners and developers improve code quality and efficiency.
 In short, AI Code Mentor is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of AI Code Mentor replaces several steps they used to do by hand.
 
 ## Key features

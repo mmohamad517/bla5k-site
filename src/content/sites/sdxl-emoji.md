@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SDXL emoji?
-    a: The fofr/sdxl-emoji AI tool is an API that generates images based on Apple emojis with various features and a fast runtime of 15.18 seconds. Content creation Freemium - $0.012 That is the core of what SDXL emoji does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: The fofr/sdxl-emoji AI tool is an API that generates images based on Apple emojis with various features and a fast runtime of 15.18 seconds. That is the core of what SDXL emoji does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SDXL emoji free?
     a: SDXL emoji uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $0.012, check the official website — pricing changes often.
   - q: What can you do with SDXL emoji?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is SDXL emoji?
 
-The fofr/sdxl-emoji AI tool is an API that generates images based on Apple emojis with various features and a fast runtime of 15.18 seconds. Content creation Freemium - $0.012
-
+The fofr/sdxl-emoji AI tool is an API that generates images based on Apple emojis with various features and a fast runtime of 15.18 seconds.
 In short, SDXL emoji is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. Many users find that this one ability of SDXL emoji removes several tasks from their daily routine.
 
 ## Key features

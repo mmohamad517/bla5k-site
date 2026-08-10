@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Faceless?
-    a: Faceless.video automates full video production—script, edit, publish—without on‑screen talent. Users set themed series, connect social accounts, and let AI create and post 24/7, while monitoring growth to boost engagement and retention.  That is the core of what Faceless does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Faceless.video automates full video production—script, edit, publish—without on‑screen talent. Users set themed series, connect social accounts, and let AI create and post 24/7, while monitoring growth to boost engagement and retention. That is the core of what Faceless does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Faceless free?
     a: Faceless is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Faceless?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Reviewly ai?
-    a: Reviewly gathers Google reviews via SMS, QR, NFC, and review plates, automates request sending, analyzes sentiment, drafts responses, offers scheduling, bulk uploads, CRM integration, and dashboards for performance tracking worldwide. Customer support Subscription - $99/mo That is the core of what Reviewly ai does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Reviewly gathers Google reviews via SMS, QR, NFC, and review plates, automates request sending, analyzes sentiment, drafts responses, offers scheduling, bulk uploads, CRM integration, and dashboards for performance tracking worldwide. That is the core of what Reviewly ai does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Reviewly ai free?
     a: Reviewly ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Reviewly ai?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Reviewly ai
 
 ## What is Reviewly ai?
 
-Reviewly gathers Google reviews via SMS, QR, NFC, and review plates, automates request sending, analyzes sentiment, drafts responses, offers scheduling, bulk uploads, CRM integration, and dashboards for performance tracking worldwide. Customer support Subscription - $99/mo
-
+Reviewly gathers Google reviews via SMS, QR, NFC, and review plates, automates request sending, analyzes sentiment, drafts responses, offers scheduling, bulk uploads, CRM integration, and dashboards for performance tracking worldwide.
 In short, Reviewly ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. Many users discover that this feature of Reviewly ai alone covers what previously took multiple tools.
 
 ## Key features

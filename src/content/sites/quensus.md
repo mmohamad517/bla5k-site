@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Quensus?
-    a: Quensus is an AI‑powered water management system that detects leaks instantly, automatically shuts off valves, and supplies real‑time flow analytics. It integrates with building controls, supports compliance, and reduces insurance risk across commercial, residential, and industrial sites.  That is the core of what Quensus does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Quensus is an AI‑powered water management system that detects leaks instantly, automatically shuts off valves, and supplies real‑time flow analytics. It integrates with building controls, supports compliance, and reduces insurance risk across commercial, residential, and industrial sites. That is the core of what Quensus does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Quensus free?
     a: Yes — Quensus is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Quensus?

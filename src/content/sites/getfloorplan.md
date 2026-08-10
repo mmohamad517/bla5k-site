@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is GetFloorPlan?
-    a: Getfloorplan converts JPG, PNG, or PDF floor plans into detailed 2D and 3D visualizations, including full‑color renders and 360° virtual tours. Upload a single file, AI renders it, QA verifies, and results are delivered within 24 hours.  That is the core of what GetFloorPlan does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Getfloorplan converts JPG, PNG, or PDF floor plans into detailed 2D and 3D visualizations, including full‑color renders and 360° virtual tours. Upload a single file, AI renders it, QA verifies, and results are delivered within 24 hours. That is the core of what GetFloorPlan does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is GetFloorPlan free?
     a: GetFloorPlan is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with GetFloorPlan?

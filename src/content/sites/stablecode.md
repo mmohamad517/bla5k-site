@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is StableCode?
-    a: StableCode is an innovative LLM-powered AI tool for coding assistance and learning. It enhances programmer productivity while serving as a resourceful teaching aid for beginners.  That is the core of what StableCode does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: StableCode is an innovative LLM-powered AI tool for coding assistance and learning. It enhances programmer productivity while serving as a resourceful teaching aid for beginners. That is the core of what StableCode does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is StableCode free?
     a: StableCode uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with StableCode?

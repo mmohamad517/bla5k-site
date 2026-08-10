@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is wotnot.io?
-    a: WotNot is a no‑code AI agent platform that builds multilingual chatbots from websites and documents. It offers live chat, reporting, ticketing/CRM integration, lead generation, and enterprise security with analytics for ongoing performance improvement. Omnichannel chatbot Paid That is the core of what wotnot.io does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: WotNot is a no‑code AI agent platform that builds multilingual chatbots from websites and documents. It offers live chat, reporting, ticketing/CRM integration, lead generation, and enterprise security with analytics for ongoing performance improvement. That is the core of what wotnot.io does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is wotnot.io free?
     a: wotnot.io is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with wotnot.io?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is wotnot.io?
 
-WotNot is a no‑code AI agent platform that builds multilingual chatbots from websites and documents. It offers live chat, reporting, ticketing/CRM integration, lead generation, and enterprise security with analytics for ongoing performance improvement. Omnichannel chatbot Paid
-
+WotNot is a no‑code AI agent platform that builds multilingual chatbots from websites and documents. It offers live chat, reporting, ticketing/CRM integration, lead generation, and enterprise security with analytics for ongoing performance improvement.
 In short, wotnot.io is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. Many users find that this one ability of wotnot.io removes several tasks from their daily routine.
 
 ## Key features

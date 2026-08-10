@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Fanfuel?
-    a: Fanfuel is an AI suite for YouTube creators, offering thumbnail generation, script creation, SEO metadata, and conversational analytics, enabling streamlined production, better search visibility, and easier engagement insights for individual creators and small studios. Content creation Subscription - $29/mo That is the core of what Fanfuel does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Fanfuel is an AI suite for YouTube creators, offering thumbnail generation, script creation, SEO metadata, and conversational analytics, enabling streamlined production, better search visibility, and easier engagement insights for individual creators and small studios. That is the core of what Fanfuel does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Fanfuel free?
     a: Fanfuel is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Fanfuel?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Fanfuel?
 
-Fanfuel is an AI suite for YouTube creators, offering thumbnail generation, script creation, SEO metadata, and conversational analytics, enabling streamlined production, better search visibility, and easier engagement insights for individual creators and small studios. Content creation Subscription - $29/mo
-
+Fanfuel is an AI suite for YouTube creators, offering thumbnail generation, script creation, SEO metadata, and conversational analytics, enabling streamlined production, better search visibility, and easier engagement insights for individual creators and small studios.
 In short, Fanfuel is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. Many users discover that this feature of Fanfuel alone covers what previously took multiple tools.
 
 ## Key features

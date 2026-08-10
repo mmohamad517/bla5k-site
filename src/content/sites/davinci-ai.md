@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is DaVinci AI?
-    a: DaVinci is an all-in-one generative media platform utilizing over 50 AI models to swiftly create high-quality visual content for diverse channels, including social media, advertising, and branding. Art Generation Free trial That is the core of what DaVinci AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: DaVinci is an all-in-one generative media platform utilizing over 50 AI models to swiftly create high-quality visual content for diverse channels, including social media, advertising, and branding. That is the core of what DaVinci AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is DaVinci AI free?
     a: DaVinci AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with DaVinci AI?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is DaVinci AI?
 
-DaVinci is an all-in-one generative media platform utilizing over 50 AI models to swiftly create high-quality visual content for diverse channels, including social media, advertising, and branding. Art Generation Free trial
-
+DaVinci is an all-in-one generative media platform utilizing over 50 AI models to swiftly create high-quality visual content for diverse channels, including social media, advertising, and branding.
 In short, DaVinci AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. Many users find that this one ability of DaVinci AI removes several tasks from their daily routine.
 
 ## Key features

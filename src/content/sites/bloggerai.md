@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is BloggerAI?
-    a: BloggerAI uses GPT to create, rewrite, summarize, and translate blog content into 10+ languages. It imports URLs, applies custom prompts, auto‑generates SEO meta descriptions and links, with real token‑based pricing via the user’s API key. Content Writing Freemium That is the core of what BloggerAI does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: BloggerAI uses GPT to create, rewrite, summarize, and translate blog content into 10+ languages. It imports URLs, applies custom prompts, auto‑generates SEO meta descriptions and links, with real token‑based pricing via the user’s API key. That is the core of what BloggerAI does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is BloggerAI free?
     a: BloggerAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with BloggerAI?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is BloggerAI?
 
-BloggerAI uses GPT to create, rewrite, summarize, and translate blog content into 10+ languages. It imports URLs, applies custom prompts, auto‑generates SEO meta descriptions and links, with real token‑based pricing via the user’s API key. Content Writing Freemium
-
+BloggerAI uses GPT to create, rewrite, summarize, and translate blog content into 10+ languages. It imports URLs, applies custom prompts, auto‑generates SEO meta descriptions and links, with real token‑based pricing via the user’s API key.
 In short, BloggerAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For plenty of users, that one capability of BloggerAI replaces several steps they used to do by hand.
 
 ## Key features

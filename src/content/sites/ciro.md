@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ciro?
-    a: Ciro is an AI tool that automates prospecting for sales teams by generating detailed prospect lists from a database of over 500 million contacts. It enriches data, integrates with CRMs, and simplifies lead management with one-click additions. Sales Subscription That is the core of what Ciro does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ciro is an AI tool that automates prospecting for sales teams by generating detailed prospect lists from a database of over 500 million contacts. It enriches data, integrates with CRMs, and simplifies lead management with one-click additions. That is the core of what Ciro does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ciro free?
     a: Ciro is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Ciro?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Ciro?
 
-Ciro is an AI tool that automates prospecting for sales teams by generating detailed prospect lists from a database of over 500 million contacts. It enriches data, integrates with CRMs, and simplifies lead management with one-click additions. Sales Subscription
-
+Ciro is an AI tool that automates prospecting for sales teams by generating detailed prospect lists from a database of over 500 million contacts. It enriches data, integrates with CRMs, and simplifies lead management with one-click additions.
 In short, Ciro is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. Many users find that this one ability of Ciro removes several tasks from their daily routine.
 
 ## Key features

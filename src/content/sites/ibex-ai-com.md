@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ibex-ai.com?
-    a: ibex offers AI-powered cancer diagnostics with innovative deep learning technology. Trusted by pathologists worldwide, it enhances cancer detection accuracy, especially for small foci and higher-grade cancers, leading to better patient outcomes.  That is the core of what ibex-ai.com does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ibex offers AI-powered cancer diagnostics with innovative deep learning technology. Trusted by pathologists worldwide, it enhances cancer detection accuracy, especially for small foci and higher-grade cancers, leading to better patient outcomes. That is the core of what ibex-ai.com does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ibex-ai.com free?
     a: ibex-ai.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ibex-ai.com?

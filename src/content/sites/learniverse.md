@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Learniverse?
-    a: Learniverse delivers personalized AI‑generated courses that adapt to your goals and progress. Using ChatGPT and curated resources, it offers hands‑on lessons, coding challenges, research exploration, quizzes, tutorials, and a mobile interface with an integrated editor. Course Generator Freemium That is the core of what Learniverse does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Learniverse delivers personalized AI‑generated courses that adapt to your goals and progress. Using ChatGPT and curated resources, it offers hands‑on lessons, coding challenges, research exploration, quizzes, tutorials, and a mobile interface with an integrated editor. That is the core of what Learniverse does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Learniverse free?
     a: Learniverse uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Learniverse?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Learni
 
 ## What is Learniverse?
 
-Learniverse delivers personalized AI‑generated courses that adapt to your goals and progress. Using ChatGPT and curated resources, it offers hands‑on lessons, coding challenges, research exploration, quizzes, tutorials, and a mobile interface with an integrated editor. Course Generator Freemium
-
+Learniverse delivers personalized AI‑generated courses that adapt to your goals and progress. Using ChatGPT and curated resources, it offers hands‑on lessons, coding challenges, research exploration, quizzes, tutorials, and a mobile interface with an integrated editor.
 In short, Learniverse is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. That one capability of Learniverse frequently saves users from juggling several separate steps.
 
 ## Key features

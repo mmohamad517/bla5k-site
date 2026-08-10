@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is HeyVoli?
-    a: HeyVoli is an all-in-one AI tool for writing, copywriting, and voiceover generation. It facilitates users to create SEO-optimized content, social media posts, AI images, and voiceovers while providing code assistance and diverse creation features. Copywriting Freemium That is the core of what HeyVoli does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: HeyVoli is an all-in-one AI tool for writing, copywriting, and voiceover generation. It facilitates users to create SEO-optimized content, social media posts, AI images, and voiceovers while providing code assistance and diverse creation features. That is the core of what HeyVoli does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is HeyVoli free?
     a: HeyVoli uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with HeyVoli?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is HeyVoli?
 
-HeyVoli is an all-in-one AI tool for writing, copywriting, and voiceover generation. It facilitates users to create SEO-optimized content, social media posts, AI images, and voiceovers while providing code assistance and diverse creation features. Copywriting Freemium
-
+HeyVoli is an all-in-one AI tool for writing, copywriting, and voiceover generation. It facilitates users to create SEO-optimized content, social media posts, AI images, and voiceovers while providing code assistance and diverse creation features.
 In short, HeyVoli is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. Many users discover that this feature of HeyVoli alone covers what previously took multiple tools.
 
 ## Key features

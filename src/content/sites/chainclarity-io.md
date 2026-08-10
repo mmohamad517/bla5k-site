@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ChainClarity?
-    a: ChainClarity offers AI‑driven, concise explanations of over 500 crypto whitepapers from major Layer 1 and Layer 2 projects. Users can search, filter, export summaries, and request new explanations to streamline research workflows for developers and researchers. Crypto and Web3 1 0 Subscription That is the core of what ChainClarity does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ChainClarity offers AI‑driven, concise explanations of over 500 crypto whitepapers from major Layer 1 and Layer 2 projects. Users can search, filter, export summaries, and request new explanations to streamline research workflows for developers and researchers. That is the core of what ChainClarity does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ChainClarity free?
     a: ChainClarity is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with ChainClarity?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is ChainClarity?
 
-ChainClarity offers AI‑driven, concise explanations of over 500 crypto whitepapers from major Layer 1 and Layer 2 projects. Users can search, filter, export summaries, and request new explanations to streamline research workflows for developers and researchers. Crypto and Web3 1 0 Subscription
-
+ChainClarity offers AI‑driven, concise explanations of over 500 crypto whitepapers from major Layer 1 and Layer 2 projects. Users can search, filter, export summaries, and request new explanations to streamline research workflows for developers and researchers.
 In short, ChainClarity is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. For a lot of people, that one function of ChainClarity collapses multiple steps into a single action.
 
 ## Key features

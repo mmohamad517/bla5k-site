@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Sixty?
-    a: Sixty AI manages inboxes, schedules, agendas, and meeting briefs, offers custom daily snapshots, alerts on changes, and birthday reminders. It filters email noise, reduces interruptions, helping professionals focus on critical tasks. Personal assistant Freemium That is the core of what Sixty does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Sixty AI manages inboxes, schedules, agendas, and meeting briefs, offers custom daily snapshots, alerts on changes, and birthday reminders. It filters email noise, reduces interruptions, helping professionals focus on critical tasks. That is the core of what Sixty does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Sixty free?
     a: Sixty uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Sixty?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Sixty earn their
 
 ## What is Sixty?
 
-Sixty AI manages inboxes, schedules, agendas, and meeting briefs, offers custom daily snapshots, alerts on changes, and birthday reminders. It filters email noise, reduces interruptions, helping professionals focus on critical tasks. Personal assistant Freemium
-
+Sixty AI manages inboxes, schedules, agendas, and meeting briefs, offers custom daily snapshots, alerts on changes, and birthday reminders. It filters email noise, reduces interruptions, helping professionals focus on critical tasks.
 In short, Sixty is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many, that single strength of Sixty is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

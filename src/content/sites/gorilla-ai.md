@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Gorilla AI?
-    a: Gorilla Terminal centralizes investment data for traders and analysts, offering AI‑driven earnings call sentiment, macro indicators, SEC filings, insider activity, risk‑management models, and real‑time news to enable rapid, data‑driven decisions.  That is the core of what Gorilla AI does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Gorilla Terminal centralizes investment data for traders and analysts, offering AI‑driven earnings call sentiment, macro indicators, SEC filings, insider activity, risk‑management models, and real‑time news to enable rapid, data‑driven decisions. That is the core of what Gorilla AI does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Gorilla AI free?
     a: Gorilla AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Gorilla AI?

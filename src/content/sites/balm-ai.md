@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Balm.ai?
-    a: Balm.ai delivers personalized, evidence‑based care for women with PCOS, offering tailored nutrition and exercise plans, hormone‑specific supplement guidance, AI‑tracked symptom monitoring, weekly coaching, 24/7 community support, virtual expert consultations across geographies. Coaching Subscription That is the core of what Balm.ai does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Balm.ai delivers personalized, evidence‑based care for women with PCOS, offering tailored nutrition and exercise plans, hormone‑specific supplement guidance, AI‑tracked symptom monitoring, weekly coaching, 24/7 community support, virtual expert consultations across geographies. That is the core of what Balm.ai does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Balm.ai free?
     a: Balm.ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Balm.ai?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Balm.ai ear
 
 ## What is Balm.ai?
 
-Balm.ai delivers personalized, evidence‑based care for women with PCOS, offering tailored nutrition and exercise plans, hormone‑specific supplement guidance, AI‑tracked symptom monitoring, weekly coaching, 24/7 community support, virtual expert consultations across geographies. Coaching Subscription
-
+Balm.ai delivers personalized, evidence‑based care for women with PCOS, offering tailored nutrition and exercise plans, hormone‑specific supplement guidance, AI‑tracked symptom monitoring, weekly coaching, 24/7 community support, virtual expert consultations across geographies.
 In short, Balm.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. Many users find that this one ability of Balm.ai removes several tasks from their daily routine.
 
 ## Key features

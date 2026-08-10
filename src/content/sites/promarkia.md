@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Promarkia?
-    a: ProMarkia is an AI marketing platform that automates various marketing tasks, including report generation, SEO analysis, and content creation. It enhances productivity with features for social media management, account-based marketing, and seamless publishing across multiple channels.  That is the core of what Promarkia does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ProMarkia is an AI marketing platform that automates various marketing tasks, including report generation, SEO analysis, and content creation. It enhances productivity with features for social media management, account-based marketing, and seamless publishing across multiple channels. That is the core of what Promarkia does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Promarkia free?
     a: Yes — Promarkia is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Promarkia?

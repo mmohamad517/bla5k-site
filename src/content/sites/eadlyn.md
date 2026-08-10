@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Eadlyn?
-    a: Eadlyn uses AI to clone portraits and voices from user‑provided audio, images, or text. Upload content, and within minutes the platform generates realistic visual or audio renditions. Unlimited model creation and daily generation support extensive content production. Avatar Subscription - $9.9/mo That is the core of what Eadlyn does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Eadlyn uses AI to clone portraits and voices from user‑provided audio, images, or text. Upload content, and within minutes the platform generates realistic visual or audio renditions. Unlimited model creation and daily generation support extensive content production. That is the core of what Eadlyn does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Eadlyn free?
     a: Eadlyn is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Eadlyn?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Eadlyn
 
 ## What is Eadlyn?
 
-Eadlyn uses AI to clone portraits and voices from user‑provided audio, images, or text. Upload content, and within minutes the platform generates realistic visual or audio renditions. Unlimited model creation and daily generation support extensive content production. Avatar Subscription - $9.9/mo
-
+Eadlyn uses AI to clone portraits and voices from user‑provided audio, images, or text. Upload content, and within minutes the platform generates realistic visual or audio renditions. Unlimited model creation and daily generation support extensive content production.
 In short, Eadlyn is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. That single feature of Eadlyn alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ReplyAgent?
-    a: ReplyAgent.ai is an AI-powered Reddit marketing tool that automatically finds relevant conversations and generates authentic, context-aware comments. It features smart targeting, persona-based replies, and built-in anti-spam to drive engagement and traffic efficiently.  That is the core of what ReplyAgent does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ReplyAgent.ai is an AI-powered Reddit marketing tool that automatically finds relevant conversations and generates authentic, context-aware comments. It features smart targeting, persona-based replies, and built-in anti-spam to drive engagement and traffic efficiently. That is the core of what ReplyAgent does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ReplyAgent free?
     a: ReplyAgent uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ReplyAgent?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Pic Copilot?
-    a: Pic Copilot AI provides e‑commerce brands with AI‑driven image creation, including virtual try‑on, model swaps, background removal, color adjustments, and multilingual text translation. It auto‑generates marketing visuals and page layouts, cutting design time and boosting visual quality and conversions.  That is the core of what Pic Copilot does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Pic Copilot AI provides e‑commerce brands with AI‑driven image creation, including virtual try‑on, model swaps, background removal, color adjustments, and multilingual text translation. It auto‑generates marketing visuals and page layouts, cutting design time and boosting visual quality and conversions. That is the core of what Pic Copilot does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Pic Copilot free?
     a: Pic Copilot uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $14.9/mo, check the official website — pricing changes often.
   - q: What can you do with Pic Copilot?

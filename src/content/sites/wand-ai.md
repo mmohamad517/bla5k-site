@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Wand AI?
-    a: Wand enables governments and enterprises to build, manage, and scale hybrid AI agent and human workforces. It offers unified oversight dashboards, SOC2‑ready security, cross‑tool interoperability, and scalable, accountable agent execution. AI Agents Freemium - $2/mo That is the core of what Wand AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Wand enables governments and enterprises to build, manage, and scale hybrid AI agent and human workforces. It offers unified oversight dashboards, SOC2‑ready security, cross‑tool interoperability, and scalable, accountable agent execution. That is the core of what Wand AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Wand AI free?
     a: Wand AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $2/mo, check the official website — pricing changes often.
   - q: What can you do with Wand AI?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Wand AI mat
 
 ## What is Wand AI?
 
-Wand enables governments and enterprises to build, manage, and scale hybrid AI agent and human workforces. It offers unified oversight dashboards, SOC2‑ready security, cross‑tool interoperability, and scalable, accountable agent execution. AI Agents Freemium - $2/mo
-
+Wand enables governments and enterprises to build, manage, and scale hybrid AI agent and human workforces. It offers unified oversight dashboards, SOC2‑ready security, cross‑tool interoperability, and scalable, accountable agent execution.
 In short, Wand AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That single feature of Wand AI alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Vetzi.io?
-    a: AI Vet Scribe converts visit recordings and notes into structured SOAP clinical records, client emails, and discharge instructions using customizable templates, integrations, and secure, searchable storage to streamline documentation, collaboration, billing, and compliance for veterinary practices. AI Agents Free That is the core of what Vetzi.io does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Vet Scribe converts visit recordings and notes into structured SOAP clinical records, client emails, and discharge instructions using customizable templates, integrations, and secure, searchable storage to streamline documentation, collaboration, billing, and compliance for veterinary practices. That is the core of what Vetzi.io does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Vetzi.io free?
     a: Yes — Vetzi.io is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Vetzi.io?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Vetzi.io?
 
-AI Vet Scribe converts visit recordings and notes into structured SOAP clinical records, client emails, and discharge instructions using customizable templates, integrations, and secure, searchable storage to streamline documentation, collaboration, billing, and compliance for veterinary practices. AI Agents Free
-
+AI Vet Scribe converts visit recordings and notes into structured SOAP clinical records, client emails, and discharge instructions using customizable templates, integrations, and secure, searchable storage to streamline documentation, collaboration, billing, and compliance for veterinary practices.
 In short, Vetzi.io is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That single feature of Vetzi.io alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

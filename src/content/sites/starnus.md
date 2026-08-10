@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Starnus?
-    a: Starnus is an autonomous AI sales employee that persistently executes multi-day tasks based on user-defined goals, providing updates and integrating seamlessly across CRM and social media platforms for end-to-end outbound workflow management.  That is the core of what Starnus does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Starnus is an autonomous AI sales employee that persistently executes multi-day tasks based on user-defined goals, providing updates and integrating seamlessly across CRM and social media platforms for end-to-end outbound workflow management. That is the core of what Starnus does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Starnus free?
     a: Starnus is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Starnus?

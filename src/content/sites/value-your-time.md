@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Value your time?
-    a: Value Time enables users to create shortened URLs and QR codes, easing the sharing process. It features a Chrome extension for quick access and an API for integration, making it useful for digital marketers and website owners. Marketing Subscription That is the core of what Value your time does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Value Time enables users to create shortened URLs and QR codes, easing the sharing process. It features a Chrome extension for quick access and an API for integration, making it useful for digital marketers and website owners. That is the core of what Value your time does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Value your time free?
     a: Value your time is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Value your time?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Value your time?
 
-Value Time enables users to create shortened URLs and QR codes, easing the sharing process. It features a Chrome extension for quick access and an API for integration, making it useful for digital marketers and website owners. Marketing Subscription
-
+Value Time enables users to create shortened URLs and QR codes, easing the sharing process. It features a Chrome extension for quick access and an API for integration, making it useful for digital marketers and website owners.
 In short, Value your time is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. Many users discover that this feature of Value your time alone covers what previously took multiple tools.
 
 ## Key features

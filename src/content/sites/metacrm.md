@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MetaCRM?
-    a: MetaCRM is an AI-powered web3 tool for customer service & marketing analytics. It harnesses smart contracts and blockchain data to deliver personalized experiences, automated services, and holistic solutions throughout the customer journey, facilitating intelligent decisions and effective marketing strategies.  That is the core of what MetaCRM does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: MetaCRM is an AI-powered web3 tool for customer service & marketing analytics. It harnesses smart contracts and blockchain data to deliver personalized experiences, automated services, and holistic solutions throughout the customer journey, facilitating intelligent decisions and effective marketing strategies. That is the core of what MetaCRM does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MetaCRM free?
     a: MetaCRM uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with MetaCRM?

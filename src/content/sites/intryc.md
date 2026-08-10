@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Intryc?
-    a: Intryc is an AI QA platform for customer experience teams that automates ticket evaluation with customizable scorecards, generates realistic simulations for onboarding, delivers instant coaching from QA results, and provides performance insights and integrations for scalable QA. Customer support Freemium That is the core of what Intryc does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Intryc is an AI QA platform for customer experience teams that automates ticket evaluation with customizable scorecards, generates realistic simulations for onboarding, delivers instant coaching from QA results, and provides performance insights and integrations for scalable QA. That is the core of what Intryc does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Intryc free?
     a: Intryc uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Intryc?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Intryc?
 
-Intryc is an AI QA platform for customer experience teams that automates ticket evaluation with customizable scorecards, generates realistic simulations for onboarding, delivers instant coaching from QA results, and provides performance insights and integrations for scalable QA. Customer support Freemium
-
+Intryc is an AI QA platform for customer experience teams that automates ticket evaluation with customizable scorecards, generates realistic simulations for onboarding, delivers instant coaching from QA results, and provides performance insights and integrations for scalable QA.
 In short, Intryc is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. That single feature of Intryc alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

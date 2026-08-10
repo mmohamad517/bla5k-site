@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PouncerAI?
-    a: PouncerAI optimizes Upwork profiles with AI‑generated keyword‑rich summaries and offers a proposal generator for tailored cover letters. Its Chrome extension auto‑fills proposals, tracks performance, and supports multi‑profile management, while community resources aid strategy improvement. Copywriting Free - $15/mo That is the core of what PouncerAI does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: PouncerAI optimizes Upwork profiles with AI‑generated keyword‑rich summaries and offers a proposal generator for tailored cover letters. Its Chrome extension auto‑fills proposals, tracks performance, and supports multi‑profile management, while community resources aid strategy improvement. That is the core of what PouncerAI does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is PouncerAI free?
     a: PouncerAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with PouncerAI?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is PouncerAI?
 
-PouncerAI optimizes Upwork profiles with AI‑generated keyword‑rich summaries and offers a proposal generator for tailored cover letters. Its Chrome extension auto‑fills proposals, tracks performance, and supports multi‑profile management, while community resources aid strategy improvement. Copywriting Free - $15/mo
-
+PouncerAI optimizes Upwork profiles with AI‑generated keyword‑rich summaries and offers a proposal generator for tailored cover letters. Its Chrome extension auto‑fills proposals, tracks performance, and supports multi‑profile management, while community resources aid strategy improvement.
 In short, PouncerAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. That one feature of PouncerAI often eliminates several smaller steps from the usual workflow.
 
 ## Key features

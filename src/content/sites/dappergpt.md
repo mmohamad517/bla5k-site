@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is DapperGPT?
-    a: DapperGPT consolidates multiple AI models—OpenAI, Anthropic, Gemini, Mistral, Grok, and Llama—into one chat interface that supports images, documents, and code uploads. It offers built‑in agents, custom toolchains, Spotlight search, folder organization, pinning, and browser‑extension integration, keeping data locally. Personal assistant Free That is the core of what DapperGPT does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: DapperGPT consolidates multiple AI models—OpenAI, Anthropic, Gemini, Mistral, Grok, and Llama—into one chat interface that supports images, documents, and code uploads. It offers built‑in agents, custom toolchains, Spotlight search, folder organization, pinning, and browser‑extension integration, keeping data locally. That is the core of what DapperGPT does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is DapperGPT free?
     a: Yes — DapperGPT is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with DapperGPT?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is DapperGPT?
 
-DapperGPT consolidates multiple AI models—OpenAI, Anthropic, Gemini, Mistral, Grok, and Llama—into one chat interface that supports images, documents, and code uploads. It offers built‑in agents, custom toolchains, Spotlight search, folder organization, pinning, and browser‑extension integration, keeping data locally. Personal assistant Free
-
+DapperGPT consolidates multiple AI models—OpenAI, Anthropic, Gemini, Mistral, Grok, and Llama—into one chat interface that supports images, documents, and code uploads. It offers built‑in agents, custom toolchains, Spotlight search, folder organization, pinning, and browser‑extension integration, keeping data locally.
 In short, DapperGPT is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For a lot of people, that one function of DapperGPT collapses multiple steps into a single action.
 
 ## Key features

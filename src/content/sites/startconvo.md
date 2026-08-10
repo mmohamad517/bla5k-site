@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is StartConvo?
-    a: StartConvo lets businesses build and embed custom AI chatbots across websites, apps, and channels. It offers multilingual support, knowledge‑base integration, analytics, live‑agent handoff, and voice, email, phone, and text capabilities for 24/7 service. Chatbot builder Subscription That is the core of what StartConvo does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: StartConvo lets businesses build and embed custom AI chatbots across websites, apps, and channels. It offers multilingual support, knowledge‑base integration, analytics, live‑agent handoff, and voice, email, phone, and text capabilities for 24/7 service. That is the core of what StartConvo does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is StartConvo free?
     a: StartConvo is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with StartConvo?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like StartConvo 
 
 ## What is StartConvo?
 
-StartConvo lets businesses build and embed custom AI chatbots across websites, apps, and channels. It offers multilingual support, knowledge‑base integration, analytics, live‑agent handoff, and voice, email, phone, and text capabilities for 24/7 service. Chatbot builder Subscription
-
+StartConvo lets businesses build and embed custom AI chatbots across websites, apps, and channels. It offers multilingual support, knowledge‑base integration, analytics, live‑agent handoff, and voice, email, phone, and text capabilities for 24/7 service.
 In short, StartConvo is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. Many users find that this one ability of StartConvo removes several tasks from their daily routine.
 
 ## Key features

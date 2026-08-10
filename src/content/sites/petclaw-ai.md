@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PetClaw AI?
-    a: PetClaw AI is a privacy-focused desktop AI assistant that runs locally on your computer. It uses voice or text to automate tasks, manage projects, and learn new skills, all while keeping your data secure on your device.  That is the core of what PetClaw AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: PetClaw AI is a privacy-focused desktop AI assistant that runs locally on your computer. It uses voice or text to automate tasks, manage projects, and learn new skills, all while keeping your data secure on your device. That is the core of what PetClaw AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is PetClaw AI free?
     a: PetClaw AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $20/mo, check the official website — pricing changes often.
   - q: What can you do with PetClaw AI?

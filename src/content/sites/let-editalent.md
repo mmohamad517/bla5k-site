@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is lET-Editalent?
-    a: LET-Editalent is an AI suite that assists journalists and content teams with SEO optimization, editorial research, and multi-platform formatting. It also provides speech-to-text transcription and generates compliant newsletters while adhering to factual accuracy and French editorial standards. Content creation Paid That is the core of what lET-Editalent does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: LET-Editalent is an AI suite that assists journalists and content teams with SEO optimization, editorial research, and multi-platform formatting. It also provides speech-to-text transcription and generates compliant newsletters while adhering to factual accuracy and French editorial standards. That is the core of what lET-Editalent does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is lET-Editalent free?
     a: lET-Editalent is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with lET-Editalent?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like lET-Editale
 
 ## What is lET-Editalent?
 
-LET-Editalent is an AI suite that assists journalists and content teams with SEO optimization, editorial research, and multi-platform formatting. It also provides speech-to-text transcription and generates compliant newsletters while adhering to factual accuracy and French editorial standards. Content creation Paid
-
+LET-Editalent is an AI suite that assists journalists and content teams with SEO optimization, editorial research, and multi-platform formatting. It also provides speech-to-text transcription and generates compliant newsletters while adhering to factual accuracy and French editorial standards.
 In short, lET-Editalent is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For many, that single strength of lET-Editalent is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

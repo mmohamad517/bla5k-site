@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Portals.co?
-    a: Portals.co is an AI-driven customer feedback platform that deploys popups and linkable forms across websites and email, auto-generates follow-up questions, aggregates responses for AI analysis, and produces summaries to surface feature requests, issues, and actionable insights. Customer support Free trial That is the core of what Portals.co does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Portals.co is an AI-driven customer feedback platform that deploys popups and linkable forms across websites and email, auto-generates follow-up questions, aggregates responses for AI analysis, and produces summaries to surface feature requests, issues, and actionable insights. That is the core of what Portals.co does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Portals.co free?
     a: Portals.co uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Portals.co?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Portals.co?
 
-Portals.co is an AI-driven customer feedback platform that deploys popups and linkable forms across websites and email, auto-generates follow-up questions, aggregates responses for AI analysis, and produces summaries to surface feature requests, issues, and actionable insights. Customer support Free trial
-
+Portals.co is an AI-driven customer feedback platform that deploys popups and linkable forms across websites and email, auto-generates follow-up questions, aggregates responses for AI analysis, and produces summaries to surface feature requests, issues, and actionable insights.
 In short, Portals.co is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. That one feature of Portals.co often eliminates several smaller steps from the usual workflow.
 
 ## Key features

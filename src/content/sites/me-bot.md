@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Me.bot?
-    a: Me.bot generates a personalized digital avatar from user notes, audio, and recordings, delivering voice‑and‑visual presentations tailored to any audience. It syncs content locally, learns voice tone, tracks engagement, and protects data with end‑to‑end encryption and homomorphic privacy safeguards. Personal assistant Freemium - $10/mo That is the core of what Me.bot does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Me.bot generates a personalized digital avatar from user notes, audio, and recordings, delivering voice‑and‑visual presentations tailored to any audience. It syncs content locally, learns voice tone, tracks engagement, and protects data with end‑to‑end encryption and homomorphic privacy safeguards. That is the core of what Me.bot does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Me.bot free?
     a: Me.bot uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $10/mo, check the official website — pricing changes often.
   - q: What can you do with Me.bot?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Me.bot?
 
-Me.bot generates a personalized digital avatar from user notes, audio, and recordings, delivering voice‑and‑visual presentations tailored to any audience. It syncs content locally, learns voice tone, tracks engagement, and protects data with end‑to‑end encryption and homomorphic privacy safeguards. Personal assistant Freemium - $10/mo
-
+Me.bot generates a personalized digital avatar from user notes, audio, and recordings, delivering voice‑and‑visual presentations tailored to any audience. It syncs content locally, learns voice tone, tracks engagement, and protects data with end‑to‑end encryption and homomorphic privacy safeguards.
 In short, Me.bot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For a lot of people, that one function of Me.bot collapses multiple steps into a single action.
 
 ## Key features

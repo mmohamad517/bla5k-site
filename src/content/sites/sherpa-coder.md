@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Sherpa Coder?
-    a: Sherpa Coder enhances VS Code for developers by integrating OpenAI assistants for context-aware suggestions, custom assistants, and secure account management, streamlining the coding process for both individual programmers and collaborative teams. Code assistant Freemium That is the core of what Sherpa Coder does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Sherpa Coder enhances VS Code for developers by integrating OpenAI assistants for context-aware suggestions, custom assistants, and secure account management, streamlining the coding process for both individual programmers and collaborative teams. That is the core of what Sherpa Coder does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Sherpa Coder free?
     a: Sherpa Coder uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Sherpa Coder?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Sherpa Coder?
 
-Sherpa Coder enhances VS Code for developers by integrating OpenAI assistants for context-aware suggestions, custom assistants, and secure account management, streamlining the coding process for both individual programmers and collaborative teams. Code assistant Freemium
-
+Sherpa Coder enhances VS Code for developers by integrating OpenAI assistants for context-aware suggestions, custom assistants, and secure account management, streamlining the coding process for both individual programmers and collaborative teams.
 In short, Sherpa Coder is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users find that this one ability of Sherpa Coder removes several tasks from their daily routine.
 
 ## Key features

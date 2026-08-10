@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Fello AI?
-    a: Fello is an AI platform for real estate professionals that enriches databases, enhances lead quality, and automates targeted marketing campaigns, enabling agents to convert buyer leads to seller leads while integrating seamlessly with existing CRM systems. Marketing Subscription - $199/mo That is the core of what Fello AI does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Fello is an AI platform for real estate professionals that enriches databases, enhances lead quality, and automates targeted marketing campaigns, enabling agents to convert buyer leads to seller leads while integrating seamlessly with existing CRM systems. That is the core of what Fello AI does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Fello AI free?
     a: Fello AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Fello AI?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Fello 
 
 ## What is Fello AI?
 
-Fello is an AI platform for real estate professionals that enriches databases, enhances lead quality, and automates targeted marketing campaigns, enabling agents to convert buyer leads to seller leads while integrating seamlessly with existing CRM systems. Marketing Subscription - $199/mo
-
+Fello is an AI platform for real estate professionals that enriches databases, enhances lead quality, and automates targeted marketing campaigns, enabling agents to convert buyer leads to seller leads while integrating seamlessly with existing CRM systems.
 In short, Fello AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That one capability of Fello AI frequently saves users from juggling several separate steps.
 
 ## Key features

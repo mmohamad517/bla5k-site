@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Epicly AI?
-    a: Epicly AI streamlines digital ad campaign creation, enabling faster content production and consistent brand management. It offers real-time collaboration, instant publishing on multiple platforms, and AI-driven frameworks for optimized engagement and performance tracking. Marketing Free trial - $129/mo That is the core of what Epicly AI does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Epicly AI streamlines digital ad campaign creation, enabling faster content production and consistent brand management. It offers real-time collaboration, instant publishing on multiple platforms, and AI-driven frameworks for optimized engagement and performance tracking. That is the core of what Epicly AI does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Epicly AI free?
     a: Epicly AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $129/mo, check the official website — pricing changes often.
   - q: What can you do with Epicly AI?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Epicly AI?
 
-Epicly AI streamlines digital ad campaign creation, enabling faster content production and consistent brand management. It offers real-time collaboration, instant publishing on multiple platforms, and AI-driven frameworks for optimized engagement and performance tracking. Marketing Free trial - $129/mo
-
+Epicly AI streamlines digital ad campaign creation, enabling faster content production and consistent brand management. It offers real-time collaboration, instant publishing on multiple platforms, and AI-driven frameworks for optimized engagement and performance tracking.
 In short, Epicly AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. Many users find that this one ability of Epicly AI removes several tasks from their daily routine.
 
 ## Key features

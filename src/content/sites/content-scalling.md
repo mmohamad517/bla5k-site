@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Content Scalling - Notion Content?
-    a: Notion Content Creation System uses custom GPTs to automate content ideation, drafting, and repurposing within Notion. It converts links, PDFs, transcripts into platform‑specific posts, offers calendars, collaboration, and Google Drive/Buffer publishing. Content Writing Paid - $199 That is the core of what Content Scalling - Notion Content does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Notion Content Creation System uses custom GPTs to automate content ideation, drafting, and repurposing within Notion. It converts links, PDFs, transcripts into platform‑specific posts, offers calendars, collaboration, and Google Drive/Buffer publishing. That is the core of what Content Scalling - Notion Content does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Content Scalling - Notion Content free?
     a: Content Scalling - Notion Content is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Content Scalling - Notion Content?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Content Scalling - Notion Content?
 
-Notion Content Creation System uses custom GPTs to automate content ideation, drafting, and repurposing within Notion. It converts links, PDFs, transcripts into platform‑specific posts, offers calendars, collaboration, and Google Drive/Buffer publishing. Content Writing Paid - $199
-
+Notion Content Creation System uses custom GPTs to automate content ideation, drafting, and repurposing within Notion. It converts links, PDFs, transcripts into platform‑specific posts, offers calendars, collaboration, and Google Drive/Buffer publishing.
 In short, Content Scalling - Notion Content is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. Many users discover that this feature of Content Scalling - Notion Content alone covers what previously took multiple tools.
 
 ## Key features

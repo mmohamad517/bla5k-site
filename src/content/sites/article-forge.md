@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Article Forge?
-    a: Article Forge automatically generates up to 1,500‑word articles from keyword prompts, producing SEO‑aligned sections and subheadings. It delivers unique, plagiarism‑free copy that can be edited for tone and batch‑created via API for high‑volume content workflows. Article writer Subscription - $13/mo That is the core of what Article Forge does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Article Forge automatically generates up to 1,500‑word articles from keyword prompts, producing SEO‑aligned sections and subheadings. It delivers unique, plagiarism‑free copy that can be edited for tone and batch‑created via API for high‑volume content workflows. That is the core of what Article Forge does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Article Forge free?
     a: Article Forge is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Article Forge?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Article For
 
 ## What is Article Forge?
 
-Article Forge automatically generates up to 1,500‑word articles from keyword prompts, producing SEO‑aligned sections and subheadings. It delivers unique, plagiarism‑free copy that can be edited for tone and batch‑created via API for high‑volume content workflows. Article writer Subscription - $13/mo
-
+Article Forge automatically generates up to 1,500‑word articles from keyword prompts, producing SEO‑aligned sections and subheadings. It delivers unique, plagiarism‑free copy that can be edited for tone and batch‑created via API for high‑volume content workflows.
 In short, Article Forge is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. That one feature of Article Forge often eliminates several smaller steps from the usual workflow.
 
 ## Key features

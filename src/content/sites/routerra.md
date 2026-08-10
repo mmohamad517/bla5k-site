@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Routerra?
-    a: Routerra optimizes delivery and fleet routes with AI-assisted bulk stop import, traffic-aware routing, stop constraints (time windows, priorities), vehicle and route restrictions, manual adjustments, large-stop handling, exportable plans and direct navigation for drivers and dispatch. Business Free trial That is the core of what Routerra does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Routerra optimizes delivery and fleet routes with AI-assisted bulk stop import, traffic-aware routing, stop constraints (time windows, priorities), vehicle and route restrictions, manual adjustments, large-stop handling, exportable plans and direct navigation for drivers and dispatch. That is the core of what Routerra does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Routerra free?
     a: Routerra uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Routerra?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Routerra earn th
 
 ## What is Routerra?
 
-Routerra optimizes delivery and fleet routes with AI-assisted bulk stop import, traffic-aware routing, stop constraints (time windows, priorities), vehicle and route restrictions, manual adjustments, large-stop handling, exportable plans and direct navigation for drivers and dispatch. Business Free trial
-
+Routerra optimizes delivery and fleet routes with AI-assisted bulk stop import, traffic-aware routing, stop constraints (time windows, priorities), vehicle and route restrictions, manual adjustments, large-stop handling, exportable plans and direct navigation for drivers and dispatch.
 In short, Routerra is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. That one capability of Routerra frequently saves users from juggling several separate steps.
 
 ## Key features

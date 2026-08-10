@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is artiphoria AI?
-    a: Artiphoria AI generates high‑resolution, customizable images with one click, supporting 30+ art styles and mediums. It produces photorealistic, 3D‑rendered visuals at 4K, enabling batch creation for social media, ads, and print‑on‑demand, speeding up design for creators and agencies.  That is the core of what artiphoria AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Artiphoria AI generates high‑resolution, customizable images with one click, supporting 30+ art styles and mediums. It produces photorealistic, 3D‑rendered visuals at 4K, enabling batch creation for social media, ads, and print‑on‑demand, speeding up design for creators and agencies. That is the core of what artiphoria AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is artiphoria AI free?
     a: artiphoria AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with artiphoria AI?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AIBanana.net?
-    a: AIBanana.net is an AI image generator that creates and edits images from text descriptions in seconds. It specializes in high-identity accuracy, batch processing, and smart prompts for professional e-commerce and marketing content.  That is the core of what AIBanana.net does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AIBanana.net is an AI image generator that creates and edits images from text descriptions in seconds. It specializes in high-identity accuracy, batch processing, and smart prompts for professional e-commerce and marketing content. That is the core of what AIBanana.net does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AIBanana.net free?
     a: AIBanana.net uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AIBanana.net?

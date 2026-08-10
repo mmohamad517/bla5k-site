@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Jinba Flow?
-    a: Jinba is an AI workflow automation platform combining a visual builder (Jinba Flow) and runtime (Jinba App) to orchestrate AI-driven tasks, feature-flag integration, and product analytics for enterprise processes across banking, insurance, manufacturing, legal, and sales. Workflow Automation Freemium That is the core of what Jinba Flow does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Jinba is an AI workflow automation platform combining a visual builder (Jinba Flow) and runtime (Jinba App) to orchestrate AI-driven tasks, feature-flag integration, and product analytics for enterprise processes across banking, insurance, manufacturing, legal, and sales. That is the core of what Jinba Flow does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Jinba Flow free?
     a: Jinba Flow uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Jinba Flow?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Jinba Flow?
 
-Jinba is an AI workflow automation platform combining a visual builder (Jinba Flow) and runtime (Jinba App) to orchestrate AI-driven tasks, feature-flag integration, and product analytics for enterprise processes across banking, insurance, manufacturing, legal, and sales. Workflow Automation Freemium
-
+Jinba is an AI workflow automation platform combining a visual builder (Jinba Flow) and runtime (Jinba App) to orchestrate AI-driven tasks, feature-flag integration, and product analytics for enterprise processes across banking, insurance, manufacturing, legal, and sales.
 In short, Jinba Flow is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. For many, that single strength of Jinba Flow is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

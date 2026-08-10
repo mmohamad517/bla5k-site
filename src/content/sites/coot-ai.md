@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Coot AI?
-    a: Coot AI combines human expertise with AI accuracy to deliver customized solutions swiftly. It integrates with multiple AI tools, allows team collaboration, and offers advanced functionalities such as PDF scanning and demo creation for enhanced project outcomes. AI Assistant Freemium That is the core of what Coot AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Coot AI combines human expertise with AI accuracy to deliver customized solutions swiftly. It integrates with multiple AI tools, allows team collaboration, and offers advanced functionalities such as PDF scanning and demo creation for enhanced project outcomes. That is the core of what Coot AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Coot AI free?
     a: Coot AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Coot AI?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Coot AI earn the
 
 ## What is Coot AI?
 
-Coot AI combines human expertise with AI accuracy to deliver customized solutions swiftly. It integrates with multiple AI tools, allows team collaboration, and offers advanced functionalities such as PDF scanning and demo creation for enhanced project outcomes. AI Assistant Freemium
-
+Coot AI combines human expertise with AI accuracy to deliver customized solutions swiftly. It integrates with multiple AI tools, allows team collaboration, and offers advanced functionalities such as PDF scanning and demo creation for enhanced project outcomes.
 In short, Coot AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of Coot AI replaces several steps they used to do by hand.
 
 ## Key features

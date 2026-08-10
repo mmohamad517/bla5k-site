@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is aiOS?
-    a: aiOS is an AI marketing automation platform that orchestrates GPT, Claude, and Gemini models with 1,200+ agentic skills to automate content creation, ad optimization, lead generation, and multi-channel publishing. It unifies sales, marketing, and operations workflows through a central dashboard with SOC 2 security and integrations for Shopify, social media, email, and SMS. Marketing Free trial That is the core of what aiOS does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: aiOS is an AI marketing automation platform that orchestrates GPT, Claude, and Gemini models with 1,200+ agentic skills to automate content creation, ad optimization, lead generation, and multi-channel publishing. It unifies sales, marketing, and operations workflows through a central dashboard with SOC 2 security and integrations for Shopify, social media, email, and SMS. That is the core of what aiOS does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is aiOS free?
     a: aiOS uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with aiOS?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is aiOS?
 
-aiOS is an AI marketing automation platform that orchestrates GPT, Claude, and Gemini models with 1,200+ agentic skills to automate content creation, ad optimization, lead generation, and multi-channel publishing. It unifies sales, marketing, and operations workflows through a central dashboard with SOC 2 security and integrations for Shopify, social media, email, and SMS. Marketing Free trial
-
+aiOS is an AI marketing automation platform that orchestrates GPT, Claude, and Gemini models with 1,200+ agentic skills to automate content creation, ad optimization, lead generation, and multi-channel publishing. It unifies sales, marketing, and operations workflows through a central dashboard with SOC 2 security and integrations for Shopify, social media, email, and SMS.
 In short, aiOS is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For a lot of people, that one function of aiOS collapses multiple steps into a single action.
 
 ## Key features

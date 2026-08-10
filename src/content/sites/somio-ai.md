@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Somio.ai?
-    a: Somio AI is a browser-based karaoke maker that instantly removes vocals and splits stems (drums, bass, piano, guitar) from any audio file, allowing users to adjust pitch, tempo, and trim tracks for ready-to-sing practice or content creation.  That is the core of what Somio.ai does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Somio AI is a browser-based karaoke maker that instantly removes vocals and splits stems (drums, bass, piano, guitar) from any audio file, allowing users to adjust pitch, tempo, and trim tracks for ready-to-sing practice or content creation. That is the core of what Somio.ai does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Somio.ai free?
     a: Yes — Somio.ai is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Somio.ai?

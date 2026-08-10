@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Etsy generator?
-    a: EtsyGenerator, an AI-powered tool to maximize Etsy shop potential. Generate high-quality descriptions, titles, and tags to improve search rankings and attract customers. It offers 15+ AI content generators for Etsy optimization.  That is the core of what Etsy generator does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: EtsyGenerator, an AI-powered tool to maximize Etsy shop potential. Generate high-quality descriptions, titles, and tags to improve search rankings and attract customers. It offers 15+ AI content generators for Etsy optimization. That is the core of what Etsy generator does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Etsy generator free?
     a: Etsy generator uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Etsy generator?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Humy.ai?
-    a: Humy.ai is an AI-powered education tool that provides personalized, one-on-one social studies & history tutoring through virtual historical figures. It prioritizes data privacy, aids teachers in time management, offers round-the-clock access, and enables quick creation of custom teaching assistants and study materials. AI Assistant Free trial That is the core of what Humy.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Humy.ai is an AI-powered education tool that provides personalized, one-on-one social studies & history tutoring through virtual historical figures. It prioritizes data privacy, aids teachers in time management, offers round-the-clock access, and enables quick creation of custom teaching assistants and study materials. That is the core of what Humy.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Humy.ai free?
     a: Humy.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Humy.ai?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Humy.ai?
 
-Humy.ai is an AI-powered education tool that provides personalized, one-on-one social studies & history tutoring through virtual historical figures. It prioritizes data privacy, aids teachers in time management, offers round-the-clock access, and enables quick creation of custom teaching assistants and study materials. AI Assistant Free trial
-
+Humy.ai is an AI-powered education tool that provides personalized, one-on-one social studies & history tutoring through virtual historical figures. It prioritizes data privacy, aids teachers in time management, offers round-the-clock access, and enables quick creation of custom teaching assistants and study materials.
 In short, Humy.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users discover that this feature of Humy.ai alone covers what previously took multiple tools.
 
 ## Key features

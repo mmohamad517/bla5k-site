@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: "What is Re:amaze?"
-    a: "Re:amaze unifies email, chat, social, SMS, VoIP, video, and push into a shared inbox, uses AI to draft replies, summarize, and analyze sentiment. Real‑time dashboards, workflow macros, co‑browsing, and integrations with Shopify, Slack, Jira, Zapier enhance support and automation.  That is the core of what Re:amaze does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "Re:amaze unifies email, chat, social, SMS, VoIP, video, and push into a shared inbox, uses AI to draft replies, summarize, and analyze sentiment. Real‑time dashboards, workflow macros, co‑browsing, and integrations with Shopify, Slack, Jira, Zapier enhance support and automation. That is the core of what Re:amaze does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: "Is Re:amaze free?"
     a: "Re:amaze uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $29/mo, check the official website — pricing changes often."
   - q: "What can you do with Re:amaze?"

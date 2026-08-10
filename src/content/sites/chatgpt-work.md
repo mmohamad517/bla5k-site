@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Chatgpt Work?
-    a: ChatGPT Work (GPT-5.6) consolidates context from files, apps, and 1,400+ plugins to generate documents, spreadsheets, presentations, dashboards, and prototypes, automate workflows, schedule tasks, and publish interactive reports for cross-team collaboration.  That is the core of what Chatgpt Work does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ChatGPT Work (GPT-5.6) consolidates context from files, apps, and 1,400+ plugins to generate documents, spreadsheets, presentations, dashboards, and prototypes, automate workflows, schedule tasks, and publish interactive reports for cross-team collaboration. That is the core of what Chatgpt Work does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Chatgpt Work free?
     a: Chatgpt Work uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Chatgpt Work?

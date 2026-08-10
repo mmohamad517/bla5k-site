@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Kravatar?
-    a: Kravatar generates high‑resolution custom avatars in seconds for gamers, streamers, and professionals. Avatars are stored securely in the cloud, accessible from any device, and can be exported to gaming, Twitch, YouTube, LinkedIn, and other social media. Avatar Freemium That is the core of what Kravatar does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Kravatar generates high‑resolution custom avatars in seconds for gamers, streamers, and professionals. Avatars are stored securely in the cloud, accessible from any device, and can be exported to gaming, Twitch, YouTube, LinkedIn, and other social media. That is the core of what Kravatar does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Kravatar free?
     a: Kravatar uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Kravatar?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Kravatar ea
 
 ## What is Kravatar?
 
-Kravatar generates high‑resolution custom avatars in seconds for gamers, streamers, and professionals. Avatars are stored securely in the cloud, accessible from any device, and can be exported to gaming, Twitch, YouTube, LinkedIn, and other social media. Avatar Freemium
-
+Kravatar generates high‑resolution custom avatars in seconds for gamers, streamers, and professionals. Avatars are stored securely in the cloud, accessible from any device, and can be exported to gaming, Twitch, YouTube, LinkedIn, and other social media.
 In short, Kravatar is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. For plenty of users, that one capability of Kravatar replaces several steps they used to do by hand.
 
 ## Key features

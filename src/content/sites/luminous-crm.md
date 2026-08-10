@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Luminous crm?
-    a: Luminous CRM is a WhatsApp engagement platform using the official API to send bulk promos, run AI‑driven chatbots, and support multi‑agent live chat. It integrates with e‑commerce, payment, and CRM systems, offering real‑time analytics, audience segmentation, and retargeting. Customer support Freemium That is the core of what Luminous crm does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Luminous CRM is a WhatsApp engagement platform using the official API to send bulk promos, run AI‑driven chatbots, and support multi‑agent live chat. It integrates with e‑commerce, payment, and CRM systems, offering real‑time analytics, audience segmentation, and retargeting. That is the core of what Luminous crm does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Luminous crm free?
     a: Luminous crm uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Luminous crm?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Luminous crm ear
 
 ## What is Luminous crm?
 
-Luminous CRM is a WhatsApp engagement platform using the official API to send bulk promos, run AI‑driven chatbots, and support multi‑agent live chat. It integrates with e‑commerce, payment, and CRM systems, offering real‑time analytics, audience segmentation, and retargeting. Customer support Freemium
-
+Luminous CRM is a WhatsApp engagement platform using the official API to send bulk promos, run AI‑driven chatbots, and support multi‑agent live chat. It integrates with e‑commerce, payment, and CRM systems, offering real‑time analytics, audience segmentation, and retargeting.
 In short, Luminous crm is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. That one feature of Luminous crm often eliminates several smaller steps from the usual workflow.
 
 ## Key features

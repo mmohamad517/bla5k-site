@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is VetRec?
-    a: Vet AI Scribe by VetRec simplifies veterinary documentation with a one-click recording feature, generating SOAP-style notes within 30 seconds. Customizable templates enhance specialization, while maintaining a complete record assists in patient history and compliance.  That is the core of what VetRec does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Vet AI Scribe by VetRec simplifies veterinary documentation with a one-click recording feature, generating SOAP-style notes within 30 seconds. Customizable templates enhance specialization, while maintaining a complete record assists in patient history and compliance. That is the core of what VetRec does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is VetRec free?
     a: VetRec uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with VetRec?

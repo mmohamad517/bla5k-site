@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is LeadFlux AI?
-    a: LeadFlux AI is an automated lead generation platform that builds targeted campaigns from ICP to outreach. It provides integrated content creation, multi-channel sequencing, and analytics to capture and nurture leads in one workflow. Sales Paid - $37 That is the core of what LeadFlux AI does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: LeadFlux AI is an automated lead generation platform that builds targeted campaigns from ICP to outreach. It provides integrated content creation, multi-channel sequencing, and analytics to capture and nurture leads in one workflow. That is the core of what LeadFlux AI does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is LeadFlux AI free?
     a: LeadFlux AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with LeadFlux AI?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is LeadFlux AI?
 
-LeadFlux AI is an automated lead generation platform that builds targeted campaigns from ICP to outreach. It provides integrated content creation, multi-channel sequencing, and analytics to capture and nurture leads in one workflow. Sales Paid - $37
-
+LeadFlux AI is an automated lead generation platform that builds targeted campaigns from ICP to outreach. It provides integrated content creation, multi-channel sequencing, and analytics to capture and nurture leads in one workflow.
 In short, LeadFlux AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For a lot of people, that one function of LeadFlux AI collapses multiple steps into a single action.
 
 ## Key features

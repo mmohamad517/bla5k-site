@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Fidforward?
-    a: FidForward is an AI‑driven outreach platform that aggregates, scores, and prioritizes leads for recruiters, sales, and BD teams. It supports custom filters, automated multi‑channel messaging, and integrates with Google Workspace, Outlook, and LinkedIn for efficient follow‑up tracking. Human resources Subscription - $99/mo That is the core of what Fidforward does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: FidForward is an AI‑driven outreach platform that aggregates, scores, and prioritizes leads for recruiters, sales, and BD teams. It supports custom filters, automated multi‑channel messaging, and integrates with Google Workspace, Outlook, and LinkedIn for efficient follow‑up tracking. That is the core of what Fidforward does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Fidforward free?
     a: Fidforward is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Fidforward?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Fidforward 
 
 ## What is Fidforward?
 
-FidForward is an AI‑driven outreach platform that aggregates, scores, and prioritizes leads for recruiters, sales, and BD teams. It supports custom filters, automated multi‑channel messaging, and integrates with Google Workspace, Outlook, and LinkedIn for efficient follow‑up tracking. Human resources Subscription - $99/mo
-
+FidForward is an AI‑driven outreach platform that aggregates, scores, and prioritizes leads for recruiters, sales, and BD teams. It supports custom filters, automated multi‑channel messaging, and integrates with Google Workspace, Outlook, and LinkedIn for efficient follow‑up tracking.
 In short, Fidforward is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. That single feature of Fidforward alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

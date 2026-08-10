@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MagicBuddy?
-    a: MagicBuddy is a ChatGPT-powered Telegram bot that delivers instant GPT responses inside Telegram, supporting text, voice and image input with transcription and analysis, plus code assistance, drafting/editing, and auto-detected native-language translation across 100+ languages. Chatbot builder Freemium That is the core of what MagicBuddy does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: MagicBuddy is a ChatGPT-powered Telegram bot that delivers instant GPT responses inside Telegram, supporting text, voice and image input with transcription and analysis, plus code assistance, drafting/editing, and auto-detected native-language translation across 100+ languages. That is the core of what MagicBuddy does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MagicBuddy free?
     a: MagicBuddy uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with MagicBuddy?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is MagicBuddy?
 
-MagicBuddy is a ChatGPT-powered Telegram bot that delivers instant GPT responses inside Telegram, supporting text, voice and image input with transcription and analysis, plus code assistance, drafting/editing, and auto-detected native-language translation across 100+ languages. Chatbot builder Freemium
-
+MagicBuddy is a ChatGPT-powered Telegram bot that delivers instant GPT responses inside Telegram, supporting text, voice and image input with transcription and analysis, plus code assistance, drafting/editing, and auto-detected native-language translation across 100+ languages.
 In short, MagicBuddy is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. That single feature of MagicBuddy alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

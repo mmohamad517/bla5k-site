@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is qodo.ai?
-    a: Qodo is an AI code-review platform that integrates with IDEs, pull requests, CLI and CI/CD to provide context-aware, cross-repo analysis, automated bug/security detection, test and docs suggestions, inline fix candidates, and configurable governance for enterprise workflows. Code assistant Freemium That is the core of what qodo.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Qodo is an AI code-review platform that integrates with IDEs, pull requests, CLI and CI/CD to provide context-aware, cross-repo analysis, automated bug/security detection, test and docs suggestions, inline fix candidates, and configurable governance for enterprise workflows. That is the core of what qodo.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is qodo.ai free?
     a: qodo.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with qodo.ai?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is qodo.ai?
 
-Qodo is an AI code-review platform that integrates with IDEs, pull requests, CLI and CI/CD to provide context-aware, cross-repo analysis, automated bug/security detection, test and docs suggestions, inline fix candidates, and configurable governance for enterprise workflows. Code assistant Freemium
-
+Qodo is an AI code-review platform that integrates with IDEs, pull requests, CLI and CI/CD to provide context-aware, cross-repo analysis, automated bug/security detection, test and docs suggestions, inline fix candidates, and configurable governance for enterprise workflows.
 In short, qodo.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one capability of qodo.ai frequently saves users from juggling several separate steps.
 
 ## Key features

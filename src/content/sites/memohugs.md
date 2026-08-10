@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MemoHugs?
-    a: MemoHugs captures personal memories through chat, documents, photos, and video to build a memoir dataset. It creates a digital avatar that mirrors the user’s voice and personality, offering interactive advice, storytelling, and educational conversations while preserving legacy. Avatar Freemium That is the core of what MemoHugs does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: MemoHugs captures personal memories through chat, documents, photos, and video to build a memoir dataset. It creates a digital avatar that mirrors the user’s voice and personality, offering interactive advice, storytelling, and educational conversations while preserving legacy. That is the core of what MemoHugs does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MemoHugs free?
     a: MemoHugs uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with MemoHugs?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is MemoHugs?
 
-MemoHugs captures personal memories through chat, documents, photos, and video to build a memoir dataset. It creates a digital avatar that mirrors the user’s voice and personality, offering interactive advice, storytelling, and educational conversations while preserving legacy. Avatar Freemium
-
+MemoHugs captures personal memories through chat, documents, photos, and video to build a memoir dataset. It creates a digital avatar that mirrors the user’s voice and personality, offering interactive advice, storytelling, and educational conversations while preserving legacy.
 In short, MemoHugs is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. Many users find that this one ability of MemoHugs removes several tasks from their daily routine.
 
 ## Key features

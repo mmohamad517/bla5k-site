@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI YouTube Title Generator- PackaPop?
-    a: AI YouTube Title-Generator-PackaPopis a free tool that generates engaging, data-driven video titles to boost click-through rates. Simply input your topic to instantly receive 10 optimized, creator-proven title ideas directly in your browser.  That is the core of what AI YouTube Title Generator- PackaPop does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI YouTube Title-Generator-PackaPopis a free tool that generates engaging, data-driven video titles to boost click-through rates. Simply input your topic to instantly receive 10 optimized, creator-proven title ideas directly in your browser. That is the core of what AI YouTube Title Generator- PackaPop does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI YouTube Title Generator- PackaPop free?
     a: Yes — AI YouTube Title Generator- PackaPop is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with AI YouTube Title Generator- PackaPop?

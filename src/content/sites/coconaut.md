@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Coconaut?
-    a: Coconaut.ai enables rapid chatbot deployment by training models from uploaded PDFs or website URLs. It uses GPT‑3.5 or GPT‑4, supports multiple bots, quotas, secure data storage, and embeds with a single line of code.  That is the core of what Coconaut does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Coconaut.ai enables rapid chatbot deployment by training models from uploaded PDFs or website URLs. It uses GPT‑3.5 or GPT‑4, supports multiple bots, quotas, secure data storage, and embeds with a single line of code. That is the core of what Coconaut does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Coconaut free?
     a: Coconaut is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Coconaut?

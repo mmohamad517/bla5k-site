@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PESTEL?
-    a: Enter a brief company description and the AI generates a detailed PESTEL analysis, automatically identifying political, economic, social, technological, environmental, and legal factors. Users can edit entries and export the final report as a high‑resolution image. Business planning Subscription That is the core of what PESTEL does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Enter a brief company description and the AI generates a detailed PESTEL analysis, automatically identifying political, economic, social, technological, environmental, and legal factors. Users can edit entries and export the final report as a high‑resolution image. That is the core of what PESTEL does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is PESTEL free?
     a: PESTEL is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with PESTEL?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like PESTEL earn
 
 ## What is PESTEL?
 
-Enter a brief company description and the AI generates a detailed PESTEL analysis, automatically identifying political, economic, social, technological, environmental, and legal factors. Users can edit entries and export the final report as a high‑resolution image. Business planning Subscription
-
+Enter a brief company description and the AI generates a detailed PESTEL analysis, automatically identifying political, economic, social, technological, environmental, and legal factors. Users can edit entries and export the final report as a high‑resolution image.
 In short, PESTEL is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI planning without the manual grind. Many users discover that this feature of PESTEL alone covers what previously took multiple tools.
 
 ## Key features

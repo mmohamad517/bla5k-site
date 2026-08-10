@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SEOpital?
-    a: SEOpital uses AI to cluster keywords, analyze SERPs, and pinpoint ranking factors. It generates optimized articles, enriches existing content, tracks positions via Search Console, flags cannibalization, supports multiple languages, and suggests titles, images, and links.  That is the core of what SEOpital does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SEOpital uses AI to cluster keywords, analyze SERPs, and pinpoint ranking factors. It generates optimized articles, enriches existing content, tracks positions via Search Console, flags cannibalization, supports multiple languages, and suggests titles, images, and links. That is the core of what SEOpital does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SEOpital free?
     a: Yes — SEOpital is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with SEOpital?

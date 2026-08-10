@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Dreamlyze?
-    a: Dreamlyze lets users log dreams quickly and receive AI‑generated interpretations that highlight key themes and emotions. It tracks recurring motifs, visualizes trends, and offers data for psychologists and researchers, aiding personal insight into subconscious patterns. Personal assistant Paid That is the core of what Dreamlyze does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Dreamlyze lets users log dreams quickly and receive AI‑generated interpretations that highlight key themes and emotions. It tracks recurring motifs, visualizes trends, and offers data for psychologists and researchers, aiding personal insight into subconscious patterns. That is the core of what Dreamlyze does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Dreamlyze free?
     a: Dreamlyze is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Dreamlyze?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Dreamlyze?
 
-Dreamlyze lets users log dreams quickly and receive AI‑generated interpretations that highlight key themes and emotions. It tracks recurring motifs, visualizes trends, and offers data for psychologists and researchers, aiding personal insight into subconscious patterns. Personal assistant Paid
-
+Dreamlyze lets users log dreams quickly and receive AI‑generated interpretations that highlight key themes and emotions. It tracks recurring motifs, visualizes trends, and offers data for psychologists and researchers, aiding personal insight into subconscious patterns.
 In short, Dreamlyze is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users find that this one ability of Dreamlyze removes several tasks from their daily routine.
 
 ## Key features

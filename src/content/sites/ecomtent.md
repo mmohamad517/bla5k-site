@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ecomtent?
-    a: Ecomtent automates high‑quality product images, infographics, and copy for Amazon, Walmart, eBay, and other marketplaces, ensuring platform‑compliant visuals with realistic lighting and shadows. It optimizes listings for AI search engines, supports localization and regulatory compliance, and tracks performance across channels. Content creation Paid That is the core of what Ecomtent does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ecomtent automates high‑quality product images, infographics, and copy for Amazon, Walmart, eBay, and other marketplaces, ensuring platform‑compliant visuals with realistic lighting and shadows. It optimizes listings for AI search engines, supports localization and regulatory compliance, and tracks performance across channels. That is the core of what Ecomtent does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ecomtent free?
     a: Ecomtent is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Ecomtent?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Ecomtent ea
 
 ## What is Ecomtent?
 
-Ecomtent automates high‑quality product images, infographics, and copy for Amazon, Walmart, eBay, and other marketplaces, ensuring platform‑compliant visuals with realistic lighting and shadows. It optimizes listings for AI search engines, supports localization and regulatory compliance, and tracks performance across channels. Content creation Paid
-
+Ecomtent automates high‑quality product images, infographics, and copy for Amazon, Walmart, eBay, and other marketplaces, ensuring platform‑compliant visuals with realistic lighting and shadows. It optimizes listings for AI search engines, supports localization and regulatory compliance, and tracks performance across channels.
 In short, Ecomtent is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. Many users find that this one ability of Ecomtent removes several tasks from their daily routine.
 
 ## Key features

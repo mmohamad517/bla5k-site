@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is isFake AI?
-    a: isFake.ai is a deepfake detection tool that identifies AI-generated content across text, images, audio, and video. It provides instant analysis and transparent scoring to help verify the authenticity of digital media.  That is the core of what isFake AI does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: isFake.ai is a deepfake detection tool that identifies AI-generated content across text, images, audio, and video. It provides instant analysis and transparent scoring to help verify the authenticity of digital media. That is the core of what isFake AI does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is isFake AI free?
     a: isFake AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9/mo, check the official website — pricing changes often.
   - q: What can you do with isFake AI?

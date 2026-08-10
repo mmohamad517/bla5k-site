@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Flow Leads?
-    a: Flow Leads is an e-commerce lead generation tool that provides access to over 12 million stores, offering decision-makers' contact information for targeted outreach. It features advanced targeting tools and a 93% data accuracy rate for effective lead acquisition. Sales Free trial That is the core of what Flow Leads does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Flow Leads is an e-commerce lead generation tool that provides access to over 12 million stores, offering decision-makers' contact information for targeted outreach. It features advanced targeting tools and a 93% data accuracy rate for effective lead acquisition. That is the core of what Flow Leads does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Flow Leads free?
     a: Flow Leads uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Flow Leads?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Flow Leads?
 
-Flow Leads is an e-commerce lead generation tool that provides access to over 12 million stores, offering decision-makers' contact information for targeted outreach. It features advanced targeting tools and a 93% data accuracy rate for effective lead acquisition. Sales Free trial
-
+Flow Leads is an e-commerce lead generation tool that provides access to over 12 million stores, offering decision-makers' contact information for targeted outreach. It features advanced targeting tools and a 93% data accuracy rate for effective lead acquisition.
 In short, Flow Leads is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. Many users discover that this feature of Flow Leads alone covers what previously took multiple tools.
 
 ## Key features

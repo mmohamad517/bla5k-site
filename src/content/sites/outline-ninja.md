@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Outline Ninja?
-    a: AI Infographic Generator turns keywords or full articles into ready‑to‑publish infographics using a library of templates and customizable icons. It outputs SEO‑friendly FAQ schema, WordPress embed code, and allows brand‑specific colors and fonts. Content creation Subscription - $5/mo That is the core of what Outline Ninja does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Infographic Generator turns keywords or full articles into ready‑to‑publish infographics using a library of templates and customizable icons. It outputs SEO‑friendly FAQ schema, WordPress embed code, and allows brand‑specific colors and fonts. That is the core of what Outline Ninja does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Outline Ninja free?
     a: Outline Ninja is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Outline Ninja?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Outline Nin
 
 ## What is Outline Ninja?
 
-AI Infographic Generator turns keywords or full articles into ready‑to‑publish infographics using a library of templates and customizable icons. It outputs SEO‑friendly FAQ schema, WordPress embed code, and allows brand‑specific colors and fonts. Content creation Subscription - $5/mo
-
+AI Infographic Generator turns keywords or full articles into ready‑to‑publish infographics using a library of templates and customizable icons. It outputs SEO‑friendly FAQ schema, WordPress embed code, and allows brand‑specific colors and fonts.
 In short, Outline Ninja is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. That single feature of Outline Ninja alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Manuel?
-    a: Manuel is an AI assistant for installation companies, providing instant access to thousands of fault codes, guides, and maintenance tips for heat pumps and boilers. It enhances service quality and speeds up troubleshooting, ensuring consistent knowledge across teams. Customer support Freemium That is the core of what Manuel does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Manuel is an AI assistant for installation companies, providing instant access to thousands of fault codes, guides, and maintenance tips for heat pumps and boilers. It enhances service quality and speeds up troubleshooting, ensuring consistent knowledge across teams. That is the core of what Manuel does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Manuel free?
     a: Manuel uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Manuel?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Manuel
 
 ## What is Manuel?
 
-Manuel is an AI assistant for installation companies, providing instant access to thousands of fault codes, guides, and maintenance tips for heat pumps and boilers. It enhances service quality and speeds up troubleshooting, ensuring consistent knowledge across teams. Customer support Freemium
-
+Manuel is an AI assistant for installation companies, providing instant access to thousands of fault codes, guides, and maintenance tips for heat pumps and boilers. It enhances service quality and speeds up troubleshooting, ensuring consistent knowledge across teams.
 In short, Manuel is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For many, that single strength of Manuel is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

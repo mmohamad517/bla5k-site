@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is HueHive?
-    a: HueHive is an AI‑driven palette generator that quickly creates colors, extracts dominant hues from photos, builds gradients, converts HEX/RGB/HSL/CMYK, checks WCAG contrast, previews live UI, and exports to CSS, Tailwind, JSON, PNG, and ASE. Coloring Freemium That is the core of what HueHive does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: HueHive is an AI‑driven palette generator that quickly creates colors, extracts dominant hues from photos, builds gradients, converts HEX/RGB/HSL/CMYK, checks WCAG contrast, previews live UI, and exports to CSS, Tailwind, JSON, PNG, and ASE. That is the core of what HueHive does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is HueHive free?
     a: HueHive uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with HueHive?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like HueHive mat
 
 ## What is HueHive?
 
-HueHive is an AI‑driven palette generator that quickly creates colors, extracts dominant hues from photos, builds gradients, converts HEX/RGB/HSL/CMYK, checks WCAG contrast, previews live UI, and exports to CSS, Tailwind, JSON, PNG, and ASE. Coloring Freemium
-
+HueHive is an AI‑driven palette generator that quickly creates colors, extracts dominant hues from photos, builds gradients, converts HEX/RGB/HSL/CMYK, checks WCAG contrast, previews live UI, and exports to CSS, Tailwind, JSON, PNG, and ASE.
 In short, HueHive is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. Many users find that this one ability of HueHive removes several tasks from their daily routine.
 
 ## Key features

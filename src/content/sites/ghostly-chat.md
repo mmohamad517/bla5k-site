@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ghostly chat?
-    a: Ghostly lets businesses build knowledge chatbots by uploading PDFs, text, Markdown, or URLs. Fast setup, configurable prompts and appearance, multilingual support, and integration with OpenAI GPT‑3.5/4/4o—all paid only for infrastructure. Knowledge base management Freemium That is the core of what Ghostly chat does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ghostly lets businesses build knowledge chatbots by uploading PDFs, text, Markdown, or URLs. Fast setup, configurable prompts and appearance, multilingual support, and integration with OpenAI GPT‑3.5/4/4o—all paid only for infrastructure. That is the core of what Ghostly chat does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ghostly chat free?
     a: Ghostly chat uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Ghostly chat?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Ghostly chat?
 
-Ghostly lets businesses build knowledge chatbots by uploading PDFs, text, Markdown, or URLs. Fast setup, configurable prompts and appearance, multilingual support, and integration with OpenAI GPT‑3.5/4/4o—all paid only for infrastructure. Knowledge base management Freemium
-
+Ghostly lets businesses build knowledge chatbots by uploading PDFs, text, Markdown, or URLs. Fast setup, configurable prompts and appearance, multilingual support, and integration with OpenAI GPT‑3.5/4/4o—all paid only for infrastructure.
 In short, Ghostly chat is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. That single feature of Ghostly chat alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

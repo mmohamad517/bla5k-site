@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CapitalConnector.ai?
-    a: CapitalConnector.ai provides a searchable database of 97,500+ investor and advisor contacts with emails, phones, and social links, plus AI-assisted introductions, customizable templates, real-time data verification, filtering by criteria, and a built-in outreach CRM for fundraising. Business Free trial - $24 That is the core of what CapitalConnector.ai does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CapitalConnector.ai provides a searchable database of 97,500+ investor and advisor contacts with emails, phones, and social links, plus AI-assisted introductions, customizable templates, real-time data verification, filtering by criteria, and a built-in outreach CRM for fundraising. That is the core of what CapitalConnector.ai does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CapitalConnector.ai free?
     a: CapitalConnector.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $24, check the official website — pricing changes often.
   - q: What can you do with CapitalConnector.ai?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like CapitalConn
 
 ## What is CapitalConnector.ai?
 
-CapitalConnector.ai provides a searchable database of 97,500+ investor and advisor contacts with emails, phones, and social links, plus AI-assisted introductions, customizable templates, real-time data verification, filtering by criteria, and a built-in outreach CRM for fundraising. Business Free trial - $24
-
+CapitalConnector.ai provides a searchable database of 97,500+ investor and advisor contacts with emails, phones, and social links, plus AI-assisted introductions, customizable templates, real-time data verification, filtering by criteria, and a built-in outreach CRM for fundraising.
 In short, CapitalConnector.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. Many users find that this one ability of CapitalConnector.ai removes several tasks from their daily routine.
 
 ## Key features

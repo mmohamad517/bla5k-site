@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Kopyst?
-    a: Kopyst is a documentation tool that enhances workflow efficiency by capturing and recording content. It enables team collaboration for creating SOPs, training materials, and customer walkthroughs, streamlining onboarding and process documentation across platforms. Business Free trial - $15/mo That is the core of what Kopyst does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Kopyst is a documentation tool that enhances workflow efficiency by capturing and recording content. It enables team collaboration for creating SOPs, training materials, and customer walkthroughs, streamlining onboarding and process documentation across platforms. That is the core of what Kopyst does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Kopyst free?
     a: Kopyst uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $15/mo, check the official website — pricing changes often.
   - q: What can you do with Kopyst?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Kopyst?
 
-Kopyst is a documentation tool that enhances workflow efficiency by capturing and recording content. It enables team collaboration for creating SOPs, training materials, and customer walkthroughs, streamlining onboarding and process documentation across platforms. Business Free trial - $15/mo
-
+Kopyst is a documentation tool that enhances workflow efficiency by capturing and recording content. It enables team collaboration for creating SOPs, training materials, and customer walkthroughs, streamlining onboarding and process documentation across platforms.
 In short, Kopyst is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. For plenty of users, that one capability of Kopyst replaces several steps they used to do by hand.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Servcy?
-    a: Servcy is an AI-powered business optimization tool that consolidates tasks, emails, and documents, prioritizes messages, and answers queries. It simplifies payments, time tracking, calendar synchronization, and planning using voice commands for increased productivity. Personal assistant Free trial That is the core of what Servcy does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Servcy is an AI-powered business optimization tool that consolidates tasks, emails, and documents, prioritizes messages, and answers queries. It simplifies payments, time tracking, calendar synchronization, and planning using voice commands for increased productivity. That is the core of what Servcy does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Servcy free?
     a: Servcy uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Servcy?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Servcy
 
 ## What is Servcy?
 
-Servcy is an AI-powered business optimization tool that consolidates tasks, emails, and documents, prioritizes messages, and answers queries. It simplifies payments, time tracking, calendar synchronization, and planning using voice commands for increased productivity. Personal assistant Free trial
-
+Servcy is an AI-powered business optimization tool that consolidates tasks, emails, and documents, prioritizes messages, and answers queries. It simplifies payments, time tracking, calendar synchronization, and planning using voice commands for increased productivity.
 In short, Servcy is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users find that this one ability of Servcy removes several tasks from their daily routine.
 
 ## Key features

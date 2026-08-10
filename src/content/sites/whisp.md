@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Whisp?
-    a: Whisp converts spoken requirements into production-ready web apps, generating frontend, backend, database schemas, authentication, and integrations with live previews. Voice-driven iteration and code export let teams build, refine, and deploy prototypes or SaaS products. AI Agents Subscription That is the core of what Whisp does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Whisp converts spoken requirements into production-ready web apps, generating frontend, backend, database schemas, authentication, and integrations with live previews. Voice-driven iteration and code export let teams build, refine, and deploy prototypes or SaaS products. That is the core of what Whisp does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Whisp free?
     a: Whisp is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Whisp?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Whisp?
 
-Whisp converts spoken requirements into production-ready web apps, generating frontend, backend, database schemas, authentication, and integrations with live previews. Voice-driven iteration and code export let teams build, refine, and deploy prototypes or SaaS products. AI Agents Subscription
-
+Whisp converts spoken requirements into production-ready web apps, generating frontend, backend, database schemas, authentication, and integrations with live previews. Voice-driven iteration and code export let teams build, refine, and deploy prototypes or SaaS products.
 In short, Whisp is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For a lot of people, that one function of Whisp collapses multiple steps into a single action.
 
 ## Key features

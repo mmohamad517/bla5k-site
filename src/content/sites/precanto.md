@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Precanto?
-    a: Precanto uses AI to deliver real‑time financial forecasts, headcount models, and predicted statements by automatically consolidating data from ERP, HRIS, and ATS. Users query via chatbot or Slack for instant variance, anomaly, and scenario insights. Accounting assistant Freemium That is the core of what Precanto does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Precanto uses AI to deliver real‑time financial forecasts, headcount models, and predicted statements by automatically consolidating data from ERP, HRIS, and ATS. Users query via chatbot or Slack for instant variance, anomaly, and scenario insights. That is the core of what Precanto does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Precanto free?
     a: Precanto uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Precanto?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Precanto?
 
-Precanto uses AI to deliver real‑time financial forecasts, headcount models, and predicted statements by automatically consolidating data from ERP, HRIS, and ATS. Users query via chatbot or Slack for instant variance, anomaly, and scenario insights. Accounting assistant Freemium
-
+Precanto uses AI to deliver real‑time financial forecasts, headcount models, and predicted statements by automatically consolidating data from ERP, HRIS, and ATS. Users query via chatbot or Slack for instant variance, anomaly, and scenario insights.
 In short, Precanto is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one capability of Precanto frequently saves users from juggling several separate steps.
 
 ## Key features

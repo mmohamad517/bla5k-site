@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PlanPros.ai?
-    a: PlanPros AI Business Plan Generator creates comprehensive business plans in minutes by guiding users through questions on model, market, competition, and finance. It drafts executive summaries, market analysis, financial projections, and exports the finished plan to PDF or Word. Business planning Freemium - $15/mo That is the core of what PlanPros.ai does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: PlanPros AI Business Plan Generator creates comprehensive business plans in minutes by guiding users through questions on model, market, competition, and finance. It drafts executive summaries, market analysis, financial projections, and exports the finished plan to PDF or Word. That is the core of what PlanPros.ai does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is PlanPros.ai free?
     a: PlanPros.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $15/mo, check the official website — pricing changes often.
   - q: What can you do with PlanPros.ai?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like PlanPros.ai
 
 ## What is PlanPros.ai?
 
-PlanPros AI Business Plan Generator creates comprehensive business plans in minutes by guiding users through questions on model, market, competition, and finance. It drafts executive summaries, market analysis, financial projections, and exports the finished plan to PDF or Word. Business planning Freemium - $15/mo
-
+PlanPros AI Business Plan Generator creates comprehensive business plans in minutes by guiding users through questions on model, market, competition, and finance. It drafts executive summaries, market analysis, financial projections, and exports the finished plan to PDF or Word.
 In short, PlanPros.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI planning without the manual grind. Many users discover that this feature of PlanPros.ai alone covers what previously took multiple tools.
 
 ## Key features

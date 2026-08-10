@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ZeroClaw?
-    a: Zeroclaw is a Rust-based AI assistant framework delivering a compact low-latency runtime with trait-based, pluggable components, unified API for 22+ providers, built-in channel routing for Telegram, Discord and Slack, and self-hosted memory-safe concurrency.  That is the core of what ZeroClaw does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Zeroclaw is a Rust-based AI assistant framework delivering a compact low-latency runtime with trait-based, pluggable components, unified API for 22+ providers, built-in channel routing for Telegram, Discord and Slack, and self-hosted memory-safe concurrency. That is the core of what ZeroClaw does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ZeroClaw free?
     a: Yes — ZeroClaw is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with ZeroClaw?

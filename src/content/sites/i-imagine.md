@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is I IMAGINE?
-    a: IIMAGINE is a personalized AI operating system that learns your work habits, stores a secure knowledge base, and automates repetitive tasks for professionals across industries, enhancing decision‑making and workflow efficiency. AI Assistant Freemium That is the core of what I IMAGINE does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: IIMAGINE is a personalized AI operating system that learns your work habits, stores a secure knowledge base, and automates repetitive tasks for professionals across industries, enhancing decision‑making and workflow efficiency. That is the core of what I IMAGINE does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is I IMAGINE free?
     a: I IMAGINE uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with I IMAGINE?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like I IMAG
 
 ## What is I IMAGINE?
 
-IIMAGINE is a personalized AI operating system that learns your work habits, stores a secure knowledge base, and automates repetitive tasks for professionals across industries, enhancing decision‑making and workflow efficiency. AI Assistant Freemium
-
+IIMAGINE is a personalized AI operating system that learns your work habits, stores a secure knowledge base, and automates repetitive tasks for professionals across industries, enhancing decision‑making and workflow efficiency.
 In short, I IMAGINE is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users find that this one ability of I IMAGINE removes several tasks from their daily routine.
 
 ## Key features

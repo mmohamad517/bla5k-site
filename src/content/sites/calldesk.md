@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Calldesk?
-    a: CallDesk is an AI voice agent platform that automates customer inquiries, boosting self-service rates to 80%. It reduces handling times by 40%, streamlines inbound calls, and enhances customer satisfaction while lowering operational costs. Customer support Free That is the core of what Calldesk does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CallDesk is an AI voice agent platform that automates customer inquiries, boosting self-service rates to 80%. It reduces handling times by 40%, streamlines inbound calls, and enhances customer satisfaction while lowering operational costs. That is the core of what Calldesk does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Calldesk free?
     a: Yes — Calldesk is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Calldesk?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Calldesk earn th
 
 ## What is Calldesk?
 
-CallDesk is an AI voice agent platform that automates customer inquiries, boosting self-service rates to 80%. It reduces handling times by 40%, streamlines inbound calls, and enhances customer satisfaction while lowering operational costs. Customer support Free
-
+CallDesk is an AI voice agent platform that automates customer inquiries, boosting self-service rates to 80%. It reduces handling times by 40%, streamlines inbound calls, and enhances customer satisfaction while lowering operational costs.
 In short, Calldesk is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For plenty of users, that one capability of Calldesk replaces several steps they used to do by hand.
 
 ## Key features

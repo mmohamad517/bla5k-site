@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Similarix?
-    a: Similarix adds semantic search to Amazon S3 buckets, enabling text or image queries without altering files. It indexes metadata and visual features, supports 133 languages, offers deduplication, read‑only access, and scalable API integration for enterprise use. AI Assistant Subscription - $12/mo That is the core of what Similarix does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Similarix adds semantic search to Amazon S3 buckets, enabling text or image queries without altering files. It indexes metadata and visual features, supports 133 languages, offers deduplication, read‑only access, and scalable API integration for enterprise use. That is the core of what Similarix does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Similarix free?
     a: Similarix is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Similarix?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Simila
 
 ## What is Similarix?
 
-Similarix adds semantic search to Amazon S3 buckets, enabling text or image queries without altering files. It indexes metadata and visual features, supports 133 languages, offers deduplication, read‑only access, and scalable API integration for enterprise use. AI Assistant Subscription - $12/mo
-
+Similarix adds semantic search to Amazon S3 buckets, enabling text or image queries without altering files. It indexes metadata and visual features, supports 133 languages, offers deduplication, read‑only access, and scalable API integration for enterprise use.
 In short, Similarix is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of Similarix replaces several steps they used to do by hand.
 
 ## Key features

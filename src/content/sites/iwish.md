@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is iWish?
-    a: iWish AI simulates realistic sales conversations, generating tailored scripts and call prompts that mirror a company’s specific objections and narratives. After each session, it offers targeted feedback and an AI‑powered dialer to refine tactics, boosting outreach efficiency. Sales Freemium That is the core of what iWish does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: iWish AI simulates realistic sales conversations, generating tailored scripts and call prompts that mirror a company’s specific objections and narratives. After each session, it offers targeted feedback and an AI‑powered dialer to refine tactics, boosting outreach efficiency. That is the core of what iWish does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is iWish free?
     a: iWish uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with iWish?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like iWish 
 
 ## What is iWish?
 
-iWish AI simulates realistic sales conversations, generating tailored scripts and call prompts that mirror a company’s specific objections and narratives. After each session, it offers targeted feedback and an AI‑powered dialer to refine tactics, boosting outreach efficiency. Sales Freemium
-
+iWish AI simulates realistic sales conversations, generating tailored scripts and call prompts that mirror a company’s specific objections and narratives. After each session, it offers targeted feedback and an AI‑powered dialer to refine tactics, boosting outreach efficiency.
 In short, iWish is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. That single feature of iWish alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

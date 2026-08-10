@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is eesel.ai?
-    a: Eesel AI deploys autonomous agents that integrate with Zendesk, Freshdesk, Slack, Google Drive, Notion, and Shopify to automate support tickets, draft responses, research content, and handle e‑commerce queries while learning company policies from existing documents.  That is the core of what eesel.ai does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Eesel AI deploys autonomous agents that integrate with Zendesk, Freshdesk, Slack, Google Drive, Notion, and Shopify to automate support tickets, draft responses, research content, and handle e‑commerce queries while learning company policies from existing documents. That is the core of what eesel.ai does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is eesel.ai free?
     a: eesel.ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with eesel.ai?

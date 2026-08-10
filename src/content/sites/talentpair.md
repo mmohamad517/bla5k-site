@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Talentpair?
-    a: Talentpair automates hiring by posting jobs and using AI to filter, score resumes, generate interview notes, and deliver a top‑candidate list. Recruiters review profiles, schedule interviews, and share feedback within the platform, eliminating separate ATS use.  That is the core of what Talentpair does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Talentpair automates hiring by posting jobs and using AI to filter, score resumes, generate interview notes, and deliver a top‑candidate list. Recruiters review profiles, schedule interviews, and share feedback within the platform, eliminating separate ATS use. That is the core of what Talentpair does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Talentpair free?
     a: Talentpair is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Talentpair?

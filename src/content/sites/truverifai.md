@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TruVerifAI?
-    a: TruVerifAI is a multi-model AI platform that validates and compares outputs across different AI engines. It centralizes testing with automated comparisons and configurable metrics for accuracy, bias, and reliability to support audit-ready, high-assurance decisions.  That is the core of what TruVerifAI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: TruVerifAI is a multi-model AI platform that validates and compares outputs across different AI engines. It centralizes testing with automated comparisons and configurable metrics for accuracy, bias, and reliability to support audit-ready, high-assurance decisions. That is the core of what TruVerifAI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TruVerifAI free?
     a: TruVerifAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with TruVerifAI?

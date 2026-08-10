@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ls graphics?
-    a: Mckp.live offers a Figma plugin and online editor with over 4,000 editable mockups, including device, branding, print, animated and illustration templates. Designers can replace artwork, adjust layouts, preview across devices, use presets and download assets.  That is the core of what ls graphics does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Mckp.live offers a Figma plugin and online editor with over 4,000 editable mockups, including device, branding, print, animated and illustration templates. Designers can replace artwork, adjust layouts, preview across devices, use presets and download assets. That is the core of what ls graphics does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ls graphics free?
     a: ls graphics is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with ls graphics?

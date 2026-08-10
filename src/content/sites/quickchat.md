@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Quickchat?
-    a: Quickchat AI lets teams create and deploy chatbots for support, sales, lead qualification, and internal assistance. It combines Retrieval‑Augmented Generation with reranking to keep answers current, offers modular knowledge building, workflow design, analytics, GDPR‑compliant data control, and API integration.  That is the core of what Quickchat does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Quickchat AI lets teams create and deploy chatbots for support, sales, lead qualification, and internal assistance. It combines Retrieval‑Augmented Generation with reranking to keep answers current, offers modular knowledge building, workflow design, analytics, GDPR‑compliant data control, and API integration. That is the core of what Quickchat does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Quickchat free?
     a: Quickchat uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Quickchat?

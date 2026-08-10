@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Whismer?
-    a: Whismer lets users build AI chatbots by uploading PDFs, DOCs, CSVs, TXT, web links, and notes. The platform auto‑learns from the content, enabling accurate domain‑specific responses for support, knowledge bases, or education. Share with a click. Chat Freemium That is the core of what Whismer does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Whismer lets users build AI chatbots by uploading PDFs, DOCs, CSVs, TXT, web links, and notes. The platform auto‑learns from the content, enabling accurate domain‑specific responses for support, knowledge bases, or education. Share with a click. That is the core of what Whismer does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Whismer free?
     a: Whismer uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Whismer?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Whisme
 
 ## What is Whismer?
 
-Whismer lets users build AI chatbots by uploading PDFs, DOCs, CSVs, TXT, web links, and notes. The platform auto‑learns from the content, enabling accurate domain‑specific responses for support, knowledge bases, or education. Share with a click. Chat Freemium
-
+Whismer lets users build AI chatbots by uploading PDFs, DOCs, CSVs, TXT, web links, and notes. The platform auto‑learns from the content, enabling accurate domain‑specific responses for support, knowledge bases, or education. Share with a click.
 In short, Whismer is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For a lot of people, that one function of Whismer collapses multiple steps into a single action.
 
 ## Key features

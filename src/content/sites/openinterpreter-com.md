@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is OpenInterpreter?
-    a: Openinterpreter is an open-source AI coding agent that runs in the terminal or as a desktop app, enabling code editing, command execution, and test automation within a sandboxed OS environment. It supports multiple model providers (OpenAI, Anthropic, local models) and features configurable permission profiles, reusable skills, and auditable approvals for secure team workflows.  That is the core of what OpenInterpreter does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Openinterpreter is an open-source AI coding agent that runs in the terminal or as a desktop app, enabling code editing, command execution, and test automation within a sandboxed OS environment. It supports multiple model providers (OpenAI, Anthropic, local models) and features configurable permission profiles, reusable skills, and auditable approvals for secure team workflows. That is the core of what OpenInterpreter does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is OpenInterpreter free?
     a: OpenInterpreter uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with OpenInterpreter?

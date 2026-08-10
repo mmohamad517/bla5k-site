@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CarBackground AI?
-    a: carbackground.ai is an AI tool that automates precise car background removal and replacement, preserving vehicle details like mirrors, reflections, and windows. It supports bulk editing, branded templates, and export presets for major marketplaces to streamline dealership inventory workflows. Automotive Free trial - $39.99 That is the core of what CarBackground AI does — automotive ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: carbackground.ai is an AI tool that automates precise car background removal and replacement, preserving vehicle details like mirrors, reflections, and windows. It supports bulk editing, branded templates, and export presets for major marketplaces to streamline dealership inventory workflows. That is the core of what CarBackground AI does — automotive ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CarBackground AI free?
     a: CarBackground AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $39.99, check the official website — pricing changes often.
   - q: What can you do with CarBackground AI?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is CarBackground AI?
 
-carbackground.ai is an AI tool that automates precise car background removal and replacement, preserving vehicle details like mirrors, reflections, and windows. It supports bulk editing, branded templates, and export presets for major marketplaces to streamline dealership inventory workflows. Automotive Free trial - $39.99
-
+carbackground.ai is an AI tool that automates precise car background removal and replacement, preserving vehicle details like mirrors, reflections, and windows. It supports bulk editing, branded templates, and export presets for major marketplaces to streamline dealership inventory workflows.
 In short, CarBackground AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for automotive AI without the manual grind. Many users discover that this feature of CarBackground AI alone covers what previously took multiple tools.
 
 ## Key features

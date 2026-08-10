@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Base44?
-    a: Base44.com is an AI platform that transforms natural language descriptions into fully-functional, deployed web applications. It automatically generates the code, integrates features like authentication, and hosts the application for instant sharing.  That is the core of what Base44 does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Base44.com is an AI platform that transforms natural language descriptions into fully-functional, deployed web applications. It automatically generates the code, integrates features like authentication, and hosts the application for instant sharing. That is the core of what Base44 does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Base44 free?
     a: Base44 uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $16/mo, check the official website — pricing changes often.
   - q: What can you do with Base44?

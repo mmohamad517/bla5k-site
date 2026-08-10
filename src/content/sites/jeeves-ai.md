@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Jeeves.Ai?
-    a: Jeeves.Ai delivers GPT‑3/4 chat assistance and a library of editable business, legal, and marketing templates—including contracts, SEO and influencer agreements—and content generation for websites, social media, copywriting, education, and customer service across industries. Chat Freemium That is the core of what Jeeves.Ai does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Jeeves.Ai delivers GPT‑3/4 chat assistance and a library of editable business, legal, and marketing templates—including contracts, SEO and influencer agreements—and content generation for websites, social media, copywriting, education, and customer service across industries. That is the core of what Jeeves.Ai does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Jeeves.Ai free?
     a: Jeeves.Ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Jeeves.Ai?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Jeeves
 
 ## What is Jeeves.Ai?
 
-Jeeves.Ai delivers GPT‑3/4 chat assistance and a library of editable business, legal, and marketing templates—including contracts, SEO and influencer agreements—and content generation for websites, social media, copywriting, education, and customer service across industries. Chat Freemium
-
+Jeeves.Ai delivers GPT‑3/4 chat assistance and a library of editable business, legal, and marketing templates—including contracts, SEO and influencer agreements—and content generation for websites, social media, copywriting, education, and customer service across industries.
 In short, Jeeves.Ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For a lot of people, that one function of Jeeves.Ai collapses multiple steps into a single action.
 
 ## Key features

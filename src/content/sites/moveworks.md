@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Moveworks?
-    a: Moveworks unifies search and action across enterprise apps, delivering end‑to‑end task automation for HR, IT, finance, and more. Its reasoning engine plans and executes requests, with multilingual support, native integrations, and secure governance. Human resources Freemium That is the core of what Moveworks does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Moveworks unifies search and action across enterprise apps, delivering end‑to‑end task automation for HR, IT, finance, and more. Its reasoning engine plans and executes requests, with multilingual support, native integrations, and secure governance. That is the core of what Moveworks does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Moveworks free?
     a: Moveworks uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Moveworks?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Moveworks?
 
-Moveworks unifies search and action across enterprise apps, delivering end‑to‑end task automation for HR, IT, finance, and more. Its reasoning engine plans and executes requests, with multilingual support, native integrations, and secure governance. Human resources Freemium
-
+Moveworks unifies search and action across enterprise apps, delivering end‑to‑end task automation for HR, IT, finance, and more. Its reasoning engine plans and executes requests, with multilingual support, native integrations, and secure governance.
 In short, Moveworks is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. For plenty of users, that one capability of Moveworks replaces several steps they used to do by hand.
 
 ## Key features

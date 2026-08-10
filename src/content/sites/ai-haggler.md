@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Haggler?
-    a: AI Haggler is a web-based tool that makes phone calls to gather information and negotiate services on users' behalf, covering various industries. It operates in 25 languages and compiles detailed reports for efficient service inquiries. Customer support Free trial That is the core of what AI Haggler does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Haggler is a web-based tool that makes phone calls to gather information and negotiate services on users' behalf, covering various industries. It operates in 25 languages and compiles detailed reports for efficient service inquiries. That is the core of what AI Haggler does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI Haggler free?
     a: AI Haggler uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AI Haggler?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is AI Haggler?
 
-AI Haggler is a web-based tool that makes phone calls to gather information and negotiate services on users' behalf, covering various industries. It operates in 25 languages and compiles detailed reports for efficient service inquiries. Customer support Free trial
-
+AI Haggler is a web-based tool that makes phone calls to gather information and negotiate services on users' behalf, covering various industries. It operates in 25 languages and compiles detailed reports for efficient service inquiries.
 In short, AI Haggler is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For plenty of users, that one capability of AI Haggler replaces several steps they used to do by hand.
 
 ## Key features

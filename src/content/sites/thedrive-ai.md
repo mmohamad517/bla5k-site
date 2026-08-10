@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TheDrive AI?
-    a: Drive AI automates document ingestion, OCR, indexing and content-aware organization across email, cloud, Slack/Teams and mobile scans. A natural-language assistant performs searches and file operations, while providing collaborative permissions, audit trails and enterprise-grade security. Document management Free trial - $500/mo That is the core of what TheDrive AI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Drive AI automates document ingestion, OCR, indexing and content-aware organization across email, cloud, Slack/Teams and mobile scans. A natural-language assistant performs searches and file operations, while providing collaborative permissions, audit trails and enterprise-grade security. That is the core of what TheDrive AI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TheDrive AI free?
     a: TheDrive AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $500/mo, check the official website — pricing changes often.
   - q: What can you do with TheDrive AI?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like TheDri
 
 ## What is TheDrive AI?
 
-Drive AI automates document ingestion, OCR, indexing and content-aware organization across email, cloud, Slack/Teams and mobile scans. A natural-language assistant performs searches and file operations, while providing collaborative permissions, audit trails and enterprise-grade security. Document management Free trial - $500/mo
-
+Drive AI automates document ingestion, OCR, indexing and content-aware organization across email, cloud, Slack/Teams and mobile scans. A natural-language assistant performs searches and file operations, while providing collaborative permissions, audit trails and enterprise-grade security.
 In short, TheDrive AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. Many users find that this one ability of TheDrive AI removes several tasks from their daily routine.
 
 ## Key features

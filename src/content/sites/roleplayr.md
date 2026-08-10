@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Roleplayr?
-    a: Right‑click any online image to launch a local AI chat that interprets the picture and answers context‑aware questions. No account needed; all data stays on the device, making it quick for study, research, and creativity. Chat Freemium That is the core of what Roleplayr does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Right‑click any online image to launch a local AI chat that interprets the picture and answers context‑aware questions. No account needed; all data stays on the device, making it quick for study, research, and creativity. That is the core of what Roleplayr does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Roleplayr free?
     a: Roleplayr uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Roleplayr?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Roleplayr?
 
-Right‑click any online image to launch a local AI chat that interprets the picture and answers context‑aware questions. No account needed; all data stays on the device, making it quick for study, research, and creativity. Chat Freemium
-
+Right‑click any online image to launch a local AI chat that interprets the picture and answers context‑aware questions. No account needed; all data stays on the device, making it quick for study, research, and creativity.
 In short, Roleplayr is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For plenty of users, that one capability of Roleplayr replaces several steps they used to do by hand.
 
 ## Key features

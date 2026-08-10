@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Daymi?
-    a: Daymi is a personal AI assistant that mimics your voice and style in conversations. It offers a platform for sharing thoughts and emotions while retaining context through memory, providing a truly personalized interaction experience across messaging apps. Personal Chatbot Freemium That is the core of what Daymi does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Daymi is a personal AI assistant that mimics your voice and style in conversations. It offers a platform for sharing thoughts and emotions while retaining context through memory, providing a truly personalized interaction experience across messaging apps. That is the core of what Daymi does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Daymi free?
     a: Daymi uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Daymi?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Daymi 
 
 ## What is Daymi?
 
-Daymi is a personal AI assistant that mimics your voice and style in conversations. It offers a platform for sharing thoughts and emotions while retaining context through memory, providing a truly personalized interaction experience across messaging apps. Personal Chatbot Freemium
-
+Daymi is a personal AI assistant that mimics your voice and style in conversations. It offers a platform for sharing thoughts and emotions while retaining context through memory, providing a truly personalized interaction experience across messaging apps.
 In short, Daymi is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. That one capability of Daymi frequently saves users from juggling several separate steps.
 
 ## Key features

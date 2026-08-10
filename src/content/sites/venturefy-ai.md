@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is venturefy AI?
-    a: Venturefy uses AI to map corporate relationships, identifying shortest paths between target firms and decision makers. It monitors market changes, compares networks to find high‑conversion prospects and whitespace accounts, and visualizes clusters via an interactive graph. Business Freemium - $9.99/mo That is the core of what venturefy AI does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Venturefy uses AI to map corporate relationships, identifying shortest paths between target firms and decision makers. It monitors market changes, compares networks to find high‑conversion prospects and whitespace accounts, and visualizes clusters via an interactive graph. That is the core of what venturefy AI does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is venturefy AI free?
     a: venturefy AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9.99/mo, check the official website — pricing changes often.
   - q: What can you do with venturefy AI?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like ventur
 
 ## What is venturefy AI?
 
-Venturefy uses AI to map corporate relationships, identifying shortest paths between target firms and decision makers. It monitors market changes, compares networks to find high‑conversion prospects and whitespace accounts, and visualizes clusters via an interactive graph. Business Freemium - $9.99/mo
-
+Venturefy uses AI to map corporate relationships, identifying shortest paths between target firms and decision makers. It monitors market changes, compares networks to find high‑conversion prospects and whitespace accounts, and visualizes clusters via an interactive graph.
 In short, venturefy AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. For many, that single strength of venturefy AI is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

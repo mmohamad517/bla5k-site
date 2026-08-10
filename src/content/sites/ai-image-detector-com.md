@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Image Detector?
-    a: Free AI Image Detector analyzes images for AI generation with high accuracy in under 10 seconds. It supports JPEG, PNG, WEBP, and HEIC formats, providing a confidence score and authenticity explanation without storing uploaded files. No registration is needed.  That is the core of what AI Image Detector does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Free AI Image Detector analyzes images for AI generation with high accuracy in under 10 seconds. It supports JPEG, PNG, WEBP, and HEIC formats, providing a confidence score and authenticity explanation without storing uploaded files. No registration is needed. That is the core of what AI Image Detector does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI Image Detector free?
     a: Yes — AI Image Detector is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with AI Image Detector?

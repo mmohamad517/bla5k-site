@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Uiquill?
-    a: UIQuill integrates with Figma to generate context‑aware copy for text layers, groups, frames, or pages, matching tone, length, and style. It automates copy editing, saves time, and updates with new AI models. Content Writing Subscription - $9/mo That is the core of what Uiquill does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: UIQuill integrates with Figma to generate context‑aware copy for text layers, groups, frames, or pages, matching tone, length, and style. It automates copy editing, saves time, and updates with new AI models. That is the core of what Uiquill does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Uiquill free?
     a: Uiquill is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Uiquill?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Uiquill earn the
 
 ## What is Uiquill?
 
-UIQuill integrates with Figma to generate context‑aware copy for text layers, groups, frames, or pages, matching tone, length, and style. It automates copy editing, saves time, and updates with new AI models. Content Writing Subscription - $9/mo
-
+UIQuill integrates with Figma to generate context‑aware copy for text layers, groups, frames, or pages, matching tone, length, and style. It automates copy editing, saves time, and updates with new AI models.
 In short, Uiquill is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. Many users discover that this feature of Uiquill alone covers what previously took multiple tools.
 
 ## Key features

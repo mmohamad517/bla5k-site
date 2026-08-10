@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Letterdrop?
-    a: Letterdrop aggregates public, competitor, and job‑change signals to identify high‑intent prospects. It delivers real‑time alerts, AI‑generated outreach drafts, tracks responses in CRM, and supports custom signal rules for enriched prioritization. Business Freemium That is the core of what Letterdrop does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Letterdrop aggregates public, competitor, and job‑change signals to identify high‑intent prospects. It delivers real‑time alerts, AI‑generated outreach drafts, tracks responses in CRM, and supports custom signal rules for enriched prioritization. That is the core of what Letterdrop does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Letterdrop free?
     a: Letterdrop uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Letterdrop?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Letter
 
 ## What is Letterdrop?
 
-Letterdrop aggregates public, competitor, and job‑change signals to identify high‑intent prospects. It delivers real‑time alerts, AI‑generated outreach drafts, tracks responses in CRM, and supports custom signal rules for enriched prioritization. Business Freemium
-
+Letterdrop aggregates public, competitor, and job‑change signals to identify high‑intent prospects. It delivers real‑time alerts, AI‑generated outreach drafts, tracks responses in CRM, and supports custom signal rules for enriched prioritization.
 In short, Letterdrop is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. Many users find that this one ability of Letterdrop removes several tasks from their daily routine.
 
 ## Key features

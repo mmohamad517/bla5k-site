@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PopboxGPT?
-    a: . PopboxGPT is a Chrome extension that embeds GPT‑3.5‑turbo into the browser, offering Alt+J quick launch, fullscreen mode, persistent session history, and a lightweight modal for drafting, research, or brainstorming across sites for all users. AI Assistant Subscription - $9.99/mo That is the core of what PopboxGPT does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: . PopboxGPT is a Chrome extension that embeds GPT‑3.5‑turbo into the browser, offering Alt+J quick launch, fullscreen mode, persistent session history, and a lightweight modal for drafting, research, or brainstorming across sites for all users. That is the core of what PopboxGPT does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is PopboxGPT free?
     a: PopboxGPT is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with PopboxGPT?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like PopboxGPT m
 
 ## What is PopboxGPT?
 
-. PopboxGPT is a Chrome extension that embeds GPT‑3.5‑turbo into the browser, offering Alt+J quick launch, fullscreen mode, persistent session history, and a lightweight modal for drafting, research, or brainstorming across sites for all users. AI Assistant Subscription - $9.99/mo
-
+. PopboxGPT is a Chrome extension that embeds GPT‑3.5‑turbo into the browser, offering Alt+J quick launch, fullscreen mode, persistent session history, and a lightweight modal for drafting, research, or brainstorming across sites for all users.
 In short, PopboxGPT is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For a lot of people, that one function of PopboxGPT collapses multiple steps into a single action.
 
 ## Key features

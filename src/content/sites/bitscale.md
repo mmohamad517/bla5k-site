@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Bitscale?
-    a: Bitscale consolidates data from 100+ sources, offering verified numbers, intent signals, and a 300M‑record database to build and automate personalized outbound campaigns. It syncs live with HubSpot, supplies AI‑driven enrichment, playbooks, and web‑scraping for efficient prospecting. Sales Freemium - $89/mo That is the core of what Bitscale does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Bitscale consolidates data from 100+ sources, offering verified numbers, intent signals, and a 300M‑record database to build and automate personalized outbound campaigns. It syncs live with HubSpot, supplies AI‑driven enrichment, playbooks, and web‑scraping for efficient prospecting. That is the core of what Bitscale does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Bitscale free?
     a: Bitscale uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $89/mo, check the official website — pricing changes often.
   - q: What can you do with Bitscale?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Bitscale?
 
-Bitscale consolidates data from 100+ sources, offering verified numbers, intent signals, and a 300M‑record database to build and automate personalized outbound campaigns. It syncs live with HubSpot, supplies AI‑driven enrichment, playbooks, and web‑scraping for efficient prospecting. Sales Freemium - $89/mo
-
+Bitscale consolidates data from 100+ sources, offering verified numbers, intent signals, and a 300M‑record database to build and automate personalized outbound campaigns. It syncs live with HubSpot, supplies AI‑driven enrichment, playbooks, and web‑scraping for efficient prospecting.
 In short, Bitscale is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. That one feature of Bitscale often eliminates several smaller steps from the usual workflow.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is LunarCrush?
-    a: LunarCrush is an AI-powered tool that gathers real-time social data for crypto investors and enthusiasts. It provides insights into trending assets, social metrics, sentiment analysis, and creator rankings to facilitate informed trading decisions and market trend monitoring. Crypto and Web3 1 0 Subscription That is the core of what LunarCrush does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: LunarCrush is an AI-powered tool that gathers real-time social data for crypto investors and enthusiasts. It provides insights into trending assets, social metrics, sentiment analysis, and creator rankings to facilitate informed trading decisions and market trend monitoring. That is the core of what LunarCrush does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is LunarCrush free?
     a: LunarCrush is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with LunarCrush?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is LunarCrush?
 
-LunarCrush is an AI-powered tool that gathers real-time social data for crypto investors and enthusiasts. It provides insights into trending assets, social metrics, sentiment analysis, and creator rankings to facilitate informed trading decisions and market trend monitoring. Crypto and Web3 1 0 Subscription
-
+LunarCrush is an AI-powered tool that gathers real-time social data for crypto investors and enthusiasts. It provides insights into trending assets, social metrics, sentiment analysis, and creator rankings to facilitate informed trading decisions and market trend monitoring.
 In short, LunarCrush is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. Many users discover that this feature of LunarCrush alone covers what previously took multiple tools.
 
 ## Key features

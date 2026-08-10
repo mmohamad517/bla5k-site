@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Coval?
-    a: Coval lets teams test, monitor, and manage conversational AI agents by simulating thousands of realistic interactions, tracking metrics such as latency and intent accuracy, sending real‑time alerts, and supporting role‑specific workflows—all under SOC2, HIPAA, and GDPR compliance. AI Agents Freemium That is the core of what Coval does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Coval lets teams test, monitor, and manage conversational AI agents by simulating thousands of realistic interactions, tracking metrics such as latency and intent accuracy, sending real‑time alerts, and supporting role‑specific workflows—all under SOC2, HIPAA, and GDPR compliance. That is the core of what Coval does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Coval free?
     a: Coval uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Coval?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Coval 
 
 ## What is Coval?
 
-Coval lets teams test, monitor, and manage conversational AI agents by simulating thousands of realistic interactions, tracking metrics such as latency and intent accuracy, sending real‑time alerts, and supporting role‑specific workflows—all under SOC2, HIPAA, and GDPR compliance. AI Agents Freemium
-
+Coval lets teams test, monitor, and manage conversational AI agents by simulating thousands of realistic interactions, tracking metrics such as latency and intent accuracy, sending real‑time alerts, and supporting role‑specific workflows—all under SOC2, HIPAA, and GDPR compliance.
 In short, Coval is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many, that single strength of Coval is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Dashwave 1.0?
-    a: Dashwave is a cloud-based platform for mobile app development that streamlines the process with one-click workspaces, collaborative emulators, and accelerated builds. It offers pre-built templates and an ROI calculator while prioritizing user privacy and security. App Builder Free trial That is the core of what Dashwave 1.0 does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Dashwave is a cloud-based platform for mobile app development that streamlines the process with one-click workspaces, collaborative emulators, and accelerated builds. It offers pre-built templates and an ROI calculator while prioritizing user privacy and security. That is the core of what Dashwave 1.0 does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Dashwave 1.0 free?
     a: Dashwave 1.0 uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Dashwave 1.0?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Dashwave 1.
 
 ## What is Dashwave 1.0?
 
-Dashwave is a cloud-based platform for mobile app development that streamlines the process with one-click workspaces, collaborative emulators, and accelerated builds. It offers pre-built templates and an ROI calculator while prioritizing user privacy and security. App Builder Free trial
-
+Dashwave is a cloud-based platform for mobile app development that streamlines the process with one-click workspaces, collaborative emulators, and accelerated builds. It offers pre-built templates and an ROI calculator while prioritizing user privacy and security.
 In short, Dashwave 1.0 is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For plenty of users, that one capability of Dashwave 1.0 replaces several steps they used to do by hand.
 
 ## Key features

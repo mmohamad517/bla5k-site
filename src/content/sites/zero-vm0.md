@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Zero - VM0?
-    a: Zero - VM0 is an AI teammate that automates cross-tool workflows across 100+ apps like Slack, GitHub, and Notion. It handles inbox triage, research, reporting, and task orchestration while preserving context and decision logs across sessions.  That is the core of what Zero - VM0 does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Zero - VM0 is an AI teammate that automates cross-tool workflows across 100+ apps like Slack, GitHub, and Notion. It handles inbox triage, research, reporting, and task orchestration while preserving context and decision logs across sessions. That is the core of what Zero - VM0 does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Zero - VM0 free?
     a: Zero - VM0 uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $20/mo, check the official website — pricing changes often.
   - q: What can you do with Zero - VM0?

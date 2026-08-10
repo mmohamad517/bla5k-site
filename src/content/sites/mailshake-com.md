@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MailShake?
-    a: Mailshake centralizes multi-channel B2B outreach—cold email, dialing, and social—combining an AI email writer, prospect search, automated follow-ups, deliverability tools, lead management, analytics, and CRM/API integrations for scalable lead generation and campaign automation. Sales Freemium - $12/mo That is the core of what MailShake does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Mailshake centralizes multi-channel B2B outreach—cold email, dialing, and social—combining an AI email writer, prospect search, automated follow-ups, deliverability tools, lead management, analytics, and CRM/API integrations for scalable lead generation and campaign automation. That is the core of what MailShake does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MailShake free?
     a: MailShake uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $12/mo, check the official website — pricing changes often.
   - q: What can you do with MailShake?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is MailShake?
 
-Mailshake centralizes multi-channel B2B outreach—cold email, dialing, and social—combining an AI email writer, prospect search, automated follow-ups, deliverability tools, lead management, analytics, and CRM/API integrations for scalable lead generation and campaign automation. Sales Freemium - $12/mo
-
+Mailshake centralizes multi-channel B2B outreach—cold email, dialing, and social—combining an AI email writer, prospect search, automated follow-ups, deliverability tools, lead management, analytics, and CRM/API integrations for scalable lead generation and campaign automation.
 In short, MailShake is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For plenty of users, that one capability of MailShake replaces several steps they used to do by hand.
 
 ## Key features

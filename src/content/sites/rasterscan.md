@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Rasterscan?
-    a: Efficient Floor Plan Recognition is an AI tool that converts hand-drawn sketches and blueprints into digital layouts, enhancing workflow for architects and designers by automating the extraction of structural details while ensuring data confidentiality.  That is the core of what Rasterscan does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Efficient Floor Plan Recognition is an AI tool that converts hand-drawn sketches and blueprints into digital layouts, enhancing workflow for architects and designers by automating the extraction of structural details while ensuring data confidentiality. That is the core of what Rasterscan does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Rasterscan free?
     a: Rasterscan uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Rasterscan?

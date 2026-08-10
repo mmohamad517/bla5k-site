@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Markty AI?
-    a: Markty AI is a platform that deploys role-specific AI employees to manage and automate marketing workflows across social media, content, email, and sales. It orchestrates end-to-end content production, scheduling, and distribution while learning your brand voice for platform-specific, multi-channel coordination.  That is the core of what Markty AI does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Markty AI is a platform that deploys role-specific AI employees to manage and automate marketing workflows across social media, content, email, and sales. It orchestrates end-to-end content production, scheduling, and distribution while learning your brand voice for platform-specific, multi-channel coordination. That is the core of what Markty AI does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Markty AI free?
     a: Markty AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Markty AI?

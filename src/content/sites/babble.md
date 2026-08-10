@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Babble?
-    a: Babble AI offers a no‑code chatbot builder that trains on text documents, supports multi‑language interactions, and integrates with CRMs. It handles FAQs, leads, appointments, orders, and can hand off to live chat, with real‑time analytics for continuous improvement. Chatbot builder Subscription That is the core of what Babble does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Babble AI offers a no‑code chatbot builder that trains on text documents, supports multi‑language interactions, and integrates with CRMs. It handles FAQs, leads, appointments, orders, and can hand off to live chat, with real‑time analytics for continuous improvement. That is the core of what Babble does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Babble free?
     a: Babble is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Babble?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Babble
 
 ## What is Babble?
 
-Babble AI offers a no‑code chatbot builder that trains on text documents, supports multi‑language interactions, and integrates with CRMs. It handles FAQs, leads, appointments, orders, and can hand off to live chat, with real‑time analytics for continuous improvement. Chatbot builder Subscription
-
+Babble AI offers a no‑code chatbot builder that trains on text documents, supports multi‑language interactions, and integrates with CRMs. It handles FAQs, leads, appointments, orders, and can hand off to live chat, with real‑time analytics for continuous improvement.
 In short, Babble is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. That one capability of Babble frequently saves users from juggling several separate steps.
 
 ## Key features

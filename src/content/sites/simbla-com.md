@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is simbla.com?
-    a: Simbla is an AI-driven, no-code CRM that generates tailored cloud CRMs from natural-language requirements, providing contact and pipeline management, workflow automation, website and portal builders, unified communications, integrations, role-based security, and analytics. AI Assistant Subscription - $69/mo That is the core of what simbla.com does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Simbla is an AI-driven, no-code CRM that generates tailored cloud CRMs from natural-language requirements, providing contact and pipeline management, workflow automation, website and portal builders, unified communications, integrations, role-based security, and analytics. That is the core of what simbla.com does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is simbla.com free?
     a: simbla.com is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with simbla.com?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like simbla.com earn 
 
 ## What is simbla.com?
 
-Simbla is an AI-driven, no-code CRM that generates tailored cloud CRMs from natural-language requirements, providing contact and pipeline management, workflow automation, website and portal builders, unified communications, integrations, role-based security, and analytics. AI Assistant Subscription - $69/mo
-
+Simbla is an AI-driven, no-code CRM that generates tailored cloud CRMs from natural-language requirements, providing contact and pipeline management, workflow automation, website and portal builders, unified communications, integrations, role-based security, and analytics.
 In short, simbla.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one capability of simbla.com frequently saves users from juggling several separate steps.
 
 ## Key features

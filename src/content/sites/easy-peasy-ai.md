@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Easy-Peasy.AI?
-    a: Easy‑Peasy.AI combines web‑browsing AI agents, code execution, chart and presentation generators, image and video creation, audio transcription and music generation, multilingual writing templates, SEO titles, workflow automation, brand voice tools, and plugin integration for end‑to‑end content production.  That is the core of what Easy-Peasy.AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Easy‑Peasy.AI combines web‑browsing AI agents, code execution, chart and presentation generators, image and video creation, audio transcription and music generation, multilingual writing templates, SEO titles, workflow automation, brand voice tools, and plugin integration for end‑to‑end content production. That is the core of what Easy-Peasy.AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Easy-Peasy.AI free?
     a: Easy-Peasy.AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $8/mo, check the official website — pricing changes often.
   - q: What can you do with Easy-Peasy.AI?

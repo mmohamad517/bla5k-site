@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Arcitext.com?
-    a: Arcitext is an AI-assisted writing platform that captures a user's voice from URLs and samples, generates reusable brand profiles, offers chat-based drafting, rewrites, grammar and fact-checking, and shows inline diffs to maintain consistent, audience-focused copy. Copywriting Free - $7 That is the core of what Arcitext.com does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Arcitext is an AI-assisted writing platform that captures a user's voice from URLs and samples, generates reusable brand profiles, offers chat-based drafting, rewrites, grammar and fact-checking, and shows inline diffs to maintain consistent, audience-focused copy. That is the core of what Arcitext.com does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Arcitext.com free?
     a: Arcitext.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Arcitext.com?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Arcite
 
 ## What is Arcitext.com?
 
-Arcitext is an AI-assisted writing platform that captures a user's voice from URLs and samples, generates reusable brand profiles, offers chat-based drafting, rewrites, grammar and fact-checking, and shows inline diffs to maintain consistent, audience-focused copy. Copywriting Free - $7
-
+Arcitext is an AI-assisted writing platform that captures a user's voice from URLs and samples, generates reusable brand profiles, offers chat-based drafting, rewrites, grammar and fact-checking, and shows inline diffs to maintain consistent, audience-focused copy.
 In short, Arcitext.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. For many, that single strength of Arcitext.com is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

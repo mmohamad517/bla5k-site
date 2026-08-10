@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Mpilo?
-    a: mpilo captures patient‑doctor conversations in real time, automatically generating HIPAA‑compliant SOAP notes within the browser. Customizable templates span specialties, and notes integrate directly into EHRs, reducing admin workload and supporting clinician focus. AI Assistant Freemium - $99/mo That is the core of what Mpilo does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: mpilo captures patient‑doctor conversations in real time, automatically generating HIPAA‑compliant SOAP notes within the browser. Customizable templates span specialties, and notes integrate directly into EHRs, reducing admin workload and supporting clinician focus. That is the core of what Mpilo does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Mpilo free?
     a: Mpilo uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $99/mo, check the official website — pricing changes often.
   - q: What can you do with Mpilo?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Mpilo?
 
-mpilo captures patient‑doctor conversations in real time, automatically generating HIPAA‑compliant SOAP notes within the browser. Customizable templates span specialties, and notes integrate directly into EHRs, reducing admin workload and supporting clinician focus. AI Assistant Freemium - $99/mo
-
+mpilo captures patient‑doctor conversations in real time, automatically generating HIPAA‑compliant SOAP notes within the browser. Customizable templates span specialties, and notes integrate directly into EHRs, reducing admin workload and supporting clinician focus.
 In short, Mpilo is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That single feature of Mpilo alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

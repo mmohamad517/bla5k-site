@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Blog Articles?
-    a: "AI Blog Articles creates SEO-optimized blog posts from a topic in two steps: instant keyword list and editable outline, then one-click generation of fully formatted articles (meta, headings, lists, tables) with rich-text/Markdown editing and HTML/.md export. Article writer Free trial That is the core of what AI Blog Articles does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "AI Blog Articles creates SEO-optimized blog posts from a topic in two steps: instant keyword list and editable outline, then one-click generation of fully formatted articles (meta, headings, lists, tables) with rich-text/Markdown editing and HTML/.md export. That is the core of what AI Blog Articles does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is AI Blog Articles free?
     a: AI Blog Articles uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AI Blog Articles?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like AI Blog Art
 
 ## What is AI Blog Articles?
 
-AI Blog Articles creates SEO-optimized blog posts from a topic in two steps: instant keyword list and editable outline, then one-click generation of fully formatted articles (meta, headings, lists, tables) with rich-text/Markdown editing and HTML/.md export. Article writer Free trial
-
+AI Blog Articles creates SEO-optimized blog posts from a topic in two steps: instant keyword list and editable outline, then one-click generation of fully formatted articles (meta, headings, lists, tables) with rich-text/Markdown editing and HTML/.md export.
 In short, AI Blog Articles is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. That one capability of AI Blog Articles frequently saves users from juggling several separate steps.
 
 ## Key features

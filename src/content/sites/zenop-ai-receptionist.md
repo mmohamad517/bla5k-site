@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ZenOp AI Receptionist?
-    a: ZenOp AI Receptionist is an AI phone answering service that handles inbound calls 24/7 to book appointments, qualify leads, and filter spam. It integrates with existing numbers and business tools, providing real-time call summaries and seamless human handoff.  That is the core of what ZenOp AI Receptionist does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ZenOp AI Receptionist is an AI phone answering service that handles inbound calls 24/7 to book appointments, qualify leads, and filter spam. It integrates with existing numbers and business tools, providing real-time call summaries and seamless human handoff. That is the core of what ZenOp AI Receptionist does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ZenOp AI Receptionist free?
     a: ZenOp AI Receptionist uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $97/mo, check the official website — pricing changes often.
   - q: What can you do with ZenOp AI Receptionist?

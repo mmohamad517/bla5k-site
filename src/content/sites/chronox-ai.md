@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Chronox AI?
-    a: Chronox AI provides no-code chat and voice bots for automating customer service across platforms like WhatsApp and Instagram. Key features include proactive messaging, real-time data retrieval, and integrated payment processing, enhancing customer engagement and support. Omnichannel chatbot Subscription That is the core of what Chronox AI does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Chronox AI provides no-code chat and voice bots for automating customer service across platforms like WhatsApp and Instagram. Key features include proactive messaging, real-time data retrieval, and integrated payment processing, enhancing customer engagement and support. That is the core of what Chronox AI does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Chronox AI free?
     a: Chronox AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Chronox AI?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Chronox AI?
 
-Chronox AI provides no-code chat and voice bots for automating customer service across platforms like WhatsApp and Instagram. Key features include proactive messaging, real-time data retrieval, and integrated payment processing, enhancing customer engagement and support. Omnichannel chatbot Subscription
-
+Chronox AI provides no-code chat and voice bots for automating customer service across platforms like WhatsApp and Instagram. Key features include proactive messaging, real-time data retrieval, and integrated payment processing, enhancing customer engagement and support.
 In short, Chronox AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. That one feature of Chronox AI often eliminates several smaller steps from the usual workflow.
 
 ## Key features

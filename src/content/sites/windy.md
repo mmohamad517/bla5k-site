@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Windy?
-    a: Windmill is an AI-driven performance review tool that streamlines performance management through real-time feedback, automated agendas, custom surveys, and bias reduction, enabling faster reviews and improved employee engagement and satisfaction. Human resources Subscription - $10/mo That is the core of what Windy does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Windmill is an AI-driven performance review tool that streamlines performance management through real-time feedback, automated agendas, custom surveys, and bias reduction, enabling faster reviews and improved employee engagement and satisfaction. That is the core of what Windy does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Windy free?
     a: Windy is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Windy?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Windy earn their
 
 ## What is Windy?
 
-Windmill is an AI-driven performance review tool that streamlines performance management through real-time feedback, automated agendas, custom surveys, and bias reduction, enabling faster reviews and improved employee engagement and satisfaction. Human resources Subscription - $10/mo
-
+Windmill is an AI-driven performance review tool that streamlines performance management through real-time feedback, automated agendas, custom surveys, and bias reduction, enabling faster reviews and improved employee engagement and satisfaction.
 In short, Windy is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. That single feature of Windy alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

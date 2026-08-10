@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is amara?
-    a: Amara automates product sales and appointment booking on WhatsApp for salons, spas, and barbershops. It syncs calendars to cut empty slots, tracks sales analytics, offers integrated payments, and supplies real‑time dashboard insights for chain locations. Business Paid That is the core of what amara does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Amara automates product sales and appointment booking on WhatsApp for salons, spas, and barbershops. It syncs calendars to cut empty slots, tracks sales analytics, offers integrated payments, and supplies real‑time dashboard insights for chain locations. That is the core of what amara does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is amara free?
     a: amara is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with amara?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like amara earn 
 
 ## What is amara?
 
-Amara automates product sales and appointment booking on WhatsApp for salons, spas, and barbershops. It syncs calendars to cut empty slots, tracks sales analytics, offers integrated payments, and supplies real‑time dashboard insights for chain locations. Business Paid
-
+Amara automates product sales and appointment booking on WhatsApp for salons, spas, and barbershops. It syncs calendars to cut empty slots, tracks sales analytics, offers integrated payments, and supplies real‑time dashboard insights for chain locations.
 In short, amara is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. That one feature of amara often eliminates several smaller steps from the usual workflow.
 
 ## Key features

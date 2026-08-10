@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Convictional?
-    a: Handbook-as-code platform storing company policies in the codebase with git-based versioning, pull-request workflows, and audit trails; enables public publishing and AI-powered, role-specific search to streamline onboarding, policy discovery, collaboration, and maintenance. Administration Freemium That is the core of what Convictional does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Handbook-as-code platform storing company policies in the codebase with git-based versioning, pull-request workflows, and audit trails; enables public publishing and AI-powered, role-specific search to streamline onboarding, policy discovery, collaboration, and maintenance. That is the core of what Convictional does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Convictional free?
     a: Convictional uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Convictional?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Convictional?
 
-Handbook-as-code platform storing company policies in the codebase with git-based versioning, pull-request workflows, and audit trails; enables public publishing and AI-powered, role-specific search to streamline onboarding, policy discovery, collaboration, and maintenance. Administration Freemium
-
+Handbook-as-code platform storing company policies in the codebase with git-based versioning, pull-request workflows, and audit trails; enables public publishing and AI-powered, role-specific search to streamline onboarding, policy discovery, collaboration, and maintenance.
 In short, Convictional is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many, that single strength of Convictional is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

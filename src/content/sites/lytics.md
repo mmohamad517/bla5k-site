@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Lytics?
-    a: Lytics centralizes customer profiles across data warehouses via Cloud Connect, enabling audience segmentation, personalized email/web experiences, and product recommendation workflows. It supports generative AI insights and integrates with popular cloud services for marketing optimization. Marketing Freemium That is the core of what Lytics does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Lytics centralizes customer profiles across data warehouses via Cloud Connect, enabling audience segmentation, personalized email/web experiences, and product recommendation workflows. It supports generative AI insights and integrates with popular cloud services for marketing optimization. That is the core of what Lytics does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Lytics free?
     a: Lytics uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Lytics?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Lytics?
 
-Lytics centralizes customer profiles across data warehouses via Cloud Connect, enabling audience segmentation, personalized email/web experiences, and product recommendation workflows. It supports generative AI insights and integrates with popular cloud services for marketing optimization. Marketing Freemium
-
+Lytics centralizes customer profiles across data warehouses via Cloud Connect, enabling audience segmentation, personalized email/web experiences, and product recommendation workflows. It supports generative AI insights and integrates with popular cloud services for marketing optimization.
 In short, Lytics is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That one feature of Lytics often eliminates several smaller steps from the usual workflow.
 
 ## Key features

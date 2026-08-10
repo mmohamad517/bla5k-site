@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Honen?
-    a: Honen is an AI-powered course authoring and LMS platform that transforms documents, videos, and images into full training courses with auto-generated quizzes, assessments, and real-time audio narration. It centralizes learning content into a searchable knowledge base, tracks learner progress and outcomes, and integrates with existing HR and LMS systems to streamline onboarding, compliance, and certification workflows. Course Generator Free That is the core of what Honen does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Honen is an AI-powered course authoring and LMS platform that transforms documents, videos, and images into full training courses with auto-generated quizzes, assessments, and real-time audio narration. It centralizes learning content into a searchable knowledge base, tracks learner progress and outcomes, and integrates with existing HR and LMS systems to streamline onboarding, compliance, and certification workflows. That is the core of what Honen does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Honen free?
     a: Yes — Honen is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Honen?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Honen 
 
 ## What is Honen?
 
-Honen is an AI-powered course authoring and LMS platform that transforms documents, videos, and images into full training courses with auto-generated quizzes, assessments, and real-time audio narration. It centralizes learning content into a searchable knowledge base, tracks learner progress and outcomes, and integrates with existing HR and LMS systems to streamline onboarding, compliance, and certification workflows. Course Generator Free
-
+Honen is an AI-powered course authoring and LMS platform that transforms documents, videos, and images into full training courses with auto-generated quizzes, assessments, and real-time audio narration. It centralizes learning content into a searchable knowledge base, tracks learner progress and outcomes, and integrates with existing HR and LMS systems to streamline onboarding, compliance, and certification workflows.
 In short, Honen is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. That one capability of Honen frequently saves users from juggling several separate steps.
 
 ## Key features

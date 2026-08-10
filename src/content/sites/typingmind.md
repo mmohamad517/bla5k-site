@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TypingMind?
-    a: TypingMind unifies ChatGPT, Gemini, Claude, and other LLMs in one interface, enabling parallel chats, project folders, tagging, search, and built‑in tools for documents, images, and code, plus features like agent building, prompt chaining, RAG, voice, canvas, and plugins. Personal assistant Paid That is the core of what TypingMind does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: TypingMind unifies ChatGPT, Gemini, Claude, and other LLMs in one interface, enabling parallel chats, project folders, tagging, search, and built‑in tools for documents, images, and code, plus features like agent building, prompt chaining, RAG, voice, canvas, and plugins. That is the core of what TypingMind does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TypingMind free?
     a: TypingMind is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with TypingMind?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like TypingMind 
 
 ## What is TypingMind?
 
-TypingMind unifies ChatGPT, Gemini, Claude, and other LLMs in one interface, enabling parallel chats, project folders, tagging, search, and built‑in tools for documents, images, and code, plus features like agent building, prompt chaining, RAG, voice, canvas, and plugins. Personal assistant Paid
-
+TypingMind unifies ChatGPT, Gemini, Claude, and other LLMs in one interface, enabling parallel chats, project folders, tagging, search, and built‑in tools for documents, images, and code, plus features like agent building, prompt chaining, RAG, voice, canvas, and plugins.
 In short, TypingMind is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of TypingMind replaces several steps they used to do by hand.
 
 ## Key features

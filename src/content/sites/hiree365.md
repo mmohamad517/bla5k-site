@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Hiree365?
-    a: "Hiree365 is an AI‑driven applicant tracking system that automates end‑to‑end recruitment: career page setup, job posting, chatbot screening, AI assessments, candidate matching, video interviews, stage tracking, and campus placement dashboards, consolidating data in one interface. AI Assistant Freemium - $60/mo That is the core of what Hiree365 does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "Hiree365 is an AI‑driven applicant tracking system that automates end‑to‑end recruitment: career page setup, job posting, chatbot screening, AI assessments, candidate matching, video interviews, stage tracking, and campus placement dashboards, consolidating data in one interface. That is the core of what Hiree365 does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is Hiree365 free?
     a: Hiree365 uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $60/mo, check the official website — pricing changes often.
   - q: What can you do with Hiree365?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Hiree365 ma
 
 ## What is Hiree365?
 
-Hiree365 is an AI‑driven applicant tracking system that automates end‑to‑end recruitment: career page setup, job posting, chatbot screening, AI assessments, candidate matching, video interviews, stage tracking, and campus placement dashboards, consolidating data in one interface. AI Assistant Freemium - $60/mo
-
+Hiree365 is an AI‑driven applicant tracking system that automates end‑to‑end recruitment: career page setup, job posting, chatbot screening, AI assessments, candidate matching, video interviews, stage tracking, and campus placement dashboards, consolidating data in one interface.
 In short, Hiree365 is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users find that this one ability of Hiree365 removes several tasks from their daily routine.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Viqal?
-    a: Viqal automates guest messaging across WhatsApp, Messenger, and web widgets, linking to a PMS for real‑time, personalized responses. It handles routine inquiries, upsells, digital keys, and post‑stay reviews, freeing staff for complex tasks.  That is the core of what Viqal does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Viqal automates guest messaging across WhatsApp, Messenger, and web widgets, linking to a PMS for real‑time, personalized responses. It handles routine inquiries, upsells, digital keys, and post‑stay reviews, freeing staff for complex tasks. That is the core of what Viqal does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Viqal free?
     a: Viqal is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Viqal?

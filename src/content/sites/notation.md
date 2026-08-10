@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Notation?
-    a: Notation is a CLI that pushes Markdown from a repo to a Notion page or static site. It reads a Notation.toml config, supports page metadata, and renders headers, lists, tables, code, images, links, and nested page references as Notion subpages.  That is the core of what Notation does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Notation is a CLI that pushes Markdown from a repo to a Notion page or static site. It reads a Notation.toml config, supports page metadata, and renders headers, lists, tables, code, images, links, and nested page references as Notion subpages. That is the core of what Notation does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Notation free?
     a: Yes — Notation is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Notation?

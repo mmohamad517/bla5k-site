@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is BackstoryAI?
-    a: BackstoryAI is an AI tool that generates complex character backstories and narratives using advanced generative AI technology. It allows users to customize stories, expand with prompts, and create rich character backgrounds seamlessly, catering to writers, game developers, therapists, and more. AI Assistant Free That is the core of what BackstoryAI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: BackstoryAI is an AI tool that generates complex character backstories and narratives using advanced generative AI technology. It allows users to customize stories, expand with prompts, and create rich character backgrounds seamlessly, catering to writers, game developers, therapists, and more. That is the core of what BackstoryAI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is BackstoryAI free?
     a: Yes — BackstoryAI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with BackstoryAI?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like BackstoryAI
 
 ## What is BackstoryAI?
 
-BackstoryAI is an AI tool that generates complex character backstories and narratives using advanced generative AI technology. It allows users to customize stories, expand with prompts, and create rich character backgrounds seamlessly, catering to writers, game developers, therapists, and more. AI Assistant Free
-
+BackstoryAI is an AI tool that generates complex character backstories and narratives using advanced generative AI technology. It allows users to customize stories, expand with prompts, and create rich character backgrounds seamlessly, catering to writers, game developers, therapists, and more.
 In short, BackstoryAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users discover that this feature of BackstoryAI alone covers what previously took multiple tools.
 
 ## Key features

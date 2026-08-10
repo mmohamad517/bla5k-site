@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Stonly?
-    a: Stonly is a knowledge management platform that enables the creation of interactive guides to enhance self-service support. Its AI-driven automation aids agents in resolving tickets efficiently, improving first-touch resolution rates and reducing support volume.  That is the core of what Stonly does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Stonly is a knowledge management platform that enables the creation of interactive guides to enhance self-service support. Its AI-driven automation aids agents in resolving tickets efficiently, improving first-touch resolution rates and reducing support volume. That is the core of what Stonly does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Stonly free?
     a: Stonly uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Stonly?

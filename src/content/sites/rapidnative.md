@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is RapidNative?
-    a: Rapidnative is an AI-driven code generator for mobile apps using React Native and Expo. It enables users to create visual prototypes from plain English prompts, producing production-ready code while facilitating team collaboration and real-time modifications. Code assistant Free trial That is the core of what RapidNative does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Rapidnative is an AI-driven code generator for mobile apps using React Native and Expo. It enables users to create visual prototypes from plain English prompts, producing production-ready code while facilitating team collaboration and real-time modifications. That is the core of what RapidNative does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is RapidNative free?
     a: RapidNative uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with RapidNative?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is RapidNative?
 
-Rapidnative is an AI-driven code generator for mobile apps using React Native and Expo. It enables users to create visual prototypes from plain English prompts, producing production-ready code while facilitating team collaboration and real-time modifications. Code assistant Free trial
-
+Rapidnative is an AI-driven code generator for mobile apps using React Native and Expo. It enables users to create visual prototypes from plain English prompts, producing production-ready code while facilitating team collaboration and real-time modifications.
 In short, RapidNative is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users find that this one ability of RapidNative removes several tasks from their daily routine.
 
 ## Key features

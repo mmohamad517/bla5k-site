@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Blackbox AI?
-    a: Blackbox AI is an AI-powered tool for developers that searches and autocompletes code snippets across multiple programming languages and repositories, extracts code from videos and PDFs, and converts queries into code.  That is the core of what Blackbox AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Blackbox AI is an AI-powered tool for developers that searches and autocompletes code snippets across multiple programming languages and repositories, extracts code from videos and PDFs, and converts queries into code. That is the core of what Blackbox AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Blackbox AI free?
     a: Blackbox AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $5/mo, check the official website — pricing changes often.
   - q: What can you do with Blackbox AI?

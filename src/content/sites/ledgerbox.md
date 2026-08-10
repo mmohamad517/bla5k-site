@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is LedgerBox?
-    a: AI Bank Statement Converter automates data extraction from bank statements and invoices, reducing manual entry time by up to 80%. It supports conversions to multiple formats and ensures data security with bank-level encryption. Accounting assistant Subscription - $24/mo That is the core of what LedgerBox does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Bank Statement Converter automates data extraction from bank statements and invoices, reducing manual entry time by up to 80%. It supports conversions to multiple formats and ensures data security with bank-level encryption. That is the core of what LedgerBox does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is LedgerBox free?
     a: LedgerBox is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with LedgerBox?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is LedgerBox?
 
-AI Bank Statement Converter automates data extraction from bank statements and invoices, reducing manual entry time by up to 80%. It supports conversions to multiple formats and ensures data security with bank-level encryption. Accounting assistant Subscription - $24/mo
-
+AI Bank Statement Converter automates data extraction from bank statements and invoices, reducing manual entry time by up to 80%. It supports conversions to multiple formats and ensures data security with bank-level encryption.
 In short, LedgerBox is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For a lot of people, that one function of LedgerBox collapses multiple steps into a single action.
 
 ## Key features

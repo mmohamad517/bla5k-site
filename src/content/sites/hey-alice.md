@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Alice App?
-    a: Alice is an AI assistant for macOS, Windows, and Linux that launches via hotkey, stores context locally, supports multiple LLMs through API keys, offers keyboard shortcuts, custom commands via Zapier/Make, and handles files, web, images, and visuals for reliable responses.  That is the core of what Alice App does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Alice is an AI assistant for macOS, Windows, and Linux that launches via hotkey, stores context locally, supports multiple LLMs through API keys, offers keyboard shortcuts, custom commands via Zapier/Make, and handles files, web, images, and visuals for reliable responses. That is the core of what Alice App does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Alice App free?
     a: Alice App is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Alice App?

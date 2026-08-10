@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Writer?
-    a: WRITER is an enterprise AI agent platform that builds, deploys, and governs agentic workflows using LLMs and a knowledge graph. It automates content production, research, and business workflows with playbooks, connectors, APIs, and compliance controls.  That is the core of what Writer does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: WRITER is an enterprise AI agent platform that builds, deploys, and governs agentic workflows using LLMs and a knowledge graph. It automates content production, research, and business workflows with playbooks, connectors, APIs, and compliance controls. That is the core of what Writer does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Writer free?
     a: Yes — Writer is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Writer?

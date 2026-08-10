@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is EyeGestures?
-    a: EyeGestures is a gaze‑tracking library that works with laptop or smartphone webcams. It supports Python and JavaScript, runs on all platforms, and can be embedded in servers, desktops, or browsers. EyeGesturesLite offers a lightweight, no‑server web version for prototyping. AI Assistant Free That is the core of what EyeGestures does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: EyeGestures is a gaze‑tracking library that works with laptop or smartphone webcams. It supports Python and JavaScript, runs on all platforms, and can be embedded in servers, desktops, or browsers. EyeGesturesLite offers a lightweight, no‑server web version for prototyping. That is the core of what EyeGestures does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is EyeGestures free?
     a: Yes — EyeGestures is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with EyeGestures?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like EyeGes
 
 ## What is EyeGestures?
 
-EyeGestures is a gaze‑tracking library that works with laptop or smartphone webcams. It supports Python and JavaScript, runs on all platforms, and can be embedded in servers, desktops, or browsers. EyeGesturesLite offers a lightweight, no‑server web version for prototyping. AI Assistant Free
-
+EyeGestures is a gaze‑tracking library that works with laptop or smartphone webcams. It supports Python and JavaScript, runs on all platforms, and can be embedded in servers, desktops, or browsers. EyeGesturesLite offers a lightweight, no‑server web version for prototyping.
 In short, EyeGestures is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one capability of EyeGestures frequently saves users from juggling several separate steps.
 
 ## Key features

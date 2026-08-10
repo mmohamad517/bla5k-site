@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Pydantic AI?
-    a: PydanticAI is a Python framework for developing generative AI applications, featuring type-safe responses, integration with various LLMs, real-time debugging, and support for model-agnostic development and complex application visualization.  That is the core of what Pydantic AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: PydanticAI is a Python framework for developing generative AI applications, featuring type-safe responses, integration with various LLMs, real-time debugging, and support for model-agnostic development and complex application visualization. That is the core of what Pydantic AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Pydantic AI free?
     a: Yes — Pydantic AI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Pydantic AI?

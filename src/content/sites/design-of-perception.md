@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Design of Perception?
-    a: Design of Perception is an AI‑driven web platform curating high‑resolution digital wall art. Users browse by theme, style or mood, download images, or order printed versions, serving collectors, interior designers, and hobbyists. Art Prints Paid That is the core of what Design of Perception does — ai print design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Design of Perception is an AI‑driven web platform curating high‑resolution digital wall art. Users browse by theme, style or mood, download images, or order printed versions, serving collectors, interior designers, and hobbyists. That is the core of what Design of Perception does — ai print design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Design of Perception free?
     a: Design of Perception is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Design of Perception?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Design of Perception?
 
-Design of Perception is an AI‑driven web platform curating high‑resolution digital wall art. Users browse by theme, style or mood, download images, or order printed versions, serving collectors, interior designers, and hobbyists. Art Prints Paid
-
+Design of Perception is an AI‑driven web platform curating high‑resolution digital wall art. Users browse by theme, style or mood, download images, or order printed versions, serving collectors, interior designers, and hobbyists.
 In short, Design of Perception is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI print design without the manual grind. For a lot of people, that one function of Design of Perception collapses multiple steps into a single action.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Passisto Online?
-    a: Passisto is an AI-driven chatbot that enhances user engagement on websites through real-time, human-like interactions. It supports multiple languages, offers contextual understanding, and features a no-code setup for easy implementation across various business sizes. Chat Free trial - $24/mo That is the core of what Passisto Online does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Passisto is an AI-driven chatbot that enhances user engagement on websites through real-time, human-like interactions. It supports multiple languages, offers contextual understanding, and features a no-code setup for easy implementation across various business sizes. That is the core of what Passisto Online does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Passisto Online free?
     a: Passisto Online uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $24/mo, check the official website — pricing changes often.
   - q: What can you do with Passisto Online?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Passisto Online 
 
 ## What is Passisto Online?
 
-Passisto is an AI-driven chatbot that enhances user engagement on websites through real-time, human-like interactions. It supports multiple languages, offers contextual understanding, and features a no-code setup for easy implementation across various business sizes. Chat Free trial - $24/mo
-
+Passisto is an AI-driven chatbot that enhances user engagement on websites through real-time, human-like interactions. It supports multiple languages, offers contextual understanding, and features a no-code setup for easy implementation across various business sizes.
 In short, Passisto Online is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. That one feature of Passisto Online often eliminates several smaller steps from the usual workflow.
 
 ## Key features

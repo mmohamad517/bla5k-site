@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is FlowCog?
-    a: FlowCog automatically syncs accounting data from QuickBooks, Xero, and Puzzle to create dynamic, real‑time financial projections. It replaces spreadsheets with an interactive canvas for revenue, cash runway, and break‑even analysis, enabling rapid what‑if comparisons for startups and small businesses. Accounting assistant Free trial That is the core of what FlowCog does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: FlowCog automatically syncs accounting data from QuickBooks, Xero, and Puzzle to create dynamic, real‑time financial projections. It replaces spreadsheets with an interactive canvas for revenue, cash runway, and break‑even analysis, enabling rapid what‑if comparisons for startups and small businesses. That is the core of what FlowCog does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is FlowCog free?
     a: FlowCog uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with FlowCog?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is FlowCog?
 
-FlowCog automatically syncs accounting data from QuickBooks, Xero, and Puzzle to create dynamic, real‑time financial projections. It replaces spreadsheets with an interactive canvas for revenue, cash runway, and break‑even analysis, enabling rapid what‑if comparisons for startups and small businesses. Accounting assistant Free trial
-
+FlowCog automatically syncs accounting data from QuickBooks, Xero, and Puzzle to create dynamic, real‑time financial projections. It replaces spreadsheets with an interactive canvas for revenue, cash runway, and break‑even analysis, enabling rapid what‑if comparisons for startups and small businesses.
 In short, FlowCog is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users discover that this feature of FlowCog alone covers what previously took multiple tools.
 
 ## Key features

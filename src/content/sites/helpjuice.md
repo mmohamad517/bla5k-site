@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Helpjuice?
-    a: Helpjuice is a knowledge base software that centralizes FAQs, guides, and SOPs, enhancing internal knowledge sharing and customer support. It features AI search, analytics, and collaboration tools to streamline information management and improve productivity.  That is the core of what Helpjuice does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Helpjuice is a knowledge base software that centralizes FAQs, guides, and SOPs, enhancing internal knowledge sharing and customer support. It features AI search, analytics, and collaboration tools to streamline information management and improve productivity. That is the core of what Helpjuice does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Helpjuice free?
     a: Helpjuice uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Helpjuice?

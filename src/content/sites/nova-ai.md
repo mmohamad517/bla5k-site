@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Nova AI?
-    a: Nova is an all-in-one AI chatbot built on multiple models, offering versatile support for tasks like answering questions, assisting with homework, proofreading writing, and even generating creative content across various platforms.  That is the core of what Nova AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Nova is an all-in-one AI chatbot built on multiple models, offering versatile support for tasks like answering questions, assisting with homework, proofreading writing, and even generating creative content across various platforms. That is the core of what Nova AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Nova AI free?
     a: Nova AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Nova AI?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is aiToggler?
-    a: aiToggler.com is a centralized hub for 300+ AI models across text, image, video, audio, and 3D generation. It provides live performance rankings, instant model switching, and integrated tools for comparison, creation, and workflow deployment.  That is the core of what aiToggler does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: aiToggler.com is a centralized hub for 300+ AI models across text, image, video, audio, and 3D generation. It provides live performance rankings, instant model switching, and integrated tools for comparison, creation, and workflow deployment. That is the core of what aiToggler does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is aiToggler free?
     a: aiToggler uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with aiToggler?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is timehero.com?
-    a: TimeHero automatically schedules tasks and projects across calendars and tools, pulling items from Gmail, Slack, Asana, and 1,000+ apps. It adapts to changes, flags deadlines, tracks time, and delivers real‑time capacity reports for managers. Project management Freemium - $5/mo That is the core of what timehero.com does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: TimeHero automatically schedules tasks and projects across calendars and tools, pulling items from Gmail, Slack, Asana, and 1,000+ apps. It adapts to changes, flags deadlines, tracks time, and delivers real‑time capacity reports for managers. That is the core of what timehero.com does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is timehero.com free?
     a: timehero.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $5/mo, check the official website — pricing changes often.
   - q: What can you do with timehero.com?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is timehero.com?
 
-TimeHero automatically schedules tasks and projects across calendars and tools, pulling items from Gmail, Slack, Asana, and 1,000+ apps. It adapts to changes, flags deadlines, tracks time, and delivers real‑time capacity reports for managers. Project management Freemium - $5/mo
-
+TimeHero automatically schedules tasks and projects across calendars and tools, pulling items from Gmail, Slack, Asana, and 1,000+ apps. It adapts to changes, flags deadlines, tracks time, and delivers real‑time capacity reports for managers.
 In short, timehero.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For plenty of users, that one capability of timehero.com replaces several steps they used to do by hand.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Rapidbott?
-    a: Rapidbott is a no‑code chatbot platform for deploying conversational agents on 12+ channels—Facebook, WhatsApp, Telegram, Slack, SMS—using a drag‑and‑drop builder and templates. It integrates with Shopify, Google Sheets, HubSpot, Zapier, and supports GPT‑3.0 for support, lead generation, and sales workflows.  That is the core of what Rapidbott does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Rapidbott is a no‑code chatbot platform for deploying conversational agents on 12+ channels—Facebook, WhatsApp, Telegram, Slack, SMS—using a drag‑and‑drop builder and templates. It integrates with Shopify, Google Sheets, HubSpot, Zapier, and supports GPT‑3.0 for support, lead generation, and sales workflows. That is the core of what Rapidbott does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Rapidbott free?
     a: Rapidbott uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $49/mo, check the official website — pricing changes often.
   - q: What can you do with Rapidbott?

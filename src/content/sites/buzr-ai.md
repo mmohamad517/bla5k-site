@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Buzr AI?
-    a: Buzr AI is an advanced voice-powered tool that streamlines business operations by managing appointments, reservations, support queries, and more. It offers customization options for engaging interactions and optimizes efficiency across industries. Personal assistant Freemium That is the core of what Buzr AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Buzr AI is an advanced voice-powered tool that streamlines business operations by managing appointments, reservations, support queries, and more. It offers customization options for engaging interactions and optimizes efficiency across industries. That is the core of what Buzr AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Buzr AI free?
     a: Buzr AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Buzr AI?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Buzr AI?
 
-Buzr AI is an advanced voice-powered tool that streamlines business operations by managing appointments, reservations, support queries, and more. It offers customization options for engaging interactions and optimizes efficiency across industries. Personal assistant Freemium
-
+Buzr AI is an advanced voice-powered tool that streamlines business operations by managing appointments, reservations, support queries, and more. It offers customization options for engaging interactions and optimizes efficiency across industries.
 In short, Buzr AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one feature of Buzr AI often eliminates several smaller steps from the usual workflow.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Klyra AI?
-    a: Klyra AI is an AI-powered content creation platform that generates videos, voiceovers, avatars, and images for marketers, educators, and creators. It offers tools like voice cloning, transcription, and audio production with an intuitive interface for seamless content development.  That is the core of what Klyra AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Klyra AI is an AI-powered content creation platform that generates videos, voiceovers, avatars, and images for marketers, educators, and creators. It offers tools like voice cloning, transcription, and audio production with an intuitive interface for seamless content development. That is the core of what Klyra AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Klyra AI free?
     a: Klyra AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $10/mo, check the official website — pricing changes often.
   - q: What can you do with Klyra AI?

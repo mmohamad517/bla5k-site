@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is DeepRFP?
-    a: DeepRFP is an AI-driven software that automates RFP responses, enhancing proposal writing efficiency. It features an RFP analyzer, quick narrative generation, automated questionnaire responses, and compliance support, catering to diverse users across 28 languages. Document management Free trial - $75 That is the core of what DeepRFP does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: DeepRFP is an AI-driven software that automates RFP responses, enhancing proposal writing efficiency. It features an RFP analyzer, quick narrative generation, automated questionnaire responses, and compliance support, catering to diverse users across 28 languages. That is the core of what DeepRFP does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is DeepRFP free?
     a: DeepRFP uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $75, check the official website — pricing changes often.
   - q: What can you do with DeepRFP?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is DeepRFP?
 
-DeepRFP is an AI-driven software that automates RFP responses, enhancing proposal writing efficiency. It features an RFP analyzer, quick narrative generation, automated questionnaire responses, and compliance support, catering to diverse users across 28 languages. Document management Free trial - $75
-
+DeepRFP is an AI-driven software that automates RFP responses, enhancing proposal writing efficiency. It features an RFP analyzer, quick narrative generation, automated questionnaire responses, and compliance support, catering to diverse users across 28 languages.
 In short, DeepRFP is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. That one feature of DeepRFP often eliminates several smaller steps from the usual workflow.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Storylist?
-    a: Storylist automatically turns simple project descriptions into structured user stories, offering time estimates, GitHub sync, shared boards, and public links for clear communication. It helps non‑technical founders, solo entrepreneurs, and freelance developers streamline planning and reduce miscommunication. Project management Freemium - $5.99/mo That is the core of what Storylist does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Storylist automatically turns simple project descriptions into structured user stories, offering time estimates, GitHub sync, shared boards, and public links for clear communication. It helps non‑technical founders, solo entrepreneurs, and freelance developers streamline planning and reduce miscommunication. That is the core of what Storylist does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Storylist free?
     a: Storylist uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $5.99/mo, check the official website — pricing changes often.
   - q: What can you do with Storylist?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Storylist m
 
 ## What is Storylist?
 
-Storylist automatically turns simple project descriptions into structured user stories, offering time estimates, GitHub sync, shared boards, and public links for clear communication. It helps non‑technical founders, solo entrepreneurs, and freelance developers streamline planning and reduce miscommunication. Project management Freemium - $5.99/mo
-
+Storylist automatically turns simple project descriptions into structured user stories, offering time estimates, GitHub sync, shared boards, and public links for clear communication. It helps non‑technical founders, solo entrepreneurs, and freelance developers streamline planning and reduce miscommunication.
 In short, Storylist is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. Many users find that this one ability of Storylist removes several tasks from their daily routine.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ballet?
-    a: Ballet automates revenue-stack workflows with plain-English outcome definitions. It deploys automations for routing, attribution, enrichment, and next-best-action across CRM, billing, and product data. Workflow Automation Subscription That is the core of what Ballet does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ballet automates revenue-stack workflows with plain-English outcome definitions. It deploys automations for routing, attribution, enrichment, and next-best-action across CRM, billing, and product data. That is the core of what Ballet does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ballet free?
     a: Ballet is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Ballet?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Ballet?
 
-Ballet automates revenue-stack workflows with plain-English outcome definitions. It deploys automations for routing, attribution, enrichment, and next-best-action across CRM, billing, and product data. Workflow Automation Subscription
-
+Ballet automates revenue-stack workflows with plain-English outcome definitions. It deploys automations for routing, attribution, enrichment, and next-best-action across CRM, billing, and product data.
 In short, Ballet is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. For a lot of people, that one function of Ballet collapses multiple steps into a single action.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Roark?
-    a: Roark - Voice AI Evals provides monitoring and evaluation tools for voice AI, tracking over 40 call metrics, facilitating multi-speaker analysis, and ensuring compliance with regulations while optimizing voice agent performance through customizable dashboards and automated alerts. AI Agents Freemium That is the core of what Roark does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Roark - Voice AI Evals provides monitoring and evaluation tools for voice AI, tracking over 40 call metrics, facilitating multi-speaker analysis, and ensuring compliance with regulations while optimizing voice agent performance through customizable dashboards and automated alerts. That is the core of what Roark does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Roark free?
     a: Roark uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Roark?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Roark?
 
-Roark - Voice AI Evals provides monitoring and evaluation tools for voice AI, tracking over 40 call metrics, facilitating multi-speaker analysis, and ensuring compliance with regulations while optimizing voice agent performance through customizable dashboards and automated alerts. AI Agents Freemium
-
+Roark - Voice AI Evals provides monitoring and evaluation tools for voice AI, tracking over 40 call metrics, facilitating multi-speaker analysis, and ensuring compliance with regulations while optimizing voice agent performance through customizable dashboards and automated alerts.
 In short, Roark is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users find that this one ability of Roark removes several tasks from their daily routine.
 
 ## Key features

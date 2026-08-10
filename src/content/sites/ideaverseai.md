@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is IdeaverseAI?
-    a: Ideaverse AI is a web platform offering 100+ AI models for text-to-image and text-to-video generation, plus batch processing, templates, model comparison, and export presets to streamline customizable content workflows for creators, marketers, and product teams. Content creation Freemium That is the core of what IdeaverseAI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ideaverse AI is a web platform offering 100+ AI models for text-to-image and text-to-video generation, plus batch processing, templates, model comparison, and export presets to streamline customizable content workflows for creators, marketers, and product teams. That is the core of what IdeaverseAI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is IdeaverseAI free?
     a: IdeaverseAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with IdeaverseAI?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is IdeaverseAI?
 
-Ideaverse AI is a web platform offering 100+ AI models for text-to-image and text-to-video generation, plus batch processing, templates, model comparison, and export presets to streamline customizable content workflows for creators, marketers, and product teams. Content creation Freemium
-
+Ideaverse AI is a web platform offering 100+ AI models for text-to-image and text-to-video generation, plus batch processing, templates, model comparison, and export presets to streamline customizable content workflows for creators, marketers, and product teams.
 In short, IdeaverseAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. That one capability of IdeaverseAI frequently saves users from juggling several separate steps.
 
 ## Key features

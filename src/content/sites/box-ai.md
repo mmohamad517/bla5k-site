@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Box AI?
-    a: Box AI is a secure and compliant enterprise-grade AI tool that offers end-to-end data protection, collaboration features, workflow automation, and AI-powered content insights.  That is the core of what Box AI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Box AI is a secure and compliant enterprise-grade AI tool that offers end-to-end data protection, collaboration features, workflow automation, and AI-powered content insights. That is the core of what Box AI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Box AI free?
     a: Box AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $6, check the official website — pricing changes often.
   - q: What can you do with Box AI?

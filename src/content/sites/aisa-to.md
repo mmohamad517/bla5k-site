@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AISA.to?
-    a: AISA.to is an AI-powered skills assessment tool that delivers a personalized 20-minute evaluation, role-based persona classification, and a verifiable certificate. It also offers an optional AI coach for ongoing learning, plus team benchmarking to guide hiring and upskilling. Coaching Free That is the core of what AISA.to does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AISA.to is an AI-powered skills assessment tool that delivers a personalized 20-minute evaluation, role-based persona classification, and a verifiable certificate. It also offers an optional AI coach for ongoing learning, plus team benchmarking to guide hiring and upskilling. That is the core of what AISA.to does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AISA.to free?
     a: Yes — AISA.to is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with AISA.to?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like AISA.to earn the
 
 ## What is AISA.to?
 
-AISA.to is an AI-powered skills assessment tool that delivers a personalized 20-minute evaluation, role-based persona classification, and a verifiable certificate. It also offers an optional AI coach for ongoing learning, plus team benchmarking to guide hiring and upskilling. Coaching Free
-
+AISA.to is an AI-powered skills assessment tool that delivers a personalized 20-minute evaluation, role-based persona classification, and a verifiable certificate. It also offers an optional AI coach for ongoing learning, plus team benchmarking to guide hiring and upskilling.
 In short, AISA.to is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. That one feature of AISA.to often eliminates several smaller steps from the usual workflow.
 
 ## Key features

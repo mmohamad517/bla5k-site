@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Upreach?
-    a: Upreach is an AI‑powered outreach platform that converts a single natural‑language query into precise leads from 25 data sources. It offers advanced filters, GPT‑generated personalized emails, automated scheduling, and engagement tracking for efficient outreach. Communication Automation Subscription - $100/mo That is the core of what Upreach does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Upreach is an AI‑powered outreach platform that converts a single natural‑language query into precise leads from 25 data sources. It offers advanced filters, GPT‑generated personalized emails, automated scheduling, and engagement tracking for efficient outreach. That is the core of what Upreach does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Upreach free?
     a: Upreach is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Upreach?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Upreach?
 
-Upreach is an AI‑powered outreach platform that converts a single natural‑language query into precise leads from 25 data sources. It offers advanced filters, GPT‑generated personalized emails, automated scheduling, and engagement tracking for efficient outreach. Communication Automation Subscription - $100/mo
-
+Upreach is an AI‑powered outreach platform that converts a single natural‑language query into precise leads from 25 data sources. It offers advanced filters, GPT‑generated personalized emails, automated scheduling, and engagement tracking for efficient outreach.
 In short, Upreach is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. For many, that single strength of Upreach is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Agent Crop?
-    a: Agent Crop is a mobile app that instantly detects crop diseases and identifies plant species from PNG, JPG, or JPEG images up to 50 MB. It processes data on‑device, discards images after use, and supports farmers and horticulturists with quick diagnostics. AI Agents Freemium That is the core of what Agent Crop does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Agent Crop is a mobile app that instantly detects crop diseases and identifies plant species from PNG, JPG, or JPEG images up to 50 MB. It processes data on‑device, discards images after use, and supports farmers and horticulturists with quick diagnostics. That is the core of what Agent Crop does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Agent Crop free?
     a: Agent Crop uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Agent Crop?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Agent Crop?
 
-Agent Crop is a mobile app that instantly detects crop diseases and identifies plant species from PNG, JPG, or JPEG images up to 50 MB. It processes data on‑device, discards images after use, and supports farmers and horticulturists with quick diagnostics. AI Agents Freemium
-
+Agent Crop is a mobile app that instantly detects crop diseases and identifies plant species from PNG, JPG, or JPEG images up to 50 MB. It processes data on‑device, discards images after use, and supports farmers and horticulturists with quick diagnostics.
 In short, Agent Crop is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That one capability of Agent Crop frequently saves users from juggling several separate steps.
 
 ## Key features

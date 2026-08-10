@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CodeGrow?
-    a: Codegrow is an AI-driven platform for developing iOS applications, allowing users to generate, build, and launch apps with minimal coding. It features full source code ownership, seamless App Store deployment, automation tools, and a supportive community. App Builder Free trial That is the core of what CodeGrow does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Codegrow is an AI-driven platform for developing iOS applications, allowing users to generate, build, and launch apps with minimal coding. It features full source code ownership, seamless App Store deployment, automation tools, and a supportive community. That is the core of what CodeGrow does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CodeGrow free?
     a: CodeGrow uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with CodeGrow?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like CodeGr
 
 ## What is CodeGrow?
 
-Codegrow is an AI-driven platform for developing iOS applications, allowing users to generate, build, and launch apps with minimal coding. It features full source code ownership, seamless App Store deployment, automation tools, and a supportive community. App Builder Free trial
-
+Codegrow is an AI-driven platform for developing iOS applications, allowing users to generate, build, and launch apps with minimal coding. It features full source code ownership, seamless App Store deployment, automation tools, and a supportive community.
 In short, CodeGrow is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. Many users find that this one ability of CodeGrow removes several tasks from their daily routine.
 
 ## Key features

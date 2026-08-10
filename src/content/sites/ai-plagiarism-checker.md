@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Plagiarism Checker?
-    a: The AI plagiarism checker from plagiarismcheck.org uses advanced AI technology to detect AI-generated content and plagiarism, supports various file formats, and is useful in academia, SEO, and recruitment.  That is the core of what AI Plagiarism Checker does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: The AI plagiarism checker from plagiarismcheck.org uses advanced AI technology to detect AI-generated content and plagiarism, supports various file formats, and is useful in academia, SEO, and recruitment. That is the core of what AI Plagiarism Checker does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI Plagiarism Checker free?
     a: AI Plagiarism Checker uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $5.99, check the official website — pricing changes often.
   - q: What can you do with AI Plagiarism Checker?

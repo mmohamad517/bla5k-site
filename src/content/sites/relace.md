@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Relace?
-    a: Relace is an AI tool that enhances coding workflows through code retrieval, merging, and generation, facilitating rapid modifications in large codebases while ensuring accuracy and enterprise-level security compliance. Code assistant Freemium That is the core of what Relace does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Relace is an AI tool that enhances coding workflows through code retrieval, merging, and generation, facilitating rapid modifications in large codebases while ensuring accuracy and enterprise-level security compliance. That is the core of what Relace does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Relace free?
     a: Relace uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Relace?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Relace?
 
-Relace is an AI tool that enhances coding workflows through code retrieval, merging, and generation, facilitating rapid modifications in large codebases while ensuring accuracy and enterprise-level security compliance. Code assistant Freemium
-
+Relace is an AI tool that enhances coding workflows through code retrieval, merging, and generation, facilitating rapid modifications in large codebases while ensuring accuracy and enterprise-level security compliance.
 In short, Relace is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one capability of Relace frequently saves users from juggling several separate steps.
 
 ## Key features

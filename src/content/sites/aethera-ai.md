@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Aethera AI?
-    a: Aethera is an AI tool for optimizing knowledge discovery and document management, supporting diverse content import, advanced filtering, multilingual analysis, and efficient organization, facilitating secure collaboration and centralized access for teams and researchers.  That is the core of what Aethera AI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Aethera is an AI tool for optimizing knowledge discovery and document management, supporting diverse content import, advanced filtering, multilingual analysis, and efficient organization, facilitating secure collaboration and centralized access for teams and researchers. That is the core of what Aethera AI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Aethera AI free?
     a: Aethera AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Aethera AI?

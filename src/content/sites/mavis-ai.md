@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Mavis AI?
-    a: Mavis AI is a content automation platform that enables publishers and marketing teams to quickly generate SEO-friendly articles, newsletters, and social media posts. It offers advanced workflows, over 100 copywriting templates, and supports more than 30 languages. Content Writing Free trial That is the core of what Mavis AI does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Mavis AI is a content automation platform that enables publishers and marketing teams to quickly generate SEO-friendly articles, newsletters, and social media posts. It offers advanced workflows, over 100 copywriting templates, and supports more than 30 languages. That is the core of what Mavis AI does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Mavis AI free?
     a: Mavis AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Mavis AI?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Mavis AI?
 
-Mavis AI is a content automation platform that enables publishers and marketing teams to quickly generate SEO-friendly articles, newsletters, and social media posts. It offers advanced workflows, over 100 copywriting templates, and supports more than 30 languages. Content Writing Free trial
-
+Mavis AI is a content automation platform that enables publishers and marketing teams to quickly generate SEO-friendly articles, newsletters, and social media posts. It offers advanced workflows, over 100 copywriting templates, and supports more than 30 languages.
 In short, Mavis AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For many, that single strength of Mavis AI is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

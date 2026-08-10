@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Web2Chat?
-    a: Web2chat is an AI chatbot tool for websites, providing personalized assistance to visitors by instantly responding to inquiries. Easily create custom chatbots trained on website content for improved user experience. Customer support Freemium - $19/mo That is the core of what Web2Chat does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Web2chat is an AI chatbot tool for websites, providing personalized assistance to visitors by instantly responding to inquiries. Easily create custom chatbots trained on website content for improved user experience. That is the core of what Web2Chat does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Web2Chat free?
     a: Web2Chat uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $19/mo, check the official website — pricing changes often.
   - q: What can you do with Web2Chat?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Web2Chat earn th
 
 ## What is Web2Chat?
 
-Web2chat is an AI chatbot tool for websites, providing personalized assistance to visitors by instantly responding to inquiries. Easily create custom chatbots trained on website content for improved user experience. Customer support Freemium - $19/mo
-
+Web2chat is an AI chatbot tool for websites, providing personalized assistance to visitors by instantly responding to inquiries. Easily create custom chatbots trained on website content for improved user experience.
 In short, Web2Chat is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. That one capability of Web2Chat frequently saves users from juggling several separate steps.
 
 ## Key features

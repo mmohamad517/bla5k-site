@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Lamatic.ai?
-    a: Lamatic AI is a visual flow builder platform that lets teams design, test, and deploy generative AI and agentic apps using over 100 models and data sources. It offers serverless infrastructure, real‑time logging, edge deployment, and auto‑scaling for rapid iteration. AI Agents Freemium - $99/mo That is the core of what Lamatic.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Lamatic AI is a visual flow builder platform that lets teams design, test, and deploy generative AI and agentic apps using over 100 models and data sources. It offers serverless infrastructure, real‑time logging, edge deployment, and auto‑scaling for rapid iteration. That is the core of what Lamatic.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Lamatic.ai free?
     a: Lamatic.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $99/mo, check the official website — pricing changes often.
   - q: What can you do with Lamatic.ai?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Lamatic.ai 
 
 ## What is Lamatic.ai?
 
-Lamatic AI is a visual flow builder platform that lets teams design, test, and deploy generative AI and agentic apps using over 100 models and data sources. It offers serverless infrastructure, real‑time logging, edge deployment, and auto‑scaling for rapid iteration. AI Agents Freemium - $99/mo
-
+Lamatic AI is a visual flow builder platform that lets teams design, test, and deploy generative AI and agentic apps using over 100 models and data sources. It offers serverless infrastructure, real‑time logging, edge deployment, and auto‑scaling for rapid iteration.
 In short, Lamatic.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That one capability of Lamatic.ai frequently saves users from juggling several separate steps.
 
 ## Key features

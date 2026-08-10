@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is autobotAI?
-    a: AutobotAI automates security alert investigation with autonomous agents governed by code‑defined policies, offering audit trails, reasoning logs, and a unified dashboard that integrates over 500 tools. It auto‑generates compliance reports, reducing analyst workload and boosting Tier‑1 resolution.  That is the core of what autobotAI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AutobotAI automates security alert investigation with autonomous agents governed by code‑defined policies, offering audit trails, reasoning logs, and a unified dashboard that integrates over 500 tools. It auto‑generates compliance reports, reducing analyst workload and boosting Tier‑1 resolution. That is the core of what autobotAI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is autobotAI free?
     a: autobotAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $79/mo, check the official website — pricing changes often.
   - q: What can you do with autobotAI?

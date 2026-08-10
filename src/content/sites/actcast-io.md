@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is actcast.io?
-    a: Actcast is an IoT platform that runs deep‑learning inference on edge devices, detecting objects such as cats and faces locally. It reduces data transfer costs, protects privacy, and provides webhook APIs for real‑time alerts and cloud integration.  That is the core of what actcast.io does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Actcast is an IoT platform that runs deep‑learning inference on edge devices, detecting objects such as cats and faces locally. It reduces data transfer costs, protects privacy, and provides webhook APIs for real‑time alerts and cloud integration. That is the core of what actcast.io does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is actcast.io free?
     a: actcast.io uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with actcast.io?

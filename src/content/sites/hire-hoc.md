@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Hire Hoc?
-    a: Hire Hoc automates hiring by generating job descriptions, shortlisting candidates, and delivering one‑way video assessments. It imports CSV data, matches applicants to roles, schedules interviews via Calendly, and offers instant onboarding without a credit card. Human resources Freemium That is the core of what Hire Hoc does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Hire Hoc automates hiring by generating job descriptions, shortlisting candidates, and delivering one‑way video assessments. It imports CSV data, matches applicants to roles, schedules interviews via Calendly, and offers instant onboarding without a credit card. That is the core of what Hire Hoc does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Hire Hoc free?
     a: Hire Hoc uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Hire Hoc?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Hire Hoc?
 
-Hire Hoc automates hiring by generating job descriptions, shortlisting candidates, and delivering one‑way video assessments. It imports CSV data, matches applicants to roles, schedules interviews via Calendly, and offers instant onboarding without a credit card. Human resources Freemium
-
+Hire Hoc automates hiring by generating job descriptions, shortlisting candidates, and delivering one‑way video assessments. It imports CSV data, matches applicants to roles, schedules interviews via Calendly, and offers instant onboarding without a credit card.
 In short, Hire Hoc is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. For many, that single strength of Hire Hoc is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CopyCop?
-    a: Copycop AI automatically generates Facebook ad copy that complies with current policy rules. By inputting product keywords, it outputs multiple ready‑to‑use text options in seconds, with tone and language settings, and lets marketers edit directly for quick A/B testing. Copywriting Free trial That is the core of what CopyCop does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Copycop AI automatically generates Facebook ad copy that complies with current policy rules. By inputting product keywords, it outputs multiple ready‑to‑use text options in seconds, with tone and language settings, and lets marketers edit directly for quick A/B testing. That is the core of what CopyCop does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CopyCop free?
     a: CopyCop uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with CopyCop?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like CopyCop ear
 
 ## What is CopyCop?
 
-Copycop AI automatically generates Facebook ad copy that complies with current policy rules. By inputting product keywords, it outputs multiple ready‑to‑use text options in seconds, with tone and language settings, and lets marketers edit directly for quick A/B testing. Copywriting Free trial
-
+Copycop AI automatically generates Facebook ad copy that complies with current policy rules. By inputting product keywords, it outputs multiple ready‑to‑use text options in seconds, with tone and language settings, and lets marketers edit directly for quick A/B testing.
 In short, CopyCop is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. That single feature of CopyCop alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

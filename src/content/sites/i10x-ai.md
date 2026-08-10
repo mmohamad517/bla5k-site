@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is i10X.ai?
-    a: i10X.ai is a marketplace offering 500+ specialized AI agents and tools for tasks like business strategy, content creation, and visual processing. It supports GPT-4o and Claude 3.7, handling text and image inputs for marketing, SEO, and productivity automation.  That is the core of what i10X.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: i10X.ai is a marketplace offering 500+ specialized AI agents and tools for tasks like business strategy, content creation, and visual processing. It supports GPT-4o and Claude 3.7, handling text and image inputs for marketing, SEO, and productivity automation. That is the core of what i10X.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is i10X.ai free?
     a: i10X.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $10/mo, check the official website — pricing changes often.
   - q: What can you do with i10X.ai?

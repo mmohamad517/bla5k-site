@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is agentafk?
-    a: agentafk is an open-source unattended runtime for coding agents that enforces permission boundaries, explicit terminal states, and local trace history. It orchestrates subagents in isolated worktrees with gated operations, adversarial verification, and remote supervision for safe, auditable, long-running automation. AI Agents Freemium That is the core of what agentafk does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: agentafk is an open-source unattended runtime for coding agents that enforces permission boundaries, explicit terminal states, and local trace history. It orchestrates subagents in isolated worktrees with gated operations, adversarial verification, and remote supervision for safe, auditable, long-running automation. That is the core of what agentafk does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is agentafk free?
     a: agentafk uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with agentafk?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like agentafk ma
 
 ## What is agentafk?
 
-agentafk is an open-source unattended runtime for coding agents that enforces permission boundaries, explicit terminal states, and local trace history. It orchestrates subagents in isolated worktrees with gated operations, adversarial verification, and remote supervision for safe, auditable, long-running automation. AI Agents Freemium
-
+agentafk is an open-source unattended runtime for coding agents that enforces permission boundaries, explicit terminal states, and local trace history. It orchestrates subagents in isolated worktrees with gated operations, adversarial verification, and remote supervision for safe, auditable, long-running automation.
 In short, agentafk is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users discover that this feature of agentafk alone covers what previously took multiple tools.
 
 ## Key features

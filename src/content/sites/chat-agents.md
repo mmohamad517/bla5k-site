@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Chat Agents?
-    a: Chatagents is a no-code AI chatbot builder that creates on-brand chatbots from your website, files and FAQs, delivering source-based answers, built-in actions (email, calendar, Sheets, API calls), and easy deployment to websites, WhatsApp, and social platforms. Chatbot builder Free trial That is the core of what Chat Agents does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Chatagents is a no-code AI chatbot builder that creates on-brand chatbots from your website, files and FAQs, delivering source-based answers, built-in actions (email, calendar, Sheets, API calls), and easy deployment to websites, WhatsApp, and social platforms. That is the core of what Chat Agents does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Chat Agents free?
     a: Chat Agents uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Chat Agents?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Chat Agents?
 
-Chatagents is a no-code AI chatbot builder that creates on-brand chatbots from your website, files and FAQs, delivering source-based answers, built-in actions (email, calendar, Sheets, API calls), and easy deployment to websites, WhatsApp, and social platforms. Chatbot builder Free trial
-
+Chatagents is a no-code AI chatbot builder that creates on-brand chatbots from your website, files and FAQs, delivering source-based answers, built-in actions (email, calendar, Sheets, API calls), and easy deployment to websites, WhatsApp, and social platforms.
 In short, Chat Agents is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For a lot of people, that one function of Chat Agents collapses multiple steps into a single action.
 
 ## Key features

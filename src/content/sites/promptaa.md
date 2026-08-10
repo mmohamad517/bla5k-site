@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Promptaa?
-    a: Promptaa generates, enhances, and organizes prompts for ChatGPT, Claude, and other generative AI. Create category-based prompts, auto-improve wording and structure, save searchable versioned libraries, share or collaborate, and reuse templates across projects. Content creation Subscription That is the core of what Promptaa does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Promptaa generates, enhances, and organizes prompts for ChatGPT, Claude, and other generative AI. Create category-based prompts, auto-improve wording and structure, save searchable versioned libraries, share or collaborate, and reuse templates across projects. That is the core of what Promptaa does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Promptaa free?
     a: Promptaa is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Promptaa?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Promptaa?
 
-Promptaa generates, enhances, and organizes prompts for ChatGPT, Claude, and other generative AI. Create category-based prompts, auto-improve wording and structure, save searchable versioned libraries, share or collaborate, and reuse templates across projects. Content creation Subscription
-
+Promptaa generates, enhances, and organizes prompts for ChatGPT, Claude, and other generative AI. Create category-based prompts, auto-improve wording and structure, save searchable versioned libraries, share or collaborate, and reuse templates across projects.
 In short, Promptaa is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. Many users find that this one ability of Promptaa removes several tasks from their daily routine.
 
 ## Key features

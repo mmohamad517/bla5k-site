@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is taptalk.io?
-    a: TapTalk unifies WhatsApp, Instagram, Facebook Messenger, Twitter DM, LINE, Telegram, and email into a single dashboard for sales, marketing, and support. It offers an in‑app chat SDK, automated OTP/notifications, GenAI chatbots, broadcast messaging, and detailed performance analytics. Omnichannel chatbot Freemium That is the core of what taptalk.io does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: TapTalk unifies WhatsApp, Instagram, Facebook Messenger, Twitter DM, LINE, Telegram, and email into a single dashboard for sales, marketing, and support. It offers an in‑app chat SDK, automated OTP/notifications, GenAI chatbots, broadcast messaging, and detailed performance analytics. That is the core of what taptalk.io does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is taptalk.io free?
     a: taptalk.io uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with taptalk.io?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is taptalk.io?
 
-TapTalk unifies WhatsApp, Instagram, Facebook Messenger, Twitter DM, LINE, Telegram, and email into a single dashboard for sales, marketing, and support. It offers an in‑app chat SDK, automated OTP/notifications, GenAI chatbots, broadcast messaging, and detailed performance analytics. Omnichannel chatbot Freemium
-
+TapTalk unifies WhatsApp, Instagram, Facebook Messenger, Twitter DM, LINE, Telegram, and email into a single dashboard for sales, marketing, and support. It offers an in‑app chat SDK, automated OTP/notifications, GenAI chatbots, broadcast messaging, and detailed performance analytics.
 In short, taptalk.io is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For a lot of people, that one function of taptalk.io collapses multiple steps into a single action.
 
 ## Key features

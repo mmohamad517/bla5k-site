@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Breef Docs?
-    a: Breef Docs is an AI-powered knowledge base that enhances team collaboration by enabling secure document creation, management, and sharing. It features advanced search capabilities and organized documentation for efficient knowledge sharing and improved workflow.  That is the core of what Breef Docs does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Breef Docs is an AI-powered knowledge base that enhances team collaboration by enabling secure document creation, management, and sharing. It features advanced search capabilities and organized documentation for efficient knowledge sharing and improved workflow. That is the core of what Breef Docs does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Breef Docs free?
     a: Breef Docs uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Breef Docs?

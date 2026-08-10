@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MindSmith?
-    a: Mindsmith is an AI-powered tool that simplifies instructional processes by generating high-quality on-demand learning content, providing a user-friendly platform for creating and sharing course materials and training. Course Generator Freemium That is the core of what MindSmith does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Mindsmith is an AI-powered tool that simplifies instructional processes by generating high-quality on-demand learning content, providing a user-friendly platform for creating and sharing course materials and training. That is the core of what MindSmith does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MindSmith free?
     a: MindSmith uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with MindSmith?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like MindSmith e
 
 ## What is MindSmith?
 
-Mindsmith is an AI-powered tool that simplifies instructional processes by generating high-quality on-demand learning content, providing a user-friendly platform for creating and sharing course materials and training. Course Generator Freemium
-
+Mindsmith is an AI-powered tool that simplifies instructional processes by generating high-quality on-demand learning content, providing a user-friendly platform for creating and sharing course materials and training.
 In short, MindSmith is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. That single feature of MindSmith alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

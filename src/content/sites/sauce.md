@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Sauce?
-    a: Sauce AI aggregates real‑time customer feedback from Slack, Zendesk, Gong, Intercom, Salesforce, and CSV imports, automatically classifies feature requests and support issues, detects trend spikes, and highlights product blindspots, churn signals, and revenue‑driving insights across regions, personas, and industries.  That is the core of what Sauce does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Sauce AI aggregates real‑time customer feedback from Slack, Zendesk, Gong, Intercom, Salesforce, and CSV imports, automatically classifies feature requests and support issues, detects trend spikes, and highlights product blindspots, churn signals, and revenue‑driving insights across regions, personas, and industries. That is the core of what Sauce does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Sauce free?
     a: Sauce uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Sauce?

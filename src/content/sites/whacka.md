@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Whacka?
-    a: Whacka is a creative platform combining an AI app builder and no-code editor with a content discovery feed. It enables building and sharing generative tools, from art and video editors to interactive prototypes, within a creator community.  That is the core of what Whacka does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Whacka is a creative platform combining an AI app builder and no-code editor with a content discovery feed. It enables building and sharing generative tools, from art and video editors to interactive prototypes, within a creator community. That is the core of what Whacka does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Whacka free?
     a: Whacka uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Whacka?

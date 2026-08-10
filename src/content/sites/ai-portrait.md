@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI-Portrait?
-    a: AI Portrait Generator turns a single selfie into over 2,000 AI‑style portraits—including ID photos, comics, oil paintings, cartoons, anime, and avatars—using Midjourney V5. The web app delivers results in 30‑60 seconds and never stores your images. Character Design Freemium That is the core of what AI-Portrait does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Portrait Generator turns a single selfie into over 2,000 AI‑style portraits—including ID photos, comics, oil paintings, cartoons, anime, and avatars—using Midjourney V5. The web app delivers results in 30‑60 seconds and never stores your images. That is the core of what AI-Portrait does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI-Portrait free?
     a: AI-Portrait uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AI-Portrait?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like AI-Portrait
 
 ## What is AI-Portrait?
 
-AI Portrait Generator turns a single selfie into over 2,000 AI‑style portraits—including ID photos, comics, oil paintings, cartoons, anime, and avatars—using Midjourney V5. The web app delivers results in 30‑60 seconds and never stores your images. Character Design Freemium
-
+AI Portrait Generator turns a single selfie into over 2,000 AI‑style portraits—including ID photos, comics, oil paintings, cartoons, anime, and avatars—using Midjourney V5. The web app delivers results in 30‑60 seconds and never stores your images.
 In short, AI-Portrait is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. For many, that single strength of AI-Portrait is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

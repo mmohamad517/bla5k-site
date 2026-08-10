@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CrawlQ.ai?
-    a: CrawlQ AI consolidates documents, media, and metadata into a single auditable source, enabling two‑way retrieval‑augmented generation across multiple LLMs. It delivers real‑time ROCC dashboards, automates approvals, enforces brand guardrails, and cuts content cycles by up to 75 %. Document management Freemium - $49/mo That is the core of what CrawlQ.ai does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CrawlQ AI consolidates documents, media, and metadata into a single auditable source, enabling two‑way retrieval‑augmented generation across multiple LLMs. It delivers real‑time ROCC dashboards, automates approvals, enforces brand guardrails, and cuts content cycles by up to 75 %. That is the core of what CrawlQ.ai does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CrawlQ.ai free?
     a: CrawlQ.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $49/mo, check the official website — pricing changes often.
   - q: What can you do with CrawlQ.ai?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is CrawlQ.ai?
 
-CrawlQ AI consolidates documents, media, and metadata into a single auditable source, enabling two‑way retrieval‑augmented generation across multiple LLMs. It delivers real‑time ROCC dashboards, automates approvals, enforces brand guardrails, and cuts content cycles by up to 75 %. Document management Freemium - $49/mo
-
+CrawlQ AI consolidates documents, media, and metadata into a single auditable source, enabling two‑way retrieval‑augmented generation across multiple LLMs. It delivers real‑time ROCC dashboards, automates approvals, enforces brand guardrails, and cuts content cycles by up to 75 %.
 In short, CrawlQ.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. That one feature of CrawlQ.ai often eliminates several smaller steps from the usual workflow.
 
 ## Key features

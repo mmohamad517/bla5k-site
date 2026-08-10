@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Unschooler?
-    a: Unschooler transforms corporate documents into personalized, interactive training modules in minutes. It provides real‑time skill‑gap analysis, AI‑tailored learning paths, instant on‑demand support, and a dashboard that tracks engagement and performance metrics. Course Generator Subscription - $100/mo That is the core of what Unschooler does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Unschooler transforms corporate documents into personalized, interactive training modules in minutes. It provides real‑time skill‑gap analysis, AI‑tailored learning paths, instant on‑demand support, and a dashboard that tracks engagement and performance metrics. That is the core of what Unschooler does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Unschooler free?
     a: Unschooler is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Unschooler?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Unschooler?
 
-Unschooler transforms corporate documents into personalized, interactive training modules in minutes. It provides real‑time skill‑gap analysis, AI‑tailored learning paths, instant on‑demand support, and a dashboard that tracks engagement and performance metrics. Course Generator Subscription - $100/mo
-
+Unschooler transforms corporate documents into personalized, interactive training modules in minutes. It provides real‑time skill‑gap analysis, AI‑tailored learning paths, instant on‑demand support, and a dashboard that tracks engagement and performance metrics.
 In short, Unschooler is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. Many users discover that this feature of Unschooler alone covers what previously took multiple tools.
 
 ## Key features

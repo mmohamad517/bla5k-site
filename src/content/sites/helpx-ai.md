@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Helpx.ai?
-    a: Helpx.ai automates 24/7 customer support with an AI chatbot that answers FAQs and complex questions, integrating real‑time database data, offering multilingual, brand‑customized interfaces, analytics, and action triggers for lead generation across industries. Customer support Free That is the core of what Helpx.ai does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Helpx.ai automates 24/7 customer support with an AI chatbot that answers FAQs and complex questions, integrating real‑time database data, offering multilingual, brand‑customized interfaces, analytics, and action triggers for lead generation across industries. That is the core of what Helpx.ai does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Helpx.ai free?
     a: Yes — Helpx.ai is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Helpx.ai?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Helpx.ai ea
 
 ## What is Helpx.ai?
 
-Helpx.ai automates 24/7 customer support with an AI chatbot that answers FAQs and complex questions, integrating real‑time database data, offering multilingual, brand‑customized interfaces, analytics, and action triggers for lead generation across industries. Customer support Free
-
+Helpx.ai automates 24/7 customer support with an AI chatbot that answers FAQs and complex questions, integrating real‑time database data, offering multilingual, brand‑customized interfaces, analytics, and action triggers for lead generation across industries.
 In short, Helpx.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. Many users discover that this feature of Helpx.ai alone covers what previously took multiple tools.
 
 ## Key features

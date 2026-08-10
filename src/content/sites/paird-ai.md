@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Paird.ai?
-    a: Paird.ai is a collaborative AI tool enabling real-time code generation and feedback for teams. Select a language, set project goals, and improve coding skills with customized suggestions and lessons. Ideal for seamless code collaboration and skill enhancement. Code assistant Freemium That is the core of what Paird.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Paird.ai is a collaborative AI tool enabling real-time code generation and feedback for teams. Select a language, set project goals, and improve coding skills with customized suggestions and lessons. Ideal for seamless code collaboration and skill enhancement. That is the core of what Paird.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Paird.ai free?
     a: Paird.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Paird.ai?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Paird.ai earn th
 
 ## What is Paird.ai?
 
-Paird.ai is a collaborative AI tool enabling real-time code generation and feedback for teams. Select a language, set project goals, and improve coding skills with customized suggestions and lessons. Ideal for seamless code collaboration and skill enhancement. Code assistant Freemium
-
+Paird.ai is a collaborative AI tool enabling real-time code generation and feedback for teams. Select a language, set project goals, and improve coding skills with customized suggestions and lessons. Ideal for seamless code collaboration and skill enhancement.
 In short, Paird.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That single feature of Paird.ai alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

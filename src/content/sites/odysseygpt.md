@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is OdysseyGPT?
-    a: OdysseyGPT is an AI document intelligence tool for enterprises, enabling natural-language queries across large document sets, providing citation-backed answers, and ensuring data control with secure deployment options and robust access controls for compliance and auditability. AI Agents Free trial - $10/mo That is the core of what OdysseyGPT does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: OdysseyGPT is an AI document intelligence tool for enterprises, enabling natural-language queries across large document sets, providing citation-backed answers, and ensuring data control with secure deployment options and robust access controls for compliance and auditability. That is the core of what OdysseyGPT does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is OdysseyGPT free?
     a: OdysseyGPT uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $10/mo, check the official website — pricing changes often.
   - q: What can you do with OdysseyGPT?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is OdysseyGPT?
 
-OdysseyGPT is an AI document intelligence tool for enterprises, enabling natural-language queries across large document sets, providing citation-backed answers, and ensuring data control with secure deployment options and robust access controls for compliance and auditability. AI Agents Free trial - $10/mo
-
+OdysseyGPT is an AI document intelligence tool for enterprises, enabling natural-language queries across large document sets, providing citation-backed answers, and ensuring data control with secure deployment options and robust access controls for compliance and auditability.
 In short, OdysseyGPT is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users find that this one ability of OdysseyGPT removes several tasks from their daily routine.
 
 ## Key features

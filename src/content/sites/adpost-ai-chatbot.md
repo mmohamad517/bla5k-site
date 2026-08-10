@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Adpost AI Chatbot?
-    a: AI Chatbot is a GPT‑powered platform that delivers 24/7, error‑free support with global personalization and multilingual capability. It customizes responses using company FAQs, auto‑escalates to humans, and offers easy integration for any business size.  That is the core of what Adpost AI Chatbot does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Chatbot is a GPT‑powered platform that delivers 24/7, error‑free support with global personalization and multilingual capability. It customizes responses using company FAQs, auto‑escalates to humans, and offers easy integration for any business size. That is the core of what Adpost AI Chatbot does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Adpost AI Chatbot free?
     a: Yes — Adpost AI Chatbot is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Adpost AI Chatbot?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Parthean AI?
-    a: Parthean automates client onboarding, data extraction, and research for financial advisors. Its AI‑powered paraplanner delivers rapid investment reports, risk metrics, tax‑efficiency strategies, and draft plans, while clients access mobile tools for documents and task tracking. Business planning Subscription That is the core of what Parthean AI does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Parthean automates client onboarding, data extraction, and research for financial advisors. Its AI‑powered paraplanner delivers rapid investment reports, risk metrics, tax‑efficiency strategies, and draft plans, while clients access mobile tools for documents and task tracking. That is the core of what Parthean AI does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Parthean AI free?
     a: Parthean AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Parthean AI?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Parthean AI
 
 ## What is Parthean AI?
 
-Parthean automates client onboarding, data extraction, and research for financial advisors. Its AI‑powered paraplanner delivers rapid investment reports, risk metrics, tax‑efficiency strategies, and draft plans, while clients access mobile tools for documents and task tracking. Business planning Subscription
-
+Parthean automates client onboarding, data extraction, and research for financial advisors. Its AI‑powered paraplanner delivers rapid investment reports, risk metrics, tax‑efficiency strategies, and draft plans, while clients access mobile tools for documents and task tracking.
 In short, Parthean AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI planning without the manual grind. For a lot of people, that one function of Parthean AI collapses multiple steps into a single action.
 
 ## Key features

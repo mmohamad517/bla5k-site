@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Yakkr Growth?
-    a: "Yakkr Growth offers streamers an integrated AI hub: copilot‑generated prompts, live analytics, video and art creation tools, collaborative Discord networking, and a growth academy. It streamlines content production, boosts viewer engagement, and expands audiences across Twitch and beyond.  That is the core of what Yakkr Growth does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "Yakkr Growth offers streamers an integrated AI hub: copilot‑generated prompts, live analytics, video and art creation tools, collaborative Discord networking, and a growth academy. It streamlines content production, boosts viewer engagement, and expands audiences across Twitch and beyond. That is the core of what Yakkr Growth does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is Yakkr Growth free?
     a: Yakkr Growth is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Yakkr Growth?

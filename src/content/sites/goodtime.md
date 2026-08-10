@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is GoodTime?
-    a: GoodTime is an AI-powered interview scheduling software that automates candidate screening and coordination across SMS, WhatsApp, and a self-scheduling portal. It provides interviewer training and real-time analytics, integrating with major ATS to streamline the entire hiring process.  That is the core of what GoodTime does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: GoodTime is an AI-powered interview scheduling software that automates candidate screening and coordination across SMS, WhatsApp, and a self-scheduling portal. It provides interviewer training and real-time analytics, integrating with major ATS to streamline the entire hiring process. That is the core of what GoodTime does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is GoodTime free?
     a: GoodTime is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with GoodTime?

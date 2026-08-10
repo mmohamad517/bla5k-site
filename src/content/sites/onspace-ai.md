@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is OnSpace.AI?
-    a: OnSpace.AI is a no-code AI app builder for creating cross-platform mobile apps with photorealistic designs and real-time previews. It offers backend integration, GitHub exports, and monetization via Stripe, all through an intuitive interface.  That is the core of what OnSpace.AI does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: OnSpace.AI is a no-code AI app builder for creating cross-platform mobile apps with photorealistic designs and real-time previews. It offers backend integration, GitHub exports, and monetization via Stripe, all through an intuitive interface. That is the core of what OnSpace.AI does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is OnSpace.AI free?
     a: OnSpace.AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $20/mo, check the official website — pricing changes often.
   - q: What can you do with OnSpace.AI?

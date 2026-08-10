@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Jobed?
-    a: Jobed uses AI to create job descriptions in 24 languages across 31 sectors. It takes title, responsibilities, and skills and outputs structured, publish‑ready content with compliance, translation, and ATS compatibility, reducing drafting time. Content Writing Freemium That is the core of what Jobed does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Jobed uses AI to create job descriptions in 24 languages across 31 sectors. It takes title, responsibilities, and skills and outputs structured, publish‑ready content with compliance, translation, and ATS compatibility, reducing drafting time. That is the core of what Jobed does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Jobed free?
     a: Jobed uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Jobed?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Jobed?
 
-Jobed uses AI to create job descriptions in 24 languages across 31 sectors. It takes title, responsibilities, and skills and outputs structured, publish‑ready content with compliance, translation, and ATS compatibility, reducing drafting time. Content Writing Freemium
-
+Jobed uses AI to create job descriptions in 24 languages across 31 sectors. It takes title, responsibilities, and skills and outputs structured, publish‑ready content with compliance, translation, and ATS compatibility, reducing drafting time.
 In short, Jobed is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For many, that single strength of Jobed is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

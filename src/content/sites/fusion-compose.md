@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Fusion Compose?
-    a: Fusion Compose is a user-friendly chat UI that seamlessly integrates with the GPT-4 API, as well as GPT-4 Turbo and GPT-3.5 Turbo.  That is the core of what Fusion Compose does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Fusion Compose is a user-friendly chat UI that seamlessly integrates with the GPT-4 API, as well as GPT-4 Turbo and GPT-3.5 Turbo. That is the core of what Fusion Compose does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Fusion Compose free?
     a: Fusion Compose uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Fusion Compose?

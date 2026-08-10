@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Oreate AI?
-    a: Oreate AI is an all-in-one workspace that centralizes projects, files, chat and activity logs, pairing drag-and-drop management with integrated AI for image/video/graphic/slide creation, automated presentation editing, contextual tutoring, and searchable revision histories. AI Assistant Freemium That is the core of what Oreate AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Oreate AI is an all-in-one workspace that centralizes projects, files, chat and activity logs, pairing drag-and-drop management with integrated AI for image/video/graphic/slide creation, automated presentation editing, contextual tutoring, and searchable revision histories. That is the core of what Oreate AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Oreate AI free?
     a: Oreate AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Oreate AI?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Oreate AI?
 
-Oreate AI is an all-in-one workspace that centralizes projects, files, chat and activity logs, pairing drag-and-drop management with integrated AI for image/video/graphic/slide creation, automated presentation editing, contextual tutoring, and searchable revision histories. AI Assistant Freemium
-
+Oreate AI is an all-in-one workspace that centralizes projects, files, chat and activity logs, pairing drag-and-drop management with integrated AI for image/video/graphic/slide creation, automated presentation editing, contextual tutoring, and searchable revision histories.
 In short, Oreate AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That single feature of Oreate AI alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

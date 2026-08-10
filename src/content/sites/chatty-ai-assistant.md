@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: "What is Chatty: ai assistant?"
-    a: "Chatty AI offers conversational access to thousands of virtual personas—educators, professionals, historical and fictional characters—using open‑source language models. It supports markdown dialogue, secure cloud sync across devices, and specialized assistants for writing, coding, learning, and consulting.  That is the core of what Chatty: ai assistant does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "Chatty AI offers conversational access to thousands of virtual personas—educators, professionals, historical and fictional characters—using open‑source language models. It supports markdown dialogue, secure cloud sync across devices, and specialized assistants for writing, coding, learning, and consulting. That is the core of what Chatty: ai assistant does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: "Is Chatty: ai assistant free?"
     a: "Chatty: ai assistant uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often."
   - q: "What can you do with Chatty: ai assistant?"

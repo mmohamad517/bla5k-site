@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Vibecode?
-    a: VibeCode is a no-code app development platform that enables users to design, customize, and launch mobile apps with templates, real-time collaboration, and built-in analytics. It simplifies app creation with drag-and-drop tools and seamless API integrations for enhanced functionality.  That is the core of what Vibecode does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: VibeCode is a no-code app development platform that enables users to design, customize, and launch mobile apps with templates, real-time collaboration, and built-in analytics. It simplifies app creation with drag-and-drop tools and seamless API integrations for enhanced functionality. That is the core of what Vibecode does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Vibecode free?
     a: Vibecode uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $20/mo, check the official website — pricing changes often.
   - q: What can you do with Vibecode?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is JD Generator?
-    a: HireQuotient uses AI to generate full, industry‑aligned job descriptions in seconds, offering editable templates, keyword analysis, DEI‑optimized language, and HR system integrations to streamline posting and enhance consistency for recruiters.  That is the core of what JD Generator does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: HireQuotient uses AI to generate full, industry‑aligned job descriptions in seconds, offering editable templates, keyword analysis, DEI‑optimized language, and HR system integrations to streamline posting and enhance consistency for recruiters. That is the core of what JD Generator does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is JD Generator free?
     a: Yes — JD Generator is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with JD Generator?

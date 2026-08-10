@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CLEVR AI?
-    a: ClevrAI centralizes audience behavior, campaign, and content performance across social, search, and web channels, providing real‑time engagement metrics, predictive churn alerts, AI‑generated content, budget optimization, and personalized targeting for media and gaming teams. Business Paid - $10 That is the core of what CLEVR AI does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ClevrAI centralizes audience behavior, campaign, and content performance across social, search, and web channels, providing real‑time engagement metrics, predictive churn alerts, AI‑generated content, budget optimization, and personalized targeting for media and gaming teams. That is the core of what CLEVR AI does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CLEVR AI free?
     a: CLEVR AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with CLEVR AI?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is CLEVR AI?
 
-ClevrAI centralizes audience behavior, campaign, and content performance across social, search, and web channels, providing real‑time engagement metrics, predictive churn alerts, AI‑generated content, budget optimization, and personalized targeting for media and gaming teams. Business Paid - $10
-
+ClevrAI centralizes audience behavior, campaign, and content performance across social, search, and web channels, providing real‑time engagement metrics, predictive churn alerts, AI‑generated content, budget optimization, and personalized targeting for media and gaming teams.
 In short, CLEVR AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. Many users find that this one ability of CLEVR AI removes several tasks from their daily routine.
 
 ## Key features

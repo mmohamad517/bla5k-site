@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Adminer?
-    a: Adminer delivers competitive intelligence for e‑commerce, agencies, and info‑producers, revealing real‑time best‑selling products in Brazil and globally. It offers advanced filtering, product import, traffic and audience analytics, AI‑generated copy, funnel insights, ad strategy views, and supplier integration.  That is the core of what Adminer does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Adminer delivers competitive intelligence for e‑commerce, agencies, and info‑producers, revealing real‑time best‑selling products in Brazil and globally. It offers advanced filtering, product import, traffic and audience analytics, AI‑generated copy, funnel insights, ad strategy views, and supplier integration. That is the core of what Adminer does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Adminer free?
     a: Adminer is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Adminer?

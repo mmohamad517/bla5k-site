@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is RGX Tools?
-    a: rgx.tools uses GPT‑3.5‑Turbo to translate natural‑language prompts into readable regular expressions, providing code snippets for JavaScript, Python, Java, C#, Ruby, PHP, Go, Rust, Kotlin, Swift, and SED. It supports testing, comments, and error reduction. Code assistant Freemium That is the core of what RGX Tools does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: rgx.tools uses GPT‑3.5‑Turbo to translate natural‑language prompts into readable regular expressions, providing code snippets for JavaScript, Python, Java, C#, Ruby, PHP, Go, Rust, Kotlin, Swift, and SED. It supports testing, comments, and error reduction. That is the core of what RGX Tools does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is RGX Tools free?
     a: RGX Tools uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with RGX Tools?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is RGX Tools?
 
-rgx.tools uses GPT‑3.5‑Turbo to translate natural‑language prompts into readable regular expressions, providing code snippets for JavaScript, Python, Java, C#, Ruby, PHP, Go, Rust, Kotlin, Swift, and SED. It supports testing, comments, and error reduction. Code assistant Freemium
-
+rgx.tools uses GPT‑3.5‑Turbo to translate natural‑language prompts into readable regular expressions, providing code snippets for JavaScript, Python, Java, C#, Ruby, PHP, Go, Rust, Kotlin, Swift, and SED. It supports testing, comments, and error reduction.
 In short, RGX Tools is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one capability of RGX Tools frequently saves users from juggling several separate steps.
 
 ## Key features

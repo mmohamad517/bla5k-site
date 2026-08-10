@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SuperAGI?
-    a: SuperAGI is an open-source autonomous AI framework for building and managing efficient and reliable autonomous agents that learn and improve over time. AI Agents Free That is the core of what SuperAGI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SuperAGI is an open-source autonomous AI framework for building and managing efficient and reliable autonomous agents that learn and improve over time. That is the core of what SuperAGI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SuperAGI free?
     a: Yes — SuperAGI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with SuperAGI?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is SuperAGI?
 
-SuperAGI is an open-source autonomous AI framework for building and managing efficient and reliable autonomous agents that learn and improve over time. AI Agents Free
-
+SuperAGI is an open-source autonomous AI framework for building and managing efficient and reliable autonomous agents that learn and improve over time.
 In short, SuperAGI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users find that this one ability of SuperAGI removes several tasks from their daily routine.
 
 ## Key features

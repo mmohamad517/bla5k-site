@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CourseGenie?
-    a: CourseGenie automates course outlines, lesson plans, quizzes, and activities, freeing teachers to focus on instruction. One‑click translation expands multilingual access, while collaboration tools and a library of assessment templates enable rapid creation of engaging, real‑world learning experiences. Course Generator Freemium That is the core of what CourseGenie does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CourseGenie automates course outlines, lesson plans, quizzes, and activities, freeing teachers to focus on instruction. One‑click translation expands multilingual access, while collaboration tools and a library of assessment templates enable rapid creation of engaging, real‑world learning experiences. That is the core of what CourseGenie does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CourseGenie free?
     a: CourseGenie uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with CourseGenie?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is CourseGenie?
 
-CourseGenie automates course outlines, lesson plans, quizzes, and activities, freeing teachers to focus on instruction. One‑click translation expands multilingual access, while collaboration tools and a library of assessment templates enable rapid creation of engaging, real‑world learning experiences. Course Generator Freemium
-
+CourseGenie automates course outlines, lesson plans, quizzes, and activities, freeing teachers to focus on instruction. One‑click translation expands multilingual access, while collaboration tools and a library of assessment templates enable rapid creation of engaging, real‑world learning experiences.
 In short, CourseGenie is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. That single feature of CourseGenie alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

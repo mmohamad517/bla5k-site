@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is BlogSEO?
-    a: BlogSEO is an AI blog generator that creates SEO-optimized articles in minutes and publishes them directly to your CMS. It also automates content strategy by analyzing your site, discovering high-ROI keywords, and inserting contextual internal links to boost rankings. Article writer Free trial That is the core of what BlogSEO does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: BlogSEO is an AI blog generator that creates SEO-optimized articles in minutes and publishes them directly to your CMS. It also automates content strategy by analyzing your site, discovering high-ROI keywords, and inserting contextual internal links to boost rankings. That is the core of what BlogSEO does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is BlogSEO free?
     a: BlogSEO uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with BlogSEO?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is BlogSEO?
 
-BlogSEO is an AI blog generator that creates SEO-optimized articles in minutes and publishes them directly to your CMS. It also automates content strategy by analyzing your site, discovering high-ROI keywords, and inserting contextual internal links to boost rankings. Article writer Free trial
-
+BlogSEO is an AI blog generator that creates SEO-optimized articles in minutes and publishes them directly to your CMS. It also automates content strategy by analyzing your site, discovering high-ROI keywords, and inserting contextual internal links to boost rankings.
 In short, BlogSEO is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. That one feature of BlogSEO often eliminates several smaller steps from the usual workflow.
 
 ## Key features

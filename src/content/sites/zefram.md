@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Zefram?
-    a: Zefram is an AI tool that streamlines contact information management for sales teams, enabling efficient discovery and verification of leads. It integrates with CRM systems and offers mapping features to visualize geographic data related to potential clients. Sales Subscription - $99/mo That is the core of what Zefram does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Zefram is an AI tool that streamlines contact information management for sales teams, enabling efficient discovery and verification of leads. It integrates with CRM systems and offers mapping features to visualize geographic data related to potential clients. That is the core of what Zefram does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Zefram free?
     a: Zefram is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Zefram?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Zefram earn thei
 
 ## What is Zefram?
 
-Zefram is an AI tool that streamlines contact information management for sales teams, enabling efficient discovery and verification of leads. It integrates with CRM systems and offers mapping features to visualize geographic data related to potential clients. Sales Subscription - $99/mo
-
+Zefram is an AI tool that streamlines contact information management for sales teams, enabling efficient discovery and verification of leads. It integrates with CRM systems and offers mapping features to visualize geographic data related to potential clients.
 In short, Zefram is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. Many users find that this one ability of Zefram removes several tasks from their daily routine.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Layly - AI?
-    a: Layly is an Ethereum-based AI tool combating fake news and deepfakes by analyzing images, videos, and audios. It detects manipulated media, fosters media literacy, and provides functions like image classification and media authenticity verification. AI detection Freemium That is the core of what Layly - AI does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Layly is an Ethereum-based AI tool combating fake news and deepfakes by analyzing images, videos, and audios. It detects manipulated media, fosters media literacy, and provides functions like image classification and media authenticity verification. That is the core of what Layly - AI does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Layly - AI free?
     a: Layly - AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Layly - AI?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Layly - AI?
 
-Layly is an Ethereum-based AI tool combating fake news and deepfakes by analyzing images, videos, and audios. It detects manipulated media, fosters media literacy, and provides functions like image classification and media authenticity verification. AI detection Freemium
-
+Layly is an Ethereum-based AI tool combating fake news and deepfakes by analyzing images, videos, and audios. It detects manipulated media, fosters media literacy, and provides functions like image classification and media authenticity verification.
 In short, Layly - AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. That single feature of Layly - AI alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

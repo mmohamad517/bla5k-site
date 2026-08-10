@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Audio Cutter AI?
-    a: Audio Cutter AI is a browser-based tool for trimming and editing MP3, WAV, and FLAC files with AI-assisted cut point detection and precise interval selection. It enables a simple three-step workflow—upload, set trim points, and download—for creating polished audio clips without any local software.  That is the core of what Audio Cutter AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Audio Cutter AI is a browser-based tool for trimming and editing MP3, WAV, and FLAC files with AI-assisted cut point detection and precise interval selection. It enables a simple three-step workflow—upload, set trim points, and download—for creating polished audio clips without any local software. That is the core of what Audio Cutter AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Audio Cutter AI free?
     a: Audio Cutter AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Audio Cutter AI?

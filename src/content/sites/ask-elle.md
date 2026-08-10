@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ask Elle?
-    a: AskElle is a conversational AI for iOS that gives instant dating advice via voice‑enabled avatar chat, covering topics like asking out, breakups, and charisma. Targeted at teens, it compiles Elle Kristine’s tips and respects privacy. Avatar Freemium That is the core of what Ask Elle does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AskElle is a conversational AI for iOS that gives instant dating advice via voice‑enabled avatar chat, covering topics like asking out, breakups, and charisma. Targeted at teens, it compiles Elle Kristine’s tips and respects privacy. That is the core of what Ask Elle does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ask Elle free?
     a: Ask Elle uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Ask Elle?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Ask Elle earn th
 
 ## What is Ask Elle?
 
-AskElle is a conversational AI for iOS that gives instant dating advice via voice‑enabled avatar chat, covering topics like asking out, breakups, and charisma. Targeted at teens, it compiles Elle Kristine’s tips and respects privacy. Avatar Freemium
-
+AskElle is a conversational AI for iOS that gives instant dating advice via voice‑enabled avatar chat, covering topics like asking out, breakups, and charisma. Targeted at teens, it compiles Elle Kristine’s tips and respects privacy.
 In short, Ask Elle is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. That one capability of Ask Elle frequently saves users from juggling several separate steps.
 
 ## Key features

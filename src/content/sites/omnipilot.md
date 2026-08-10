@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Omnipilot?
-    a: Omnipilot is a macOS AI copilot that types in any app, offering context‑aware email drafting, Bash assistance, and streamlined updates. It supports coding, writing, and data tasks without extra software for developers, writers, and business professionals.  That is the core of what Omnipilot does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Omnipilot is a macOS AI copilot that types in any app, offering context‑aware email drafting, Bash assistance, and streamlined updates. It supports coding, writing, and data tasks without extra software for developers, writers, and business professionals. That is the core of what Omnipilot does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Omnipilot free?
     a: Omnipilot uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Omnipilot?

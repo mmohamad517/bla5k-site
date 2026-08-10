@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Datarails.com?
-    a: Datarails integrates with Excel, automating data consolidation from 200+ accounting, ERP, CRM, bank, and HRIS sources. It offers real‑time dashboards, AI‑driven variance insights, scenario modeling, and collaborative version control for efficient month‑end close and planning.  That is the core of what Datarails.com does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Datarails integrates with Excel, automating data consolidation from 200+ accounting, ERP, CRM, bank, and HRIS sources. It offers real‑time dashboards, AI‑driven variance insights, scenario modeling, and collaborative version control for efficient month‑end close and planning. That is the core of what Datarails.com does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Datarails.com free?
     a: Datarails.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Datarails.com?

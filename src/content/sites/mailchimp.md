@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Mailchimp?
-    a: MailChimp's AI Marketing Platform offers sophisticated automation for email campaigns, featuring audience segmentation, analytics, personalized content, customer targeting, customizable templates, and smooth app integration to boost industry-wide campaign effectiveness.  That is the core of what Mailchimp does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: MailChimp's AI Marketing Platform offers sophisticated automation for email campaigns, featuring audience segmentation, analytics, personalized content, customer targeting, customizable templates, and smooth app integration to boost industry-wide campaign effectiveness. That is the core of what Mailchimp does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Mailchimp free?
     a: Mailchimp uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Mailchimp?

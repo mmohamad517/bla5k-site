@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Reply.io?
-    a: Reply.io automates personalized cold email and LinkedIn outreach, using AI-driven customization and real‑time B2B contact data. It offers multichannel sequences, inbox‑optimization tools, API integration, and meeting‑scheduling to streamline lead qualification and accelerate sales pipelines. Sales Freemium That is the core of what Reply.io does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Reply.io automates personalized cold email and LinkedIn outreach, using AI-driven customization and real‑time B2B contact data. It offers multichannel sequences, inbox‑optimization tools, API integration, and meeting‑scheduling to streamline lead qualification and accelerate sales pipelines. That is the core of what Reply.io does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Reply.io free?
     a: Reply.io uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Reply.io?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Reply.
 
 ## What is Reply.io?
 
-Reply.io automates personalized cold email and LinkedIn outreach, using AI-driven customization and real‑time B2B contact data. It offers multichannel sequences, inbox‑optimization tools, API integration, and meeting‑scheduling to streamline lead qualification and accelerate sales pipelines. Sales Freemium
-
+Reply.io automates personalized cold email and LinkedIn outreach, using AI-driven customization and real‑time B2B contact data. It offers multichannel sequences, inbox‑optimization tools, API integration, and meeting‑scheduling to streamline lead qualification and accelerate sales pipelines.
 In short, Reply.io is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. That one capability of Reply.io frequently saves users from juggling several separate steps.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Painted Saintly?
-    a: Painted Saintly turns photos into Renaissance‑style saint portraits, producing high‑resolution images in under 30 seconds. Users preview and then choose finished products like canvas prints, mugs, stickers, or ornaments, shipped worldwide.  That is the core of what Painted Saintly does — ai print design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Painted Saintly turns photos into Renaissance‑style saint portraits, producing high‑resolution images in under 30 seconds. Users preview and then choose finished products like canvas prints, mugs, stickers, or ornaments, shipped worldwide. That is the core of what Painted Saintly does — ai print design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Painted Saintly free?
     a: Painted Saintly is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Painted Saintly?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AIOAI?
-    a: "#aioai.co integrates Sedo domain parking to aid website owners in the efficient sale of their domains. Users can easily create sale pages and manage the domain selling process with this tool. Marketing Freemium That is the core of what AIOAI does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "#aioai.co integrates Sedo domain parking to aid website owners in the efficient sale of their domains. Users can easily create sale pages and manage the domain selling process with this tool. That is the core of what AIOAI does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is AIOAI free?
     a: AIOAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AIOAI?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is AIOAI?
 
-#aioai.co integrates Sedo domain parking to aid website owners in the efficient sale of their domains. Users can easily create sale pages and manage the domain selling process with this tool. Marketing Freemium
-
+#aioai.co integrates Sedo domain parking to aid website owners in the efficient sale of their domains. Users can easily create sale pages and manage the domain selling process with this tool.
 In short, AIOAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many, that single strength of AIOAI is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

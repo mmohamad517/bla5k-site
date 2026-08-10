@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ValidatorAI?
-    a: ValidatorAI evaluates startup ideas, scoring market fit, competitor landscape, TAM/SAM/SOM, and simulating customer responses. It outputs a structured value proposition, launch gaps, pivot suggestions, a landing‑page template, and an MVP outline to accelerate prototype development.  That is the core of what ValidatorAI does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ValidatorAI evaluates startup ideas, scoring market fit, competitor landscape, TAM/SAM/SOM, and simulating customer responses. It outputs a structured value proposition, launch gaps, pivot suggestions, a landing‑page template, and an MVP outline to accelerate prototype development. That is the core of what ValidatorAI does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ValidatorAI free?
     a: ValidatorAI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with ValidatorAI?

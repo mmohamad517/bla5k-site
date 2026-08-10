@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Nando.ai?
-    a: Nando.ai is an AI tool for online businesses, leveraging GPT-4 tech and preset prompts to create high-converting copy in multiple languages. Ideal for e-commerce content, ad creation, and social media enhancement. Copywriting Free trial That is the core of what Nando.ai does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Nando.ai is an AI tool for online businesses, leveraging GPT-4 tech and preset prompts to create high-converting copy in multiple languages. Ideal for e-commerce content, ad creation, and social media enhancement. That is the core of what Nando.ai does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Nando.ai free?
     a: Nando.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Nando.ai?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Nando.
 
 ## What is Nando.ai?
 
-Nando.ai is an AI tool for online businesses, leveraging GPT-4 tech and preset prompts to create high-converting copy in multiple languages. Ideal for e-commerce content, ad creation, and social media enhancement. Copywriting Free trial
-
+Nando.ai is an AI tool for online businesses, leveraging GPT-4 tech and preset prompts to create high-converting copy in multiple languages. Ideal for e-commerce content, ad creation, and social media enhancement.
 In short, Nando.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. That one feature of Nando.ai often eliminates several smaller steps from the usual workflow.
 
 ## Key features

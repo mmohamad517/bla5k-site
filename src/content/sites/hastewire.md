@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Hastewire?
-    a: Hastewire is an AI platform that humanizes content and detects AI-generated text. It enhances authenticity for educators, marketers, and writers, supporting over 70 integrations to streamline workflows and improve content readability. Content creation Free trial - $4.99/mo That is the core of what Hastewire does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Hastewire is an AI platform that humanizes content and detects AI-generated text. It enhances authenticity for educators, marketers, and writers, supporting over 70 integrations to streamline workflows and improve content readability. That is the core of what Hastewire does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Hastewire free?
     a: Hastewire uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $4.99/mo, check the official website — pricing changes often.
   - q: What can you do with Hastewire?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Hastewire m
 
 ## What is Hastewire?
 
-Hastewire is an AI platform that humanizes content and detects AI-generated text. It enhances authenticity for educators, marketers, and writers, supporting over 70 integrations to streamline workflows and improve content readability. Content creation Free trial - $4.99/mo
-
+Hastewire is an AI platform that humanizes content and detects AI-generated text. It enhances authenticity for educators, marketers, and writers, supporting over 70 integrations to streamline workflows and improve content readability.
 In short, Hastewire is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For a lot of people, that one function of Hastewire collapses multiple steps into a single action.
 
 ## Key features

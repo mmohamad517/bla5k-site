@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Smplhr?
-    a: SmplHR is an AI-driven HR platform that simplifies recruitment by matching employers with pre-vetted Southeast Asian talent. It offers features such as smart resume screening, real-time interview scheduling, and integrated onboarding and payroll management.  That is the core of what Smplhr does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SmplHR is an AI-driven HR platform that simplifies recruitment by matching employers with pre-vetted Southeast Asian talent. It offers features such as smart resume screening, real-time interview scheduling, and integrated onboarding and payroll management. That is the core of what Smplhr does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Smplhr free?
     a: Smplhr uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Smplhr?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Cratecode?
-    a: Cratecode offers project‑based programming courses with non‑linear pathways and measurable milestones. An AI assistant reviews code, flags errors, and provides detailed explanations and step‑by‑step guidance, supporting beginners, students, and hobbyists. Code assistant Freemium That is the core of what Cratecode does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Cratecode offers project‑based programming courses with non‑linear pathways and measurable milestones. An AI assistant reviews code, flags errors, and provides detailed explanations and step‑by‑step guidance, supporting beginners, students, and hobbyists. That is the core of what Cratecode does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Cratecode free?
     a: Cratecode uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Cratecode?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Cratecode e
 
 ## What is Cratecode?
 
-Cratecode offers project‑based programming courses with non‑linear pathways and measurable milestones. An AI assistant reviews code, flags errors, and provides detailed explanations and step‑by‑step guidance, supporting beginners, students, and hobbyists. Code assistant Freemium
-
+Cratecode offers project‑based programming courses with non‑linear pathways and measurable milestones. An AI assistant reviews code, flags errors, and provides detailed explanations and step‑by‑step guidance, supporting beginners, students, and hobbyists.
 In short, Cratecode is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one capability of Cratecode frequently saves users from juggling several separate steps.
 
 ## Key features

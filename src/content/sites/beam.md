@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Beam?
-    a: Beam is a lightweight native macOS app that offers a sandboxed ChatGPT interface via a single hotkey. It lets users select screen areas or PDFs for summaries, translations, or explanations, while keeping all data local. Chat Free trial - $6 That is the core of what Beam does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Beam is a lightweight native macOS app that offers a sandboxed ChatGPT interface via a single hotkey. It lets users select screen areas or PDFs for summaries, translations, or explanations, while keeping all data local. That is the core of what Beam does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Beam free?
     a: Beam uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $6, check the official website — pricing changes often.
   - q: What can you do with Beam?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Beam p
 
 ## What is Beam?
 
-Beam is a lightweight native macOS app that offers a sandboxed ChatGPT interface via a single hotkey. It lets users select screen areas or PDFs for summaries, translations, or explanations, while keeping all data local. Chat Free trial - $6
-
+Beam is a lightweight native macOS app that offers a sandboxed ChatGPT interface via a single hotkey. It lets users select screen areas or PDFs for summaries, translations, or explanations, while keeping all data local.
 In short, Beam is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. Many users find that this one ability of Beam removes several tasks from their daily routine.
 
 ## Key features

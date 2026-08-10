@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: "What is ChatGPT on Google: Search with Chat GPT?"
-    a: "Get the ChatGPT on Google Extension now and discover a world of knowledge and fun with ChatGPT by your side. Start exploring.  That is the core of what ChatGPT on Google: Search with Chat GPT does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "Get the ChatGPT on Google Extension now and discover a world of knowledge and fun with ChatGPT by your side. Start exploring. That is the core of what ChatGPT on Google: Search with Chat GPT does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: "Is ChatGPT on Google: Search with Chat GPT free?"
     a: "Yes — ChatGPT on Google: Search with Chat GPT is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers."
   - q: "What can you do with ChatGPT on Google: Search with Chat GPT?"

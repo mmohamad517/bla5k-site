@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Velaris?
-    a: Velaris is an AI‑native customer‑success platform that consolidates contacts, accounts and parent company data into a single view, provides predictive health scores and conversation analytics, and lets teams build automated journeys via a visual workflow builder.  That is the core of what Velaris does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Velaris is an AI‑native customer‑success platform that consolidates contacts, accounts and parent company data into a single view, provides predictive health scores and conversation analytics, and lets teams build automated journeys via a visual workflow builder. That is the core of what Velaris does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Velaris free?
     a: Velaris is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Velaris?

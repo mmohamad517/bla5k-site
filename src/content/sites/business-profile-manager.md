@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Business Profile Manager?
-    a: Rank Google Business Profile offers an AI‑powered dashboard to manage unlimited listings, auto‑reply to reviews with keyword‑rich responses, audit citations, track keyword rankings, visualize map positions, and schedule AI‑generated posts for consistent engagement. Marketing Freemium That is the core of what Business Profile Manager does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Rank Google Business Profile offers an AI‑powered dashboard to manage unlimited listings, auto‑reply to reviews with keyword‑rich responses, audit citations, track keyword rankings, visualize map positions, and schedule AI‑generated posts for consistent engagement. That is the core of what Business Profile Manager does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Business Profile Manager free?
     a: Business Profile Manager uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Business Profile Manager?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Business Profile Manager?
 
-Rank Google Business Profile offers an AI‑powered dashboard to manage unlimited listings, auto‑reply to reviews with keyword‑rich responses, audit citations, track keyword rankings, visualize map positions, and schedule AI‑generated posts for consistent engagement. Marketing Freemium
-
+Rank Google Business Profile offers an AI‑powered dashboard to manage unlimited listings, auto‑reply to reviews with keyword‑rich responses, audit citations, track keyword rankings, visualize map positions, and schedule AI‑generated posts for consistent engagement.
 In short, Business Profile Manager is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For plenty of users, that one capability of Business Profile Manager replaces several steps they used to do by hand.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SMSGenius?
-    a: SMSGenius is an SMS marketing platform that tracks clicks, conversions, and micro‑conversions in real time, offers dynamic personalization and A/B testing, real‑time segmentation, batch delivery with live performance data, autopilot threshold controls, and built‑in URL shortening for deliverability.  That is the core of what SMSGenius does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SMSGenius is an SMS marketing platform that tracks clicks, conversions, and micro‑conversions in real time, offers dynamic personalization and A/B testing, real‑time segmentation, batch delivery with live performance data, autopilot threshold controls, and built‑in URL shortening for deliverability. That is the core of what SMSGenius does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SMSGenius free?
     a: SMSGenius is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with SMSGenius?

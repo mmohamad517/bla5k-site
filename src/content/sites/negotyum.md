@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Negotyum?
-    a: Negotyum Business Idea Test uses AI analytics to evaluate startup concepts, scoring over 100 factors such as industry, scalability, margins, and investment ratios. It delivers a dashboard with risk, financial viability, break‑even, and loan quality insights, enabling idea refinement before investment.  That is the core of what Negotyum does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Negotyum Business Idea Test uses AI analytics to evaluate startup concepts, scoring over 100 factors such as industry, scalability, margins, and investment ratios. It delivers a dashboard with risk, financial viability, break‑even, and loan quality insights, enabling idea refinement before investment. That is the core of what Negotyum does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Negotyum free?
     a: Yes — Negotyum is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Negotyum?

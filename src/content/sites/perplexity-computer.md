@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Perplexity Computer?
-    a: Perplexity.ai provides AI-powered search and question answering that combines web-sourced results with concise summaries, linked source citations, and excerpts. Its conversational interface supports follow-up queries, multi-turn research, fact-checking, summarization, and structured outputs.  That is the core of what Perplexity Computer does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Perplexity.ai provides AI-powered search and question answering that combines web-sourced results with concise summaries, linked source citations, and excerpts. Its conversational interface supports follow-up queries, multi-turn research, fact-checking, summarization, and structured outputs. That is the core of what Perplexity Computer does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Perplexity Computer free?
     a: Perplexity Computer uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Perplexity Computer?

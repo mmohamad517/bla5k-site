@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is meerkat analytics?
-    a: Meerkat Analytics aggregates Shopify store data into visual dashboards, segmenting customers and attributing sales to precise touchpoints. It delivers real‑time insights on demographics, lifetime value, and channel impact, enabling swift adjustments to ad spend and product assortment. Sales Freemium That is the core of what meerkat analytics does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Meerkat Analytics aggregates Shopify store data into visual dashboards, segmenting customers and attributing sales to precise touchpoints. It delivers real‑time insights on demographics, lifetime value, and channel impact, enabling swift adjustments to ad spend and product assortment. That is the core of what meerkat analytics does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is meerkat analytics free?
     a: meerkat analytics uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with meerkat analytics?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is meerkat analytics?
 
-Meerkat Analytics aggregates Shopify store data into visual dashboards, segmenting customers and attributing sales to precise touchpoints. It delivers real‑time insights on demographics, lifetime value, and channel impact, enabling swift adjustments to ad spend and product assortment. Sales Freemium
-
+Meerkat Analytics aggregates Shopify store data into visual dashboards, segmenting customers and attributing sales to precise touchpoints. It delivers real‑time insights on demographics, lifetime value, and channel impact, enabling swift adjustments to ad spend and product assortment.
 In short, meerkat analytics is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For many, that single strength of meerkat analytics is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

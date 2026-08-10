@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Toolbaz?
-    a: ToolBaz offers 85+ free AI tools powered by GPT‑5, Claude, Gemini, Meta‑AI for content marketing, business communication, creative and academic writing, and technical documentation. Includes text‑to‑image, text‑to‑speech, intuitive, privacy‑focused interface.  That is the core of what Toolbaz does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ToolBaz offers 85+ free AI tools powered by GPT‑5, Claude, Gemini, Meta‑AI for content marketing, business communication, creative and academic writing, and technical documentation. Includes text‑to‑image, text‑to‑speech, intuitive, privacy‑focused interface. That is the core of what Toolbaz does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Toolbaz free?
     a: Toolbaz uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Toolbaz?

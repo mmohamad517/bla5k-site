@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Creative Score?
-    a: Creative Score is an AI tool that analyzes marketing creatives, identifying weaknesses and predicting performance using scientific principles. It delivers quick, actionable insights to optimize ads, enhancing effectiveness and increasing profitability for users at any experience level. Marketing Free trial That is the core of what Creative Score does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Creative Score is an AI tool that analyzes marketing creatives, identifying weaknesses and predicting performance using scientific principles. It delivers quick, actionable insights to optimize ads, enhancing effectiveness and increasing profitability for users at any experience level. That is the core of what Creative Score does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Creative Score free?
     a: Creative Score uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Creative Score?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Creative Sc
 
 ## What is Creative Score?
 
-Creative Score is an AI tool that analyzes marketing creatives, identifying weaknesses and predicting performance using scientific principles. It delivers quick, actionable insights to optimize ads, enhancing effectiveness and increasing profitability for users at any experience level. Marketing Free trial
-
+Creative Score is an AI tool that analyzes marketing creatives, identifying weaknesses and predicting performance using scientific principles. It delivers quick, actionable insights to optimize ads, enhancing effectiveness and increasing profitability for users at any experience level.
 In short, Creative Score is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That one capability of Creative Score frequently saves users from juggling several separate steps.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is FibonacciKu?
-    a: AI‑driven study aid for teachers and students offering secure, teacher‑approved learning support. Provides clear explanations, document uploads, real‑time web searches, and APIs for integration, with unlimited usage and consulting for custom AI implementation. Content creation Free That is the core of what FibonacciKu does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI‑driven study aid for teachers and students offering secure, teacher‑approved learning support. Provides clear explanations, document uploads, real‑time web searches, and APIs for integration, with unlimited usage and consulting for custom AI implementation. That is the core of what FibonacciKu does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is FibonacciKu free?
     a: Yes — FibonacciKu is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with FibonacciKu?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like FibonacciKu earn
 
 ## What is FibonacciKu?
 
-AI‑driven study aid for teachers and students offering secure, teacher‑approved learning support. Provides clear explanations, document uploads, real‑time web searches, and APIs for integration, with unlimited usage and consulting for custom AI implementation. Content creation Free
-
+AI‑driven study aid for teachers and students offering secure, teacher‑approved learning support. Provides clear explanations, document uploads, real‑time web searches, and APIs for integration, with unlimited usage and consulting for custom AI implementation.
 In short, FibonacciKu is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. That one feature of FibonacciKu often eliminates several smaller steps from the usual workflow.
 
 ## Key features

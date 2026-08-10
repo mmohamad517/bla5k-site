@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is LeadScripts?
-    a: LeadScripts auto‑generates marketing scripts from a product URL, extracting 80+ details and targeting five customer‑persona stages. With 1,000+ templates and an AI Humanizer, it produces natural ads, emails, sales pages, and CTAs in seconds. Copywriting Subscription - $29/mo That is the core of what LeadScripts does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: LeadScripts auto‑generates marketing scripts from a product URL, extracting 80+ details and targeting five customer‑persona stages. With 1,000+ templates and an AI Humanizer, it produces natural ads, emails, sales pages, and CTAs in seconds. That is the core of what LeadScripts does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is LeadScripts free?
     a: LeadScripts is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with LeadScripts?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like LeadSc
 
 ## What is LeadScripts?
 
-LeadScripts auto‑generates marketing scripts from a product URL, extracting 80+ details and targeting five customer‑persona stages. With 1,000+ templates and an AI Humanizer, it produces natural ads, emails, sales pages, and CTAs in seconds. Copywriting Subscription - $29/mo
-
+LeadScripts auto‑generates marketing scripts from a product URL, extracting 80+ details and targeting five customer‑persona stages. With 1,000+ templates and an AI Humanizer, it produces natural ads, emails, sales pages, and CTAs in seconds.
 In short, LeadScripts is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. Many users discover that this feature of LeadScripts alone covers what previously took multiple tools.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Algomo?
-    a: newmode.ai delivers real‑time inbound lead qualification by deanonymizing traffic and matching visitors to accounts. It dynamically personalizes site content, chat, CTAs, and extends that personalization to LinkedIn ads and email sequences, giving sales teams fully contextual qualified leads and booked meetings. Chatbot builder Subscription That is the core of what Algomo does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: newmode.ai delivers real‑time inbound lead qualification by deanonymizing traffic and matching visitors to accounts. It dynamically personalizes site content, chat, CTAs, and extends that personalization to LinkedIn ads and email sequences, giving sales teams fully contextual qualified leads and booked meetings. That is the core of what Algomo does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Algomo free?
     a: Algomo is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Algomo?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Algomo earn
 
 ## What is Algomo?
 
-newmode.ai delivers real‑time inbound lead qualification by deanonymizing traffic and matching visitors to accounts. It dynamically personalizes site content, chat, CTAs, and extends that personalization to LinkedIn ads and email sequences, giving sales teams fully contextual qualified leads and booked meetings. Chatbot builder Subscription
-
+newmode.ai delivers real‑time inbound lead qualification by deanonymizing traffic and matching visitors to accounts. It dynamically personalizes site content, chat, CTAs, and extends that personalization to LinkedIn ads and email sequences, giving sales teams fully contextual qualified leads and booked meetings.
 In short, Algomo is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. That one capability of Algomo frequently saves users from juggling several separate steps.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is NanaBanana2Flash?
-    a: nanabanana2flash.com is a conversational AI image generator powered by Google's Gemini. It creates and edits high-resolution images from text or uploaded references, featuring multi-turn edits, consistent characters, and 4K output.  That is the core of what NanaBanana2Flash does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: nanabanana2flash.com is a conversational AI image generator powered by Google's Gemini. It creates and edits high-resolution images from text or uploaded references, featuring multi-turn edits, consistent characters, and 4K output. That is the core of what NanaBanana2Flash does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is NanaBanana2Flash free?
     a: NanaBanana2Flash uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9.9/mo, check the official website — pricing changes often.
   - q: What can you do with NanaBanana2Flash?

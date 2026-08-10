@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Dualite?
-    a: Dualite is an AI-driven platform enabling users to create functional mobile and web applications without coding. It features flowchart generation, project management, community collaboration, and integrates with design tools like Figma and repositories like GitHub. App Builder Subscription That is the core of what Dualite does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Dualite is an AI-driven platform enabling users to create functional mobile and web applications without coding. It features flowchart generation, project management, community collaboration, and integrates with design tools like Figma and repositories like GitHub. That is the core of what Dualite does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Dualite free?
     a: Dualite is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Dualite?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Dualit
 
 ## What is Dualite?
 
-Dualite is an AI-driven platform enabling users to create functional mobile and web applications without coding. It features flowchart generation, project management, community collaboration, and integrates with design tools like Figma and repositories like GitHub. App Builder Subscription
-
+Dualite is an AI-driven platform enabling users to create functional mobile and web applications without coding. It features flowchart generation, project management, community collaboration, and integrates with design tools like Figma and repositories like GitHub.
 In short, Dualite is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. Many users find that this one ability of Dualite removes several tasks from their daily routine.
 
 ## Key features

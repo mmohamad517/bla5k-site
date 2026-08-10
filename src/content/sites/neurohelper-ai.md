@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Neurohelper AI?
-    a: Neurohelper AI is a unified AI workspace integrating top models for chat, image, video, and audio generation. It supports content creation, coding, research, reusable assistants, and automated workflows with shared project history and access controls. AI Agents Subscription - $15/mo That is the core of what Neurohelper AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Neurohelper AI is a unified AI workspace integrating top models for chat, image, video, and audio generation. It supports content creation, coding, research, reusable assistants, and automated workflows with shared project history and access controls. That is the core of what Neurohelper AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Neurohelper AI free?
     a: Neurohelper AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Neurohelper AI?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Neurohelper AI?
 
-Neurohelper AI is a unified AI workspace integrating top models for chat, image, video, and audio generation. It supports content creation, coding, research, reusable assistants, and automated workflows with shared project history and access controls. AI Agents Subscription - $15/mo
-
+Neurohelper AI is a unified AI workspace integrating top models for chat, image, video, and audio generation. It supports content creation, coding, research, reusable assistants, and automated workflows with shared project history and access controls.
 In short, Neurohelper AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For plenty of users, that one capability of Neurohelper AI replaces several steps they used to do by hand.
 
 ## Key features

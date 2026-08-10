@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is EverLearns Studio?
-    a: Quinnsy automatically generates full course curricula from provided topics, references, and media. Users can edit lessons, publish instantly, or export to PDF, DOCX, HTML, and Markdown. It supports multiple languages for educators, creators, and consultants. AI Assistant Subscription - $29/mo That is the core of what EverLearns Studio does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Quinnsy automatically generates full course curricula from provided topics, references, and media. Users can edit lessons, publish instantly, or export to PDF, DOCX, HTML, and Markdown. It supports multiple languages for educators, creators, and consultants. That is the core of what EverLearns Studio does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is EverLearns Studio free?
     a: EverLearns Studio is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with EverLearns Studio?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is EverLearns Studio?
 
-Quinnsy automatically generates full course curricula from provided topics, references, and media. Users can edit lessons, publish instantly, or export to PDF, DOCX, HTML, and Markdown. It supports multiple languages for educators, creators, and consultants. AI Assistant Subscription - $29/mo
-
+Quinnsy automatically generates full course curricula from provided topics, references, and media. Users can edit lessons, publish instantly, or export to PDF, DOCX, HTML, and Markdown. It supports multiple languages for educators, creators, and consultants.
 In short, EverLearns Studio is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one feature of EverLearns Studio often eliminates several smaller steps from the usual workflow.
 
 ## Key features

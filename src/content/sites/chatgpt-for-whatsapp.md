@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ChatGPT for WhatsApp?
-    a: Agent for WhatsApp is a Chrome extension that adds AI‑powered conversation management to WhatsApp Web. It automates context‑aware replies, lead capture, and prioritization, supports batch messaging and scheduling, and integrates with multiple AI models through a simple dashboard. Omnichannel chatbot Freemium - $19/mo That is the core of what ChatGPT for WhatsApp does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Agent for WhatsApp is a Chrome extension that adds AI‑powered conversation management to WhatsApp Web. It automates context‑aware replies, lead capture, and prioritization, supports batch messaging and scheduling, and integrates with multiple AI models through a simple dashboard. That is the core of what ChatGPT for WhatsApp does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ChatGPT for WhatsApp free?
     a: ChatGPT for WhatsApp uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $19/mo, check the official website — pricing changes often.
   - q: What can you do with ChatGPT for WhatsApp?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is ChatGPT for WhatsApp?
 
-Agent for WhatsApp is a Chrome extension that adds AI‑powered conversation management to WhatsApp Web. It automates context‑aware replies, lead capture, and prioritization, supports batch messaging and scheduling, and integrates with multiple AI models through a simple dashboard. Omnichannel chatbot Freemium - $19/mo
-
+Agent for WhatsApp is a Chrome extension that adds AI‑powered conversation management to WhatsApp Web. It automates context‑aware replies, lead capture, and prioritization, supports batch messaging and scheduling, and integrates with multiple AI models through a simple dashboard.
 In short, ChatGPT for WhatsApp is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For plenty of users, that one capability of ChatGPT for WhatsApp replaces several steps they used to do by hand.
 
 ## Key features

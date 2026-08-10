@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Cybertiks?
-    a: Cybertiks uses satellite imagery and AI to provide accurate soil nutrient, texture, and mineral data for agricultural fields. Users enter coordinates to view up‑to‑date weekly metrics on dashboards, integrating optical and radar sensor fusion. AI Assistant Freemium That is the core of what Cybertiks does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Cybertiks uses satellite imagery and AI to provide accurate soil nutrient, texture, and mineral data for agricultural fields. Users enter coordinates to view up‑to‑date weekly metrics on dashboards, integrating optical and radar sensor fusion. That is the core of what Cybertiks does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Cybertiks free?
     a: Cybertiks uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Cybertiks?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Cybertiks m
 
 ## What is Cybertiks?
 
-Cybertiks uses satellite imagery and AI to provide accurate soil nutrient, texture, and mineral data for agricultural fields. Users enter coordinates to view up‑to‑date weekly metrics on dashboards, integrating optical and radar sensor fusion. AI Assistant Freemium
-
+Cybertiks uses satellite imagery and AI to provide accurate soil nutrient, texture, and mineral data for agricultural fields. Users enter coordinates to view up‑to‑date weekly metrics on dashboards, integrating optical and radar sensor fusion.
 In short, Cybertiks is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of Cybertiks replaces several steps they used to do by hand.
 
 ## Key features

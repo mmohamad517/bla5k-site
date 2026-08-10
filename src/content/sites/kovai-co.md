@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Kovai.co?
-    a: Kovai.co’s SaaS suite—BizTalk360, Turbo360, and Document360—provides AI-assisted BizTalk Server and Azure monitoring, serverless tracing, automated remediation, role-based access, operational analytics, and a documentation platform for faster incident resolution and governance. AI Agents Freemium That is the core of what Kovai.co does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Kovai.co’s SaaS suite—BizTalk360, Turbo360, and Document360—provides AI-assisted BizTalk Server and Azure monitoring, serverless tracing, automated remediation, role-based access, operational analytics, and a documentation platform for faster incident resolution and governance. That is the core of what Kovai.co does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Kovai.co free?
     a: Kovai.co uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Kovai.co?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Kovai.co ma
 
 ## What is Kovai.co?
 
-Kovai.co’s SaaS suite—BizTalk360, Turbo360, and Document360—provides AI-assisted BizTalk Server and Azure monitoring, serverless tracing, automated remediation, role-based access, operational analytics, and a documentation platform for faster incident resolution and governance. AI Agents Freemium
-
+Kovai.co’s SaaS suite—BizTalk360, Turbo360, and Document360—provides AI-assisted BizTalk Server and Azure monitoring, serverless tracing, automated remediation, role-based access, operational analytics, and a documentation platform for faster incident resolution and governance.
 In short, Kovai.co is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users discover that this feature of Kovai.co alone covers what previously took multiple tools.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is cyara.com?
-    a: Cyara is an AI-driven platform that automates testing and monitoring of customer interactions across channels. It provides real-time analytics, enhances customer journey quality, and supports proactive issue detection while ensuring privacy compliance. Communication Automation Freemium That is the core of what cyara.com does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Cyara is an AI-driven platform that automates testing and monitoring of customer interactions across channels. It provides real-time analytics, enhances customer journey quality, and supports proactive issue detection while ensuring privacy compliance. That is the core of what cyara.com does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is cyara.com free?
     a: cyara.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with cyara.com?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is cyara.com?
 
-Cyara is an AI-driven platform that automates testing and monitoring of customer interactions across channels. It provides real-time analytics, enhances customer journey quality, and supports proactive issue detection while ensuring privacy compliance. Communication Automation Freemium
-
+Cyara is an AI-driven platform that automates testing and monitoring of customer interactions across channels. It provides real-time analytics, enhances customer journey quality, and supports proactive issue detection while ensuring privacy compliance.
 In short, cyara.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. That one capability of cyara.com frequently saves users from juggling several separate steps.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AIssistify?
-    a: AIssistify automates SEO, paid‑search, and social‑media content creation. It delivers keyword research, ad and landing‑page generators, copy frameworks, and collaborative tools to produce consistent, brand‑aligned messaging efficiently. Sales Freemium That is the core of what AIssistify does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AIssistify automates SEO, paid‑search, and social‑media content creation. It delivers keyword research, ad and landing‑page generators, copy frameworks, and collaborative tools to produce consistent, brand‑aligned messaging efficiently. That is the core of what AIssistify does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AIssistify free?
     a: AIssistify uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AIssistify?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is AIssistify?
 
-AIssistify automates SEO, paid‑search, and social‑media content creation. It delivers keyword research, ad and landing‑page generators, copy frameworks, and collaborative tools to produce consistent, brand‑aligned messaging efficiently. Sales Freemium
-
+AIssistify automates SEO, paid‑search, and social‑media content creation. It delivers keyword research, ad and landing‑page generators, copy frameworks, and collaborative tools to produce consistent, brand‑aligned messaging efficiently.
 In short, AIssistify is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. Many users find that this one ability of AIssistify removes several tasks from their daily routine.
 
 ## Key features

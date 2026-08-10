@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Okara?
-    a: Okara is a private AI chat platform integrating 20+ open-source language and image models with client-side encryption and user-controlled decryption, unified memory for model switching, integrated web/social/YouTube search, image generation, file uploads, and private team hosting. Chat Freemium - $20/mo That is the core of what Okara does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Okara is a private AI chat platform integrating 20+ open-source language and image models with client-side encryption and user-controlled decryption, unified memory for model switching, integrated web/social/YouTube search, image generation, file uploads, and private team hosting. That is the core of what Okara does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Okara free?
     a: Okara uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $20/mo, check the official website — pricing changes often.
   - q: What can you do with Okara?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Okara?
 
-Okara is a private AI chat platform integrating 20+ open-source language and image models with client-side encryption and user-controlled decryption, unified memory for model switching, integrated web/social/YouTube search, image generation, file uploads, and private team hosting. Chat Freemium - $20/mo
-
+Okara is a private AI chat platform integrating 20+ open-source language and image models with client-side encryption and user-controlled decryption, unified memory for model switching, integrated web/social/YouTube search, image generation, file uploads, and private team hosting.
 In short, Okara is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. That single feature of Okara alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

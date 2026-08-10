@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Giti?
-    a: Giti ChatGPT is a multilingual AI chatbot that generates text in 130+ languages. It rewrites, expands, and creates articles, blog posts, SEO lists, email drafts, and social‑media captions, plus sentiment analysis, keyword extraction, and topic clustering for refined content. Content Writing Freemium That is the core of what Giti does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Giti ChatGPT is a multilingual AI chatbot that generates text in 130+ languages. It rewrites, expands, and creates articles, blog posts, SEO lists, email drafts, and social‑media captions, plus sentiment analysis, keyword extraction, and topic clustering for refined content. That is the core of what Giti does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Giti free?
     a: Giti uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Giti?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Giti?
 
-Giti ChatGPT is a multilingual AI chatbot that generates text in 130+ languages. It rewrites, expands, and creates articles, blog posts, SEO lists, email drafts, and social‑media captions, plus sentiment analysis, keyword extraction, and topic clustering for refined content. Content Writing Freemium
-
+Giti ChatGPT is a multilingual AI chatbot that generates text in 130+ languages. It rewrites, expands, and creates articles, blog posts, SEO lists, email drafts, and social‑media captions, plus sentiment analysis, keyword extraction, and topic clustering for refined content.
 In short, Giti is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. Many users find that this one ability of Giti removes several tasks from their daily routine.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Uptik?
-    a: Uptk is an affiliate outreach tool for TikTok sellers, enabling targeted marketing to over 3,000 affiliates daily. It offers a comprehensive affiliate database, CRM management, email campaigns, and streamlined management of multiple TikTok shops. Marketing Free trial - $255 That is the core of what Uptik does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Uptk is an affiliate outreach tool for TikTok sellers, enabling targeted marketing to over 3,000 affiliates daily. It offers a comprehensive affiliate database, CRM management, email campaigns, and streamlined management of multiple TikTok shops. That is the core of what Uptik does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Uptik free?
     a: Uptik uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $255, check the official website — pricing changes often.
   - q: What can you do with Uptik?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Uptik?
 
-Uptk is an affiliate outreach tool for TikTok sellers, enabling targeted marketing to over 3,000 affiliates daily. It offers a comprehensive affiliate database, CRM management, email campaigns, and streamlined management of multiple TikTok shops. Marketing Free trial - $255
-
+Uptk is an affiliate outreach tool for TikTok sellers, enabling targeted marketing to over 3,000 affiliates daily. It offers a comprehensive affiliate database, CRM management, email campaigns, and streamlined management of multiple TikTok shops.
 In short, Uptik is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That single feature of Uptik alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

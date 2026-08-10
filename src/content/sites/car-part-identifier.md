@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Car Part Identifier?
-    a: Car Part Identifier is an AI tool that allows users to identify automotive components by uploading a photo. It provides detailed information about parts and connects users with expert mechanics for assistance, enhancing repair accuracy and efficiency.  That is the core of what Car Part Identifier does — automotive ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Car Part Identifier is an AI tool that allows users to identify automotive components by uploading a photo. It provides detailed information about parts and connects users with expert mechanics for assistance, enhancing repair accuracy and efficiency. That is the core of what Car Part Identifier does — automotive ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Car Part Identifier free?
     a: Car Part Identifier is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Car Part Identifier?

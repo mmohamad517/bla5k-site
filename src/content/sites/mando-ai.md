@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Mando AI?
-    a: Mando AI offers 24/7 customer service for SMEs by managing queries across platforms with customizable AI agents. It integrates with tools like Google Drive and Slack, providing analytics for improved interactions while prioritizing security and transparency. Customer support Free trial That is the core of what Mando AI does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Mando AI offers 24/7 customer service for SMEs by managing queries across platforms with customizable AI agents. It integrates with tools like Google Drive and Slack, providing analytics for improved interactions while prioritizing security and transparency. That is the core of what Mando AI does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Mando AI free?
     a: Mando AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Mando AI?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Mando AI ma
 
 ## What is Mando AI?
 
-Mando AI offers 24/7 customer service for SMEs by managing queries across platforms with customizable AI agents. It integrates with tools like Google Drive and Slack, providing analytics for improved interactions while prioritizing security and transparency. Customer support Free trial
-
+Mando AI offers 24/7 customer service for SMEs by managing queries across platforms with customizable AI agents. It integrates with tools like Google Drive and Slack, providing analytics for improved interactions while prioritizing security and transparency.
 In short, Mando AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For plenty of users, that one capability of Mando AI replaces several steps they used to do by hand.
 
 ## Key features

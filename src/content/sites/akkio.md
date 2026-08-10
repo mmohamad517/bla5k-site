@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Akkio?
-    a: Akkio is an AI‑native workflow platform that unifies strategy, audience building, and performance measurement for media agencies and marketing teams. It offers no‑code modeling, natural‑language insights, media simulation, one‑click activation, and secure, compliant governance. Marketing Subscription - $49/mo That is the core of what Akkio does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Akkio is an AI‑native workflow platform that unifies strategy, audience building, and performance measurement for media agencies and marketing teams. It offers no‑code modeling, natural‑language insights, media simulation, one‑click activation, and secure, compliant governance. That is the core of what Akkio does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Akkio free?
     a: Akkio is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Akkio?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Akkio?
 
-Akkio is an AI‑native workflow platform that unifies strategy, audience building, and performance measurement for media agencies and marketing teams. It offers no‑code modeling, natural‑language insights, media simulation, one‑click activation, and secure, compliant governance. Marketing Subscription - $49/mo
-
+Akkio is an AI‑native workflow platform that unifies strategy, audience building, and performance measurement for media agencies and marketing teams. It offers no‑code modeling, natural‑language insights, media simulation, one‑click activation, and secure, compliant governance.
 In short, Akkio is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many, that single strength of Akkio is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

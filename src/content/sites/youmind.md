@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is YouMind?
-    a: Youmind is an AI creation studio for personalized learning and idea management, allowing users to capture and organize inspiration from various formats, integrate insights, and create editable documents to enhance clarity and cohesion in their work. Knowledge base management Free trial That is the core of what YouMind does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Youmind is an AI creation studio for personalized learning and idea management, allowing users to capture and organize inspiration from various formats, integrate insights, and create editable documents to enhance clarity and cohesion in their work. That is the core of what YouMind does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is YouMind free?
     a: YouMind uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with YouMind?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like YouMind ear
 
 ## What is YouMind?
 
-Youmind is an AI creation studio for personalized learning and idea management, allowing users to capture and organize inspiration from various formats, integrate insights, and create editable documents to enhance clarity and cohesion in their work. Knowledge base management Free trial
-
+Youmind is an AI creation studio for personalized learning and idea management, allowing users to capture and organize inspiration from various formats, integrate insights, and create editable documents to enhance clarity and cohesion in their work.
 In short, YouMind is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For a lot of people, that one function of YouMind collapses multiple steps into a single action.
 
 ## Key features

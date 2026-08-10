@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is moyoNote?
-    a: MoyoNote is an organizing tool that manages various file types and creates a knowledge base. Its features include a drag-and-drop interface, mind mapping, and sharing capabilities, making it ideal for students, professionals, and educators. Document management Free trial That is the core of what moyoNote does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: MoyoNote is an organizing tool that manages various file types and creates a knowledge base. Its features include a drag-and-drop interface, mind mapping, and sharing capabilities, making it ideal for students, professionals, and educators. That is the core of what moyoNote does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is moyoNote free?
     a: moyoNote uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with moyoNote?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is moyoNote?
 
-MoyoNote is an organizing tool that manages various file types and creates a knowledge base. Its features include a drag-and-drop interface, mind mapping, and sharing capabilities, making it ideal for students, professionals, and educators. Document management Free trial
-
+MoyoNote is an organizing tool that manages various file types and creates a knowledge base. Its features include a drag-and-drop interface, mind mapping, and sharing capabilities, making it ideal for students, professionals, and educators.
 In short, moyoNote is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many, that single strength of moyoNote is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Copyleaks?
-    a: Copyleaks delivers AI text and image detection, plagiarism checking, grammar correction, and text moderation in 30+ languages. It integrates via API, LMS, browser extensions, and Google Docs, supports major LLMs, and ensures secure, compliant workflows for education and enterprise.  That is the core of what Copyleaks does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Copyleaks delivers AI text and image detection, plagiarism checking, grammar correction, and text moderation in 30+ languages. It integrates via API, LMS, browser extensions, and Google Docs, supports major LLMs, and ensures secure, compliant workflows for education and enterprise. That is the core of what Copyleaks does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Copyleaks free?
     a: Copyleaks uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Copyleaks?

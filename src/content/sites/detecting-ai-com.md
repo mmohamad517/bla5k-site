@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Detecting-AI.com?
-    a: Detecting‑AI scans text in 50+ languages, marking AI‑generated sentences with probability scores. It integrates with Chrome, Moodle, Zapier, and offers an API, delivering up to 98% accuracy and low false‑positives while protecting user privacy. Content Writing Freemium - $7/mo That is the core of what Detecting-AI.com does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Detecting‑AI scans text in 50+ languages, marking AI‑generated sentences with probability scores. It integrates with Chrome, Moodle, Zapier, and offers an API, delivering up to 98% accuracy and low false‑positives while protecting user privacy. That is the core of what Detecting-AI.com does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Detecting-AI.com free?
     a: Detecting-AI.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $7/mo, check the official website — pricing changes often.
   - q: What can you do with Detecting-AI.com?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Detecting-AI.com
 
 ## What is Detecting-AI.com?
 
-Detecting‑AI scans text in 50+ languages, marking AI‑generated sentences with probability scores. It integrates with Chrome, Moodle, Zapier, and offers an API, delivering up to 98% accuracy and low false‑positives while protecting user privacy. Content Writing Freemium - $7/mo
-
+Detecting‑AI scans text in 50+ languages, marking AI‑generated sentences with probability scores. It integrates with Chrome, Moodle, Zapier, and offers an API, delivering up to 98% accuracy and low false‑positives while protecting user privacy.
 In short, Detecting-AI.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For plenty of users, that one capability of Detecting-AI.com replaces several steps they used to do by hand.
 
 ## Key features

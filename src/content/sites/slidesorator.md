@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SlidesOrator?
-    a: Slidesorator is a 3D avatar AI tool that enhances live presentations with real-time interactivity, voice-over narration, and an integrated Q&A system, making it ideal for corporate training and educational settings. It supports seamless content sharing using WebGL2 technology.  That is the core of what SlidesOrator does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Slidesorator is a 3D avatar AI tool that enhances live presentations with real-time interactivity, voice-over narration, and an integrated Q&A system, making it ideal for corporate training and educational settings. It supports seamless content sharing using WebGL2 technology. That is the core of what SlidesOrator does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SlidesOrator free?
     a: Yes — SlidesOrator is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with SlidesOrator?

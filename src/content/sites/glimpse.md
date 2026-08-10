@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Glimpse?
-    a: Glimpse is an AI-powered chat assistant and browser extension that offers conversational, writing, and editing assistance while also functioning as an adblock to keep browsing experience clean and secure.  That is the core of what Glimpse does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Glimpse is an AI-powered chat assistant and browser extension that offers conversational, writing, and editing assistance while also functioning as an adblock to keep browsing experience clean and secure. That is the core of what Glimpse does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Glimpse free?
     a: Yes — Glimpse is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Glimpse?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Anantya.ai?
-    a: Anantya.ai connects businesses to customers via the WhatsApp Business API, offering broadcast campaigns, automated order/payment notifications, live chat, AI‑driven support, click‑to‑WhatsApp ads, and integration with 100+ tools for catalog listings and analytics. Personal Chatbot Free That is the core of what Anantya.ai does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Anantya.ai connects businesses to customers via the WhatsApp Business API, offering broadcast campaigns, automated order/payment notifications, live chat, AI‑driven support, click‑to‑WhatsApp ads, and integration with 100+ tools for catalog listings and analytics. That is the core of what Anantya.ai does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Anantya.ai free?
     a: Yes — Anantya.ai is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Anantya.ai?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Ananty
 
 ## What is Anantya.ai?
 
-Anantya.ai connects businesses to customers via the WhatsApp Business API, offering broadcast campaigns, automated order/payment notifications, live chat, AI‑driven support, click‑to‑WhatsApp ads, and integration with 100+ tools for catalog listings and analytics. Personal Chatbot Free
-
+Anantya.ai connects businesses to customers via the WhatsApp Business API, offering broadcast campaigns, automated order/payment notifications, live chat, AI‑driven support, click‑to‑WhatsApp ads, and integration with 100+ tools for catalog listings and analytics.
 In short, Anantya.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. That one capability of Anantya.ai frequently saves users from juggling several separate steps.
 
 ## Key features

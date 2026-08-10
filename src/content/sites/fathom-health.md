@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Fathom Health?
-    a: Fathom uses machine learning to convert clinical documentation into standardized diagnosis and procedure codes, integrating with EHRs and billing systems to streamline coding workflows, provide audit trails and compliance, and deliver coding analytics for revenue cycle teams. Billing Management Freemium That is the core of what Fathom Health does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Fathom uses machine learning to convert clinical documentation into standardized diagnosis and procedure codes, integrating with EHRs and billing systems to streamline coding workflows, provide audit trails and compliance, and deliver coding analytics for revenue cycle teams. That is the core of what Fathom Health does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Fathom Health free?
     a: Fathom Health uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Fathom Health?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Fathom Health?
 
-Fathom uses machine learning to convert clinical documentation into standardized diagnosis and procedure codes, integrating with EHRs and billing systems to streamline coding workflows, provide audit trails and compliance, and deliver coding analytics for revenue cycle teams. Billing Management Freemium
-
+Fathom uses machine learning to convert clinical documentation into standardized diagnosis and procedure codes, integrating with EHRs and billing systems to streamline coding workflows, provide audit trails and compliance, and deliver coding analytics for revenue cycle teams.
 In short, Fathom Health is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. Many users discover that this feature of Fathom Health alone covers what previously took multiple tools.
 
 ## Key features

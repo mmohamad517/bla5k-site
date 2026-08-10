@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Botscrew.com?
-    a: BotsCrew delivers end‑to‑end conversational AI agents built on GPT‑4o, Llama 3, or RAG. Users choose pre‑built or custom agents, proceed through discovery, rapid prototyping, and deployment, with real‑time UI, unlimited integrations, and compliance support to automate queries and reduce support costs. AI Agents Freemium That is the core of what Botscrew.com does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: BotsCrew delivers end‑to‑end conversational AI agents built on GPT‑4o, Llama 3, or RAG. Users choose pre‑built or custom agents, proceed through discovery, rapid prototyping, and deployment, with real‑time UI, unlimited integrations, and compliance support to automate queries and reduce support costs. That is the core of what Botscrew.com does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Botscrew.com free?
     a: Botscrew.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Botscrew.com?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Botscrew.com?
 
-BotsCrew delivers end‑to‑end conversational AI agents built on GPT‑4o, Llama 3, or RAG. Users choose pre‑built or custom agents, proceed through discovery, rapid prototyping, and deployment, with real‑time UI, unlimited integrations, and compliance support to automate queries and reduce support costs. AI Agents Freemium
-
+BotsCrew delivers end‑to‑end conversational AI agents built on GPT‑4o, Llama 3, or RAG. Users choose pre‑built or custom agents, proceed through discovery, rapid prototyping, and deployment, with real‑time UI, unlimited integrations, and compliance support to automate queries and reduce support costs.
 In short, Botscrew.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That one feature of Botscrew.com often eliminates several smaller steps from the usual workflow.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is WordCraft3D?
-    a: WordCraft3D converts text prompts into downloadable .obj 3D models, delivering ZIP bundles in a few minutes. The web app supports up to three concurrent requests for stable performance and efficient server use. 3d Free - $100/mo That is the core of what WordCraft3D does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: WordCraft3D converts text prompts into downloadable .obj 3D models, delivering ZIP bundles in a few minutes. The web app supports up to three concurrent requests for stable performance and efficient server use. That is the core of what WordCraft3D does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is WordCraft3D free?
     a: WordCraft3D uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with WordCraft3D?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is WordCraft3D?
 
-WordCraft3D converts text prompts into downloadable .obj 3D models, delivering ZIP bundles in a few minutes. The web app supports up to three concurrent requests for stable performance and efficient server use. 3d Free - $100/mo
-
+WordCraft3D converts text prompts into downloadable .obj 3D models, delivering ZIP bundles in a few minutes. The web app supports up to three concurrent requests for stable performance and efficient server use.
 In short, WordCraft3D is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. For a lot of people, that one function of WordCraft3D collapses multiple steps into a single action.
 
 ## Key features

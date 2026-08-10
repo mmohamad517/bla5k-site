@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TitleMaster AI?
-    a: TitleMaster AI generates up to ten headline options per query using GPT‑4 and Claude, producing question, how‑to, and listicle styles. It adds SEO optimization, A/B testing, CMS integration, and performance analytics for creators and marketers. Copywriting Paid That is the core of what TitleMaster AI does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: TitleMaster AI generates up to ten headline options per query using GPT‑4 and Claude, producing question, how‑to, and listicle styles. It adds SEO optimization, A/B testing, CMS integration, and performance analytics for creators and marketers. That is the core of what TitleMaster AI does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TitleMaster AI free?
     a: TitleMaster AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with TitleMaster AI?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like TitleMaster
 
 ## What is TitleMaster AI?
 
-TitleMaster AI generates up to ten headline options per query using GPT‑4 and Claude, producing question, how‑to, and listicle styles. It adds SEO optimization, A/B testing, CMS integration, and performance analytics for creators and marketers. Copywriting Paid
-
+TitleMaster AI generates up to ten headline options per query using GPT‑4 and Claude, producing question, how‑to, and listicle styles. It adds SEO optimization, A/B testing, CMS integration, and performance analytics for creators and marketers.
 In short, TitleMaster AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. That one feature of TitleMaster AI often eliminates several smaller steps from the usual workflow.
 
 ## Key features

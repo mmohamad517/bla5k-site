@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SayHi?
-    a: SayHi is a Chrome extension that automates LinkedIn outreach by generating personalized messages from a contact’s profile. Users craft a one‑sentence template, choose tone, and can auto‑create templates from job descriptions or product details, with analytics and A/B testing. Marketing Paid - $10 That is the core of what SayHi does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SayHi is a Chrome extension that automates LinkedIn outreach by generating personalized messages from a contact’s profile. Users craft a one‑sentence template, choose tone, and can auto‑create templates from job descriptions or product details, with analytics and A/B testing. That is the core of what SayHi does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SayHi free?
     a: SayHi is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with SayHi?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like SayHi matte
 
 ## What is SayHi?
 
-SayHi is a Chrome extension that automates LinkedIn outreach by generating personalized messages from a contact’s profile. Users craft a one‑sentence template, choose tone, and can auto‑create templates from job descriptions or product details, with analytics and A/B testing. Marketing Paid - $10
-
+SayHi is a Chrome extension that automates LinkedIn outreach by generating personalized messages from a contact’s profile. Users craft a one‑sentence template, choose tone, and can auto‑create templates from job descriptions or product details, with analytics and A/B testing.
 In short, SayHi is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many, that single strength of SayHi is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

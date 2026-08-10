@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Fin2 by Intercom?
-    a: The Fin2 AI chatbot is an AI-powered customer service tool that accurately answers customer questions and reduces support volume and resolution times.  That is the core of what Fin2 by Intercom does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: The Fin2 AI chatbot is an AI-powered customer service tool that accurately answers customer questions and reduces support volume and resolution times. That is the core of what Fin2 by Intercom does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Fin2 by Intercom free?
     a: Fin2 by Intercom uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Fin2 by Intercom?

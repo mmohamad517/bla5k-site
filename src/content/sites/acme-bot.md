@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ACME.BOT?
-    a: ACME.BOT is an AI-powered tool for SEO content generation and diagram illustration that researches, writes, and auto-publishes articles. It offers unlimited iterations, automation, and integrations with WordPress/Shopify, plus AI-driven keyword research and competitor analysis.  That is the core of what ACME.BOT does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ACME.BOT is an AI-powered tool for SEO content generation and diagram illustration that researches, writes, and auto-publishes articles. It offers unlimited iterations, automation, and integrations with WordPress/Shopify, plus AI-driven keyword research and competitor analysis. That is the core of what ACME.BOT does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ACME.BOT free?
     a: ACME.BOT uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $49/mo, check the official website — pricing changes often.
   - q: What can you do with ACME.BOT?

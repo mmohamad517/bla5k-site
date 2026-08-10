@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Avallon?
-    a: Avallon provides AI agents that automate claims intake and processing—capturing losses via phone, email, or upload, extracting and indexing document data, automating outreach and task routing, integrating with CMS/CRM/IVR, and surfacing case guidance for adjusters. AI Agents Subscription - $4.6 That is the core of what Avallon does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Avallon provides AI agents that automate claims intake and processing—capturing losses via phone, email, or upload, extracting and indexing document data, automating outreach and task routing, integrating with CMS/CRM/IVR, and surfacing case guidance for adjusters. That is the core of what Avallon does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Avallon free?
     a: Avallon is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Avallon?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Avallon?
 
-Avallon provides AI agents that automate claims intake and processing—capturing losses via phone, email, or upload, extracting and indexing document data, automating outreach and task routing, integrating with CMS/CRM/IVR, and surfacing case guidance for adjusters. AI Agents Subscription - $4.6
-
+Avallon provides AI agents that automate claims intake and processing—capturing losses via phone, email, or upload, extracting and indexing document data, automating outreach and task routing, integrating with CMS/CRM/IVR, and surfacing case guidance for adjusters.
 In short, Avallon is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That one feature of Avallon often eliminates several smaller steps from the usual workflow.
 
 ## Key features

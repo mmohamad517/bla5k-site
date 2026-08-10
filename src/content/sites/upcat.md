@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is UpCat?
-    a: UpCat automates Upwork proposal creation, generating tailored cover letters from job posts and alerting users to new openings or status changes directly in the browser. The Chrome extension streamlines the bidding process for freelancers. Human resources Free That is the core of what UpCat does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: UpCat automates Upwork proposal creation, generating tailored cover letters from job posts and alerting users to new openings or status changes directly in the browser. The Chrome extension streamlines the bidding process for freelancers. That is the core of what UpCat does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is UpCat free?
     a: Yes — UpCat is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with UpCat?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like UpCat earn their
 
 ## What is UpCat?
 
-UpCat automates Upwork proposal creation, generating tailored cover letters from job posts and alerting users to new openings or status changes directly in the browser. The Chrome extension streamlines the bidding process for freelancers. Human resources Free
-
+UpCat automates Upwork proposal creation, generating tailored cover letters from job posts and alerting users to new openings or status changes directly in the browser. The Chrome extension streamlines the bidding process for freelancers.
 In short, UpCat is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. Many users discover that this feature of UpCat alone covers what previously took multiple tools.
 
 ## Key features

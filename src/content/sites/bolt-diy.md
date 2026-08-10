@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Bolt.diy?
-    a: Bolt.diy is an open-source AI-powered platform for developing, running, and deploying full-stack web applications using multiple LLMs. It features an integrated terminal, version control, and seamless model integration, making AI-assisted coding more efficient and flexible. Code assistant Free That is the core of what Bolt.diy does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Bolt.diy is an open-source AI-powered platform for developing, running, and deploying full-stack web applications using multiple LLMs. It features an integrated terminal, version control, and seamless model integration, making AI-assisted coding more efficient and flexible. That is the core of what Bolt.diy does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Bolt.diy free?
     a: Yes — Bolt.diy is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Bolt.diy?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Bolt.diy?
 
-Bolt.diy is an open-source AI-powered platform for developing, running, and deploying full-stack web applications using multiple LLMs. It features an integrated terminal, version control, and seamless model integration, making AI-assisted coding more efficient and flexible. Code assistant Free
-
+Bolt.diy is an open-source AI-powered platform for developing, running, and deploying full-stack web applications using multiple LLMs. It features an integrated terminal, version control, and seamless model integration, making AI-assisted coding more efficient and flexible.
 In short, Bolt.diy is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of Bolt.diy replaces several steps they used to do by hand.
 
 ## Key features

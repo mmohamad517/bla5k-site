@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Legal Intern AI?
-    a: Legal Intern AI automates legal documentation by converting audio input into accurate legal documents, enhancing productivity while minimizing human error. Its advanced security features protect sensitive data, streamlining workflows for law firms without the need for supervision. Document management Freemium That is the core of what Legal Intern AI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Legal Intern AI automates legal documentation by converting audio input into accurate legal documents, enhancing productivity while minimizing human error. Its advanced security features protect sensitive data, streamlining workflows for law firms without the need for supervision. That is the core of what Legal Intern AI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Legal Intern AI free?
     a: Legal Intern AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Legal Intern AI?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Legal Inter
 
 ## What is Legal Intern AI?
 
-Legal Intern AI automates legal documentation by converting audio input into accurate legal documents, enhancing productivity while minimizing human error. Its advanced security features protect sensitive data, streamlining workflows for law firms without the need for supervision. Document management Freemium
-
+Legal Intern AI automates legal documentation by converting audio input into accurate legal documents, enhancing productivity while minimizing human error. Its advanced security features protect sensitive data, streamlining workflows for law firms without the need for supervision.
 In short, Legal Intern AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. Many users discover that this feature of Legal Intern AI alone covers what previously took multiple tools.
 
 ## Key features

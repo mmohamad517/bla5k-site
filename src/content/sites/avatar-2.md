@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Avatar 2?
-    a: Avatar 2 converts a front-facing portrait and audio (or TTS) into HD talking avatar videos with precise lip-sync, micro-expression facial animation, and multilingual support (50+ languages), producing downloadable high-resolution clips for social, demos, presentations, and e-learning. Avatar Free That is the core of what Avatar 2 does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Avatar 2 converts a front-facing portrait and audio (or TTS) into HD talking avatar videos with precise lip-sync, micro-expression facial animation, and multilingual support (50+ languages), producing downloadable high-resolution clips for social, demos, presentations, and e-learning. That is the core of what Avatar 2 does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Avatar 2 free?
     a: Yes — Avatar 2 is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Avatar 2?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Avatar 2?
 
-Avatar 2 converts a front-facing portrait and audio (or TTS) into HD talking avatar videos with precise lip-sync, micro-expression facial animation, and multilingual support (50+ languages), producing downloadable high-resolution clips for social, demos, presentations, and e-learning. Avatar Free
-
+Avatar 2 converts a front-facing portrait and audio (or TTS) into HD talking avatar videos with precise lip-sync, micro-expression facial animation, and multilingual support (50+ languages), producing downloadable high-resolution clips for social, demos, presentations, and e-learning.
 In short, Avatar 2 is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. For plenty of users, that one capability of Avatar 2 replaces several steps they used to do by hand.
 
 ## Key features

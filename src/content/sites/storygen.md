@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is StoryGen?
-    a: StoryGen generates written stories and optional audio narrations via ElevenLabs voice, offering a simple interface for genre, length, and voice selection. It supports writers, educators, and developers with an API, enabling quick narrative creation for blogs, lessons, or multimedia projects. Content Writing Freemium That is the core of what StoryGen does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: StoryGen generates written stories and optional audio narrations via ElevenLabs voice, offering a simple interface for genre, length, and voice selection. It supports writers, educators, and developers with an API, enabling quick narrative creation for blogs, lessons, or multimedia projects. That is the core of what StoryGen does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is StoryGen free?
     a: StoryGen uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with StoryGen?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is StoryGen?
 
-StoryGen generates written stories and optional audio narrations via ElevenLabs voice, offering a simple interface for genre, length, and voice selection. It supports writers, educators, and developers with an API, enabling quick narrative creation for blogs, lessons, or multimedia projects. Content Writing Freemium
-
+StoryGen generates written stories and optional audio narrations via ElevenLabs voice, offering a simple interface for genre, length, and voice selection. It supports writers, educators, and developers with an API, enabling quick narrative creation for blogs, lessons, or multimedia projects.
 In short, StoryGen is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. That one feature of StoryGen often eliminates several smaller steps from the usual workflow.
 
 ## Key features

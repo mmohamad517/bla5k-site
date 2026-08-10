@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Hyrproz?
-    a: Hyrproz is a fractional hiring marketplace that pairs employers with pre‑screened, part‑time executives (CTO, CFO, CMO, VP of Sales, Product Lead). It matches talent to projects, enabling rapid skill‑gap closure and flexible scaling while lowering hiring overhead.  That is the core of what Hyrproz does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Hyrproz is a fractional hiring marketplace that pairs employers with pre‑screened, part‑time executives (CTO, CFO, CMO, VP of Sales, Product Lead). It matches talent to projects, enabling rapid skill‑gap closure and flexible scaling while lowering hiring overhead. That is the core of what Hyrproz does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Hyrproz free?
     a: Hyrproz is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Hyrproz?

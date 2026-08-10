@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is My Cheeky Bot?
-    a: Cheeky Bot enables businesses to create and deploy custom GPT-based chatbots for automated customer engagement and lead generation. It offers real-time assistance, chat analytics, and seamless website integration for efficient support and lead capture. Chatbot builder Free trial That is the core of what My Cheeky Bot does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Cheeky Bot enables businesses to create and deploy custom GPT-based chatbots for automated customer engagement and lead generation. It offers real-time assistance, chat analytics, and seamless website integration for efficient support and lead capture. That is the core of what My Cheeky Bot does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is My Cheeky Bot free?
     a: My Cheeky Bot uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with My Cheeky Bot?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like My Che
 
 ## What is My Cheeky Bot?
 
-Cheeky Bot enables businesses to create and deploy custom GPT-based chatbots for automated customer engagement and lead generation. It offers real-time assistance, chat analytics, and seamless website integration for efficient support and lead capture. Chatbot builder Free trial
-
+Cheeky Bot enables businesses to create and deploy custom GPT-based chatbots for automated customer engagement and lead generation. It offers real-time assistance, chat analytics, and seamless website integration for efficient support and lead capture.
 In short, My Cheeky Bot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. Many users find that this one ability of My Cheeky Bot removes several tasks from their daily routine.
 
 ## Key features

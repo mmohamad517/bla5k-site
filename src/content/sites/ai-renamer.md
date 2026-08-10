@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Renamer?
-    a: AI Renamer automates file renaming by analyzing content, including EXIF data, and offers features like smart recognition, custom rules, and batch processing. It supports various formats and provides both local and cloud processing options for flexibility.  That is the core of what AI Renamer does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Renamer automates file renaming by analyzing content, including EXIF data, and offers features like smart recognition, custom rules, and batch processing. It supports various formats and provides both local and cloud processing options for flexibility. That is the core of what AI Renamer does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI Renamer free?
     a: AI Renamer uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AI Renamer?

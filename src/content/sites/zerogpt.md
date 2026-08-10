@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ZeroGPT?
-    a: ZeroGPT is a comprehensive AI tool suite offering advanced features for content detection, text refinement, and translation, including AI detection, plagiarism checking, humanization, and summarization.  That is the core of what ZeroGPT does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ZeroGPT is a comprehensive AI tool suite offering advanced features for content detection, text refinement, and translation, including AI detection, plagiarism checking, humanization, and summarization. That is the core of what ZeroGPT does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ZeroGPT free?
     a: ZeroGPT uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $7.99/mo, check the official website — pricing changes often.
   - q: What can you do with ZeroGPT?

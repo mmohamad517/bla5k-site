@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Kampfire?
-    a: Kampfire creates AI‑generated photo albums for event attendees, syncing with registration, lead capture, and CRM. It tracks real‑time engagement—views, shares, clicks, surveys—to highlight intent and supply instant, branded albums for easy social sharing, aiding follow‑up and conversion. Marketing Freemium That is the core of what Kampfire does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Kampfire creates AI‑generated photo albums for event attendees, syncing with registration, lead capture, and CRM. It tracks real‑time engagement—views, shares, clicks, surveys—to highlight intent and supply instant, branded albums for easy social sharing, aiding follow‑up and conversion. That is the core of what Kampfire does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Kampfire free?
     a: Kampfire uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Kampfire?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Kampfi
 
 ## What is Kampfire?
 
-Kampfire creates AI‑generated photo albums for event attendees, syncing with registration, lead capture, and CRM. It tracks real‑time engagement—views, shares, clicks, surveys—to highlight intent and supply instant, branded albums for easy social sharing, aiding follow‑up and conversion. Marketing Freemium
-
+Kampfire creates AI‑generated photo albums for event attendees, syncing with registration, lead capture, and CRM. It tracks real‑time engagement—views, shares, clicks, surveys—to highlight intent and supply instant, branded albums for easy social sharing, aiding follow‑up and conversion.
 In short, Kampfire is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That single feature of Kampfire alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

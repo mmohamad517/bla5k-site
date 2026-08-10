@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Lorem Faces?
-    a: Lorem Faces is a customizable tool for developers to generate AI-generated profile pictures in various sizes (24 to 256 pixels). It offers five unique face options, facilitating quick integration as placeholders in web and app projects. Avatar Free That is the core of what Lorem Faces does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Lorem Faces is a customizable tool for developers to generate AI-generated profile pictures in various sizes (24 to 256 pixels). It offers five unique face options, facilitating quick integration as placeholders in web and app projects. That is the core of what Lorem Faces does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Lorem Faces free?
     a: Yes — Lorem Faces is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Lorem Faces?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Lorem Faces?
 
-Lorem Faces is a customizable tool for developers to generate AI-generated profile pictures in various sizes (24 to 256 pixels). It offers five unique face options, facilitating quick integration as placeholders in web and app projects. Avatar Free
-
+Lorem Faces is a customizable tool for developers to generate AI-generated profile pictures in various sizes (24 to 256 pixels). It offers five unique face options, facilitating quick integration as placeholders in web and app projects.
 In short, Lorem Faces is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. That one capability of Lorem Faces frequently saves users from juggling several separate steps.
 
 ## Key features

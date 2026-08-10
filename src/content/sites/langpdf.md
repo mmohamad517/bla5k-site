@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is LangPDF?
-    a: LangPDF automatically converts plain‑text prompts into professional PDFs—such as invoices, resumes, contracts, and reports—using smart formatting and preset layouts. Users can choose templates or build from scratch, generating clean documents instantly for sharing or saving. Document management Freemium That is the core of what LangPDF does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: LangPDF automatically converts plain‑text prompts into professional PDFs—such as invoices, resumes, contracts, and reports—using smart formatting and preset layouts. Users can choose templates or build from scratch, generating clean documents instantly for sharing or saving. That is the core of what LangPDF does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is LangPDF free?
     a: LangPDF uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with LangPDF?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like LangPDF earn the
 
 ## What is LangPDF?
 
-LangPDF automatically converts plain‑text prompts into professional PDFs—such as invoices, resumes, contracts, and reports—using smart formatting and preset layouts. Users can choose templates or build from scratch, generating clean documents instantly for sharing or saving. Document management Freemium
-
+LangPDF automatically converts plain‑text prompts into professional PDFs—such as invoices, resumes, contracts, and reports—using smart formatting and preset layouts. Users can choose templates or build from scratch, generating clean documents instantly for sharing or saving.
 In short, LangPDF is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For a lot of people, that one function of LangPDF collapses multiple steps into a single action.
 
 ## Key features

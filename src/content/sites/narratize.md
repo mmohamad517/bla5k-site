@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Narratize?
-    a: Narratize consolidates product knowledge into searchable hubs, auto‑generating and updating technical and regulatory documents. It streamlines cross‑functional collaboration, offers real‑time dashboards for project health, preserves institutional memory, and frees teams from repetitive documentation. Content Writing Freemium - $89/mo That is the core of what Narratize does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Narratize consolidates product knowledge into searchable hubs, auto‑generating and updating technical and regulatory documents. It streamlines cross‑functional collaboration, offers real‑time dashboards for project health, preserves institutional memory, and frees teams from repetitive documentation. That is the core of what Narratize does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Narratize free?
     a: Narratize uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $89/mo, check the official website — pricing changes often.
   - q: What can you do with Narratize?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Narratize?
 
-Narratize consolidates product knowledge into searchable hubs, auto‑generating and updating technical and regulatory documents. It streamlines cross‑functional collaboration, offers real‑time dashboards for project health, preserves institutional memory, and frees teams from repetitive documentation. Content Writing Freemium - $89/mo
-
+Narratize consolidates product knowledge into searchable hubs, auto‑generating and updating technical and regulatory documents. It streamlines cross‑functional collaboration, offers real‑time dashboards for project health, preserves institutional memory, and frees teams from repetitive documentation.
 In short, Narratize is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. That one feature of Narratize often eliminates several smaller steps from the usual workflow.
 
 ## Key features

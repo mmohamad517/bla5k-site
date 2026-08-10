@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Base for music?
-    a: Base for Music centralizes marketing data for music entities, delivering real‑time campaign analytics, Spotify popularity scores, and audience profiling. It supports targeted advertising, personalized smartlinks, ticket and merch revenue integration, enabling teams to adjust strategies instantly for maximized ROI. Marketing Subscription That is the core of what Base for music does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Base for Music centralizes marketing data for music entities, delivering real‑time campaign analytics, Spotify popularity scores, and audience profiling. It supports targeted advertising, personalized smartlinks, ticket and merch revenue integration, enabling teams to adjust strategies instantly for maximized ROI. That is the core of what Base for music does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Base for music free?
     a: Base for music is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Base for music?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Base for mu
 
 ## What is Base for music?
 
-Base for Music centralizes marketing data for music entities, delivering real‑time campaign analytics, Spotify popularity scores, and audience profiling. It supports targeted advertising, personalized smartlinks, ticket and merch revenue integration, enabling teams to adjust strategies instantly for maximized ROI. Marketing Subscription
-
+Base for Music centralizes marketing data for music entities, delivering real‑time campaign analytics, Spotify popularity scores, and audience profiling. It supports targeted advertising, personalized smartlinks, ticket and merch revenue integration, enabling teams to adjust strategies instantly for maximized ROI.
 In short, Base for music is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For a lot of people, that one function of Base for music collapses multiple steps into a single action.
 
 ## Key features

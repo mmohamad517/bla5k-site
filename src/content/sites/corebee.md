@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Corebee?
-    a: Corebee is an AI-native customer support platform that automates ticket resolution and routine tasks using a three-tier AI architecture. It provides smart escalation with full context, governed actions for security, and requires only a single script tag for rapid, zero-training deployment.  That is the core of what Corebee does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Corebee is an AI-native customer support platform that automates ticket resolution and routine tasks using a three-tier AI architecture. It provides smart escalation with full context, governed actions for security, and requires only a single script tag for rapid, zero-training deployment. That is the core of what Corebee does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Corebee free?
     a: Corebee uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $99/mo, check the official website — pricing changes often.
   - q: What can you do with Corebee?

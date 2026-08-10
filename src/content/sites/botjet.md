@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Botjet?
-    a: Botjet is a conversational AI platform offering 360° support across web, mobile, IoT, and touchpoints. It extracts intent, manages dialog state, and uses deep‑learning for semantic analysis, language generation, speech recognition, enabling rapid integration for e‑commerce, healthcare, banking, travel, hospitality.  That is the core of what Botjet does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Botjet is a conversational AI platform offering 360° support across web, mobile, IoT, and touchpoints. It extracts intent, manages dialog state, and uses deep‑learning for semantic analysis, language generation, speech recognition, enabling rapid integration for e‑commerce, healthcare, banking, travel, hospitality. That is the core of what Botjet does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Botjet free?
     a: Botjet uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Botjet?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Guidejar?
-    a: Guidejar records real‑time interactions via Chrome extension or desktop app and turns them into interactive, step‑by‑step walkthroughs. Users add AI voiceovers, conditional branching, and dynamic variables, and share guides through links, embeds, or a branded help center with analytics.  That is the core of what Guidejar does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Guidejar records real‑time interactions via Chrome extension or desktop app and turns them into interactive, step‑by‑step walkthroughs. Users add AI voiceovers, conditional branching, and dynamic variables, and share guides through links, embeds, or a branded help center with analytics. That is the core of what Guidejar does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Guidejar free?
     a: Guidejar uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $79/mo, check the official website — pricing changes often.
   - q: What can you do with Guidejar?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is FloorPlanMaker.ai?
-    a: FloorPlanMaker.ai is an AI tool that generates technical 2D, 2.5D, and 3D isometric floor plans from user-defined room preferences and dimensions. It produces multiple layout options in seconds, enabling quick comparison and iteration for renovations, real estate listings, and client presentations. Architectural Design Freemium That is the core of what FloorPlanMaker.ai does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: FloorPlanMaker.ai is an AI tool that generates technical 2D, 2.5D, and 3D isometric floor plans from user-defined room preferences and dimensions. It produces multiple layout options in seconds, enabling quick comparison and iteration for renovations, real estate listings, and client presentations. That is the core of what FloorPlanMaker.ai does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is FloorPlanMaker.ai free?
     a: FloorPlanMaker.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with FloorPlanMaker.ai?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is FloorPlanMaker.ai?
 
-FloorPlanMaker.ai is an AI tool that generates technical 2D, 2.5D, and 3D isometric floor plans from user-defined room preferences and dimensions. It produces multiple layout options in seconds, enabling quick comparison and iteration for renovations, real estate listings, and client presentations. Architectural Design Freemium
-
+FloorPlanMaker.ai is an AI tool that generates technical 2D, 2.5D, and 3D isometric floor plans from user-defined room preferences and dimensions. It produces multiple layout options in seconds, enabling quick comparison and iteration for renovations, real estate listings, and client presentations.
 In short, FloorPlanMaker.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. For many, that single strength of FloorPlanMaker.ai is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

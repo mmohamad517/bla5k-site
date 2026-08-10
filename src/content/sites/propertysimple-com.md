@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is propertysimple.com?
-    a: propertysimple.com is a real estate marketing platform that automates social media ads and content for listings. Its integrated AI CRM captures leads, scores them, and drives personalized follow-up via email and text to boost conversions. Marketing Subscription - $149/mo That is the core of what propertysimple.com does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: propertysimple.com is a real estate marketing platform that automates social media ads and content for listings. Its integrated AI CRM captures leads, scores them, and drives personalized follow-up via email and text to boost conversions. That is the core of what propertysimple.com does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is propertysimple.com free?
     a: propertysimple.com is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with propertysimple.com?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is propertysimple.com?
 
-propertysimple.com is a real estate marketing platform that automates social media ads and content for listings. Its integrated AI CRM captures leads, scores them, and drives personalized follow-up via email and text to boost conversions. Marketing Subscription - $149/mo
-
+propertysimple.com is a real estate marketing platform that automates social media ads and content for listings. Its integrated AI CRM captures leads, scores them, and drives personalized follow-up via email and text to boost conversions.
 In short, propertysimple.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That single feature of propertysimple.com alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

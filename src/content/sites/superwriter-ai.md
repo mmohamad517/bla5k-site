@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SuperWriter AI?
-    a: SuperWriter generates SEO-optimized blogs and articles using real-time web research across 120+ sources to surface current keywords and trends, producing customizable, human-like content with structured SEO elements, exportable formats, and tools for headlines, outlines, and FAQs. Copywriting Subscription That is the core of what SuperWriter AI does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SuperWriter generates SEO-optimized blogs and articles using real-time web research across 120+ sources to surface current keywords and trends, producing customizable, human-like content with structured SEO elements, exportable formats, and tools for headlines, outlines, and FAQs. That is the core of what SuperWriter AI does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SuperWriter AI free?
     a: SuperWriter AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with SuperWriter AI?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like SuperWriter AI e
 
 ## What is SuperWriter AI?
 
-SuperWriter generates SEO-optimized blogs and articles using real-time web research across 120+ sources to surface current keywords and trends, producing customizable, human-like content with structured SEO elements, exportable formats, and tools for headlines, outlines, and FAQs. Copywriting Subscription
-
+SuperWriter generates SEO-optimized blogs and articles using real-time web research across 120+ sources to surface current keywords and trends, producing customizable, human-like content with structured SEO elements, exportable formats, and tools for headlines, outlines, and FAQs.
 In short, SuperWriter AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. That one capability of SuperWriter AI frequently saves users from juggling several separate steps.
 
 ## Key features

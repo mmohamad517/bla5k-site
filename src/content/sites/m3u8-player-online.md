@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is m3u8 player online?
-    a: m3u8 player online is a browser-based HLS player and downloader that plays live and on-demand streams with adaptive bitrate switching, while also enabling in-browser conversion of m3u8 files to MP4/WebM/MKV and batch downloading with resume support.  That is the core of what m3u8 player online does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: m3u8 player online is a browser-based HLS player and downloader that plays live and on-demand streams with adaptive bitrate switching, while also enabling in-browser conversion of m3u8 files to MP4/WebM/MKV and batch downloading with resume support. That is the core of what m3u8 player online does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is m3u8 player online free?
     a: Yes — m3u8 player online is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with m3u8 player online?

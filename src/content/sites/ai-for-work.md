@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ai for Work?
-    a: AI for Work offers a library of 2,000+ ChatGPT prompts organized by department, allowing professionals to quickly find role‑specific prompts and create custom GPTs that automate routine tasks, boosting productivity and decision‑making.  That is the core of what Ai for Work does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI for Work offers a library of 2,000+ ChatGPT prompts organized by department, allowing professionals to quickly find role‑specific prompts and create custom GPTs that automate routine tasks, boosting productivity and decision‑making. That is the core of what Ai for Work does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ai for Work free?
     a: Ai for Work uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Ai for Work?

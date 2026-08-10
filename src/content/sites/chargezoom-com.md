@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is chargezoom.com?
-    a: "Chargezoom automates accounts‑receivable: AI invoicing, recurring billing, payment collection, and reconciliation. Integrated credit‑card, ACH, and e‑check payments cut fees and accelerate cash flow. Syncs with QuickBooks, NetSuite, FreshBooks; offers a PCI‑compliant vault and self‑service portal. Accounting assistant Free trial - $9/mo That is the core of what chargezoom.com does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "Chargezoom automates accounts‑receivable: AI invoicing, recurring billing, payment collection, and reconciliation. Integrated credit‑card, ACH, and e‑check payments cut fees and accelerate cash flow. Syncs with QuickBooks, NetSuite, FreshBooks; offers a PCI‑compliant vault and self‑service portal. That is the core of what chargezoom.com does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is chargezoom.com free?
     a: chargezoom.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9/mo, check the official website — pricing changes often.
   - q: What can you do with chargezoom.com?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like chargezoom.com e
 
 ## What is chargezoom.com?
 
-Chargezoom automates accounts‑receivable: AI invoicing, recurring billing, payment collection, and reconciliation. Integrated credit‑card, ACH, and e‑check payments cut fees and accelerate cash flow. Syncs with QuickBooks, NetSuite, FreshBooks; offers a PCI‑compliant vault and self‑service portal. Accounting assistant Free trial - $9/mo
-
+Chargezoom automates accounts‑receivable: AI invoicing, recurring billing, payment collection, and reconciliation. Integrated credit‑card, ACH, and e‑check payments cut fees and accelerate cash flow. Syncs with QuickBooks, NetSuite, FreshBooks; offers a PCI‑compliant vault and self‑service portal.
 In short, chargezoom.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users find that this one ability of chargezoom.com removes several tasks from their daily routine.
 
 ## Key features

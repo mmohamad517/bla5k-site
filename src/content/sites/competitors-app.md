@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Competitors App?
-    a: Competitors App tracks competitor activity across email, social, website, SEO, ads, reviews, and PR. It delivers automated alerts, summaries, change logs, traffic comparisons, and historical impact analysis. Multi‑user and white‑labeling support agencies and solo marketers. Marketing Paid - $19.9/mo That is the core of what Competitors App does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Competitors App tracks competitor activity across email, social, website, SEO, ads, reviews, and PR. It delivers automated alerts, summaries, change logs, traffic comparisons, and historical impact analysis. Multi‑user and white‑labeling support agencies and solo marketers. That is the core of what Competitors App does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Competitors App free?
     a: Competitors App is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Competitors App?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Competitors App?
 
-Competitors App tracks competitor activity across email, social, website, SEO, ads, reviews, and PR. It delivers automated alerts, summaries, change logs, traffic comparisons, and historical impact analysis. Multi‑user and white‑labeling support agencies and solo marketers. Marketing Paid - $19.9/mo
-
+Competitors App tracks competitor activity across email, social, website, SEO, ads, reviews, and PR. It delivers automated alerts, summaries, change logs, traffic comparisons, and historical impact analysis. Multi‑user and white‑labeling support agencies and solo marketers.
 In short, Competitors App is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. Many users discover that this feature of Competitors App alone covers what previously took multiple tools.
 
 ## Key features

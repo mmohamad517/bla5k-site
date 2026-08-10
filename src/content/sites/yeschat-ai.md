@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is YesChat AI?
-    a: YesChat.ai unifies chat, music, video, and image generation in a browser platform, offering DeepSeek‑R1, GPT‑4o, and Claude 3.5 Sonnet for conversation, royalty‑free music from text, text‑to‑video, and image creation. It supports languages and customizable bots for research and marketing.  That is the core of what YesChat AI does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: YesChat.ai unifies chat, music, video, and image generation in a browser platform, offering DeepSeek‑R1, GPT‑4o, and Claude 3.5 Sonnet for conversation, royalty‑free music from text, text‑to‑video, and image creation. It supports languages and customizable bots for research and marketing. That is the core of what YesChat AI does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is YesChat AI free?
     a: YesChat AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with YesChat AI?

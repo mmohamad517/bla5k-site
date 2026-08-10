@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ZeroGPT Plus?
-    a: ZeroGPT Plus detects AI‑generated text from models such as ChatGPT, Gemini, and Claude with high accuracy. It delivers instant analysis, confidence scores, sentence‑by‑sentence breakdowns, and actionable improvement suggestions in multiple languages and file formats.  That is the core of what ZeroGPT Plus does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ZeroGPT Plus detects AI‑generated text from models such as ChatGPT, Gemini, and Claude with high accuracy. It delivers instant analysis, confidence scores, sentence‑by‑sentence breakdowns, and actionable improvement suggestions in multiple languages and file formats. That is the core of what ZeroGPT Plus does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ZeroGPT Plus free?
     a: ZeroGPT Plus is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with ZeroGPT Plus?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Bahama?
-    a: Bahama.ai helps businesses integrate customized AI solutions to automate repetitive tasks like data entry and report generation. The platform offers seamless software integration, smart document processing, and collaboration tools to enhance operational efficiency and decision-making. Business Free That is the core of what Bahama does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Bahama.ai helps businesses integrate customized AI solutions to automate repetitive tasks like data entry and report generation. The platform offers seamless software integration, smart document processing, and collaboration tools to enhance operational efficiency and decision-making. That is the core of what Bahama does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Bahama free?
     a: Yes — Bahama is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Bahama?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Bahama
 
 ## What is Bahama?
 
-Bahama.ai helps businesses integrate customized AI solutions to automate repetitive tasks like data entry and report generation. The platform offers seamless software integration, smart document processing, and collaboration tools to enhance operational efficiency and decision-making. Business Free
-
+Bahama.ai helps businesses integrate customized AI solutions to automate repetitive tasks like data entry and report generation. The platform offers seamless software integration, smart document processing, and collaboration tools to enhance operational efficiency and decision-making.
 In short, Bahama is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. Many users discover that this feature of Bahama alone covers what previously took multiple tools.
 
 ## Key features

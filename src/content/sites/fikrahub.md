@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is FikraHub?
-    a: FikraHub is an AI‑driven platform for ideation, hackathon management, and custom innovation solutions. It offers a Launchpad for educational projects, an Education portal for business challenges, and a Bridge module to build tailored modules across sectors.  That is the core of what FikraHub does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: FikraHub is an AI‑driven platform for ideation, hackathon management, and custom innovation solutions. It offers a Launchpad for educational projects, an Education portal for business challenges, and a Bridge module to build tailored modules across sectors. That is the core of what FikraHub does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is FikraHub free?
     a: FikraHub is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with FikraHub?

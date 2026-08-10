@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Generate Proposal?
-    a: Chrome extension that auto‑generates proposals by parsing job posts and user instructions. It uses OpenAI to reflect skills, experience, and selling points while preserving custom greetings and service highlights, streamlining writing directly on the posting page. Copywriting Freemium - $3.99/mo That is the core of what Generate Proposal does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Chrome extension that auto‑generates proposals by parsing job posts and user instructions. It uses OpenAI to reflect skills, experience, and selling points while preserving custom greetings and service highlights, streamlining writing directly on the posting page. That is the core of what Generate Proposal does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Generate Proposal free?
     a: Generate Proposal uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $3.99/mo, check the official website — pricing changes often.
   - q: What can you do with Generate Proposal?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Generate Proposal?
 
-Chrome extension that auto‑generates proposals by parsing job posts and user instructions. It uses OpenAI to reflect skills, experience, and selling points while preserving custom greetings and service highlights, streamlining writing directly on the posting page. Copywriting Freemium - $3.99/mo
-
+Chrome extension that auto‑generates proposals by parsing job posts and user instructions. It uses OpenAI to reflect skills, experience, and selling points while preserving custom greetings and service highlights, streamlining writing directly on the posting page.
 In short, Generate Proposal is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. For many, that single strength of Generate Proposal is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

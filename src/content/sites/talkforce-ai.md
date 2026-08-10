@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TalkForce AI?
-    a: TalkForce AI is a voice assistant that manages routine inquiries, schedules appointments, and handles cancellations. It provides 24/7 service, routes complex calls to humans, integrates with CRM, uses sentiment analysis, and automates booking workflows for multiple industries. Customer support Freemium - $50/mo That is the core of what TalkForce AI does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: TalkForce AI is a voice assistant that manages routine inquiries, schedules appointments, and handles cancellations. It provides 24/7 service, routes complex calls to humans, integrates with CRM, uses sentiment analysis, and automates booking workflows for multiple industries. That is the core of what TalkForce AI does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TalkForce AI free?
     a: TalkForce AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $50/mo, check the official website — pricing changes often.
   - q: What can you do with TalkForce AI?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like TalkForce A
 
 ## What is TalkForce AI?
 
-TalkForce AI is a voice assistant that manages routine inquiries, schedules appointments, and handles cancellations. It provides 24/7 service, routes complex calls to humans, integrates with CRM, uses sentiment analysis, and automates booking workflows for multiple industries. Customer support Freemium - $50/mo
-
+TalkForce AI is a voice assistant that manages routine inquiries, schedules appointments, and handles cancellations. It provides 24/7 service, routes complex calls to humans, integrates with CRM, uses sentiment analysis, and automates booking workflows for multiple industries.
 In short, TalkForce AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For a lot of people, that one function of TalkForce AI collapses multiple steps into a single action.
 
 ## Key features

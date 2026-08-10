@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Plagiarism Guard?
-    a: Plagiarism Guard is a real-time plagiarism detection tool that integrates with Google Docs, ensuring text originality for users such as students and professionals. It not only identifies copied content but also features advanced AI detection and rewriting capabilities, enhancing readability and confidentiality.  That is the core of what Plagiarism Guard does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Plagiarism Guard is a real-time plagiarism detection tool that integrates with Google Docs, ensuring text originality for users such as students and professionals. It not only identifies copied content but also features advanced AI detection and rewriting capabilities, enhancing readability and confidentiality. That is the core of what Plagiarism Guard does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Plagiarism Guard free?
     a: Plagiarism Guard uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9.99/mo, check the official website — pricing changes often.
   - q: What can you do with Plagiarism Guard?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Tikpal?
-    a: Tikpal is an AI voice recorder that captures and organizes audio using a four-microphone array, AI noise reduction, and multi-agent workflows with persistent memory, enabling context-aware recording, tagging, retrieval, and integrations for creators, journalists, and teams. Audio Free That is the core of what Tikpal does — ai audio handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Tikpal is an AI voice recorder that captures and organizes audio using a four-microphone array, AI noise reduction, and multi-agent workflows with persistent memory, enabling context-aware recording, tagging, retrieval, and integrations for creators, journalists, and teams. That is the core of what Tikpal does — ai audio handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Tikpal free?
     a: Yes — Tikpal is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Tikpal?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Tikpal
 
 ## What is Tikpal?
 
-Tikpal is an AI voice recorder that captures and organizes audio using a four-microphone array, AI noise reduction, and multi-agent workflows with persistent memory, enabling context-aware recording, tagging, retrieval, and integrations for creators, journalists, and teams. Audio Free
-
+Tikpal is an AI voice recorder that captures and organizes audio using a four-microphone array, AI noise reduction, and multi-agent workflows with persistent memory, enabling context-aware recording, tagging, retrieval, and integrations for creators, journalists, and teams.
 In short, Tikpal is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI audio without the manual grind. That single feature of Tikpal alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

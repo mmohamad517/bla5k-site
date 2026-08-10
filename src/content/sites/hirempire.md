@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Hirempire?
-    a: Hirempire is an AI‑powered recruitment OS that unifies job postings, candidate tracking, and applicant management. It auto‑generates job descriptions, screens for fit, imports LinkedIn profiles via a Chrome extension, and offers bulk CV analytics with API integration. Human resources Subscription - $50/mo That is the core of what Hirempire does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Hirempire is an AI‑powered recruitment OS that unifies job postings, candidate tracking, and applicant management. It auto‑generates job descriptions, screens for fit, imports LinkedIn profiles via a Chrome extension, and offers bulk CV analytics with API integration. That is the core of what Hirempire does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Hirempire free?
     a: Hirempire is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Hirempire?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Hirempire m
 
 ## What is Hirempire?
 
-Hirempire is an AI‑powered recruitment OS that unifies job postings, candidate tracking, and applicant management. It auto‑generates job descriptions, screens for fit, imports LinkedIn profiles via a Chrome extension, and offers bulk CV analytics with API integration. Human resources Subscription - $50/mo
-
+Hirempire is an AI‑powered recruitment OS that unifies job postings, candidate tracking, and applicant management. It auto‑generates job descriptions, screens for fit, imports LinkedIn profiles via a Chrome extension, and offers bulk CV analytics with API integration.
 In short, Hirempire is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. For a lot of people, that one function of Hirempire collapses multiple steps into a single action.
 
 ## Key features

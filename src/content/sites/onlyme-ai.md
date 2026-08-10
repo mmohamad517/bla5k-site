@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is OnlyMe.AI?
-    a: onlyme is an AI-powered recruiting tool that automates candidate-job matching, streamlining the hiring process. It reduces repetitive tasks, enhances efficiency, and provides data insights for optimizing hiring strategies, benefiting HR managers and talent acquisition professionals. Human resources Freemium That is the core of what OnlyMe.AI does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: onlyme is an AI-powered recruiting tool that automates candidate-job matching, streamlining the hiring process. It reduces repetitive tasks, enhances efficiency, and provides data insights for optimizing hiring strategies, benefiting HR managers and talent acquisition professionals. That is the core of what OnlyMe.AI does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is OnlyMe.AI free?
     a: OnlyMe.AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with OnlyMe.AI?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is OnlyMe.AI?
 
-onlyme is an AI-powered recruiting tool that automates candidate-job matching, streamlining the hiring process. It reduces repetitive tasks, enhances efficiency, and provides data insights for optimizing hiring strategies, benefiting HR managers and talent acquisition professionals. Human resources Freemium
-
+onlyme is an AI-powered recruiting tool that automates candidate-job matching, streamlining the hiring process. It reduces repetitive tasks, enhances efficiency, and provides data insights for optimizing hiring strategies, benefiting HR managers and talent acquisition professionals.
 In short, OnlyMe.AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. For many, that single strength of OnlyMe.AI is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

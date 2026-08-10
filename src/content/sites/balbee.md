@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Balbee?
-    a: Balbee is an AI journal assistant that enhances journaling with personalized insights, mood tracking, and smart organization. Users can customize entries and utilize tools for sentiment analysis and goal setting to improve emotional well-being. Personal assistant Freemium That is the core of what Balbee does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Balbee is an AI journal assistant that enhances journaling with personalized insights, mood tracking, and smart organization. Users can customize entries and utilize tools for sentiment analysis and goal setting to improve emotional well-being. That is the core of what Balbee does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Balbee free?
     a: Balbee uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Balbee?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Balbee?
 
-Balbee is an AI journal assistant that enhances journaling with personalized insights, mood tracking, and smart organization. Users can customize entries and utilize tools for sentiment analysis and goal setting to improve emotional well-being. Personal assistant Freemium
-
+Balbee is an AI journal assistant that enhances journaling with personalized insights, mood tracking, and smart organization. Users can customize entries and utilize tools for sentiment analysis and goal setting to improve emotional well-being.
 In short, Balbee is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one feature of Balbee often eliminates several smaller steps from the usual workflow.
 
 ## Key features

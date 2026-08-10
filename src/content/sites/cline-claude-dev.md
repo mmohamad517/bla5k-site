@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Cline - Claude Dev?
-    a: Cline is an autonomous coding agent integrated into your IDE, enhancing software development through precise file management, command execution, and web interaction with a focus on security and user oversight.  That is the core of what Cline - Claude Dev does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Cline is an autonomous coding agent integrated into your IDE, enhancing software development through precise file management, command execution, and web interaction with a focus on security and user oversight. That is the core of what Cline - Claude Dev does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Cline - Claude Dev free?
     a: Yes — Cline - Claude Dev is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Cline - Claude Dev?

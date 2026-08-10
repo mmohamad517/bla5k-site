@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ObfusCat?
-    a: ObfusCat masks sensitive code locally with a proprietary algorithm, sends obfuscated prompts to ChatGPT, then unmasks responses, enabling secure code completion, automated test generation, bug‑fix suggestions, and deep algorithm explanations—without exposing code externally. Code assistant Freemium That is the core of what ObfusCat does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ObfusCat masks sensitive code locally with a proprietary algorithm, sends obfuscated prompts to ChatGPT, then unmasks responses, enabling secure code completion, automated test generation, bug‑fix suggestions, and deep algorithm explanations—without exposing code externally. That is the core of what ObfusCat does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ObfusCat free?
     a: ObfusCat uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ObfusCat?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is ObfusCat?
 
-ObfusCat masks sensitive code locally with a proprietary algorithm, sends obfuscated prompts to ChatGPT, then unmasks responses, enabling secure code completion, automated test generation, bug‑fix suggestions, and deep algorithm explanations—without exposing code externally. Code assistant Freemium
-
+ObfusCat masks sensitive code locally with a proprietary algorithm, sends obfuscated prompts to ChatGPT, then unmasks responses, enabling secure code completion, automated test generation, bug‑fix suggestions, and deep algorithm explanations—without exposing code externally.
 In short, ObfusCat is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one capability of ObfusCat frequently saves users from juggling several separate steps.
 
 ## Key features

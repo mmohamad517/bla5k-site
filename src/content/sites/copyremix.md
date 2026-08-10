@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CopyRemix?
-    a: CopyRemix is a tool that transforms testimonials into compelling case studies quickly. It guides users through the process effortlessly, enhancing trust and engagement with potential customers. Digital Marketing Subscription - $10 That is the core of what CopyRemix does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CopyRemix is a tool that transforms testimonials into compelling case studies quickly. It guides users through the process effortlessly, enhancing trust and engagement with potential customers. That is the core of what CopyRemix does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CopyRemix free?
     a: CopyRemix is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with CopyRemix?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is CopyRemix?
 
-CopyRemix is a tool that transforms testimonials into compelling case studies quickly. It guides users through the process effortlessly, enhancing trust and engagement with potential customers. Digital Marketing Subscription - $10
-
+CopyRemix is a tool that transforms testimonials into compelling case studies quickly. It guides users through the process effortlessly, enhancing trust and engagement with potential customers.
 In short, CopyRemix is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That single feature of CopyRemix alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

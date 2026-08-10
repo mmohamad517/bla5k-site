@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Numa?
-    a: Numa unifies dealership voice, email, and text into a Smart Inbox, using AI to draft responses, generate leads, detect dissatisfaction, and monitor service metrics, improving efficiency and reducing lost opportunities. Sales Freemium That is the core of what Numa does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Numa unifies dealership voice, email, and text into a Smart Inbox, using AI to draft responses, generate leads, detect dissatisfaction, and monitor service metrics, improving efficiency and reducing lost opportunities. That is the core of what Numa does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Numa free?
     a: Numa uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Numa?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Numa matter
 
 ## What is Numa?
 
-Numa unifies dealership voice, email, and text into a Smart Inbox, using AI to draft responses, generate leads, detect dissatisfaction, and monitor service metrics, improving efficiency and reducing lost opportunities. Sales Freemium
-
+Numa unifies dealership voice, email, and text into a Smart Inbox, using AI to draft responses, generate leads, detect dissatisfaction, and monitor service metrics, improving efficiency and reducing lost opportunities.
 In short, Numa is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For plenty of users, that one capability of Numa replaces several steps they used to do by hand.
 
 ## Key features

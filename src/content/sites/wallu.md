@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Wallu?
-    a: Wallu is an AI‑powered Discord bot that automates FAQ answers and ticket handling by pulling data from documents, websites, and channel history. It supports 50+ languages, integrates with ticket systems, OCR, and offers custom per‑channel instructions. Chat Subscription - $74/mo That is the core of what Wallu does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Wallu is an AI‑powered Discord bot that automates FAQ answers and ticket handling by pulling data from documents, websites, and channel history. It supports 50+ languages, integrates with ticket systems, OCR, and offers custom per‑channel instructions. That is the core of what Wallu does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Wallu free?
     a: Wallu is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Wallu?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Wallu 
 
 ## What is Wallu?
 
-Wallu is an AI‑powered Discord bot that automates FAQ answers and ticket handling by pulling data from documents, websites, and channel history. It supports 50+ languages, integrates with ticket systems, OCR, and offers custom per‑channel instructions. Chat Subscription - $74/mo
-
+Wallu is an AI‑powered Discord bot that automates FAQ answers and ticket handling by pulling data from documents, websites, and channel history. It supports 50+ languages, integrates with ticket systems, OCR, and offers custom per‑channel instructions.
 In short, Wallu is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. Many users discover that this feature of Wallu alone covers what previously took multiple tools.
 
 ## Key features

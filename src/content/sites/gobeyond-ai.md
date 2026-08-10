@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is gobeyond.ai?
-    a: GoBeyond AI Co-Pilot combines social media data and AI psychometrics to create personalized messages for improved audience engagement and conversion rates. It integrates with LinkedIn and Gmail, simplifying outreach and boosting communication efficiency. AI Assistant Freemium That is the core of what gobeyond.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: GoBeyond AI Co-Pilot combines social media data and AI psychometrics to create personalized messages for improved audience engagement and conversion rates. It integrates with LinkedIn and Gmail, simplifying outreach and boosting communication efficiency. That is the core of what gobeyond.ai does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is gobeyond.ai free?
     a: gobeyond.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with gobeyond.ai?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like gobeyond.ai earn
 
 ## What is gobeyond.ai?
 
-GoBeyond AI Co-Pilot combines social media data and AI psychometrics to create personalized messages for improved audience engagement and conversion rates. It integrates with LinkedIn and Gmail, simplifying outreach and boosting communication efficiency. AI Assistant Freemium
-
+GoBeyond AI Co-Pilot combines social media data and AI psychometrics to create personalized messages for improved audience engagement and conversion rates. It integrates with LinkedIn and Gmail, simplifying outreach and boosting communication efficiency.
 In short, gobeyond.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one capability of gobeyond.ai frequently saves users from juggling several separate steps.
 
 ## Key features

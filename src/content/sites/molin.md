@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Molin?
-    a: Molin AI is a powerful partner for writing that generates content instantly.It helps passing plagiarism checks and writing in multiple languages. It offers over 80 ready-made templates for blog posts and can automate social media content generation, personalized sales emails, and advertising angles.  That is the core of what Molin does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Molin AI is a powerful partner for writing that generates content instantly.It helps passing plagiarism checks and writing in multiple languages. It offers over 80 ready-made templates for blog posts and can automate social media content generation, personalized sales emails, and advertising angles. That is the core of what Molin does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Molin free?
     a: Molin uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $19/mo, check the official website — pricing changes often.
   - q: What can you do with Molin?

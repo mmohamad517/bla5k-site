@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TheLibrarian.io?
-    a: TheLibrarian.io is an AI-driven personal assistant that integrates with WhatsApp and automates email drafting, scheduling, and calendar management while summarizing emails and resolving conflicts. It also integrates with Google Workspace for document access and offers secure web/messaging app support.  That is the core of what TheLibrarian.io does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: TheLibrarian.io is an AI-driven personal assistant that integrates with WhatsApp and automates email drafting, scheduling, and calendar management while summarizing emails and resolving conflicts. It also integrates with Google Workspace for document access and offers secure web/messaging app support. That is the core of what TheLibrarian.io does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TheLibrarian.io free?
     a: TheLibrarian.io uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9.99/mo, check the official website — pricing changes often.
   - q: What can you do with TheLibrarian.io?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Get Simple Chat?
-    a: Get Simple Chat is a chatbot builder offering 52 pre-built templates for 50+ industries, with preset question flows and knowledge skeletons for quick business customization. It lets teams populate industry-specific content, adjust tone and voice for sales or support, and deploy 24/7 chatbots that reduce repetitive inquiries and capture leads.  That is the core of what Get Simple Chat does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Get Simple Chat is a chatbot builder offering 52 pre-built templates for 50+ industries, with preset question flows and knowledge skeletons for quick business customization. It lets teams populate industry-specific content, adjust tone and voice for sales or support, and deploy 24/7 chatbots that reduce repetitive inquiries and capture leads. That is the core of what Get Simple Chat does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Get Simple Chat free?
     a: Get Simple Chat uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $10/mo, check the official website — pricing changes often.
   - q: What can you do with Get Simple Chat?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is GPT4o.so?
-    a: GPT‑4o is a multimodal AI that processes text, images, and audio in real time, delivering fast, context‑aware responses for dialogue, image analysis, and voice recognition. It supports developers, content creators, researchers, and enterprises across devices.  That is the core of what GPT4o.so does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: GPT‑4o is a multimodal AI that processes text, images, and audio in real time, delivering fast, context‑aware responses for dialogue, image analysis, and voice recognition. It supports developers, content creators, researchers, and enterprises across devices. That is the core of what GPT4o.so does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is GPT4o.so free?
     a: GPT4o.so is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with GPT4o.so?

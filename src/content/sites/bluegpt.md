@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is BlueGPT?
-    a: BlueGPT combines article drafting, visual asset creation, and document analysis in one platform. It offers AI agents, a prompt library, voice control, multi‑model chats, advanced search, and folder organization for marketers, SEO, sales, finance, dev, and HR. AI Agents Paid That is the core of what BlueGPT does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: BlueGPT combines article drafting, visual asset creation, and document analysis in one platform. It offers AI agents, a prompt library, voice control, multi‑model chats, advanced search, and folder organization for marketers, SEO, sales, finance, dev, and HR. That is the core of what BlueGPT does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is BlueGPT free?
     a: BlueGPT is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with BlueGPT?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is BlueGPT?
 
-BlueGPT combines article drafting, visual asset creation, and document analysis in one platform. It offers AI agents, a prompt library, voice control, multi‑model chats, advanced search, and folder organization for marketers, SEO, sales, finance, dev, and HR. AI Agents Paid
-
+BlueGPT combines article drafting, visual asset creation, and document analysis in one platform. It offers AI agents, a prompt library, voice control, multi‑model chats, advanced search, and folder organization for marketers, SEO, sales, finance, dev, and HR.
 In short, BlueGPT is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That one capability of BlueGPT frequently saves users from juggling several separate steps.
 
 ## Key features

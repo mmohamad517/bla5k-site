@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is VanillaHR Hiring Platform?
-    a: VanillaHR is an AI‑driven applicant tracking system that automates resume screening, candidate matching, and video interviews. It distributes jobs to 200+ sites, supports private‑cloud/on‑prem hosting, and offers real‑time dashboards for hiring teams.  That is the core of what VanillaHR Hiring Platform does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: VanillaHR is an AI‑driven applicant tracking system that automates resume screening, candidate matching, and video interviews. It distributes jobs to 200+ sites, supports private‑cloud/on‑prem hosting, and offers real‑time dashboards for hiring teams. That is the core of what VanillaHR Hiring Platform does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is VanillaHR Hiring Platform free?
     a: VanillaHR Hiring Platform uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $79/mo, check the official website — pricing changes often.
   - q: What can you do with VanillaHR Hiring Platform?

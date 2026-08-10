@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Fiesta?
-    a: AI Fiesta lets you run multiple AI models side-by-side in one chat with preserved context, automated model selection, prompt enhancement, image generation, audio transcription, expert avatars and project-wide modes for consistent content, research, and code review workflows.  That is the core of what AI Fiesta does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Fiesta lets you run multiple AI models side-by-side in one chat with preserved context, automated model selection, prompt enhancement, image generation, audio transcription, expert avatars and project-wide modes for consistent content, research, and code review workflows. That is the core of what AI Fiesta does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI Fiesta free?
     a: AI Fiesta is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with AI Fiesta?

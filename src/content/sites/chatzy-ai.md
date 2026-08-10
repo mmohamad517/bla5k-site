@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Chatzy AI?
-    a: Chatzy AI is an API-first platform that automates customer conversations across WhatsApp, voice, and web while driving qualified leads from Meta ads and other campaigns. It offers HIPAA/SOC 2 compliance, 99.9% uptime, and flexible deployment for engineering, operations, and support teams.  That is the core of what Chatzy AI does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Chatzy AI is an API-first platform that automates customer conversations across WhatsApp, voice, and web while driving qualified leads from Meta ads and other campaigns. It offers HIPAA/SOC 2 compliance, 99.9% uptime, and flexible deployment for engineering, operations, and support teams. That is the core of what Chatzy AI does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Chatzy AI free?
     a: Chatzy AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $49/mo, check the official website — pricing changes often.
   - q: What can you do with Chatzy AI?

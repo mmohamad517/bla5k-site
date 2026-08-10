@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is FirstDraft AI?
-    a: FirstDraft AI generates full articles with one click. Enter a keyword, set length, and optional settings. It pulls current Google data for SEO, learns your style, allows custom outlines, and bulk posts to WordPress. Article writer Subscription - $29/mo That is the core of what FirstDraft AI does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: FirstDraft AI generates full articles with one click. Enter a keyword, set length, and optional settings. It pulls current Google data for SEO, learns your style, allows custom outlines, and bulk posts to WordPress. That is the core of what FirstDraft AI does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is FirstDraft AI free?
     a: FirstDraft AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with FirstDraft AI?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is FirstDraft AI?
 
-FirstDraft AI generates full articles with one click. Enter a keyword, set length, and optional settings. It pulls current Google data for SEO, learns your style, allows custom outlines, and bulk posts to WordPress. Article writer Subscription - $29/mo
-
+FirstDraft AI generates full articles with one click. Enter a keyword, set length, and optional settings. It pulls current Google data for SEO, learns your style, allows custom outlines, and bulk posts to WordPress.
 In short, FirstDraft AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. That single feature of FirstDraft AI alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

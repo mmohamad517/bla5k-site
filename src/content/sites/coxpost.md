@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CoxPost?
-    a: CoxPost is an AI-driven social media management tool that automates comments/replies on Facebook & Instagram. It boosts marketing through ecommerce, social posting, email/SMS functionalities, simplifying customer engagement and sales for businesses of any scale. Marketing Free trial That is the core of what CoxPost does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CoxPost is an AI-driven social media management tool that automates comments/replies on Facebook & Instagram. It boosts marketing through ecommerce, social posting, email/SMS functionalities, simplifying customer engagement and sales for businesses of any scale. That is the core of what CoxPost does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CoxPost free?
     a: CoxPost uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with CoxPost?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like CoxPost earn the
 
 ## What is CoxPost?
 
-CoxPost is an AI-driven social media management tool that automates comments/replies on Facebook & Instagram. It boosts marketing through ecommerce, social posting, email/SMS functionalities, simplifying customer engagement and sales for businesses of any scale. Marketing Free trial
-
+CoxPost is an AI-driven social media management tool that automates comments/replies on Facebook & Instagram. It boosts marketing through ecommerce, social posting, email/SMS functionalities, simplifying customer engagement and sales for businesses of any scale.
 In short, CoxPost is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That single feature of CoxPost alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

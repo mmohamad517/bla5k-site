@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Leadflowy?
-    a: LeadFlowy is an AI-driven lead relationship manager that streamlines lead management through custom flows, automations, unified communication, and scheduling. It optimizes lead nurturing and sales pipeline performance for both B2B and B2C businesses. Sales Free That is the core of what Leadflowy does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: LeadFlowy is an AI-driven lead relationship manager that streamlines lead management through custom flows, automations, unified communication, and scheduling. It optimizes lead nurturing and sales pipeline performance for both B2B and B2C businesses. That is the core of what Leadflowy does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Leadflowy free?
     a: Yes — Leadflowy is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Leadflowy?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Leadfl
 
 ## What is Leadflowy?
 
-LeadFlowy is an AI-driven lead relationship manager that streamlines lead management through custom flows, automations, unified communication, and scheduling. It optimizes lead nurturing and sales pipeline performance for both B2B and B2C businesses. Sales Free
-
+LeadFlowy is an AI-driven lead relationship manager that streamlines lead management through custom flows, automations, unified communication, and scheduling. It optimizes lead nurturing and sales pipeline performance for both B2B and B2C businesses.
 In short, Leadflowy is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For a lot of people, that one function of Leadflowy collapses multiple steps into a single action.
 
 ## Key features

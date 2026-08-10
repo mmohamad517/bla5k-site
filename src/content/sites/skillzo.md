@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Skillzo?
-    a: Skillzo is an AI career coach that utilizes the GROW model to help users set SMART goals and create actionable plans for skill development and career advancement, offering personalized guidance and interactive feedback for professional growth. Coaching Freemium That is the core of what Skillzo does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Skillzo is an AI career coach that utilizes the GROW model to help users set SMART goals and create actionable plans for skill development and career advancement, offering personalized guidance and interactive feedback for professional growth. That is the core of what Skillzo does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Skillzo free?
     a: Skillzo uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Skillzo?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Skillzo earn the
 
 ## What is Skillzo?
 
-Skillzo is an AI career coach that utilizes the GROW model to help users set SMART goals and create actionable plans for skill development and career advancement, offering personalized guidance and interactive feedback for professional growth. Coaching Freemium
-
+Skillzo is an AI career coach that utilizes the GROW model to help users set SMART goals and create actionable plans for skill development and career advancement, offering personalized guidance and interactive feedback for professional growth.
 In short, Skillzo is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. Many users discover that this feature of Skillzo alone covers what previously took multiple tools.
 
 ## Key features

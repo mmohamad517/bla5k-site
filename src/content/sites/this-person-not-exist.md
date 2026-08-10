@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is This Person Not Exist?
-    a: This Person Does Not Exist is an AI face generator that creates synthetic human faces. Users can set gender, race, age, and emotion, generate up to eight images per request in 512×512 or 1024×1024 PNG/JPEG formats. All images are copyright‑free. Avatar Free That is the core of what This Person Not Exist does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: This Person Does Not Exist is an AI face generator that creates synthetic human faces. Users can set gender, race, age, and emotion, generate up to eight images per request in 512×512 or 1024×1024 PNG/JPEG formats. All images are copyright‑free. That is the core of what This Person Not Exist does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is This Person Not Exist free?
     a: Yes — This Person Not Exist is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with This Person Not Exist?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like This P
 
 ## What is This Person Not Exist?
 
-This Person Does Not Exist is an AI face generator that creates synthetic human faces. Users can set gender, race, age, and emotion, generate up to eight images per request in 512×512 or 1024×1024 PNG/JPEG formats. All images are copyright‑free. Avatar Free
-
+This Person Does Not Exist is an AI face generator that creates synthetic human faces. Users can set gender, race, age, and emotion, generate up to eight images per request in 512×512 or 1024×1024 PNG/JPEG formats. All images are copyright‑free.
 In short, This Person Not Exist is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. For many, that single strength of This Person Not Exist is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

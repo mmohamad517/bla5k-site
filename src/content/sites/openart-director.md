@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is OpenArt Director?
-    a: Openart AI director is an end-to-end AI video and image production platform with scene and asset generation, timeline editing, soundtrack integration and templates for social formats, UGC-style ads, trailers, explainers and brand films. Art Generation Freemium That is the core of what OpenArt Director does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Openart AI director is an end-to-end AI video and image production platform with scene and asset generation, timeline editing, soundtrack integration and templates for social formats, UGC-style ads, trailers, explainers and brand films. That is the core of what OpenArt Director does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is OpenArt Director free?
     a: OpenArt Director uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with OpenArt Director?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like OpenAr
 
 ## What is OpenArt Director?
 
-Openart AI director is an end-to-end AI video and image production platform with scene and asset generation, timeline editing, soundtrack integration and templates for social formats, UGC-style ads, trailers, explainers and brand films. Art Generation Freemium
-
+Openart AI director is an end-to-end AI video and image production platform with scene and asset generation, timeline editing, soundtrack integration and templates for social formats, UGC-style ads, trailers, explainers and brand films.
 In short, OpenArt Director is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. That one capability of OpenArt Director frequently saves users from juggling several separate steps.
 
 ## Key features

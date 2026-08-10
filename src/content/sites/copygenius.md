@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CopyGenius?
-    a: CopyGenius is an AI copywriter that quickly generates product descriptions, ad copy, blog outlines, emails, and SEO meta tags from templates, supports over 100 languages, and offers a Genius Editor for tone analysis and team collaboration. Digital Marketing Subscription - $19/mo That is the core of what CopyGenius does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CopyGenius is an AI copywriter that quickly generates product descriptions, ad copy, blog outlines, emails, and SEO meta tags from templates, supports over 100 languages, and offers a Genius Editor for tone analysis and team collaboration. That is the core of what CopyGenius does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CopyGenius free?
     a: CopyGenius is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with CopyGenius?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is CopyGenius?
 
-CopyGenius is an AI copywriter that quickly generates product descriptions, ad copy, blog outlines, emails, and SEO meta tags from templates, supports over 100 languages, and offers a Genius Editor for tone analysis and team collaboration. Digital Marketing Subscription - $19/mo
-
+CopyGenius is an AI copywriter that quickly generates product descriptions, ad copy, blog outlines, emails, and SEO meta tags from templates, supports over 100 languages, and offers a Genius Editor for tone analysis and team collaboration.
 In short, CopyGenius is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That single feature of CopyGenius alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

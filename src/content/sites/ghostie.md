@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ghostie?
-    a: Ghostie is an AI content generation tool that creates tailored, SEO-optimized articles. Users input titles and key phrases, receive custom outlines, and benefit from easy revisions and integrated keywords to enhance search engine visibility. Content Writing Freemium - $1 That is the core of what ghostie does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ghostie is an AI content generation tool that creates tailored, SEO-optimized articles. Users input titles and key phrases, receive custom outlines, and benefit from easy revisions and integrated keywords to enhance search engine visibility. That is the core of what ghostie does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ghostie free?
     a: ghostie uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $1, check the official website — pricing changes often.
   - q: What can you do with ghostie?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is ghostie?
 
-Ghostie is an AI content generation tool that creates tailored, SEO-optimized articles. Users input titles and key phrases, receive custom outlines, and benefit from easy revisions and integrated keywords to enhance search engine visibility. Content Writing Freemium - $1
-
+Ghostie is an AI content generation tool that creates tailored, SEO-optimized articles. Users input titles and key phrases, receive custom outlines, and benefit from easy revisions and integrated keywords to enhance search engine visibility.
 In short, ghostie is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. Many users find that this one ability of ghostie removes several tasks from their daily routine.
 
 ## Key features

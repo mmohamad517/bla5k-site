@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AiPlix - The AI Browser?
-    a: Aiplix is an AI-driven browser that enhances online information consumption by autonomously navigating the web, categorizing browsing history, managing tabs, and providing a privacy-focused Vanish Mode, alongside a built-in chatbot for content summarization and query assistance. Personal assistant Freemium That is the core of what AiPlix - The AI Browser does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Aiplix is an AI-driven browser that enhances online information consumption by autonomously navigating the web, categorizing browsing history, managing tabs, and providing a privacy-focused Vanish Mode, alongside a built-in chatbot for content summarization and query assistance. That is the core of what AiPlix - The AI Browser does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AiPlix - The AI Browser free?
     a: AiPlix - The AI Browser uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AiPlix - The AI Browser?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is AiPlix - The AI Browser?
 
-Aiplix is an AI-driven browser that enhances online information consumption by autonomously navigating the web, categorizing browsing history, managing tabs, and providing a privacy-focused Vanish Mode, alongside a built-in chatbot for content summarization and query assistance. Personal assistant Freemium
-
+Aiplix is an AI-driven browser that enhances online information consumption by autonomously navigating the web, categorizing browsing history, managing tabs, and providing a privacy-focused Vanish Mode, alongside a built-in chatbot for content summarization and query assistance.
 In short, AiPlix - The AI Browser is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For a lot of people, that one function of AiPlix - The AI Browser collapses multiple steps into a single action.
 
 ## Key features

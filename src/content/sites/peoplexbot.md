@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Peoplexbot?
-    a: PeoplexBot offers AI‑driven HR consulting for small companies, building policy frameworks, onboarding, performance and compensation plans. It automates admin tasks, integrates analytics, delivers coaching and training, predicts talent gaps, and informs strategic decisions. Human resources Freemium That is the core of what Peoplexbot does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: PeoplexBot offers AI‑driven HR consulting for small companies, building policy frameworks, onboarding, performance and compensation plans. It automates admin tasks, integrates analytics, delivers coaching and training, predicts talent gaps, and informs strategic decisions. That is the core of what Peoplexbot does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Peoplexbot free?
     a: Peoplexbot uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Peoplexbot?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Peoplexbot?
 
-PeoplexBot offers AI‑driven HR consulting for small companies, building policy frameworks, onboarding, performance and compensation plans. It automates admin tasks, integrates analytics, delivers coaching and training, predicts talent gaps, and informs strategic decisions. Human resources Freemium
-
+PeoplexBot offers AI‑driven HR consulting for small companies, building policy frameworks, onboarding, performance and compensation plans. It automates admin tasks, integrates analytics, delivers coaching and training, predicts talent gaps, and informs strategic decisions.
 In short, Peoplexbot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. That one capability of Peoplexbot frequently saves users from juggling several separate steps.
 
 ## Key features

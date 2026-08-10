@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Quazilla by Squad?
-    a: Quazilla is a ChatGPT‑powered personal coach that customizes goal‑setting and habit‑building. It tracks atomic habits, sends daily reminders, offers emotional encouragement via WhatsApp, iOS, Android, and provides real‑time feedback and progress insights for consistent achievement. Coaching Freemium That is the core of what Quazilla by Squad does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Quazilla is a ChatGPT‑powered personal coach that customizes goal‑setting and habit‑building. It tracks atomic habits, sends daily reminders, offers emotional encouragement via WhatsApp, iOS, Android, and provides real‑time feedback and progress insights for consistent achievement. That is the core of what Quazilla by Squad does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Quazilla by Squad free?
     a: Quazilla by Squad uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Quazilla by Squad?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Quazilla by Squa
 
 ## What is Quazilla by Squad?
 
-Quazilla is a ChatGPT‑powered personal coach that customizes goal‑setting and habit‑building. It tracks atomic habits, sends daily reminders, offers emotional encouragement via WhatsApp, iOS, Android, and provides real‑time feedback and progress insights for consistent achievement. Coaching Freemium
-
+Quazilla is a ChatGPT‑powered personal coach that customizes goal‑setting and habit‑building. It tracks atomic habits, sends daily reminders, offers emotional encouragement via WhatsApp, iOS, Android, and provides real‑time feedback and progress insights for consistent achievement.
 In short, Quazilla by Squad is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. Many users discover that this feature of Quazilla by Squad alone covers what previously took multiple tools.
 
 ## Key features

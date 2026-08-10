@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CleverAI?
-    a: CleverAI is an all‑in‑one multimodal AI platform offering chat, image generation, video editing, PDF extraction/summarization/Q&A, smart search, mindmaps and workflow automation, with APIs, multilingual support (100+ languages), model selection, low latency and consent-based data handling. AI Assistant Freemium That is the core of what CleverAI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CleverAI is an all‑in‑one multimodal AI platform offering chat, image generation, video editing, PDF extraction/summarization/Q&A, smart search, mindmaps and workflow automation, with APIs, multilingual support (100+ languages), model selection, low latency and consent-based data handling. That is the core of what CleverAI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CleverAI free?
     a: CleverAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with CleverAI?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like CleverAI ma
 
 ## What is CleverAI?
 
-CleverAI is an all‑in‑one multimodal AI platform offering chat, image generation, video editing, PDF extraction/summarization/Q&A, smart search, mindmaps and workflow automation, with APIs, multilingual support (100+ languages), model selection, low latency and consent-based data handling. AI Assistant Freemium
-
+CleverAI is an all‑in‑one multimodal AI platform offering chat, image generation, video editing, PDF extraction/summarization/Q&A, smart search, mindmaps and workflow automation, with APIs, multilingual support (100+ languages), model selection, low latency and consent-based data handling.
 In short, CleverAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That single feature of CleverAI alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Elium.com?
-    a: Elium centralizes corporate data, providing instant AI‑generated answers and AI‑enhanced search. It enforces content accuracy via approval workflows, expiry alerts, and analytics, while offering secure GDPR‑compliant hosting, two‑factor authentication, and multi‑language AI translation. Knowledge base management Subscription - $15/mo That is the core of what Elium.com does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Elium centralizes corporate data, providing instant AI‑generated answers and AI‑enhanced search. It enforces content accuracy via approval workflows, expiry alerts, and analytics, while offering secure GDPR‑compliant hosting, two‑factor authentication, and multi‑language AI translation. That is the core of what Elium.com does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Elium.com free?
     a: Elium.com is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Elium.com?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Elium.
 
 ## What is Elium.com?
 
-Elium centralizes corporate data, providing instant AI‑generated answers and AI‑enhanced search. It enforces content accuracy via approval workflows, expiry alerts, and analytics, while offering secure GDPR‑compliant hosting, two‑factor authentication, and multi‑language AI translation. Knowledge base management Subscription - $15/mo
-
+Elium centralizes corporate data, providing instant AI‑generated answers and AI‑enhanced search. It enforces content accuracy via approval workflows, expiry alerts, and analytics, while offering secure GDPR‑compliant hosting, two‑factor authentication, and multi‑language AI translation.
 In short, Elium.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. Many users discover that this feature of Elium.com alone covers what previously took multiple tools.
 
 ## Key features

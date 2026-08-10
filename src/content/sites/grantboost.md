@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Grantboost?
-    a: AI‑powered platform that gathers organization details via a survey to generate customized grant proposal drafts. Users can edit, reuse templates, upload supporting docs, and collaborate with role‑based access, while version control tracks revisions for consistent, branded submissions. Business planning Freemium - $24.99/mo That is the core of what Grantboost does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI‑powered platform that gathers organization details via a survey to generate customized grant proposal drafts. Users can edit, reuse templates, upload supporting docs, and collaborate with role‑based access, while version control tracks revisions for consistent, branded submissions. That is the core of what Grantboost does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Grantboost free?
     a: Grantboost uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $24.99/mo, check the official website — pricing changes often.
   - q: What can you do with Grantboost?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Grantboost?
 
-AI‑powered platform that gathers organization details via a survey to generate customized grant proposal drafts. Users can edit, reuse templates, upload supporting docs, and collaborate with role‑based access, while version control tracks revisions for consistent, branded submissions. Business planning Freemium - $24.99/mo
-
+AI‑powered platform that gathers organization details via a survey to generate customized grant proposal drafts. Users can edit, reuse templates, upload supporting docs, and collaborate with role‑based access, while version control tracks revisions for consistent, branded submissions.
 In short, Grantboost is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI planning without the manual grind. That single feature of Grantboost alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

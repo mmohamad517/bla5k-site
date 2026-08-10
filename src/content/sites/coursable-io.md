@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Coursable.io?
-    a: Coursable centralizes course materials, auto‑generates flashcards, quizzes, and summaries from PDFs, slides, videos, and research papers, and lets users query documents via chat. It also creates personalized learning paths from approved web content.  That is the core of what Coursable.io does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Coursable centralizes course materials, auto‑generates flashcards, quizzes, and summaries from PDFs, slides, videos, and research papers, and lets users query documents via chat. It also creates personalized learning paths from approved web content. That is the core of what Coursable.io does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Coursable.io free?
     a: Coursable.io is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Coursable.io?

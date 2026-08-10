@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Letters from Santa?
-    a: Generates AI-personalized Santa letters using a child’s name, achievements and custom messages; provides editable templates, multi-recipient support, downloadable printer-ready PDFs, and optional signed mailed delivery—no account required for creation, editing, or regeneration. Content Writing Free That is the core of what Letters from Santa does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Generates AI-personalized Santa letters using a child’s name, achievements and custom messages; provides editable templates, multi-recipient support, downloadable printer-ready PDFs, and optional signed mailed delivery—no account required for creation, editing, or regeneration. That is the core of what Letters from Santa does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Letters from Santa free?
     a: Yes — Letters from Santa is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Letters from Santa?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Letters fro
 
 ## What is Letters from Santa?
 
-Generates AI-personalized Santa letters using a child’s name, achievements and custom messages; provides editable templates, multi-recipient support, downloadable printer-ready PDFs, and optional signed mailed delivery—no account required for creation, editing, or regeneration. Content Writing Free
-
+Generates AI-personalized Santa letters using a child’s name, achievements and custom messages; provides editable templates, multi-recipient support, downloadable printer-ready PDFs, and optional signed mailed delivery—no account required for creation, editing, or regeneration.
 In short, Letters from Santa is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For plenty of users, that one capability of Letters from Santa replaces several steps they used to do by hand.
 
 ## Key features

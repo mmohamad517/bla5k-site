@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Pepper Content?
-    a: Pepper is an AI platform that blends autonomous SEO, GEO, and content agents with human oversight. It delivers real‑time performance insights, an AI Content Studio for multi‑step workflows, brand‑consistent output, collaborative versioning, and secure, audit‑ready API integration. Digital Marketing Freemium That is the core of what Pepper Content does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Pepper is an AI platform that blends autonomous SEO, GEO, and content agents with human oversight. It delivers real‑time performance insights, an AI Content Studio for multi‑step workflows, brand‑consistent output, collaborative versioning, and secure, audit‑ready API integration. That is the core of what Pepper Content does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Pepper Content free?
     a: Pepper Content uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Pepper Content?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Pepper Content?
 
-Pepper is an AI platform that blends autonomous SEO, GEO, and content agents with human oversight. It delivers real‑time performance insights, an AI Content Studio for multi‑step workflows, brand‑consistent output, collaborative versioning, and secure, audit‑ready API integration. Digital Marketing Freemium
-
+Pepper is an AI platform that blends autonomous SEO, GEO, and content agents with human oversight. It delivers real‑time performance insights, an AI Content Studio for multi‑step workflows, brand‑consistent output, collaborative versioning, and secure, audit‑ready API integration.
 In short, Pepper Content is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That one feature of Pepper Content often eliminates several smaller steps from the usual workflow.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Zentask?
-    a: Zentask unifies access to top AI models—ChatGPT, Claude, Gemini Pro, Stable Diffusion, DALL‑E, and Flux—via a single subscription. It supports text, image, code, and data tasks, custom workflows, pluggable tools, RAG, and team collaboration.  That is the core of what Zentask does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Zentask unifies access to top AI models—ChatGPT, Claude, Gemini Pro, Stable Diffusion, DALL‑E, and Flux—via a single subscription. It supports text, image, code, and data tasks, custom workflows, pluggable tools, RAG, and team collaboration. That is the core of what Zentask does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Zentask free?
     a: Zentask uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $7.5/mo, check the official website — pricing changes often.
   - q: What can you do with Zentask?

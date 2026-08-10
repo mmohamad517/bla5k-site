@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Course.im?
-    a: Course.im is an AI-powered platform for creating and publishing mini-courses. It features an intuitive drag-and-drop interface, multimedia integration, and built-in AI for efficient content generation, making it accessible for educators and knowledge sharers. Course Generator Free trial That is the core of what Course.im does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Course.im is an AI-powered platform for creating and publishing mini-courses. It features an intuitive drag-and-drop interface, multimedia integration, and built-in AI for efficient content generation, making it accessible for educators and knowledge sharers. That is the core of what Course.im does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Course.im free?
     a: Course.im uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Course.im?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Course.im m
 
 ## What is Course.im?
 
-Course.im is an AI-powered platform for creating and publishing mini-courses. It features an intuitive drag-and-drop interface, multimedia integration, and built-in AI for efficient content generation, making it accessible for educators and knowledge sharers. Course Generator Free trial
-
+Course.im is an AI-powered platform for creating and publishing mini-courses. It features an intuitive drag-and-drop interface, multimedia integration, and built-in AI for efficient content generation, making it accessible for educators and knowledge sharers.
 In short, Course.im is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. That one feature of Course.im often eliminates several smaller steps from the usual workflow.
 
 ## Key features

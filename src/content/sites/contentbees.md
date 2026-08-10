@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ContentBees?
-    a: Contentbees is a content curation tool that helps marketers and bloggers discover, organize, and share relevant content from over 50,000 sources, enhancing content strategies and boosting traffic and conversions through actionable insights and trending topics. Content Writing Free trial That is the core of what ContentBees does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Contentbees is a content curation tool that helps marketers and bloggers discover, organize, and share relevant content from over 50,000 sources, enhancing content strategies and boosting traffic and conversions through actionable insights and trending topics. That is the core of what ContentBees does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ContentBees free?
     a: ContentBees uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ContentBees?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like ContentBees
 
 ## What is ContentBees?
 
-Contentbees is a content curation tool that helps marketers and bloggers discover, organize, and share relevant content from over 50,000 sources, enhancing content strategies and boosting traffic and conversions through actionable insights and trending topics. Content Writing Free trial
-
+Contentbees is a content curation tool that helps marketers and bloggers discover, organize, and share relevant content from over 50,000 sources, enhancing content strategies and boosting traffic and conversions through actionable insights and trending topics.
 In short, ContentBees is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. That one feature of ContentBees often eliminates several smaller steps from the usual workflow.
 
 ## Key features

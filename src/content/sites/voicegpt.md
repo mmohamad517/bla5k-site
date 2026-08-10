@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is VoiceGPT?
-    a: VoiceGPT lets Android users chat with ChatGPT via voice, offering hotword activation, multilingual input/output, and unlimited free messaging. It supports OCR for image text extraction, code execution in 70+ languages, and DALL‑E 2 image creation, all within a dark/light theme.  That is the core of what VoiceGPT does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: VoiceGPT lets Android users chat with ChatGPT via voice, offering hotword activation, multilingual input/output, and unlimited free messaging. It supports OCR for image text extraction, code execution in 70+ languages, and DALL‑E 2 image creation, all within a dark/light theme. That is the core of what VoiceGPT does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is VoiceGPT free?
     a: Yes — VoiceGPT is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with VoiceGPT?

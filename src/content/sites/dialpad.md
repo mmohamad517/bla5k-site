@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Dialpad?
-    a: Dialpad is an AI-driven communication platform that facilitates customer interactions via voice, chat, SMS, and email. It integrates with popular apps and offers real-time insights, automated notes, and robust security features for efficient customer support.  That is the core of what Dialpad does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Dialpad is an AI-driven communication platform that facilitates customer interactions via voice, chat, SMS, and email. It integrates with popular apps and offers real-time insights, automated notes, and robust security features for efficient customer support. That is the core of what Dialpad does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Dialpad free?
     a: Dialpad uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Dialpad?

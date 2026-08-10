@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SymphonyOS?
-    a: Symphony OS centralizes music‑marketing operations, automating ad creation, audience targeting, and campaign management across Instagram, YouTube, TikTok, and Spotify. The dashboard includes CRM, email tools, analytics, pre‑save and Forever Saves features, with quick setup and exportable fan data. Marketing Freemium - $39/mo That is the core of what SymphonyOS does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Symphony OS centralizes music‑marketing operations, automating ad creation, audience targeting, and campaign management across Instagram, YouTube, TikTok, and Spotify. The dashboard includes CRM, email tools, analytics, pre‑save and Forever Saves features, with quick setup and exportable fan data. That is the core of what SymphonyOS does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SymphonyOS free?
     a: SymphonyOS uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $39/mo, check the official website — pricing changes often.
   - q: What can you do with SymphonyOS?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like SymphonyOS 
 
 ## What is SymphonyOS?
 
-Symphony OS centralizes music‑marketing operations, automating ad creation, audience targeting, and campaign management across Instagram, YouTube, TikTok, and Spotify. The dashboard includes CRM, email tools, analytics, pre‑save and Forever Saves features, with quick setup and exportable fan data. Marketing Freemium - $39/mo
-
+Symphony OS centralizes music‑marketing operations, automating ad creation, audience targeting, and campaign management across Instagram, YouTube, TikTok, and Spotify. The dashboard includes CRM, email tools, analytics, pre‑save and Forever Saves features, with quick setup and exportable fan data.
 In short, SymphonyOS is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. Many users find that this one ability of SymphonyOS removes several tasks from their daily routine.
 
 ## Key features

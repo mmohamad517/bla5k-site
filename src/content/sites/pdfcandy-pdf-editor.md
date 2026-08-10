@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PDFCandy PDF Editor?
-    a: PDF Candy is an online tool for managing PDF files, offering conversion, merging, splitting, editing, compression, and extraction of content. Its user-friendly interface and multilingual support make it suitable for a wide range of users and industries. Document management Freemium That is the core of what PDFCandy PDF Editor does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: PDF Candy is an online tool for managing PDF files, offering conversion, merging, splitting, editing, compression, and extraction of content. Its user-friendly interface and multilingual support make it suitable for a wide range of users and industries. That is the core of what PDFCandy PDF Editor does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is PDFCandy PDF Editor free?
     a: PDFCandy PDF Editor uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with PDFCandy PDF Editor?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like PDFCandy PD
 
 ## What is PDFCandy PDF Editor?
 
-PDF Candy is an online tool for managing PDF files, offering conversion, merging, splitting, editing, compression, and extraction of content. Its user-friendly interface and multilingual support make it suitable for a wide range of users and industries. Document management Freemium
-
+PDF Candy is an online tool for managing PDF files, offering conversion, merging, splitting, editing, compression, and extraction of content. Its user-friendly interface and multilingual support make it suitable for a wide range of users and industries.
 In short, PDFCandy PDF Editor is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For a lot of people, that one function of PDFCandy PDF Editor collapses multiple steps into a single action.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is carcogroup.com?
-    a: Provides insurers with mobile inspection, VIN verification, and automated fraud alerts. Consolidates vehicle title history into a single report, enabling risk managers to detect fraud early. Offers policyholders guidance and centralized docs for real‑time carrier‑adjuster communication. Automotive Freemium That is the core of what carcogroup.com does — automotive ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Provides insurers with mobile inspection, VIN verification, and automated fraud alerts. Consolidates vehicle title history into a single report, enabling risk managers to detect fraud early. Offers policyholders guidance and centralized docs for real‑time carrier‑adjuster communication. That is the core of what carcogroup.com does — automotive ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is carcogroup.com free?
     a: carcogroup.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with carcogroup.com?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like carcogroup.
 
 ## What is carcogroup.com?
 
-Provides insurers with mobile inspection, VIN verification, and automated fraud alerts. Consolidates vehicle title history into a single report, enabling risk managers to detect fraud early. Offers policyholders guidance and centralized docs for real‑time carrier‑adjuster communication. Automotive Freemium
-
+Provides insurers with mobile inspection, VIN verification, and automated fraud alerts. Consolidates vehicle title history into a single report, enabling risk managers to detect fraud early. Offers policyholders guidance and centralized docs for real‑time carrier‑adjuster communication.
 In short, carcogroup.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for automotive AI without the manual grind. For many, that single strength of carcogroup.com is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Colocio ai?
-    a: Colocio AI streamlines online marketing by automating campaign creation and evaluation, generating high-converting ad copy, and scheduling content across platforms. It offers real-time guidance and data-driven analytics for enhanced audience engagement and performance insights. Marketing Freemium - $99 That is the core of what Colocio ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Colocio AI streamlines online marketing by automating campaign creation and evaluation, generating high-converting ad copy, and scheduling content across platforms. It offers real-time guidance and data-driven analytics for enhanced audience engagement and performance insights. That is the core of what Colocio ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Colocio ai free?
     a: Colocio ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $99, check the official website — pricing changes often.
   - q: What can you do with Colocio ai?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Colocio ai 
 
 ## What is Colocio ai?
 
-Colocio AI streamlines online marketing by automating campaign creation and evaluation, generating high-converting ad copy, and scheduling content across platforms. It offers real-time guidance and data-driven analytics for enhanced audience engagement and performance insights. Marketing Freemium - $99
-
+Colocio AI streamlines online marketing by automating campaign creation and evaluation, generating high-converting ad copy, and scheduling content across platforms. It offers real-time guidance and data-driven analytics for enhanced audience engagement and performance insights.
 In short, Colocio ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. Many users find that this one ability of Colocio ai removes several tasks from their daily routine.
 
 ## Key features

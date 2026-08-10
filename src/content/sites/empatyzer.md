@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Empatyzer?
-    a: Empatyzer is an AI-driven HR coaching platform delivering personalized, year-round microlearning and role-based soft-skills development, with real-time feedback, multilingual support, automated progress tracking and analytics on retention, engagement and productivity for distributed teams. Coaching Freemium That is the core of what Empatyzer does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Empatyzer is an AI-driven HR coaching platform delivering personalized, year-round microlearning and role-based soft-skills development, with real-time feedback, multilingual support, automated progress tracking and analytics on retention, engagement and productivity for distributed teams. That is the core of what Empatyzer does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Empatyzer free?
     a: Empatyzer uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Empatyzer?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Empatyzer?
 
-Empatyzer is an AI-driven HR coaching platform delivering personalized, year-round microlearning and role-based soft-skills development, with real-time feedback, multilingual support, automated progress tracking and analytics on retention, engagement and productivity for distributed teams. Coaching Freemium
-
+Empatyzer is an AI-driven HR coaching platform delivering personalized, year-round microlearning and role-based soft-skills development, with real-time feedback, multilingual support, automated progress tracking and analytics on retention, engagement and productivity for distributed teams.
 In short, Empatyzer is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. Many users discover that this feature of Empatyzer alone covers what previously took multiple tools.
 
 ## Key features

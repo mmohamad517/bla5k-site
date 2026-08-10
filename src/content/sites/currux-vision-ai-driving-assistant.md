@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Currux Vision?
-    a: Currux Vision processes CCTV video for real‑time monitoring, enforcement, and safety. It automates object detection, classification, and tracking, and can autonomously control PTZ cameras. Supports edge, hybrid, and cloud deployments with NVIDIA GPU servers, delivering actionable metadata to operators. AI Agents Freemium That is the core of what Currux Vision does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Currux Vision processes CCTV video for real‑time monitoring, enforcement, and safety. It automates object detection, classification, and tracking, and can autonomously control PTZ cameras. Supports edge, hybrid, and cloud deployments with NVIDIA GPU servers, delivering actionable metadata to operators. That is the core of what Currux Vision does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Currux Vision free?
     a: Currux Vision uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Currux Vision?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Currux
 
 ## What is Currux Vision?
 
-Currux Vision processes CCTV video for real‑time monitoring, enforcement, and safety. It automates object detection, classification, and tracking, and can autonomously control PTZ cameras. Supports edge, hybrid, and cloud deployments with NVIDIA GPU servers, delivering actionable metadata to operators. AI Agents Freemium
-
+Currux Vision processes CCTV video for real‑time monitoring, enforcement, and safety. It automates object detection, classification, and tracking, and can autonomously control PTZ cameras. Supports edge, hybrid, and cloud deployments with NVIDIA GPU servers, delivering actionable metadata to operators.
 In short, Currux Vision is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users find that this one ability of Currux Vision removes several tasks from their daily routine.
 
 ## Key features

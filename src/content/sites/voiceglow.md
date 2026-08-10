@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Voiceglow?
-    a: Convocore lets businesses create and scale AI agents across web chat, WhatsApp, Instagram, Facebook, and Telegram. A visual node editor lets non‑developers build complex flows, integrate CRMs, calendars, and 40+ apps, while analytics and security support scalable, GDPR‑compliant operations. AI Agents Freemium - $220/mo That is the core of what Voiceglow does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Convocore lets businesses create and scale AI agents across web chat, WhatsApp, Instagram, Facebook, and Telegram. A visual node editor lets non‑developers build complex flows, integrate CRMs, calendars, and 40+ apps, while analytics and security support scalable, GDPR‑compliant operations. That is the core of what Voiceglow does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Voiceglow free?
     a: Voiceglow uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $220/mo, check the official website — pricing changes often.
   - q: What can you do with Voiceglow?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Voiceglow?
 
-Convocore lets businesses create and scale AI agents across web chat, WhatsApp, Instagram, Facebook, and Telegram. A visual node editor lets non‑developers build complex flows, integrate CRMs, calendars, and 40+ apps, while analytics and security support scalable, GDPR‑compliant operations. AI Agents Freemium - $220/mo
-
+Convocore lets businesses create and scale AI agents across web chat, WhatsApp, Instagram, Facebook, and Telegram. A visual node editor lets non‑developers build complex flows, integrate CRMs, calendars, and 40+ apps, while analytics and security support scalable, GDPR‑compliant operations.
 In short, Voiceglow is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That one capability of Voiceglow frequently saves users from juggling several separate steps.
 
 ## Key features

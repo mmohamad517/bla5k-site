@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ChatUML?
-    a: ChatUML is a desktop AI‑assisted diagram generator that turns textual descriptions into UML, flowcharts, and architecture diagrams. It exports common formats, stores diagrams in user accounts, and includes built‑in tutorials for developers and teams. Code assistant Freemium That is the core of what ChatUML does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ChatUML is a desktop AI‑assisted diagram generator that turns textual descriptions into UML, flowcharts, and architecture diagrams. It exports common formats, stores diagrams in user accounts, and includes built‑in tutorials for developers and teams. That is the core of what ChatUML does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ChatUML free?
     a: ChatUML uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ChatUML?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is ChatUML?
 
-ChatUML is a desktop AI‑assisted diagram generator that turns textual descriptions into UML, flowcharts, and architecture diagrams. It exports common formats, stores diagrams in user accounts, and includes built‑in tutorials for developers and teams. Code assistant Freemium
-
+ChatUML is a desktop AI‑assisted diagram generator that turns textual descriptions into UML, flowcharts, and architecture diagrams. It exports common formats, stores diagrams in user accounts, and includes built‑in tutorials for developers and teams.
 In short, ChatUML is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For a lot of people, that one function of ChatUML collapses multiple steps into a single action.
 
 ## Key features

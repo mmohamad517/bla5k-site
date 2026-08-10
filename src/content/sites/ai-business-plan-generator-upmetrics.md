@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Business Plan Generator - Upmetrics?
-    a: Upmetrics AI Business Plan Generator simplifies creating business plans in 10 minutes with AI writing and financial assistance, pitch deck generator, and resources for entrepreneurs, educators, and students to validate ideas and secure funding.  That is the core of what AI Business Plan Generator - Upmetrics does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Upmetrics AI Business Plan Generator simplifies creating business plans in 10 minutes with AI writing and financial assistance, pitch deck generator, and resources for entrepreneurs, educators, and students to validate ideas and secure funding. That is the core of what AI Business Plan Generator - Upmetrics does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI Business Plan Generator - Upmetrics free?
     a: AI Business Plan Generator - Upmetrics is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with AI Business Plan Generator - Upmetrics?

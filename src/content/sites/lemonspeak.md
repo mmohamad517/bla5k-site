@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Lemonspeak?
-    a: LemonSpeak turns podcast MP3s into marketing assets—transcripts, diarized speaker tags, summaries, show notes, SEO titles, blog posts, tweets, Q&A polls, chapter markers—supporting English and German. It boosts SEO, accessibility, and content for websites and social media. Content creation Freemium That is the core of what Lemonspeak does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: LemonSpeak turns podcast MP3s into marketing assets—transcripts, diarized speaker tags, summaries, show notes, SEO titles, blog posts, tweets, Q&A polls, chapter markers—supporting English and German. It boosts SEO, accessibility, and content for websites and social media. That is the core of what Lemonspeak does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Lemonspeak free?
     a: Lemonspeak uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Lemonspeak?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Lemonspeak 
 
 ## What is Lemonspeak?
 
-LemonSpeak turns podcast MP3s into marketing assets—transcripts, diarized speaker tags, summaries, show notes, SEO titles, blog posts, tweets, Q&A polls, chapter markers—supporting English and German. It boosts SEO, accessibility, and content for websites and social media. Content creation Freemium
-
+LemonSpeak turns podcast MP3s into marketing assets—transcripts, diarized speaker tags, summaries, show notes, SEO titles, blog posts, tweets, Q&A polls, chapter markers—supporting English and German. It boosts SEO, accessibility, and content for websites and social media.
 In short, Lemonspeak is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. That one capability of Lemonspeak frequently saves users from juggling several separate steps.
 
 ## Key features

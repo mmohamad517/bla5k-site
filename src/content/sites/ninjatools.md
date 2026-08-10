@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is NinjaTools?
-    a: NinjaTools is an AI workspace that integrates various functionalities, offering tools for image generation, music creation, and document analysis. It supports collaboration, manages chat data across models, and features categorized prompt libraries for enhanced productivity.  That is the core of what NinjaTools does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: NinjaTools is an AI workspace that integrates various functionalities, offering tools for image generation, music creation, and document analysis. It supports collaboration, manages chat data across models, and features categorized prompt libraries for enhanced productivity. That is the core of what NinjaTools does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is NinjaTools free?
     a: NinjaTools uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $11/mo, check the official website — pricing changes often.
   - q: What can you do with NinjaTools?

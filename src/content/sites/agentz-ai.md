@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is agentz.ai?
-    a: Agentz automates real‑time customer engagement across voice, SMS, web, and social channels. Its drag‑and‑drop flow builder and self‑learning responses handle missed calls, webforms, and inquiries without coding, and it integrates with existing databases and systems. AI Agents Paid - $29 That is the core of what agentz.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Agentz automates real‑time customer engagement across voice, SMS, web, and social channels. Its drag‑and‑drop flow builder and self‑learning responses handle missed calls, webforms, and inquiries without coding, and it integrates with existing databases and systems. That is the core of what agentz.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is agentz.ai free?
     a: agentz.ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with agentz.ai?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like agentz.ai e
 
 ## What is agentz.ai?
 
-Agentz automates real‑time customer engagement across voice, SMS, web, and social channels. Its drag‑and‑drop flow builder and self‑learning responses handle missed calls, webforms, and inquiries without coding, and it integrates with existing databases and systems. AI Agents Paid - $29
-
+Agentz automates real‑time customer engagement across voice, SMS, web, and social channels. Its drag‑and‑drop flow builder and self‑learning responses handle missed calls, webforms, and inquiries without coding, and it integrates with existing databases and systems.
 In short, agentz.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users find that this one ability of agentz.ai removes several tasks from their daily routine.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ain Finance?
-    a: Defiai is an AI-powered platform enabling seamless crypto operations, connecting over 401 wallets across 13 blockchains. It offers tools for trading, asset management, analytics, and personalized updates to optimize user strategies and enhance passive income. Crypto and Web3 Free That is the core of what Ain Finance does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Defiai is an AI-powered platform enabling seamless crypto operations, connecting over 401 wallets across 13 blockchains. It offers tools for trading, asset management, analytics, and personalized updates to optimize user strategies and enhance passive income. That is the core of what Ain Finance does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ain Finance free?
     a: Yes — Ain Finance is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Ain Finance?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Ain Finance?
 
-Defiai is an AI-powered platform enabling seamless crypto operations, connecting over 401 wallets across 13 blockchains. It offers tools for trading, asset management, analytics, and personalized updates to optimize user strategies and enhance passive income. Crypto and Web3 Free
-
+Defiai is an AI-powered platform enabling seamless crypto operations, connecting over 401 wallets across 13 blockchains. It offers tools for trading, asset management, analytics, and personalized updates to optimize user strategies and enhance passive income.
 In short, Ain Finance is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. That one capability of Ain Finance frequently saves users from juggling several separate steps.
 
 ## Key features

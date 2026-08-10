@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Digital software labs?
-    a: Digital Software Labs delivers end‑to‑end development for mobile, web, and enterprise apps, including native, cross‑platform, AI‑powered solutions and cloud architecture. It offers team augmentation, API engineering, industry‑specific modules, and a structured pipeline from discovery to maintenance.  That is the core of what Digital software labs does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Digital Software Labs delivers end‑to‑end development for mobile, web, and enterprise apps, including native, cross‑platform, AI‑powered solutions and cloud architecture. It offers team augmentation, API engineering, industry‑specific modules, and a structured pipeline from discovery to maintenance. That is the core of what Digital software labs does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Digital software labs free?
     a: Digital software labs uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Digital software labs?

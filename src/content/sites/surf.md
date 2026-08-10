@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Surf?
-    a: Surf is an AI tool for cryptocurrency analysis that provides real-time market insights, tailored agent tools, on-chain tracking across 40 blockchains, and over 200 technical indicators to support informed trading decisions. Crypto and Web3 1 0 Freemium That is the core of what Surf does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Surf is an AI tool for cryptocurrency analysis that provides real-time market insights, tailored agent tools, on-chain tracking across 40 blockchains, and over 200 technical indicators to support informed trading decisions. That is the core of what Surf does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Surf free?
     a: Surf uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Surf?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Surf?
 
-Surf is an AI tool for cryptocurrency analysis that provides real-time market insights, tailored agent tools, on-chain tracking across 40 blockchains, and over 200 technical indicators to support informed trading decisions. Crypto and Web3 1 0 Freemium
-
+Surf is an AI tool for cryptocurrency analysis that provides real-time market insights, tailored agent tools, on-chain tracking across 40 blockchains, and over 200 technical indicators to support informed trading decisions.
 In short, Surf is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. Many users discover that this feature of Surf alone covers what previously took multiple tools.
 
 ## Key features

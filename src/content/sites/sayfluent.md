@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SayFluent?
-    a: SayFluent is an AI-driven English coaching tool that utilizes YouTube Shorts for real-time listening and speaking practice. It offers immediate feedback and structured sessions to enhance pronunciation, vocabulary, and situational understanding for all proficiency levels. Coaching Freemium That is the core of what SayFluent does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SayFluent is an AI-driven English coaching tool that utilizes YouTube Shorts for real-time listening and speaking practice. It offers immediate feedback and structured sessions to enhance pronunciation, vocabulary, and situational understanding for all proficiency levels. That is the core of what SayFluent does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SayFluent free?
     a: SayFluent uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with SayFluent?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is SayFluent?
 
-SayFluent is an AI-driven English coaching tool that utilizes YouTube Shorts for real-time listening and speaking practice. It offers immediate feedback and structured sessions to enhance pronunciation, vocabulary, and situational understanding for all proficiency levels. Coaching Freemium
-
+SayFluent is an AI-driven English coaching tool that utilizes YouTube Shorts for real-time listening and speaking practice. It offers immediate feedback and structured sessions to enhance pronunciation, vocabulary, and situational understanding for all proficiency levels.
 In short, SayFluent is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. That one feature of SayFluent often eliminates several smaller steps from the usual workflow.
 
 ## Key features

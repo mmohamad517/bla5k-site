@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Recodez?
-    a: Recodez is a code project management platform that lets developers quickly start, import, and organize projects. It offers starter kits for Next.js, React, HTML/CSS/JS, and an empty template, and uses AI to auto‑generate code across multiple stacks. App Builder Freemium That is the core of what Recodez does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Recodez is a code project management platform that lets developers quickly start, import, and organize projects. It offers starter kits for Next.js, React, HTML/CSS/JS, and an empty template, and uses AI to auto‑generate code across multiple stacks. That is the core of what Recodez does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Recodez free?
     a: Recodez uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Recodez?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Recodez mat
 
 ## What is Recodez?
 
-Recodez is a code project management platform that lets developers quickly start, import, and organize projects. It offers starter kits for Next.js, React, HTML/CSS/JS, and an empty template, and uses AI to auto‑generate code across multiple stacks. App Builder Freemium
-
+Recodez is a code project management platform that lets developers quickly start, import, and organize projects. It offers starter kits for Next.js, React, HTML/CSS/JS, and an empty template, and uses AI to auto‑generate code across multiple stacks.
 In short, Recodez is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. That single feature of Recodez alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

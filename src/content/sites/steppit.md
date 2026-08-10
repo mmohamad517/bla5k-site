@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Steppit?
-    a: Steppit lets teachers and educators build, produce, and deliver structured courses using drag‑and‑drop modules, AI‑generated scripts, in‑app video/audio recording, and cohort‑based micro‑learning. Administrators can drip‑feed content, award certificates, and integrate Stripe payments.  That is the core of what Steppit does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Steppit lets teachers and educators build, produce, and deliver structured courses using drag‑and‑drop modules, AI‑generated scripts, in‑app video/audio recording, and cohort‑based micro‑learning. Administrators can drip‑feed content, award certificates, and integrate Stripe payments. That is the core of what Steppit does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Steppit free?
     a: Steppit uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $25/mo, check the official website — pricing changes often.
   - q: What can you do with Steppit?

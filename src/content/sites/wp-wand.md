@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is WP Wand?
-    a: WP Wand is an AI‑powered WordPress plugin that drafts blog posts, product descriptions, and social media copy directly in the editor, offering template and tone options, a quality checker, real‑time editing, and bulk generation for teams.  That is the core of what WP Wand does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: WP Wand is an AI‑powered WordPress plugin that drafts blog posts, product descriptions, and social media copy directly in the editor, offering template and tone options, a quality checker, real‑time editing, and bulk generation for teams. That is the core of what WP Wand does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is WP Wand free?
     a: WP Wand is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with WP Wand?

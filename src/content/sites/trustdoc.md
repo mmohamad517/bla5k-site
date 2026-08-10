@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TrustDoc?
-    a: TrustDoc uses AI to validate, analyze, and verify academic and administrative documents. It scores, justifies, and summarizes files, flags discrepancies against templates, and stores results for collaborative review, cutting manual review time and improving compliance. Document management Subscription That is the core of what TrustDoc does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: TrustDoc uses AI to validate, analyze, and verify academic and administrative documents. It scores, justifies, and summarizes files, flags discrepancies against templates, and stores results for collaborative review, cutting manual review time and improving compliance. That is the core of what TrustDoc does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TrustDoc free?
     a: TrustDoc is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with TrustDoc?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like TrustDoc ma
 
 ## What is TrustDoc?
 
-TrustDoc uses AI to validate, analyze, and verify academic and administrative documents. It scores, justifies, and summarizes files, flags discrepancies against templates, and stores results for collaborative review, cutting manual review time and improving compliance. Document management Subscription
-
+TrustDoc uses AI to validate, analyze, and verify academic and administrative documents. It scores, justifies, and summarizes files, flags discrepancies against templates, and stores results for collaborative review, cutting manual review time and improving compliance.
 In short, TrustDoc is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. Many users discover that this feature of TrustDoc alone covers what previously took multiple tools.
 
 ## Key features

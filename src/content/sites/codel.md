@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Codel?
-    a: CodeI is an AI code assistant that delivers ready‑to‑use snippets for multiple languages and frameworks, offers debugging support, explains error messages with examples, tracks query history for quick reference, and helps developers understand and improve code quality. Code assistant Free That is the core of what Codel does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CodeI is an AI code assistant that delivers ready‑to‑use snippets for multiple languages and frameworks, offers debugging support, explains error messages with examples, tracks query history for quick reference, and helps developers understand and improve code quality. That is the core of what Codel does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Codel free?
     a: Yes — Codel is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Codel?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Codel?
 
-CodeI is an AI code assistant that delivers ready‑to‑use snippets for multiple languages and frameworks, offers debugging support, explains error messages with examples, tracks query history for quick reference, and helps developers understand and improve code quality. Code assistant Free
-
+CodeI is an AI code assistant that delivers ready‑to‑use snippets for multiple languages and frameworks, offers debugging support, explains error messages with examples, tracks query history for quick reference, and helps developers understand and improve code quality.
 In short, Codel is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For a lot of people, that one function of Codel collapses multiple steps into a single action.
 
 ## Key features

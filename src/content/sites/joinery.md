@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Joinery?
-    a: Joinery is an AI recruitment tool that streamlines hiring with candidate summary cards, bias-free scoring, automated resume parsing, and anonymized evaluations to foster diversity. It enhances candidate engagement while maintaining transparency and efficiency in the recruitment process. Human resources Free That is the core of what Joinery does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Joinery is an AI recruitment tool that streamlines hiring with candidate summary cards, bias-free scoring, automated resume parsing, and anonymized evaluations to foster diversity. It enhances candidate engagement while maintaining transparency and efficiency in the recruitment process. That is the core of what Joinery does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Joinery free?
     a: Yes — Joinery is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Joinery?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Joinery?
 
-Joinery is an AI recruitment tool that streamlines hiring with candidate summary cards, bias-free scoring, automated resume parsing, and anonymized evaluations to foster diversity. It enhances candidate engagement while maintaining transparency and efficiency in the recruitment process. Human resources Free
-
+Joinery is an AI recruitment tool that streamlines hiring with candidate summary cards, bias-free scoring, automated resume parsing, and anonymized evaluations to foster diversity. It enhances candidate engagement while maintaining transparency and efficiency in the recruitment process.
 In short, Joinery is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. For plenty of users, that one capability of Joinery replaces several steps they used to do by hand.
 
 ## Key features

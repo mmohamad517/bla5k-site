@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is artvisual.ai?
-    a: Artvisual.ai is an AI‑driven platform that transforms images into custom wall art, canvas prints, and posters using algorithmic brushwork. It offers instant previews, multi‑format output, easy ordering, U.S. shipping, and 3D printer integration for physical creations.  That is the core of what artvisual.ai does — ai print design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Artvisual.ai is an AI‑driven platform that transforms images into custom wall art, canvas prints, and posters using algorithmic brushwork. It offers instant previews, multi‑format output, easy ordering, U.S. shipping, and 3D printer integration for physical creations. That is the core of what artvisual.ai does — ai print design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is artvisual.ai free?
     a: artvisual.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with artvisual.ai?

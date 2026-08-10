@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Plutis?
-    a: Market Leap is an AI-driven platform that streamlines multi-channel marketing through automation. It offers real-time analytics, social media management, email marketing, and SEO tools to support business growth and enhance online presence. Marketing Freemium That is the core of what Plutis does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Market Leap is an AI-driven platform that streamlines multi-channel marketing through automation. It offers real-time analytics, social media management, email marketing, and SEO tools to support business growth and enhance online presence. That is the core of what Plutis does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Plutis free?
     a: Plutis uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Plutis?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Plutis?
 
-Market Leap is an AI-driven platform that streamlines multi-channel marketing through automation. It offers real-time analytics, social media management, email marketing, and SEO tools to support business growth and enhance online presence. Marketing Freemium
-
+Market Leap is an AI-driven platform that streamlines multi-channel marketing through automation. It offers real-time analytics, social media management, email marketing, and SEO tools to support business growth and enhance online presence.
 In short, Plutis is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many, that single strength of Plutis is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

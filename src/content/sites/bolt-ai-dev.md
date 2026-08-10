@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Bolt AI Dev?
-    a: BoltAI.dev is a no-code platform for web UI development, offering a drag-and-drop interface and AI-driven tools for prototyping. It enables rapid iteration, testing, and provides customizable frameworks with built-in data privacy controls.  That is the core of what Bolt AI Dev does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: BoltAI.dev is a no-code platform for web UI development, offering a drag-and-drop interface and AI-driven tools for prototyping. It enables rapid iteration, testing, and provides customizable frameworks with built-in data privacy controls. That is the core of what Bolt AI Dev does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Bolt AI Dev free?
     a: Yes — Bolt AI Dev is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Bolt AI Dev?

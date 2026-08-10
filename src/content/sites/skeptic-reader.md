@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Skeptic Reader?
-    a: Skeptic Reader is a browser extension that uses GPT‑4o to scan web pages and video captions for bias and logical fallacies. It highlights issues, provides counter‑arguments, and gives quantitative scores for balance, logic, and objectivity, aiding media literacy. AI Assistant Free That is the core of what Skeptic Reader does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Skeptic Reader is a browser extension that uses GPT‑4o to scan web pages and video captions for bias and logical fallacies. It highlights issues, provides counter‑arguments, and gives quantitative scores for balance, logic, and objectivity, aiding media literacy. That is the core of what Skeptic Reader does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Skeptic Reader free?
     a: Yes — Skeptic Reader is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Skeptic Reader?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Skeptic Reader e
 
 ## What is Skeptic Reader?
 
-Skeptic Reader is a browser extension that uses GPT‑4o to scan web pages and video captions for bias and logical fallacies. It highlights issues, provides counter‑arguments, and gives quantitative scores for balance, logic, and objectivity, aiding media literacy. AI Assistant Free
-
+Skeptic Reader is a browser extension that uses GPT‑4o to scan web pages and video captions for bias and logical fallacies. It highlights issues, provides counter‑arguments, and gives quantitative scores for balance, logic, and objectivity, aiding media literacy.
 In short, Skeptic Reader is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users discover that this feature of Skeptic Reader alone covers what previously took multiple tools.
 
 ## Key features

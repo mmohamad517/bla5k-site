@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AutoGPT?
-    a: AutoGPT is an open-source AI tool that revolutionizes natural language processing and automates various tasks. AI Agents Free That is the core of what AutoGPT does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AutoGPT is an open-source AI tool that revolutionizes natural language processing and automates various tasks. That is the core of what AutoGPT does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AutoGPT free?
     a: Yes — AutoGPT is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with AutoGPT?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like AutoGPT earn the
 
 ## What is AutoGPT?
 
-AutoGPT is an open-source AI tool that revolutionizes natural language processing and automates various tasks. AI Agents Free
-
+AutoGPT is an open-source AI tool that revolutionizes natural language processing and automates various tasks.
 In short, AutoGPT is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users discover that this feature of AutoGPT alone covers what previously took multiple tools.
 
 ## Key features

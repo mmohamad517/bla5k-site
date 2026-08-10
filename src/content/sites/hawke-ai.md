@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Hawke AI?
-    a: Hawke AI aggregates campaign data into real‑time dashboards, tracks KPIs across accounts, alerts anomalies, offers AI‑driven budget recommendations, forecasting, segmentation, and benchmark comparisons, with customizable reports and controlled sharing for collaborative optimization. Marketing Subscription - $249/mo That is the core of what Hawke AI does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Hawke AI aggregates campaign data into real‑time dashboards, tracks KPIs across accounts, alerts anomalies, offers AI‑driven budget recommendations, forecasting, segmentation, and benchmark comparisons, with customizable reports and controlled sharing for collaborative optimization. That is the core of what Hawke AI does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Hawke AI free?
     a: Hawke AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Hawke AI?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Hawke AI?
 
-Hawke AI aggregates campaign data into real‑time dashboards, tracks KPIs across accounts, alerts anomalies, offers AI‑driven budget recommendations, forecasting, segmentation, and benchmark comparisons, with customizable reports and controlled sharing for collaborative optimization. Marketing Subscription - $249/mo
-
+Hawke AI aggregates campaign data into real‑time dashboards, tracks KPIs across accounts, alerts anomalies, offers AI‑driven budget recommendations, forecasting, segmentation, and benchmark comparisons, with customizable reports and controlled sharing for collaborative optimization.
 In short, Hawke AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many, that single strength of Hawke AI is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

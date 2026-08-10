@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Narrot?
-    a: Narrot is an AI‑powered customer support API that delivers instant, context‑aware responses in multiple languages. It offers customizable flows, automatic escalation to humans, 24/7 availability, and compliance with HIPAA, PCI‑DSS, and GDPR for secure data handling. Customer support Subscription - $499/mo That is the core of what Narrot does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Narrot is an AI‑powered customer support API that delivers instant, context‑aware responses in multiple languages. It offers customizable flows, automatic escalation to humans, 24/7 availability, and compliance with HIPAA, PCI‑DSS, and GDPR for secure data handling. That is the core of what Narrot does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Narrot free?
     a: Narrot is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Narrot?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Narrot earn thei
 
 ## What is Narrot?
 
-Narrot is an AI‑powered customer support API that delivers instant, context‑aware responses in multiple languages. It offers customizable flows, automatic escalation to humans, 24/7 availability, and compliance with HIPAA, PCI‑DSS, and GDPR for secure data handling. Customer support Subscription - $499/mo
-
+Narrot is an AI‑powered customer support API that delivers instant, context‑aware responses in multiple languages. It offers customizable flows, automatic escalation to humans, 24/7 availability, and compliance with HIPAA, PCI‑DSS, and GDPR for secure data handling.
 In short, Narrot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. That one feature of Narrot often eliminates several smaller steps from the usual workflow.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Undetectable AI?
-    a: Undetectable AI scans text and images for signatures of models like GPT‑4, Gemini, and Claude, combining multiple engine results into a probability score. It handles paraphrased content, supports 50+ languages, and offers a Chrome extension and API.  That is the core of what Undetectable AI does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Undetectable AI scans text and images for signatures of models like GPT‑4, Gemini, and Claude, combining multiple engine results into a probability score. It handles paraphrased content, supports 50+ languages, and offers a Chrome extension and API. That is the core of what Undetectable AI does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Undetectable AI free?
     a: Undetectable AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Undetectable AI?

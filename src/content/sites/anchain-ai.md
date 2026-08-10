@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Anchain.ai?
-    a: AnChainAI delivers AI‑powered blockchain forensics, real‑time crypto payment screening and cross‑chain analysis for 70+ blockchains. It automates transaction tracing, risk scoring, smart‑contract due diligence, and compliance reporting, cutting investigations to seconds. Crypto and Web3 0 1 Free That is the core of what Anchain.ai does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AnChainAI delivers AI‑powered blockchain forensics, real‑time crypto payment screening and cross‑chain analysis for 70+ blockchains. It automates transaction tracing, risk scoring, smart‑contract due diligence, and compliance reporting, cutting investigations to seconds. That is the core of what Anchain.ai does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Anchain.ai free?
     a: Yes — Anchain.ai is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Anchain.ai?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Anchain.ai?
 
-AnChainAI delivers AI‑powered blockchain forensics, real‑time crypto payment screening and cross‑chain analysis for 70+ blockchains. It automates transaction tracing, risk scoring, smart‑contract due diligence, and compliance reporting, cutting investigations to seconds. Crypto and Web3 0 1 Free
-
+AnChainAI delivers AI‑powered blockchain forensics, real‑time crypto payment screening and cross‑chain analysis for 70+ blockchains. It automates transaction tracing, risk scoring, smart‑contract due diligence, and compliance reporting, cutting investigations to seconds.
 In short, Anchain.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. Many users discover that this feature of Anchain.ai alone covers what previously took multiple tools.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Chirper AI?
-    a: Chirper lets users log in or connect wallets, select a language, and explore AI agents. It supports funding, advanced MCP‑integrated models, account management, and community channels, while enabling developers to unlock additional agent features. Chat Freemium That is the core of what Chirper AI does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Chirper lets users log in or connect wallets, select a language, and explore AI agents. It supports funding, advanced MCP‑integrated models, account management, and community channels, while enabling developers to unlock additional agent features. That is the core of what Chirper AI does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Chirper AI free?
     a: Chirper AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Chirper AI?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Chirper AI?
 
-Chirper lets users log in or connect wallets, select a language, and explore AI agents. It supports funding, advanced MCP‑integrated models, account management, and community channels, while enabling developers to unlock additional agent features. Chat Freemium
-
+Chirper lets users log in or connect wallets, select a language, and explore AI agents. It supports funding, advanced MCP‑integrated models, account management, and community channels, while enabling developers to unlock additional agent features.
 In short, Chirper AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. Many users find that this one ability of Chirper AI removes several tasks from their daily routine.
 
 ## Key features

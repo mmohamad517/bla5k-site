@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Skillspot.ai?
-    a: Skillspot automates recruitment by sourcing, screening, and scheduling candidates from 800 million profiles. It matches talent to job specs, sends AI‑generated outreach, and provides video interview analytics, reducing screening time and supporting data‑driven hiring.  That is the core of what Skillspot.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Skillspot automates recruitment by sourcing, screening, and scheduling candidates from 800 million profiles. It matches talent to job specs, sends AI‑generated outreach, and provides video interview analytics, reducing screening time and supporting data‑driven hiring. That is the core of what Skillspot.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Skillspot.ai free?
     a: Skillspot.ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Skillspot.ai?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Wabi AI?
-    a: Wabi.ai is a personal software platform that enables users to create mini-apps from simple prompts. It features an intuitive interface for building and remixing apps using customizable templates for everyday tasks.  That is the core of what Wabi AI does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Wabi.ai is a personal software platform that enables users to create mini-apps from simple prompts. It features an intuitive interface for building and remixing apps using customizable templates for everyday tasks. That is the core of what Wabi AI does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Wabi AI free?
     a: Wabi AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Wabi AI?

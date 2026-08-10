@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Saved?
-    a: Saved is an AI clipper for streamers that automatically detects and edits highlights from live streams, facilitating quick uploads to platforms like YouTube and Twitch while allowing users to customize highlights for enhanced viewer engagement.  That is the core of what Saved does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Saved is an AI clipper for streamers that automatically detects and edits highlights from live streams, facilitating quick uploads to platforms like YouTube and Twitch while allowing users to customize highlights for enhanced viewer engagement. That is the core of what Saved does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Saved free?
     a: Saved is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Saved?

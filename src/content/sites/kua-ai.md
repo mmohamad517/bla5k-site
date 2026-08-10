@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Kua.ai?
-    a: Kua.ai is an AI-powered ecommerce tool enhancing listings by optimizing, rewriting with popular keywords, conducting quality audits, identifying competitors, generating personalized blogs, and repurposing content. It streamlines tasks and scales businesses through automated marketing content creation. Copywriting Free trial That is the core of what Kua.ai does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Kua.ai is an AI-powered ecommerce tool enhancing listings by optimizing, rewriting with popular keywords, conducting quality audits, identifying competitors, generating personalized blogs, and repurposing content. It streamlines tasks and scales businesses through automated marketing content creation. That is the core of what Kua.ai does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Kua.ai free?
     a: Kua.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Kua.ai?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Kua.ai
 
 ## What is Kua.ai?
 
-Kua.ai is an AI-powered ecommerce tool enhancing listings by optimizing, rewriting with popular keywords, conducting quality audits, identifying competitors, generating personalized blogs, and repurposing content. It streamlines tasks and scales businesses through automated marketing content creation. Copywriting Free trial
-
+Kua.ai is an AI-powered ecommerce tool enhancing listings by optimizing, rewriting with popular keywords, conducting quality audits, identifying competitors, generating personalized blogs, and repurposing content. It streamlines tasks and scales businesses through automated marketing content creation.
 In short, Kua.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. That one feature of Kua.ai often eliminates several smaller steps from the usual workflow.
 
 ## Key features

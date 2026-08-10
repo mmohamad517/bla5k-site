@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Dealight?
-    a: Dealight AI automates LinkedIn outreach by generating adaptive AI‑crafted messages, analyzing prospect data, and tracking engagement to optimize campaigns. It supports multi‑step workflows, A/B testing, and a dashboard for conversion metrics, helping BDRs and SDRs scale outbound efforts. Business planning Freemium That is the core of what Dealight does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Dealight AI automates LinkedIn outreach by generating adaptive AI‑crafted messages, analyzing prospect data, and tracking engagement to optimize campaigns. It supports multi‑step workflows, A/B testing, and a dashboard for conversion metrics, helping BDRs and SDRs scale outbound efforts. That is the core of what Dealight does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Dealight free?
     a: Dealight uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Dealight?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Dealight?
 
-Dealight AI automates LinkedIn outreach by generating adaptive AI‑crafted messages, analyzing prospect data, and tracking engagement to optimize campaigns. It supports multi‑step workflows, A/B testing, and a dashboard for conversion metrics, helping BDRs and SDRs scale outbound efforts. Business planning Freemium
-
+Dealight AI automates LinkedIn outreach by generating adaptive AI‑crafted messages, analyzing prospect data, and tracking engagement to optimize campaigns. It supports multi‑step workflows, A/B testing, and a dashboard for conversion metrics, helping BDRs and SDRs scale outbound efforts.
 In short, Dealight is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI planning without the manual grind. That one feature of Dealight often eliminates several smaller steps from the usual workflow.
 
 ## Key features

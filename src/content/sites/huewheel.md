@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Huewheel?
-    a: Huewheel is an AI color palette generator that transforms verbal concepts into customized color schemes. It facilitates collaboration with easy sharing options, offers trending palettes, and includes a mockup generator for effective visualization of creative projects. Coloring Freemium That is the core of what Huewheel does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Huewheel is an AI color palette generator that transforms verbal concepts into customized color schemes. It facilitates collaboration with easy sharing options, offers trending palettes, and includes a mockup generator for effective visualization of creative projects. That is the core of what Huewheel does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Huewheel free?
     a: Huewheel uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Huewheel?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Huewheel ma
 
 ## What is Huewheel?
 
-Huewheel is an AI color palette generator that transforms verbal concepts into customized color schemes. It facilitates collaboration with easy sharing options, offers trending palettes, and includes a mockup generator for effective visualization of creative projects. Coloring Freemium
-
+Huewheel is an AI color palette generator that transforms verbal concepts into customized color schemes. It facilitates collaboration with easy sharing options, offers trending palettes, and includes a mockup generator for effective visualization of creative projects.
 In short, Huewheel is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. That single feature of Huewheel alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

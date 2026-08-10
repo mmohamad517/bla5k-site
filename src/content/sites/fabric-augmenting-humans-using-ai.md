@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Fabric - augmenting humans using AI?
-    a: Fabric is an open-source AI framework that enhances productivity by offering a modular structure and crowdsourced AI prompts for tasks like summarizing content, creating art prompts, and writing essays. Personal assistant Free That is the core of what Fabric - augmenting humans using AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Fabric is an open-source AI framework that enhances productivity by offering a modular structure and crowdsourced AI prompts for tasks like summarizing content, creating art prompts, and writing essays. That is the core of what Fabric - augmenting humans using AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Fabric - augmenting humans using AI free?
     a: Yes — Fabric - augmenting humans using AI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Fabric - augmenting humans using AI?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Fabric - au
 
 ## What is Fabric - augmenting humans using AI?
 
-Fabric is an open-source AI framework that enhances productivity by offering a modular structure and crowdsourced AI prompts for tasks like summarizing content, creating art prompts, and writing essays. Personal assistant Free
-
+Fabric is an open-source AI framework that enhances productivity by offering a modular structure and crowdsourced AI prompts for tasks like summarizing content, creating art prompts, and writing essays.
 In short, Fabric - augmenting humans using AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of Fabric - augmenting humans using AI replaces several steps they used to do by hand.
 
 ## Key features

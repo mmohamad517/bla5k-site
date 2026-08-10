@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Relatas?
-    a: Relatas automates sales analytics by linking activity, pipeline, quotations, and forecasting with minimal manual input. It delivers real‑time pipeline updates, 93% forecast accuracy, and a compliant quotation engine that speeds creation and gives leaders visibility into gaps and deals. Sales Subscription - $9.99/mo That is the core of what Relatas does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Relatas automates sales analytics by linking activity, pipeline, quotations, and forecasting with minimal manual input. It delivers real‑time pipeline updates, 93% forecast accuracy, and a compliant quotation engine that speeds creation and gives leaders visibility into gaps and deals. That is the core of what Relatas does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Relatas free?
     a: Relatas is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Relatas?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Relatas mat
 
 ## What is Relatas?
 
-Relatas automates sales analytics by linking activity, pipeline, quotations, and forecasting with minimal manual input. It delivers real‑time pipeline updates, 93% forecast accuracy, and a compliant quotation engine that speeds creation and gives leaders visibility into gaps and deals. Sales Subscription - $9.99/mo
-
+Relatas automates sales analytics by linking activity, pipeline, quotations, and forecasting with minimal manual input. It delivers real‑time pipeline updates, 93% forecast accuracy, and a compliant quotation engine that speeds creation and gives leaders visibility into gaps and deals.
 In short, Relatas is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. That one feature of Relatas often eliminates several smaller steps from the usual workflow.
 
 ## Key features

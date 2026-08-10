@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ZappyChat AI?
-    a: CloseBot automates creation and deployment of conversational AI agents across web, SMS, Facebook, Instagram, WhatsApp, and more. It handles appointment booking, lead qualification, and multilingual support with LLMs, enabling 24/7 real‑time engagement, faster responses, and higher conversions. Omnichannel chatbot Freemium That is the core of what ZappyChat AI does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CloseBot automates creation and deployment of conversational AI agents across web, SMS, Facebook, Instagram, WhatsApp, and more. It handles appointment booking, lead qualification, and multilingual support with LLMs, enabling 24/7 real‑time engagement, faster responses, and higher conversions. That is the core of what ZappyChat AI does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ZappyChat AI free?
     a: ZappyChat AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ZappyChat AI?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is ZappyChat AI?
 
-CloseBot automates creation and deployment of conversational AI agents across web, SMS, Facebook, Instagram, WhatsApp, and more. It handles appointment booking, lead qualification, and multilingual support with LLMs, enabling 24/7 real‑time engagement, faster responses, and higher conversions. Omnichannel chatbot Freemium
-
+CloseBot automates creation and deployment of conversational AI agents across web, SMS, Facebook, Instagram, WhatsApp, and more. It handles appointment booking, lead qualification, and multilingual support with LLMs, enabling 24/7 real‑time engagement, faster responses, and higher conversions.
 In short, ZappyChat AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. That single feature of ZappyChat AI alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

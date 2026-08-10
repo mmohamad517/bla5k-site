@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Meku?
-    a: Meku is an AI web app builder that simplifies the creation and deployment of scalable web applications. Users can generate production-ready code quickly, customize via chat, and integrate seamlessly with GitHub and Supabase, supporting diverse project types. App Builder Freemium That is the core of what Meku does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Meku is an AI web app builder that simplifies the creation and deployment of scalable web applications. Users can generate production-ready code quickly, customize via chat, and integrate seamlessly with GitHub and Supabase, supporting diverse project types. That is the core of what Meku does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Meku free?
     a: Meku uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Meku?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Meku?
 
-Meku is an AI web app builder that simplifies the creation and deployment of scalable web applications. Users can generate production-ready code quickly, customize via chat, and integrate seamlessly with GitHub and Supabase, supporting diverse project types. App Builder Freemium
-
+Meku is an AI web app builder that simplifies the creation and deployment of scalable web applications. Users can generate production-ready code quickly, customize via chat, and integrate seamlessly with GitHub and Supabase, supporting diverse project types.
 In short, Meku is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For plenty of users, that one capability of Meku replaces several steps they used to do by hand.
 
 ## Key features

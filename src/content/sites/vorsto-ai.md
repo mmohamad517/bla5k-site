@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Vorsto AI?
-    a: WalkRideGo plans routes for walkers, cyclists, tour groups, and businesses. Create maps, add stops, and view detailed navigation data. Track progress in real time, record metrics, export routes, and integrate into logistics workflows across multiple transport modes. Customer support Free trial - $30 That is the core of what Vorsto AI does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: WalkRideGo plans routes for walkers, cyclists, tour groups, and businesses. Create maps, add stops, and view detailed navigation data. Track progress in real time, record metrics, export routes, and integrate into logistics workflows across multiple transport modes. That is the core of what Vorsto AI does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Vorsto AI free?
     a: Vorsto AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $30, check the official website — pricing changes often.
   - q: What can you do with Vorsto AI?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Vorsto AI m
 
 ## What is Vorsto AI?
 
-WalkRideGo plans routes for walkers, cyclists, tour groups, and businesses. Create maps, add stops, and view detailed navigation data. Track progress in real time, record metrics, export routes, and integrate into logistics workflows across multiple transport modes. Customer support Free trial - $30
-
+WalkRideGo plans routes for walkers, cyclists, tour groups, and businesses. Create maps, add stops, and view detailed navigation data. Track progress in real time, record metrics, export routes, and integrate into logistics workflows across multiple transport modes.
 In short, Vorsto AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For plenty of users, that one capability of Vorsto AI replaces several steps they used to do by hand.
 
 ## Key features

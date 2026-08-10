@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: "What is cc:Monet?"
-    a: "ccMonet AI Finance Assistant automates bookkeeping for SMEs by extracting multilingual receipts, invoices, and bank statements, mapping them to charts of accounts, reconciling transactions in real time, and delivering up‑to‑date P&L, cash‑flow dashboards, and tax‑ready reports.  That is the core of what cc:Monet does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "ccMonet AI Finance Assistant automates bookkeeping for SMEs by extracting multilingual receipts, invoices, and bank statements, mapping them to charts of accounts, reconciling transactions in real time, and delivering up‑to‑date P&L, cash‑flow dashboards, and tax‑ready reports. That is the core of what cc:Monet does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: "Is cc:Monet free?"
     a: "cc:Monet is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing."
   - q: "What can you do with cc:Monet?"

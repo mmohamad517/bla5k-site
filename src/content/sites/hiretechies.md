@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is HireTechies?
-    a: HireTechies centralizes IT hiring with an AI applicant tracking system that automates resume screening and candidate matching, schedules interviews, enforces role-based permissions, automates pipelines and communications, provides recruitment analytics, integrations, and encrypted data storage. Human resources Free trial That is the core of what HireTechies does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: HireTechies centralizes IT hiring with an AI applicant tracking system that automates resume screening and candidate matching, schedules interviews, enforces role-based permissions, automates pipelines and communications, provides recruitment analytics, integrations, and encrypted data storage. That is the core of what HireTechies does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is HireTechies free?
     a: HireTechies uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with HireTechies?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is HireTechies?
 
-HireTechies centralizes IT hiring with an AI applicant tracking system that automates resume screening and candidate matching, schedules interviews, enforces role-based permissions, automates pipelines and communications, provides recruitment analytics, integrations, and encrypted data storage. Human resources Free trial
-
+HireTechies centralizes IT hiring with an AI applicant tracking system that automates resume screening and candidate matching, schedules interviews, enforces role-based permissions, automates pipelines and communications, provides recruitment analytics, integrations, and encrypted data storage.
 In short, HireTechies is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. That single feature of HireTechies alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

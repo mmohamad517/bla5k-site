@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Cubit Incorporated?
-    a: "Cubit delivers end‑to‑end technology services for businesses: AI‑powered chatbots, mobile and responsive web development, custom software, UI/UX design, and digital marketing. The Kathmandu‑based team supports projects from ideation to production. Chatbot builder Subscription That is the core of what Cubit Incorporated does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "Cubit delivers end‑to‑end technology services for businesses: AI‑powered chatbots, mobile and responsive web development, custom software, UI/UX design, and digital marketing. The Kathmandu‑based team supports projects from ideation to production. That is the core of what Cubit Incorporated does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is Cubit Incorporated free?
     a: Cubit Incorporated is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Cubit Incorporated?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Cubit Incorporated?
 
-Cubit delivers end‑to‑end technology services for businesses: AI‑powered chatbots, mobile and responsive web development, custom software, UI/UX design, and digital marketing. The Kathmandu‑based team supports projects from ideation to production. Chatbot builder Subscription
-
+Cubit delivers end‑to‑end technology services for businesses: AI‑powered chatbots, mobile and responsive web development, custom software, UI/UX design, and digital marketing. The Kathmandu‑based team supports projects from ideation to production.
 In short, Cubit Incorporated is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. That one feature of Cubit Incorporated often eliminates several smaller steps from the usual workflow.
 
 ## Key features

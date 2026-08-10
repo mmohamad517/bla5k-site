@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Free ChatGPT Omni?
-    a: Free ChatGPT Omni offers a web interface to GPT‑4 Omni, supporting text, audio, and image inputs with multimodal responses. It provides real‑time voice interaction, low latency, and multilingual generation, aiding developers and learners. Customer support Freemium - $9.9/mo That is the core of what Free ChatGPT Omni does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Free ChatGPT Omni offers a web interface to GPT‑4 Omni, supporting text, audio, and image inputs with multimodal responses. It provides real‑time voice interaction, low latency, and multilingual generation, aiding developers and learners. That is the core of what Free ChatGPT Omni does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Free ChatGPT Omni free?
     a: Free ChatGPT Omni uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9.9/mo, check the official website — pricing changes often.
   - q: What can you do with Free ChatGPT Omni?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Free ChatGP
 
 ## What is Free ChatGPT Omni?
 
-Free ChatGPT Omni offers a web interface to GPT‑4 Omni, supporting text, audio, and image inputs with multimodal responses. It provides real‑time voice interaction, low latency, and multilingual generation, aiding developers and learners. Customer support Freemium - $9.9/mo
-
+Free ChatGPT Omni offers a web interface to GPT‑4 Omni, supporting text, audio, and image inputs with multimodal responses. It provides real‑time voice interaction, low latency, and multilingual generation, aiding developers and learners.
 In short, Free ChatGPT Omni is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. That single feature of Free ChatGPT Omni alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

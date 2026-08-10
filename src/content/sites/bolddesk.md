@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is BoldDesk?
-    a: BoldDesk centralizes ticketing, live chat, and omnichannel messages into one inbox. An autonomous AI agent handles ~40 % of tickets, while a copilot drafts replies and suggests knowledge‑base content. Built‑in automation updates CRM, processes refunds, and speeds response times. Customer support Subscription - $7499/mo That is the core of what BoldDesk does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: BoldDesk centralizes ticketing, live chat, and omnichannel messages into one inbox. An autonomous AI agent handles ~40 % of tickets, while a copilot drafts replies and suggests knowledge‑base content. Built‑in automation updates CRM, processes refunds, and speeds response times. That is the core of what BoldDesk does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is BoldDesk free?
     a: BoldDesk is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with BoldDesk?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is BoldDesk?
 
-BoldDesk centralizes ticketing, live chat, and omnichannel messages into one inbox. An autonomous AI agent handles ~40 % of tickets, while a copilot drafts replies and suggests knowledge‑base content. Built‑in automation updates CRM, processes refunds, and speeds response times. Customer support Subscription - $7499/mo
-
+BoldDesk centralizes ticketing, live chat, and omnichannel messages into one inbox. An autonomous AI agent handles ~40 % of tickets, while a copilot drafts replies and suggests knowledge‑base content. Built‑in automation updates CRM, processes refunds, and speeds response times.
 In short, BoldDesk is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. That one feature of BoldDesk often eliminates several smaller steps from the usual workflow.
 
 ## Key features

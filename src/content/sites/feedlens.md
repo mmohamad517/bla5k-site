@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is FeedLens?
-    a: FeedLens automates app review management through AI. It extracts insights from reviews, generates relevant replies, provides custom chatbot engagement, competitor monitoring, in-depth analytics, and integrates seamlessly with Freshdesk and Slack for streamlined workflows. Customer support Free trial That is the core of what FeedLens does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: FeedLens automates app review management through AI. It extracts insights from reviews, generates relevant replies, provides custom chatbot engagement, competitor monitoring, in-depth analytics, and integrates seamlessly with Freshdesk and Slack for streamlined workflows. That is the core of what FeedLens does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is FeedLens free?
     a: FeedLens uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with FeedLens?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like FeedLens ma
 
 ## What is FeedLens?
 
-FeedLens automates app review management through AI. It extracts insights from reviews, generates relevant replies, provides custom chatbot engagement, competitor monitoring, in-depth analytics, and integrates seamlessly with Freshdesk and Slack for streamlined workflows. Customer support Free trial
-
+FeedLens automates app review management through AI. It extracts insights from reviews, generates relevant replies, provides custom chatbot engagement, competitor monitoring, in-depth analytics, and integrates seamlessly with Freshdesk and Slack for streamlined workflows.
 In short, FeedLens is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. That single feature of FeedLens alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

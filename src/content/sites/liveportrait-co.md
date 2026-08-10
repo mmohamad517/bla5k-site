@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is LivePortrait.co?
-    a: LivePortrait is an AI tool that animates portrait photos, transforming static images into dynamic visuals. It features a user-friendly interface, advanced algorithms for realistic animations, and supports various input sources for creative applications in art and marketing. Animation Generation Free trial That is the core of what LivePortrait.co does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: LivePortrait is an AI tool that animates portrait photos, transforming static images into dynamic visuals. It features a user-friendly interface, advanced algorithms for realistic animations, and supports various input sources for creative applications in art and marketing. That is the core of what LivePortrait.co does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is LivePortrait.co free?
     a: LivePortrait.co uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with LivePortrait.co?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is LivePortrait.co?
 
-LivePortrait is an AI tool that animates portrait photos, transforming static images into dynamic visuals. It features a user-friendly interface, advanced algorithms for realistic animations, and supports various input sources for creative applications in art and marketing. Animation Generation Free trial
-
+LivePortrait is an AI tool that animates portrait photos, transforming static images into dynamic visuals. It features a user-friendly interface, advanced algorithms for realistic animations, and supports various input sources for creative applications in art and marketing.
 In short, LivePortrait.co is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. That one feature of LivePortrait.co often eliminates several smaller steps from the usual workflow.
 
 ## Key features

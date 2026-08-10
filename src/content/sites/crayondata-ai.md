@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is crayondata.ai?
-    a: Crayon Data Tangram is an enterprise, model- and vendor-agnostic AI platform offering 200+ pre-built use cases, reusable agents, and modular components for rapid deployment, integration with legacy systems, governance controls, and scalable personalization and decisioning. AI Agents Freemium That is the core of what crayondata.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Crayon Data Tangram is an enterprise, model- and vendor-agnostic AI platform offering 200+ pre-built use cases, reusable agents, and modular components for rapid deployment, integration with legacy systems, governance controls, and scalable personalization and decisioning. That is the core of what crayondata.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is crayondata.ai free?
     a: crayondata.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with crayondata.ai?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like crayondata.
 
 ## What is crayondata.ai?
 
-Crayon Data Tangram is an enterprise, model- and vendor-agnostic AI platform offering 200+ pre-built use cases, reusable agents, and modular components for rapid deployment, integration with legacy systems, governance controls, and scalable personalization and decisioning. AI Agents Freemium
-
+Crayon Data Tangram is an enterprise, model- and vendor-agnostic AI platform offering 200+ pre-built use cases, reusable agents, and modular components for rapid deployment, integration with legacy systems, governance controls, and scalable personalization and decisioning.
 In short, crayondata.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That one capability of crayondata.ai frequently saves users from juggling several separate steps.
 
 ## Key features

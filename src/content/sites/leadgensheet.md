@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is LeadGenSheet?
-    a: CapGo.AI is a Google Sheets add‑on that centralizes lead generation, enrichment, email automation, web searches, PDF data extraction, and contact verification. Users run AI‑driven commands like =GO(Prompt,“web”) or =GO(Prompt,“email”) directly within a sheet, streamlining sales and outreach workflows. Sales Freemium That is the core of what LeadGenSheet does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CapGo.AI is a Google Sheets add‑on that centralizes lead generation, enrichment, email automation, web searches, PDF data extraction, and contact verification. Users run AI‑driven commands like =GO(Prompt,“web”) or =GO(Prompt,“email”) directly within a sheet, streamlining sales and outreach workflows. That is the core of what LeadGenSheet does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is LeadGenSheet free?
     a: LeadGenSheet uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with LeadGenSheet?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is LeadGenSheet?
 
-CapGo.AI is a Google Sheets add‑on that centralizes lead generation, enrichment, email automation, web searches, PDF data extraction, and contact verification. Users run AI‑driven commands like =GO(Prompt,“web”) or =GO(Prompt,“email”) directly within a sheet, streamlining sales and outreach workflows. Sales Freemium
-
+CapGo.AI is a Google Sheets add‑on that centralizes lead generation, enrichment, email automation, web searches, PDF data extraction, and contact verification. Users run AI‑driven commands like =GO(Prompt,“web”) or =GO(Prompt,“email”) directly within a sheet, streamlining sales and outreach workflows.
 In short, LeadGenSheet is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. That single feature of LeadGenSheet alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

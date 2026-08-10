@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Brogrammers?
-    a: Brogrammers is an AI-powered learning platform that facilitates customized course creation, collaborative learning, and access to curated resources. It enhances engagement through interactive document chats and supports knowledge retention with quizzes and tailored study materials. Course Generator Freemium That is the core of what Brogrammers does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Brogrammers is an AI-powered learning platform that facilitates customized course creation, collaborative learning, and access to curated resources. It enhances engagement through interactive document chats and supports knowledge retention with quizzes and tailored study materials. That is the core of what Brogrammers does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Brogrammers free?
     a: Brogrammers uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Brogrammers?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Brogra
 
 ## What is Brogrammers?
 
-Brogrammers is an AI-powered learning platform that facilitates customized course creation, collaborative learning, and access to curated resources. It enhances engagement through interactive document chats and supports knowledge retention with quizzes and tailored study materials. Course Generator Freemium
-
+Brogrammers is an AI-powered learning platform that facilitates customized course creation, collaborative learning, and access to curated resources. It enhances engagement through interactive document chats and supports knowledge retention with quizzes and tailored study materials.
 In short, Brogrammers is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. Many users find that this one ability of Brogrammers removes several tasks from their daily routine.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Onyx.app?
-    a: Onyx.app is a conversational AI platform that combines chat-based search, configurable agents, and action orchestration for teams. It integrates with enterprise systems to automate tasks and manage knowledge, with deployment options for regulated industries.  That is the core of what Onyx.app does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Onyx.app is a conversational AI platform that combines chat-based search, configurable agents, and action orchestration for teams. It integrates with enterprise systems to automate tasks and manage knowledge, with deployment options for regulated industries. That is the core of what Onyx.app does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Onyx.app free?
     a: Onyx.app uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $20/mo, check the official website — pricing changes often.
   - q: What can you do with Onyx.app?

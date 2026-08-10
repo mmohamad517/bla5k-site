@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ChatASK?
-    a: Chatask is an AI chatbot assistant that offers features like AI image generation, math problem solving, voice typing, and web page summarization. It learns user preferences for personalized responses and ensures privacy through encryption. Accessible across devices, including Apple Watch. Chatbot builder Free trial That is the core of what ChatASK does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Chatask is an AI chatbot assistant that offers features like AI image generation, math problem solving, voice typing, and web page summarization. It learns user preferences for personalized responses and ensures privacy through encryption. Accessible across devices, including Apple Watch. That is the core of what ChatASK does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ChatASK free?
     a: ChatASK uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ChatASK?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is ChatASK?
 
-Chatask is an AI chatbot assistant that offers features like AI image generation, math problem solving, voice typing, and web page summarization. It learns user preferences for personalized responses and ensures privacy through encryption. Accessible across devices, including Apple Watch. Chatbot builder Free trial
-
+Chatask is an AI chatbot assistant that offers features like AI image generation, math problem solving, voice typing, and web page summarization. It learns user preferences for personalized responses and ensures privacy through encryption. Accessible across devices, including Apple Watch.
 In short, ChatASK is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many, that single strength of ChatASK is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Dynamic Mockups?
-    a: Scale offers a user-friendly platform for creating customizable product mockups for items like apparel and mugs. It supports bulk generation and integrates with e-commerce tools, enhancing efficiency for sellers in their mockup workflows. Ad Mockup Free trial That is the core of what Dynamic Mockups does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Scale offers a user-friendly platform for creating customizable product mockups for items like apparel and mugs. It supports bulk generation and integrates with e-commerce tools, enhancing efficiency for sellers in their mockup workflows. That is the core of what Dynamic Mockups does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Dynamic Mockups free?
     a: Dynamic Mockups uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Dynamic Mockups?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Dynamic Mockups?
 
-Scale offers a user-friendly platform for creating customizable product mockups for items like apparel and mugs. It supports bulk generation and integrates with e-commerce tools, enhancing efficiency for sellers in their mockup workflows. Ad Mockup Free trial
-
+Scale offers a user-friendly platform for creating customizable product mockups for items like apparel and mugs. It supports bulk generation and integrates with e-commerce tools, enhancing efficiency for sellers in their mockup workflows.
 In short, Dynamic Mockups is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. For a lot of people, that one function of Dynamic Mockups collapses multiple steps into a single action.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Oda Studio?
-    a: Oda Studio applies Vision‑Language AI to automatically extract metadata from architectural drawings, convert charts into text, and fine‑tune generative models for media. It offers end‑to‑end data annotation, compute provisioning, and evaluation pipelines for enterprise‑scale insight generation.  That is the core of what Oda Studio does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Oda Studio applies Vision‑Language AI to automatically extract metadata from architectural drawings, convert charts into text, and fine‑tune generative models for media. It offers end‑to‑end data annotation, compute provisioning, and evaluation pipelines for enterprise‑scale insight generation. That is the core of what Oda Studio does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Oda Studio free?
     a: Oda Studio is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Oda Studio?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Aithenticate?
-    a: Aithenticate enhances AI transparency by allowing users to easily disclose content origins—AI-generated or human-created—through a WordPress plug-in. It ensures compliance with regulations and promotes clarity with visual indicators and custom disclosures.  That is the core of what Aithenticate does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Aithenticate enhances AI transparency by allowing users to easily disclose content origins—AI-generated or human-created—through a WordPress plug-in. It ensures compliance with regulations and promotes clarity with visual indicators and custom disclosures. That is the core of what Aithenticate does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Aithenticate free?
     a: Aithenticate uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Aithenticate?

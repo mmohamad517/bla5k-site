@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is kat dev?
-    a: Kat Dev is an AI code intelligence tool that assists software engineers by generating high-quality code, implementing features, fixing bugs, and optimizing performance. It supports multilingual environments and integrates seamlessly into existing workflows. Code assistant Free That is the core of what kat dev does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Kat Dev is an AI code intelligence tool that assists software engineers by generating high-quality code, implementing features, fixing bugs, and optimizing performance. It supports multilingual environments and integrates seamlessly into existing workflows. That is the core of what kat dev does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is kat dev free?
     a: Yes — kat dev is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with kat dev?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is kat dev?
 
-Kat Dev is an AI code intelligence tool that assists software engineers by generating high-quality code, implementing features, fixing bugs, and optimizing performance. It supports multilingual environments and integrates seamlessly into existing workflows. Code assistant Free
-
+Kat Dev is an AI code intelligence tool that assists software engineers by generating high-quality code, implementing features, fixing bugs, and optimizing performance. It supports multilingual environments and integrates seamlessly into existing workflows.
 In short, kat dev is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users discover that this feature of kat dev alone covers what previously took multiple tools.
 
 ## Key features

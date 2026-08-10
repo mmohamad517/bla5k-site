@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Platus (YC F24)?
-    a: Platus automates legal tasks by offering tools for drafting, signing, and notarizing documents. Its features enable efficient legal operations, quick contract closures, and streamlined compliance, benefiting legal teams and businesses.  That is the core of what Platus (YC F24) does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Platus automates legal tasks by offering tools for drafting, signing, and notarizing documents. Its features enable efficient legal operations, quick contract closures, and streamlined compliance, benefiting legal teams and businesses. That is the core of what Platus (YC F24) does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Platus (YC F24) free?
     a: Platus (YC F24) uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Platus (YC F24)?

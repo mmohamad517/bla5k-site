@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Precious?
-    a: Humble Design is a UI/UX agency offering design, branding, web, and app development services for startups. Leveraging AI and behavioral science, the agency optimizes user experiences and provides staff augmentation to enhance project capabilities. Conceptual Generation Freemium That is the core of what Precious does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Humble Design is a UI/UX agency offering design, branding, web, and app development services for startups. Leveraging AI and behavioral science, the agency optimizes user experiences and provides staff augmentation to enhance project capabilities. That is the core of what Precious does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Precious free?
     a: Precious uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Precious?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Precious earn th
 
 ## What is Precious?
 
-Humble Design is a UI/UX agency offering design, branding, web, and app development services for startups. Leveraging AI and behavioral science, the agency optimizes user experiences and provides staff augmentation to enhance project capabilities. Conceptual Generation Freemium
-
+Humble Design is a UI/UX agency offering design, branding, web, and app development services for startups. Leveraging AI and behavioral science, the agency optimizes user experiences and provides staff augmentation to enhance project capabilities.
 In short, Precious is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. That one feature of Precious often eliminates several smaller steps from the usual workflow.
 
 ## Key features

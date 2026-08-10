@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is StaffingLeads?
-    a: StaffingLeads is a real-time hiring alert platform that scans company career portals and ATS feeds to deliver verified hiring manager contacts and role details, enabling recruiters and staffing teams to target decision-makers instantly. Human resources Subscription - $98/mo That is the core of what StaffingLeads does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: StaffingLeads is a real-time hiring alert platform that scans company career portals and ATS feeds to deliver verified hiring manager contacts and role details, enabling recruiters and staffing teams to target decision-makers instantly. That is the core of what StaffingLeads does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is StaffingLeads free?
     a: StaffingLeads is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with StaffingLeads?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like StaffingLea
 
 ## What is StaffingLeads?
 
-StaffingLeads is a real-time hiring alert platform that scans company career portals and ATS feeds to deliver verified hiring manager contacts and role details, enabling recruiters and staffing teams to target decision-makers instantly. Human resources Subscription - $98/mo
-
+StaffingLeads is a real-time hiring alert platform that scans company career portals and ATS feeds to deliver verified hiring manager contacts and role details, enabling recruiters and staffing teams to target decision-makers instantly.
 In short, StaffingLeads is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. That one capability of StaffingLeads frequently saves users from juggling several separate steps.
 
 ## Key features

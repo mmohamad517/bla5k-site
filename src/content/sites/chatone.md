@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ChatOne?
-    a: ChatOne is a multimodal AI chatbot platform that allows users to compare responses from multiple AI models, including ChatGPT and Claude, all in real time, enabling streamlined interactions without separate logins for each model.  That is the core of what ChatOne does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ChatOne is a multimodal AI chatbot platform that allows users to compare responses from multiple AI models, including ChatGPT and Claude, all in real time, enabling streamlined interactions without separate logins for each model. That is the core of what ChatOne does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ChatOne free?
     a: ChatOne uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ChatOne?

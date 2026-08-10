@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is BlockBot?
-    a: BlockBot is a blockchain‑based AI bot ecosystem where users purchase $BOT tokens to acquire or upgrade Bot NFTs, unlocking persona, influencer, fan, art, or content bots that enable tailored chatbot creation and digital media support. Crypto and Web3 Freemium That is the core of what BlockBot does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: BlockBot is a blockchain‑based AI bot ecosystem where users purchase $BOT tokens to acquire or upgrade Bot NFTs, unlocking persona, influencer, fan, art, or content bots that enable tailored chatbot creation and digital media support. That is the core of what BlockBot does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is BlockBot free?
     a: BlockBot uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with BlockBot?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like BlockBot ea
 
 ## What is BlockBot?
 
-BlockBot is a blockchain‑based AI bot ecosystem where users purchase $BOT tokens to acquire or upgrade Bot NFTs, unlocking persona, influencer, fan, art, or content bots that enable tailored chatbot creation and digital media support. Crypto and Web3 Freemium
-
+BlockBot is a blockchain‑based AI bot ecosystem where users purchase $BOT tokens to acquire or upgrade Bot NFTs, unlocking persona, influencer, fan, art, or content bots that enable tailored chatbot creation and digital media support.
 In short, BlockBot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. For a lot of people, that one function of BlockBot collapses multiple steps into a single action.
 
 ## Key features

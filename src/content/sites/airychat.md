@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AiryChat?
-    a: AiryChat delivers AI chat for teams, supporting PDFs, CSVs, DOCXs for drafting and data extraction, with unlimited context, web‑search integration, image and voice output, and specialized assistants powered by OpenAI, Meta, and Google APIs. AI Assistant Freemium That is the core of what AiryChat does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AiryChat delivers AI chat for teams, supporting PDFs, CSVs, DOCXs for drafting and data extraction, with unlimited context, web‑search integration, image and voice output, and specialized assistants powered by OpenAI, Meta, and Google APIs. That is the core of what AiryChat does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AiryChat free?
     a: AiryChat uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AiryChat?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is AiryChat?
 
-AiryChat delivers AI chat for teams, supporting PDFs, CSVs, DOCXs for drafting and data extraction, with unlimited context, web‑search integration, image and voice output, and specialized assistants powered by OpenAI, Meta, and Google APIs. AI Assistant Freemium
-
+AiryChat delivers AI chat for teams, supporting PDFs, CSVs, DOCXs for drafting and data extraction, with unlimited context, web‑search integration, image and voice output, and specialized assistants powered by OpenAI, Meta, and Google APIs.
 In short, AiryChat is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That single feature of AiryChat alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

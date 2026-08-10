@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Wazgar?
-    a: Wazgar is an AI assistant built into WhatsApp that delivers on‑demand tutoring, instant answers, and content creation—from stories and poems to professional letters—while offering casual chat and practical advice on finance and lifestyle. Personal assistant Free That is the core of what Wazgar does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Wazgar is an AI assistant built into WhatsApp that delivers on‑demand tutoring, instant answers, and content creation—from stories and poems to professional letters—while offering casual chat and practical advice on finance and lifestyle. That is the core of what Wazgar does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Wazgar free?
     a: Yes — Wazgar is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Wazgar?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Wazgar?
 
-Wazgar is an AI assistant built into WhatsApp that delivers on‑demand tutoring, instant answers, and content creation—from stories and poems to professional letters—while offering casual chat and practical advice on finance and lifestyle. Personal assistant Free
-
+Wazgar is an AI assistant built into WhatsApp that delivers on‑demand tutoring, instant answers, and content creation—from stories and poems to professional letters—while offering casual chat and practical advice on finance and lifestyle.
 In short, Wazgar is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users discover that this feature of Wazgar alone covers what previously took multiple tools.
 
 ## Key features

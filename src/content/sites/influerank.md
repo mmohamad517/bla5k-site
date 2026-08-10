@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Influerank?
-    a: Influerank is an AI-powered tool that helps marketers find top influencers matching their target audience. It provides ranking estimates and engagement rate insights for enhancing marketing strategies in various niches like fashion, fitness, and tech. Marketing Subscription - $25/mo That is the core of what Influerank does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Influerank is an AI-powered tool that helps marketers find top influencers matching their target audience. It provides ranking estimates and engagement rate insights for enhancing marketing strategies in various niches like fashion, fitness, and tech. That is the core of what Influerank does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Influerank free?
     a: Influerank is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Influerank?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Influerank earn 
 
 ## What is Influerank?
 
-Influerank is an AI-powered tool that helps marketers find top influencers matching their target audience. It provides ranking estimates and engagement rate insights for enhancing marketing strategies in various niches like fashion, fitness, and tech. Marketing Subscription - $25/mo
-
+Influerank is an AI-powered tool that helps marketers find top influencers matching their target audience. It provides ranking estimates and engagement rate insights for enhancing marketing strategies in various niches like fashion, fitness, and tech.
 In short, Influerank is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many, that single strength of Influerank is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

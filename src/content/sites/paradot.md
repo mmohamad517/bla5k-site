@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Paradot?
-    a: Paradot is a conversational AI for text and voice chat that provides on-demand question answering, drafting and task assistance, preserves conversational context for follow-ups, and offers privacy controls to help users streamline workflows and research. AI Assistant Freemium That is the core of what Paradot does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Paradot is a conversational AI for text and voice chat that provides on-demand question answering, drafting and task assistance, preserves conversational context for follow-ups, and offers privacy controls to help users streamline workflows and research. That is the core of what Paradot does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Paradot free?
     a: Paradot uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Paradot?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Paradot?
 
-Paradot is a conversational AI for text and voice chat that provides on-demand question answering, drafting and task assistance, preserves conversational context for follow-ups, and offers privacy controls to help users streamline workflows and research. AI Assistant Freemium
-
+Paradot is a conversational AI for text and voice chat that provides on-demand question answering, drafting and task assistance, preserves conversational context for follow-ups, and offers privacy controls to help users streamline workflows and research.
 In short, Paradot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users find that this one ability of Paradot removes several tasks from their daily routine.
 
 ## Key features

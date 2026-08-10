@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is DocsBot AI?
-    a: Introducing DocsBot AI, a powerful AI tool that helps you create custom chatbots for documentation. Train and deploy AI-powered chatbots in minutes, saving time and improving support experience. Custom copywriting capabilities, embeddable widgets, and integrations with popular platforms like WordPress and Slack.  That is the core of what DocsBot AI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Introducing DocsBot AI, a powerful AI tool that helps you create custom chatbots for documentation. Train and deploy AI-powered chatbots in minutes, saving time and improving support experience. Custom copywriting capabilities, embeddable widgets, and integrations with popular platforms like WordPress and Slack. That is the core of what DocsBot AI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is DocsBot AI free?
     a: DocsBot AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with DocsBot AI?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is FastAIPhotos?
-    a: FastAI Photos is an AI platform for generating high-quality images and videos. It offers customizable models for personalized outputs, professional headshots, and the QuickGen feature for instant portraits, suitable for social media and marketing. Avatar Paid That is the core of what FastAIPhotos does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: FastAI Photos is an AI platform for generating high-quality images and videos. It offers customizable models for personalized outputs, professional headshots, and the QuickGen feature for instant portraits, suitable for social media and marketing. That is the core of what FastAIPhotos does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is FastAIPhotos free?
     a: FastAIPhotos is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with FastAIPhotos?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like FastAI
 
 ## What is FastAIPhotos?
 
-FastAI Photos is an AI platform for generating high-quality images and videos. It offers customizable models for personalized outputs, professional headshots, and the QuickGen feature for instant portraits, suitable for social media and marketing. Avatar Paid
-
+FastAI Photos is an AI platform for generating high-quality images and videos. It offers customizable models for personalized outputs, professional headshots, and the QuickGen feature for instant portraits, suitable for social media and marketing.
 In short, FastAIPhotos is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. That one capability of FastAIPhotos frequently saves users from juggling several separate steps.
 
 ## Key features

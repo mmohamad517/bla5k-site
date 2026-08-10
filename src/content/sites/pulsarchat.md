@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PulsarChat?
-    a: PulsarChat is a supercharged chatbot powered by ChatGPT, offering an enhanced chat experience. It provides password-protected encrypted chats, over 250 plugins, a library of prompts, AI character chats, personalized responses, and customization options. AI Assistant Freemium - $39 That is the core of what PulsarChat does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: PulsarChat is a supercharged chatbot powered by ChatGPT, offering an enhanced chat experience. It provides password-protected encrypted chats, over 250 plugins, a library of prompts, AI character chats, personalized responses, and customization options. That is the core of what PulsarChat does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is PulsarChat free?
     a: PulsarChat uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $39, check the official website — pricing changes often.
   - q: What can you do with PulsarChat?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is PulsarChat?
 
-PulsarChat is a supercharged chatbot powered by ChatGPT, offering an enhanced chat experience. It provides password-protected encrypted chats, over 250 plugins, a library of prompts, AI character chats, personalized responses, and customization options. AI Assistant Freemium - $39
-
+PulsarChat is a supercharged chatbot powered by ChatGPT, offering an enhanced chat experience. It provides password-protected encrypted chats, over 250 plugins, a library of prompts, AI character chats, personalized responses, and customization options.
 In short, PulsarChat is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That single feature of PulsarChat alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

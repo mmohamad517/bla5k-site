@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SketchPro AI?
-    a: SketchPro is a native Revit add‑in that uses AI to automate documentation—dimensioning, tagging, sheets, and schedules—from natural‑language commands while applying firm‑specific guidelines, saving time, improving consistency, and ensuring compliance. Architectural Design Subscription That is the core of what SketchPro AI does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SketchPro is a native Revit add‑in that uses AI to automate documentation—dimensioning, tagging, sheets, and schedules—from natural‑language commands while applying firm‑specific guidelines, saving time, improving consistency, and ensuring compliance. That is the core of what SketchPro AI does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SketchPro AI free?
     a: SketchPro AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with SketchPro AI?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Sketch
 
 ## What is SketchPro AI?
 
-SketchPro is a native Revit add‑in that uses AI to automate documentation—dimensioning, tagging, sheets, and schedules—from natural‑language commands while applying firm‑specific guidelines, saving time, improving consistency, and ensuring compliance. Architectural Design Subscription
-
+SketchPro is a native Revit add‑in that uses AI to automate documentation—dimensioning, tagging, sheets, and schedules—from natural‑language commands while applying firm‑specific guidelines, saving time, improving consistency, and ensuring compliance.
 In short, SketchPro AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. That one feature of SketchPro AI often eliminates several smaller steps from the usual workflow.
 
 ## Key features

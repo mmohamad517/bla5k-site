@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Roleplex?
-    a: Roleplex lets users create or find AI role‑playing characters and chat via text or voice, including popular game personas. Build custom companions with adjustable personalities, and join a Discord community for shared adventures. Ideal for gamers, writers, and creative hobbyists. AI Assistant Free That is the core of what Roleplex does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Roleplex lets users create or find AI role‑playing characters and chat via text or voice, including popular game personas. Build custom companions with adjustable personalities, and join a Discord community for shared adventures. Ideal for gamers, writers, and creative hobbyists. That is the core of what Roleplex does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Roleplex free?
     a: Yes — Roleplex is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Roleplex?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Roleplex?
 
-Roleplex lets users create or find AI role‑playing characters and chat via text or voice, including popular game personas. Build custom companions with adjustable personalities, and join a Discord community for shared adventures. Ideal for gamers, writers, and creative hobbyists. AI Assistant Free
-
+Roleplex lets users create or find AI role‑playing characters and chat via text or voice, including popular game personas. Build custom companions with adjustable personalities, and join a Discord community for shared adventures. Ideal for gamers, writers, and creative hobbyists.
 In short, Roleplex is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many, that single strength of Roleplex is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

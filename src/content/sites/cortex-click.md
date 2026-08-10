@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Cortex Click?
-    a: Cortex Click is an intelligent content generation platform that enables developers and creators to efficiently produce blog posts, landing pages, and documentation while integrating with various data sources and enhancing knowledge management across teams. Content Writing Free trial That is the core of what Cortex Click does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Cortex Click is an intelligent content generation platform that enables developers and creators to efficiently produce blog posts, landing pages, and documentation while integrating with various data sources and enhancing knowledge management across teams. That is the core of what Cortex Click does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Cortex Click free?
     a: Cortex Click uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Cortex Click?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Cortex Click?
 
-Cortex Click is an intelligent content generation platform that enables developers and creators to efficiently produce blog posts, landing pages, and documentation while integrating with various data sources and enhancing knowledge management across teams. Content Writing Free trial
-
+Cortex Click is an intelligent content generation platform that enables developers and creators to efficiently produce blog posts, landing pages, and documentation while integrating with various data sources and enhancing knowledge management across teams.
 In short, Cortex Click is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. Many users discover that this feature of Cortex Click alone covers what previously took multiple tools.
 
 ## Key features

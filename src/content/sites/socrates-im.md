@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Socrates.im?
-    a: Socrates analyzes PDFs, DOCX, EPUB and text files with deep indexing, auto-OCR, and multi-document search; offers table-based comparisons, workflow automation, source-cited Q&A, local LLM/desktop options, and exports structured outputs in 60+ languages. Document management Subscription That is the core of what Socrates.im does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Socrates analyzes PDFs, DOCX, EPUB and text files with deep indexing, auto-OCR, and multi-document search; offers table-based comparisons, workflow automation, source-cited Q&A, local LLM/desktop options, and exports structured outputs in 60+ languages. That is the core of what Socrates.im does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Socrates.im free?
     a: Socrates.im is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Socrates.im?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Socrates.im?
 
-Socrates analyzes PDFs, DOCX, EPUB and text files with deep indexing, auto-OCR, and multi-document search; offers table-based comparisons, workflow automation, source-cited Q&A, local LLM/desktop options, and exports structured outputs in 60+ languages. Document management Subscription
-
+Socrates analyzes PDFs, DOCX, EPUB and text files with deep indexing, auto-OCR, and multi-document search; offers table-based comparisons, workflow automation, source-cited Q&A, local LLM/desktop options, and exports structured outputs in 60+ languages.
 In short, Socrates.im is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. Many users find that this one ability of Socrates.im removes several tasks from their daily routine.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Magic Avatars?
-    a: "Lensa: Magic Avatars converts a single portrait into multiple high‑resolution stylized avatars, preserving facial details while offering diverse artistic themes. Ideal for social‑media managers, digital artists, and influencers needing quick, branded visual content.  That is the core of what Magic Avatars does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "Lensa: Magic Avatars converts a single portrait into multiple high‑resolution stylized avatars, preserving facial details while offering diverse artistic themes. Ideal for social‑media managers, digital artists, and influencers needing quick, branded visual content. That is the core of what Magic Avatars does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is Magic Avatars free?
     a: Magic Avatars uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Magic Avatars?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Bricabrac AI?
-    a: Bricabrac AI is an AI-based platform for creating web applications with minimal coding. It offers a no-code editor, rapid development using GPT-4, code export, and free hosting, making it suitable for developers and entrepreneurs. App Builder Free trial That is the core of what Bricabrac AI does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Bricabrac AI is an AI-based platform for creating web applications with minimal coding. It offers a no-code editor, rapid development using GPT-4, code export, and free hosting, making it suitable for developers and entrepreneurs. That is the core of what Bricabrac AI does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Bricabrac AI free?
     a: Bricabrac AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Bricabrac AI?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Bricabrac AI?
 
-Bricabrac AI is an AI-based platform for creating web applications with minimal coding. It offers a no-code editor, rapid development using GPT-4, code export, and free hosting, making it suitable for developers and entrepreneurs. App Builder Free trial
-
+Bricabrac AI is an AI-based platform for creating web applications with minimal coding. It offers a no-code editor, rapid development using GPT-4, code export, and free hosting, making it suitable for developers and entrepreneurs.
 In short, Bricabrac AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. That one capability of Bricabrac AI frequently saves users from juggling several separate steps.
 
 ## Key features

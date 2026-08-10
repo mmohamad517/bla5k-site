@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Chapple.ai?
-    a: Chapple is an advanced platform that offers AI-driven tools for marketers, developers, and creative individuals, aiming to enhance efficiency, boost creativity, and support project growth.  That is the core of what Chapple.ai does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Chapple is an advanced platform that offers AI-driven tools for marketers, developers, and creative individuals, aiming to enhance efficiency, boost creativity, and support project growth. That is the core of what Chapple.ai does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Chapple.ai free?
     a: Chapple.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9, check the official website — pricing changes often.
   - q: What can you do with Chapple.ai?

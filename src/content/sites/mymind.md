@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MyMind?
-    a: Cross‑platform personal knowledge manager consolidating notes, bookmarks, articles, images, and quotes into one private space. Auto‑classifies content, generates AI summaries, and enables search by color, keyword, brand, or date. Real‑time sync across iOS, Android, macOS, Chrome, Edge, and Safari. Personal assistant Subscription - $24.92/mo That is the core of what MyMind does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Cross‑platform personal knowledge manager consolidating notes, bookmarks, articles, images, and quotes into one private space. Auto‑classifies content, generates AI summaries, and enables search by color, keyword, brand, or date. Real‑time sync across iOS, Android, macOS, Chrome, Edge, and Safari. That is the core of what MyMind does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MyMind free?
     a: MyMind is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with MyMind?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like MyMind earn thei
 
 ## What is MyMind?
 
-Cross‑platform personal knowledge manager consolidating notes, bookmarks, articles, images, and quotes into one private space. Auto‑classifies content, generates AI summaries, and enables search by color, keyword, brand, or date. Real‑time sync across iOS, Android, macOS, Chrome, Edge, and Safari. Personal assistant Subscription - $24.92/mo
-
+Cross‑platform personal knowledge manager consolidating notes, bookmarks, articles, images, and quotes into one private space. Auto‑classifies content, generates AI summaries, and enables search by color, keyword, brand, or date. Real‑time sync across iOS, Android, macOS, Chrome, Edge, and Safari.
 In short, MyMind is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many, that single strength of MyMind is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

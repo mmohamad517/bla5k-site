@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is FenPost?
-    a: Fenpost is an AI tool for generating LinkedIn content, including posts and carousels. It features a file-to-post converter, built-in visual tools, and a portfolio page design, helping users create engaging content quickly and enhance their professional presence. Content creation Free trial That is the core of what FenPost does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Fenpost is an AI tool for generating LinkedIn content, including posts and carousels. It features a file-to-post converter, built-in visual tools, and a portfolio page design, helping users create engaging content quickly and enhance their professional presence. That is the core of what FenPost does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is FenPost free?
     a: FenPost uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with FenPost?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like FenPos
 
 ## What is FenPost?
 
-Fenpost is an AI tool for generating LinkedIn content, including posts and carousels. It features a file-to-post converter, built-in visual tools, and a portfolio page design, helping users create engaging content quickly and enhance their professional presence. Content creation Free trial
-
+Fenpost is an AI tool for generating LinkedIn content, including posts and carousels. It features a file-to-post converter, built-in visual tools, and a portfolio page design, helping users create engaging content quickly and enhance their professional presence.
 In short, FenPost is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. That one capability of FenPost frequently saves users from juggling several separate steps.
 
 ## Key features

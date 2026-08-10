@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ad Mocker?
-    a: Ad Mocker produces realistic ad previews for Facebook, Instagram, Google Display Network, and YouTube, allowing teams to adjust headlines, images, and videos, view placements across devices, and validate designs before launch. Ad Mockup Freemium That is the core of what Ad Mocker does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ad Mocker produces realistic ad previews for Facebook, Instagram, Google Display Network, and YouTube, allowing teams to adjust headlines, images, and videos, view placements across devices, and validate designs before launch. That is the core of what Ad Mocker does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ad Mocker free?
     a: Ad Mocker uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Ad Mocker?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Ad Mocker e
 
 ## What is Ad Mocker?
 
-Ad Mocker produces realistic ad previews for Facebook, Instagram, Google Display Network, and YouTube, allowing teams to adjust headlines, images, and videos, view placements across devices, and validate designs before launch. Ad Mockup Freemium
-
+Ad Mocker produces realistic ad previews for Facebook, Instagram, Google Display Network, and YouTube, allowing teams to adjust headlines, images, and videos, view placements across devices, and validate designs before launch.
 In short, Ad Mocker is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. For a lot of people, that one function of Ad Mocker collapses multiple steps into a single action.
 
 ## Key features

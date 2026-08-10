@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is LivePortrait AI?
-    a: LivePortrait AI animates still portraits by detecting facial keypoints, creating realistic head movements, blinking, and mouth expressions. Users drive animation with a video or custom motion source, then sync to music and export in multiple formats for sharing. Animation Generation Freemium That is the core of what LivePortrait AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: LivePortrait AI animates still portraits by detecting facial keypoints, creating realistic head movements, blinking, and mouth expressions. Users drive animation with a video or custom motion source, then sync to music and export in multiple formats for sharing. That is the core of what LivePortrait AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is LivePortrait AI free?
     a: LivePortrait AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with LivePortrait AI?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is LivePortrait AI?
 
-LivePortrait AI animates still portraits by detecting facial keypoints, creating realistic head movements, blinking, and mouth expressions. Users drive animation with a video or custom motion source, then sync to music and export in multiple formats for sharing. Animation Generation Freemium
-
+LivePortrait AI animates still portraits by detecting facial keypoints, creating realistic head movements, blinking, and mouth expressions. Users drive animation with a video or custom motion source, then sync to music and export in multiple formats for sharing.
 In short, LivePortrait AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. For many, that single strength of LivePortrait AI is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ortto AI?
-    a: Otto is an AI-powered email creation tool that helps organizations improve their marketing efforts and predict results. Marketing Freemium - $509/mo That is the core of what Ortto AI does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Otto is an AI-powered email creation tool that helps organizations improve their marketing efforts and predict results. That is the core of what Ortto AI does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ortto AI free?
     a: Ortto AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $509/mo, check the official website — pricing changes often.
   - q: What can you do with Ortto AI?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Ortto AI?
 
-Otto is an AI-powered email creation tool that helps organizations improve their marketing efforts and predict results. Marketing Freemium - $509/mo
-
+Otto is an AI-powered email creation tool that helps organizations improve their marketing efforts and predict results.
 In short, Ortto AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That one capability of Ortto AI frequently saves users from juggling several separate steps.
 
 ## Key features

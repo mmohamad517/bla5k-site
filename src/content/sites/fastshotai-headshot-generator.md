@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is FastShotAI?
-    a: Fastshot AI is a rapid headshot generator that crafts customized digital portraits in just 30 seconds. Offering free creation of the first 2 headshots, this tool delivers high-quality results with minimal user input, boasting over 8288 headshots created.  That is the core of what FastShotAI does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Fastshot AI is a rapid headshot generator that crafts customized digital portraits in just 30 seconds. Offering free creation of the first 2 headshots, this tool delivers high-quality results with minimal user input, boasting over 8288 headshots created. That is the core of what FastShotAI does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is FastShotAI free?
     a: FastShotAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with FastShotAI?

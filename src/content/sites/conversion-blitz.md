@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Conversion Blitz?
-    a: Conversion Blitz uses AI to extract and filter contact data from websites and social networks by job title, location, industry, and company size. It verifies emails, runs scalable email campaigns, and routes visitor data to email, SMS or Slack.  That is the core of what Conversion Blitz does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Conversion Blitz uses AI to extract and filter contact data from websites and social networks by job title, location, industry, and company size. It verifies emails, runs scalable email campaigns, and routes visitor data to email, SMS or Slack. That is the core of what Conversion Blitz does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Conversion Blitz free?
     a: Conversion Blitz is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Conversion Blitz?

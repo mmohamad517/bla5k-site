@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is LoreKeeper?
-    a: LoreKeeper is a TTRPG preparation platform that lets users import PDFs, images or text to build a knowledge base, chat with characters, generate portraits, maps, scene videos, and compile a full campaign sourcebook. Content creation Free That is the core of what LoreKeeper does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: LoreKeeper is a TTRPG preparation platform that lets users import PDFs, images or text to build a knowledge base, chat with characters, generate portraits, maps, scene videos, and compile a full campaign sourcebook. That is the core of what LoreKeeper does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is LoreKeeper free?
     a: Yes — LoreKeeper is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with LoreKeeper?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is LoreKeeper?
 
-LoreKeeper is a TTRPG preparation platform that lets users import PDFs, images or text to build a knowledge base, chat with characters, generate portraits, maps, scene videos, and compile a full campaign sourcebook. Content creation Free
-
+LoreKeeper is a TTRPG preparation platform that lets users import PDFs, images or text to build a knowledge base, chat with characters, generate portraits, maps, scene videos, and compile a full campaign sourcebook.
 In short, LoreKeeper is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. Many users discover that this feature of LoreKeeper alone covers what previously took multiple tools.
 
 ## Key features

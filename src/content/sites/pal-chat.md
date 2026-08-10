@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Pal Chat?
-    a: Pal Chat is an AI chat client for iPhone and iPad supporting multiple models like GPT-4o and DALL-E 3. It features image processing, conversation history, on-device storage for privacy, and markdown/LaTeX support for technical discussions. Customer support Free That is the core of what Pal Chat does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Pal Chat is an AI chat client for iPhone and iPad supporting multiple models like GPT-4o and DALL-E 3. It features image processing, conversation history, on-device storage for privacy, and markdown/LaTeX support for technical discussions. That is the core of what Pal Chat does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Pal Chat free?
     a: Yes — Pal Chat is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Pal Chat?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Pal Chat earn th
 
 ## What is Pal Chat?
 
-Pal Chat is an AI chat client for iPhone and iPad supporting multiple models like GPT-4o and DALL-E 3. It features image processing, conversation history, on-device storage for privacy, and markdown/LaTeX support for technical discussions. Customer support Free
-
+Pal Chat is an AI chat client for iPhone and iPad supporting multiple models like GPT-4o and DALL-E 3. It features image processing, conversation history, on-device storage for privacy, and markdown/LaTeX support for technical discussions.
 In short, Pal Chat is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. Many users discover that this feature of Pal Chat alone covers what previously took multiple tools.
 
 ## Key features

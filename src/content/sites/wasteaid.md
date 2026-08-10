@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is WasteAID?
-    a: WasteAID uses AI to analyze truck images for contamination violations, automating California SB‑1383 compliance tracking. It produces PDF/CSV reports, includes a CRM for account and service management, and delivers real‑time audit insights for waste haulers. AI Assistant Subscription That is the core of what WasteAID does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: WasteAID uses AI to analyze truck images for contamination violations, automating California SB‑1383 compliance tracking. It produces PDF/CSV reports, includes a CRM for account and service management, and delivers real‑time audit insights for waste haulers. That is the core of what WasteAID does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is WasteAID free?
     a: WasteAID is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with WasteAID?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is WasteAID?
 
-WasteAID uses AI to analyze truck images for contamination violations, automating California SB‑1383 compliance tracking. It produces PDF/CSV reports, includes a CRM for account and service management, and delivers real‑time audit insights for waste haulers. AI Assistant Subscription
-
+WasteAID uses AI to analyze truck images for contamination violations, automating California SB‑1383 compliance tracking. It produces PDF/CSV reports, includes a CRM for account and service management, and delivers real‑time audit insights for waste haulers.
 In short, WasteAID is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of WasteAID replaces several steps they used to do by hand.
 
 ## Key features

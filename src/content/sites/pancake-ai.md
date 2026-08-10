@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Pancake AI?
-    a: Pancake AI is an AI cofounder that automates core business functions like sales, marketing, engineering, and support using context-aware autonomous agents. It runs 24/7, integrates with Slack and common toolchains, and provides an immutable audit log for full transparency and control over agent actions. AI Agents Free trial - $49/mo That is the core of what Pancake AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Pancake AI is an AI cofounder that automates core business functions like sales, marketing, engineering, and support using context-aware autonomous agents. It runs 24/7, integrates with Slack and common toolchains, and provides an immutable audit log for full transparency and control over agent actions. That is the core of what Pancake AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Pancake AI free?
     a: Pancake AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $49/mo, check the official website — pricing changes often.
   - q: What can you do with Pancake AI?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Pancake AI?
 
-Pancake AI is an AI cofounder that automates core business functions like sales, marketing, engineering, and support using context-aware autonomous agents. It runs 24/7, integrates with Slack and common toolchains, and provides an immutable audit log for full transparency and control over agent actions. AI Agents Free trial - $49/mo
-
+Pancake AI is an AI cofounder that automates core business functions like sales, marketing, engineering, and support using context-aware autonomous agents. It runs 24/7, integrates with Slack and common toolchains, and provides an immutable audit log for full transparency and control over agent actions.
 In short, Pancake AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For plenty of users, that one capability of Pancake AI replaces several steps they used to do by hand.
 
 ## Key features

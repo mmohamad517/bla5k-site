@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AiAgent.app?
-    a: AI Agent is a web app that allows users to create customized AI agents to perform specific tasks and achieve goals.  That is the core of what AiAgent.app does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Agent is a web app that allows users to create customized AI agents to perform specific tasks and achieve goals. That is the core of what AiAgent.app does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AiAgent.app free?
     a: AiAgent.app uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AiAgent.app?

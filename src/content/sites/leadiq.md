@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is LeadIQ?
-    a: LeadIQ is an AI tool for B2B sales teams that streamlines contact data management and prospecting, enabling faster pipeline growth. Sales Free trial That is the core of what LeadIQ does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: LeadIQ is an AI tool for B2B sales teams that streamlines contact data management and prospecting, enabling faster pipeline growth. That is the core of what LeadIQ does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is LeadIQ free?
     a: LeadIQ uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with LeadIQ?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like LeadIQ earn
 
 ## What is LeadIQ?
 
-LeadIQ is an AI tool for B2B sales teams that streamlines contact data management and prospecting, enabling faster pipeline growth. Sales Free trial
-
+LeadIQ is an AI tool for B2B sales teams that streamlines contact data management and prospecting, enabling faster pipeline growth.
 In short, LeadIQ is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For a lot of people, that one function of LeadIQ collapses multiple steps into a single action.
 
 ## Key features

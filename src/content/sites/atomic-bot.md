@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Atomic Bot?
-    a: Atomic Bot is an AI assistant that centralizes productivity workflows like email, calendar, and document management. It automates web tasks, parses files, and offers multi-model support with local or cloud deployment for privacy-conscious teams. AI Agents 1 Freemium That is the core of what Atomic Bot does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Atomic Bot is an AI assistant that centralizes productivity workflows like email, calendar, and document management. It automates web tasks, parses files, and offers multi-model support with local or cloud deployment for privacy-conscious teams. That is the core of what Atomic Bot does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Atomic Bot free?
     a: Atomic Bot uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Atomic Bot?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Atomic Bot earn 
 
 ## What is Atomic Bot?
 
-Atomic Bot is an AI assistant that centralizes productivity workflows like email, calendar, and document management. It automates web tasks, parses files, and offers multi-model support with local or cloud deployment for privacy-conscious teams. AI Agents 1 Freemium
-
+Atomic Bot is an AI assistant that centralizes productivity workflows like email, calendar, and document management. It automates web tasks, parses files, and offers multi-model support with local or cloud deployment for privacy-conscious teams.
 In short, Atomic Bot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That one feature of Atomic Bot often eliminates several smaller steps from the usual workflow.
 
 ## Key features

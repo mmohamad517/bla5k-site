@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Code Fundi?
-    a: Code Fundi integrates with VS Code, Cursor, and CLI to provide chat‑based code generation, debugging, testing, and documentation across repositories. It auto‑analyzes code, highlights errors, offers context explanations, supplies UI snippets for quick Next.js app development, and delivers enterprise security. Code assistant Freemium - $29/mo That is the core of what Code Fundi does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Code Fundi integrates with VS Code, Cursor, and CLI to provide chat‑based code generation, debugging, testing, and documentation across repositories. It auto‑analyzes code, highlights errors, offers context explanations, supplies UI snippets for quick Next.js app development, and delivers enterprise security. That is the core of what Code Fundi does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Code Fundi free?
     a: Code Fundi uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $29/mo, check the official website — pricing changes often.
   - q: What can you do with Code Fundi?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Code Fundi?
 
-Code Fundi integrates with VS Code, Cursor, and CLI to provide chat‑based code generation, debugging, testing, and documentation across repositories. It auto‑analyzes code, highlights errors, offers context explanations, supplies UI snippets for quick Next.js app development, and delivers enterprise security. Code assistant Freemium - $29/mo
-
+Code Fundi integrates with VS Code, Cursor, and CLI to provide chat‑based code generation, debugging, testing, and documentation across repositories. It auto‑analyzes code, highlights errors, offers context explanations, supplies UI snippets for quick Next.js app development, and delivers enterprise security.
 In short, Code Fundi is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many, that single strength of Code Fundi is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

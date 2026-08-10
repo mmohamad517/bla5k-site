@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Fibery?
-    a: Fibery is a modular work platform combining product, project, CRM, and knowledge work with relational databases, customizable templates, multiple views, automations, integrations, dependency-aware planning, and AI-assisted search, synthesis, and reporting for cross-team workflows. Project management Free That is the core of what Fibery does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Fibery is a modular work platform combining product, project, CRM, and knowledge work with relational databases, customizable templates, multiple views, automations, integrations, dependency-aware planning, and AI-assisted search, synthesis, and reporting for cross-team workflows. That is the core of what Fibery does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Fibery free?
     a: Yes — Fibery is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Fibery?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Fibery earn
 
 ## What is Fibery?
 
-Fibery is a modular work platform combining product, project, CRM, and knowledge work with relational databases, customizable templates, multiple views, automations, integrations, dependency-aware planning, and AI-assisted search, synthesis, and reporting for cross-team workflows. Project management Free
-
+Fibery is a modular work platform combining product, project, CRM, and knowledge work with relational databases, customizable templates, multiple views, automations, integrations, dependency-aware planning, and AI-assisted search, synthesis, and reporting for cross-team workflows.
 In short, Fibery is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many, that single strength of Fibery is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

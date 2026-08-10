@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Hostinger | 1-Click OpenClaw?
-    a: 1-Click OpenClaw is a domain management tool that performs instant WHOIS lookups to check availability, verify ownership, and view registration details.  That is the core of what Hostinger | 1-Click OpenClaw does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: 1-Click OpenClaw is a domain management tool that performs instant WHOIS lookups to check availability, verify ownership, and view registration details. That is the core of what Hostinger | 1-Click OpenClaw does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Hostinger | 1-Click OpenClaw free?
     a: Hostinger | 1-Click OpenClaw is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Hostinger | 1-Click OpenClaw?

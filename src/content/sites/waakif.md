@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Waakif?
-    a: Waakif integrates POS, online storefronts, and order management for restaurants, retail, salons, and spas, offering real‑time inventory, QR menus, table reservations, loyalty, feedback, and marketing automation—all accessible from a unified dashboard. Business Freemium That is the core of what Waakif does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Waakif integrates POS, online storefronts, and order management for restaurants, retail, salons, and spas, offering real‑time inventory, QR menus, table reservations, loyalty, feedback, and marketing automation—all accessible from a unified dashboard. That is the core of what Waakif does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Waakif free?
     a: Waakif uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Waakif?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Waakif?
 
-Waakif integrates POS, online storefronts, and order management for restaurants, retail, salons, and spas, offering real‑time inventory, QR menus, table reservations, loyalty, feedback, and marketing automation—all accessible from a unified dashboard. Business Freemium
-
+Waakif integrates POS, online storefronts, and order management for restaurants, retail, salons, and spas, offering real‑time inventory, QR menus, table reservations, loyalty, feedback, and marketing automation—all accessible from a unified dashboard.
 In short, Waakif is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. That single feature of Waakif alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

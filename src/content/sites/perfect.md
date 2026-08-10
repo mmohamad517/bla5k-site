@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Perfect?
-    a: Perfect is an AI recruitment tool that improves candidate engagement through advanced search capabilities, predictive analytics for career shifts, and automated customizable outreach. It promotes team collaboration and offers insights to optimize hiring strategies efficiently.  That is the core of what Perfect does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Perfect is an AI recruitment tool that improves candidate engagement through advanced search capabilities, predictive analytics for career shifts, and automated customizable outreach. It promotes team collaboration and offers insights to optimize hiring strategies efficiently. That is the core of what Perfect does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Perfect free?
     a: Perfect uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $195/mo, check the official website — pricing changes often.
   - q: What can you do with Perfect?

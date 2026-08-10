@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is COPRESENCE?
-    a: Copresence is an AI-powered tool that enables users to create hyper-realistic 3D avatars in minutes using an iPhone with Face ID. It offers guided facial scanning and supports multiple export formats for integration with platforms like Metahuman and Rapport.  That is the core of what COPRESENCE does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Copresence is an AI-powered tool that enables users to create hyper-realistic 3D avatars in minutes using an iPhone with Face ID. It offers guided facial scanning and supports multiple export formats for integration with platforms like Metahuman and Rapport. That is the core of what COPRESENCE does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is COPRESENCE free?
     a: COPRESENCE is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with COPRESENCE?

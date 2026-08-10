@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Stream Routine?
-    a: ChatGPT Twitch ChatBot, part of StreamRoutine, logs chat, lets users create custom commands, and offers real‑time ChatGPT interactions. It supports brainstorming, prompt responses, and interactive challenges, helping streamers and moderators boost engagement and automate routine replies.  That is the core of what Stream Routine does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ChatGPT Twitch ChatBot, part of StreamRoutine, logs chat, lets users create custom commands, and offers real‑time ChatGPT interactions. It supports brainstorming, prompt responses, and interactive challenges, helping streamers and moderators boost engagement and automate routine replies. That is the core of what Stream Routine does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Stream Routine free?
     a: Stream Routine uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $7/mo, check the official website — pricing changes often.
   - q: What can you do with Stream Routine?

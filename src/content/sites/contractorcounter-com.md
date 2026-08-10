@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ContractorCounter?
-    a: ContractorCounter is an AI-powered construction takeoff tool that lets you measure and markup PDF drawings directly in your browser. Users can give plain-English commands to count items, set scale, and generate bill-of-quantities sheets for faster, collaborative estimating. Construction Management Free trial - $10/mo That is the core of what ContractorCounter does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ContractorCounter is an AI-powered construction takeoff tool that lets you measure and markup PDF drawings directly in your browser. Users can give plain-English commands to count items, set scale, and generate bill-of-quantities sheets for faster, collaborative estimating. That is the core of what ContractorCounter does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ContractorCounter free?
     a: ContractorCounter uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $10/mo, check the official website — pricing changes often.
   - q: What can you do with ContractorCounter?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like ContractorCounte
 
 ## What is ContractorCounter?
 
-ContractorCounter is an AI-powered construction takeoff tool that lets you measure and markup PDF drawings directly in your browser. Users can give plain-English commands to count items, set scale, and generate bill-of-quantities sheets for faster, collaborative estimating. Construction Management Free trial - $10/mo
-
+ContractorCounter is an AI-powered construction takeoff tool that lets you measure and markup PDF drawings directly in your browser. Users can give plain-English commands to count items, set scale, and generate bill-of-quantities sheets for faster, collaborative estimating.
 In short, ContractorCounter is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. Many users find that this one ability of ContractorCounter removes several tasks from their daily routine.
 
 ## Key features

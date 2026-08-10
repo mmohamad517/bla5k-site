@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Superintelligent?
-    a: Superintelligent is an AI enablement platform that streamlines AI adoption within organizations, offering a Use Case Registry, collaborative knowledge-sharing, analytics insights on AI usage, and a hybrid AI-human assistant for personalized support. Business Free That is the core of what Superintelligent does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Superintelligent is an AI enablement platform that streamlines AI adoption within organizations, offering a Use Case Registry, collaborative knowledge-sharing, analytics insights on AI usage, and a hybrid AI-human assistant for personalized support. That is the core of what Superintelligent does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Superintelligent free?
     a: Yes — Superintelligent is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Superintelligent?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Superintell
 
 ## What is Superintelligent?
 
-Superintelligent is an AI enablement platform that streamlines AI adoption within organizations, offering a Use Case Registry, collaborative knowledge-sharing, analytics insights on AI usage, and a hybrid AI-human assistant for personalized support. Business Free
-
+Superintelligent is an AI enablement platform that streamlines AI adoption within organizations, offering a Use Case Registry, collaborative knowledge-sharing, analytics insights on AI usage, and a hybrid AI-human assistant for personalized support.
 In short, Superintelligent is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. That single feature of Superintelligent alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

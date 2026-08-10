@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Lyzr AI?
-    a: Lyzr is an AI agent platform for rapid deployment of agents in banking, insurance, HR, marketing, sales, and support. It provides secure private runtime, audit trails, and an intuitive Agent Studio that builds agents using integrated knowledge graphs and bases.  That is the core of what Lyzr AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Lyzr is an AI agent platform for rapid deployment of agents in banking, insurance, HR, marketing, sales, and support. It provides secure private runtime, audit trails, and an intuitive Agent Studio that builds agents using integrated knowledge graphs and bases. That is the core of what Lyzr AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Lyzr AI free?
     a: Lyzr AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Lyzr AI?

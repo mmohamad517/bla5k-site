@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Buda AI?
-    a: Buda AI is a cloud-native workspace where teams build, run, and coordinate specialized AI agents for coding, sales, marketing, and operations. It centralizes agent-driven workflows with automation, integrations, and a marketplace to reduce manual handoffs and scale routine tasks. AI Agents Free trial That is the core of what Buda AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Buda AI is a cloud-native workspace where teams build, run, and coordinate specialized AI agents for coding, sales, marketing, and operations. It centralizes agent-driven workflows with automation, integrations, and a marketplace to reduce manual handoffs and scale routine tasks. That is the core of what Buda AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Buda AI free?
     a: Buda AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Buda AI?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Buda AI earn the
 
 ## What is Buda AI?
 
-Buda AI is a cloud-native workspace where teams build, run, and coordinate specialized AI agents for coding, sales, marketing, and operations. It centralizes agent-driven workflows with automation, integrations, and a marketplace to reduce manual handoffs and scale routine tasks. AI Agents Free trial
-
+Buda AI is a cloud-native workspace where teams build, run, and coordinate specialized AI agents for coding, sales, marketing, and operations. It centralizes agent-driven workflows with automation, integrations, and a marketplace to reduce manual handoffs and scale routine tasks.
 In short, Buda AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That single feature of Buda AI alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

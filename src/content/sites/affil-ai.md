@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Affil.ai?
-    a: Affil.ai is an AI‑powered platform that continuously scans affiliate and third‑party web content to detect brand or regulatory violations. It tracks changes in real time, alerts teams, and automates communication, keeping messaging consistent and compliant. Marketing Freemium That is the core of what Affil.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Affil.ai is an AI‑powered platform that continuously scans affiliate and third‑party web content to detect brand or regulatory violations. It tracks changes in real time, alerts teams, and automates communication, keeping messaging consistent and compliant. That is the core of what Affil.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Affil.ai free?
     a: Affil.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Affil.ai?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Affil.ai ea
 
 ## What is Affil.ai?
 
-Affil.ai is an AI‑powered platform that continuously scans affiliate and third‑party web content to detect brand or regulatory violations. It tracks changes in real time, alerts teams, and automates communication, keeping messaging consistent and compliant. Marketing Freemium
-
+Affil.ai is an AI‑powered platform that continuously scans affiliate and third‑party web content to detect brand or regulatory violations. It tracks changes in real time, alerts teams, and automates communication, keeping messaging consistent and compliant.
 In short, Affil.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That single feature of Affil.ai alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

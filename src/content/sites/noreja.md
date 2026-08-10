@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Noreja?
-    a: Noreja is a generative process intelligence platform that ingests data without event logs for faster integration and real-time analytics. It provides deep-process analysis, root-cause identification, and AI-driven recommendations through tools like Minerva and an open, customizable Builder. Workflow Automation Freemium That is the core of what Noreja does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Noreja is a generative process intelligence platform that ingests data without event logs for faster integration and real-time analytics. It provides deep-process analysis, root-cause identification, and AI-driven recommendations through tools like Minerva and an open, customizable Builder. That is the core of what Noreja does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Noreja free?
     a: Noreja uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Noreja?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Noreja?
 
-Noreja is a generative process intelligence platform that ingests data without event logs for faster integration and real-time analytics. It provides deep-process analysis, root-cause identification, and AI-driven recommendations through tools like Minerva and an open, customizable Builder. Workflow Automation Freemium
-
+Noreja is a generative process intelligence platform that ingests data without event logs for faster integration and real-time analytics. It provides deep-process analysis, root-cause identification, and AI-driven recommendations through tools like Minerva and an open, customizable Builder.
 In short, Noreja is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. That one capability of Noreja frequently saves users from juggling several separate steps.
 
 ## Key features

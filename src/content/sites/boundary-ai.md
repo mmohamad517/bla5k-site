@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Boundary AI?
-    a: BAML is a structured text generation tool that improves data processing for developers by correcting common JSON issues, supporting dynamic prompts, and optimizing code generation and testing with various language models across Python and TypeScript. Code assistant Subscription That is the core of what Boundary AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: BAML is a structured text generation tool that improves data processing for developers by correcting common JSON issues, supporting dynamic prompts, and optimizing code generation and testing with various language models across Python and TypeScript. That is the core of what Boundary AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Boundary AI free?
     a: Boundary AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Boundary AI?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Boundary AI?
 
-BAML is a structured text generation tool that improves data processing for developers by correcting common JSON issues, supporting dynamic prompts, and optimizing code generation and testing with various language models across Python and TypeScript. Code assistant Subscription
-
+BAML is a structured text generation tool that improves data processing for developers by correcting common JSON issues, supporting dynamic prompts, and optimizing code generation and testing with various language models across Python and TypeScript.
 In short, Boundary AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For a lot of people, that one function of Boundary AI collapses multiple steps into a single action.
 
 ## Key features

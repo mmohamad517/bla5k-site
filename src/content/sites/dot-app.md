@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Dot App?
-    a: Dot runs the Mistral 7B LLM locally, letting users upload documents and chat offline. All data stays on the device, providing secure, low‑latency Q&A and contextual conversation for researchers, writers, and professionals. Document management Paid That is the core of what Dot App does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Dot runs the Mistral 7B LLM locally, letting users upload documents and chat offline. All data stays on the device, providing secure, low‑latency Q&A and contextual conversation for researchers, writers, and professionals. That is the core of what Dot App does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Dot App free?
     a: Dot App is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Dot App?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Dot App?
 
-Dot runs the Mistral 7B LLM locally, letting users upload documents and chat offline. All data stays on the device, providing secure, low‑latency Q&A and contextual conversation for researchers, writers, and professionals. Document management Paid
-
+Dot runs the Mistral 7B LLM locally, letting users upload documents and chat offline. All data stays on the device, providing secure, low‑latency Q&A and contextual conversation for researchers, writers, and professionals.
 In short, Dot App is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. That single feature of Dot App alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

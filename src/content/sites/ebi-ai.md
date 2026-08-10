@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ebi.Ai?
-    a: EBI AI is a cloud platform that lets businesses build, launch, and manage AI assistants via drag‑and‑drop. It includes NLP, human oversight, connectors to Zapier and Zendesk, and offers API access for automation to reduce call volumes and extend support hours.  That is the core of what Ebi.Ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: EBI AI is a cloud platform that lets businesses build, launch, and manage AI assistants via drag‑and‑drop. It includes NLP, human oversight, connectors to Zapier and Zendesk, and offers API access for automation to reduce call volumes and extend support hours. That is the core of what Ebi.Ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ebi.Ai free?
     a: Ebi.Ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Ebi.Ai?

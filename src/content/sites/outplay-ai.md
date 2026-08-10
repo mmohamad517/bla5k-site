@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Outplay AI?
-    a: Outplay is a sales engagement platform that centralizes multichannel outreach—email, phone, SMS, WhatsApp, video, and chat—with sequence automation, CRM integrations, a built-in dialer and conversation intelligence to streamline prospecting, follow-ups, and sales analytics. Sales Free trial - $3.25/mo That is the core of what Outplay AI does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Outplay is a sales engagement platform that centralizes multichannel outreach—email, phone, SMS, WhatsApp, video, and chat—with sequence automation, CRM integrations, a built-in dialer and conversation intelligence to streamline prospecting, follow-ups, and sales analytics. That is the core of what Outplay AI does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Outplay AI free?
     a: Outplay AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $3.25/mo, check the official website — pricing changes often.
   - q: What can you do with Outplay AI?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Outplay AI?
 
-Outplay is a sales engagement platform that centralizes multichannel outreach—email, phone, SMS, WhatsApp, video, and chat—with sequence automation, CRM integrations, a built-in dialer and conversation intelligence to streamline prospecting, follow-ups, and sales analytics. Sales Free trial - $3.25/mo
-
+Outplay is a sales engagement platform that centralizes multichannel outreach—email, phone, SMS, WhatsApp, video, and chat—with sequence automation, CRM integrations, a built-in dialer and conversation intelligence to streamline prospecting, follow-ups, and sales analytics.
 In short, Outplay AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. That one capability of Outplay AI frequently saves users from juggling several separate steps.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Wibe for creators?
-    a: Wibe is a community-first creator platform for building direct audience relationships, managing memberships, selling digital products and services, bundling content via a bio link, and using AI thread summaries, member messaging, analytics, payments, and moderation tools. Content creation Freemium That is the core of what Wibe for creators does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Wibe is a community-first creator platform for building direct audience relationships, managing memberships, selling digital products and services, bundling content via a bio link, and using AI thread summaries, member messaging, analytics, payments, and moderation tools. That is the core of what Wibe for creators does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Wibe for creators free?
     a: Wibe for creators uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Wibe for creators?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Wibe for creators?
 
-Wibe is a community-first creator platform for building direct audience relationships, managing memberships, selling digital products and services, bundling content via a bio link, and using AI thread summaries, member messaging, analytics, payments, and moderation tools. Content creation Freemium
-
+Wibe is a community-first creator platform for building direct audience relationships, managing memberships, selling digital products and services, bundling content via a bio link, and using AI thread summaries, member messaging, analytics, payments, and moderation tools.
 In short, Wibe for creators is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. Many users find that this one ability of Wibe for creators removes several tasks from their daily routine.
 
 ## Key features

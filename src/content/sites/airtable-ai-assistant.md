@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Airtable AI assistant?
-    a: Airtable Assistant is a no-code app-building platform that enhances workflows with AI, offering task automation, customizable visualizations, and reporting tools. It integrates with Slack and Google Drive, making it ideal for marketing, HR, and finance teams. App Builder Freemium That is the core of what Airtable AI assistant does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Airtable Assistant is a no-code app-building platform that enhances workflows with AI, offering task automation, customizable visualizations, and reporting tools. It integrates with Slack and Google Drive, making it ideal for marketing, HR, and finance teams. That is the core of what Airtable AI assistant does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Airtable AI assistant free?
     a: Airtable AI assistant uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Airtable AI assistant?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Airtable AI assistant?
 
-Airtable Assistant is a no-code app-building platform that enhances workflows with AI, offering task automation, customizable visualizations, and reporting tools. It integrates with Slack and Google Drive, making it ideal for marketing, HR, and finance teams. App Builder Freemium
-
+Airtable Assistant is a no-code app-building platform that enhances workflows with AI, offering task automation, customizable visualizations, and reporting tools. It integrates with Slack and Google Drive, making it ideal for marketing, HR, and finance teams.
 In short, Airtable AI assistant is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. That single feature of Airtable AI assistant alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

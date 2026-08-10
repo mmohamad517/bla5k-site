@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PennyFlo?
-    a: PennyFlo is an AI tool specifically designed for small businesses and freelancers, providing streamlined cash flow management through features like cash forecasting, cost control, and automated payments, catering to the financial needs of SMEs and startups. Billing Management Free That is the core of what PennyFlo does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: PennyFlo is an AI tool specifically designed for small businesses and freelancers, providing streamlined cash flow management through features like cash forecasting, cost control, and automated payments, catering to the financial needs of SMEs and startups. That is the core of what PennyFlo does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is PennyFlo free?
     a: Yes — PennyFlo is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with PennyFlo?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like PennyFlo earn th
 
 ## What is PennyFlo?
 
-PennyFlo is an AI tool specifically designed for small businesses and freelancers, providing streamlined cash flow management through features like cash forecasting, cost control, and automated payments, catering to the financial needs of SMEs and startups. Billing Management Free
-
+PennyFlo is an AI tool specifically designed for small businesses and freelancers, providing streamlined cash flow management through features like cash forecasting, cost control, and automated payments, catering to the financial needs of SMEs and startups.
 In short, PennyFlo is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For plenty of users, that one capability of PennyFlo replaces several steps they used to do by hand.
 
 ## Key features

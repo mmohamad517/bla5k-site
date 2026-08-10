@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SeeingAI?
-    a: Seeing AI is a mobile app that uses AI to give real‑time audio descriptions of text, photos, and documents to blind and low‑vision users. It identifies products, colors, and handwritten notes and warns of nearby obstacles, enabling independent daily tasks. Personal assistant Free That is the core of what SeeingAI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Seeing AI is a mobile app that uses AI to give real‑time audio descriptions of text, photos, and documents to blind and low‑vision users. It identifies products, colors, and handwritten notes and warns of nearby obstacles, enabling independent daily tasks. That is the core of what SeeingAI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SeeingAI free?
     a: Yes — SeeingAI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with SeeingAI?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Seeing
 
 ## What is SeeingAI?
 
-Seeing AI is a mobile app that uses AI to give real‑time audio descriptions of text, photos, and documents to blind and low‑vision users. It identifies products, colors, and handwritten notes and warns of nearby obstacles, enabling independent daily tasks. Personal assistant Free
-
+Seeing AI is a mobile app that uses AI to give real‑time audio descriptions of text, photos, and documents to blind and low‑vision users. It identifies products, colors, and handwritten notes and warns of nearby obstacles, enabling independent daily tasks.
 In short, SeeingAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That single feature of SeeingAI alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

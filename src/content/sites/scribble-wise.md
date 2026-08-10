@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Scribble Wise?
-    a: Scribblewise is an AI essay grading platform that learns a teacher’s rubric, automates scoring and feedback, and integrates with LMS like Canvas for direct submissions. It offers bulk grading while preserving teacher control for consistent, efficient assessment. AI Agents Free That is the core of what Scribble Wise does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Scribblewise is an AI essay grading platform that learns a teacher’s rubric, automates scoring and feedback, and integrates with LMS like Canvas for direct submissions. It offers bulk grading while preserving teacher control for consistent, efficient assessment. That is the core of what Scribble Wise does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Scribble Wise free?
     a: Yes — Scribble Wise is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Scribble Wise?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Scribble Wise?
 
-Scribblewise is an AI essay grading platform that learns a teacher’s rubric, automates scoring and feedback, and integrates with LMS like Canvas for direct submissions. It offers bulk grading while preserving teacher control for consistent, efficient assessment. AI Agents Free
-
+Scribblewise is an AI essay grading platform that learns a teacher’s rubric, automates scoring and feedback, and integrates with LMS like Canvas for direct submissions. It offers bulk grading while preserving teacher control for consistent, efficient assessment.
 In short, Scribble Wise is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That one capability of Scribble Wise frequently saves users from juggling several separate steps.
 
 ## Key features

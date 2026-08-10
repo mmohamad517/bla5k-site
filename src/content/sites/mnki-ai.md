@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MNKI AI?
-    a: mnki.ai is a browser-based AI rendering studio that transforms sketches, floor plans, and 3D wireframes into photorealistic 4K visuals, with tools for 2D-to-3D conversion, inpainting, and real-time team collaboration.  That is the core of what MNKI AI does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: mnki.ai is a browser-based AI rendering studio that transforms sketches, floor plans, and 3D wireframes into photorealistic 4K visuals, with tools for 2D-to-3D conversion, inpainting, and real-time team collaboration. That is the core of what MNKI AI does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MNKI AI free?
     a: MNKI AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $28.9/mo, check the official website — pricing changes often.
   - q: What can you do with MNKI AI?

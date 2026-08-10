@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ghostwriter Express?
-    a: Ghostwriter Express is an AI‑driven platform that turns ideas into nonfiction books, offering modular tools for topic, title, TOC, chapters, blurbs, and branding. It lets users shape tone, keep ownership, and learn with tutorials. Book writer Freemium That is the core of what Ghostwriter Express does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ghostwriter Express is an AI‑driven platform that turns ideas into nonfiction books, offering modular tools for topic, title, TOC, chapters, blurbs, and branding. It lets users shape tone, keep ownership, and learn with tutorials. That is the core of what Ghostwriter Express does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ghostwriter Express free?
     a: Ghostwriter Express uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Ghostwriter Express?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Ghostw
 
 ## What is Ghostwriter Express?
 
-Ghostwriter Express is an AI‑driven platform that turns ideas into nonfiction books, offering modular tools for topic, title, TOC, chapters, blurbs, and branding. It lets users shape tone, keep ownership, and learn with tutorials. Book writer Freemium
-
+Ghostwriter Express is an AI‑driven platform that turns ideas into nonfiction books, offering modular tools for topic, title, TOC, chapters, blurbs, and branding. It lets users shape tone, keep ownership, and learn with tutorials.
 In short, Ghostwriter Express is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. That one feature of Ghostwriter Express often eliminates several smaller steps from the usual workflow.
 
 ## Key features

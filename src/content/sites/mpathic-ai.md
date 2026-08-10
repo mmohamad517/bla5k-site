@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is mpathic.ai?
-    a: mpathic AI provides end‑to‑end safety evaluation for AI models, covering policy creation, red‑team testing, and live monitoring. It connects to domain experts, supplies annotated datasets, and delivers risk detection and actionable insights via Observing Agents and Studio. AI Agents Freemium That is the core of what mpathic.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: mpathic AI provides end‑to‑end safety evaluation for AI models, covering policy creation, red‑team testing, and live monitoring. It connects to domain experts, supplies annotated datasets, and delivers risk detection and actionable insights via Observing Agents and Studio. That is the core of what mpathic.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is mpathic.ai free?
     a: mpathic.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with mpathic.ai?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is mpathic.ai?
 
-mpathic AI provides end‑to‑end safety evaluation for AI models, covering policy creation, red‑team testing, and live monitoring. It connects to domain experts, supplies annotated datasets, and delivers risk detection and actionable insights via Observing Agents and Studio. AI Agents Freemium
-
+mpathic AI provides end‑to‑end safety evaluation for AI models, covering policy creation, red‑team testing, and live monitoring. It connects to domain experts, supplies annotated datasets, and delivers risk detection and actionable insights via Observing Agents and Studio.
 In short, mpathic.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For plenty of users, that one capability of mpathic.ai replaces several steps they used to do by hand.
 
 ## Key features

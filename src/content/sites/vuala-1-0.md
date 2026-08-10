@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Vuala 1.0?
-    a: Vuala automates invoice capture by extracting documents from email and 7,000 supplier portals, routing them to accounting platforms such as QuickBooks, Xero, and Hubdoc. It centralizes invoices in a single dashboard, improving data consistency and workflow efficiency.  That is the core of what Vuala 1.0 does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Vuala automates invoice capture by extracting documents from email and 7,000 supplier portals, routing them to accounting platforms such as QuickBooks, Xero, and Hubdoc. It centralizes invoices in a single dashboard, improving data consistency and workflow efficiency. That is the core of what Vuala 1.0 does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Vuala 1.0 free?
     a: Vuala 1.0 uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Vuala 1.0?

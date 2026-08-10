@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Marketplan?
-    a: The All In One Marketing Platform provides comprehensive tools for marketing teams to manage and track their plans and campaigns on multiple platforms, while collaborating with team members. Marketing Freemium - $3.5/mo That is the core of what Marketplan does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: The All In One Marketing Platform provides comprehensive tools for marketing teams to manage and track their plans and campaigns on multiple platforms, while collaborating with team members. That is the core of what Marketplan does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Marketplan free?
     a: Marketplan uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $3.5/mo, check the official website — pricing changes often.
   - q: What can you do with Marketplan?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Market
 
 ## What is Marketplan?
 
-The All In One Marketing Platform provides comprehensive tools for marketing teams to manage and track their plans and campaigns on multiple platforms, while collaborating with team members. Marketing Freemium - $3.5/mo
-
+The All In One Marketing Platform provides comprehensive tools for marketing teams to manage and track their plans and campaigns on multiple platforms, while collaborating with team members.
 In short, Marketplan is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. Many users discover that this feature of Marketplan alone covers what previously took multiple tools.
 
 ## Key features

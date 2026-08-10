@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Effy?
-    a: Effy AI unifies 360° reviews, OKR tracking, and goal setting into one workflow. It gathers feedback, generates AI insights on strengths and gaps, and lets managers monitor progress. Slack and API integration streamline data exchange, cutting admin time. Human resources Freemium That is the core of what Effy does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Effy AI unifies 360° reviews, OKR tracking, and goal setting into one workflow. It gathers feedback, generates AI insights on strengths and gaps, and lets managers monitor progress. Slack and API integration streamline data exchange, cutting admin time. That is the core of what Effy does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Effy free?
     a: Effy uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Effy?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Effy matter
 
 ## What is Effy?
 
-Effy AI unifies 360° reviews, OKR tracking, and goal setting into one workflow. It gathers feedback, generates AI insights on strengths and gaps, and lets managers monitor progress. Slack and API integration streamline data exchange, cutting admin time. Human resources Freemium
-
+Effy AI unifies 360° reviews, OKR tracking, and goal setting into one workflow. It gathers feedback, generates AI insights on strengths and gaps, and lets managers monitor progress. Slack and API integration streamline data exchange, cutting admin time.
 In short, Effy is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. For plenty of users, that one capability of Effy replaces several steps they used to do by hand.
 
 ## Key features

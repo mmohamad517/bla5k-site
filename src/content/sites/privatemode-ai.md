@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Privatemode AI?
-    a: Privatemode AI is a privacy-first AI assistant and inference API that ensures user data remains encrypted at all times, even during processing. Leveraging confidential computing, it provides end-to-end encryption and a zero-trust architecture for maximum security.  That is the core of what Privatemode AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Privatemode AI is a privacy-first AI assistant and inference API that ensures user data remains encrypted at all times, even during processing. Leveraging confidential computing, it provides end-to-end encryption and a zero-trust architecture for maximum security. That is the core of what Privatemode AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Privatemode AI free?
     a: Privatemode AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Privatemode AI?

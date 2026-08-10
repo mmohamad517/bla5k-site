@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TeamStation AI?
-    a: TeamStation AI delivers real‑time engineering capacity and health telemetry to executive dashboards, automates onboarding, payroll, and benefits, secures corporate devices, and matches talent from 2.6 million LATAM profiles using AI.  That is the core of what TeamStation AI does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: TeamStation AI delivers real‑time engineering capacity and health telemetry to executive dashboards, automates onboarding, payroll, and benefits, secures corporate devices, and matches talent from 2.6 million LATAM profiles using AI. That is the core of what TeamStation AI does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TeamStation AI free?
     a: TeamStation AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with TeamStation AI?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PlusGO?
-    a: "Chinese-language guide for ChatGPT Plus recharge and usage: step-by-step payment and subscription management.  That is the core of what PlusGO does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "Chinese-language guide for ChatGPT Plus recharge and usage: step-by-step payment and subscription management. That is the core of what PlusGO does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is PlusGO free?
     a: PlusGO is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with PlusGO?

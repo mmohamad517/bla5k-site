@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TeraBox AI?
-    a: TeraBox’s offers Tera AI Assistant, streamline productivity by providing instant answers, automating presentation creation, generating content, and paraphrasing text with advanced AI algorithms.  That is the core of what TeraBox AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: TeraBox’s offers Tera AI Assistant, streamline productivity by providing instant answers, automating presentation creation, generating content, and paraphrasing text with advanced AI algorithms. That is the core of what TeraBox AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TeraBox AI free?
     a: TeraBox AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with TeraBox AI?

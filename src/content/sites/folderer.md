@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Folderer?
-    a: Folderer is an AI code‑generation platform that integrates with GitHub, automatically committing code that matches existing style and best practices. Developers can request, iterate, and deploy components for frameworks like React and Next.js while maintaining a clean commit history. Code assistant Free That is the core of what Folderer does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Folderer is an AI code‑generation platform that integrates with GitHub, automatically committing code that matches existing style and best practices. Developers can request, iterate, and deploy components for frameworks like React and Next.js while maintaining a clean commit history. That is the core of what Folderer does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Folderer free?
     a: Yes — Folderer is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Folderer?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Folder
 
 ## What is Folderer?
 
-Folderer is an AI code‑generation platform that integrates with GitHub, automatically committing code that matches existing style and best practices. Developers can request, iterate, and deploy components for frameworks like React and Next.js while maintaining a clean commit history. Code assistant Free
-
+Folderer is an AI code‑generation platform that integrates with GitHub, automatically committing code that matches existing style and best practices. Developers can request, iterate, and deploy components for frameworks like React and Next.js while maintaining a clean commit history.
 In short, Folderer is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of Folderer replaces several steps they used to do by hand.
 
 ## Key features

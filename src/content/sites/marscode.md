@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MarsCode?
-    a: Trae is an AI‑assisted coding extension for VSCode and JetBrains IDEs that offers real‑time code completion, comment‑to‑code generation, automated unit test creation, bug fixing, code explanations, documentation, and context‑aware Q&A across 100+ languages.  That is the core of what MarsCode does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Trae is an AI‑assisted coding extension for VSCode and JetBrains IDEs that offers real‑time code completion, comment‑to‑code generation, automated unit test creation, bug fixing, code explanations, documentation, and context‑aware Q&A across 100+ languages. That is the core of what MarsCode does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MarsCode free?
     a: MarsCode uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with MarsCode?

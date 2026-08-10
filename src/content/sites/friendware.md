@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Friendware?
-    a: Friendware is a macOS AI assistant offering tab-to-complete suggestions and in-app, context-aware replies. It rewrites and composes messages from local app context in real time, supporting 100+ languages and team features like SSO and admin controls. Code assistant Subscription That is the core of what Friendware does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Friendware is a macOS AI assistant offering tab-to-complete suggestions and in-app, context-aware replies. It rewrites and composes messages from local app context in real time, supporting 100+ languages and team features like SSO and admin controls. That is the core of what Friendware does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Friendware free?
     a: Friendware is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Friendware?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Friendware?
 
-Friendware is a macOS AI assistant offering tab-to-complete suggestions and in-app, context-aware replies. It rewrites and composes messages from local app context in real time, supporting 100+ languages and team features like SSO and admin controls. Code assistant Subscription
-
+Friendware is a macOS AI assistant offering tab-to-complete suggestions and in-app, context-aware replies. It rewrites and composes messages from local app context in real time, supporting 100+ languages and team features like SSO and admin controls.
 In short, Friendware is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one capability of Friendware frequently saves users from juggling several separate steps.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Zikhara AI?
-    a: Zikhara AI turns a single product image into a full Amazon‑ready listing—images, A+ content, and compliant copy—by analyzing existing listings for gaps, auto‑generating targeted content, and letting sellers edit every element.  That is the core of what Zikhara AI does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Zikhara AI turns a single product image into a full Amazon‑ready listing—images, A+ content, and compliant copy—by analyzing existing listings for gaps, auto‑generating targeted content, and letting sellers edit every element. That is the core of what Zikhara AI does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Zikhara AI free?
     a: Zikhara AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Zikhara AI?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Chat KJV?
-    a: ChatKJV is a chat interface for the King James Bible that returns contextually relevant passages, offers natural-language scripture search, verse lookup, devotional prompts, and personalized recommendations; includes church-focused features for sermon preparation, group engagement, and SSO. Chat Freemium That is the core of what Chat KJV does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ChatKJV is a chat interface for the King James Bible that returns contextually relevant passages, offers natural-language scripture search, verse lookup, devotional prompts, and personalized recommendations; includes church-focused features for sermon preparation, group engagement, and SSO. That is the core of what Chat KJV does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Chat KJV free?
     a: Chat KJV uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Chat KJV?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Chat K
 
 ## What is Chat KJV?
 
-ChatKJV is a chat interface for the King James Bible that returns contextually relevant passages, offers natural-language scripture search, verse lookup, devotional prompts, and personalized recommendations; includes church-focused features for sermon preparation, group engagement, and SSO. Chat Freemium
-
+ChatKJV is a chat interface for the King James Bible that returns contextually relevant passages, offers natural-language scripture search, verse lookup, devotional prompts, and personalized recommendations; includes church-focused features for sermon preparation, group engagement, and SSO.
 In short, Chat KJV is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. Many users find that this one ability of Chat KJV removes several tasks from their daily routine.
 
 ## Key features

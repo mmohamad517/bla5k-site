@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI detect?
-    a: AI Content Detector evaluates text for AI authorship, handling uploads up to 4 MB or pasted input. It returns a detection score, readability rating, and grade assessment, comparing against models such as ChatGPT, Gemini, Claude, and LLaMA. Useful for researchers, educators, and publishers to verify authenticity. AI detection Paid - $9.99 That is the core of what AI detect does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Content Detector evaluates text for AI authorship, handling uploads up to 4 MB or pasted input. It returns a detection score, readability rating, and grade assessment, comparing against models such as ChatGPT, Gemini, Claude, and LLaMA. Useful for researchers, educators, and publishers to verify authenticity. That is the core of what AI detect does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI detect free?
     a: AI detect is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with AI detect?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like AI detect earn t
 
 ## What is AI detect?
 
-AI Content Detector evaluates text for AI authorship, handling uploads up to 4 MB or pasted input. It returns a detection score, readability rating, and grade assessment, comparing against models such as ChatGPT, Gemini, Claude, and LLaMA. Useful for researchers, educators, and publishers to verify authenticity. AI detection Paid - $9.99
-
+AI Content Detector evaluates text for AI authorship, handling uploads up to 4 MB or pasted input. It returns a detection score, readability rating, and grade assessment, comparing against models such as ChatGPT, Gemini, Claude, and LLaMA. Useful for researchers, educators, and publishers to verify authenticity.
 In short, AI detect is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. Many users find that this one ability of AI detect removes several tasks from their daily routine.
 
 ## Key features

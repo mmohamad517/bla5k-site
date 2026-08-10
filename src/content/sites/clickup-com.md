@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Clickup?
-    a: ClickUp is a work-management platform that unifies project planning, AI agents, time tracking, docs, whiteboards and team chat. Its AI automates task assignment, progress tracking, issue triage and content drafting while offering views, automations and integrations.  That is the core of what Clickup does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ClickUp is a work-management platform that unifies project planning, AI agents, time tracking, docs, whiteboards and team chat. Its AI automates task assignment, progress tracking, issue triage and content drafting while offering views, automations and integrations. That is the core of what Clickup does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Clickup free?
     a: Clickup uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9/mo, check the official website — pricing changes often.
   - q: What can you do with Clickup?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Datavise?
-    a: Datavise provides generative AI, RAG and LLM integration with AI agents for automated workflows, combined with data architecture, governance and cloud AI infrastructure, BI visualization and compliance support to accelerate model deployment and data-driven decision-making. AI Agents Freemium That is the core of what Datavise does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Datavise provides generative AI, RAG and LLM integration with AI agents for automated workflows, combined with data architecture, governance and cloud AI infrastructure, BI visualization and compliance support to accelerate model deployment and data-driven decision-making. That is the core of what Datavise does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Datavise free?
     a: Datavise uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Datavise?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Datavise?
 
-Datavise provides generative AI, RAG and LLM integration with AI agents for automated workflows, combined with data architecture, governance and cloud AI infrastructure, BI visualization and compliance support to accelerate model deployment and data-driven decision-making. AI Agents Freemium
-
+Datavise provides generative AI, RAG and LLM integration with AI agents for automated workflows, combined with data architecture, governance and cloud AI infrastructure, BI visualization and compliance support to accelerate model deployment and data-driven decision-making.
 In short, Datavise is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users find that this one ability of Datavise removes several tasks from their daily routine.
 
 ## Key features

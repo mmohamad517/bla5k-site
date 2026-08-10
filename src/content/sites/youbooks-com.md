@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Youbooks.com?
-    a: Youbooks transforms uploaded PDFs, DOCX, TXT, or transcripts into structured non‑fiction chapters, augments them with web research, allows voice training from 20–200k words, and uses multiple LLMs for ideation, drafting, and export in DOCX, EPUB, Markdown, or RTF.  That is the core of what Youbooks.com does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Youbooks transforms uploaded PDFs, DOCX, TXT, or transcripts into structured non‑fiction chapters, augments them with web research, allows voice training from 20–200k words, and uses multiple LLMs for ideation, drafting, and export in DOCX, EPUB, Markdown, or RTF. That is the core of what Youbooks.com does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Youbooks.com free?
     a: Youbooks.com is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Youbooks.com?

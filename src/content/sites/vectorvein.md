@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is VectorVein?
-    a: VectorVein is an enterprise task‑agent platform for building custom agents, reusable workflows, and multi‑agent systems. It offers templates, API/database connectors, model switching, load‑balancing managers, secure role‑based controls, and RESTful integration for data automation and analysis. AI Agents Free trial That is the core of what VectorVein does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: VectorVein is an enterprise task‑agent platform for building custom agents, reusable workflows, and multi‑agent systems. It offers templates, API/database connectors, model switching, load‑balancing managers, secure role‑based controls, and RESTful integration for data automation and analysis. That is the core of what VectorVein does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is VectorVein free?
     a: VectorVein uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with VectorVein?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is VectorVein?
 
-VectorVein is an enterprise task‑agent platform for building custom agents, reusable workflows, and multi‑agent systems. It offers templates, API/database connectors, model switching, load‑balancing managers, secure role‑based controls, and RESTful integration for data automation and analysis. AI Agents Free trial
-
+VectorVein is an enterprise task‑agent platform for building custom agents, reusable workflows, and multi‑agent systems. It offers templates, API/database connectors, model switching, load‑balancing managers, secure role‑based controls, and RESTful integration for data automation and analysis.
 In short, VectorVein is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That one capability of VectorVein frequently saves users from juggling several separate steps.
 
 ## Key features

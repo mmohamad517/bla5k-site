@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is BookBud.ai?
-    a: BookBud.ai lets self‑published authors generate, edit, and publish fiction and non‑fiction in ebook, print, and audiobook formats. It supports 10 languages, adds images, manages APA references, auto‑creates covers, and offers AI narration for cloned voices.  That is the core of what BookBud.ai does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: BookBud.ai lets self‑published authors generate, edit, and publish fiction and non‑fiction in ebook, print, and audiobook formats. It supports 10 languages, adds images, manages APA references, auto‑creates covers, and offers AI narration for cloned voices. That is the core of what BookBud.ai does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is BookBud.ai free?
     a: BookBud.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with BookBud.ai?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Music Prompt Generator?
-    a: Suno Prompt is an AI tool that generates song styles and lyrics in multiple languages. Users choose theme, melody, harmony, rhythm, structure, instrumentation, mood, dynamics, production and vocal arrangement or random options. Suno metatags describe genre and sonic traits for iteration. AI Assistant Freemium That is the core of what Music Prompt Generator does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Suno Prompt is an AI tool that generates song styles and lyrics in multiple languages. Users choose theme, melody, harmony, rhythm, structure, instrumentation, mood, dynamics, production and vocal arrangement or random options. Suno metatags describe genre and sonic traits for iteration. That is the core of what Music Prompt Generator does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Music Prompt Generator free?
     a: Music Prompt Generator uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Music Prompt Generator?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Music Promp
 
 ## What is Music Prompt Generator?
 
-Suno Prompt is an AI tool that generates song styles and lyrics in multiple languages. Users choose theme, melody, harmony, rhythm, structure, instrumentation, mood, dynamics, production and vocal arrangement or random options. Suno metatags describe genre and sonic traits for iteration. AI Assistant Freemium
-
+Suno Prompt is an AI tool that generates song styles and lyrics in multiple languages. Users choose theme, melody, harmony, rhythm, structure, instrumentation, mood, dynamics, production and vocal arrangement or random options. Suno metatags describe genre and sonic traits for iteration.
 In short, Music Prompt Generator is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of Music Prompt Generator replaces several steps they used to do by hand.
 
 ## Key features

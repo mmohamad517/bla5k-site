@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is The Lastly?
-    a: Listly AI quickly generates accurate real‑estate descriptions from property details and photos. It offers SEO‑friendly drafts, iterative refinement, error correction, and supports multiple listings and images, cutting copywriting time for agents. Copywriting Subscription That is the core of what The Lastly does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Listly AI quickly generates accurate real‑estate descriptions from property details and photos. It offers SEO‑friendly drafts, iterative refinement, error correction, and supports multiple listings and images, cutting copywriting time for agents. That is the core of what The Lastly does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is The Lastly free?
     a: The Lastly is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with The Lastly?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is The Lastly?
 
-Listly AI quickly generates accurate real‑estate descriptions from property details and photos. It offers SEO‑friendly drafts, iterative refinement, error correction, and supports multiple listings and images, cutting copywriting time for agents. Copywriting Subscription
-
+Listly AI quickly generates accurate real‑estate descriptions from property details and photos. It offers SEO‑friendly drafts, iterative refinement, error correction, and supports multiple listings and images, cutting copywriting time for agents.
 In short, The Lastly is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. For a lot of people, that one function of The Lastly collapses multiple steps into a single action.
 
 ## Key features

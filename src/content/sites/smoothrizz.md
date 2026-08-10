@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SmoothRizz?
-    a: Smoothrizz is a messaging enhancement tool that provides guided conversation frameworks, effective strategies, and a library of conversation starters. It helps users improve communication skills for better connections in various personal and professional scenarios. Coaching Free That is the core of what SmoothRizz does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Smoothrizz is a messaging enhancement tool that provides guided conversation frameworks, effective strategies, and a library of conversation starters. It helps users improve communication skills for better connections in various personal and professional scenarios. That is the core of what SmoothRizz does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SmoothRizz free?
     a: Yes — SmoothRizz is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with SmoothRizz?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is SmoothRizz?
 
-Smoothrizz is a messaging enhancement tool that provides guided conversation frameworks, effective strategies, and a library of conversation starters. It helps users improve communication skills for better connections in various personal and professional scenarios. Coaching Free
-
+Smoothrizz is a messaging enhancement tool that provides guided conversation frameworks, effective strategies, and a library of conversation starters. It helps users improve communication skills for better connections in various personal and professional scenarios.
 In short, SmoothRizz is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. For many, that single strength of SmoothRizz is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

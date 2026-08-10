@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Prodtimize?
-    a: Prodtimize converts raw product data and spec sheets into marketplace-specific titles, descriptions, search terms and technical copy for Amazon, Shopify, eBay and Etsy, with bulk import/export, spec parsing, image analysis, auditing, catalog management and multi-client dashboards.  That is the core of what Prodtimize does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Prodtimize converts raw product data and spec sheets into marketplace-specific titles, descriptions, search terms and technical copy for Amazon, Shopify, eBay and Etsy, with bulk import/export, spec parsing, image analysis, auditing, catalog management and multi-client dashboards. That is the core of what Prodtimize does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Prodtimize free?
     a: Prodtimize uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $19/mo, check the official website — pricing changes often.
   - q: What can you do with Prodtimize?

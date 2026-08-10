@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Witlly?
-    a: Witlly is an all-in-one AI platform that assists with content creation, image generation, coding support, and includes features like real-time web search, speech-to-text transcription, and a voiceover tool, streamlining workflows for marketers and content creators. Content creation Free trial That is the core of what Witlly does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Witlly is an all-in-one AI platform that assists with content creation, image generation, coding support, and includes features like real-time web search, speech-to-text transcription, and a voiceover tool, streamlining workflows for marketers and content creators. That is the core of what Witlly does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Witlly free?
     a: Witlly uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Witlly?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Witlly earn
 
 ## What is Witlly?
 
-Witlly is an all-in-one AI platform that assists with content creation, image generation, coding support, and includes features like real-time web search, speech-to-text transcription, and a voiceover tool, streamlining workflows for marketers and content creators. Content creation Free trial
-
+Witlly is an all-in-one AI platform that assists with content creation, image generation, coding support, and includes features like real-time web search, speech-to-text transcription, and a voiceover tool, streamlining workflows for marketers and content creators.
 In short, Witlly is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For a lot of people, that one function of Witlly collapses multiple steps into a single action.
 
 ## Key features

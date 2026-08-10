@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: "What is HiCall: AI Call Assistant?"
-    a: "Hicall is an AI call assistant that manages missed calls, blocks spam, and filters robotic callers. It records key information and provides text summaries, enhancing communication efficiency and privacy while reducing nuisance calls. Communication Automation Free That is the core of what HiCall: AI Call Assistant does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "Hicall is an AI call assistant that manages missed calls, blocks spam, and filters robotic callers. It records key information and provides text summaries, enhancing communication efficiency and privacy while reducing nuisance calls. That is the core of what HiCall: AI Call Assistant does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: "Is HiCall: AI Call Assistant free?"
     a: "Yes — HiCall: AI Call Assistant is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers."
   - q: "What can you do with HiCall: AI Call Assistant?"
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like HiCall: AI Call 
 
 ## What is HiCall: AI Call Assistant?
 
-Hicall is an AI call assistant that manages missed calls, blocks spam, and filters robotic callers. It records key information and provides text summaries, enhancing communication efficiency and privacy while reducing nuisance calls. Communication Automation Free
-
+Hicall is an AI call assistant that manages missed calls, blocks spam, and filters robotic callers. It records key information and provides text summaries, enhancing communication efficiency and privacy while reducing nuisance calls.
 In short, HiCall: AI Call Assistant is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. That single feature of HiCall: AI Call Assistant alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Liars.AI?
-    a: Liars.ai analyzes uploaded videos to detect potential deception by evaluating facial expressions, body language, and vocal tones. It provides quick, understandable summaries, prioritizing user privacy and secure data management. AI Agents Freemium That is the core of what Liars.AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Liars.ai analyzes uploaded videos to detect potential deception by evaluating facial expressions, body language, and vocal tones. It provides quick, understandable summaries, prioritizing user privacy and secure data management. That is the core of what Liars.AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Liars.AI free?
     a: Liars.AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Liars.AI?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Liars.AI ma
 
 ## What is Liars.AI?
 
-Liars.ai analyzes uploaded videos to detect potential deception by evaluating facial expressions, body language, and vocal tones. It provides quick, understandable summaries, prioritizing user privacy and secure data management. AI Agents Freemium
-
+Liars.ai analyzes uploaded videos to detect potential deception by evaluating facial expressions, body language, and vocal tones. It provides quick, understandable summaries, prioritizing user privacy and secure data management.
 In short, Liars.AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users discover that this feature of Liars.AI alone covers what previously took multiple tools.
 
 ## Key features

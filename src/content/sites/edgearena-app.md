@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Edge Arena?
-    a: Edge Arena is a decision-testing platform that runs competing AI agents to pressure-test business choices and produce ranked, actionable execution plans. It compares strategies across pricing, demand, channels, and risk, scoring options to deliver clear next actions.  That is the core of what Edge Arena does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Edge Arena is a decision-testing platform that runs competing AI agents to pressure-test business choices and produce ranked, actionable execution plans. It compares strategies across pricing, demand, channels, and risk, scoring options to deliver clear next actions. That is the core of what Edge Arena does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Edge Arena free?
     a: Edge Arena uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $12/mo, check the official website — pricing changes often.
   - q: What can you do with Edge Arena?

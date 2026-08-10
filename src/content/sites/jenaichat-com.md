@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is JenAI Chat?
-    a: JenAI Chat is an Android AI chat app that connects to GPT-3.5/4/4o and Gemini Pro for conversational and document tasks, offering bidirectional voice, Android Auto, customizable one‑tap commands, tap‑to‑stop responses, tutoring, math help, games, and email-ready composition. Chat Subscription That is the core of what JenAI Chat does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: JenAI Chat is an Android AI chat app that connects to GPT-3.5/4/4o and Gemini Pro for conversational and document tasks, offering bidirectional voice, Android Auto, customizable one‑tap commands, tap‑to‑stop responses, tutoring, math help, games, and email-ready composition. That is the core of what JenAI Chat does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is JenAI Chat free?
     a: JenAI Chat is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with JenAI Chat?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like JenAI Chat earn 
 
 ## What is JenAI Chat?
 
-JenAI Chat is an Android AI chat app that connects to GPT-3.5/4/4o and Gemini Pro for conversational and document tasks, offering bidirectional voice, Android Auto, customizable one‑tap commands, tap‑to‑stop responses, tutoring, math help, games, and email-ready composition. Chat Subscription
-
+JenAI Chat is an Android AI chat app that connects to GPT-3.5/4/4o and Gemini Pro for conversational and document tasks, offering bidirectional voice, Android Auto, customizable one‑tap commands, tap‑to‑stop responses, tutoring, math help, games, and email-ready composition.
 In short, JenAI Chat is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. Many users discover that this feature of JenAI Chat alone covers what previously took multiple tools.
 
 ## Key features

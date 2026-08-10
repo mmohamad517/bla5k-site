@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Compass AI?
-    a: Compass AI autonomously routes non-custodial USDC across blockchains and DeFi protocols, executing sub-500ms atomic settlements while rebalancing per user-defined risk bands and whitelists. Dashboard provides real-time routes, holdings and settlement transparency. Crypto and Web3 Freemium That is the core of what Compass AI does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Compass AI autonomously routes non-custodial USDC across blockchains and DeFi protocols, executing sub-500ms atomic settlements while rebalancing per user-defined risk bands and whitelists. Dashboard provides real-time routes, holdings and settlement transparency. That is the core of what Compass AI does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Compass AI free?
     a: Compass AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Compass AI?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Compass AI?
 
-Compass AI autonomously routes non-custodial USDC across blockchains and DeFi protocols, executing sub-500ms atomic settlements while rebalancing per user-defined risk bands and whitelists. Dashboard provides real-time routes, holdings and settlement transparency. Crypto and Web3 Freemium
-
+Compass AI autonomously routes non-custodial USDC across blockchains and DeFi protocols, executing sub-500ms atomic settlements while rebalancing per user-defined risk bands and whitelists. Dashboard provides real-time routes, holdings and settlement transparency.
 In short, Compass AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. For a lot of people, that one function of Compass AI collapses multiple steps into a single action.
 
 ## Key features

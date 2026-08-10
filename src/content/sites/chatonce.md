@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ChatOnce?
-    a: OnceHub Conversational AI delivers GPT‑4 powered chatbot integration on websites, scheduling appointments, initiating video calls, and mirroring brand voice. It offers industry templates, hands off to humans, collects anonymized data for insights, and runs 24/7. Chat Free That is the core of what ChatOnce does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: OnceHub Conversational AI delivers GPT‑4 powered chatbot integration on websites, scheduling appointments, initiating video calls, and mirroring brand voice. It offers industry templates, hands off to humans, collects anonymized data for insights, and runs 24/7. That is the core of what ChatOnce does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ChatOnce free?
     a: Yes — ChatOnce is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with ChatOnce?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like ChatOn
 
 ## What is ChatOnce?
 
-OnceHub Conversational AI delivers GPT‑4 powered chatbot integration on websites, scheduling appointments, initiating video calls, and mirroring brand voice. It offers industry templates, hands off to humans, collects anonymized data for insights, and runs 24/7. Chat Free
-
+OnceHub Conversational AI delivers GPT‑4 powered chatbot integration on websites, scheduling appointments, initiating video calls, and mirroring brand voice. It offers industry templates, hands off to humans, collects anonymized data for insights, and runs 24/7.
 In short, ChatOnce is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For a lot of people, that one function of ChatOnce collapses multiple steps into a single action.
 
 ## Key features

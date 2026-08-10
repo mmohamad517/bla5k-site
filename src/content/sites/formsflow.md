@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Formsflow?
-    a: Formsflow.ai is a low-code platform for creating forms, automating workflows, and managing data. It offers an AI-assisted form builder, a powerful workflow engine, extensive integrations, and robust analytics, supporting diverse industries with flexible development options. App Builder Freemium That is the core of what Formsflow does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Formsflow.ai is a low-code platform for creating forms, automating workflows, and managing data. It offers an AI-assisted form builder, a powerful workflow engine, extensive integrations, and robust analytics, supporting diverse industries with flexible development options. That is the core of what Formsflow does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Formsflow free?
     a: Formsflow uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Formsflow?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Formsflow m
 
 ## What is Formsflow?
 
-Formsflow.ai is a low-code platform for creating forms, automating workflows, and managing data. It offers an AI-assisted form builder, a powerful workflow engine, extensive integrations, and robust analytics, supporting diverse industries with flexible development options. App Builder Freemium
-
+Formsflow.ai is a low-code platform for creating forms, automating workflows, and managing data. It offers an AI-assisted form builder, a powerful workflow engine, extensive integrations, and robust analytics, supporting diverse industries with flexible development options.
 In short, Formsflow is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. Many users discover that this feature of Formsflow alone covers what previously took multiple tools.
 
 ## Key features

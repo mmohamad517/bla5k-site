@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Trendin?
-    a: Trendin is an AI content creation platform that streamlines research and curation, helping users identify trending topics and develop SEO-optimized content. It enhances professional authority and engagement, positioning users as thought leaders in their industries. Content creation Free trial - $29/mo That is the core of what Trendin does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Trendin is an AI content creation platform that streamlines research and curation, helping users identify trending topics and develop SEO-optimized content. It enhances professional authority and engagement, positioning users as thought leaders in their industries. That is the core of what Trendin does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Trendin free?
     a: Trendin uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $29/mo, check the official website — pricing changes often.
   - q: What can you do with Trendin?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Trendin?
 
-Trendin is an AI content creation platform that streamlines research and curation, helping users identify trending topics and develop SEO-optimized content. It enhances professional authority and engagement, positioning users as thought leaders in their industries. Content creation Free trial - $29/mo
-
+Trendin is an AI content creation platform that streamlines research and curation, helping users identify trending topics and develop SEO-optimized content. It enhances professional authority and engagement, positioning users as thought leaders in their industries.
 In short, Trendin is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For plenty of users, that one capability of Trendin replaces several steps they used to do by hand.
 
 ## Key features

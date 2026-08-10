@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Hermae AI?
-    a: Hermae was an AI assistant that accelerated product shipping for enterprise design systems by converting Storybook documentation into Markdown, generating embeddings, and providing IDE context, public examples, and Figma MCP connections for code generation and design value retrieval. Code assistant Freemium That is the core of what Hermae AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Hermae was an AI assistant that accelerated product shipping for enterprise design systems by converting Storybook documentation into Markdown, generating embeddings, and providing IDE context, public examples, and Figma MCP connections for code generation and design value retrieval. That is the core of what Hermae AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Hermae AI free?
     a: Hermae AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Hermae AI?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Hermae AI?
 
-Hermae was an AI assistant that accelerated product shipping for enterprise design systems by converting Storybook documentation into Markdown, generating embeddings, and providing IDE context, public examples, and Figma MCP connections for code generation and design value retrieval. Code assistant Freemium
-
+Hermae was an AI assistant that accelerated product shipping for enterprise design systems by converting Storybook documentation into Markdown, generating embeddings, and providing IDE context, public examples, and Figma MCP connections for code generation and design value retrieval.
 In short, Hermae AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one capability of Hermae AI frequently saves users from juggling several separate steps.
 
 ## Key features

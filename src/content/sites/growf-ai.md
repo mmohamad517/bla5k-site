@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Growf AI?
-    a: Growf is an AI operating system for marketing agencies that centralizes data, workflows, and tools. It offers unified dashboards for planning and execution, tracks progress, automates routine tasks, supports scalable project management, and ensures data privacy and configuration control. Communication Automation Freemium - $229/mo That is the core of what Growf AI does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Growf is an AI operating system for marketing agencies that centralizes data, workflows, and tools. It offers unified dashboards for planning and execution, tracks progress, automates routine tasks, supports scalable project management, and ensures data privacy and configuration control. That is the core of what Growf AI does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Growf AI free?
     a: Growf AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $229/mo, check the official website — pricing changes often.
   - q: What can you do with Growf AI?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Growf 
 
 ## What is Growf AI?
 
-Growf is an AI operating system for marketing agencies that centralizes data, workflows, and tools. It offers unified dashboards for planning and execution, tracks progress, automates routine tasks, supports scalable project management, and ensures data privacy and configuration control. Communication Automation Freemium - $229/mo
-
+Growf is an AI operating system for marketing agencies that centralizes data, workflows, and tools. It offers unified dashboards for planning and execution, tracks progress, automates routine tasks, supports scalable project management, and ensures data privacy and configuration control.
 In short, Growf AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. Many users discover that this feature of Growf AI alone covers what previously took multiple tools.
 
 ## Key features

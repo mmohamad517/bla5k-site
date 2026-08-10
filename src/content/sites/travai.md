@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TravAI?
-    a: TravAI automates travel‑industry e‑learning by converting documents into courses, quizzes, and role‑play scenarios, cutting manual content creation by up to 70%. Its chat interface delivers personalized paths, real‑time coaching, objection handling, and AI analytics in 45+ languages.  That is the core of what TravAI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: TravAI automates travel‑industry e‑learning by converting documents into courses, quizzes, and role‑play scenarios, cutting manual content creation by up to 70%. Its chat interface delivers personalized paths, real‑time coaching, objection handling, and AI analytics in 45+ languages. That is the core of what TravAI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TravAI free?
     a: TravAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with TravAI?

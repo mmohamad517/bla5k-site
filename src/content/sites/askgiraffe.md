@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Askgiraffe?
-    a: AskGiraffe delivers AI‑driven feasibility assessments and strategic guidance for early‑stage startups. Input a business idea to receive concise reports, market research, business‑model analysis, and step‑by‑step execution plans, with optional mentorship. Business Freemium That is the core of what Askgiraffe does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AskGiraffe delivers AI‑driven feasibility assessments and strategic guidance for early‑stage startups. Input a business idea to receive concise reports, market research, business‑model analysis, and step‑by‑step execution plans, with optional mentorship. That is the core of what Askgiraffe does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Askgiraffe free?
     a: Askgiraffe uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Askgiraffe?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Askgiraffe earn 
 
 ## What is Askgiraffe?
 
-AskGiraffe delivers AI‑driven feasibility assessments and strategic guidance for early‑stage startups. Input a business idea to receive concise reports, market research, business‑model analysis, and step‑by‑step execution plans, with optional mentorship. Business Freemium
-
+AskGiraffe delivers AI‑driven feasibility assessments and strategic guidance for early‑stage startups. Input a business idea to receive concise reports, market research, business‑model analysis, and step‑by‑step execution plans, with optional mentorship.
 In short, Askgiraffe is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. For plenty of users, that one capability of Askgiraffe replaces several steps they used to do by hand.
 
 ## Key features

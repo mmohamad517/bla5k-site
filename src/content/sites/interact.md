@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Interact?
-    a: Xobin is an AI‑powered assessment platform offering over 3,400 skill tests, 2,500 role‑specific evaluations, secure proctoring, automated grading, and API integration with ATS, LMS, and HR systems. It tracks scores and interview metrics securely. AI Assistant Freemium That is the core of what Interact does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Xobin is an AI‑powered assessment platform offering over 3,400 skill tests, 2,500 role‑specific evaluations, secure proctoring, automated grading, and API integration with ATS, LMS, and HR systems. It tracks scores and interview metrics securely. That is the core of what Interact does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Interact free?
     a: Interact uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Interact?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Interact?
 
-Xobin is an AI‑powered assessment platform offering over 3,400 skill tests, 2,500 role‑specific evaluations, secure proctoring, automated grading, and API integration with ATS, LMS, and HR systems. It tracks scores and interview metrics securely. AI Assistant Freemium
-
+Xobin is an AI‑powered assessment platform offering over 3,400 skill tests, 2,500 role‑specific evaluations, secure proctoring, automated grading, and API integration with ATS, LMS, and HR systems. It tracks scores and interview metrics securely.
 In short, Interact is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of Interact replaces several steps they used to do by hand.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TribeArc?
-    a: Tribearc lets marketers and course creators build landing and opt‑in pages with a drag‑and‑drop editor, automate email and SMS campaigns, sell digital products, and track opens, clicks, and conversions—all in one dashboard. Marketing Free That is the core of what TribeArc does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Tribearc lets marketers and course creators build landing and opt‑in pages with a drag‑and‑drop editor, automate email and SMS campaigns, sell digital products, and track opens, clicks, and conversions—all in one dashboard. That is the core of what TribeArc does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TribeArc free?
     a: Yes — TribeArc is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with TribeArc?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like TribeA
 
 ## What is TribeArc?
 
-Tribearc lets marketers and course creators build landing and opt‑in pages with a drag‑and‑drop editor, automate email and SMS campaigns, sell digital products, and track opens, clicks, and conversions—all in one dashboard. Marketing Free
-
+Tribearc lets marketers and course creators build landing and opt‑in pages with a drag‑and‑drop editor, automate email and SMS campaigns, sell digital products, and track opens, clicks, and conversions—all in one dashboard.
 In short, TribeArc is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That one feature of TribeArc often eliminates several smaller steps from the usual workflow.
 
 ## Key features

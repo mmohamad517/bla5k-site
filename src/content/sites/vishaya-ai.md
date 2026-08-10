@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Vishaya AI?
-    a: Vishaya AI is a course creation tool that generates structured, multilingual courses quickly. It offers AI-generated audio lessons in various languages and plans to include visual content to enhance accessibility and engagement for educators and learners. Course Generator Freemium That is the core of what Vishaya AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Vishaya AI is a course creation tool that generates structured, multilingual courses quickly. It offers AI-generated audio lessons in various languages and plans to include visual content to enhance accessibility and engagement for educators and learners. That is the core of what Vishaya AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Vishaya AI free?
     a: Vishaya AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Vishaya AI?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Vishaya AI?
 
-Vishaya AI is a course creation tool that generates structured, multilingual courses quickly. It offers AI-generated audio lessons in various languages and plans to include visual content to enhance accessibility and engagement for educators and learners. Course Generator Freemium
-
+Vishaya AI is a course creation tool that generates structured, multilingual courses quickly. It offers AI-generated audio lessons in various languages and plans to include visual content to enhance accessibility and engagement for educators and learners.
 In short, Vishaya AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. For plenty of users, that one capability of Vishaya AI replaces several steps they used to do by hand.
 
 ## Key features

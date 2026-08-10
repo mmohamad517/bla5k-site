@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is FilmFlow?
-    a: FilmFlow uses AI to generate niche video ideas, full scripts, and SEO elements—titles, descriptions, tags, thumbnails—plus a dynamic CTA system, helping creators and agencies produce data‑driven YouTube content efficiently for channel growth.  That is the core of what FilmFlow does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: FilmFlow uses AI to generate niche video ideas, full scripts, and SEO elements—titles, descriptions, tags, thumbnails—plus a dynamic CTA system, helping creators and agencies produce data‑driven YouTube content efficiently for channel growth. That is the core of what FilmFlow does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is FilmFlow free?
     a: FilmFlow is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with FilmFlow?

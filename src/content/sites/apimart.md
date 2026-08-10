@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is APIMart?
-    a: APIMart provides a unified OpenAI-compatible API exposing 500+ models (GPT-5, Claude, Sora, Flux) for chat, streaming, function calling, vision, image/video generation and editing, enabling drop-in integration with Python/JS SDKs and model switching.  That is the core of what APIMart does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: APIMart provides a unified OpenAI-compatible API exposing 500+ models (GPT-5, Claude, Sora, Flux) for chat, streaming, function calling, vision, image/video generation and editing, enabling drop-in integration with Python/JS SDKs and model switching. That is the core of what APIMart does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is APIMart free?
     a: APIMart uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with APIMart?

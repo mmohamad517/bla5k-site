@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Supademo 2.0?
-    a: Supademo records user interactions and auto‑generates guided walkthroughs for web, mobile, and desktop apps. It offers HTML cloning, screenshots, Figma integration, multi‑language voiceovers, branching logic, analytics, and CRM integration to accelerate onboarding and support sales cycles. Customer support Free trial That is the core of what Supademo 2.0 does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Supademo records user interactions and auto‑generates guided walkthroughs for web, mobile, and desktop apps. It offers HTML cloning, screenshots, Figma integration, multi‑language voiceovers, branching logic, analytics, and CRM integration to accelerate onboarding and support sales cycles. That is the core of what Supademo 2.0 does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Supademo 2.0 free?
     a: Supademo 2.0 uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Supademo 2.0?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Supademo 2.0?
 
-Supademo records user interactions and auto‑generates guided walkthroughs for web, mobile, and desktop apps. It offers HTML cloning, screenshots, Figma integration, multi‑language voiceovers, branching logic, analytics, and CRM integration to accelerate onboarding and support sales cycles. Customer support Free trial
-
+Supademo records user interactions and auto‑generates guided walkthroughs for web, mobile, and desktop apps. It offers HTML cloning, screenshots, Figma integration, multi‑language voiceovers, branching logic, analytics, and CRM integration to accelerate onboarding and support sales cycles.
 In short, Supademo 2.0 is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For many, that single strength of Supademo 2.0 is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

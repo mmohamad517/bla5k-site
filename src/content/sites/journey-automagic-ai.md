@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Journey Automagic AI?
-    a: Journey consolidates PDFs, spreadsheets, presentations, videos, and cloud links into a single web page for easy outbound communication. It tracks recipient engagement, shows viewing time, highlights focus areas, and syncs with cloud services and CRMs to keep content current. Sales Freemium That is the core of what Journey Automagic AI does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Journey consolidates PDFs, spreadsheets, presentations, videos, and cloud links into a single web page for easy outbound communication. It tracks recipient engagement, shows viewing time, highlights focus areas, and syncs with cloud services and CRMs to keep content current. That is the core of what Journey Automagic AI does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Journey Automagic AI free?
     a: Journey Automagic AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Journey Automagic AI?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Journey Automagi
 
 ## What is Journey Automagic AI?
 
-Journey consolidates PDFs, spreadsheets, presentations, videos, and cloud links into a single web page for easy outbound communication. It tracks recipient engagement, shows viewing time, highlights focus areas, and syncs with cloud services and CRMs to keep content current. Sales Freemium
-
+Journey consolidates PDFs, spreadsheets, presentations, videos, and cloud links into a single web page for easy outbound communication. It tracks recipient engagement, shows viewing time, highlights focus areas, and syncs with cloud services and CRMs to keep content current.
 In short, Journey Automagic AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. That one capability of Journey Automagic AI frequently saves users from juggling several separate steps.
 
 ## Key features

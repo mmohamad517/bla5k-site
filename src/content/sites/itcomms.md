@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ITComms?
-    a: An AI-powered press release generator that generates unique and tailored content in minutes. Marketing Free That is the core of what ITComms does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: An AI-powered press release generator that generates unique and tailored content in minutes. That is the core of what ITComms does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ITComms free?
     a: Yes — ITComms is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with ITComms?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is ITComms?
 
-An AI-powered press release generator that generates unique and tailored content in minutes. Marketing Free
-
+An AI-powered press release generator that generates unique and tailored content in minutes.
 In short, ITComms is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That single feature of ITComms alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

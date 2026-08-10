@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Looti?
-    a: Looti AI is a B2B growth tool that offers features such as AI-generated leads, task management, team collaboration, audience discovery, and advanced filtering options, with integrations and super-reactive support. Sales Free trial That is the core of what Looti does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Looti AI is a B2B growth tool that offers features such as AI-generated leads, task management, team collaboration, audience discovery, and advanced filtering options, with integrations and super-reactive support. That is the core of what Looti does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Looti free?
     a: Looti uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Looti?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Looti?
 
-Looti AI is a B2B growth tool that offers features such as AI-generated leads, task management, team collaboration, audience discovery, and advanced filtering options, with integrations and super-reactive support. Sales Free trial
-
+Looti AI is a B2B growth tool that offers features such as AI-generated leads, task management, team collaboration, audience discovery, and advanced filtering options, with integrations and super-reactive support.
 In short, Looti is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For plenty of users, that one capability of Looti replaces several steps they used to do by hand.
 
 ## Key features

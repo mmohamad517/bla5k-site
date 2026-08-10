@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Prompto?
-    a: Prompto is an open‑source Angular PWA that lets users interact with multiple LLMs via LangChain.js, adjusting temperature for creativity. It supports chat, notebook, template, arena, and discussion modes, storing all settings and history locally for privacy. AI Assistant Freemium That is the core of what Prompto does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Prompto is an open‑source Angular PWA that lets users interact with multiple LLMs via LangChain.js, adjusting temperature for creativity. It supports chat, notebook, template, arena, and discussion modes, storing all settings and history locally for privacy. That is the core of what Prompto does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Prompto free?
     a: Prompto uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Prompto?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Prompto?
 
-Prompto is an open‑source Angular PWA that lets users interact with multiple LLMs via LangChain.js, adjusting temperature for creativity. It supports chat, notebook, template, arena, and discussion modes, storing all settings and history locally for privacy. AI Assistant Freemium
-
+Prompto is an open‑source Angular PWA that lets users interact with multiple LLMs via LangChain.js, adjusting temperature for creativity. It supports chat, notebook, template, arena, and discussion modes, storing all settings and history locally for privacy.
 In short, Prompto is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users discover that this feature of Prompto alone covers what previously took multiple tools.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Bitlauncher?
-    a: Bitlauncher facilitates startup funding through a batch auction system for equitable price discovery. It includes DAO tools for community governance, a cash-flow evaluation for AI projects, and dynamic tokenomics to reward active contributors. Crypto and Web3 Freemium That is the core of what Bitlauncher does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Bitlauncher facilitates startup funding through a batch auction system for equitable price discovery. It includes DAO tools for community governance, a cash-flow evaluation for AI projects, and dynamic tokenomics to reward active contributors. That is the core of what Bitlauncher does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Bitlauncher free?
     a: Bitlauncher uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Bitlauncher?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Bitlauncher earn
 
 ## What is Bitlauncher?
 
-Bitlauncher facilitates startup funding through a batch auction system for equitable price discovery. It includes DAO tools for community governance, a cash-flow evaluation for AI projects, and dynamic tokenomics to reward active contributors. Crypto and Web3 Freemium
-
+Bitlauncher facilitates startup funding through a batch auction system for equitable price discovery. It includes DAO tools for community governance, a cash-flow evaluation for AI projects, and dynamic tokenomics to reward active contributors.
 In short, Bitlauncher is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. That one capability of Bitlauncher frequently saves users from juggling several separate steps.
 
 ## Key features

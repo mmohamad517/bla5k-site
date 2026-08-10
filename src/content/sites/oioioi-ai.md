@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Oi?
-    a: Oi is a platform that creates a unified ‘shared brain’ for organizations, connecting all AI tools like ChatGPT through MCP to share contexts, workflows, and guardrails, boosting efficiency and adoption.  That is the core of what Oi does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Oi is a platform that creates a unified ‘shared brain’ for organizations, connecting all AI tools like ChatGPT through MCP to share contexts, workflows, and guardrails, boosting efficiency and adoption. That is the core of what Oi does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Oi free?
     a: Oi uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $19/mo, check the official website — pricing changes often.
   - q: What can you do with Oi?

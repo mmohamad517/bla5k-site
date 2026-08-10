@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AppStruct?
-    a: Appstruct is a no-code app builder that allows users to create mobile, web, and desktop applications visually. It features a built-in backend, smart animation tools, and one-click publishing, enabling rapid app development across multiple platforms. App Builder Free trial That is the core of what AppStruct does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Appstruct is a no-code app builder that allows users to create mobile, web, and desktop applications visually. It features a built-in backend, smart animation tools, and one-click publishing, enabling rapid app development across multiple platforms. That is the core of what AppStruct does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AppStruct free?
     a: AppStruct uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AppStruct?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is AppStruct?
 
-Appstruct is a no-code app builder that allows users to create mobile, web, and desktop applications visually. It features a built-in backend, smart animation tools, and one-click publishing, enabling rapid app development across multiple platforms. App Builder Free trial
-
+Appstruct is a no-code app builder that allows users to create mobile, web, and desktop applications visually. It features a built-in backend, smart animation tools, and one-click publishing, enabling rapid app development across multiple platforms.
 In short, AppStruct is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. That single feature of AppStruct alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

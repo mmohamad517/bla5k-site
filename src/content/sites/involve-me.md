@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Involve.me?
-    a: Involve.me is an AI-powered platform for creating interactive funnels, forms, and quizzes that generate, qualify, and convert leads. It automates lead scoring, personalized offers, meeting booking, and follow-up workflows to streamline sales and marketing. Content creation Free trial - $2.42/mo That is the core of what Involve.me does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Involve.me is an AI-powered platform for creating interactive funnels, forms, and quizzes that generate, qualify, and convert leads. It automates lead scoring, personalized offers, meeting booking, and follow-up workflows to streamline sales and marketing. That is the core of what Involve.me does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Involve.me free?
     a: Involve.me uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $2.42/mo, check the official website — pricing changes often.
   - q: What can you do with Involve.me?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Involve.me?
 
-Involve.me is an AI-powered platform for creating interactive funnels, forms, and quizzes that generate, qualify, and convert leads. It automates lead scoring, personalized offers, meeting booking, and follow-up workflows to streamline sales and marketing. Content creation Free trial - $2.42/mo
-
+Involve.me is an AI-powered platform for creating interactive funnels, forms, and quizzes that generate, qualify, and convert leads. It automates lead scoring, personalized offers, meeting booking, and follow-up workflows to streamline sales and marketing.
 In short, Involve.me is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. That one feature of Involve.me often eliminates several smaller steps from the usual workflow.
 
 ## Key features

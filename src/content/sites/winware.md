@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Winware?
-    a: Winware recruits LinkedIn‑verified professionals for B2B studies, using AI moderation to conduct real‑time interviews. It aggregates product, UX, and marketing feedback into concise summaries with direct quotes and actionable recommendations, speeding research for teams. Marketing Freemium - $416.58/mo That is the core of what Winware does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Winware recruits LinkedIn‑verified professionals for B2B studies, using AI moderation to conduct real‑time interviews. It aggregates product, UX, and marketing feedback into concise summaries with direct quotes and actionable recommendations, speeding research for teams. That is the core of what Winware does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Winware free?
     a: Winware uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $416.58/mo, check the official website — pricing changes often.
   - q: What can you do with Winware?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Winware ear
 
 ## What is Winware?
 
-Winware recruits LinkedIn‑verified professionals for B2B studies, using AI moderation to conduct real‑time interviews. It aggregates product, UX, and marketing feedback into concise summaries with direct quotes and actionable recommendations, speeding research for teams. Marketing Freemium - $416.58/mo
-
+Winware recruits LinkedIn‑verified professionals for B2B studies, using AI moderation to conduct real‑time interviews. It aggregates product, UX, and marketing feedback into concise summaries with direct quotes and actionable recommendations, speeding research for teams.
 In short, Winware is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. Many users find that this one ability of Winware removes several tasks from their daily routine.
 
 ## Key features

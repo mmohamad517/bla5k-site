@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Humanlinker?
-    a: Humanlinker automates prospecting and integrates with CRMs (HubSpot, Salesforce, Dynamics) and email/calendar services (Outlook, Gmail, Google Calendar, Slack, Teams). It generates personalized sales copy, enriches leads, detects buying signals, and streamlines multichannel outreach with unified inbox and workflow automation.  That is the core of what Humanlinker does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Humanlinker automates prospecting and integrates with CRMs (HubSpot, Salesforce, Dynamics) and email/calendar services (Outlook, Gmail, Google Calendar, Slack, Teams). It generates personalized sales copy, enriches leads, detects buying signals, and streamlines multichannel outreach with unified inbox and workflow automation. That is the core of what Humanlinker does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Humanlinker free?
     a: Humanlinker uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Humanlinker?

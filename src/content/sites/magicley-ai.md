@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Magicley AI?
-    a: Magicley AI is a comprehensive content creation tool that offers AI-generated text and images, custom templates, voice cloning, and chatbot features, enabling efficient production of social media posts, product descriptions, and SEO content across multiple languages.  That is the core of what Magicley AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Magicley AI is a comprehensive content creation tool that offers AI-generated text and images, custom templates, voice cloning, and chatbot features, enabling efficient production of social media posts, product descriptions, and SEO content across multiple languages. That is the core of what Magicley AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Magicley AI free?
     a: Magicley AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Magicley AI?

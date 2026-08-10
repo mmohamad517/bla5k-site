@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Paradigm?
-    a: Paradigm is an adaptive learning platform with a visual course builder and multimedia support that uses AI to personalize learning paths, offers integrated coding and music studios, assessments, analytics, and generated study materials for project-based instruction. Course Generator Subscription That is the core of what Paradigm does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Paradigm is an adaptive learning platform with a visual course builder and multimedia support that uses AI to personalize learning paths, offers integrated coding and music studios, assessments, analytics, and generated study materials for project-based instruction. That is the core of what Paradigm does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Paradigm free?
     a: Paradigm is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Paradigm?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Paradigm?
 
-Paradigm is an adaptive learning platform with a visual course builder and multimedia support that uses AI to personalize learning paths, offers integrated coding and music studios, assessments, analytics, and generated study materials for project-based instruction. Course Generator Subscription
-
+Paradigm is an adaptive learning platform with a visual course builder and multimedia support that uses AI to personalize learning paths, offers integrated coding and music studios, assessments, analytics, and generated study materials for project-based instruction.
 In short, Paradigm is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. Many users find that this one ability of Paradigm removes several tasks from their daily routine.
 
 ## Key features

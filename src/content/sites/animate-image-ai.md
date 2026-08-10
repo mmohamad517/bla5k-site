@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Animate Image AI?
-    a: Animate Image AI turns static photos into animated MP4/GIF/WebM/MOV videos, applying facial and context-aware object motion for portraits, products and landscapes; offers one-click and batch processing, customizable expression and movement controls, real-time previews and 1080p export. Animation Generation Free That is the core of what Animate Image AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Animate Image AI turns static photos into animated MP4/GIF/WebM/MOV videos, applying facial and context-aware object motion for portraits, products and landscapes; offers one-click and batch processing, customizable expression and movement controls, real-time previews and 1080p export. That is the core of what Animate Image AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Animate Image AI free?
     a: Yes — Animate Image AI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Animate Image AI?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Animate Image AI?
 
-Animate Image AI turns static photos into animated MP4/GIF/WebM/MOV videos, applying facial and context-aware object motion for portraits, products and landscapes; offers one-click and batch processing, customizable expression and movement controls, real-time previews and 1080p export. Animation Generation Free
-
+Animate Image AI turns static photos into animated MP4/GIF/WebM/MOV videos, applying facial and context-aware object motion for portraits, products and landscapes; offers one-click and batch processing, customizable expression and movement controls, real-time previews and 1080p export.
 In short, Animate Image AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. That single feature of Animate Image AI alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Xreacher?
-    a: Xreacher is a Twitter outreach automation tool that enables users to send up to 450 direct messages daily, scrape leads, analyze campaign performance, and manage multiple accounts efficiently for effective cold outreach. Sales Free trial That is the core of what Xreacher does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Xreacher is a Twitter outreach automation tool that enables users to send up to 450 direct messages daily, scrape leads, analyze campaign performance, and manage multiple accounts efficiently for effective cold outreach. That is the core of what Xreacher does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Xreacher free?
     a: Xreacher uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Xreacher?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Xreach
 
 ## What is Xreacher?
 
-Xreacher is a Twitter outreach automation tool that enables users to send up to 450 direct messages daily, scrape leads, analyze campaign performance, and manage multiple accounts efficiently for effective cold outreach. Sales Free trial
-
+Xreacher is a Twitter outreach automation tool that enables users to send up to 450 direct messages daily, scrape leads, analyze campaign performance, and manage multiple accounts efficiently for effective cold outreach.
 In short, Xreacher is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. Many users discover that this feature of Xreacher alone covers what previously took multiple tools.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Breadcrumbs Copilot?
-    a: Breadcrumbs offers enterprise‑grade, code‑free lead scoring that pulls GTM data via OAuth, visualizes predictive insights, supports multivariate testing, and routes leads in real time to improve lead quality and conversion rates. Human resources Free That is the core of what Breadcrumbs Copilot does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Breadcrumbs offers enterprise‑grade, code‑free lead scoring that pulls GTM data via OAuth, visualizes predictive insights, supports multivariate testing, and routes leads in real time to improve lead quality and conversion rates. That is the core of what Breadcrumbs Copilot does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Breadcrumbs Copilot free?
     a: Yes — Breadcrumbs Copilot is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Breadcrumbs Copilot?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Breadcrumbs
 
 ## What is Breadcrumbs Copilot?
 
-Breadcrumbs offers enterprise‑grade, code‑free lead scoring that pulls GTM data via OAuth, visualizes predictive insights, supports multivariate testing, and routes leads in real time to improve lead quality and conversion rates. Human resources Free
-
+Breadcrumbs offers enterprise‑grade, code‑free lead scoring that pulls GTM data via OAuth, visualizes predictive insights, supports multivariate testing, and routes leads in real time to improve lead quality and conversion rates.
 In short, Breadcrumbs Copilot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. Many users discover that this feature of Breadcrumbs Copilot alone covers what previously took multiple tools.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MuckBrass?
-    a: MuckBrass helps aspiring entrepreneurs discover and validate startup ideas using AI. It analyzes search trends and competition to generate actionable business concepts, minimizing risks and saving time during the crucial ideation phase. Business Freemium That is the core of what MuckBrass does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: MuckBrass helps aspiring entrepreneurs discover and validate startup ideas using AI. It analyzes search trends and competition to generate actionable business concepts, minimizing risks and saving time during the crucial ideation phase. That is the core of what MuckBrass does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MuckBrass free?
     a: MuckBrass uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with MuckBrass?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is MuckBrass?
 
-MuckBrass helps aspiring entrepreneurs discover and validate startup ideas using AI. It analyzes search trends and competition to generate actionable business concepts, minimizing risks and saving time during the crucial ideation phase. Business Freemium
-
+MuckBrass helps aspiring entrepreneurs discover and validate startup ideas using AI. It analyzes search trends and competition to generate actionable business concepts, minimizing risks and saving time during the crucial ideation phase.
 In short, MuckBrass is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. That one capability of MuckBrass frequently saves users from juggling several separate steps.
 
 ## Key features

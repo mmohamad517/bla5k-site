@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Janus?
-    a: Janus is an end-to-end simulation engine for evaluating AI agents, automating benchmark generation and creating diverse simulation environments. It enhances agent performance through continuous validation, hallucination detection, and personalized dataset evaluations. AI Agents Freemium That is the core of what Janus does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Janus is an end-to-end simulation engine for evaluating AI agents, automating benchmark generation and creating diverse simulation environments. It enhances agent performance through continuous validation, hallucination detection, and personalized dataset evaluations. That is the core of what Janus does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Janus free?
     a: Janus uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Janus?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Janus?
 
-Janus is an end-to-end simulation engine for evaluating AI agents, automating benchmark generation and creating diverse simulation environments. It enhances agent performance through continuous validation, hallucination detection, and personalized dataset evaluations. AI Agents Freemium
-
+Janus is an end-to-end simulation engine for evaluating AI agents, automating benchmark generation and creating diverse simulation environments. It enhances agent performance through continuous validation, hallucination detection, and personalized dataset evaluations.
 In short, Janus is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That one capability of Janus frequently saves users from juggling several separate steps.
 
 ## Key features

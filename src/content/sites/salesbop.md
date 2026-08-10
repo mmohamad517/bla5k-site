@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SalesBop?
-    a: Salesbop is an AI-driven sales coaching tool that provides real-time guidance during calls, helping sales teams improve performance by 40% through personalized coaching, pain point identification, and insights into effective strategies used by top performers. Coaching Free trial That is the core of what SalesBop does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Salesbop is an AI-driven sales coaching tool that provides real-time guidance during calls, helping sales teams improve performance by 40% through personalized coaching, pain point identification, and insights into effective strategies used by top performers. That is the core of what SalesBop does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SalesBop free?
     a: SalesBop uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with SalesBop?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like SalesBop ma
 
 ## What is SalesBop?
 
-Salesbop is an AI-driven sales coaching tool that provides real-time guidance during calls, helping sales teams improve performance by 40% through personalized coaching, pain point identification, and insights into effective strategies used by top performers. Coaching Free trial
-
+Salesbop is an AI-driven sales coaching tool that provides real-time guidance during calls, helping sales teams improve performance by 40% through personalized coaching, pain point identification, and insights into effective strategies used by top performers.
 In short, SalesBop is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. That one feature of SalesBop often eliminates several smaller steps from the usual workflow.
 
 ## Key features

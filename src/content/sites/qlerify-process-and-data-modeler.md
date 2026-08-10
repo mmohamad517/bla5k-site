@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Qlerify Process and Data Modeler?
-    a: Qlerify is an AI‑powered modeling platform that supports domain‑driven design, event storming, process mapping, user story mapping, and code generation. Teams build visual workflows that translate into domain models and auto‑generate code for microservices, legacy modernization, and event‑driven systems.  That is the core of what Qlerify Process and Data Modeler does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Qlerify is an AI‑powered modeling platform that supports domain‑driven design, event storming, process mapping, user story mapping, and code generation. Teams build visual workflows that translate into domain models and auto‑generate code for microservices, legacy modernization, and event‑driven systems. That is the core of what Qlerify Process and Data Modeler does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Qlerify Process and Data Modeler free?
     a: Qlerify Process and Data Modeler is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Qlerify Process and Data Modeler?

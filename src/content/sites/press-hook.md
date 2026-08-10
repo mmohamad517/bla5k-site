@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Press Hook?
-    a: Press Hook is an AI‑powered platform that connects brands, agencies, and media. It streamlines outreach with digital media kits, sample requests, and curated source networks, enabling journalists to quickly find relevant pitches and contacts. Marketing Subscription That is the core of what Press Hook does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Press Hook is an AI‑powered platform that connects brands, agencies, and media. It streamlines outreach with digital media kits, sample requests, and curated source networks, enabling journalists to quickly find relevant pitches and contacts. That is the core of what Press Hook does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Press Hook free?
     a: Press Hook is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Press Hook?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Press Hook?
 
-Press Hook is an AI‑powered platform that connects brands, agencies, and media. It streamlines outreach with digital media kits, sample requests, and curated source networks, enabling journalists to quickly find relevant pitches and contacts. Marketing Subscription
-
+Press Hook is an AI‑powered platform that connects brands, agencies, and media. It streamlines outreach with digital media kits, sample requests, and curated source networks, enabling journalists to quickly find relevant pitches and contacts.
 In short, Press Hook is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For plenty of users, that one capability of Press Hook replaces several steps they used to do by hand.
 
 ## Key features

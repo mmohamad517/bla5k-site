@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is chat4o.ai?
-    a: Chat 4O AI centralizes LLMs, image and video generators for multimodal content creation and problem solving—offering text, code and long-context generation, style presets for image/video, productivity utilities (math solver, text rewrites) and API access.  That is the core of what chat4o.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Chat 4O AI centralizes LLMs, image and video generators for multimodal content creation and problem solving—offering text, code and long-context generation, style presets for image/video, productivity utilities (math solver, text rewrites) and API access. That is the core of what chat4o.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is chat4o.ai free?
     a: chat4o.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with chat4o.ai?

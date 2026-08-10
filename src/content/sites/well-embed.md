@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Well Embed?
-    a: Well Embed provides a unified API and connector suite for automated invoice and receipt retrieval from email, portals, cloud storage, chat apps and vendor platforms, delivering raw documents or structured JSON with OCR/LLM extraction, deduplication and ERP integrations. AI Agents Freemium That is the core of what Well Embed does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Well Embed provides a unified API and connector suite for automated invoice and receipt retrieval from email, portals, cloud storage, chat apps and vendor platforms, delivering raw documents or structured JSON with OCR/LLM extraction, deduplication and ERP integrations. That is the core of what Well Embed does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Well Embed free?
     a: Well Embed uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Well Embed?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Well Embed 
 
 ## What is Well Embed?
 
-Well Embed provides a unified API and connector suite for automated invoice and receipt retrieval from email, portals, cloud storage, chat apps and vendor platforms, delivering raw documents or structured JSON with OCR/LLM extraction, deduplication and ERP integrations. AI Agents Freemium
-
+Well Embed provides a unified API and connector suite for automated invoice and receipt retrieval from email, portals, cloud storage, chat apps and vendor platforms, delivering raw documents or structured JSON with OCR/LLM extraction, deduplication and ERP integrations.
 In short, Well Embed is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users find that this one ability of Well Embed removes several tasks from their daily routine.
 
 ## Key features

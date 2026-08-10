@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SYNTX.AI?
-    a: Syntx.ai provides web and Telegram-bot access, letting users sign in with Telegram or email, link Google to sync settings and data across devices, manage subscriptions via web or bot, and receive Telegram notifications and account alerts.  That is the core of what SYNTX.AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Syntx.ai provides web and Telegram-bot access, letting users sign in with Telegram or email, link Google to sync settings and data across devices, manage subscriptions via web or bot, and receive Telegram notifications and account alerts. That is the core of what SYNTX.AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SYNTX.AI free?
     a: SYNTX.AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with SYNTX.AI?

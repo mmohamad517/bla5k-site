@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Voyp?
-    a: Voyp is an AI call agent that schedules appointments, reservations, and phone tasks via voice or text, auto‑adds events, records calls, supports multiple languages and platforms, and can transfer calls to verified numbers. Personal assistant Freemium That is the core of what Voyp does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Voyp is an AI call agent that schedules appointments, reservations, and phone tasks via voice or text, auto‑adds events, records calls, supports multiple languages and platforms, and can transfer calls to verified numbers. That is the core of what Voyp does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Voyp free?
     a: Voyp uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Voyp?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Voyp?
 
-Voyp is an AI call agent that schedules appointments, reservations, and phone tasks via voice or text, auto‑adds events, records calls, supports multiple languages and platforms, and can transfer calls to verified numbers. Personal assistant Freemium
-
+Voyp is an AI call agent that schedules appointments, reservations, and phone tasks via voice or text, auto‑adds events, records calls, supports multiple languages and platforms, and can transfer calls to verified numbers.
 In short, Voyp is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users discover that this feature of Voyp alone covers what previously took multiple tools.
 
 ## Key features

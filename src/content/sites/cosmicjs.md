@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CosmicJS?
-    a: Cosmic is a headless CMS delivering content via a content API for omnichannel publishing, with SDKs and starter kits for React, Next.js, Vue, Gatsby, and Astro, plus image CDN, content modeling, versioning, role controls, AI-assisted workflows, integrations. Content creation Freemium That is the core of what CosmicJS does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Cosmic is a headless CMS delivering content via a content API for omnichannel publishing, with SDKs and starter kits for React, Next.js, Vue, Gatsby, and Astro, plus image CDN, content modeling, versioning, role controls, AI-assisted workflows, integrations. That is the core of what CosmicJS does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CosmicJS free?
     a: CosmicJS uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with CosmicJS?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is CosmicJS?
 
-Cosmic is a headless CMS delivering content via a content API for omnichannel publishing, with SDKs and starter kits for React, Next.js, Vue, Gatsby, and Astro, plus image CDN, content modeling, versioning, role controls, AI-assisted workflows, integrations. Content creation Freemium
-
+Cosmic is a headless CMS delivering content via a content API for omnichannel publishing, with SDKs and starter kits for React, Next.js, Vue, Gatsby, and Astro, plus image CDN, content modeling, versioning, role controls, AI-assisted workflows, integrations.
 In short, CosmicJS is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For a lot of people, that one function of CosmicJS collapses multiple steps into a single action.
 
 ## Key features

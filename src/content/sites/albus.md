@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Albus?
-    a: Albus is an AI-powered knowledge bot for Slack that streamlines internal communication, saves time, and provides valuable analytics by answering employees' questions through personalized chatbots trained on company content from various sources.  That is the core of what Albus does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Albus is an AI-powered knowledge bot for Slack that streamlines internal communication, saves time, and provides valuable analytics by answering employees' questions through personalized chatbots trained on company content from various sources. That is the core of what Albus does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Albus free?
     a: Albus uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Albus?

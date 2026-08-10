@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ModAi?
-    a: Modai is an AI support bot for Discord that answers up to 90% of inquiries, manages support tickets, and supports over 30 languages, enhancing customer service efficiency and enabling teams to focus on complex issues. Customer support Free trial That is the core of what ModAi does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Modai is an AI support bot for Discord that answers up to 90% of inquiries, manages support tickets, and supports over 30 languages, enhancing customer service efficiency and enabling teams to focus on complex issues. That is the core of what ModAi does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ModAi free?
     a: ModAi uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ModAi?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like ModAi earn their
 
 ## What is ModAi?
 
-Modai is an AI support bot for Discord that answers up to 90% of inquiries, manages support tickets, and supports over 30 languages, enhancing customer service efficiency and enabling teams to focus on complex issues. Customer support Free trial
-
+Modai is an AI support bot for Discord that answers up to 90% of inquiries, manages support tickets, and supports over 30 languages, enhancing customer service efficiency and enabling teams to focus on complex issues.
 In short, ModAi is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For a lot of people, that one function of ModAi collapses multiple steps into a single action.
 
 ## Key features

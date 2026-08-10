@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Resoume?
-    a: Resoum is an AI-powered resume builder tool with features like multiple templates, language support, custom domain solutions, CV score, AI assistance, LinkedIn import, remote job curation, and a free account option for job seekers. Human resources Freemium That is the core of what Resoume does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Resoum is an AI-powered resume builder tool with features like multiple templates, language support, custom domain solutions, CV score, AI assistance, LinkedIn import, remote job curation, and a free account option for job seekers. That is the core of what Resoume does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Resoume free?
     a: Resoume uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Resoume?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Resoume?
 
-Resoum is an AI-powered resume builder tool with features like multiple templates, language support, custom domain solutions, CV score, AI assistance, LinkedIn import, remote job curation, and a free account option for job seekers. Human resources Freemium
-
+Resoum is an AI-powered resume builder tool with features like multiple templates, language support, custom domain solutions, CV score, AI assistance, LinkedIn import, remote job curation, and a free account option for job seekers.
 In short, Resoume is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. Many users discover that this feature of Resoume alone covers what previously took multiple tools.
 
 ## Key features

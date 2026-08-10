@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Aleah?
-    a: Aleah AI is an advanced language-agnostic content creation tool powered by AI. It simplifies the process of generating high-quality content for multiple platforms while providing innovative features like image generation and code writing, catering to diverse content marketing requirements. Digital Marketing Free trial - $3.99/mo That is the core of what Aleah does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Aleah AI is an advanced language-agnostic content creation tool powered by AI. It simplifies the process of generating high-quality content for multiple platforms while providing innovative features like image generation and code writing, catering to diverse content marketing requirements. That is the core of what Aleah does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Aleah free?
     a: Aleah uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $3.99/mo, check the official website — pricing changes often.
   - q: What can you do with Aleah?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Aleah?
 
-Aleah AI is an advanced language-agnostic content creation tool powered by AI. It simplifies the process of generating high-quality content for multiple platforms while providing innovative features like image generation and code writing, catering to diverse content marketing requirements. Digital Marketing Free trial - $3.99/mo
-
+Aleah AI is an advanced language-agnostic content creation tool powered by AI. It simplifies the process of generating high-quality content for multiple platforms while providing innovative features like image generation and code writing, catering to diverse content marketing requirements.
 In short, Aleah is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That single feature of Aleah alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

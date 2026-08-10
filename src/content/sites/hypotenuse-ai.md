@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Hypotenuse AI?
-    a: Hypotenuse AI automates product data and content creation for e‑commerce, generating titles, descriptions, alt text, and enriching attributes across marketplaces. It includes image editing, bulk publishing via API to platforms like Shopify, and tracks SEO performance.  That is the core of what Hypotenuse AI does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Hypotenuse AI automates product data and content creation for e‑commerce, generating titles, descriptions, alt text, and enriching attributes across marketplaces. It includes image editing, bulk publishing via API to platforms like Shopify, and tracks SEO performance. That is the core of what Hypotenuse AI does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Hypotenuse AI free?
     a: Hypotenuse AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Hypotenuse AI?

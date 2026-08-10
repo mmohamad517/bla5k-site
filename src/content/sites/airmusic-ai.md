@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AirMusic?
-    a: AirMusic.ai is an AI music production suite that generates and customizes original tracks, extends compositions, and creates AI covers with vocal cloning. It also provides stem separation, commercial-use licensing, and export-ready music for content creators and social platforms.  That is the core of what AirMusic does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AirMusic.ai is an AI music production suite that generates and customizes original tracks, extends compositions, and creates AI covers with vocal cloning. It also provides stem separation, commercial-use licensing, and export-ready music for content creators and social platforms. That is the core of what AirMusic does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AirMusic free?
     a: AirMusic uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $11.9/mo, check the official website — pricing changes often.
   - q: What can you do with AirMusic?

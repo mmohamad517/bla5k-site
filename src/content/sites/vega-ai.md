@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is VEGA AI?
-    a: Vega AI is an AI-driven learning platform that offers personalized course creation, 24/7 student support, adaptive testing, and real-time data insights, enabling educators to enhance teaching quality and manage student performance effectively.  That is the core of what VEGA AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Vega AI is an AI-driven learning platform that offers personalized course creation, 24/7 student support, adaptive testing, and real-time data insights, enabling educators to enhance teaching quality and manage student performance effectively. That is the core of what VEGA AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is VEGA AI free?
     a: Yes — VEGA AI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with VEGA AI?

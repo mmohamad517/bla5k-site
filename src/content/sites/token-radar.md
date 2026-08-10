@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Token Radar?
-    a: Token Radar is a crypto analytics platform that enables investors to identify top-performing tokens and market trends through a real-time dashboard, social sentiment analysis, performance comparisons, and advanced filtering options. Crypto and Web3 3 1 Free trial That is the core of what Token Radar does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Token Radar is a crypto analytics platform that enables investors to identify top-performing tokens and market trends through a real-time dashboard, social sentiment analysis, performance comparisons, and advanced filtering options. That is the core of what Token Radar does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Token Radar free?
     a: Token Radar uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Token Radar?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Token Radar?
 
-Token Radar is a crypto analytics platform that enables investors to identify top-performing tokens and market trends through a real-time dashboard, social sentiment analysis, performance comparisons, and advanced filtering options. Crypto and Web3 3 1 Free trial
-
+Token Radar is a crypto analytics platform that enables investors to identify top-performing tokens and market trends through a real-time dashboard, social sentiment analysis, performance comparisons, and advanced filtering options.
 In short, Token Radar is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. For many, that single strength of Token Radar is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

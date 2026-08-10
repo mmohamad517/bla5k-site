@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Hapticlabs?
-    a: Hapticlabs provides a no‑code toolkit to design, test, and deploy custom tactile feedback. Users create patterns via an intuitive interface, evaluate prototypes on the DevKit or iOS app, and export code for seamless integration into hardware or software. Content creation Freemium That is the core of what Hapticlabs does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Hapticlabs provides a no‑code toolkit to design, test, and deploy custom tactile feedback. Users create patterns via an intuitive interface, evaluate prototypes on the DevKit or iOS app, and export code for seamless integration into hardware or software. That is the core of what Hapticlabs does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Hapticlabs free?
     a: Hapticlabs uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Hapticlabs?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Hapticlabs?
 
-Hapticlabs provides a no‑code toolkit to design, test, and deploy custom tactile feedback. Users create patterns via an intuitive interface, evaluate prototypes on the DevKit or iOS app, and export code for seamless integration into hardware or software. Content creation Freemium
-
+Hapticlabs provides a no‑code toolkit to design, test, and deploy custom tactile feedback. Users create patterns via an intuitive interface, evaluate prototypes on the DevKit or iOS app, and export code for seamless integration into hardware or software.
 In short, Hapticlabs is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For a lot of people, that one function of Hapticlabs collapses multiple steps into a single action.
 
 ## Key features

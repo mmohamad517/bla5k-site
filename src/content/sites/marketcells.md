@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Marketcells?
-    a: Marketcells.io centralizes social media management, letting specialists schedule posts across major platforms from one dashboard. It aggregates real‑time analytics, offers AI‑generated captions and visuals, and integrates eCommerce for direct sales on Facebook, Instagram, TikTok, and more. AI Assistant Freemium - $0.83/mo That is the core of what Marketcells does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Marketcells.io centralizes social media management, letting specialists schedule posts across major platforms from one dashboard. It aggregates real‑time analytics, offers AI‑generated captions and visuals, and integrates eCommerce for direct sales on Facebook, Instagram, TikTok, and more. That is the core of what Marketcells does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Marketcells free?
     a: Marketcells uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $0.83/mo, check the official website — pricing changes often.
   - q: What can you do with Marketcells?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Marketcells?
 
-Marketcells.io centralizes social media management, letting specialists schedule posts across major platforms from one dashboard. It aggregates real‑time analytics, offers AI‑generated captions and visuals, and integrates eCommerce for direct sales on Facebook, Instagram, TikTok, and more. AI Assistant Freemium - $0.83/mo
-
+Marketcells.io centralizes social media management, letting specialists schedule posts across major platforms from one dashboard. It aggregates real‑time analytics, offers AI‑generated captions and visuals, and integrates eCommerce for direct sales on Facebook, Instagram, TikTok, and more.
 In short, Marketcells is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users discover that this feature of Marketcells alone covers what previously took multiple tools.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Cosmos?
-    a: Cosmos automates creation and scheduling of text, image and video content in a consistent brand voice, using built-in generation, camera/motion control and automations. A searchable media library adds transcripts, summaries, chapters and metadata for reuse. Content creation Free - $12/mo That is the core of what Cosmos does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Cosmos automates creation and scheduling of text, image and video content in a consistent brand voice, using built-in generation, camera/motion control and automations. A searchable media library adds transcripts, summaries, chapters and metadata for reuse. That is the core of what Cosmos does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Cosmos free?
     a: Cosmos uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Cosmos?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Cosmos earn thei
 
 ## What is Cosmos?
 
-Cosmos automates creation and scheduling of text, image and video content in a consistent brand voice, using built-in generation, camera/motion control and automations. A searchable media library adds transcripts, summaries, chapters and metadata for reuse. Content creation Free - $12/mo
-
+Cosmos automates creation and scheduling of text, image and video content in a consistent brand voice, using built-in generation, camera/motion control and automations. A searchable media library adds transcripts, summaries, chapters and metadata for reuse.
 In short, Cosmos is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. Many users find that this one ability of Cosmos removes several tasks from their daily routine.
 
 ## Key features

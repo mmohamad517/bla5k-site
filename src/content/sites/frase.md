@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Frase?
-    a: Frase is an AI tool for generating articles, rewriting paragraphs, and creating SEO content, with additional features like a smart editor, blog title generator, and value proposition creator.  That is the core of what Frase does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Frase is an AI tool for generating articles, rewriting paragraphs, and creating SEO content, with additional features like a smart editor, blog title generator, and value proposition creator. That is the core of what Frase does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Frase free?
     a: Frase is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Frase?

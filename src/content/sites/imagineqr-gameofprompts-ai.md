@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ImagineQR - gameofprompts.ai?
-    a: Unlock Power AI allows users to create customizable QR codes that link to various digital content. Its user-friendly interface and branding options enhance engagement, making it suitable for businesses, marketers, and event planners. Marketing Free That is the core of what ImagineQR - gameofprompts.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Unlock Power AI allows users to create customizable QR codes that link to various digital content. Its user-friendly interface and branding options enhance engagement, making it suitable for businesses, marketers, and event planners. That is the core of what ImagineQR - gameofprompts.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ImagineQR - gameofprompts.ai free?
     a: Yes — ImagineQR - gameofprompts.ai is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with ImagineQR - gameofprompts.ai?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is ImagineQR - gameofprompts.ai?
 
-Unlock Power AI allows users to create customizable QR codes that link to various digital content. Its user-friendly interface and branding options enhance engagement, making it suitable for businesses, marketers, and event planners. Marketing Free
-
+Unlock Power AI allows users to create customizable QR codes that link to various digital content. Its user-friendly interface and branding options enhance engagement, making it suitable for businesses, marketers, and event planners.
 In short, ImagineQR - gameofprompts.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For a lot of people, that one function of ImagineQR - gameofprompts.ai collapses multiple steps into a single action.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Saufter?
-    a: Saufter automates drip campaigns, using real‑time behavior tracking to deliver AI‑generated email, SMS, in‑app, and WhatsApp messages. It predicts engagement risks, offers prebuilt e‑commerce and SaaS use cases, integrates with CRMs, and streamlines multi‑channel outreach.  That is the core of what Saufter does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Saufter automates drip campaigns, using real‑time behavior tracking to deliver AI‑generated email, SMS, in‑app, and WhatsApp messages. It predicts engagement risks, offers prebuilt e‑commerce and SaaS use cases, integrates with CRMs, and streamlines multi‑channel outreach. That is the core of what Saufter does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Saufter free?
     a: Saufter is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Saufter?

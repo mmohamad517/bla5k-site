@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: "What is Tabby: AI Bookkeeper?"
-    a: "Tabby is AI bookkeeping for freelancers and small businesses that syncs bank/card data via Plaid, automates transaction categorization and reconciliation, provides real-time expense tracking and receipt scanning, and generates tax-ready P&L and deduction reports. Accounting assistant Free trial That is the core of what Tabby: AI Bookkeeper does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "Tabby is AI bookkeeping for freelancers and small businesses that syncs bank/card data via Plaid, automates transaction categorization and reconciliation, provides real-time expense tracking and receipt scanning, and generates tax-ready P&L and deduction reports. That is the core of what Tabby: AI Bookkeeper does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: "Is Tabby: AI Bookkeeper free?"
     a: "Tabby: AI Bookkeeper uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often."
   - q: "What can you do with Tabby: AI Bookkeeper?"
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Tabby: AI B
 
 ## What is Tabby: AI Bookkeeper?
 
-Tabby is AI bookkeeping for freelancers and small businesses that syncs bank/card data via Plaid, automates transaction categorization and reconciliation, provides real-time expense tracking and receipt scanning, and generates tax-ready P&L and deduction reports. Accounting assistant Free trial
-
+Tabby is AI bookkeeping for freelancers and small businesses that syncs bank/card data via Plaid, automates transaction categorization and reconciliation, provides real-time expense tracking and receipt scanning, and generates tax-ready P&L and deduction reports.
 In short, Tabby: AI Bookkeeper is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users find that this one ability of Tabby: AI Bookkeeper removes several tasks from their daily routine.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is BuilderStudio?
-    a: BuilderStudio is a native macOS IDE for building, previewing, and deploying AI-assisted web and desktop apps with local-first, sandboxed workflows. It integrates agentic coding, MCP-powered automation, and curated React components for secure, preview-ready development. App Builder Freemium - $25 That is the core of what BuilderStudio does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: BuilderStudio is a native macOS IDE for building, previewing, and deploying AI-assisted web and desktop apps with local-first, sandboxed workflows. It integrates agentic coding, MCP-powered automation, and curated React components for secure, preview-ready development. That is the core of what BuilderStudio does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is BuilderStudio free?
     a: BuilderStudio uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $25, check the official website — pricing changes often.
   - q: What can you do with BuilderStudio?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like BuilderStud
 
 ## What is BuilderStudio?
 
-BuilderStudio is a native macOS IDE for building, previewing, and deploying AI-assisted web and desktop apps with local-first, sandboxed workflows. It integrates agentic coding, MCP-powered automation, and curated React components for secure, preview-ready development. App Builder Freemium - $25
-
+BuilderStudio is a native macOS IDE for building, previewing, and deploying AI-assisted web and desktop apps with local-first, sandboxed workflows. It integrates agentic coding, MCP-powered automation, and curated React components for secure, preview-ready development.
 In short, BuilderStudio is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For a lot of people, that one function of BuilderStudio collapses multiple steps into a single action.
 
 ## Key features

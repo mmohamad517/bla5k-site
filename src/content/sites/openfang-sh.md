@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Openfang.sh?
-    a: OpenFang.sh is an open-source agent operating system that orchestrates autonomous AI agents and capability packages across macOS, Linux, and Windows. It provides a secure, sandboxed runtime with built-in tools for tasks like research, monitoring, and automation, all managed through a native desktop application.  That is the core of what Openfang.sh does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: OpenFang.sh is an open-source agent operating system that orchestrates autonomous AI agents and capability packages across macOS, Linux, and Windows. It provides a secure, sandboxed runtime with built-in tools for tasks like research, monitoring, and automation, all managed through a native desktop application. That is the core of what Openfang.sh does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Openfang.sh free?
     a: Openfang.sh uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Openfang.sh?

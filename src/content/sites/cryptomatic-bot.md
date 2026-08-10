@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CryptoMatic Bot?
-    a: CryptoMatic Bot automates spot and futures trading across multiple exchanges using AI-driven strategies—Scalping, Intraday, Swing—and integrates TradingView alerts or on‑chain data. Users set risk limits, monitor positions, and view performance metrics in a single dashboard. Crypto and Web3 1 0 Free That is the core of what CryptoMatic Bot does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CryptoMatic Bot automates spot and futures trading across multiple exchanges using AI-driven strategies—Scalping, Intraday, Swing—and integrates TradingView alerts or on‑chain data. Users set risk limits, monitor positions, and view performance metrics in a single dashboard. That is the core of what CryptoMatic Bot does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CryptoMatic Bot free?
     a: Yes — CryptoMatic Bot is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with CryptoMatic Bot?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is CryptoMatic Bot?
 
-CryptoMatic Bot automates spot and futures trading across multiple exchanges using AI-driven strategies—Scalping, Intraday, Swing—and integrates TradingView alerts or on‑chain data. Users set risk limits, monitor positions, and view performance metrics in a single dashboard. Crypto and Web3 1 0 Free
-
+CryptoMatic Bot automates spot and futures trading across multiple exchanges using AI-driven strategies—Scalping, Intraday, Swing—and integrates TradingView alerts or on‑chain data. Users set risk limits, monitor positions, and view performance metrics in a single dashboard.
 In short, CryptoMatic Bot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. That one feature of CryptoMatic Bot often eliminates several smaller steps from the usual workflow.
 
 ## Key features

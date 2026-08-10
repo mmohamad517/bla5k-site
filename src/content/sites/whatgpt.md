@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is WhatGPT?
-    a: WhatGPT is an AI assistant powered by ChatGPT that runs inside WhatsApp, offering quick context‑aware replies and easy web‑link expansion, eliminating separate apps, sign‑ups, and login hassles for instant, reliable support.  That is the core of what WhatGPT does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: WhatGPT is an AI assistant powered by ChatGPT that runs inside WhatsApp, offering quick context‑aware replies and easy web‑link expansion, eliminating separate apps, sign‑ups, and login hassles for instant, reliable support. That is the core of what WhatGPT does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is WhatGPT free?
     a: WhatGPT uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $5, check the official website — pricing changes often.
   - q: What can you do with WhatGPT?

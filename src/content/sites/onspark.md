@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is onSpark?
-    a: OnSpark is an AI partnership platform that matches founders, creators, and brands with ideal collaborators using voice-guided intake and smart scoring. It centralizes deal flow, automates outreach, and generates actionable partnership plans to streamline discovery and scale revenue.  That is the core of what onSpark does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: OnSpark is an AI partnership platform that matches founders, creators, and brands with ideal collaborators using voice-guided intake and smart scoring. It centralizes deal flow, automates outreach, and generates actionable partnership plans to streamline discovery and scale revenue. That is the core of what onSpark does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is onSpark free?
     a: onSpark is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with onSpark?

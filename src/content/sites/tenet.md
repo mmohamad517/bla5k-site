@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Tenet?
-    a: Tenet is a comprehensive AI marketing agent that automates research, strategy, content creation, and SEO for lean teams. It centralizes brand voice and competitive intelligence to produce on-brand copy across all channels while scoring and fact-checking every output for conversion. Marketing Subscription - $2500/mo That is the core of what Tenet does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Tenet is a comprehensive AI marketing agent that automates research, strategy, content creation, and SEO for lean teams. It centralizes brand voice and competitive intelligence to produce on-brand copy across all channels while scoring and fact-checking every output for conversion. That is the core of what Tenet does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Tenet free?
     a: Tenet is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Tenet?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Tenet 
 
 ## What is Tenet?
 
-Tenet is a comprehensive AI marketing agent that automates research, strategy, content creation, and SEO for lean teams. It centralizes brand voice and competitive intelligence to produce on-brand copy across all channels while scoring and fact-checking every output for conversion. Marketing Subscription - $2500/mo
-
+Tenet is a comprehensive AI marketing agent that automates research, strategy, content creation, and SEO for lean teams. It centralizes brand voice and competitive intelligence to produce on-brand copy across all channels while scoring and fact-checking every output for conversion.
 In short, Tenet is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. Many users discover that this feature of Tenet alone covers what previously took multiple tools.
 
 ## Key features

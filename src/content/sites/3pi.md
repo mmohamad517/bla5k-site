@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is 3pi?
-    a: 3pi.ai is a short, brandable .ai domain for AI, ML, data analytics, robotics and platform projects, improving keyword relevance and domain-level SEO, suitable for founders and developers, with registrar transfer support and secure ownership transfer. Domain Management Freemium That is the core of what 3pi does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: 3pi.ai is a short, brandable .ai domain for AI, ML, data analytics, robotics and platform projects, improving keyword relevance and domain-level SEO, suitable for founders and developers, with registrar transfer support and secure ownership transfer. That is the core of what 3pi does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is 3pi free?
     a: 3pi uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with 3pi?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like 3pi pr
 
 ## What is 3pi?
 
-3pi.ai is a short, brandable .ai domain for AI, ML, data analytics, robotics and platform projects, improving keyword relevance and domain-level SEO, suitable for founders and developers, with registrar transfer support and secure ownership transfer. Domain Management Freemium
-
+3pi.ai is a short, brandable .ai domain for AI, ML, data analytics, robotics and platform projects, improving keyword relevance and domain-level SEO, suitable for founders and developers, with registrar transfer support and secure ownership transfer.
 In short, 3pi is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. That single feature of 3pi alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

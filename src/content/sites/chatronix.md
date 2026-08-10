@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Chatronix?
-    a: Chatronix.ai is a multi-AI conversational platform that offers over 550 prompts for tailored content generation across industries. It supports various AI models and enhances productivity with a Turbo mode for simultaneous interactions, streamlining workflows and decision-making.  That is the core of what Chatronix does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Chatronix.ai is a multi-AI conversational platform that offers over 550 prompts for tailored content generation across industries. It supports various AI models and enhances productivity with a Turbo mode for simultaneous interactions, streamlining workflows and decision-making. That is the core of what Chatronix does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Chatronix free?
     a: Chatronix uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Chatronix?

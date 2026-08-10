@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MiroFish?
-    a: mirofish is a swarm-intelligence prediction engine that extracts seed inputs (news, policies, financial signals) to run large-scale multi-agent simulations with thousands of agents, producing detailed forecasts, interactive scenario environments, and queryable results for decision support and hypothesis testing.  That is the core of what MiroFish does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: mirofish is a swarm-intelligence prediction engine that extracts seed inputs (news, policies, financial signals) to run large-scale multi-agent simulations with thousands of agents, producing detailed forecasts, interactive scenario environments, and queryable results for decision support and hypothesis testing. That is the core of what MiroFish does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MiroFish free?
     a: Yes — MiroFish is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with MiroFish?

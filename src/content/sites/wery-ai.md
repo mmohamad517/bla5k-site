@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Wery AI?
-    a: Wery is a virtual AI studio that routes objectives to specialized agents, orchestrates multi-step workflows and parallel tasks (data, documents, design, audio/video), preserves project memory and assets, and centralizes results for cross-team review and reuse.  That is the core of what Wery AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Wery is a virtual AI studio that routes objectives to specialized agents, orchestrates multi-step workflows and parallel tasks (data, documents, design, audio/video), preserves project memory and assets, and centralizes results for cross-team review and reuse. That is the core of what Wery AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Wery AI free?
     a: Wery AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Wery AI?

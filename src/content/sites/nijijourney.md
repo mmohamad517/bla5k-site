@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Nijijourney?
-    a: niji・journey generates custom anime illustrations from text prompts in seconds, supporting styles from chibi to action scenes. It integrates via API or web interface, enabling artists, game designers, and studios to rapidly prototype high‑quality visuals. Anime Generation Freemium That is the core of what Nijijourney does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: niji・journey generates custom anime illustrations from text prompts in seconds, supporting styles from chibi to action scenes. It integrates via API or web interface, enabling artists, game designers, and studios to rapidly prototype high‑quality visuals. That is the core of what Nijijourney does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Nijijourney free?
     a: Nijijourney uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Nijijourney?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Nijijo
 
 ## What is Nijijourney?
 
-niji・journey generates custom anime illustrations from text prompts in seconds, supporting styles from chibi to action scenes. It integrates via API or web interface, enabling artists, game designers, and studios to rapidly prototype high‑quality visuals. Anime Generation Freemium
-
+niji・journey generates custom anime illustrations from text prompts in seconds, supporting styles from chibi to action scenes. It integrates via API or web interface, enabling artists, game designers, and studios to rapidly prototype high‑quality visuals.
 In short, Nijijourney is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. For a lot of people, that one function of Nijijourney collapses multiple steps into a single action.
 
 ## Key features

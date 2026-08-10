@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Brainybear.ai?
-    a: Brainybear lets teams create AI agents that extend chatbots on websites and messaging apps without coding. Upload docs, FAQs, or Google Drive files to train agents that fetch live Google Calendar, Sheets, APIs, support 80 languages, auto‑sync, and learn continuously.  That is the core of what Brainybear.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Brainybear lets teams create AI agents that extend chatbots on websites and messaging apps without coding. Upload docs, FAQs, or Google Drive files to train agents that fetch live Google Calendar, Sheets, APIs, support 80 languages, auto‑sync, and learn continuously. That is the core of what Brainybear.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Brainybear.ai free?
     a: Brainybear.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $38/mo, check the official website — pricing changes often.
   - q: What can you do with Brainybear.ai?

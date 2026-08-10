@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Userdesk?
-    a: Userdesk builds no-code, ChatGPT-like chatbots trained on websites, Notion, PDFs and Google Drive to automate support and lead generation via widgets, booking and qualifying prospects, auto-syncing content, cross-platform deployment, analytics and multilingual responses. Chatbot builder Freemium - $16 That is the core of what Userdesk does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Userdesk builds no-code, ChatGPT-like chatbots trained on websites, Notion, PDFs and Google Drive to automate support and lead generation via widgets, booking and qualifying prospects, auto-syncing content, cross-platform deployment, analytics and multilingual responses. That is the core of what Userdesk does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Userdesk free?
     a: Userdesk uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $16, check the official website — pricing changes often.
   - q: What can you do with Userdesk?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Userdesk?
 
-Userdesk builds no-code, ChatGPT-like chatbots trained on websites, Notion, PDFs and Google Drive to automate support and lead generation via widgets, booking and qualifying prospects, auto-syncing content, cross-platform deployment, analytics and multilingual responses. Chatbot builder Freemium - $16
-
+Userdesk builds no-code, ChatGPT-like chatbots trained on websites, Notion, PDFs and Google Drive to automate support and lead generation via widgets, booking and qualifying prospects, auto-syncing content, cross-platform deployment, analytics and multilingual responses.
 In short, Userdesk is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. That one capability of Userdesk frequently saves users from juggling several separate steps.
 
 ## Key features

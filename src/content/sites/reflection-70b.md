@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Reflection 70B?
-    a: Reflection 70B is an open‑source 70 B Llama 3.1‑based model that uses real‑time reflection tuning for self‑correction. It outperforms GPT‑4o on MMLU, HumanEval, MATH, IFEval, GSM8K, supporting accurate coding, debugging, and reasoning tasks via API, with a no‑registration web interface. Code Debugging Freemium - $7.9/mo That is the core of what Reflection 70B does — developer tools handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Reflection 70B is an open‑source 70 B Llama 3.1‑based model that uses real‑time reflection tuning for self‑correction. It outperforms GPT‑4o on MMLU, HumanEval, MATH, IFEval, GSM8K, supporting accurate coding, debugging, and reasoning tasks via API, with a no‑registration web interface. That is the core of what Reflection 70B does — developer tools handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Reflection 70B free?
     a: Reflection 70B uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $7.9/mo, check the official website — pricing changes often.
   - q: What can you do with Reflection 70B?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Reflection 70B?
 
-Reflection 70B is an open‑source 70 B Llama 3.1‑based model that uses real‑time reflection tuning for self‑correction. It outperforms GPT‑4o on MMLU, HumanEval, MATH, IFEval, GSM8K, supporting accurate coding, debugging, and reasoning tasks via API, with a no‑registration web interface. Code Debugging Freemium - $7.9/mo
-
+Reflection 70B is an open‑source 70 B Llama 3.1‑based model that uses real‑time reflection tuning for self‑correction. It outperforms GPT‑4o on MMLU, HumanEval, MATH, IFEval, GSM8K, supporting accurate coding, debugging, and reasoning tasks via API, with a no‑registration web interface.
 In short, Reflection 70B is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for developer tools without the manual grind. Many users discover that this feature of Reflection 70B alone covers what previously took multiple tools.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Housecall Pro AI?
-    a: Housecall Pro AI is a price book tool that centralizes services, materials, and pricing for home service businesses to enable consistent quoting. It allows users to import, bulk-edit, and customize rates, create bundles, and generate AI-powered descriptions for professional estimates. Billing Management Free trial - $59/mo That is the core of what Housecall Pro AI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Housecall Pro AI is a price book tool that centralizes services, materials, and pricing for home service businesses to enable consistent quoting. It allows users to import, bulk-edit, and customize rates, create bundles, and generate AI-powered descriptions for professional estimates. That is the core of what Housecall Pro AI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Housecall Pro AI free?
     a: Housecall Pro AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $59/mo, check the official website — pricing changes often.
   - q: What can you do with Housecall Pro AI?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Housecall Pro AI?
 
-Housecall Pro AI is a price book tool that centralizes services, materials, and pricing for home service businesses to enable consistent quoting. It allows users to import, bulk-edit, and customize rates, create bundles, and generate AI-powered descriptions for professional estimates. Billing Management Free trial - $59/mo
-
+Housecall Pro AI is a price book tool that centralizes services, materials, and pricing for home service businesses to enable consistent quoting. It allows users to import, bulk-edit, and customize rates, create bundles, and generate AI-powered descriptions for professional estimates.
 In short, Housecall Pro AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For plenty of users, that one capability of Housecall Pro AI replaces several steps they used to do by hand.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ImageToVideos.ai?
-    a: ImageToVideo.ai is a browser-based AI tool that converts static images into short, animated videos. Users simply upload a photo, describe the desired motion with a prompt, and select a model to generate videos up to 4K resolution for social media and marketing. Animation Generation Freemium - $29.90/mo That is the core of what ImageToVideos.ai does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ImageToVideo.ai is a browser-based AI tool that converts static images into short, animated videos. Users simply upload a photo, describe the desired motion with a prompt, and select a model to generate videos up to 4K resolution for social media and marketing. That is the core of what ImageToVideos.ai does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ImageToVideos.ai free?
     a: ImageToVideos.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $29.90/mo, check the official website — pricing changes often.
   - q: What can you do with ImageToVideos.ai?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is ImageToVideos.ai?
 
-ImageToVideo.ai is a browser-based AI tool that converts static images into short, animated videos. Users simply upload a photo, describe the desired motion with a prompt, and select a model to generate videos up to 4K resolution for social media and marketing. Animation Generation Freemium - $29.90/mo
-
+ImageToVideo.ai is a browser-based AI tool that converts static images into short, animated videos. Users simply upload a photo, describe the desired motion with a prompt, and select a model to generate videos up to 4K resolution for social media and marketing.
 In short, ImageToVideos.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. That one capability of ImageToVideos.ai frequently saves users from juggling several separate steps.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Varolio?
-    a: Varolio turns email threads into structured cases with AI, automating routing, SLA tracking, and workflow for logistics, professional services, marketing, and procurement. It integrates with Outlook/Gmail, extracts key data in 100 ms, and lets teams monitor status directly in their inbox.  That is the core of what Varolio does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Varolio turns email threads into structured cases with AI, automating routing, SLA tracking, and workflow for logistics, professional services, marketing, and procurement. It integrates with Outlook/Gmail, extracts key data in 100 ms, and lets teams monitor status directly in their inbox. That is the core of what Varolio does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Varolio free?
     a: Varolio uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Varolio?

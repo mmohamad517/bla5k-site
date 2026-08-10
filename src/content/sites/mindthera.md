@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MindThera?
-    a: Mindthera is an AI mental health chatbot that offers 24/7 personalized support, emotional analysis, and tailored recommendations for managing anxiety, stress, and self-esteem, all while ensuring user privacy and fostering a supportive community. Chatbot builder Free trial That is the core of what MindThera does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Mindthera is an AI mental health chatbot that offers 24/7 personalized support, emotional analysis, and tailored recommendations for managing anxiety, stress, and self-esteem, all while ensuring user privacy and fostering a supportive community. That is the core of what MindThera does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MindThera free?
     a: MindThera uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with MindThera?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is MindThera?
 
-Mindthera is an AI mental health chatbot that offers 24/7 personalized support, emotional analysis, and tailored recommendations for managing anxiety, stress, and self-esteem, all while ensuring user privacy and fostering a supportive community. Chatbot builder Free trial
-
+Mindthera is an AI mental health chatbot that offers 24/7 personalized support, emotional analysis, and tailored recommendations for managing anxiety, stress, and self-esteem, all while ensuring user privacy and fostering a supportive community.
 In short, MindThera is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For a lot of people, that one function of MindThera collapses multiple steps into a single action.
 
 ## Key features

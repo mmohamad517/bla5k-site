@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Zaayve AI?
-    a: Zaayve merges AI content generation with family health management. Its Writer module offers 170+ neural templates for quick, tone‑adjusted drafts, while the Doctor module secures health profiles, tracks vitals, and supplies AI symptom analysis and coaching. Content creation Freemium - $10/mo That is the core of what Zaayve AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Zaayve merges AI content generation with family health management. Its Writer module offers 170+ neural templates for quick, tone‑adjusted drafts, while the Doctor module secures health profiles, tracks vitals, and supplies AI symptom analysis and coaching. That is the core of what Zaayve AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Zaayve AI free?
     a: Zaayve AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $10/mo, check the official website — pricing changes often.
   - q: What can you do with Zaayve AI?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Zaayve AI m
 
 ## What is Zaayve AI?
 
-Zaayve merges AI content generation with family health management. Its Writer module offers 170+ neural templates for quick, tone‑adjusted drafts, while the Doctor module secures health profiles, tracks vitals, and supplies AI symptom analysis and coaching. Content creation Freemium - $10/mo
-
+Zaayve merges AI content generation with family health management. Its Writer module offers 170+ neural templates for quick, tone‑adjusted drafts, while the Doctor module secures health profiles, tracks vitals, and supplies AI symptom analysis and coaching.
 In short, Zaayve AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. That one feature of Zaayve AI often eliminates several smaller steps from the usual workflow.
 
 ## Key features

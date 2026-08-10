@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CuteEmoji.AI?
-    a: CuteEmoji.AI is a searchable emoji and ASCII art library with an emoji keyboard and AI-suggested variants for colors, moods, and themes. It enables quick copy-paste of trending and categorized emojis for social media captions, comments, and messaging apps.  That is the core of what CuteEmoji.AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CuteEmoji.AI is a searchable emoji and ASCII art library with an emoji keyboard and AI-suggested variants for colors, moods, and themes. It enables quick copy-paste of trending and categorized emojis for social media captions, comments, and messaging apps. That is the core of what CuteEmoji.AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CuteEmoji.AI free?
     a: CuteEmoji.AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with CuteEmoji.AI?

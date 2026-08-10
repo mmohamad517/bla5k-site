@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ReplyReply?
-    a: Replyreply is an AI tool that automates responses to Google reviews, enabling businesses to efficiently manage customer feedback. It generates personalized replies for various review types, enhancing customer relationships and improving online reputation. Customer support Freemium That is the core of what ReplyReply does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Replyreply is an AI tool that automates responses to Google reviews, enabling businesses to efficiently manage customer feedback. It generates personalized replies for various review types, enhancing customer relationships and improving online reputation. That is the core of what ReplyReply does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ReplyReply free?
     a: ReplyReply uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ReplyReply?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is ReplyReply?
 
-Replyreply is an AI tool that automates responses to Google reviews, enabling businesses to efficiently manage customer feedback. It generates personalized replies for various review types, enhancing customer relationships and improving online reputation. Customer support Freemium
-
+Replyreply is an AI tool that automates responses to Google reviews, enabling businesses to efficiently manage customer feedback. It generates personalized replies for various review types, enhancing customer relationships and improving online reputation.
 In short, ReplyReply is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. Many users find that this one ability of ReplyReply removes several tasks from their daily routine.
 
 ## Key features

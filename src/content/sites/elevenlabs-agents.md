@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Elevenlabs Agents?
-    a: ElevenAgents is a platform for building and deploying multilingual AI voice and chat agents across channels like phone and web. It offers low-latency interactions with 11,000+ voices, visual agent builders, and enterprise-grade security for customer support, scheduling, and lead qualification. Omnichannel chatbot Freemium - $6/mo That is the core of what Elevenlabs Agents does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ElevenAgents is a platform for building and deploying multilingual AI voice and chat agents across channels like phone and web. It offers low-latency interactions with 11,000+ voices, visual agent builders, and enterprise-grade security for customer support, scheduling, and lead qualification. That is the core of what Elevenlabs Agents does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Elevenlabs Agents free?
     a: Elevenlabs Agents uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $6/mo, check the official website — pricing changes often.
   - q: What can you do with Elevenlabs Agents?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Elevenlabs Agents?
 
-ElevenAgents is a platform for building and deploying multilingual AI voice and chat agents across channels like phone and web. It offers low-latency interactions with 11,000+ voices, visual agent builders, and enterprise-grade security for customer support, scheduling, and lead qualification. Omnichannel chatbot Freemium - $6/mo
-
+ElevenAgents is a platform for building and deploying multilingual AI voice and chat agents across channels like phone and web. It offers low-latency interactions with 11,000+ voices, visual agent builders, and enterprise-grade security for customer support, scheduling, and lead qualification.
 In short, Elevenlabs Agents is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. Many users find that this one ability of Elevenlabs Agents removes several tasks from their daily routine.
 
 ## Key features

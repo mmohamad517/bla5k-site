@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ainfographic?
-    a: Ainfographic simplifies infographic creation by converting text into visual formats using AI. Users can upload documents or paste URLs, choosing from various templates and aspect ratios for high-quality, print-ready visuals tailored for social media. Content creation Free trial That is the core of what Ainfographic does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ainfographic simplifies infographic creation by converting text into visual formats using AI. Users can upload documents or paste URLs, choosing from various templates and aspect ratios for high-quality, print-ready visuals tailored for social media. That is the core of what Ainfographic does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ainfographic free?
     a: Ainfographic uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Ainfographic?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Ainfographi
 
 ## What is Ainfographic?
 
-Ainfographic simplifies infographic creation by converting text into visual formats using AI. Users can upload documents or paste URLs, choosing from various templates and aspect ratios for high-quality, print-ready visuals tailored for social media. Content creation Free trial
-
+Ainfographic simplifies infographic creation by converting text into visual formats using AI. Users can upload documents or paste URLs, choosing from various templates and aspect ratios for high-quality, print-ready visuals tailored for social media.
 In short, Ainfographic is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. Many users discover that this feature of Ainfographic alone covers what previously took multiple tools.
 
 ## Key features

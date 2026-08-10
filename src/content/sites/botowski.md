@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Botowski?
-    a: Botowski generates original articles, product descriptions, emails, slogans, and more from a simple topic prompt. It offers tone options and rapid output, enabling businesses, bloggers, and students to produce polished content without manual editing. Copywriting Freemium - $19/mo That is the core of what Botowski does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Botowski generates original articles, product descriptions, emails, slogans, and more from a simple topic prompt. It offers tone options and rapid output, enabling businesses, bloggers, and students to produce polished content without manual editing. That is the core of what Botowski does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Botowski free?
     a: Botowski uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $19/mo, check the official website — pricing changes often.
   - q: What can you do with Botowski?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Botows
 
 ## What is Botowski?
 
-Botowski generates original articles, product descriptions, emails, slogans, and more from a simple topic prompt. It offers tone options and rapid output, enabling businesses, bloggers, and students to produce polished content without manual editing. Copywriting Freemium - $19/mo
-
+Botowski generates original articles, product descriptions, emails, slogans, and more from a simple topic prompt. It offers tone options and rapid output, enabling businesses, bloggers, and students to produce polished content without manual editing.
 In short, Botowski is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. That one capability of Botowski frequently saves users from juggling several separate steps.
 
 ## Key features

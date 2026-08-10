@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is WPGPT?
-    a: The WPGPT plugin allows users to create custom AI-powered chat for their WordPress website, offering pre-built models for various niches and the ability to create custom models. It is fully customizable with Elementor and offers monetization options. Chatbot builder Paid That is the core of what WPGPT does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: The WPGPT plugin allows users to create custom AI-powered chat for their WordPress website, offering pre-built models for various niches and the ability to create custom models. It is fully customizable with Elementor and offers monetization options. That is the core of what WPGPT does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is WPGPT free?
     a: WPGPT is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with WPGPT?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like WPGPT matte
 
 ## What is WPGPT?
 
-The WPGPT plugin allows users to create custom AI-powered chat for their WordPress website, offering pre-built models for various niches and the ability to create custom models. It is fully customizable with Elementor and offers monetization options. Chatbot builder Paid
-
+The WPGPT plugin allows users to create custom AI-powered chat for their WordPress website, offering pre-built models for various niches and the ability to create custom models. It is fully customizable with Elementor and offers monetization options.
 In short, WPGPT is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For plenty of users, that one capability of WPGPT replaces several steps they used to do by hand.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is WriteCap?
-    a: "WriteCap AI Caption Generator: An intuitive tool for creating captivating social media captions swiftly. Adapts to diverse content and languages, boosting user engagement, follower growth, and brand visibility through compelling captions. Copywriting Free trial - $500 That is the core of what WriteCap does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "WriteCap AI Caption Generator: An intuitive tool for creating captivating social media captions swiftly. Adapts to diverse content and languages, boosting user engagement, follower growth, and brand visibility through compelling captions. That is the core of what WriteCap does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is WriteCap free?
     a: WriteCap uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $500, check the official website — pricing changes often.
   - q: What can you do with WriteCap?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like WriteCap earn th
 
 ## What is WriteCap?
 
-WriteCap AI Caption Generator: An intuitive tool for creating captivating social media captions swiftly. Adapts to diverse content and languages, boosting user engagement, follower growth, and brand visibility through compelling captions. Copywriting Free trial - $500
-
+WriteCap AI Caption Generator: An intuitive tool for creating captivating social media captions swiftly. Adapts to diverse content and languages, boosting user engagement, follower growth, and brand visibility through compelling captions.
 In short, WriteCap is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. For a lot of people, that one function of WriteCap collapses multiple steps into a single action.
 
 ## Key features

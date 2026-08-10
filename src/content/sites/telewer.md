@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Telewer?
-    a: Telewer is a no-code platform for creating AI-powered Telegram bots, featuring chat, media generation, and image recognition. It allows users to customize bots, manage subscribers, and integrate payments, streamlining the bot development process for various applications. Chat Freemium That is the core of what Telewer does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Telewer is a no-code platform for creating AI-powered Telegram bots, featuring chat, media generation, and image recognition. It allows users to customize bots, manage subscribers, and integrate payments, streamlining the bot development process for various applications. That is the core of what Telewer does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Telewer free?
     a: Telewer uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Telewer?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Telewer earn the
 
 ## What is Telewer?
 
-Telewer is a no-code platform for creating AI-powered Telegram bots, featuring chat, media generation, and image recognition. It allows users to customize bots, manage subscribers, and integrate payments, streamlining the bot development process for various applications. Chat Freemium
-
+Telewer is a no-code platform for creating AI-powered Telegram bots, featuring chat, media generation, and image recognition. It allows users to customize bots, manage subscribers, and integrate payments, streamlining the bot development process for various applications.
 In short, Telewer is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. That one feature of Telewer often eliminates several smaller steps from the usual workflow.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is StrataReports?
-    a: StrataReports automatically reviews condo and strata documents, generating a structured summary in under 15 minutes. It highlights key financial metrics, maintenance obligations, and risk indicators, linking each point to its source PDF for easy verification. Document management Subscription - $69.99/mo That is the core of what StrataReports does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: StrataReports automatically reviews condo and strata documents, generating a structured summary in under 15 minutes. It highlights key financial metrics, maintenance obligations, and risk indicators, linking each point to its source PDF for easy verification. That is the core of what StrataReports does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is StrataReports free?
     a: StrataReports is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with StrataReports?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is StrataReports?
 
-StrataReports automatically reviews condo and strata documents, generating a structured summary in under 15 minutes. It highlights key financial metrics, maintenance obligations, and risk indicators, linking each point to its source PDF for easy verification. Document management Subscription - $69.99/mo
-
+StrataReports automatically reviews condo and strata documents, generating a structured summary in under 15 minutes. It highlights key financial metrics, maintenance obligations, and risk indicators, linking each point to its source PDF for easy verification.
 In short, StrataReports is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For plenty of users, that one capability of StrataReports replaces several steps they used to do by hand.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Crafted™?
-    a: crafted™ is an AI framework for enterprises and startups that enables the deployment of customizable AI agents. It features real-time messaging, document understanding, vector database integration, and marketing tools to enhance operational efficiency and strategy optimization. AI Agents Free trial That is the core of what Crafted™ does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: crafted™ is an AI framework for enterprises and startups that enables the deployment of customizable AI agents. It features real-time messaging, document understanding, vector database integration, and marketing tools to enhance operational efficiency and strategy optimization. That is the core of what Crafted™ does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Crafted™ free?
     a: Crafted™ uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Crafted™?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Crafted™ earn 
 
 ## What is Crafted™?
 
-crafted™ is an AI framework for enterprises and startups that enables the deployment of customizable AI agents. It features real-time messaging, document understanding, vector database integration, and marketing tools to enhance operational efficiency and strategy optimization. AI Agents Free trial
-
+crafted™ is an AI framework for enterprises and startups that enables the deployment of customizable AI agents. It features real-time messaging, document understanding, vector database integration, and marketing tools to enhance operational efficiency and strategy optimization.
 In short, Crafted™ is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many, that single strength of Crafted™ is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

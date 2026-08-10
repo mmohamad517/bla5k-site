@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Modor?
-    a: Modor generates realistic product and branding mockups from uploaded designs using AI-assisted placement, lighting and shadow adjustments across 10,000+ templates for apparel, devices, packaging and print. Drag-and-drop editing and export of high-resolution, print-ready files. Ad Mockup Freemium - $10/mo That is the core of what Modor does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Modor generates realistic product and branding mockups from uploaded designs using AI-assisted placement, lighting and shadow adjustments across 10,000+ templates for apparel, devices, packaging and print. Drag-and-drop editing and export of high-resolution, print-ready files. That is the core of what Modor does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Modor free?
     a: Modor uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $10/mo, check the official website — pricing changes often.
   - q: What can you do with Modor?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Modor 
 
 ## What is Modor?
 
-Modor generates realistic product and branding mockups from uploaded designs using AI-assisted placement, lighting and shadow adjustments across 10,000+ templates for apparel, devices, packaging and print. Drag-and-drop editing and export of high-resolution, print-ready files. Ad Mockup Freemium - $10/mo
-
+Modor generates realistic product and branding mockups from uploaded designs using AI-assisted placement, lighting and shadow adjustments across 10,000+ templates for apparel, devices, packaging and print. Drag-and-drop editing and export of high-resolution, print-ready files.
 In short, Modor is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. Many users find that this one ability of Modor removes several tasks from their daily routine.
 
 ## Key features

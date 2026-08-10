@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is aleph-alpha.com?
-    a: Aleph Alpha offers specialized large language models built on EU infrastructure, trained on domain‑specific data for legal, administrative, industrial, and scientific use. It ensures data sovereignty, compliance, and real‑time workflow integration for secure AI in public, manufacturing, and defense sectors.  That is the core of what aleph-alpha.com does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Aleph Alpha offers specialized large language models built on EU infrastructure, trained on domain‑specific data for legal, administrative, industrial, and scientific use. It ensures data sovereignty, compliance, and real‑time workflow integration for secure AI in public, manufacturing, and defense sectors. That is the core of what aleph-alpha.com does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is aleph-alpha.com free?
     a: aleph-alpha.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with aleph-alpha.com?

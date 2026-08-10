@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Intellectra?
-    a: Intellectra centralizes digital offerings for coaches and creators, enabling course creation, community building, and sales management. It features customizable branding, integrated student hubs for engagement, and an AI-driven assistant to enhance the educational experience. Course Generator Free trial That is the core of what Intellectra does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Intellectra centralizes digital offerings for coaches and creators, enabling course creation, community building, and sales management. It features customizable branding, integrated student hubs for engagement, and an AI-driven assistant to enhance the educational experience. That is the core of what Intellectra does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Intellectra free?
     a: Intellectra uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Intellectra?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Intellectra?
 
-Intellectra centralizes digital offerings for coaches and creators, enabling course creation, community building, and sales management. It features customizable branding, integrated student hubs for engagement, and an AI-driven assistant to enhance the educational experience. Course Generator Free trial
-
+Intellectra centralizes digital offerings for coaches and creators, enabling course creation, community building, and sales management. It features customizable branding, integrated student hubs for engagement, and an AI-driven assistant to enhance the educational experience.
 In short, Intellectra is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. That one capability of Intellectra frequently saves users from juggling several separate steps.
 
 ## Key features

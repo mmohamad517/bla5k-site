@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Manja?
-    a: Manja AI delivers real‑time coaching with on‑screen battle cards during demos and calls. Its AI Sales Gym lets reps practice objections with virtual buyers, receiving instant feedback. Dashboards highlight deal‑breakers and best practices to accelerate ramp‑up and improve close rates.  That is the core of what Manja does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Manja AI delivers real‑time coaching with on‑screen battle cards during demos and calls. Its AI Sales Gym lets reps practice objections with virtual buyers, receiving instant feedback. Dashboards highlight deal‑breakers and best practices to accelerate ramp‑up and improve close rates. That is the core of what Manja does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Manja free?
     a: Manja is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Manja?

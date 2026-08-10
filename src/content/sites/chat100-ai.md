@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Chat100.ai?
-    a: Chat100.ai offers a single web interface that integrates GPT‑5.2, GPT‑5.1, GPT‑4o, Grok‑4.1, Grok‑4, Grok‑3, Gemini 3 Pro, and Gemini 3 Flash, enabling instant model switching, side‑by‑side comparison, and streamlined workflows for writing, coding, design, and research.  That is the core of what Chat100.ai does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Chat100.ai offers a single web interface that integrates GPT‑5.2, GPT‑5.1, GPT‑4o, Grok‑4.1, Grok‑4, Grok‑3, Gemini 3 Pro, and Gemini 3 Flash, enabling instant model switching, side‑by‑side comparison, and streamlined workflows for writing, coding, design, and research. That is the core of what Chat100.ai does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Chat100.ai free?
     a: Chat100.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Chat100.ai?

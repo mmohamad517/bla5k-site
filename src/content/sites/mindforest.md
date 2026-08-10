@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MindForest?
-    a: MindForest offers 24/7 AI mental‑wellness coaching, emotion‑processing prompts, psychometric assessments, and personalized action plans. It logs progress via reflective journaling and data insights, integrating evidence‑based resources for ongoing emotional resilience.  That is the core of what MindForest does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: MindForest offers 24/7 AI mental‑wellness coaching, emotion‑processing prompts, psychometric assessments, and personalized action plans. It logs progress via reflective journaling and data insights, integrating evidence‑based resources for ongoing emotional resilience. That is the core of what MindForest does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MindForest free?
     a: MindForest is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with MindForest?

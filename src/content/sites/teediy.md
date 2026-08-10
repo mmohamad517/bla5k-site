@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TeeDIY?
-    a: TeeDIY is an AI-assisted platform that simplifies custom apparel creation, using templates, text prompts, or photos to generate and edit designs. It provides smart editing tools, realistic product mockups, and handles print-ready file export and on-demand fulfillment.  That is the core of what TeeDIY does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: TeeDIY is an AI-assisted platform that simplifies custom apparel creation, using templates, text prompts, or photos to generate and edit designs. It provides smart editing tools, realistic product mockups, and handles print-ready file export and on-demand fulfillment. That is the core of what TeeDIY does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TeeDIY free?
     a: Yes — TeeDIY is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with TeeDIY?

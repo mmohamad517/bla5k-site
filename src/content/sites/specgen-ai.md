@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Specgen.ai?
-    a: Specgen automates tender responses by processing PDFs, DOCX, XLSX, PPTX, extracting requirements, and generating targeted replies within user templates. It scores compliance, highlights gaps, offers recommendations, enabling quick Go/No‑Go decisions. Secure on‑prem, multilingual.  That is the core of what Specgen.ai does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Specgen automates tender responses by processing PDFs, DOCX, XLSX, PPTX, extracting requirements, and generating targeted replies within user templates. It scores compliance, highlights gaps, offers recommendations, enabling quick Go/No‑Go decisions. Secure on‑prem, multilingual. That is the core of what Specgen.ai does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Specgen.ai free?
     a: Specgen.ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Specgen.ai?

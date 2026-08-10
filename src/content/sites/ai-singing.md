@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Singing?
-    a: AI Singing converts lyrics into sung vocals and full arrangements, combining singing synthesis, melody/harmony generation, and instrumentation. It offers selectable voice styles, pitch/expression control, tempo/mood settings, multilingual support, real-time rendering, and downloadable stems. Audio generation Free That is the core of what AI Singing does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Singing converts lyrics into sung vocals and full arrangements, combining singing synthesis, melody/harmony generation, and instrumentation. It offers selectable voice styles, pitch/expression control, tempo/mood settings, multilingual support, real-time rendering, and downloadable stems. That is the core of what AI Singing does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI Singing free?
     a: Yes — AI Singing is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with AI Singing?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like AI Sin
 
 ## What is AI Singing?
 
-AI Singing converts lyrics into sung vocals and full arrangements, combining singing synthesis, melody/harmony generation, and instrumentation. It offers selectable voice styles, pitch/expression control, tempo/mood settings, multilingual support, real-time rendering, and downloadable stems. Audio generation Free
-
+AI Singing converts lyrics into sung vocals and full arrangements, combining singing synthesis, melody/harmony generation, and instrumentation. It offers selectable voice styles, pitch/expression control, tempo/mood settings, multilingual support, real-time rendering, and downloadable stems.
 In short, AI Singing is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. For a lot of people, that one function of AI Singing collapses multiple steps into a single action.
 
 ## Key features

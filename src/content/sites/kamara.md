@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Kamara?
-    a: Kamara AI integrates into GitHub, delivering contextual code analysis, automated reviews, bug detection, performance and security checks, and auto‑generates pull requests, tests, and documentation updates that match project style while preserving institutional knowledge. Code assistant Freemium - $19/mo That is the core of what Kamara does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Kamara AI integrates into GitHub, delivering contextual code analysis, automated reviews, bug detection, performance and security checks, and auto‑generates pull requests, tests, and documentation updates that match project style while preserving institutional knowledge. That is the core of what Kamara does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Kamara free?
     a: Kamara uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $19/mo, check the official website — pricing changes often.
   - q: What can you do with Kamara?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Kamara?
 
-Kamara AI integrates into GitHub, delivering contextual code analysis, automated reviews, bug detection, performance and security checks, and auto‑generates pull requests, tests, and documentation updates that match project style while preserving institutional knowledge. Code assistant Freemium - $19/mo
-
+Kamara AI integrates into GitHub, delivering contextual code analysis, automated reviews, bug detection, performance and security checks, and auto‑generates pull requests, tests, and documentation updates that match project style while preserving institutional knowledge.
 In short, Kamara is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one feature of Kamara often eliminates several smaller steps from the usual workflow.
 
 ## Key features

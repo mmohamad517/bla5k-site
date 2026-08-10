@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is BePurple.ai?
-    a: Converts product specs into phased, trackable tickets and coordinated cross-repo pull requests using codebase-aware agents; decomposes features, runs parallel implementations, enforces QA and contract checks, and coordinates multi-repo merges to reduce integration drift. AI Agents Subscription - $100/mo That is the core of what BePurple.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Converts product specs into phased, trackable tickets and coordinated cross-repo pull requests using codebase-aware agents; decomposes features, runs parallel implementations, enforces QA and contract checks, and coordinates multi-repo merges to reduce integration drift. That is the core of what BePurple.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is BePurple.ai free?
     a: BePurple.ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with BePurple.ai?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is BePurple.ai?
 
-Converts product specs into phased, trackable tickets and coordinated cross-repo pull requests using codebase-aware agents; decomposes features, runs parallel implementations, enforces QA and contract checks, and coordinates multi-repo merges to reduce integration drift. AI Agents Subscription - $100/mo
-
+Converts product specs into phased, trackable tickets and coordinated cross-repo pull requests using codebase-aware agents; decomposes features, runs parallel implementations, enforces QA and contract checks, and coordinates multi-repo merges to reduce integration drift.
 In short, BePurple.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For plenty of users, that one capability of BePurple.ai replaces several steps they used to do by hand.
 
 ## Key features

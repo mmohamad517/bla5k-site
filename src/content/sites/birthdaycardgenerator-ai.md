@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is BirthdayCardGenerator AI?
-    a: birthdaycardgenerator.ai is an AI tool that creates personalized birthday cards, posters, and invitations from text prompts and up to three reference images. It supports niche themes, offers AI copywriting for messages, and exports high-resolution, print-ready PDFs and PNGs. Card Design Free trial That is the core of what BirthdayCardGenerator AI does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: birthdaycardgenerator.ai is an AI tool that creates personalized birthday cards, posters, and invitations from text prompts and up to three reference images. It supports niche themes, offers AI copywriting for messages, and exports high-resolution, print-ready PDFs and PNGs. That is the core of what BirthdayCardGenerator AI does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is BirthdayCardGenerator AI free?
     a: BirthdayCardGenerator AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with BirthdayCardGenerator AI?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like BirthdayCardGene
 
 ## What is BirthdayCardGenerator AI?
 
-birthdaycardgenerator.ai is an AI tool that creates personalized birthday cards, posters, and invitations from text prompts and up to three reference images. It supports niche themes, offers AI copywriting for messages, and exports high-resolution, print-ready PDFs and PNGs. Card Design Free trial
-
+birthdaycardgenerator.ai is an AI tool that creates personalized birthday cards, posters, and invitations from text prompts and up to three reference images. It supports niche themes, offers AI copywriting for messages, and exports high-resolution, print-ready PDFs and PNGs.
 In short, BirthdayCardGenerator AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. Many users discover that this feature of BirthdayCardGenerator AI alone covers what previously took multiple tools.
 
 ## Key features

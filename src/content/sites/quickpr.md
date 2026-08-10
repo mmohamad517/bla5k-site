@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is QuickPR?
-    a: QuickPR is a digital PR platform that utilizes AI for efficient article creation and fast publication. It simplifies outreach to top-ranking publications and offers diverse payment options, making it suitable for global businesses aiming to enhance brand visibility. Digital Marketing Freemium That is the core of what QuickPR does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: QuickPR is a digital PR platform that utilizes AI for efficient article creation and fast publication. It simplifies outreach to top-ranking publications and offers diverse payment options, making it suitable for global businesses aiming to enhance brand visibility. That is the core of what QuickPR does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is QuickPR free?
     a: QuickPR uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with QuickPR?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like QuickPR ear
 
 ## What is QuickPR?
 
-QuickPR is a digital PR platform that utilizes AI for efficient article creation and fast publication. It simplifies outreach to top-ranking publications and offers diverse payment options, making it suitable for global businesses aiming to enhance brand visibility. Digital Marketing Freemium
-
+QuickPR is a digital PR platform that utilizes AI for efficient article creation and fast publication. It simplifies outreach to top-ranking publications and offers diverse payment options, making it suitable for global businesses aiming to enhance brand visibility.
 In short, QuickPR is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For a lot of people, that one function of QuickPR collapses multiple steps into a single action.
 
 ## Key features

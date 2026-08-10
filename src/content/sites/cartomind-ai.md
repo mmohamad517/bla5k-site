@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CartoMind?
-    a: CartoMind.ai is an AI infographic generator that transforms text, documents, and notes into professional visuals. It automatically analyzes content, selects templates, and designs layouts for easy export to presentations, social media, and blogs.  That is the core of what CartoMind does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CartoMind.ai is an AI infographic generator that transforms text, documents, and notes into professional visuals. It automatically analyzes content, selects templates, and designs layouts for easy export to presentations, social media, and blogs. That is the core of what CartoMind does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CartoMind free?
     a: CartoMind uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9.00/mo, check the official website — pricing changes often.
   - q: What can you do with CartoMind?

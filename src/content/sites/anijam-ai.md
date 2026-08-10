@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Anijam.ai?
-    a: Anijam is an AI animation agent offering text-to-animation, 2D/3D character creation, an animation-optimized lip-sync engine with customizable voices, a canvas and timeline editor, behavior controls, style-training tools, and mobile access for iterative production.  That is the core of what Anijam.ai does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Anijam is an AI animation agent offering text-to-animation, 2D/3D character creation, an animation-optimized lip-sync engine with customizable voices, a canvas and timeline editor, behavior controls, style-training tools, and mobile access for iterative production. That is the core of what Anijam.ai does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Anijam.ai free?
     a: Anijam.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $16/mo, check the official website — pricing changes often.
   - q: What can you do with Anijam.ai?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Webbotify?
-    a: Webbotify trains a chatbot directly from your site’s content, delivering instant multilingual responses in 95 languages. One‑line code deployment, email capture for lead generation, analytics, brand‑customizable UI, and automatic updates from new documents keep support current and secure. Knowledge base management Subscription - $19/mo That is the core of what Webbotify does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Webbotify trains a chatbot directly from your site’s content, delivering instant multilingual responses in 95 languages. One‑line code deployment, email capture for lead generation, analytics, brand‑customizable UI, and automatic updates from new documents keep support current and secure. That is the core of what Webbotify does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Webbotify free?
     a: Webbotify is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Webbotify?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Webbotify m
 
 ## What is Webbotify?
 
-Webbotify trains a chatbot directly from your site’s content, delivering instant multilingual responses in 95 languages. One‑line code deployment, email capture for lead generation, analytics, brand‑customizable UI, and automatic updates from new documents keep support current and secure. Knowledge base management Subscription - $19/mo
-
+Webbotify trains a chatbot directly from your site’s content, delivering instant multilingual responses in 95 languages. One‑line code deployment, email capture for lead generation, analytics, brand‑customizable UI, and automatic updates from new documents keep support current and secure.
 In short, Webbotify is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. Many users discover that this feature of Webbotify alone covers what previously took multiple tools.
 
 ## Key features

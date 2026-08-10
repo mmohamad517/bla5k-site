@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Call2action AI?
-    a: Call2Action is an AI recruiting software that automates interview scheduling and conducts live video interviews. It provides tailored feedback reports, integrates with ATS systems, and enhances HR workflows to improve candidate satisfaction and reduce time-to-hire. Human resources Freemium That is the core of what Call2action AI does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Call2Action is an AI recruiting software that automates interview scheduling and conducts live video interviews. It provides tailored feedback reports, integrates with ATS systems, and enhances HR workflows to improve candidate satisfaction and reduce time-to-hire. That is the core of what Call2action AI does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Call2action AI free?
     a: Call2action AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Call2action AI?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Call2action AI e
 
 ## What is Call2action AI?
 
-Call2Action is an AI recruiting software that automates interview scheduling and conducts live video interviews. It provides tailored feedback reports, integrates with ATS systems, and enhances HR workflows to improve candidate satisfaction and reduce time-to-hire. Human resources Freemium
-
+Call2Action is an AI recruiting software that automates interview scheduling and conducts live video interviews. It provides tailored feedback reports, integrates with ATS systems, and enhances HR workflows to improve candidate satisfaction and reduce time-to-hire.
 In short, Call2action AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. For many, that single strength of Call2action AI is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

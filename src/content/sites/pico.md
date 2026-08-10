@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Pico?
-    a: Pico is a microapp builder powered by GPT for creating custom apps quickly.  That is the core of what Pico does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Pico is a microapp builder powered by GPT for creating custom apps quickly. That is the core of what Pico does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Pico free?
     a: Pico uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $29/mo, check the official website — pricing changes often.
   - q: What can you do with Pico?

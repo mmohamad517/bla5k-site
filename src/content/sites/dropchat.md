@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Dropchat?
-    a: Dropchat is a no-code chatbot builder that imports PDFs, YouTube videos, and webpages to train assistants. It delivers instant, data‑driven answers 24/7, with optional escalation to email or live agents, and embeds easily into websites.  That is the core of what Dropchat does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Dropchat is a no-code chatbot builder that imports PDFs, YouTube videos, and webpages to train assistants. It delivers instant, data‑driven answers 24/7, with optional escalation to email or live agents, and embeds easily into websites. That is the core of what Dropchat does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Dropchat free?
     a: Dropchat uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $24/mo, check the official website — pricing changes often.
   - q: What can you do with Dropchat?

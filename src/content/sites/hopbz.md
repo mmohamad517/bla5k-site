@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Hopbz?
-    a: Hopbz is an AI‑powered business idea generator that tailors concepts to local market conditions and user preferences. It uses predictive analytics and map data to recommend optimal locations, then provides evaluation tools to refine and plan ventures. Business planning Freemium That is the core of what Hopbz does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Hopbz is an AI‑powered business idea generator that tailors concepts to local market conditions and user preferences. It uses predictive analytics and map data to recommend optimal locations, then provides evaluation tools to refine and plan ventures. That is the core of what Hopbz does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Hopbz free?
     a: Hopbz uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Hopbz?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Hopbz?
 
-Hopbz is an AI‑powered business idea generator that tailors concepts to local market conditions and user preferences. It uses predictive analytics and map data to recommend optimal locations, then provides evaluation tools to refine and plan ventures. Business planning Freemium
-
+Hopbz is an AI‑powered business idea generator that tailors concepts to local market conditions and user preferences. It uses predictive analytics and map data to recommend optimal locations, then provides evaluation tools to refine and plan ventures.
 In short, Hopbz is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI planning without the manual grind. For many, that single strength of Hopbz is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

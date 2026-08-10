@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is UndetectableAI?
-    a: Uncheck AI detects AI‑generated content and rewrites it to evade detection while preserving meaning, grammar, and style. Supporting over 30 languages and removing watermark phrases, its output is error‑free, plagiarism‑free, and suitable for email marketing and SEO. Content Writing Freemium - $6.99/mo That is the core of what UndetectableAI does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Uncheck AI detects AI‑generated content and rewrites it to evade detection while preserving meaning, grammar, and style. Supporting over 30 languages and removing watermark phrases, its output is error‑free, plagiarism‑free, and suitable for email marketing and SEO. That is the core of what UndetectableAI does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is UndetectableAI free?
     a: UndetectableAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $6.99/mo, check the official website — pricing changes often.
   - q: What can you do with UndetectableAI?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is UndetectableAI?
 
-Uncheck AI detects AI‑generated content and rewrites it to evade detection while preserving meaning, grammar, and style. Supporting over 30 languages and removing watermark phrases, its output is error‑free, plagiarism‑free, and suitable for email marketing and SEO. Content Writing Freemium - $6.99/mo
-
+Uncheck AI detects AI‑generated content and rewrites it to evade detection while preserving meaning, grammar, and style. Supporting over 30 languages and removing watermark phrases, its output is error‑free, plagiarism‑free, and suitable for email marketing and SEO.
 In short, UndetectableAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For a lot of people, that one function of UndetectableAI collapses multiple steps into a single action.
 
 ## Key features

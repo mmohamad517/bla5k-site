@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CyberSeal AI?
-    a: CyberSeal AI is an advanced anti-cheating solution that detects AI-generated cheating methods like deepfakes and voice synthesis. It integrates quickly with existing proctoring systems using kernel-level monitoring for a 99.7% detection rate with zero false positives.  That is the core of what CyberSeal AI does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CyberSeal AI is an advanced anti-cheating solution that detects AI-generated cheating methods like deepfakes and voice synthesis. It integrates quickly with existing proctoring systems using kernel-level monitoring for a 99.7% detection rate with zero false positives. That is the core of what CyberSeal AI does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CyberSeal AI free?
     a: CyberSeal AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with CyberSeal AI?

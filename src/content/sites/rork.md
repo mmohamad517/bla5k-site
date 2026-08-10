@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Rork?
-    a: Rork is an AI platform for creating cross-platform mobile apps quickly using Expo and React Native. It simplifies app development for both developers and non-developers by allowing easy image uploads and an intuitive design interface. App Builder Freemium That is the core of what Rork does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Rork is an AI platform for creating cross-platform mobile apps quickly using Expo and React Native. It simplifies app development for both developers and non-developers by allowing easy image uploads and an intuitive design interface. That is the core of what Rork does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Rork free?
     a: Rork uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Rork?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Rork matter
 
 ## What is Rork?
 
-Rork is an AI platform for creating cross-platform mobile apps quickly using Expo and React Native. It simplifies app development for both developers and non-developers by allowing easy image uploads and an intuitive design interface. App Builder Freemium
-
+Rork is an AI platform for creating cross-platform mobile apps quickly using Expo and React Native. It simplifies app development for both developers and non-developers by allowing easy image uploads and an intuitive design interface.
 In short, Rork is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. That one capability of Rork frequently saves users from juggling several separate steps.
 
 ## Key features

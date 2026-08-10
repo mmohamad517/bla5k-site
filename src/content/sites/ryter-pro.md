@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ryter Pro?
-    a: Ryter AI Humanizer converts AI-generated text into natural, human-style writing to reduce detection by tools like Turnitin, GPTZero and Originality.ai while preserving meaning. It provides fast automated rewriting, detector reports, API access and privacy options. Copywriting Freemium That is the core of what Ryter Pro does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ryter AI Humanizer converts AI-generated text into natural, human-style writing to reduce detection by tools like Turnitin, GPTZero and Originality.ai while preserving meaning. It provides fast automated rewriting, detector reports, API access and privacy options. That is the core of what Ryter Pro does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ryter Pro free?
     a: Ryter Pro uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Ryter Pro?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Ryter Pro?
 
-Ryter AI Humanizer converts AI-generated text into natural, human-style writing to reduce detection by tools like Turnitin, GPTZero and Originality.ai while preserving meaning. It provides fast automated rewriting, detector reports, API access and privacy options. Copywriting Freemium
-
+Ryter AI Humanizer converts AI-generated text into natural, human-style writing to reduce detection by tools like Turnitin, GPTZero and Originality.ai while preserving meaning. It provides fast automated rewriting, detector reports, API access and privacy options.
 In short, Ryter Pro is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. For a lot of people, that one function of Ryter Pro collapses multiple steps into a single action.
 
 ## Key features

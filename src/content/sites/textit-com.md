@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is textit.com?
-    a: TextIt lets users build and deploy interactive chatbots via a drag‑and‑drop flow designer, supporting omni‑channel messaging (Facebook, WhatsApp, SMS, etc.). It offers a contact database, automated follow‑ups, real‑time monitoring, and Zapier/Wit.ai integrations. Omnichannel chatbot Freemium - $25/mo That is the core of what textit.com does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: TextIt lets users build and deploy interactive chatbots via a drag‑and‑drop flow designer, supporting omni‑channel messaging (Facebook, WhatsApp, SMS, etc.). It offers a contact database, automated follow‑ups, real‑time monitoring, and Zapier/Wit.ai integrations. That is the core of what textit.com does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is textit.com free?
     a: textit.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $25/mo, check the official website — pricing changes often.
   - q: What can you do with textit.com?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like textit
 
 ## What is textit.com?
 
-TextIt lets users build and deploy interactive chatbots via a drag‑and‑drop flow designer, supporting omni‑channel messaging (Facebook, WhatsApp, SMS, etc.). It offers a contact database, automated follow‑ups, real‑time monitoring, and Zapier/Wit.ai integrations. Omnichannel chatbot Freemium - $25/mo
-
+TextIt lets users build and deploy interactive chatbots via a drag‑and‑drop flow designer, supporting omni‑channel messaging (Facebook, WhatsApp, SMS, etc.). It offers a contact database, automated follow‑ups, real‑time monitoring, and Zapier/Wit.ai integrations.
 In short, textit.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. That one capability of textit.com frequently saves users from juggling several separate steps.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Westidol?
-    a: West Idol generates high‑quality character portraits from uploaded photos or new faces, with style selection, AI inpainting, background removal, sketch‑to‑image, text‑to‑image, and upscaling, delivering commercial‑ready, watermark‑free images quickly for creators and teams. Avatar Subscription - $29/mo That is the core of what Westidol does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: West Idol generates high‑quality character portraits from uploaded photos or new faces, with style selection, AI inpainting, background removal, sketch‑to‑image, text‑to‑image, and upscaling, delivering commercial‑ready, watermark‑free images quickly for creators and teams. That is the core of what Westidol does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Westidol free?
     a: Westidol is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Westidol?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Westidol?
 
-West Idol generates high‑quality character portraits from uploaded photos or new faces, with style selection, AI inpainting, background removal, sketch‑to‑image, text‑to‑image, and upscaling, delivering commercial‑ready, watermark‑free images quickly for creators and teams. Avatar Subscription - $29/mo
-
+West Idol generates high‑quality character portraits from uploaded photos or new faces, with style selection, AI inpainting, background removal, sketch‑to‑image, text‑to‑image, and upscaling, delivering commercial‑ready, watermark‑free images quickly for creators and teams.
 In short, Westidol is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. Many users discover that this feature of Westidol alone covers what previously took multiple tools.
 
 ## Key features

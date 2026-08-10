@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Lipsync AI?
-    a: Lipsync AI is an online tool that creates talking avatars by perfectly synchronizing lip movements to any uploaded audio. Simply provide a video or image and an audio file to generate animated content in various formats and languages.  That is the core of what Lipsync AI does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Lipsync AI is an online tool that creates talking avatars by perfectly synchronizing lip movements to any uploaded audio. Simply provide a video or image and an audio file to generate animated content in various formats and languages. That is the core of what Lipsync AI does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Lipsync AI free?
     a: Lipsync AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Lipsync AI?

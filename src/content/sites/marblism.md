@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Marblism?
-    a: Marblism is a virtual workforce platform that deploys specialized AI employees to handle content creation, social scheduling, and administrative tasks. It automates blog writing, SEO drafts, email management, and appointment coordination, reducing manual workload for bloggers and niche publishers.  That is the core of what Marblism does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Marblism is a virtual workforce platform that deploys specialized AI employees to handle content creation, social scheduling, and administrative tasks. It automates blog writing, SEO drafts, email management, and appointment coordination, reducing manual workload for bloggers and niche publishers. That is the core of what Marblism does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Marblism free?
     a: Marblism is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Marblism?

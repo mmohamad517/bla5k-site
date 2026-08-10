@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Todook bot?
-    a: Todook is a 24/7 AI assistant that automates customer inquiries and sales across social channels. It handles broadcasts, replies, lead capture, booking, and e‑commerce actions, using segmentation and analytics for real‑time performance and ROI. Chatbot builder Free - $79/mo That is the core of what Todook bot does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Todook is a 24/7 AI assistant that automates customer inquiries and sales across social channels. It handles broadcasts, replies, lead capture, booking, and e‑commerce actions, using segmentation and analytics for real‑time performance and ROI. That is the core of what Todook bot does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Todook bot free?
     a: Todook bot uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Todook bot?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Todook bot earn 
 
 ## What is Todook bot?
 
-Todook is a 24/7 AI assistant that automates customer inquiries and sales across social channels. It handles broadcasts, replies, lead capture, booking, and e‑commerce actions, using segmentation and analytics for real‑time performance and ROI. Chatbot builder Free - $79/mo
-
+Todook is a 24/7 AI assistant that automates customer inquiries and sales across social channels. It handles broadcasts, replies, lead capture, booking, and e‑commerce actions, using segmentation and analytics for real‑time performance and ROI.
 In short, Todook bot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. That single feature of Todook bot alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

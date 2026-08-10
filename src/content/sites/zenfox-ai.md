@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Zenfox AI?
-    a: Zenfox.ai is an agentic AI platform that connects 3,000+ apps (Gmail, Slack, CRM, etc.) to execute real-system tasks and automate end-to-end workflows using natural language. It features 24/7 background agents with persistent memory, zero-code builders, and review-and-approve controls for secure, scalable automation.  That is the core of what Zenfox AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Zenfox.ai is an agentic AI platform that connects 3,000+ apps (Gmail, Slack, CRM, etc.) to execute real-system tasks and automate end-to-end workflows using natural language. It features 24/7 background agents with persistent memory, zero-code builders, and review-and-approve controls for secure, scalable automation. That is the core of what Zenfox AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Zenfox AI free?
     a: Zenfox AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $29/mo, check the official website — pricing changes often.
   - q: What can you do with Zenfox AI?

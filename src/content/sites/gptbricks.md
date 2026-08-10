@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is GPTBricks?
-    a: "GPTBricks: No-code platform for AI chatbot creation using OpenAI's GPT-4 technology, allowing easy customization of conversational flows, integration of external APIs, and deployment across multiple platforms for improved customer interactions and workflow automation. Chatbot builder Freemium That is the core of what GPTBricks does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "GPTBricks: No-code platform for AI chatbot creation using OpenAI's GPT-4 technology, allowing easy customization of conversational flows, integration of external APIs, and deployment across multiple platforms for improved customer interactions and workflow automation. That is the core of what GPTBricks does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is GPTBricks free?
     a: GPTBricks uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with GPTBricks?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like GPTBricks earn t
 
 ## What is GPTBricks?
 
-GPTBricks: No-code platform for AI chatbot creation using OpenAI's GPT-4 technology, allowing easy customization of conversational flows, integration of external APIs, and deployment across multiple platforms for improved customer interactions and workflow automation. Chatbot builder Freemium
-
+GPTBricks: No-code platform for AI chatbot creation using OpenAI's GPT-4 technology, allowing easy customization of conversational flows, integration of external APIs, and deployment across multiple platforms for improved customer interactions and workflow automation.
 In short, GPTBricks is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. Many users find that this one ability of GPTBricks removes several tasks from their daily routine.
 
 ## Key features

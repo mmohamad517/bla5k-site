@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Omneky?
-    a: Omneky automates creation of image, video, UGC, and avatar‑based ads by extracting brand assets from a website or uploads. It publishes across Meta, Google, TikTok, LinkedIn, and Reddit, offering real‑time performance insights and campaign optimization. Marketing Paid That is the core of what Omneky does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Omneky automates creation of image, video, UGC, and avatar‑based ads by extracting brand assets from a website or uploads. It publishes across Meta, Google, TikTok, LinkedIn, and Reddit, offering real‑time performance insights and campaign optimization. That is the core of what Omneky does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Omneky free?
     a: Omneky is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Omneky?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Omneky?
 
-Omneky automates creation of image, video, UGC, and avatar‑based ads by extracting brand assets from a website or uploads. It publishes across Meta, Google, TikTok, LinkedIn, and Reddit, offering real‑time performance insights and campaign optimization. Marketing Paid
-
+Omneky automates creation of image, video, UGC, and avatar‑based ads by extracting brand assets from a website or uploads. It publishes across Meta, Google, TikTok, LinkedIn, and Reddit, offering real‑time performance insights and campaign optimization.
 In short, Omneky is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. Many users discover that this feature of Omneky alone covers what previously took multiple tools.
 
 ## Key features

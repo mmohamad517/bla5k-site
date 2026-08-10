@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ollang.com?
-    a: Ollang is a localization platform that automates dubbing, subtitles, closed captions and metadata in 100+ languages, combining studio-quality voice workflows, agentic AI orchestration, no-code project automation, and an API for scalable video, audio, and text localization. AI Agents Freemium That is the core of what ollang.com does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ollang is a localization platform that automates dubbing, subtitles, closed captions and metadata in 100+ languages, combining studio-quality voice workflows, agentic AI orchestration, no-code project automation, and an API for scalable video, audio, and text localization. That is the core of what ollang.com does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ollang.com free?
     a: ollang.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ollang.com?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like ollang.com 
 
 ## What is ollang.com?
 
-Ollang is a localization platform that automates dubbing, subtitles, closed captions and metadata in 100+ languages, combining studio-quality voice workflows, agentic AI orchestration, no-code project automation, and an API for scalable video, audio, and text localization. AI Agents Freemium
-
+Ollang is a localization platform that automates dubbing, subtitles, closed captions and metadata in 100+ languages, combining studio-quality voice workflows, agentic AI orchestration, no-code project automation, and an API for scalable video, audio, and text localization.
 In short, ollang.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For a lot of people, that one function of ollang.com collapses multiple steps into a single action.
 
 ## Key features

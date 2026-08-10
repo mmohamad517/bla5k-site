@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Consistent Character Generator?
-    a: Consistent Character AI generates multiple image variations of a single character, preserving identity and style. With front‑face reference photos and prompts, it produces diverse poses, outfits, backgrounds, and art styles, supporting high‑resolution outputs and API integration. Avatar Paid - $9.9 That is the core of what Consistent Character Generator does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Consistent Character AI generates multiple image variations of a single character, preserving identity and style. With front‑face reference photos and prompts, it produces diverse poses, outfits, backgrounds, and art styles, supporting high‑resolution outputs and API integration. That is the core of what Consistent Character Generator does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Consistent Character Generator free?
     a: Consistent Character Generator is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Consistent Character Generator?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Consistent Chara
 
 ## What is Consistent Character Generator?
 
-Consistent Character AI generates multiple image variations of a single character, preserving identity and style. With front‑face reference photos and prompts, it produces diverse poses, outfits, backgrounds, and art styles, supporting high‑resolution outputs and API integration. Avatar Paid - $9.9
-
+Consistent Character AI generates multiple image variations of a single character, preserving identity and style. With front‑face reference photos and prompts, it produces diverse poses, outfits, backgrounds, and art styles, supporting high‑resolution outputs and API integration.
 In short, Consistent Character Generator is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. Many users discover that this feature of Consistent Character Generator alone covers what previously took multiple tools.
 
 ## Key features

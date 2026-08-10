@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AdMesh?
-    a: AdMesh publishes structured product metadata into AI agent ecosystems to enable discovery and intent-based targeting, with performance-based billing for verified actions and a campaign analytics dashboard reporting CTR, CVR, CPA, conversions, and spend.  That is the core of what AdMesh does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AdMesh publishes structured product metadata into AI agent ecosystems to enable discovery and intent-based targeting, with performance-based billing for verified actions and a campaign analytics dashboard reporting CTR, CVR, CPA, conversions, and spend. That is the core of what AdMesh does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AdMesh free?
     a: AdMesh uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AdMesh?

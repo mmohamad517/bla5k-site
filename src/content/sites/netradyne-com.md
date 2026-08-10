@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is netradyne.com?
-    a: Driver•i is an AI-driven video telematics system that records forward and inward cameras, monitors driver drowsiness and distraction with DMS and audio alerts, provides GPS/cloud video access, automated coaching workflows, scoring and fleet integrations for safety, compliance, and review. AI Agents Freemium That is the core of what netradyne.com does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Driver•i is an AI-driven video telematics system that records forward and inward cameras, monitors driver drowsiness and distraction with DMS and audio alerts, provides GPS/cloud video access, automated coaching workflows, scoring and fleet integrations for safety, compliance, and review. That is the core of what netradyne.com does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is netradyne.com free?
     a: netradyne.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with netradyne.com?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is netradyne.com?
 
-Driver•i is an AI-driven video telematics system that records forward and inward cameras, monitors driver drowsiness and distraction with DMS and audio alerts, provides GPS/cloud video access, automated coaching workflows, scoring and fleet integrations for safety, compliance, and review. AI Agents Freemium
-
+Driver•i is an AI-driven video telematics system that records forward and inward cameras, monitors driver drowsiness and distraction with DMS and audio alerts, provides GPS/cloud video access, automated coaching workflows, scoring and fleet integrations for safety, compliance, and review.
 In short, netradyne.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That one feature of netradyne.com often eliminates several smaller steps from the usual workflow.
 
 ## Key features

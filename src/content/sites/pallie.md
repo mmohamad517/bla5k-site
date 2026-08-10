@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Pallie?
-    a: Pallie is an AI companion for iMessage, Facebook, Telegram, and WhatsApp that logs physical activity, calories, and tasks, sends reminders, offers customized news, image creation, guided programs, sleep journaling, and role‑play to boost well‑being, exercise, and productivity. Chatbot builder Paid That is the core of what Pallie does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Pallie is an AI companion for iMessage, Facebook, Telegram, and WhatsApp that logs physical activity, calories, and tasks, sends reminders, offers customized news, image creation, guided programs, sleep journaling, and role‑play to boost well‑being, exercise, and productivity. That is the core of what Pallie does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Pallie free?
     a: Pallie is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Pallie?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Pallie?
 
-Pallie is an AI companion for iMessage, Facebook, Telegram, and WhatsApp that logs physical activity, calories, and tasks, sends reminders, offers customized news, image creation, guided programs, sleep journaling, and role‑play to boost well‑being, exercise, and productivity. Chatbot builder Paid
-
+Pallie is an AI companion for iMessage, Facebook, Telegram, and WhatsApp that logs physical activity, calories, and tasks, sends reminders, offers customized news, image creation, guided programs, sleep journaling, and role‑play to boost well‑being, exercise, and productivity.
 In short, Pallie is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. That single feature of Pallie alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ArtiScribe AI?
-    a: ArtiScribe AI assists artists in drafting Instagram/Facebook captions, email subject lines, and optimized hashtags through a guided workflow. It also turns text prompts into digital art, supports niche targeting, and is user‑friendly for non‑technical creators. Copywriting Freemium That is the core of what ArtiScribe AI does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ArtiScribe AI assists artists in drafting Instagram/Facebook captions, email subject lines, and optimized hashtags through a guided workflow. It also turns text prompts into digital art, supports niche targeting, and is user‑friendly for non‑technical creators. That is the core of what ArtiScribe AI does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ArtiScribe AI free?
     a: ArtiScribe AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ArtiScribe AI?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like ArtiScribe 
 
 ## What is ArtiScribe AI?
 
-ArtiScribe AI assists artists in drafting Instagram/Facebook captions, email subject lines, and optimized hashtags through a guided workflow. It also turns text prompts into digital art, supports niche targeting, and is user‑friendly for non‑technical creators. Copywriting Freemium
-
+ArtiScribe AI assists artists in drafting Instagram/Facebook captions, email subject lines, and optimized hashtags through a guided workflow. It also turns text prompts into digital art, supports niche targeting, and is user‑friendly for non‑technical creators.
 In short, ArtiScribe AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. For many, that single strength of ArtiScribe AI is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

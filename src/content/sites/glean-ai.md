@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Glean AI?
-    a: Glean.ai automates accounts payable workflows—data extraction, coding, approvals, payments—while providing spend analytics, anomaly detection, and vendor management. It integrates with major accounting platforms and banks, and offers mobile access for real‑time approvals and budget monitoring.  That is the core of what Glean AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Glean.ai automates accounts payable workflows—data extraction, coding, approvals, payments—while providing spend analytics, anomaly detection, and vendor management. It integrates with major accounting platforms and banks, and offers mobile access for real‑time approvals and budget monitoring. That is the core of what Glean AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Glean AI free?
     a: Glean AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Glean AI?

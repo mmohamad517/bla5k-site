@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Detector Pro?
-    a: AI Detector Pro provides comprehensive recognition of AI-generated text and includes advanced features to manage AI generation reports efficiently.  That is the core of what AI Detector Pro does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Detector Pro provides comprehensive recognition of AI-generated text and includes advanced features to manage AI generation reports efficiently. That is the core of what AI Detector Pro does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI Detector Pro free?
     a: AI Detector Pro uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AI Detector Pro?

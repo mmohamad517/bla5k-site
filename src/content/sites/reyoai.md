@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ReyoAI?
-    a: ReyoAI is a versatile content generation platform offering tools for creating SEO-optimized articles, custom images, and audio transcriptions. It features templates for editing, YouTube video conversions, and an integrated chatbot for enhanced user engagement. Content creation Free trial - $10/mo That is the core of what ReyoAI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ReyoAI is a versatile content generation platform offering tools for creating SEO-optimized articles, custom images, and audio transcriptions. It features templates for editing, YouTube video conversions, and an integrated chatbot for enhanced user engagement. That is the core of what ReyoAI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ReyoAI free?
     a: ReyoAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $10/mo, check the official website — pricing changes often.
   - q: What can you do with ReyoAI?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is ReyoAI?
 
-ReyoAI is a versatile content generation platform offering tools for creating SEO-optimized articles, custom images, and audio transcriptions. It features templates for editing, YouTube video conversions, and an integrated chatbot for enhanced user engagement. Content creation Free trial - $10/mo
-
+ReyoAI is a versatile content generation platform offering tools for creating SEO-optimized articles, custom images, and audio transcriptions. It features templates for editing, YouTube video conversions, and an integrated chatbot for enhanced user engagement.
 In short, ReyoAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. That one capability of ReyoAI frequently saves users from juggling several separate steps.
 
 ## Key features

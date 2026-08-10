@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Kreo Software?
-    a: Kreo Construction Takeoff AI Software optimizes building projects by automating measurements, producing precise reports, and fostering team collaboration. Enhanced with cloud-based estimating, secure data sharing, and AI technology, it boosts efficiency and productivity for construction experts. Construction Management Free trial - $480 That is the core of what Kreo Software does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Kreo Construction Takeoff AI Software optimizes building projects by automating measurements, producing precise reports, and fostering team collaboration. Enhanced with cloud-based estimating, secure data sharing, and AI technology, it boosts efficiency and productivity for construction experts. That is the core of what Kreo Software does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Kreo Software free?
     a: Kreo Software uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $480, check the official website — pricing changes often.
   - q: What can you do with Kreo Software?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Kreo S
 
 ## What is Kreo Software?
 
-Kreo Construction Takeoff AI Software optimizes building projects by automating measurements, producing precise reports, and fostering team collaboration. Enhanced with cloud-based estimating, secure data sharing, and AI technology, it boosts efficiency and productivity for construction experts. Construction Management Free trial - $480
-
+Kreo Construction Takeoff AI Software optimizes building projects by automating measurements, producing precise reports, and fostering team collaboration. Enhanced with cloud-based estimating, secure data sharing, and AI technology, it boosts efficiency and productivity for construction experts.
 In short, Kreo Software is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many, that single strength of Kreo Software is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

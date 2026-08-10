@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is GhostCoder?
-    a: Ghostcoder is a discreet AI coding assistant that offers real-time coding support during technical interviews and LeetCode problem-solving, using user-supplied API keys for privacy and click-free functionality through global hotkeys.  That is the core of what GhostCoder does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Ghostcoder is a discreet AI coding assistant that offers real-time coding support during technical interviews and LeetCode problem-solving, using user-supplied API keys for privacy and click-free functionality through global hotkeys. That is the core of what GhostCoder does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is GhostCoder free?
     a: GhostCoder uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with GhostCoder?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CODIO?
-    a: Medicodio is an AI‑driven medical coding platform that automates coding, auditing, and documentation improvement. It delivers up to 95 % accuracy across inpatient, outpatient, and emergency encounters. Real‑time compliance checks reduce denials, and integration with EHRs maintains workflow continuity. Code assistant Freemium That is the core of what CODIO does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Medicodio is an AI‑driven medical coding platform that automates coding, auditing, and documentation improvement. It delivers up to 95 % accuracy across inpatient, outpatient, and emergency encounters. Real‑time compliance checks reduce denials, and integration with EHRs maintains workflow continuity. That is the core of what CODIO does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CODIO free?
     a: CODIO uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with CODIO?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is CODIO?
 
-Medicodio is an AI‑driven medical coding platform that automates coding, auditing, and documentation improvement. It delivers up to 95 % accuracy across inpatient, outpatient, and emergency encounters. Real‑time compliance checks reduce denials, and integration with EHRs maintains workflow continuity. Code assistant Freemium
-
+Medicodio is an AI‑driven medical coding platform that automates coding, auditing, and documentation improvement. It delivers up to 95 % accuracy across inpatient, outpatient, and emergency encounters. Real‑time compliance checks reduce denials, and integration with EHRs maintains workflow continuity.
 In short, CODIO is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of CODIO replaces several steps they used to do by hand.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Rage Filter?
-    a: RageFilter is an AI-powered toxic conversation simulator for safely practicing conflict response with archetypal antagonists like gaslighters and narcissists. It features tone-slider controls, tactic breakdowns, and campaign progression to build de-escalation and pattern-recognition skills without real-world risk. Coaching Freemium That is the core of what Rage Filter does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: RageFilter is an AI-powered toxic conversation simulator for safely practicing conflict response with archetypal antagonists like gaslighters and narcissists. It features tone-slider controls, tactic breakdowns, and campaign progression to build de-escalation and pattern-recognition skills without real-world risk. That is the core of what Rage Filter does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Rage Filter free?
     a: Rage Filter uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Rage Filter?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Rage Filter?
 
-RageFilter is an AI-powered toxic conversation simulator for safely practicing conflict response with archetypal antagonists like gaslighters and narcissists. It features tone-slider controls, tactic breakdowns, and campaign progression to build de-escalation and pattern-recognition skills without real-world risk. Coaching Freemium
-
+RageFilter is an AI-powered toxic conversation simulator for safely practicing conflict response with archetypal antagonists like gaslighters and narcissists. It features tone-slider controls, tactic breakdowns, and campaign progression to build de-escalation and pattern-recognition skills without real-world risk.
 In short, Rage Filter is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. That one capability of Rage Filter frequently saves users from juggling several separate steps.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Bitwave Agentic - KubeClaw?
-    a: Bitwave Agentic KubeClaw is a platform that automates on-chain accounting and financial workflows for crypto-native teams, while providing a governance layer for auditable autonomous agents in regulated finance environments.  That is the core of what Bitwave Agentic - KubeClaw does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Bitwave Agentic KubeClaw is a platform that automates on-chain accounting and financial workflows for crypto-native teams, while providing a governance layer for auditable autonomous agents in regulated finance environments. That is the core of what Bitwave Agentic - KubeClaw does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Bitwave Agentic - KubeClaw free?
     a: Bitwave Agentic - KubeClaw is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Bitwave Agentic - KubeClaw?

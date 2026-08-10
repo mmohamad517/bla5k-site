@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Taiga AI?
-    a: Taiga is an AI‑powered coding mentor integrated into Slack that delivers instant answers to programming questions, provides code snippets, error analysis, step‑by‑step explanations, personalized guidance, and supports team collaboration across devices. Code assistant Free That is the core of what Taiga AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Taiga is an AI‑powered coding mentor integrated into Slack that delivers instant answers to programming questions, provides code snippets, error analysis, step‑by‑step explanations, personalized guidance, and supports team collaboration across devices. That is the core of what Taiga AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Taiga AI free?
     a: Yes — Taiga AI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Taiga AI?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Taiga AI?
 
-Taiga is an AI‑powered coding mentor integrated into Slack that delivers instant answers to programming questions, provides code snippets, error analysis, step‑by‑step explanations, personalized guidance, and supports team collaboration across devices. Code assistant Free
-
+Taiga is an AI‑powered coding mentor integrated into Slack that delivers instant answers to programming questions, provides code snippets, error analysis, step‑by‑step explanations, personalized guidance, and supports team collaboration across devices.
 In short, Taiga AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of Taiga AI replaces several steps they used to do by hand.
 
 ## Key features

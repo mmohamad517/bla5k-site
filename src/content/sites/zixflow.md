@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Zixflow?
-    a: Zixflow consolidates SMS, WhatsApp, Email, and RCS messaging through a single API, offering automated workflows via visual builder or code, real‑time analytics, AI segmentation, and CRM integrations to deliver reliable, scalable transactional and marketing communications.  That is the core of what Zixflow does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Zixflow consolidates SMS, WhatsApp, Email, and RCS messaging through a single API, offering automated workflows via visual builder or code, real‑time analytics, AI segmentation, and CRM integrations to deliver reliable, scalable transactional and marketing communications. That is the core of what Zixflow does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Zixflow free?
     a: Zixflow uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Zixflow?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Myreader AI?
-    a: Myreader is an AI reading assistant that accepts PDFs, EPUBs, YouTube videos, and web articles, enabling chat‑based queries, concise summaries, contextual citations, and text‑to‑speech in 50+ voices across 30 languages. Secure cloud storage supports large libraries. Personal assistant Freemium That is the core of what Myreader AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Myreader is an AI reading assistant that accepts PDFs, EPUBs, YouTube videos, and web articles, enabling chat‑based queries, concise summaries, contextual citations, and text‑to‑speech in 50+ voices across 30 languages. Secure cloud storage supports large libraries. That is the core of what Myreader AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Myreader AI free?
     a: Myreader AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Myreader AI?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Myreader AI
 
 ## What is Myreader AI?
 
-Myreader is an AI reading assistant that accepts PDFs, EPUBs, YouTube videos, and web articles, enabling chat‑based queries, concise summaries, contextual citations, and text‑to‑speech in 50+ voices across 30 languages. Secure cloud storage supports large libraries. Personal assistant Freemium
-
+Myreader is an AI reading assistant that accepts PDFs, EPUBs, YouTube videos, and web articles, enabling chat‑based queries, concise summaries, contextual citations, and text‑to‑speech in 50+ voices across 30 languages. Secure cloud storage supports large libraries.
 In short, Myreader AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one feature of Myreader AI often eliminates several smaller steps from the usual workflow.
 
 ## Key features

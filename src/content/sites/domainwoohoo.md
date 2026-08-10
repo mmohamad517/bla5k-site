@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is DomainWoohoo?
-    a: DomainWoohoo is an AI‑powered domain finder that scans millions of extensions in real time. Users filter by keyword, extension, and length, save favorites, and log in securely via magic‑link email. It streamlines domain selection for new online ventures. Business Freemium That is the core of what DomainWoohoo does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: DomainWoohoo is an AI‑powered domain finder that scans millions of extensions in real time. Users filter by keyword, extension, and length, save favorites, and log in securely via magic‑link email. It streamlines domain selection for new online ventures. That is the core of what DomainWoohoo does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is DomainWoohoo free?
     a: DomainWoohoo uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with DomainWoohoo?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Domain
 
 ## What is DomainWoohoo?
 
-DomainWoohoo is an AI‑powered domain finder that scans millions of extensions in real time. Users filter by keyword, extension, and length, save favorites, and log in securely via magic‑link email. It streamlines domain selection for new online ventures. Business Freemium
-
+DomainWoohoo is an AI‑powered domain finder that scans millions of extensions in real time. Users filter by keyword, extension, and length, save favorites, and log in securely via magic‑link email. It streamlines domain selection for new online ventures.
 In short, DomainWoohoo is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. Many users find that this one ability of DomainWoohoo removes several tasks from their daily routine.
 
 ## Key features

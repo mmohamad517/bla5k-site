@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Image3D AI?
-    a: Image3D AI converts 2D images, including PNG, JPEG and WEBP, into editable 3D models (STL, OBJ, GLB) via single-image or multi-view reconstruction, with Normal/Low‑Poly/Geometry modes and optional PBR texturing for printing, AR, prototyping and game assets. 3d Free - $10 That is the core of what Image3D AI does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Image3D AI converts 2D images, including PNG, JPEG and WEBP, into editable 3D models (STL, OBJ, GLB) via single-image or multi-view reconstruction, with Normal/Low‑Poly/Geometry modes and optional PBR texturing for printing, AR, prototyping and game assets. That is the core of what Image3D AI does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Image3D AI free?
     a: Image3D AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Image3D AI?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Image3D AI 
 
 ## What is Image3D AI?
 
-Image3D AI converts 2D images, including PNG, JPEG and WEBP, into editable 3D models (STL, OBJ, GLB) via single-image or multi-view reconstruction, with Normal/Low‑Poly/Geometry modes and optional PBR texturing for printing, AR, prototyping and game assets. 3d Free - $10
-
+Image3D AI converts 2D images, including PNG, JPEG and WEBP, into editable 3D models (STL, OBJ, GLB) via single-image or multi-view reconstruction, with Normal/Low‑Poly/Geometry modes and optional PBR texturing for printing, AR, prototyping and game assets.
 In short, Image3D AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. For many, that single strength of Image3D AI is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Business Plan Factory?
-    a: Business Plan Factory uses AI to generate structured, data‑driven business strategies and templates covering finance, operations, marketing, and growth. Expert‑fine‑tuned workflows include version control and collaborative editing for entrepreneurs and small‑mid‑size companies. Business planning Paid - $49 That is the core of what Business Plan Factory does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Business Plan Factory uses AI to generate structured, data‑driven business strategies and templates covering finance, operations, marketing, and growth. Expert‑fine‑tuned workflows include version control and collaborative editing for entrepreneurs and small‑mid‑size companies. That is the core of what Business Plan Factory does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Business Plan Factory free?
     a: Business Plan Factory is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Business Plan Factory?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Business Plan Factory?
 
-Business Plan Factory uses AI to generate structured, data‑driven business strategies and templates covering finance, operations, marketing, and growth. Expert‑fine‑tuned workflows include version control and collaborative editing for entrepreneurs and small‑mid‑size companies. Business planning Paid - $49
-
+Business Plan Factory uses AI to generate structured, data‑driven business strategies and templates covering finance, operations, marketing, and growth. Expert‑fine‑tuned workflows include version control and collaborative editing for entrepreneurs and small‑mid‑size companies.
 In short, Business Plan Factory is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI planning without the manual grind. For plenty of users, that one capability of Business Plan Factory replaces several steps they used to do by hand.
 
 ## Key features

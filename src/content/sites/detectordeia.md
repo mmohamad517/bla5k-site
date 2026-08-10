@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Detectordeia?
-    a: Detectordeia is a sophisticated tool designed to analyze texts, distinguishing between AI-generated content and human-written material by evaluating writing patterns, structure, and style.  That is the core of what Detectordeia does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Detectordeia is a sophisticated tool designed to analyze texts, distinguishing between AI-generated content and human-written material by evaluating writing patterns, structure, and style. That is the core of what Detectordeia does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Detectordeia free?
     a: Yes — Detectordeia is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Detectordeia?

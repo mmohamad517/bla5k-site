@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is datacove?
-    a: DataCove AI is a document intelligence platform that enhances legal, HR, and compliance workflows through generative AI and machine learning, enabling insights extraction, automated recruitment, and real-time risk detection for improved decision-making efficiency.  That is the core of what datacove does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: DataCove AI is a document intelligence platform that enhances legal, HR, and compliance workflows through generative AI and machine learning, enabling insights extraction, automated recruitment, and real-time risk detection for improved decision-making efficiency. That is the core of what datacove does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is datacove free?
     a: datacove uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with datacove?

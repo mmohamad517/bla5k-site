@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Brick'd?
-    a: ReezAvatar turns any photo into a LEGO‑style mini‑figurine using GPT‑4o. Upload via web or camera, get a high‑quality avatar in seconds. Batch up to five in 20 s‑1 min. No images stored, all processed client‑side. Avatar Paid That is the core of what Brick'd does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ReezAvatar turns any photo into a LEGO‑style mini‑figurine using GPT‑4o. Upload via web or camera, get a high‑quality avatar in seconds. Batch up to five in 20 s‑1 min. No images stored, all processed client‑side. That is the core of what Brick'd does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Brick'd free?
     a: Brick'd is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Brick'd?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Brick'd?
 
-ReezAvatar turns any photo into a LEGO‑style mini‑figurine using GPT‑4o. Upload via web or camera, get a high‑quality avatar in seconds. Batch up to five in 20 s‑1 min. No images stored, all processed client‑side. Avatar Paid
-
+ReezAvatar turns any photo into a LEGO‑style mini‑figurine using GPT‑4o. Upload via web or camera, get a high‑quality avatar in seconds. Batch up to five in 20 s‑1 min. No images stored, all processed client‑side.
 In short, Brick'd is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. That one capability of Brick'd frequently saves users from juggling several separate steps.
 
 ## Key features

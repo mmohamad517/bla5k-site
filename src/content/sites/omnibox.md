@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is OmniBox?
-    a: OmniBox is an AI knowledge companion that streamlines content collection by saving web pages and documents with a single click. It transforms saved content into a searchable, question-answer format with source-traceable answers for efficient knowledge management.  That is the core of what OmniBox does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: OmniBox is an AI knowledge companion that streamlines content collection by saving web pages and documents with a single click. It transforms saved content into a searchable, question-answer format with source-traceable answers for efficient knowledge management. That is the core of what OmniBox does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is OmniBox free?
     a: OmniBox uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with OmniBox?

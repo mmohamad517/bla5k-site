@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI2image?
-    a: AI2imag is an AI tool that quickly generates custom images for websites, blogs, and social media, offering three modes and a user-friendly interface.  That is the core of what AI2image does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI2imag is an AI tool that quickly generates custom images for websites, blogs, and social media, offering three modes and a user-friendly interface. That is the core of what AI2image does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI2image free?
     a: AI2image uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AI2image?

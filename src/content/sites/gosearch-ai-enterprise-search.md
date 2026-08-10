@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is GoSearch AI Enterprise Search?
-    a: GoSearch consolidates indexed and non‑indexed data from 100+ apps, letting teams query across email, chat, documents, and private files with AI assistants. It automates routine tasks through custom agents, enforces granular security, and supports multiple LLMs for unified enterprise knowledge.  That is the core of what GoSearch AI Enterprise Search does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: GoSearch consolidates indexed and non‑indexed data from 100+ apps, letting teams query across email, chat, documents, and private files with AI assistants. It automates routine tasks through custom agents, enforces granular security, and supports multiple LLMs for unified enterprise knowledge. That is the core of what GoSearch AI Enterprise Search does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is GoSearch AI Enterprise Search free?
     a: GoSearch AI Enterprise Search uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $20/mo, check the official website — pricing changes often.
   - q: What can you do with GoSearch AI Enterprise Search?

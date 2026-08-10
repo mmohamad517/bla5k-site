@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Quotient?
-    a: Quotient centralizes campaign planning, content creation, orchestration, and analytics. AI agents generate messaging, positioning, and competitive insights, build content calendars and multi-channel assets, automate lead-nurturing journeys, task assignments, scheduled publishing, and CRM syncing. AI Agents Subscription That is the core of what Quotient does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Quotient centralizes campaign planning, content creation, orchestration, and analytics. AI agents generate messaging, positioning, and competitive insights, build content calendars and multi-channel assets, automate lead-nurturing journeys, task assignments, scheduled publishing, and CRM syncing. That is the core of what Quotient does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Quotient free?
     a: Quotient is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Quotient?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Quotient ma
 
 ## What is Quotient?
 
-Quotient centralizes campaign planning, content creation, orchestration, and analytics. AI agents generate messaging, positioning, and competitive insights, build content calendars and multi-channel assets, automate lead-nurturing journeys, task assignments, scheduled publishing, and CRM syncing. AI Agents Subscription
-
+Quotient centralizes campaign planning, content creation, orchestration, and analytics. AI agents generate messaging, positioning, and competitive insights, build content calendars and multi-channel assets, automate lead-nurturing journeys, task assignments, scheduled publishing, and CRM syncing.
 In short, Quotient is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That one feature of Quotient often eliminates several smaller steps from the usual workflow.
 
 ## Key features

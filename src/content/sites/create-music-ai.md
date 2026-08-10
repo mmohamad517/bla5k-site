@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Create Music AI?
-    a: Create Music AI is an AI music generator that converts text prompts into full-length, royalty-free songs or instrumentals with customizable genre, mood, and vocals. It includes a full production toolkit for editing and provides commercial-ready audio files for various projects.  That is the core of what Create Music AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Create Music AI is an AI music generator that converts text prompts into full-length, royalty-free songs or instrumentals with customizable genre, mood, and vocals. It includes a full production toolkit for editing and provides commercial-ready audio files for various projects. That is the core of what Create Music AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Create Music AI free?
     a: Create Music AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Create Music AI?

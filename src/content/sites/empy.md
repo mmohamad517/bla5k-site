@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Empy?
-    a: Empy offers real‑time coaching via a desktop widget on Zoom, Teams and Google Meet, delivering instant answer suggestions, speaking balance and tone tracking, and post‑call reports scored for agenda, quality, risks, and sentiment, with local LLMs for privacy and compliance. Coaching Freemium That is the core of what Empy does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Empy offers real‑time coaching via a desktop widget on Zoom, Teams and Google Meet, delivering instant answer suggestions, speaking balance and tone tracking, and post‑call reports scored for agenda, quality, risks, and sentiment, with local LLMs for privacy and compliance. That is the core of what Empy does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Empy free?
     a: Empy uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Empy?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Empy?
 
-Empy offers real‑time coaching via a desktop widget on Zoom, Teams and Google Meet, delivering instant answer suggestions, speaking balance and tone tracking, and post‑call reports scored for agenda, quality, risks, and sentiment, with local LLMs for privacy and compliance. Coaching Freemium
-
+Empy offers real‑time coaching via a desktop widget on Zoom, Teams and Google Meet, delivering instant answer suggestions, speaking balance and tone tracking, and post‑call reports scored for agenda, quality, risks, and sentiment, with local LLMs for privacy and compliance.
 In short, Empy is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. Many users find that this one ability of Empy removes several tasks from their daily routine.
 
 ## Key features

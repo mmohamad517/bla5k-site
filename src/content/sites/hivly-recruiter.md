@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Hivly Recruiter?
-    a: Hivly is an AI recruitment tool that automates interviews and candidate assessments, allowing for real-time evaluations and detailed reporting. It streamlines hiring processes, reduces manual tasks, and enhances consistency to improve decision-making and candidate engagement. AI Agents Free That is the core of what Hivly Recruiter does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Hivly is an AI recruitment tool that automates interviews and candidate assessments, allowing for real-time evaluations and detailed reporting. It streamlines hiring processes, reduces manual tasks, and enhances consistency to improve decision-making and candidate engagement. That is the core of what Hivly Recruiter does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Hivly Recruiter free?
     a: Yes — Hivly Recruiter is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Hivly Recruiter?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Hivly Recruiter?
 
-Hivly is an AI recruitment tool that automates interviews and candidate assessments, allowing for real-time evaluations and detailed reporting. It streamlines hiring processes, reduces manual tasks, and enhances consistency to improve decision-making and candidate engagement. AI Agents Free
-
+Hivly is an AI recruitment tool that automates interviews and candidate assessments, allowing for real-time evaluations and detailed reporting. It streamlines hiring processes, reduces manual tasks, and enhances consistency to improve decision-making and candidate engagement.
 In short, Hivly Recruiter is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For a lot of people, that one function of Hivly Recruiter collapses multiple steps into a single action.
 
 ## Key features

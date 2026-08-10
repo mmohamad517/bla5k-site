@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Sourcio?
-    a: "Sourcio AI Hiring Agent is an automates talent sourcing by suggesting top candidates based on interests and experiences, integrating with ATS platforms for streamlined sourcing, saving time and effort while vetting over 5,0..Description in 2 lines: Sourcio AI tool automates talent sourcing by identifying top candidates through their interests and experiences, seamlessly integrating with ATS platforms to streamline the hiring process. Human resources Free That is the core of what Sourcio does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "Sourcio AI Hiring Agent is an automates talent sourcing by suggesting top candidates based on interests and experiences, integrating with ATS platforms for streamlined sourcing, saving time and effort while vetting over 5,0..Description in 2 lines: Sourcio AI tool automates talent sourcing by identifying top candidates through their interests and experiences, seamlessly integrating with ATS platforms to streamline the hiring process. That is the core of what Sourcio does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is Sourcio free?
     a: Yes — Sourcio is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Sourcio?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Sourci
 
 ## What is Sourcio?
 
-Sourcio AI Hiring Agent is an automates talent sourcing by suggesting top candidates based on interests and experiences, integrating with ATS platforms for streamlined sourcing, saving time and effort while vetting over 5,0..Description in 2 lines: Sourcio AI tool automates talent sourcing by identifying top candidates through their interests and experiences, seamlessly integrating with ATS platforms to streamline the hiring process. Human resources Free
-
+Sourcio AI Hiring Agent is an automates talent sourcing by suggesting top candidates based on interests and experiences, integrating with ATS platforms for streamlined sourcing, saving time and effort while vetting over 5,0..Description in 2 lines: Sourcio AI tool automates talent sourcing by identifying top candidates through their interests and experiences, seamlessly integrating with ATS platforms to streamline the hiring process.
 In short, Sourcio is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. For plenty of users, that one capability of Sourcio replaces several steps they used to do by hand.
 
 ## Key features

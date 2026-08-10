@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Wisdomise?
-    a: Wisdomise provides AI-driven automated crypto index funds with risk-adjusted allocation and automated rebalancing across major cryptocurrencies, real-time portfolio analytics, trade execution reporting for compliance, and on-platform utility via the WSDM token under Swiss SRO regulation. Crypto and Web3 Freemium That is the core of what Wisdomise does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Wisdomise provides AI-driven automated crypto index funds with risk-adjusted allocation and automated rebalancing across major cryptocurrencies, real-time portfolio analytics, trade execution reporting for compliance, and on-platform utility via the WSDM token under Swiss SRO regulation. That is the core of what Wisdomise does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Wisdomise free?
     a: Wisdomise uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Wisdomise?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Wisdomise m
 
 ## What is Wisdomise?
 
-Wisdomise provides AI-driven automated crypto index funds with risk-adjusted allocation and automated rebalancing across major cryptocurrencies, real-time portfolio analytics, trade execution reporting for compliance, and on-platform utility via the WSDM token under Swiss SRO regulation. Crypto and Web3 Freemium
-
+Wisdomise provides AI-driven automated crypto index funds with risk-adjusted allocation and automated rebalancing across major cryptocurrencies, real-time portfolio analytics, trade execution reporting for compliance, and on-platform utility via the WSDM token under Swiss SRO regulation.
 In short, Wisdomise is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. That single feature of Wisdomise alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

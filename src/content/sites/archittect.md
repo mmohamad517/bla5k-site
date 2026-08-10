@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Archittect?
-    a: Architecht is an AI-powered code generation tool that simplifies repetitive tasks, enabling developers to concentrate on innovation. It offers language support, VSCode integration, and predefined templates, boosting productivity and teamwork. Code assistant Free That is the core of what Archittect does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Architecht is an AI-powered code generation tool that simplifies repetitive tasks, enabling developers to concentrate on innovation. It offers language support, VSCode integration, and predefined templates, boosting productivity and teamwork. That is the core of what Archittect does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Archittect free?
     a: Yes — Archittect is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Archittect?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Archittect?
 
-Architecht is an AI-powered code generation tool that simplifies repetitive tasks, enabling developers to concentrate on innovation. It offers language support, VSCode integration, and predefined templates, boosting productivity and teamwork. Code assistant Free
-
+Architecht is an AI-powered code generation tool that simplifies repetitive tasks, enabling developers to concentrate on innovation. It offers language support, VSCode integration, and predefined templates, boosting productivity and teamwork.
 In short, Archittect is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For plenty of users, that one capability of Archittect replaces several steps they used to do by hand.
 
 ## Key features

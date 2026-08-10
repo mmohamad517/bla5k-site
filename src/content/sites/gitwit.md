@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Gitwit?
-    a: GitWit is an open‑source, AI‑native browser IDE that supports syntax highlighting, auto‑completion, and real‑time collaboration. It integrates GitHub, embeds Next.js backend, offers secure sandboxing, AI code suggestions, and community live sessions for streamlined full‑stack development. Code assistant Freemium That is the core of what Gitwit does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: GitWit is an open‑source, AI‑native browser IDE that supports syntax highlighting, auto‑completion, and real‑time collaboration. It integrates GitHub, embeds Next.js backend, offers secure sandboxing, AI code suggestions, and community live sessions for streamlined full‑stack development. That is the core of what Gitwit does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Gitwit free?
     a: Gitwit uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Gitwit?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Gitwit?
 
-GitWit is an open‑source, AI‑native browser IDE that supports syntax highlighting, auto‑completion, and real‑time collaboration. It integrates GitHub, embeds Next.js backend, offers secure sandboxing, AI code suggestions, and community live sessions for streamlined full‑stack development. Code assistant Freemium
-
+GitWit is an open‑source, AI‑native browser IDE that supports syntax highlighting, auto‑completion, and real‑time collaboration. It integrates GitHub, embeds Next.js backend, offers secure sandboxing, AI code suggestions, and community live sessions for streamlined full‑stack development.
 In short, Gitwit is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users discover that this feature of Gitwit alone covers what previously took multiple tools.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Memorr.ai?
-    a: Memorr.AI is a Mac/Windows desktop app that preserves context across AI chats using a split-screen chat plus visual memory canvas, enabling branching conversations, multi-model use, local storage, BYOK, and exportable memory for long-term workflows. Personal Chatbot Free That is the core of what Memorr.ai does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Memorr.AI is a Mac/Windows desktop app that preserves context across AI chats using a split-screen chat plus visual memory canvas, enabling branching conversations, multi-model use, local storage, BYOK, and exportable memory for long-term workflows. That is the core of what Memorr.ai does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Memorr.ai free?
     a: Yes — Memorr.ai is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Memorr.ai?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Memorr.ai?
 
-Memorr.AI is a Mac/Windows desktop app that preserves context across AI chats using a split-screen chat plus visual memory canvas, enabling branching conversations, multi-model use, local storage, BYOK, and exportable memory for long-term workflows. Personal Chatbot Free
-
+Memorr.AI is a Mac/Windows desktop app that preserves context across AI chats using a split-screen chat plus visual memory canvas, enabling branching conversations, multi-model use, local storage, BYOK, and exportable memory for long-term workflows.
 In short, Memorr.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. That single feature of Memorr.ai alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

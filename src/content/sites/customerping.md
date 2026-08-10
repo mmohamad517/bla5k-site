@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CustomerPing?
-    a: CustomerPing scans forums and discussion sites, using AI to identify posts that match user‑defined relevance criteria. It sends alerts via RSS, Slack, email, etc., shortening prospecting cycles and enabling proactive engagement with potential customers. Marketing Subscription - $10/mo That is the core of what CustomerPing does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CustomerPing scans forums and discussion sites, using AI to identify posts that match user‑defined relevance criteria. It sends alerts via RSS, Slack, email, etc., shortening prospecting cycles and enabling proactive engagement with potential customers. That is the core of what CustomerPing does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CustomerPing free?
     a: CustomerPing is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with CustomerPing?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is CustomerPing?
 
-CustomerPing scans forums and discussion sites, using AI to identify posts that match user‑defined relevance criteria. It sends alerts via RSS, Slack, email, etc., shortening prospecting cycles and enabling proactive engagement with potential customers. Marketing Subscription - $10/mo
-
+CustomerPing scans forums and discussion sites, using AI to identify posts that match user‑defined relevance criteria. It sends alerts via RSS, Slack, email, etc., shortening prospecting cycles and enabling proactive engagement with potential customers.
 In short, CustomerPing is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many, that single strength of CustomerPing is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

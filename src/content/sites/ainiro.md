@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AINIRO?
-    a: AINIRO Magic Cloud is an open‑source low‑code platform that turns plain‑English commands into full‑stack apps, APIs, and AI agents. It auto‑generates backend logic, UI, database schemas, and secure authentication, running locally via Docker or self‑hosted. Code assistant Paid That is the core of what AINIRO does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AINIRO Magic Cloud is an open‑source low‑code platform that turns plain‑English commands into full‑stack apps, APIs, and AI agents. It auto‑generates backend logic, UI, database schemas, and secure authentication, running locally via Docker or self‑hosted. That is the core of what AINIRO does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AINIRO free?
     a: AINIRO is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with AINIRO?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is AINIRO?
 
-AINIRO Magic Cloud is an open‑source low‑code platform that turns plain‑English commands into full‑stack apps, APIs, and AI agents. It auto‑generates backend logic, UI, database schemas, and secure authentication, running locally via Docker or self‑hosted. Code assistant Paid
-
+AINIRO Magic Cloud is an open‑source low‑code platform that turns plain‑English commands into full‑stack apps, APIs, and AI agents. It auto‑generates backend logic, UI, database schemas, and secure authentication, running locally via Docker or self‑hosted.
 In short, AINIRO is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many, that single strength of AINIRO is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

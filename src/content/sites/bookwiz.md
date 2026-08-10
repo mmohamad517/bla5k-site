@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Bookwiz?
-    a: Bookwiz is an AI‑powered writing platform that stores a comprehensive Story Bible, automatically referencing it to maintain consistency across scenes and volumes. It tracks plot threads, character arcs, and timeline accuracy, and offers version control and series‑wide planning tools.  That is the core of what Bookwiz does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Bookwiz is an AI‑powered writing platform that stores a comprehensive Story Bible, automatically referencing it to maintain consistency across scenes and volumes. It tracks plot threads, character arcs, and timeline accuracy, and offers version control and series‑wide planning tools. That is the core of what Bookwiz does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Bookwiz free?
     a: Bookwiz is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Bookwiz?

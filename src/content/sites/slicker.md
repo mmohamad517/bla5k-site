@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Slicker?
-    a: Slicker is an AI‑driven payment recovery platform that analyzes failed recurring transactions to choose the optimal retry or communication strategy. It integrates with major billing systems and payment providers, delivering real‑time recovery metrics and A/B testing. Billing Management Freemium That is the core of what Slicker does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Slicker is an AI‑driven payment recovery platform that analyzes failed recurring transactions to choose the optimal retry or communication strategy. It integrates with major billing systems and payment providers, delivering real‑time recovery metrics and A/B testing. That is the core of what Slicker does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Slicker free?
     a: Slicker uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Slicker?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Slicker?
 
-Slicker is an AI‑driven payment recovery platform that analyzes failed recurring transactions to choose the optimal retry or communication strategy. It integrates with major billing systems and payment providers, delivering real‑time recovery metrics and A/B testing. Billing Management Freemium
-
+Slicker is an AI‑driven payment recovery platform that analyzes failed recurring transactions to choose the optimal retry or communication strategy. It integrates with major billing systems and payment providers, delivering real‑time recovery metrics and A/B testing.
 In short, Slicker is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. That single feature of Slicker alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

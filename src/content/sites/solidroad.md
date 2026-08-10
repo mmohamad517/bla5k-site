@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Solidroad?
-    a: Solidroad is an AI‑driven platform that evaluates phone, chat, video, and email interactions instantly, unifying metrics in one dashboard. It auto‑creates training modules and AI‑coach sessions to improve agent consistency and resolution speed across CX channels. Coaching Freemium That is the core of what Solidroad does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Solidroad is an AI‑driven platform that evaluates phone, chat, video, and email interactions instantly, unifying metrics in one dashboard. It auto‑creates training modules and AI‑coach sessions to improve agent consistency and resolution speed across CX channels. That is the core of what Solidroad does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Solidroad free?
     a: Solidroad uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Solidroad?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Solidroad m
 
 ## What is Solidroad?
 
-Solidroad is an AI‑driven platform that evaluates phone, chat, video, and email interactions instantly, unifying metrics in one dashboard. It auto‑creates training modules and AI‑coach sessions to improve agent consistency and resolution speed across CX channels. Coaching Freemium
-
+Solidroad is an AI‑driven platform that evaluates phone, chat, video, and email interactions instantly, unifying metrics in one dashboard. It auto‑creates training modules and AI‑coach sessions to improve agent consistency and resolution speed across CX channels.
 In short, Solidroad is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. Many users find that this one ability of Solidroad removes several tasks from their daily routine.
 
 ## Key features

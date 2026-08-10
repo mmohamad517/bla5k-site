@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Karis?
-    a: Karis scans a URL to extract brand DNA, map audiences and competitors, then delivers a prioritized growth blueprint, continuous social listening with daily opportunity feeds, influencer/creator discovery, SEO/GEO audits, and workflow/reporting tools. Marketing Free That is the core of what Karis does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Karis scans a URL to extract brand DNA, map audiences and competitors, then delivers a prioritized growth blueprint, continuous social listening with daily opportunity feeds, influencer/creator discovery, SEO/GEO audits, and workflow/reporting tools. That is the core of what Karis does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Karis free?
     a: Yes — Karis is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Karis?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Karis 
 
 ## What is Karis?
 
-Karis scans a URL to extract brand DNA, map audiences and competitors, then delivers a prioritized growth blueprint, continuous social listening with daily opportunity feeds, influencer/creator discovery, SEO/GEO audits, and workflow/reporting tools. Marketing Free
-
+Karis scans a URL to extract brand DNA, map audiences and competitors, then delivers a prioritized growth blueprint, continuous social listening with daily opportunity feeds, influencer/creator discovery, SEO/GEO audits, and workflow/reporting tools.
 In short, Karis is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That one capability of Karis frequently saves users from juggling several separate steps.
 
 ## Key features

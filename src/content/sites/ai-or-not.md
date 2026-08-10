@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI or Not?
-    a: AI Detector identifies AI‑generated content across text, images, audio, and video, supporting common media formats. It achieves 98.9% accuracy for synthetic images and offers an API for seamless integration into KYC, fraud‑prevention, and moderation workflows.  That is the core of what AI or Not does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Detector identifies AI‑generated content across text, images, audio, and video, supporting common media formats. It achieves 98.9% accuracy for synthetic images and offers an API for seamless integration into KYC, fraud‑prevention, and moderation workflows. That is the core of what AI or Not does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI or Not free?
     a: AI or Not uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $5/mo, check the official website — pricing changes often.
   - q: What can you do with AI or Not?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Press ranger?
-    a: Press Ranger centralizes PR workflows, letting users draft and distribute press releases, pitch personalized emails, and target journalists and publishers via a database of 500,000+ contacts. Built‑in AI assists outreach, analytics tracks results, and exportable CSVs integrate with existing CRMs. Marketing Paid That is the core of what Press ranger does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Press Ranger centralizes PR workflows, letting users draft and distribute press releases, pitch personalized emails, and target journalists and publishers via a database of 500,000+ contacts. Built‑in AI assists outreach, analytics tracks results, and exportable CSVs integrate with existing CRMs. That is the core of what Press ranger does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Press ranger free?
     a: Press ranger is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Press ranger?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like Press range
 
 ## What is Press ranger?
 
-Press Ranger centralizes PR workflows, letting users draft and distribute press releases, pitch personalized emails, and target journalists and publishers via a database of 500,000+ contacts. Built‑in AI assists outreach, analytics tracks results, and exportable CSVs integrate with existing CRMs. Marketing Paid
-
+Press Ranger centralizes PR workflows, letting users draft and distribute press releases, pitch personalized emails, and target journalists and publishers via a database of 500,000+ contacts. Built‑in AI assists outreach, analytics tracks results, and exportable CSVs integrate with existing CRMs.
 In short, Press ranger is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That single feature of Press ranger alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

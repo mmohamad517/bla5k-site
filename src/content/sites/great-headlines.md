@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Great Headlines?
-    a: Great Headlines is an AI‑driven generator that delivers concise, attention‑grabbing copy using proven marketing frameworks. It produces hooks in seconds, cuts iteration cycles, and offers a data‑backed, workflow‑compatible solution for high‑impact headlines. Copywriting Freemium That is the core of what Great Headlines does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Great Headlines is an AI‑driven generator that delivers concise, attention‑grabbing copy using proven marketing frameworks. It produces hooks in seconds, cuts iteration cycles, and offers a data‑backed, workflow‑compatible solution for high‑impact headlines. That is the core of what Great Headlines does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Great Headlines free?
     a: Great Headlines uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Great Headlines?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Great Headlines?
 
-Great Headlines is an AI‑driven generator that delivers concise, attention‑grabbing copy using proven marketing frameworks. It produces hooks in seconds, cuts iteration cycles, and offers a data‑backed, workflow‑compatible solution for high‑impact headlines. Copywriting Freemium
-
+Great Headlines is an AI‑driven generator that delivers concise, attention‑grabbing copy using proven marketing frameworks. It produces hooks in seconds, cuts iteration cycles, and offers a data‑backed, workflow‑compatible solution for high‑impact headlines.
 In short, Great Headlines is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. For a lot of people, that one function of Great Headlines collapses multiple steps into a single action.
 
 ## Key features

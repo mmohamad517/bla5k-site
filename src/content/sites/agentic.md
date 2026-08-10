@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Agentic?
-    a: Agentic Mission Control Blog automates blog creation by deploying AI agents to research, outline, and draft content with a Notion‑style editor. It integrates SEO optimization and AI‑generated images, speeding publishing and improving search traffic for marketers and bloggers. Content Writing Subscription - $39/mo That is the core of what Agentic does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Agentic Mission Control Blog automates blog creation by deploying AI agents to research, outline, and draft content with a Notion‑style editor. It integrates SEO optimization and AI‑generated images, speeding publishing and improving search traffic for marketers and bloggers. That is the core of what Agentic does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Agentic free?
     a: Agentic is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Agentic?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Agentic ear
 
 ## What is Agentic?
 
-Agentic Mission Control Blog automates blog creation by deploying AI agents to research, outline, and draft content with a Notion‑style editor. It integrates SEO optimization and AI‑generated images, speeding publishing and improving search traffic for marketers and bloggers. Content Writing Subscription - $39/mo
-
+Agentic Mission Control Blog automates blog creation by deploying AI agents to research, outline, and draft content with a Notion‑style editor. It integrates SEO optimization and AI‑generated images, speeding publishing and improving search traffic for marketers and bloggers.
 In short, Agentic is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For a lot of people, that one function of Agentic collapses multiple steps into a single action.
 
 ## Key features

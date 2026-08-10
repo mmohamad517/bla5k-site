@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Sakana Fugu?
-    a: sakana.ai’s Fugu is a multi-agent orchestration model that dynamically assembles specialist AI teams (thinker, worker, verifier) to automate multi-step workflows like coding, reasoning, and research—all through a single OpenAI-compatible API, with options for balanced or high-quality performance. It allows administrators to control which providers participate to meet compliance needs, while research-driven coordination methods (Trinity/Conductor) enable learned, natural-language strategy routing across diverse LLM pools.  That is the core of what Sakana Fugu does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: sakana.ai’s Fugu is a multi-agent orchestration model that dynamically assembles specialist AI teams (thinker, worker, verifier) to automate multi-step workflows like coding, reasoning, and research—all through a single OpenAI-compatible API, with options for balanced or high-quality performance. It allows administrators to control which providers participate to meet compliance needs, while research-driven coordination methods (Trinity/Conductor) enable learned, natural-language strategy routing across diverse LLM pools. That is the core of what Sakana Fugu does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Sakana Fugu free?
     a: Sakana Fugu uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Sakana Fugu?

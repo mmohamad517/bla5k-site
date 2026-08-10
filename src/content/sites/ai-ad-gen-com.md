@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Ad Gen?
-    a: ai-ad-gen.com is a tool that instantly converts a single product photo into platform-optimized ad creatives and lifestyle visuals for TikTok, Amazon, and Shopify. It replaces the need for a design team by generating campaign-ready assets in minutes with customizable text and scene templates. Ad Mockup Freemium That is the core of what AI Ad Gen does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ai-ad-gen.com is a tool that instantly converts a single product photo into platform-optimized ad creatives and lifestyle visuals for TikTok, Amazon, and Shopify. It replaces the need for a design team by generating campaign-ready assets in minutes with customizable text and scene templates. That is the core of what AI Ad Gen does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI Ad Gen free?
     a: AI Ad Gen uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AI Ad Gen?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like AI Ad Gen earn t
 
 ## What is AI Ad Gen?
 
-ai-ad-gen.com is a tool that instantly converts a single product photo into platform-optimized ad creatives and lifestyle visuals for TikTok, Amazon, and Shopify. It replaces the need for a design team by generating campaign-ready assets in minutes with customizable text and scene templates. Ad Mockup Freemium
-
+ai-ad-gen.com is a tool that instantly converts a single product photo into platform-optimized ad creatives and lifestyle visuals for TikTok, Amazon, and Shopify. It replaces the need for a design team by generating campaign-ready assets in minutes with customizable text and scene templates.
 In short, AI Ad Gen is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. For many, that single strength of AI Ad Gen is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

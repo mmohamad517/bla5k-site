@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is cortexlabs.ai?
-    a: Cortex is a blockchain platform that integrates AI into decentralized applications, enabling on-chain AI inference with GPU resources. It features smart contracts with machine learning, supports Solidity, and offers a collaborative ecosystem for AI model sharing. Crypto and Web3 Freemium That is the core of what cortexlabs.ai does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Cortex is a blockchain platform that integrates AI into decentralized applications, enabling on-chain AI inference with GPU resources. It features smart contracts with machine learning, supports Solidity, and offers a collaborative ecosystem for AI model sharing. That is the core of what cortexlabs.ai does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is cortexlabs.ai free?
     a: cortexlabs.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with cortexlabs.ai?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is cortexlabs.ai?
 
-Cortex is a blockchain platform that integrates AI into decentralized applications, enabling on-chain AI inference with GPU resources. It features smart contracts with machine learning, supports Solidity, and offers a collaborative ecosystem for AI model sharing. Crypto and Web3 Freemium
-
+Cortex is a blockchain platform that integrates AI into decentralized applications, enabling on-chain AI inference with GPU resources. It features smart contracts with machine learning, supports Solidity, and offers a collaborative ecosystem for AI model sharing.
 In short, cortexlabs.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. For many, that single strength of cortexlabs.ai is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

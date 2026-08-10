@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Humanly.io?
-    a: Humanly is an AI recruiting platform that automates candidate outreach, screening, scheduling, and interviews. Its AI tools handle continuous applicant engagement, structured interviewing, note‑taking, and talent CRM, streamlining pipelines and reducing time‑to‑hire for high‑volume hiring.  That is the core of what Humanly.io does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Humanly is an AI recruiting platform that automates candidate outreach, screening, scheduling, and interviews. Its AI tools handle continuous applicant engagement, structured interviewing, note‑taking, and talent CRM, streamlining pipelines and reducing time‑to‑hire for high‑volume hiring. That is the core of what Humanly.io does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Humanly.io free?
     a: Yes — Humanly.io is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Humanly.io?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AteneAI?
-    a: AteneAI tracks brand mentions across AI platforms like ChatGPT and Gemini, providing sentiment analysis, share‑of‑voice metrics, real‑time alerts, competitive intelligence, and unified dashboards for agencies and marketers with enterprise‑grade security. Business Freemium That is the core of what AteneAI does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AteneAI tracks brand mentions across AI platforms like ChatGPT and Gemini, providing sentiment analysis, share‑of‑voice metrics, real‑time alerts, competitive intelligence, and unified dashboards for agencies and marketers with enterprise‑grade security. That is the core of what AteneAI does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AteneAI free?
     a: AteneAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AteneAI?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like AteneAI earn the
 
 ## What is AteneAI?
 
-AteneAI tracks brand mentions across AI platforms like ChatGPT and Gemini, providing sentiment analysis, share‑of‑voice metrics, real‑time alerts, competitive intelligence, and unified dashboards for agencies and marketers with enterprise‑grade security. Business Freemium
-
+AteneAI tracks brand mentions across AI platforms like ChatGPT and Gemini, providing sentiment analysis, share‑of‑voice metrics, real‑time alerts, competitive intelligence, and unified dashboards for agencies and marketers with enterprise‑grade security.
 In short, AteneAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. Many users discover that this feature of AteneAI alone covers what previously took multiple tools.
 
 ## Key features

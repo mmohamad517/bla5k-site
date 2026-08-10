@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Botsheets AI Writer?
-    a: Botsheets automates marketing and data capture with chatbots that integrate directly with Google Sheets. Build code‑free bots to replace forms, store responses in real‑time, generate tables, charts, slides, and share via links or embeds. Marketing Paid That is the core of what Botsheets AI Writer does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Botsheets automates marketing and data capture with chatbots that integrate directly with Google Sheets. Build code‑free bots to replace forms, store responses in real‑time, generate tables, charts, slides, and share via links or embeds. That is the core of what Botsheets AI Writer does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Botsheets AI Writer free?
     a: Botsheets AI Writer is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Botsheets AI Writer?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Botsheets A
 
 ## What is Botsheets AI Writer?
 
-Botsheets automates marketing and data capture with chatbots that integrate directly with Google Sheets. Build code‑free bots to replace forms, store responses in real‑time, generate tables, charts, slides, and share via links or embeds. Marketing Paid
-
+Botsheets automates marketing and data capture with chatbots that integrate directly with Google Sheets. Build code‑free bots to replace forms, store responses in real‑time, generate tables, charts, slides, and share via links or embeds.
 In short, Botsheets AI Writer is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That one capability of Botsheets AI Writer frequently saves users from juggling several separate steps.
 
 ## Key features

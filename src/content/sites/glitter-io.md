@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Glitter AI?
-    a: Glitter AI transforms video or screen‑capture recordings into structured step‑by‑step guides, SOPs, and onboarding documents. It auto‑transcribes, extracts key moments, and generates content with screenshots, exportable to PDF, HTML, Markdown, and popular knowledge‑base platforms.  That is the core of what Glitter AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Glitter AI transforms video or screen‑capture recordings into structured step‑by‑step guides, SOPs, and onboarding documents. It auto‑transcribes, extracts key moments, and generates content with screenshots, exportable to PDF, HTML, Markdown, and popular knowledge‑base platforms. That is the core of what Glitter AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Glitter AI free?
     a: Glitter AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $16/mo, check the official website — pricing changes often.
   - q: What can you do with Glitter AI?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PandaChat?
-    a: PandaChat automates customer support for e‑commerce, integrating with platforms like Shopify, WooCommerce, Magento, and ERP systems. Its reasoning engine cross‑references orders, shipping, and inventory to generate instant replies, while routing complex cases to agents, reducing tickets and response times.  That is the core of what PandaChat does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: PandaChat automates customer support for e‑commerce, integrating with platforms like Shopify, WooCommerce, Magento, and ERP systems. Its reasoning engine cross‑references orders, shipping, and inventory to generate instant replies, while routing complex cases to agents, reducing tickets and response times. That is the core of what PandaChat does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is PandaChat free?
     a: Yes — PandaChat is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with PandaChat?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is HumanizerBench?
-    a: HumanizerBench is a public benchmark and leaderboard that evaluates AI text humanizers on detector bypass rate, meaning preservation, and readability. It provides reproducible methodology with open-source prompts, outputs, and scoring scripts for independent verification. AI detection Free That is the core of what HumanizerBench does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: HumanizerBench is a public benchmark and leaderboard that evaluates AI text humanizers on detector bypass rate, meaning preservation, and readability. It provides reproducible methodology with open-source prompts, outputs, and scoring scripts for independent verification. That is the core of what HumanizerBench does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is HumanizerBench free?
     a: Yes — HumanizerBench is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with HumanizerBench?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is HumanizerBench?
 
-HumanizerBench is a public benchmark and leaderboard that evaluates AI text humanizers on detector bypass rate, meaning preservation, and readability. It provides reproducible methodology with open-source prompts, outputs, and scoring scripts for independent verification. AI detection Free
-
+HumanizerBench is a public benchmark and leaderboard that evaluates AI text humanizers on detector bypass rate, meaning preservation, and readability. It provides reproducible methodology with open-source prompts, outputs, and scoring scripts for independent verification.
 In short, HumanizerBench is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. Many users discover that this feature of HumanizerBench alone covers what previously took multiple tools.
 
 ## Key features

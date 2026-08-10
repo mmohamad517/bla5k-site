@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Scade.pro?
-    a: Scade.pro lets teams create AI‑powered content creators with a visual builder, no‑code workflows, and access to 1,500+ models (GPT, Claude, etc.). It supports fine‑tuning, private knowledge bases, and single‑click deployment on GPU‑hosted infrastructure.  That is the core of what Scade.pro does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Scade.pro lets teams create AI‑powered content creators with a visual builder, no‑code workflows, and access to 1,500+ models (GPT, Claude, etc.). It supports fine‑tuning, private knowledge bases, and single‑click deployment on GPU‑hosted infrastructure. That is the core of what Scade.pro does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Scade.pro free?
     a: Scade.pro uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Scade.pro?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Uncheck AI?
-    a: Uncheck AI evaluates text for AI signatures, then rewrites it into human‑like, spam‑free prose that passes detectors such as GPTZero, Turnitin, Copyleaks, and ZeroGPT. It removes OpenAI watermarks, supports SEO‑friendly, multilingual content, and gives simultaneous detection scores. Copywriting Freemium - $12.99/mo That is the core of what Uncheck AI does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Uncheck AI evaluates text for AI signatures, then rewrites it into human‑like, spam‑free prose that passes detectors such as GPTZero, Turnitin, Copyleaks, and ZeroGPT. It removes OpenAI watermarks, supports SEO‑friendly, multilingual content, and gives simultaneous detection scores. That is the core of what Uncheck AI does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Uncheck AI free?
     a: Uncheck AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $12.99/mo, check the official website — pricing changes often.
   - q: What can you do with Uncheck AI?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Uncheck AI?
 
-Uncheck AI evaluates text for AI signatures, then rewrites it into human‑like, spam‑free prose that passes detectors such as GPTZero, Turnitin, Copyleaks, and ZeroGPT. It removes OpenAI watermarks, supports SEO‑friendly, multilingual content, and gives simultaneous detection scores. Copywriting Freemium - $12.99/mo
-
+Uncheck AI evaluates text for AI signatures, then rewrites it into human‑like, spam‑free prose that passes detectors such as GPTZero, Turnitin, Copyleaks, and ZeroGPT. It removes OpenAI watermarks, supports SEO‑friendly, multilingual content, and gives simultaneous detection scores.
 In short, Uncheck AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. Many users discover that this feature of Uncheck AI alone covers what previously took multiple tools.
 
 ## Key features

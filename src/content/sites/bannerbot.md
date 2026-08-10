@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Bannerbot?
-    a: BannerBot is a free AI banner maker that allows users to create customizable promotional banners with ease. It offers various sizes and a range of templates, making it ideal for enhancing marketing efforts across multiple platforms. Ad Mockup Free That is the core of what Bannerbot does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: BannerBot is a free AI banner maker that allows users to create customizable promotional banners with ease. It offers various sizes and a range of templates, making it ideal for enhancing marketing efforts across multiple platforms. That is the core of what Bannerbot does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Bannerbot free?
     a: Yes — Bannerbot is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Bannerbot?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Banner
 
 ## What is Bannerbot?
 
-BannerBot is a free AI banner maker that allows users to create customizable promotional banners with ease. It offers various sizes and a range of templates, making it ideal for enhancing marketing efforts across multiple platforms. Ad Mockup Free
-
+BannerBot is a free AI banner maker that allows users to create customizable promotional banners with ease. It offers various sizes and a range of templates, making it ideal for enhancing marketing efforts across multiple platforms.
 In short, Bannerbot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. Many users find that this one ability of Bannerbot removes several tasks from their daily routine.
 
 ## Key features

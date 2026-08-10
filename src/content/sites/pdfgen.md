@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PDFgen?
-    a: "##pdfgen is an API tool that automates the creation of structured PDF documents from text prompts. It simplifies document management, saving time and reducing formatting efforts, making it ideal for various professional and business applications. Document management Free That is the core of what PDFgen does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "##pdfgen is an API tool that automates the creation of structured PDF documents from text prompts. It simplifies document management, saving time and reducing formatting efforts, making it ideal for various professional and business applications. That is the core of what PDFgen does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is PDFgen free?
     a: Yes — PDFgen is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with PDFgen?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like PDFgen earn
 
 ## What is PDFgen?
 
-##pdfgen is an API tool that automates the creation of structured PDF documents from text prompts. It simplifies document management, saving time and reducing formatting efforts, making it ideal for various professional and business applications. Document management Free
-
+##pdfgen is an API tool that automates the creation of structured PDF documents from text prompts. It simplifies document management, saving time and reducing formatting efforts, making it ideal for various professional and business applications.
 In short, PDFgen is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. Many users find that this one ability of PDFgen removes several tasks from their daily routine.
 
 ## Key features

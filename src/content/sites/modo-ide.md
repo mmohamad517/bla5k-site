@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Modo IDE?
-    a: Modo IDE is an open-source desktop AI IDE that uses a spec-driven workflow to turn prompts into requirements, code, and persistent tasks. It features a prompt-to-code pipeline with multi-LLM support, integrated AI chat, and MCP tool integration for structured, reproducible development. Code assistant Freemium That is the core of what Modo IDE does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Modo IDE is an open-source desktop AI IDE that uses a spec-driven workflow to turn prompts into requirements, code, and persistent tasks. It features a prompt-to-code pipeline with multi-LLM support, integrated AI chat, and MCP tool integration for structured, reproducible development. That is the core of what Modo IDE does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Modo IDE free?
     a: Modo IDE uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Modo IDE?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Modo IDE ea
 
 ## What is Modo IDE?
 
-Modo IDE is an open-source desktop AI IDE that uses a spec-driven workflow to turn prompts into requirements, code, and persistent tasks. It features a prompt-to-code pipeline with multi-LLM support, integrated AI chat, and MCP tool integration for structured, reproducible development. Code assistant Freemium
-
+Modo IDE is an open-source desktop AI IDE that uses a spec-driven workflow to turn prompts into requirements, code, and persistent tasks. It features a prompt-to-code pipeline with multi-LLM support, integrated AI chat, and MCP tool integration for structured, reproducible development.
 In short, Modo IDE is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That single feature of Modo IDE alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

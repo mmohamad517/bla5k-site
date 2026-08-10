@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Autumn AI?
-    a: Autumn is an AI tool that enhances team well-being by analyzing employee engagement and identifying stressors. It offers customizable surveys and real-time reports, providing actionable insights to promote a supportive work environment and reduce burnout. Human resources Freemium That is the core of what Autumn AI does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Autumn is an AI tool that enhances team well-being by analyzing employee engagement and identifying stressors. It offers customizable surveys and real-time reports, providing actionable insights to promote a supportive work environment and reduce burnout. That is the core of what Autumn AI does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Autumn AI free?
     a: Autumn AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Autumn AI?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Autumn
 
 ## What is Autumn AI?
 
-Autumn is an AI tool that enhances team well-being by analyzing employee engagement and identifying stressors. It offers customizable surveys and real-time reports, providing actionable insights to promote a supportive work environment and reduce burnout. Human resources Freemium
-
+Autumn is an AI tool that enhances team well-being by analyzing employee engagement and identifying stressors. It offers customizable surveys and real-time reports, providing actionable insights to promote a supportive work environment and reduce burnout.
 In short, Autumn AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. That single feature of Autumn AI alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

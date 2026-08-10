@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Komensa?
-    a: Komensa is an AI‑powered platform that guides couples through structured, turn‑based conversations using a mediator chatbot and proven conflict‑resolution techniques. It provides personalized suggestions and insights to foster clearer communication and empathy. Coaching Freemium That is the core of what Komensa does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Komensa is an AI‑powered platform that guides couples through structured, turn‑based conversations using a mediator chatbot and proven conflict‑resolution techniques. It provides personalized suggestions and insights to foster clearer communication and empathy. That is the core of what Komensa does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Komensa free?
     a: Komensa uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Komensa?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Komensa?
 
-Komensa is an AI‑powered platform that guides couples through structured, turn‑based conversations using a mediator chatbot and proven conflict‑resolution techniques. It provides personalized suggestions and insights to foster clearer communication and empathy. Coaching Freemium
-
+Komensa is an AI‑powered platform that guides couples through structured, turn‑based conversations using a mediator chatbot and proven conflict‑resolution techniques. It provides personalized suggestions and insights to foster clearer communication and empathy.
 In short, Komensa is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. For many, that single strength of Komensa is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

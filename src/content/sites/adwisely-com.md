@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is adwisely.com?
-    a: Adwisely is an AI advertising tool that optimizes ad campaigns for eCommerce platforms like Shopify and WooCommerce. It automates performance adjustments, facilitates targeted retargeting, and offers tailored recommendations to enhance Return on Ad Spend (ROAS). Marketing Subscription - $49 That is the core of what adwisely.com does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Adwisely is an AI advertising tool that optimizes ad campaigns for eCommerce platforms like Shopify and WooCommerce. It automates performance adjustments, facilitates targeted retargeting, and offers tailored recommendations to enhance Return on Ad Spend (ROAS). That is the core of what adwisely.com does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is adwisely.com free?
     a: adwisely.com is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with adwisely.com?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is adwisely.com?
 
-Adwisely is an AI advertising tool that optimizes ad campaigns for eCommerce platforms like Shopify and WooCommerce. It automates performance adjustments, facilitates targeted retargeting, and offers tailored recommendations to enhance Return on Ad Spend (ROAS). Marketing Subscription - $49
-
+Adwisely is an AI advertising tool that optimizes ad campaigns for eCommerce platforms like Shopify and WooCommerce. It automates performance adjustments, facilitates targeted retargeting, and offers tailored recommendations to enhance Return on Ad Spend (ROAS).
 In short, adwisely.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That single feature of adwisely.com alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

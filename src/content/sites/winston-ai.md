@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Winston AI?
-    a: Winston AI is an AI tool that detects AI-generated content and plagiarism. It allows users to categorize and label documents easily and efficiently.  That is the core of what Winston AI does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Winston AI is an AI tool that detects AI-generated content and plagiarism. It allows users to categorize and label documents easily and efficiently. That is the core of what Winston AI does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Winston AI free?
     a: Winston AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Winston AI?

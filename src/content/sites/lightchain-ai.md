@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Lightchain ai?
-    a: Lightchain AI is a blockchain ecosystem that integrates AI into decentralized applications using a Proof of Intelligence (POI) consensus. It features an AIVM for AI task execution and tools like a blockchain explorer for transparent, auditable AI operations. Crypto and Web3 Freemium That is the core of what Lightchain ai does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Lightchain AI is a blockchain ecosystem that integrates AI into decentralized applications using a Proof of Intelligence (POI) consensus. It features an AIVM for AI task execution and tools like a blockchain explorer for transparent, auditable AI operations. That is the core of what Lightchain ai does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Lightchain ai free?
     a: Lightchain ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Lightchain ai?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Lightchain ai?
 
-Lightchain AI is a blockchain ecosystem that integrates AI into decentralized applications using a Proof of Intelligence (POI) consensus. It features an AIVM for AI task execution and tools like a blockchain explorer for transparent, auditable AI operations. Crypto and Web3 Freemium
-
+Lightchain AI is a blockchain ecosystem that integrates AI into decentralized applications using a Proof of Intelligence (POI) consensus. It features an AIVM for AI task execution and tools like a blockchain explorer for transparent, auditable AI operations.
 In short, Lightchain ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. Many users discover that this feature of Lightchain ai alone covers what previously took multiple tools.
 
 ## Key features

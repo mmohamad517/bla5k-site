@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AgentRunner?
-    a: AgentRunner is a workflow builder for AI app development, featuring visual prompt engineering, integration with popular AI models, performance monitoring, and versioning. Its node-based editor supports complex applications and enhances team collaboration in a secure environment. AI Agents Free That is the core of what AgentRunner does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AgentRunner is a workflow builder for AI app development, featuring visual prompt engineering, integration with popular AI models, performance monitoring, and versioning. Its node-based editor supports complex applications and enhances team collaboration in a secure environment. That is the core of what AgentRunner does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AgentRunner free?
     a: Yes — AgentRunner is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with AgentRunner?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is AgentRunner?
 
-AgentRunner is a workflow builder for AI app development, featuring visual prompt engineering, integration with popular AI models, performance monitoring, and versioning. Its node-based editor supports complex applications and enhances team collaboration in a secure environment. AI Agents Free
-
+AgentRunner is a workflow builder for AI app development, featuring visual prompt engineering, integration with popular AI models, performance monitoring, and versioning. Its node-based editor supports complex applications and enhances team collaboration in a secure environment.
 In short, AgentRunner is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For plenty of users, that one capability of AgentRunner replaces several steps they used to do by hand.
 
 ## Key features

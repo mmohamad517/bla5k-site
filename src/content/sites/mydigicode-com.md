@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ProQurAI?
-    a: mydigicode.com proqurai is an ERP-agnostic agentic AI procurement tool that automates the full source-to-contract lifecycle—from intake and RFX drafting to bid scoring, contract generation, and compliance monitoring—integrating with SAP, Oracle, and Dynamics without rip-and-replace. It reduces manual drafting from hours to minutes, runs autonomous multi-step workflows, and routes approvals with evidence tracking for faster turnaround and measurable spend capture. Contract Management Paid That is the core of what ProQurAI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: mydigicode.com proqurai is an ERP-agnostic agentic AI procurement tool that automates the full source-to-contract lifecycle—from intake and RFX drafting to bid scoring, contract generation, and compliance monitoring—integrating with SAP, Oracle, and Dynamics without rip-and-replace. It reduces manual drafting from hours to minutes, runs autonomous multi-step workflows, and routes approvals with evidence tracking for faster turnaround and measurable spend capture. That is the core of what ProQurAI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ProQurAI free?
     a: ProQurAI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with ProQurAI?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like ProQurAI earn th
 
 ## What is ProQurAI?
 
-mydigicode.com proqurai is an ERP-agnostic agentic AI procurement tool that automates the full source-to-contract lifecycle—from intake and RFX drafting to bid scoring, contract generation, and compliance monitoring—integrating with SAP, Oracle, and Dynamics without rip-and-replace. It reduces manual drafting from hours to minutes, runs autonomous multi-step workflows, and routes approvals with evidence tracking for faster turnaround and measurable spend capture. Contract Management Paid
-
+mydigicode.com proqurai is an ERP-agnostic agentic AI procurement tool that automates the full source-to-contract lifecycle—from intake and RFX drafting to bid scoring, contract generation, and compliance monitoring—integrating with SAP, Oracle, and Dynamics without rip-and-replace. It reduces manual drafting from hours to minutes, runs autonomous multi-step workflows, and routes approvals with evidence tracking for faster turnaround and measurable spend capture.
 In short, ProQurAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For plenty of users, that one capability of ProQurAI replaces several steps they used to do by hand.
 
 ## Key features

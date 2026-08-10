@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Swayclip AI?
-    a: Swayclip AI is a unified browser-based workspace for generating cinematic videos, editorial images, and short music tracks from text prompts or reference images. It supports multiple advanced AI models like Seedance 2.0 and Kling 3.0, enabling content creators to iterate across visual and audio assets without switching tools.  That is the core of what Swayclip AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Swayclip AI is a unified browser-based workspace for generating cinematic videos, editorial images, and short music tracks from text prompts or reference images. It supports multiple advanced AI models like Seedance 2.0 and Kling 3.0, enabling content creators to iterate across visual and audio assets without switching tools. That is the core of what Swayclip AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Swayclip AI free?
     a: Swayclip AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Swayclip AI?

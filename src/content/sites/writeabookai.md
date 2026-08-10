@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is WriteABookAI?
-    a: writeabookai enables professionals to efficiently turn their expertise into published books. It offers structured outlines, real-time AI writing assistance, and quick publishing options, while ensuring users retain control over their content and intellectual property. Book writer Freemium That is the core of what WriteABookAI does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: writeabookai enables professionals to efficiently turn their expertise into published books. It offers structured outlines, real-time AI writing assistance, and quick publishing options, while ensuring users retain control over their content and intellectual property. That is the core of what WriteABookAI does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is WriteABookAI free?
     a: WriteABookAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with WriteABookAI?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like WriteABookA
 
 ## What is WriteABookAI?
 
-writeabookai enables professionals to efficiently turn their expertise into published books. It offers structured outlines, real-time AI writing assistance, and quick publishing options, while ensuring users retain control over their content and intellectual property. Book writer Freemium
-
+writeabookai enables professionals to efficiently turn their expertise into published books. It offers structured outlines, real-time AI writing assistance, and quick publishing options, while ensuring users retain control over their content and intellectual property.
 In short, WriteABookAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. That single feature of WriteABookAI alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

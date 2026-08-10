@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is IntelliChat?
-    a: Intellichat is an AI-powered customer support chatbot that provides 24/7 assistance on websites. It enhances visitor engagement through real-time interactions, offers customizable features, and integrates easily with a simple code snippet. Customer support Free That is the core of what IntelliChat does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Intellichat is an AI-powered customer support chatbot that provides 24/7 assistance on websites. It enhances visitor engagement through real-time interactions, offers customizable features, and integrates easily with a simple code snippet. That is the core of what IntelliChat does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is IntelliChat free?
     a: Yes — IntelliChat is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with IntelliChat?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like IntelliChat earn
 
 ## What is IntelliChat?
 
-Intellichat is an AI-powered customer support chatbot that provides 24/7 assistance on websites. It enhances visitor engagement through real-time interactions, offers customizable features, and integrates easily with a simple code snippet. Customer support Free
-
+Intellichat is an AI-powered customer support chatbot that provides 24/7 assistance on websites. It enhances visitor engagement through real-time interactions, offers customizable features, and integrates easily with a simple code snippet.
 In short, IntelliChat is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. Many users find that this one ability of IntelliChat removes several tasks from their daily routine.
 
 ## Key features

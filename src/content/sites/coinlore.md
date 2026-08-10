@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CoinLore?
-    a: CoinLore delivers a real‑time news feed and market data for over 14,000 cryptocurrencies, offering charts, rankings, portfolio tools, and a profit calculator. Its API and widgets let developers embed live data into apps. Crypto and Web3 4 1 Subscription That is the core of what CoinLore does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CoinLore delivers a real‑time news feed and market data for over 14,000 cryptocurrencies, offering charts, rankings, portfolio tools, and a profit calculator. Its API and widgets let developers embed live data into apps. That is the core of what CoinLore does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CoinLore free?
     a: CoinLore is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with CoinLore?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is CoinLore?
 
-CoinLore delivers a real‑time news feed and market data for over 14,000 cryptocurrencies, offering charts, rankings, portfolio tools, and a profit calculator. Its API and widgets let developers embed live data into apps. Crypto and Web3 4 1 Subscription
-
+CoinLore delivers a real‑time news feed and market data for over 14,000 cryptocurrencies, offering charts, rankings, portfolio tools, and a profit calculator. Its API and widgets let developers embed live data into apps.
 In short, CoinLore is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. For plenty of users, that one capability of CoinLore replaces several steps they used to do by hand.
 
 ## Key features

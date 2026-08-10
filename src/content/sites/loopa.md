@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Loopa?
-    a: Loopa is a multi-agent AI platform that automates workflows and content creation—from PDF summarization and slide generation to video production and structured reporting. With integrated email, calendar, and messaging connectors, it enables parallel execution of recurring multi-step tasks while keeping all generated files private and secure.  That is the core of what Loopa does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Loopa is a multi-agent AI platform that automates workflows and content creation—from PDF summarization and slide generation to video production and structured reporting. With integrated email, calendar, and messaging connectors, it enables parallel execution of recurring multi-step tasks while keeping all generated files private and secure. That is the core of what Loopa does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Loopa free?
     a: Loopa uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $17/mo, check the official website — pricing changes often.
   - q: What can you do with Loopa?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Trumpet?
-    a: Trumpet centralizes sales content, proposals, and collaboration in a secure digital room. It uses AI to organize and personalize materials, tracks engagement with e‑signatures, forms, and analytics, and syncs with CRMs to accelerate deal flow. Sales Freemium That is the core of what Trumpet does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Trumpet centralizes sales content, proposals, and collaboration in a secure digital room. It uses AI to organize and personalize materials, tracks engagement with e‑signatures, forms, and analytics, and syncs with CRMs to accelerate deal flow. That is the core of what Trumpet does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Trumpet free?
     a: Trumpet uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Trumpet?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like Trumpet earn the
 
 ## What is Trumpet?
 
-Trumpet centralizes sales content, proposals, and collaboration in a secure digital room. It uses AI to organize and personalize materials, tracks engagement with e‑signatures, forms, and analytics, and syncs with CRMs to accelerate deal flow. Sales Freemium
-
+Trumpet centralizes sales content, proposals, and collaboration in a secure digital room. It uses AI to organize and personalize materials, tracks engagement with e‑signatures, forms, and analytics, and syncs with CRMs to accelerate deal flow.
 In short, Trumpet is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For many, that single strength of Trumpet is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: "What is Re:catch?"
-    a: "Catch automates lead qualification, routing, and scheduling for a streamlined sales pipeline. Set rules, schedule meetings with a click, and enrich lead data to boost engagement and conversion rates efficiently.  That is the core of what Re:catch does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "Catch automates lead qualification, routing, and scheduling for a streamlined sales pipeline. Set rules, schedule meetings with a click, and enrich lead data to boost engagement and conversion rates efficiently. That is the core of what Re:catch does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: "Is Re:catch free?"
     a: "Re:catch is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing."
   - q: "What can you do with Re:catch?"

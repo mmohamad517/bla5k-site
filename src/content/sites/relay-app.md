@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Relay.app?
-    a: Relay.app creates AI agents that automate tasks across apps like Google Workspace, Airtable, Slack, and Asana. Users name an agent, assign skills, design workflows via a visual editor, and refine performance through feedback loops. AI Agents Free - $9/mo That is the core of what Relay.app does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Relay.app creates AI agents that automate tasks across apps like Google Workspace, Airtable, Slack, and Asana. Users name an agent, assign skills, design workflows via a visual editor, and refine performance through feedback loops. That is the core of what Relay.app does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Relay.app free?
     a: Relay.app uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Relay.app?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Relay.app?
 
-Relay.app creates AI agents that automate tasks across apps like Google Workspace, Airtable, Slack, and Asana. Users name an agent, assign skills, design workflows via a visual editor, and refine performance through feedback loops. AI Agents Free - $9/mo
-
+Relay.app creates AI agents that automate tasks across apps like Google Workspace, Airtable, Slack, and Asana. Users name an agent, assign skills, design workflows via a visual editor, and refine performance through feedback loops.
 In short, Relay.app is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. That single feature of Relay.app alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

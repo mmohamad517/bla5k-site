@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is OpenAssistantGPT?
-    a: OpenAssistantGPT is an open‑source SaaS that lets you build no‑code AI chatbots for websites. It auto‑crawls a URL, supports GPT‑4/3.5, handles file attachments, SAML/SSO, API calls, and web search, with GitHub source and Vercel SDK.  That is the core of what OpenAssistantGPT does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: OpenAssistantGPT is an open‑source SaaS that lets you build no‑code AI chatbots for websites. It auto‑crawls a URL, supports GPT‑4/3.5, handles file attachments, SAML/SSO, API calls, and web search, with GitHub source and Vercel SDK. That is the core of what OpenAssistantGPT does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is OpenAssistantGPT free?
     a: OpenAssistantGPT uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $18/mo, check the official website — pricing changes often.
   - q: What can you do with OpenAssistantGPT?

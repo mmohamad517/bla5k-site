@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ColoringDaily?
-    a: ColoringDaily is an AI coloring page generator that turns text prompts and photos into printable line art. It supports multiple styles, batch generation, and vector/PDF exports for creating customized coloring books and assets. Coloring Pages Free trial - $8.25/mo That is the core of what ColoringDaily does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ColoringDaily is an AI coloring page generator that turns text prompts and photos into printable line art. It supports multiple styles, batch generation, and vector/PDF exports for creating customized coloring books and assets. That is the core of what ColoringDaily does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ColoringDaily free?
     a: ColoringDaily uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $8.25/mo, check the official website — pricing changes often.
   - q: What can you do with ColoringDaily?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like ColoringDai
 
 ## What is ColoringDaily?
 
-ColoringDaily is an AI coloring page generator that turns text prompts and photos into printable line art. It supports multiple styles, batch generation, and vector/PDF exports for creating customized coloring books and assets. Coloring Pages Free trial - $8.25/mo
-
+ColoringDaily is an AI coloring page generator that turns text prompts and photos into printable line art. It supports multiple styles, batch generation, and vector/PDF exports for creating customized coloring books and assets.
 In short, ColoringDaily is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. That one feature of ColoringDaily often eliminates several smaller steps from the usual workflow.
 
 ## Key features

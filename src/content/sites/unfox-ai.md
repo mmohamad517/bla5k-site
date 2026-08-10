@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Unfox AI?
-    a: unfox.ai is an AI content detector that analyzes text to identify AI-generated content and provides confidence scores. It uses deep learning to evaluate perplexity, burstiness, and stylistic features, with sentence-level highlighting and support for 17 languages.  That is the core of what Unfox AI does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: unfox.ai is an AI content detector that analyzes text to identify AI-generated content and provides confidence scores. It uses deep learning to evaluate perplexity, burstiness, and stylistic features, with sentence-level highlighting and support for 17 languages. That is the core of what Unfox AI does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Unfox AI free?
     a: Unfox AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Unfox AI?

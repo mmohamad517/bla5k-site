@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Pinku.ai?
-    a: Pinku.ai is an AI character image generator specializing in consistent anime, cartoon, and gaming avatars. It offers a vast library of searchable style presets for roleplayers, creators, and developers to quickly generate portraits and concept art. Avatar Subscription That is the core of what Pinku.ai does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Pinku.ai is an AI character image generator specializing in consistent anime, cartoon, and gaming avatars. It offers a vast library of searchable style presets for roleplayers, creators, and developers to quickly generate portraits and concept art. That is the core of what Pinku.ai does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Pinku.ai free?
     a: Pinku.ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Pinku.ai?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Pinku.ai?
 
-Pinku.ai is an AI character image generator specializing in consistent anime, cartoon, and gaming avatars. It offers a vast library of searchable style presets for roleplayers, creators, and developers to quickly generate portraits and concept art. Avatar Subscription
-
+Pinku.ai is an AI character image generator specializing in consistent anime, cartoon, and gaming avatars. It offers a vast library of searchable style presets for roleplayers, creators, and developers to quickly generate portraits and concept art.
 In short, Pinku.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. That one capability of Pinku.ai frequently saves users from juggling several separate steps.
 
 ## Key features

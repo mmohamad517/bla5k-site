@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TeamSmart?
-    a: TeamSmart.ai deploys autonomous AI agents that automate complex business workflows, learning from interactions and making independent decisions. Native integration with popular tools ensures seamless data flow, while real‑time dashboards monitor performance and bank‑level encryption protects sensitive information. AI Agents Subscription - $30/mo That is the core of what TeamSmart does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: TeamSmart.ai deploys autonomous AI agents that automate complex business workflows, learning from interactions and making independent decisions. Native integration with popular tools ensures seamless data flow, while real‑time dashboards monitor performance and bank‑level encryption protects sensitive information. That is the core of what TeamSmart does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TeamSmart free?
     a: TeamSmart is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with TeamSmart?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is TeamSmart?
 
-TeamSmart.ai deploys autonomous AI agents that automate complex business workflows, learning from interactions and making independent decisions. Native integration with popular tools ensures seamless data flow, while real‑time dashboards monitor performance and bank‑level encryption protects sensitive information. AI Agents Subscription - $30/mo
-
+TeamSmart.ai deploys autonomous AI agents that automate complex business workflows, learning from interactions and making independent decisions. Native integration with popular tools ensures seamless data flow, while real‑time dashboards monitor performance and bank‑level encryption protects sensitive information.
 In short, TeamSmart is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. That single feature of TeamSmart alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Aionomy?
-    a: Aionomy delivers rapid contract staffing and recruitment services, connecting businesses with qualified candidates across digital media, technology, and other sectors. The platform uses data‑driven methods and client‑focused communication to build high‑performing teams. Marketing Freemium That is the core of what Aionomy does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Aionomy delivers rapid contract staffing and recruitment services, connecting businesses with qualified candidates across digital media, technology, and other sectors. The platform uses data‑driven methods and client‑focused communication to build high‑performing teams. That is the core of what Aionomy does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Aionomy free?
     a: Aionomy uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Aionomy?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like Aionom
 
 ## What is Aionomy?
 
-Aionomy delivers rapid contract staffing and recruitment services, connecting businesses with qualified candidates across digital media, technology, and other sectors. The platform uses data‑driven methods and client‑focused communication to build high‑performing teams. Marketing Freemium
-
+Aionomy delivers rapid contract staffing and recruitment services, connecting businesses with qualified candidates across digital media, technology, and other sectors. The platform uses data‑driven methods and client‑focused communication to build high‑performing teams.
 In short, Aionomy is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. That single feature of Aionomy alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

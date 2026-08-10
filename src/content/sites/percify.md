@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Percify?
-    a: Percify is an AI tool that generates photorealistic avatars from single images, featuring customizable attributes and voice cloning. Users can create animated talking videos for professional use, suitable for artists, marketers, and content creators. Avatar Free trial That is the core of what Percify does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Percify is an AI tool that generates photorealistic avatars from single images, featuring customizable attributes and voice cloning. Users can create animated talking videos for professional use, suitable for artists, marketers, and content creators. That is the core of what Percify does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Percify free?
     a: Percify uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Percify?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Percify?
 
-Percify is an AI tool that generates photorealistic avatars from single images, featuring customizable attributes and voice cloning. Users can create animated talking videos for professional use, suitable for artists, marketers, and content creators. Avatar Free trial
-
+Percify is an AI tool that generates photorealistic avatars from single images, featuring customizable attributes and voice cloning. Users can create animated talking videos for professional use, suitable for artists, marketers, and content creators.
 In short, Percify is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. Many users find that this one ability of Percify removes several tasks from their daily routine.
 
 ## Key features

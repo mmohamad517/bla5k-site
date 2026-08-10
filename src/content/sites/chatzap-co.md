@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is chatzap.co?
-    a: Chatzap is an AI sales assistant that learns from website content to engage visitors, collect leads, and adapt responses in real time. It supports 95 languages, is code‑free, and stores chats on AWS us‑east servers. AI Agents Free trial That is the core of what chatzap.co does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Chatzap is an AI sales assistant that learns from website content to engage visitors, collect leads, and adapt responses in real time. It supports 95 languages, is code‑free, and stores chats on AWS us‑east servers. That is the core of what chatzap.co does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is chatzap.co free?
     a: chatzap.co uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with chatzap.co?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is chatzap.co?
 
-Chatzap is an AI sales assistant that learns from website content to engage visitors, collect leads, and adapt responses in real time. It supports 95 languages, is code‑free, and stores chats on AWS us‑east servers. AI Agents Free trial
-
+Chatzap is an AI sales assistant that learns from website content to engage visitors, collect leads, and adapt responses in real time. It supports 95 languages, is code‑free, and stores chats on AWS us‑east servers.
 In short, chatzap.co is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. Many users discover that this feature of chatzap.co alone covers what previously took multiple tools.
 
 ## Key features

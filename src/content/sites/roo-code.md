@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is RooCode?
-    a: Roo Code is an AI-powered coding assistant that integrates with VS Code, enabling developers to automate tasks, execute commands, and optimize code. It supports multiple AI models, customizable roles, and adaptive autonomy for efficient software development.  That is the core of what RooCode does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Roo Code is an AI-powered coding assistant that integrates with VS Code, enabling developers to automate tasks, execute commands, and optimize code. It supports multiple AI models, customizable roles, and adaptive autonomy for efficient software development. That is the core of what RooCode does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is RooCode free?
     a: Yes — RooCode is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with RooCode?

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI App Generator by UI Bakery?
-    a: AI App Generator by UI Bakery is a low‑code platform that creates web apps from a single text prompt using drag‑and‑drop UI, workflow automations, and API/database integrations, enabling rapid deployment of dashboards, admin panels, and custom solutions.  That is the core of what AI App Generator by UI Bakery does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI App Generator by UI Bakery is a low‑code platform that creates web apps from a single text prompt using drag‑and‑drop UI, workflow automations, and API/database integrations, enabling rapid deployment of dashboards, admin panels, and custom solutions. That is the core of what AI App Generator by UI Bakery does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI App Generator by UI Bakery free?
     a: AI App Generator by UI Bakery uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $5/mo, check the official website — pricing changes often.
   - q: What can you do with AI App Generator by UI Bakery?

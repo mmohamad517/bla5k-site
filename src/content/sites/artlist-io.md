@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Artlist?
-    a: Artlist is a unified generative AI toolkit for content creators, combining image, video, music, voiceover, dubbing, and avatar tools into one platform. It enables users to generate and customize commercial-ready assets from text prompts and reference media, all with full licensing. Art Generation Free trial That is the core of what Artlist does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Artlist is a unified generative AI toolkit for content creators, combining image, video, music, voiceover, dubbing, and avatar tools into one platform. It enables users to generate and customize commercial-ready assets from text prompts and reference media, all with full licensing. That is the core of what Artlist does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Artlist free?
     a: Artlist uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Artlist?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Artlist?
 
-Artlist is a unified generative AI toolkit for content creators, combining image, video, music, voiceover, dubbing, and avatar tools into one platform. It enables users to generate and customize commercial-ready assets from text prompts and reference media, all with full licensing. Art Generation Free trial
-
+Artlist is a unified generative AI toolkit for content creators, combining image, video, music, voiceover, dubbing, and avatar tools into one platform. It enables users to generate and customize commercial-ready assets from text prompts and reference media, all with full licensing.
 In short, Artlist is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. That one feature of Artlist often eliminates several smaller steps from the usual workflow.
 
 ## Key features

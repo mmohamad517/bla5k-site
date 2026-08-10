@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Reasonix?
-    a: Reasonix.io is a terminal-native AI coding agent that leverages Deepseek’s byte-stable prefix cache to achieve 90%+ cache hits, slashing input-token costs to roughly one-fifth. It runs as a single Go binary with no Node runtime, offering persistent sessions, sandboxed plan mode, and secure local code interaction via stdio, SSE, or HTTP. Code assistant Free That is the core of what Reasonix does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Reasonix.io is a terminal-native AI coding agent that leverages Deepseek’s byte-stable prefix cache to achieve 90%+ cache hits, slashing input-token costs to roughly one-fifth. It runs as a single Go binary with no Node runtime, offering persistent sessions, sandboxed plan mode, and secure local code interaction via stdio, SSE, or HTTP. That is the core of what Reasonix does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Reasonix free?
     a: Yes — Reasonix is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Reasonix?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Reasonix?
 
-Reasonix.io is a terminal-native AI coding agent that leverages Deepseek’s byte-stable prefix cache to achieve 90%+ cache hits, slashing input-token costs to roughly one-fifth. It runs as a single Go binary with no Node runtime, offering persistent sessions, sandboxed plan mode, and secure local code interaction via stdio, SSE, or HTTP. Code assistant Free
-
+Reasonix.io is a terminal-native AI coding agent that leverages Deepseek’s byte-stable prefix cache to achieve 90%+ cache hits, slashing input-token costs to roughly one-fifth. It runs as a single Go binary with no Node runtime, offering persistent sessions, sandboxed plan mode, and secure local code interaction via stdio, SSE, or HTTP.
 In short, Reasonix is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users find that this one ability of Reasonix removes several tasks from their daily routine.
 
 ## Key features

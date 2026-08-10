@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Archistar?
-    a: AI PreCheck for Industry & Certifiers evaluates architectural plans against zoning and building codes at the design stage. Users drag and drop designs to assess compliance quickly, receive ready‑to‑share reports, and explore thousands of compliant 3D options. Architectural Design Freemium That is the core of what Archistar does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI PreCheck for Industry & Certifiers evaluates architectural plans against zoning and building codes at the design stage. Users drag and drop designs to assess compliance quickly, receive ready‑to‑share reports, and explore thousands of compliant 3D options. That is the core of what Archistar does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Archistar free?
     a: Archistar uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Archistar?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is Archistar?
 
-AI PreCheck for Industry & Certifiers evaluates architectural plans against zoning and building codes at the design stage. Users drag and drop designs to assess compliance quickly, receive ready‑to‑share reports, and explore thousands of compliant 3D options. Architectural Design Freemium
-
+AI PreCheck for Industry & Certifiers evaluates architectural plans against zoning and building codes at the design stage. Users drag and drop designs to assess compliance quickly, receive ready‑to‑share reports, and explore thousands of compliant 3D options.
 In short, Archistar is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. That one capability of Archistar frequently saves users from juggling several separate steps.
 
 ## Key features

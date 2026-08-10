@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is FireChatbot?
-    a: Firechatbot is an AI-powered chatbot that integrates into websites to provide instant customer support. It offers customization options, automatic knowledge updates, and requires no coding, making it accessible for businesses of all sizes. Customer support Free trial That is the core of what FireChatbot does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Firechatbot is an AI-powered chatbot that integrates into websites to provide instant customer support. It offers customization options, automatic knowledge updates, and requires no coding, making it accessible for businesses of all sizes. That is the core of what FireChatbot does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is FireChatbot free?
     a: FireChatbot uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with FireChatbot?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is FireChatbot?
 
-Firechatbot is an AI-powered chatbot that integrates into websites to provide instant customer support. It offers customization options, automatic knowledge updates, and requires no coding, making it accessible for businesses of all sizes. Customer support Free trial
-
+Firechatbot is an AI-powered chatbot that integrates into websites to provide instant customer support. It offers customization options, automatic knowledge updates, and requires no coding, making it accessible for businesses of all sizes.
 In short, FireChatbot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For many, that single strength of FireChatbot is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

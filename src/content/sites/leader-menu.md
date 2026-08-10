@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Leader menu?
-    a: Leader Menu centralizes AI‑generated leadership content, offering structured articles, case studies, templates, and dashboards for decision‑making, stakeholder engagement, quarterly priorities, and performance tracking. It also includes ergonomic office resources for employee comfort. Content creation Freemium That is the core of what Leader menu does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Leader Menu centralizes AI‑generated leadership content, offering structured articles, case studies, templates, and dashboards for decision‑making, stakeholder engagement, quarterly priorities, and performance tracking. It also includes ergonomic office resources for employee comfort. That is the core of what Leader menu does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Leader menu free?
     a: Leader menu uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Leader menu?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Leader menu?
 
-Leader Menu centralizes AI‑generated leadership content, offering structured articles, case studies, templates, and dashboards for decision‑making, stakeholder engagement, quarterly priorities, and performance tracking. It also includes ergonomic office resources for employee comfort. Content creation Freemium
-
+Leader Menu centralizes AI‑generated leadership content, offering structured articles, case studies, templates, and dashboards for decision‑making, stakeholder engagement, quarterly priorities, and performance tracking. It also includes ergonomic office resources for employee comfort.
 In short, Leader menu is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For many, that single strength of Leader menu is the reason they switch — it replaces whole chunks of manual work.
 
 ## Key features

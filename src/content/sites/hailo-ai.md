@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Hailo AI?
-    a: Hailo AI Edge Processors enhance data privacy and processing efficiency by enabling real-time data analysis on devices. They are ideal for sectors like automotive and healthcare, optimizing AI deployment with low power consumption and high computational capabilities.  That is the core of what Hailo AI does — automotive ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Hailo AI Edge Processors enhance data privacy and processing efficiency by enabling real-time data analysis on devices. They are ideal for sectors like automotive and healthcare, optimizing AI deployment with low power consumption and high computational capabilities. That is the core of what Hailo AI does — automotive ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Hailo AI free?
     a: Hailo AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Hailo AI?

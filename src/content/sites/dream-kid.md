@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Dream Kid?
-    a: Dream Kid AI creates personalized children’s books for kids in hospitals, recording name, age, and medical details to tailor narratives. Users choose themed worlds; stories are narrated or printed with matching illustrations, aiding comfort, coping, and bonding. AI Assistant Freemium That is the core of what Dream Kid does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Dream Kid AI creates personalized children’s books for kids in hospitals, recording name, age, and medical details to tailor narratives. Users choose themed worlds; stories are narrated or printed with matching illustrations, aiding comfort, coping, and bonding. That is the core of what Dream Kid does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Dream Kid free?
     a: Dream Kid uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Dream Kid?
@@ -42,8 +42,7 @@ AI is no longer just a chat novelty, and the hardest part — turning a demo int
 
 ## What is Dream Kid?
 
-Dream Kid AI creates personalized children’s books for kids in hospitals, recording name, age, and medical details to tailor narratives. Users choose themed worlds; stories are narrated or printed with matching illustrations, aiding comfort, coping, and bonding. AI Assistant Freemium
-
+Dream Kid AI creates personalized children’s books for kids in hospitals, recording name, age, and medical details to tailor narratives. Users choose themed worlds; stories are narrated or printed with matching illustrations, aiding comfort, coping, and bonding.
 In short, Dream Kid is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users find that this one ability of Dream Kid removes several tasks from their daily routine.
 
 ## Key features

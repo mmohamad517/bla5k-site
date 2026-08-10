@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is KanShareBan?
-    a: KanShareBan lets users create and share public Kanban boards, enabling collaboration and iterative task improvement. It features AI task generation, a drag‑and‑drop organizer, dark mode, and a progress bar to streamline development workflows for teams. Project management Free That is the core of what KanShareBan does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: KanShareBan lets users create and share public Kanban boards, enabling collaboration and iterative task improvement. It features AI task generation, a drag‑and‑drop organizer, dark mode, and a progress bar to streamline development workflows for teams. That is the core of what KanShareBan does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is KanShareBan free?
     a: Yes — KanShareBan is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with KanShareBan?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is KanShareBan?
 
-KanShareBan lets users create and share public Kanban boards, enabling collaboration and iterative task improvement. It features AI task generation, a drag‑and‑drop organizer, dark mode, and a progress bar to streamline development workflows for teams. Project management Free
-
+KanShareBan lets users create and share public Kanban boards, enabling collaboration and iterative task improvement. It features AI task generation, a drag‑and‑drop organizer, dark mode, and a progress bar to streamline development workflows for teams.
 In short, KanShareBan is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. That one feature of KanShareBan often eliminates several smaller steps from the usual workflow.
 
 ## Key features

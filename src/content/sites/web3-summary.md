@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Web3 Summary?
-    a: Web3 summary simplifies complex crypto projects using ChatGPT and AI into easy-to-understand explanations. Crypto and Web3 Free That is the core of what Web3 Summary does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Web3 summary simplifies complex crypto projects using ChatGPT and AI into easy-to-understand explanations. That is the core of what Web3 Summary does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Web3 Summary free?
     a: Yes — Web3 Summary is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Web3 Summary?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Web3 Summar
 
 ## What is Web3 Summary?
 
-Web3 summary simplifies complex crypto projects using ChatGPT and AI into easy-to-understand explanations. Crypto and Web3 Free
-
+Web3 summary simplifies complex crypto projects using ChatGPT and AI into easy-to-understand explanations.
 In short, Web3 Summary is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. For plenty of users, that one capability of Web3 Summary replaces several steps they used to do by hand.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MultipleChat?
-    a: MultipleChat integrates ChatGPT, Claude, Gemini, Grok, and Perplexity into a single prompt, displaying each model’s output side‑by‑side. It auto‑debates, flags conflicts, provides source references, and supports document, slide, spreadsheet, and image generation with humanized style learning.  That is the core of what MultipleChat does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: MultipleChat integrates ChatGPT, Claude, Gemini, Grok, and Perplexity into a single prompt, displaying each model’s output side‑by‑side. It auto‑debates, flags conflicts, provides source references, and supports document, slide, spreadsheet, and image generation with humanized style learning. That is the core of what MultipleChat does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MultipleChat free?
     a: MultipleChat uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with MultipleChat?

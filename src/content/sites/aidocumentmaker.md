@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AIDocumentMaker?
-    a: AI Document Maker automates professional document creation, producing contracts, proposals, and forms within 30 seconds. It offers industry‑adapted templates, AI‑generated content, auto‑formatting, and enterprise‑grade security for marketers, legal, and sales teams. Document management Freemium That is the core of what AIDocumentMaker does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Document Maker automates professional document creation, producing contracts, proposals, and forms within 30 seconds. It offers industry‑adapted templates, AI‑generated content, auto‑formatting, and enterprise‑grade security for marketers, legal, and sales teams. That is the core of what AIDocumentMaker does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AIDocumentMaker free?
     a: AIDocumentMaker uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AIDocumentMaker?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is AIDocumentMaker?
 
-AI Document Maker automates professional document creation, producing contracts, proposals, and forms within 30 seconds. It offers industry‑adapted templates, AI‑generated content, auto‑formatting, and enterprise‑grade security for marketers, legal, and sales teams. Document management Freemium
-
+AI Document Maker automates professional document creation, producing contracts, proposals, and forms within 30 seconds. It offers industry‑adapted templates, AI‑generated content, auto‑formatting, and enterprise‑grade security for marketers, legal, and sales teams.
 In short, AIDocumentMaker is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. Many users discover that this feature of AIDocumentMaker alone covers what previously took multiple tools.
 
 ## Key features

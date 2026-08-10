@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Cosine?
-    a: Cosine is an on‑prem or VPC‑hosted AI assistant for software engineering that integrates with GitHub, Jira, Slack, and other tools to draft pull requests, write tests, detect bugs, and refactor code while enabling developer review and maintaining SOC 2/ISO 27001‑level security. Code assistant Paid That is the core of what Cosine does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Cosine is an on‑prem or VPC‑hosted AI assistant for software engineering that integrates with GitHub, Jira, Slack, and other tools to draft pull requests, write tests, detect bugs, and refactor code while enabling developer review and maintaining SOC 2/ISO 27001‑level security. That is the core of what Cosine does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Cosine free?
     a: Cosine is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Cosine?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like Cosine earn
 
 ## What is Cosine?
 
-Cosine is an on‑prem or VPC‑hosted AI assistant for software engineering that integrates with GitHub, Jira, Slack, and other tools to draft pull requests, write tests, detect bugs, and refactor code while enabling developer review and maintaining SOC 2/ISO 27001‑level security. Code assistant Paid
-
+Cosine is an on‑prem or VPC‑hosted AI assistant for software engineering that integrates with GitHub, Jira, Slack, and other tools to draft pull requests, write tests, detect bugs, and refactor code while enabling developer review and maintaining SOC 2/ISO 27001‑level security.
 In short, Cosine is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For a lot of people, that one function of Cosine collapses multiple steps into a single action.
 
 ## Key features

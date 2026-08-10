@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ChatBees.AI?
-    a: ChatBees builds knowledge graphs from past tickets and connects to HubSpot, Confluence, Notion, and Google Drive. It trains an AI on company data, updating automatically. The AI analyzes tickets, delivers insights inside the platform, reducing resolution time and deflecting tickets. Customer support Freemium - $4.08/mo That is the core of what ChatBees.AI does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ChatBees builds knowledge graphs from past tickets and connects to HubSpot, Confluence, Notion, and Google Drive. It trains an AI on company data, updating automatically. The AI analyzes tickets, delivers insights inside the platform, reducing resolution time and deflecting tickets. That is the core of what ChatBees.AI does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ChatBees.AI free?
     a: ChatBees.AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $4.08/mo, check the official website — pricing changes often.
   - q: What can you do with ChatBees.AI?
@@ -42,8 +42,7 @@ Most teams have outgrown casual AI use, and purpose-built tools like ChatBees.AI
 
 ## What is ChatBees.AI?
 
-ChatBees builds knowledge graphs from past tickets and connects to HubSpot, Confluence, Notion, and Google Drive. It trains an AI on company data, updating automatically. The AI analyzes tickets, delivers insights inside the platform, reducing resolution time and deflecting tickets. Customer support Freemium - $4.08/mo
-
+ChatBees builds knowledge graphs from past tickets and connects to HubSpot, Confluence, Notion, and Google Drive. It trains an AI on company data, updating automatically. The AI analyzes tickets, delivers insights inside the platform, reducing resolution time and deflecting tickets.
 In short, ChatBees.AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. Many users discover that this feature of ChatBees.AI alone covers what previously took multiple tools.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Fanvaiy?
-    a: Fanvaiy is a blogging platform that enables creators to publish SEO-friendly content with ease. It features an AI-assisted editor, mobile optimization, customizable themes, built-in analytics, and monetization options for both personal and professional use. Content creation Free trial That is the core of what Fanvaiy does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Fanvaiy is a blogging platform that enables creators to publish SEO-friendly content with ease. It features an AI-assisted editor, mobile optimization, customizable themes, built-in analytics, and monetization options for both personal and professional use. That is the core of what Fanvaiy does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Fanvaiy free?
     a: Fanvaiy uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Fanvaiy?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Fanvaiy?
 
-Fanvaiy is a blogging platform that enables creators to publish SEO-friendly content with ease. It features an AI-assisted editor, mobile optimization, customizable themes, built-in analytics, and monetization options for both personal and professional use. Content creation Free trial
-
+Fanvaiy is a blogging platform that enables creators to publish SEO-friendly content with ease. It features an AI-assisted editor, mobile optimization, customizable themes, built-in analytics, and monetization options for both personal and professional use.
 In short, Fanvaiy is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. That one feature of Fanvaiy often eliminates several smaller steps from the usual workflow.
 
 ## Key features

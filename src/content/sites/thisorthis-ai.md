@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is thisorthis.ai?
-    a: Thisorthis.ai lets users compare over 50 AI models, running live text and image generation side‑by‑side. It tracks latency, stores persistent workspace context, offers a 400‑prompt library, and provides encrypted, zero‑trace history. AI Agents Freemium - $29/mo That is the core of what thisorthis.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Thisorthis.ai lets users compare over 50 AI models, running live text and image generation side‑by‑side. It tracks latency, stores persistent workspace context, offers a 400‑prompt library, and provides encrypted, zero‑trace history. That is the core of what thisorthis.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is thisorthis.ai free?
     a: thisorthis.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $29/mo, check the official website — pricing changes often.
   - q: What can you do with thisorthis.ai?
@@ -42,8 +42,7 @@ AI has moved well beyond chat for most teams, and focused tools like thisorthis.
 
 ## What is thisorthis.ai?
 
-Thisorthis.ai lets users compare over 50 AI models, running live text and image generation side‑by‑side. It tracks latency, stores persistent workspace context, offers a 400‑prompt library, and provides encrypted, zero‑trace history. AI Agents Freemium - $29/mo
-
+Thisorthis.ai lets users compare over 50 AI models, running live text and image generation side‑by‑side. It tracks latency, stores persistent workspace context, offers a 400‑prompt library, and provides encrypted, zero‑trace history.
 In short, thisorthis.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For a lot of people, that one function of thisorthis.ai collapses multiple steps into a single action.
 
 ## Key features

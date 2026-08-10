@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TrendWhisperer?
-    a: TrendWhisperer delivers real‑time crypto chart analysis with GPT, blending multiple technical indicators to generate signals and predictions. Users set alerts for trend shifts, receive instant notifications, and benefit from secure, encrypted data across many coins and timeframes. Crypto and Web3 Freemium - $9.99/mo That is the core of what TrendWhisperer does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: TrendWhisperer delivers real‑time crypto chart analysis with GPT, blending multiple technical indicators to generate signals and predictions. Users set alerts for trend shifts, receive instant notifications, and benefit from secure, encrypted data across many coins and timeframes. That is the core of what TrendWhisperer does — web3 and ai agents handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TrendWhisperer free?
     a: TrendWhisperer uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9.99/mo, check the official website — pricing changes often.
   - q: What can you do with TrendWhisperer?
@@ -42,8 +42,7 @@ AI today is about more than chat, and the distance between a slick demo and a re
 
 ## What is TrendWhisperer?
 
-TrendWhisperer delivers real‑time crypto chart analysis with GPT, blending multiple technical indicators to generate signals and predictions. Users set alerts for trend shifts, receive instant notifications, and benefit from secure, encrypted data across many coins and timeframes. Crypto and Web3 Freemium - $9.99/mo
-
+TrendWhisperer delivers real‑time crypto chart analysis with GPT, blending multiple technical indicators to generate signals and predictions. Users set alerts for trend shifts, receive instant notifications, and benefit from secure, encrypted data across many coins and timeframes.
 In short, TrendWhisperer is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for Web3 and AI agents without the manual grind. That single feature of TrendWhisperer alone is enough to streamline a whole chain of steps for many people.
 
 ## Key features

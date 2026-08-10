@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CopysAI?
-    a: CopysAI automates social‑media publishing on Facebook, Instagram, Twitter, and LinkedIn. It generates captions, schedules posts, optimizes timing, and offers multi‑account management, role‑based collaboration, analytics, and 24/7 chatbot replies, scaling from entrepreneurs to agencies. Copywriting Paid That is the core of what CopysAI does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CopysAI automates social‑media publishing on Facebook, Instagram, Twitter, and LinkedIn. It generates captions, schedules posts, optimizes timing, and offers multi‑account management, role‑based collaboration, analytics, and 24/7 chatbot replies, scaling from entrepreneurs to agencies. That is the core of what CopysAI does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CopysAI free?
     a: CopysAI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with CopysAI?
@@ -42,8 +42,7 @@ AI has grown past chat for most teams, and dedicated tools like CopysAI earn the
 
 ## What is CopysAI?
 
-CopysAI automates social‑media publishing on Facebook, Instagram, Twitter, and LinkedIn. It generates captions, schedules posts, optimizes timing, and offers multi‑account management, role‑based collaboration, analytics, and 24/7 chatbot replies, scaling from entrepreneurs to agencies. Copywriting Paid
-
+CopysAI automates social‑media publishing on Facebook, Instagram, Twitter, and LinkedIn. It generates captions, schedules posts, optimizes timing, and offers multi‑account management, role‑based collaboration, analytics, and 24/7 chatbot replies, scaling from entrepreneurs to agencies.
 In short, CopysAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. For a lot of people, that one function of CopysAI collapses multiple steps into a single action.
 
 ## Key features

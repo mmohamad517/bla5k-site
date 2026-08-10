@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Storykube?
-    a: Storykube is a multifaceted AI tool that functions as a copywriter, project manager, and designer. It excels in crafting sales-boosting content, designing visuals, and optimizing workflows through secure insights and decision-making support. AI Assistant Free trial - $21/mo That is the core of what Storykube does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Storykube is a multifaceted AI tool that functions as a copywriter, project manager, and designer. It excels in crafting sales-boosting content, designing visuals, and optimizing workflows through secure insights and decision-making support. That is the core of what Storykube does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Storykube free?
     a: Storykube uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $21/mo, check the official website — pricing changes often.
   - q: What can you do with Storykube?
@@ -42,8 +42,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is Storykube?
 
-Storykube is a multifaceted AI tool that functions as a copywriter, project manager, and designer. It excels in crafting sales-boosting content, designing visuals, and optimizing workflows through secure insights and decision-making support. AI Assistant Free trial - $21/mo
-
+Storykube is a multifaceted AI tool that functions as a copywriter, project manager, and designer. It excels in crafting sales-boosting content, designing visuals, and optimizing workflows through secure insights and decision-making support.
 In short, Storykube is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. That one feature of Storykube often eliminates several smaller steps from the usual workflow.
 
 ## Key features

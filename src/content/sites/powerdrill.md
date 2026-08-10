@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Powerdrill?
-    a: Powerdrill Bloom is an AI assistant platform that lets teams collaborate via a sidebar, using agents to analyze data and produce insights on topics, product comparisons, market trends, and forecasts, organized as searchable reference trails, tailored for analysts.  That is the core of what Powerdrill does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Powerdrill Bloom is an AI assistant platform that lets teams collaborate via a sidebar, using agents to analyze data and produce insights on topics, product comparisons, market trends, and forecasts, organized as searchable reference trails, tailored for analysts. That is the core of what Powerdrill does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Powerdrill free?
     a: Powerdrill is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Powerdrill?

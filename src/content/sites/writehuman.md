@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is WriteHuman?
-    a: WriteHuman AI Humanizer refines ChatGPT, Claude, Gemini, and Deepseek outputs into natural prose, preserving the author’s voice. It offers readability scanning, AI detection, multiple variations, word‑count control, and web/API access for batch workflows.  That is the core of what WriteHuman does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: WriteHuman AI Humanizer refines ChatGPT, Claude, Gemini, and Deepseek outputs into natural prose, preserving the author’s voice. It offers readability scanning, AI detection, multiple variations, word‑count control, and web/API access for batch workflows. That is the core of what WriteHuman does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is WriteHuman free?
     a: WriteHuman uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $0.75/mo, check the official website — pricing changes often.
   - q: What can you do with WriteHuman?

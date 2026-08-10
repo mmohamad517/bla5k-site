@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Poised?
-    a: Poised offers real‑time feedback on filler words, pacing, confidence, and persuasion during meetings, auto‑generating notes and summaries. It tracks metrics privately, integrates with Zoom, Teams, Slack, and more, and runs on Mac/Windows. Coaching Free That is the core of what Poised does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Poised offers real‑time feedback on filler words, pacing, confidence, and persuasion during meetings, auto‑generating notes and summaries. It tracks metrics privately, integrates with Zoom, Teams, Slack, and more, and runs on Mac/Windows. That is the core of what Poised does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Poised free?
     a: Yes — Poised is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Poised?
@@ -42,8 +42,7 @@ Most teams now expect AI to do real work, and the bridge from a flashy demo to s
 
 ## What is Poised?
 
-Poised offers real‑time feedback on filler words, pacing, confidence, and persuasion during meetings, auto‑generating notes and summaries. It tracks metrics privately, integrates with Zoom, Teams, Slack, and more, and runs on Mac/Windows. Coaching Free
-
+Poised offers real‑time feedback on filler words, pacing, confidence, and persuasion during meetings, auto‑generating notes and summaries. It tracks metrics privately, integrates with Zoom, Teams, Slack, and more, and runs on Mac/Windows.
 In short, Poised is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. Many users discover that this feature of Poised alone covers what previously took multiple tools.
 
 ## Key features

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AIWriteBook?
-    a: AIWriteBook is an AI-powered authoring suite that transforms ideas or drafts into complete, publish-ready books. It streamlines the entire process with automated writing, style-consistent editing, integrated cover/art creation, and direct export for platforms like Amazon KDP.  That is the core of what AIWriteBook does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AIWriteBook is an AI-powered authoring suite that transforms ideas or drafts into complete, publish-ready books. It streamlines the entire process with automated writing, style-consistent editing, integrated cover/art creation, and direct export for platforms like Amazon KDP. That is the core of what AIWriteBook does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AIWriteBook free?
     a: AIWriteBook uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $12/mo, check the official website — pricing changes often.
   - q: What can you do with AIWriteBook?

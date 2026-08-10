@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI?
-    a: WebQuery lets users load URLs to build an indexed knowledge base that can be queried in natural language. Answers are drawn exclusively from uploaded content, enabling precise fact retrieval without reading full text. AI Assistant Freemium - $10/mo That is the core of what AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: WebQuery lets users load URLs to build an indexed knowledge base that can be queried in natural language. Answers are drawn exclusively from uploaded content, enabling precise fact retrieval without reading full text. That is the core of what AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI free?
     a: AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $10/mo, check the official website — pricing changes often.
   - q: What can you do with AI?
@@ -42,8 +42,7 @@ Teams increasingly use AI beyond simple chat — and dedicated tools like AI pro
 
 ## What is AI?
 
-WebQuery lets users load URLs to build an indexed knowledge base that can be queried in natural language. Answers are drawn exclusively from uploaded content, enabling precise fact retrieval without reading full text. AI Assistant Freemium - $10/mo
-
+WebQuery lets users load URLs to build an indexed knowledge base that can be queried in natural language. Answers are drawn exclusively from uploaded content, enabling precise fact retrieval without reading full text.
 In short, AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. Many users find that this one ability of AI removes several tasks from their daily routine.
 
 ## Key features
