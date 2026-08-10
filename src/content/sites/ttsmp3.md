@@ -8,8 +8,8 @@ tagline: "Free TTS with MP3 download — convert text to speech and save as audi
 tags: [ttsmp3, tts, mp3, download, free, text-to-speech]
 featured: false
 affiliate: false
-metaTitle: "ttsMP3.com: Free Text-to-Speech with MP3 Download"
-metaDescription: "ttsMP3.com — free text-to-speech with direct MP3 download. Convert text to speech and save audio files instantly, no signup."
+metaTitle: "ttsMP3: Free Text to Speech MP3 Converter, No Signup"
+metaDescription: ttsMP3.com converts text to audio free — turn text into speech and download MP3 files instantly. No signup, unlimited text-to-MP3 conversion.
 simple: "Paste text, choose a voice, and download an MP3 of it being spoken — free and instantly."
 example: "Paste a blog post, pick a voice, and download an MP3 narration for your podcast or video in seconds."
 goodFor:

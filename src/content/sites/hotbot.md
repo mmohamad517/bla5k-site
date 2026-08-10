@@ -13,8 +13,8 @@ tags:
   - ai assistant
 featured: false
 affiliate: false
-metaTitle: "HotBot: Free AI Chat with Multiple Models | No Signup"
-metaDescription: "HotBot—free access to Claude 3, ChatGPT 4, Gemini, DeepSeek, and Llama 3. No signup, no credit card."
+metaTitle: "HotBot: Free ChatGPT & Multi-Model AI Chat, No Signup"
+metaDescription: Chat free with ChatGPT 4, Claude, Gemini and more on HotBot — no signup, no credit card. Compare AI models side by side in one chat.
 simple: "Use major AI models (Claude, ChatGPT, Gemini, DeepSeek) immediately without creating an account."
 example: "Ask HotBot 'explain machine learning'—get answers from Claude and ChatGPT at the same time, no accounts needed."
 goodFor:

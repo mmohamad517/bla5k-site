@@ -14,8 +14,8 @@ tags:
   - productivity
 featured: false
 updated: 2026-08-07
-metaTitle: "Krisp: AI Noise Cancellation Explained (2026)"
-metaDescription: A complete guide to Krisp — the AI that removes background noise from calls and recordings. Features, pricing, and honest limitations.
+metaTitle: "Krisp AI: Noise Cancellation & Suppression for Calls"
+metaDescription: Krisp AI removes background noise, echo, and keyboard sounds from calls and recordings — noise cancellation for Zoom, Teams, Meet, and more.
 simple: "An AI that listens to your microphone, separates your voice from background noise, and removes the noise — so meetings and recordings sound clean even with construction outside or dogs barking."
 example: "Join a Zoom call from a noisy café — Krisp filters out the coffee machine and chatter so your colleagues hear only your voice."
 goodFor:

@@ -17,8 +17,8 @@ tags:
   - manus
 featured: true
 updated: 2026-08-01
-metaTitle: "Manus: The General-Purpose AI Agent (2026 Guide)"
-metaDescription: A complete guide to Manus — the general-purpose autonomous AI agent that researches, codes, builds, and executes multi-step tasks. Features, API, and team plans.
+metaTitle: "Manus AI: The Autonomous Agent That Does Tasks For You"
+metaDescription: Manus AI is the autonomous agent that researches, codes, builds, and executes multi-step tasks for you. See how it works, what it costs, and who it is for.
 simple: "An AI agent that does the work for you. Give it a task — research a topic, build a website, analyze data — and it executes the whole thing end-to-end, not just answering in a chat."
 example: "Ask Manus to 'research the top 5 competitors and build a comparison site' and it researches, writes, designs, and delivers the finished result."
 goodFor:

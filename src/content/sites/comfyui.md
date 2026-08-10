@@ -14,8 +14,8 @@ tags:
   - Node Editor
 featured: false
 updated: 2026-08-05
-metaTitle: "ComfyUI - Node-Based AI Workflow Engine for Image, Video & Audio (2026)"
-metaDescription: "ComfyUI is a free, open-source node-based interface for AI generation. Build visual workflows for images, video, audio, and 3D with Stable Diffusion, FLUX, ACE-Step, and more."
+metaTitle: "ComfyUI: Free AI Workflow Builder for Images & Video"
+metaDescription: ComfyUI is a free node-based AI workflow tool for image and video generation — build, save, and share visual workflows with Stable Diffusion and FLUX.
 simple: "A free program where you build AI workflows by connecting visual blocks (nodes) together — like a flowchart that actually runs. Each block does one thing (load a model, write a prompt, process an image), and you wire them together to create exactly the pipeline you need."
 example: "Want to generate an image, upscale it 4x, and then create a video from it? Build a ComfyUI workflow by connecting the right nodes, hit run, and the whole pipeline executes automatically — and you can save it to reuse or share."
 goodFor:
