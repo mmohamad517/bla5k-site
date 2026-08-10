@@ -1,6 +1,6 @@
 ---
 name: Latta AI
-url: "https://latta.ai"
+url: "https://web.archive.org/web/20251214224327/https://latta.ai/"
 image: /logos/latta-ai.png
 screenshot: /screens/latta-ai.webp
 subcategory: dev-code
@@ -90,4 +90,4 @@ Latta AI targets a real pain point in developer tools — turning an input into 
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [Latta AI](https://latta.ai)*
+*Official resource: [Latta AI](https://web.archive.org/web/20251214224327/https://latta.ai/)*

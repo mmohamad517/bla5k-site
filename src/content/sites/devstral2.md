@@ -1,6 +1,6 @@
 ---
 name: devstral2
-url: "http://devstral2.com"
+url: "https://web.archive.org/web/20260610061505/http://devstral2.com/"
 image: /logos/devstral2.png
 screenshot: /screens/devstral2.webp
 subcategory: ai-chat
@@ -92,4 +92,4 @@ devstral2 targets a real pain point in AI assistance — turning an input into a
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [devstral2](http://devstral2.com)*
+*Official resource: [devstral2](https://web.archive.org/web/20260610061505/http://devstral2.com/)*

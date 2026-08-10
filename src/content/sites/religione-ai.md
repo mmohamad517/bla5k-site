@@ -1,6 +1,6 @@
 ---
 name: Religione AI
-url: "http://click-v4.exmainclcknew.com/click?i=uF1qjYJqOJs_0"
+url: "https://religione.ai"
 image: /logos/religione-ai.png
 screenshot: /screens/religione-ai.webp
 subcategory: ai-chat
@@ -92,4 +92,4 @@ Religione AI targets a real pain point in AI assistance — turning an input int
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [Religione AI](http://click-v4.exmainclcknew.com/click?i=uF1qjYJqOJs_0)*
+*Official resource: [Religione AI](https://religione.ai)*

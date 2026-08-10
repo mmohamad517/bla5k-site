@@ -1,6 +1,6 @@
 ---
 name: GPT-Prompter
-url: "https://gptprompter.com/"
+url: "https://web.archive.org/web/20260521142249/https://www.gptprompter.com/"
 image: /logos/gpt-prompter.png
 screenshot: /screens/gpt-prompter.webp
 subcategory: ai-chat
@@ -90,4 +90,4 @@ GPT-Prompter targets a real pain point in AI assistance — turning an input int
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [GPT-Prompter](https://gptprompter.com/)*
+*Official resource: [GPT-Prompter](https://web.archive.org/web/20260521142249/https://www.gptprompter.com/)*

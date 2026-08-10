@@ -1,6 +1,6 @@
 ---
 name: Gaxu
-url: "https://gaxu.swai.ai/chat/UvXYuCYQdDW5kmic3yJxio4ITUBZ04Ju"
+url: "https://web.archive.org/web/20250307211906/https://gaxu.swai.ai/"
 image: /logos/gaxu.png
 screenshot: /screens/gaxu.webp
 subcategory: ai-chat
@@ -90,4 +90,4 @@ Gaxu targets a real pain point in AI assistance — turning an input into a usab
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [Gaxu](https://gaxu.swai.ai/chat/UvXYuCYQdDW5kmic3yJxio4ITUBZ04Ju)*
+*Official resource: [Gaxu](https://web.archive.org/web/20250307211906/https://gaxu.swai.ai/)*

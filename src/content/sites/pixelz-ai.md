@@ -1,6 +1,6 @@
 ---
 name: Pixelz AI
-url: "http://ww80.pixelz.ai/?subid1=fdee20a8-926e-11f1-94cc-25ac9112c10c"
+url: "https://pixelz.ai"
 image: /logos/pixelz-ai.png
 screenshot: /screens/pixelz-ai.webp
 subcategory: ai-image
@@ -92,4 +92,4 @@ Pixelz AI targets a real pain point in AI avatar generation — turning an input
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [Pixelz AI](http://ww80.pixelz.ai/?subid1=fdee20a8-926e-11f1-94cc-25ac9112c10c)*
+*Official resource: [Pixelz AI](https://pixelz.ai)*

@@ -1,6 +1,6 @@
 ---
 name: Jovu by Amplication
-url: "https://amplication.com/jovu--production-ready-ai-code-generation"
+url: "https://web.archive.org/web/20260310154059/https://amplication.com/"
 image: /logos/jovu-by-amplication.png
 screenshot: /screens/jovu-by-amplication.webp
 subcategory: ai-chat
@@ -90,4 +90,4 @@ Jovu by Amplication targets a real pain point in AI assistance — turning an in
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [Jovu by Amplication](https://amplication.com/jovu--production-ready-ai-code-generation)*
+*Official resource: [Jovu by Amplication](https://web.archive.org/web/20260310154059/https://amplication.com/)*

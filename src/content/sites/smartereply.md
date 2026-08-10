@@ -1,6 +1,6 @@
 ---
 name: Smartereply
-url: "https://smartereply.com"
+url: "https://web.archive.org/web/20260403000634/https://smartereply.com/"
 image: /logos/smartereply.png
 screenshot: /screens/smartereply.webp
 subcategory: nc-automation
@@ -90,4 +90,4 @@ Smartereply targets a real pain point in workflow automation — turning an inpu
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [Smartereply](https://smartereply.com)*
+*Official resource: [Smartereply](https://web.archive.org/web/20260403000634/https://smartereply.com/)*

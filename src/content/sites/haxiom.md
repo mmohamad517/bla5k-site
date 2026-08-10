@@ -1,6 +1,6 @@
 ---
 name: Haxiom
-url: "https://haxiom.io"
+url: "https://web.archive.org/web/20260518032829/https://haxiom.io/"
 image: /logos/haxiom.png
 screenshot: /screens/haxiom.webp
 subcategory: ai-productivity
@@ -92,4 +92,4 @@ Haxiom targets a real pain point in AI management — turning an input into a us
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [Haxiom](https://haxiom.io)*
+*Official resource: [Haxiom](https://web.archive.org/web/20260518032829/https://haxiom.io/)*

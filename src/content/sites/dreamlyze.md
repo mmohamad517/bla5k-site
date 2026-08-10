@@ -1,6 +1,6 @@
 ---
 name: Dreamlyze
-url: "https://www.dreamlyze.com"
+url: "https://web.archive.org/web/20260216015542/https://www.dreamlyze.com/"
 image: /logos/dreamlyze.png
 screenshot: /screens/dreamlyze.webp
 subcategory: ai-chat
@@ -92,4 +92,4 @@ Dreamlyze targets a real pain point in AI assistance — turning an input into a
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [Dreamlyze](https://www.dreamlyze.com)*
+*Official resource: [Dreamlyze](https://web.archive.org/web/20260216015542/https://www.dreamlyze.com/)*

@@ -1,6 +1,6 @@
 ---
 name: WebAssistants.ai
-url: "https://webassistants.ai/"
+url: "https://web.archive.org/web/20260410123947/https://webassistants.ai/"
 image: /logos/webassistants-ai.png
 screenshot: /screens/webassistants-ai.webp
 subcategory: ai-chat
@@ -92,4 +92,4 @@ WebAssistants.ai targets a real pain point in AI assistance — turning an input
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [WebAssistants.ai](https://webassistants.ai/)*
+*Official resource: [WebAssistants.ai](https://web.archive.org/web/20260410123947/https://webassistants.ai/)*

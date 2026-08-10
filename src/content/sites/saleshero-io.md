@@ -1,6 +1,6 @@
 ---
 name: SalesHero.io
-url: "https://saleshero.io/"
+url: "https://web.archive.org/web/20260510142051/https://www.saleshero.io/"
 image: /logos/saleshero-io.png
 screenshot: /screens/saleshero-io.webp
 subcategory: ai-productivity
@@ -90,4 +90,4 @@ SalesHero.io targets a real pain point in AI sales — turning an input into a u
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [SalesHero.io](https://saleshero.io/)*
+*Official resource: [SalesHero.io](https://web.archive.org/web/20260510142051/https://www.saleshero.io/)*

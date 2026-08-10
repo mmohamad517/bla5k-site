@@ -1,6 +1,6 @@
 ---
 name: zesh.ai
-url: "https://zesh.ai"
+url: "https://web.archive.org/web/20260305144329/https://zesh.ai/"
 image: /logos/zesh-ai.png
 screenshot: /screens/zesh-ai.webp
 subcategory: dev-ai-agents
@@ -92,4 +92,4 @@ zesh.ai targets a real pain point in AI agent workflows — turning an input int
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [zesh.ai](https://zesh.ai)*
+*Official resource: [zesh.ai](https://web.archive.org/web/20260305144329/https://zesh.ai/)*

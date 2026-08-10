@@ -1,6 +1,6 @@
 ---
 name: QueryHub
-url: "https://www.queryhub.info"
+url: "https://web.archive.org/web/20260314083009/https://www.queryhub.info/"
 image: /logos/queryhub.png
 screenshot: /screens/queryhub.webp
 subcategory: ai-chat
@@ -90,4 +90,4 @@ QueryHub targets a real pain point in AI assistance — turning an input into a 
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [QueryHub](https://www.queryhub.info)*
+*Official resource: [QueryHub](https://web.archive.org/web/20260314083009/https://www.queryhub.info/)*

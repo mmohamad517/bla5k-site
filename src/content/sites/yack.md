@@ -1,6 +1,6 @@
 ---
 name: Yack
-url: "https://www.yack.fyi/"
+url: "https://web.archive.org/web/20260517211721/http://www.yack.fyi/"
 image: /logos/yack.png
 screenshot: /screens/yack.webp
 subcategory: ai-chat
@@ -92,4 +92,4 @@ Yack targets a real pain point in AI assistance — turning an input into a usab
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [Yack](https://www.yack.fyi/)*
+*Official resource: [Yack](https://web.archive.org/web/20260517211721/http://www.yack.fyi/)*

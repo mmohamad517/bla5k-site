@@ -1,6 +1,6 @@
 ---
 name: InkAI
-url: "https://getinkai.com/discount"
+url: "https://web.archive.org/web/20260204221036/https://www.getinkai.com/"
 image: /logos/inkai.png
 screenshot: /screens/inkai.webp
 subcategory: ai-writing
@@ -92,4 +92,4 @@ InkAI targets a real pain point in AI writing — turning an input into a usable
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [InkAI](https://getinkai.com/discount)*
+*Official resource: [InkAI](https://web.archive.org/web/20260204221036/https://www.getinkai.com/)*

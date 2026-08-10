@@ -1,6 +1,6 @@
 ---
 name: Tranquil AI
-url: "https://tranquilai.app"
+url: "https://web.archive.org/web/20260311103820/https://tranquilai.app/"
 image: /logos/tranquil-ai.png
 screenshot: /screens/tranquil-ai.webp
 subcategory: ai-video-audio
@@ -92,4 +92,4 @@ Tranquil AI targets a real pain point in AI audio — turning an input into a us
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [Tranquil AI](https://tranquilai.app)*
+*Official resource: [Tranquil AI](https://web.archive.org/web/20260311103820/https://tranquilai.app/)*

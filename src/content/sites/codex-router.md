@@ -1,6 +1,6 @@
 ---
 name: Codex Router
-url: https://github.com/duolahypercho/codex-router
+url: "https://github.com/duolahypercho/codex-router"
 image: /logos/codex-router.png
 screenshot: /screens/codex-router.webp
 subcategory: dev-ai-agents

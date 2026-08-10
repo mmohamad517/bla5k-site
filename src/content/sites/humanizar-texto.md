@@ -1,6 +1,6 @@
 ---
 name: Humanizar Texto
-url: "https://humanizartexto.cc/"
+url: "https://web.archive.org/web/20260203114130/https://humanizartexto.cc/"
 image: /logos/humanizar-texto.png
 screenshot: /screens/humanizar-texto.webp
 subcategory: ai-writing
@@ -92,4 +92,4 @@ Humanizar Texto targets a real pain point in AI copywriting — turning an input
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [Humanizar Texto](https://humanizartexto.cc/)*
+*Official resource: [Humanizar Texto](https://web.archive.org/web/20260203114130/https://humanizartexto.cc/)*

@@ -1,6 +1,6 @@
 ---
 name: Driverbook
-url: "https://driverbook.io"
+url: "https://web.archive.org/web/20260125121142/https://driverbook.io/"
 image: /logos/driverbook.png
 screenshot: /screens/driverbook.webp
 subcategory: ent-travel
@@ -90,4 +90,4 @@ Driverbook targets a real pain point in automotive AI — turning an input into 
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [Driverbook](https://driverbook.io)*
+*Official resource: [Driverbook](https://web.archive.org/web/20260125121142/https://driverbook.io/)*

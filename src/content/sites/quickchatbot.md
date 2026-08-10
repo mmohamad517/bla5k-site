@@ -1,6 +1,6 @@
 ---
 name: QuickChatbot
-url: "https://fluttydev.gumroad.com/l/QuickChatbotOpenaiChatPdfChatgptcsvchatgptyoutubesummary"
+url: "https://web.archive.org/web/20251207101035/https://fluttydev.gumroad.com/"
 image: /logos/quickchatbot.png
 screenshot: /screens/quickchatbot.webp
 subcategory: ai-chat
@@ -92,4 +92,4 @@ QuickChatbot targets a real pain point in conversational AI — turning an input
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [QuickChatbot](https://fluttydev.gumroad.com/l/QuickChatbotOpenaiChatPdfChatgptcsvchatgptyoutubesummary)*
+*Official resource: [QuickChatbot](https://web.archive.org/web/20251207101035/https://fluttydev.gumroad.com/)*

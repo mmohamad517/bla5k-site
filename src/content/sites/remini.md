@@ -1,6 +1,6 @@
 ---
 name: Remini
-url: https://remini.ai/
+url: "https://remini.ai"
 image: /logos/remini.png
 screenshot: /screens/remini.webp
 subcategory: util-images
@@ -118,4 +118,4 @@ Remini does one thing extraordinarily well: **make bad photos good**. Whether it
 
 For more creative and design tools, browse our [AI Tools directory](/category/ai-tools/) — from [Microsoft Designer](/tools/microsoft-designer/) for graphics to [Midjourney](/tools/midjourney/) for artistic images.
 
-*Official resource: [Remini](https://remini.ai/).*
+*Official resource: [Remini](https://remini.ai).*

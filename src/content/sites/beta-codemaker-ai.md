@@ -1,6 +1,6 @@
 ---
 name: CodeMaker
-url: "https://beta.codemaker.ai"
+url: "https://web.archive.org/web/20260416132904/https://beta.codemaker.ai/"
 image: /logos/beta-codemaker-ai.png
 screenshot: /screens/beta-codemaker-ai.webp
 subcategory: ai-chat
@@ -92,4 +92,4 @@ CodeMaker targets a real pain point in AI assistance — turning an input into a
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [CodeMaker](https://beta.codemaker.ai)*
+*Official resource: [CodeMaker](https://web.archive.org/web/20260416132904/https://beta.codemaker.ai/)*

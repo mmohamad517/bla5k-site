@@ -1,6 +1,6 @@
 ---
 name: JetCode
-url: "https://www.jetcode.app"
+url: "https://web.archive.org/web/20260520132748/http://jetcode.app/"
 image: /logos/jetcode.png
 screenshot: /screens/jetcode.webp
 subcategory: ai-chat
@@ -92,4 +92,4 @@ JetCode targets a real pain point in AI assistance — turning an input into a u
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [JetCode](https://www.jetcode.app)*
+*Official resource: [JetCode](https://web.archive.org/web/20260520132748/http://jetcode.app/)*

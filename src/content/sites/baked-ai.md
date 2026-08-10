@@ -1,6 +1,6 @@
 ---
 name: Baked AI
-url: "http://sarai-tid.com/zokvisitor/e4491a58-926e-11f1-8664-120d1131010f/72092e88-2c53-401c-b988-51ef43ce1034?campaignid=e457e763-926e-11f1-8664-120d1131010f"
+url: "https://baked-ai.com"
 image: /logos/baked-ai.png
 screenshot: /screens/baked-ai.webp
 subcategory: ai-productivity
@@ -92,4 +92,4 @@ Baked AI targets a real pain point in AI work — turning an input into a usable
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [Baked AI](http://sarai-tid.com/zokvisitor/e4491a58-926e-11f1-8664-120d1131010f/72092e88-2c53-401c-b988-51ef43ce1034?campaignid=e457e763-926e-11f1-8664-120d1131010f)*
+*Official resource: [Baked AI](https://baked-ai.com)*

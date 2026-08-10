@@ -1,6 +1,6 @@
 ---
 name: Secret Llama
-url: "http://ww80.secretllama.com/?subid1=a21a6083-926f-11f1-b183-857ab32ecceb"
+url: "https://secretllama.com"
 image: /logos/secret-llama.png
 screenshot: /screens/secret-llama.webp
 subcategory: ai-chat
@@ -92,4 +92,4 @@ Secret Llama targets a real pain point in conversational AI — turning an input
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [Secret Llama](http://ww80.secretllama.com/?subid1=a21a6083-926f-11f1-b183-857ab32ecceb)*
+*Official resource: [Secret Llama](https://secretllama.com)*

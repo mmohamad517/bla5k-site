@@ -1,6 +1,6 @@
 ---
 name: Socrates.im
-url: "https://socrates.im"
+url: "https://web.archive.org/web/20260512003818/https://socrates.im/"
 image: /logos/socrates-im.png
 screenshot: /screens/socrates-im.webp
 subcategory: ai-productivity
@@ -92,4 +92,4 @@ Socrates.im targets a real pain point in AI management — turning an input into
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [Socrates.im](https://socrates.im)*
+*Official resource: [Socrates.im](https://web.archive.org/web/20260512003818/https://socrates.im/)*

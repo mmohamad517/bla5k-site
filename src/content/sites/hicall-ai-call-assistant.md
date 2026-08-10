@@ -1,6 +1,6 @@
 ---
 name: "HiCall: AI Call Assistant"
-url: "https://apps.apple.com/us/app/hicall-ai-call-assistant/id6476257066"
+url: "https://web.archive.org/web/20220821191444/https://apps.apple.com/"
 image: /logos/hicall-ai-call-assistant.png
 screenshot: /screens/hicall-ai-call-assistant.webp
 subcategory: nc-automation
@@ -92,4 +92,4 @@ HiCall: AI Call Assistant targets a real pain point in workflow automation — t
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [HiCall: AI Call Assistant](https://apps.apple.com/us/app/hicall-ai-call-assistant/id6476257066)*
+*Official resource: [HiCall: AI Call Assistant](https://web.archive.org/web/20220821191444/https://apps.apple.com/)*

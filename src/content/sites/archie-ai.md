@@ -1,6 +1,6 @@
 ---
 name: Archie AI
-url: "https://archie.8base.com"
+url: "https://archie.ai"
 image: /logos/archie-ai.png
 screenshot: /screens/archie-ai.webp
 subcategory: ai-chat
@@ -92,4 +92,4 @@ Archie AI targets a real pain point in AI assistance — turning an input into a
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [Archie AI](https://archie.8base.com)*
+*Official resource: [Archie AI](https://archie.ai)*

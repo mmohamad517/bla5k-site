@@ -1,6 +1,6 @@
 ---
 name: Buzr AI
-url: "https://www.buzr.org"
+url: "https://web.archive.org/web/20260511160322/https://www.buzr.org/"
 image: /logos/buzr-ai.png
 screenshot: /screens/buzr-ai.webp
 subcategory: ai-chat
@@ -92,4 +92,4 @@ Buzr AI targets a real pain point in AI assistance — turning an input into a u
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [Buzr AI](https://www.buzr.org)*
+*Official resource: [Buzr AI](https://web.archive.org/web/20260511160322/https://www.buzr.org/)*

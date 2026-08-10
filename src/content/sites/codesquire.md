@@ -1,6 +1,6 @@
 ---
 name: CodeSquire
-url: "https://codesquire.ai/"
+url: "https://web.archive.org/web/20260416214607/https://codesquire.ai/"
 image: /logos/codesquire.png
 screenshot: /screens/codesquire.webp
 subcategory: ai-chat
@@ -92,4 +92,4 @@ CodeSquire targets a real pain point in AI assistance — turning an input into 
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [CodeSquire](https://codesquire.ai/)*
+*Official resource: [CodeSquire](https://web.archive.org/web/20260416214607/https://codesquire.ai/)*

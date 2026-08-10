@@ -1,6 +1,6 @@
 ---
 name: OranClick
-url: "https://click.oranai.com"
+url: "https://oranai.com"
 image: /logos/oranclick.png
 screenshot: /screens/oranclick.webp
 subcategory: mkt-social
@@ -92,4 +92,4 @@ OranClick targets a real pain point in AI marketing — turning an input into a 
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [OranClick](https://click.oranai.com)*
+*Official resource: [OranClick](https://oranai.com)*

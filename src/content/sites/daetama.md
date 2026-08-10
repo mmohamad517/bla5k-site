@@ -1,6 +1,6 @@
 ---
 name: Daetama
-url: "https://daetama.io"
+url: "https://web.archive.org/web/20251204180825/https://daetama.io/"
 image: /logos/daetama.png
 screenshot: /screens/daetama.webp
 subcategory: ai-chat
@@ -92,4 +92,4 @@ Daetama targets a real pain point in AI assistance — turning an input into a u
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [Daetama](https://daetama.io)*
+*Official resource: [Daetama](https://web.archive.org/web/20251204180825/https://daetama.io/)*

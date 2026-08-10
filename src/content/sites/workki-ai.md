@@ -1,6 +1,6 @@
 ---
 name: Workki AI
-url: "https://www.workkiai.com"
+url: "https://web.archive.org/web/20260517081850/https://www.workkiai.com/"
 image: /logos/workki-ai.png
 screenshot: /screens/workki-ai.webp
 subcategory: ai-chat
@@ -92,4 +92,4 @@ Workki AI targets a real pain point in AI assistance — turning an input into a
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [Workki AI](https://www.workkiai.com)*
+*Official resource: [Workki AI](https://web.archive.org/web/20260517081850/https://www.workkiai.com/)*
