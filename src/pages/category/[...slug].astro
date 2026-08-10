@@ -9,9 +9,11 @@ import { outboundRel } from '../../lib/links';
 // Paginate every category: 200 tools per page. Keeps category pages light
 // (~150 KB instead of 1.3 MB), spreads link equity across more pages, and
 // caps ItemList at Google's practical 100-item rich-result limit.
-const PER_PAGE = 200;
-
+// NOTE: getStaticPaths compiles to a module-level function, so the page size
+// must live INSIDE it and travel to the template via props (frontmatter consts
+// are not visible there).
 export async function getStaticPaths() {
+  const PER_PAGE = 200;
   const sites = await getCollection('sites');
   const paths = [];
   for (const cat of categories) {
@@ -27,27 +29,28 @@ export async function getStaticPaths() {
     if (count === 0) continue;
     const pageCount = Math.max(1, Math.ceil(count / PER_PAGE));
     for (let page = 1; page <= pageCount; page++) {
+      // Rest params take a slash-joined string: ['ai-tools','page','2'] -> 'ai-tools/page/2'.
       paths.push({
-        params: page === 1 ? { slug: [cat.slug] } : { slug: [cat.slug, 'page', String(page)] },
-        props: { cat, subs, count, page, pageCount },
+        params: { slug: page === 1 ? cat.slug : `${cat.slug}/page/${page}` },
+        props: { cat, subs, count, page, pageCount, perPage: PER_PAGE },
       });
     }
   }
   return paths;
 }
 
-const { cat, subs, count, page, pageCount } = Astro.props;
+const { cat, subs, count, page, pageCount, perPage } = Astro.props;
 const site = 'https://bla5k.com';
 const noun = count === 1 ? 'Tool' : 'Tools';
 
 // Slice this page's tools out of the flat category list (featured first, then A–Z).
 const all = subs.flatMap((x) => x.sites);
-const pageSites = all.slice((page - 1) * PER_PAGE, page * PER_PAGE);
+const pageSites = all.slice((page - 1) * perPage, page * perPage);
 const pageSubs = subs
   .map(({ sub, sites: subSites }) => ({ sub, sites: subSites.filter((s) => pageSites.includes(s)) }))
   .filter((x) => x.sites.length > 0);
-const pageStart = (page - 1) * PER_PAGE + 1;
-const pageEnd = Math.min(count, page * PER_PAGE);
+const pageStart = (page - 1) * perPage + 1;
+const pageEnd = Math.min(count, page * perPage);
 
 const title =
   page === 1
