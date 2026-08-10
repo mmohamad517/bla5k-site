@@ -1,18 +1,26 @@
+# ── bla5k.com — unified robots policy (single source of truth) ──────────────
+# bla5k is a public directory. Every crawler — search engines and AI search
+# engines alike — is welcome to index, reference, and quote our content.
+#
+# The Content-Signal line is a machine-readable copyright reservation
+# (per EU Directive 2019/790, Art. 4):
+#   search=yes    → may build a search index & show excerpts
+#   ai-input=yes  → may use our content as input for AI answers (RAG/grounding)
+#   ai-train=no   → must NOT train or fine-tune models on our content
+#   use=reference → may index, excerpt, and link back
+#
+# Business decision (Aug 2026): we want bla5k visible in AI search engines
+# (ChatGPT, Perplexity, Claude, Gemini, Copilot, …) while reserving the right
+# to opt out of AI training — that opt-out lives in ai-train=no, not in
+# blocking the crawlers themselves.
 User-agent: *
 Allow: /
-
-# ── Explicit content signals (code-level, independent of dashboard settings) ──
-# search=yes  : may index & show excerpts in search results
-# ai-input=yes: may use our content as input for AI answers (RAG / grounding)
-# ai-train=no : must NOT train models on our content
-# use=reference: AI systems may quote/reference our content
-User-agent: *
 Content-Signal: search=yes, ai-input=yes, ai-train=no, use=reference
 
 # ── AI search & research crawlers: explicitly ALLOWED ────────────────
-# Business decision (Aug 2026): we want bla5k visible in AI search
-# engines (ChatGPT, Perplexity, Claude, Gemini, Copilot, …).
-# Keep these groups — removing them hides the site from AI search.
+# These groups repeat Allow: / as defense-in-depth: they protect against any
+# future Cloudflare Managed-robots update that could otherwise re-block them.
+# Removing them would hide the site from AI search results.
 
 # OpenAI (ChatGPT search, GPT bots)
 User-agent: GPTBot
