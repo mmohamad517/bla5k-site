@@ -110,6 +110,6 @@ It's **not** for people who want modern Hollywood releases — those are still c
 
 Internet Archive Films is **the definitive source for free, legal public-domain cinema** — thousands of classic and vintage films, free forever, no account, no ads, and downloadable. For film lovers and history buffs, it's a genuine treasure.
 
-For modern free streaming, pair it with [Tubi](/tools/tubi/), and for ad-free curated picks try [Kanopy](/tools/kanopy/).
+For modern free streaming, pair it with [Tubi](/tools/tubi/), and for ad-free curated picks try [Kanopy](/tools/kanopy/). And when you want something new to browse rather than a specific era, [Nothing To Watch](/tools/nothing-to-watch/) surfaces films you may not have thought of.
 
 *Official resource: [Internet Archive Films](https://archive.org/details/feature_films).*

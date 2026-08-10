@@ -84,6 +84,8 @@ MovieWiser currently runs on a free model — no paywall. Pricing plans, free al
 
 The content creation space is crowded, and the right pick depends on your volume, budget, and how specialized your need is. The strongest way to compare is to run the same real task through MovieWiser and one or two alternatives, then judge on output quality, speed, and price. Tools in this category differ most in output fidelity, integrations, and how well they fit the way you already work.
 
+If your problem is deciding *what* to watch in the first place, [Nothing To Watch](/tools/nothing-to-watch/) is a playful free picker that surfaces films to browse before you stream them anywhere.
+
 ## Conclusion
 
 MovieWiser targets a real pain point in content creation — turning an input into a usable result without the manual grind. If that matches your work, it is worth a quick evaluation on one concrete task. Compare the output against your current tools, verify the pricing on the official site, and decide based on what your actual workload needs.
