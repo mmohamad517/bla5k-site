@@ -96,13 +96,27 @@ const schema = [
       </div>
     </section>
 
+    <section class="section pt0">
+      <div class="container">
+        <!-- Instant search: filters the reviewed cards + the 1,000+ repo list.
+             All content stays in the HTML (progressive, works without JS). -->
+        <div class="search glass">
+          <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2"/><path d="m20 20-3.2-3.2" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+          <input id="oss-search" type="search" inputmode="search" autocomplete="off"
+                 placeholder="Search open source AI tools, repos, languages…" aria-label="Search open source tools" />
+          <button id="oss-clear" type="button" aria-label="Clear search" hidden>&times;</button>
+        </div>
+        <p class="search-status" id="oss-status" role="status" aria-live="polite" hidden></p>
+      </div>
+    </section>
+
     {orderedGroups.map(([groupName, group]) => (
       <section class="section oss-group">
         <div class="container">
           <h2 class="oss-group-title">{groupName} <span class="count-badge">{group.length}</span></h2>
           <ul class="oss-grid" role="list">
             {group.map((en) => (
-              <li class="oss-card glass">
+              <li class="oss-card glass" data-search={`${en.name} ${en.tagline} ${en.subName ?? ''} ${en.cat?.name ?? ''}`.toLowerCase()}>
                 {en.image && (
                   <img class="oss-logo" src={en.image} alt="" width="40" height="40" loading="lazy" referrerpolicy="no-referrer" />
                 )}
@@ -133,7 +147,7 @@ const schema = [
         </p>
         <ul class="oss-big-grid" role="list">
           {OSS_REPOS.map((r) => (
-            <li class="oss-big-card">
+            <li class="oss-big-card" data-search={`${r.name} ${r.desc ?? ''} ${r.lang ?? ''} ${r.license ?? ''}`.toLowerCase()}>
               <div class="ob-head">
                 <a class="ob-name" href={r.url} target="_blank" rel="noopener noreferrer">{r.name}</a>
                 <span class="ob-stars" title="GitHub stars">★ {r.stars.toLocaleString()}</span>
@@ -166,6 +180,17 @@ const schema = [
   .oss-lead { color: var(--text-dim); font-size: 1.06rem; max-width: 72ch; line-height: 1.65; }
   .oss-lead strong { color: var(--text); }
   .oss-count { margin-top: 1rem; display: inline-block; font-family: var(--font-head); font-weight: 700; color: var(--cyan-soft); background: rgba(0,240,255,.08); border: 1px solid var(--glass-border); border-radius: 999px; padding: 0.35rem 0.9rem; font-size: 0.85rem; }
+
+  /* ---- Instant search (progressive: works only as a filter; content in HTML) ---- */
+  .pt0 { padding-top: 0; }
+  .search { display: flex; align-items: center; gap: 0.6rem; padding: 0.6rem 0.95rem; margin-top: 0.4rem; }
+  .search-icon { color: var(--text-faint); flex: none; }
+  #oss-search { flex: 1; background: none; border: none; outline: none; color: var(--text); font: inherit; font-size: 1rem; padding: 0.5rem 0; min-width: 0; }
+  #oss-search::-webkit-search-cancel-button, #oss-search::-webkit-search-decoration { -webkit-appearance: none; appearance: none; }
+  #oss-search::placeholder { color: var(--text-faint); }
+  #oss-clear { background: none; border: none; color: var(--text-dim); font-size: 1.4rem; line-height: 1; cursor: pointer; padding: 0 0.3rem; }
+  .search-status { color: var(--text-faint); font-size: 0.85rem; margin: 0.5rem 0.2rem 0; }
+  .hide { display: none !important; }
 
   .oss-group { padding-block: 1.5rem; }
   .oss-group-title { font-size: 1.35rem; font-family: var(--font-head); margin-bottom: 1.1rem; display: flex; align-items: center; gap: 0.6rem; }
@@ -216,3 +241,41 @@ const schema = [
   @media (min-width: 640px) { .oss-big-grid { grid-template-columns: 1fr 1fr; } }
   @media (min-width: 1024px) { .oss-big-grid { grid-template-columns: 1fr 1fr 1fr; } }
 </style>
+
+<script>
+  // Instant filter across the reviewed cards and the 1,000+ repo list.
+  const input = document.getElementById('oss-search') as HTMLInputElement | null;
+  const clearBtn = document.getElementById('oss-clear') as HTMLButtonElement | null;
+  const status = document.getElementById('oss-status');
+  if (input) {
+    const cards = Array.from(document.querySelectorAll<HTMLElement>('.oss-card, .oss-big-card'));
+    const groups = Array.from(document.querySelectorAll<HTMLElement>('.oss-group'));
+    const bigSection = document.querySelector<HTMLElement>('.oss-big');
+
+    const run = () => {
+      const q = (input.value ?? '').trim().toLowerCase();
+      if (clearBtn) clearBtn.hidden = q.length === 0;
+      let visible = 0;
+      cards.forEach((c) => {
+        const m = q === '' || (c.dataset.search ?? '').includes(q);
+        c.classList.toggle('hide', !m);
+        if (m) visible++;
+      });
+      groups.forEach((g) => {
+        const has = g.querySelector('.oss-card:not(.hide)');
+        g.classList.toggle('hide', !has);
+      });
+      if (bigSection) {
+        const has = bigSection.querySelector('.oss-big-card:not(.hide)');
+        bigSection.classList.toggle('hide', q !== '' && !has);
+      }
+      if (status) {
+        status.hidden = q === '';
+        status.textContent = `${visible} result${visible === 1 ? '' : 's'}`;
+      }
+    };
+
+    input.addEventListener('input', run);
+    clearBtn?.addEventListener('click', () => { input.value = ''; run(); input.focus(); });
+  }
+</script>
