@@ -1,6 +1,12 @@
 # Cloudflare Pages headers
 
 /*
+  # HTML must never sit in the shared CDN cache for days. Cloudflare Pages
+  # defaults to `s-maxage=604800`, so a DELETED page keeps returning 200 for
+  # up to 7 days (see chainintelgpt). Revalidating every request means a
+  # deleted page 404s on the very next request after deploy — instantly for
+  # users, crawlers and Google. Static assets below still cache hard.
+  Cache-Control: public, max-age=0, s-maxage=0, must-revalidate
   X-Content-Type-Options: nosniff
   X-Frame-Options: SAMEORIGIN
   Referrer-Policy: strict-origin-when-cross-origin
