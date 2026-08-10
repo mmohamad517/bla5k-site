@@ -35,6 +35,8 @@ faqs:
     a: Its focus on cinematic, stylized output and direct editing controls — restyling, motion adjustment, and extending clips — positions it between pure generators and full editing suites.
   - q: Can I edit videos inside Higgsfield?
     a: Yes — beyond generating, Higgsfield offers editing tools like style presets, motion controls, and video extension, so you can refine AI output without leaving the platform.
+  - q: Is it spelled Higgsfield or Hicksville AI?
+    a: The correct name is Higgsfield AI — "Hicksville AI" is a common misspelling of the same platform. Either way, you are looking for the cinematic AI video and image generation tool at higgsfield.ai.
   - q: Is Higgsfield good for social media content?
     a: Yes — its cinematic aesthetic suits brand content, ads, and social posts, and output is exportable for platforms like TikTok, Reels, and Shorts.
 ---
