@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Hostinger | 1-Click OpenClaw?
-    a: 1-Click OpenClaw is a domain management tool that performs instant WHOIS lookups to check availability, verify ownership, and view registration details. AI Agents 3 0 Subscription - $21.99/mo That is the core of what Hostinger | 1-Click OpenClaw does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: 1-Click OpenClaw is a domain management tool that performs instant WHOIS lookups to check availability, verify ownership, and view registration details.  That is the core of what Hostinger | 1-Click OpenClaw does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Hostinger | 1-Click OpenClaw free?
     a: Hostinger | 1-Click OpenClaw is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Hostinger | 1-Click OpenClaw?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Hostinger | 1-Click OpenClaw?
 
-1-Click OpenClaw is a domain management tool that performs instant WHOIS lookups to check availability, verify ownership, and view registration details. AI Agents 3 0 Subscription - $21.99/mo
-
-In short, Hostinger | 1-Click OpenClaw is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+1-Click OpenClaw is a domain management tool that performs instant WHOIS lookups to check availability, verify ownership, and view registration details. In short, Hostinger | 1-Click OpenClaw is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

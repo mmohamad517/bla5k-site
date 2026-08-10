@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ReceiptRecon?
-    a: ReceiptRecon is a QuickBooks-integrated tool that automatically captures, categorizes, and syncs receipt data to streamline expense tracking. It ensures accuracy with manual review options and secures data with bank-grade encryption for efficient bookkeeping. Accounting assistant 4 1 Free trial That is the core of what ReceiptRecon does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ReceiptRecon is a QuickBooks-integrated tool that automatically captures, categorizes, and syncs receipt data to streamline expense tracking. It ensures accuracy with manual review options and secures data with bank-grade encryption for efficient bookkeeping.  That is the core of what ReceiptRecon does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ReceiptRecon free?
     a: ReceiptRecon uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ReceiptRecon?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is ReceiptRecon?
 
-ReceiptRecon is a QuickBooks-integrated tool that automatically captures, categorizes, and syncs receipt data to streamline expense tracking. It ensures accuracy with manual review options and secures data with bank-grade encryption for efficient bookkeeping. Accounting assistant 4 1 Free trial
-
-In short, ReceiptRecon is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+ReceiptRecon is a QuickBooks-integrated tool that automatically captures, categorizes, and syncs receipt data to streamline expense tracking. It ensures accuracy with manual review options and secures data with bank-grade encryption for efficient bookkeeping. In short, ReceiptRecon is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

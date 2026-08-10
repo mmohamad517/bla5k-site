@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: lifedata.ai - AI Tool Review & Guide 2026
-metaDescription: Lifedata is a WhatsApp data platform that automates marketing, manages customer loyalty, and enhances communication, enabling businesses to capture...
+metaDescription: Lifedata is a WhatsApp data platform that automates marketing, manages customer loyalty, and enhances communication, enabling businesses to capture
 simple: Lifedata is a WhatsApp data platform that automates marketing, manages customer loyalty, and enhances communication, enabling businesses to capture first-party data, improve operational efficiency, and optimize revenue across various industries.
 example: Give lifedata.ai one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it.
 goodFor:

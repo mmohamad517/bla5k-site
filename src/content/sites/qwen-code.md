@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Qwen Code?
-    a: Qwen-Code is an AI-driven coding assistant designed for developers. It enhances code understanding, automates tasks like pull requests, generates unit tests, and improves documentation, making it suitable for both enterprise and small-team development. Code assistant 3 0 1 Free That is the core of what Qwen Code does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Qwen-Code is an AI-driven coding assistant designed for developers. It enhances code understanding, automates tasks like pull requests, generates unit tests, and improves documentation, making it suitable for both enterprise and small-team development.  That is the core of what Qwen Code does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Qwen Code free?
     a: Yes — Qwen Code is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Qwen Code?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Qwen Code?
 
-Qwen-Code is an AI-driven coding assistant designed for developers. It enhances code understanding, automates tasks like pull requests, generates unit tests, and improves documentation, making it suitable for both enterprise and small-team development. Code assistant 3 0 1 Free
-
-In short, Qwen Code is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Qwen-Code is an AI-driven coding assistant designed for developers. It enhances code understanding, automates tasks like pull requests, generates unit tests, and improves documentation, making it suitable for both enterprise and small-team development. In short, Qwen Code is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

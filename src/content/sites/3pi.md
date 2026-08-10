@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: 3pi - AI Tool Review & Guide 2026
-metaDescription: 3pi.ai is a short, brandable .ai domain for AI, ML, data analytics, robotics and platform projects, improving keyword relevance and domain-level SEO,...
+metaDescription: 3pi.ai is a short, brandable .ai domain for AI, ML, data analytics, robotics and platform projects, improving keyword relevance and domain-level SEO
 simple: 3pi.ai is a short, brandable .ai domain for AI, ML, data analytics, robotics and platform projects, improving keyword relevance and domain-level SEO, suitable for founders and developers, with registrar transfer support and secure ownership transfer.
 example: Give 3pi one real task — a prompt, a file, or a request — and it returns a usable result for your ai management workflow.
 goodFor:

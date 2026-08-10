@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: cre[ai]tion - AI Tool Review & Guide 2026
-metaDescription: Creaiton is a visual design platform that leverages AI to generate and refine designs, support real-time collaboration, and enable users to track creative...
+metaDescription: Creaiton is a visual design platform that leverages AI to generate and refine designs, support real-time collaboration, and enable users to track creative
 simple: Creaiton is a visual design platform that leverages AI to generate and refine designs, support real-time collaboration, and enable users to track creative iterations.
 example: Give cre[ai]tion one real task — a prompt, a file, or a request — and it returns a usable result for your ai content generation workflow.
 goodFor:

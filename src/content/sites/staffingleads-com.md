@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: StaffingLeads - AI Tool Review & Guide 2026
-metaDescription: StaffingLeads is a real-time hiring alert platform that scans company career portals and ATS feeds to deliver verified hiring manager contacts and role...
+metaDescription: StaffingLeads is a real-time hiring alert platform that scans company career portals and ATS feeds to deliver verified hiring manager contacts and role
 simple: StaffingLeads is a real-time hiring alert platform that scans company career portals and ATS feeds to deliver verified hiring manager contacts and role details, enabling recruiters and staffing teams to target decision-makers instantly.
 example: Give StaffingLeads one real task — a prompt, a file, or a request — and it returns a usable result for your ai research workflow.
 goodFor:

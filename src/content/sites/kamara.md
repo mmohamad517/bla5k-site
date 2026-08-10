@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Kamara - AI Tool Review & Guide 2026
-metaDescription: Kamara AI integrates into GitHub, delivering contextual code analysis, automated reviews, bug detection, performance and security checks, and auto‑generates...
+metaDescription: Kamara AI integrates into GitHub, delivering contextual code analysis, automated reviews, bug detection, performance and security checks, and auto‑generates
 simple: Kamara AI integrates into GitHub, delivering contextual code analysis, automated reviews, bug detection, performance and security checks, and auto‑generates pull requests, tests, and documentation updates that match project style while preserving institutional knowledge.
 example: Give Kamara one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

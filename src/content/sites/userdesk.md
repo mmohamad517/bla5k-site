@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Userdesk - AI Tool Review & Guide 2026
-metaDescription: Userdesk builds no-code, ChatGPT-like chatbots trained on websites, Notion, PDFs and Google Drive to automate support and lead generation via widgets,...
+metaDescription: Userdesk builds no-code, ChatGPT-like chatbots trained on websites, Notion, PDFs and Google Drive to automate support and lead generation via widgets
 simple: Userdesk builds no-code, ChatGPT-like chatbots trained on websites, Notion, PDFs and Google Drive to automate support and lead generation via widgets, booking and qualifying prospects, auto-syncing content, cross-platform deployment, analytics and multilingual responses.
 example: Give Userdesk one real task — a prompt, a file, or a request — and it returns a usable result for your no-code building workflow.
 goodFor:

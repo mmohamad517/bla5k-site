@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Peony?
-    a: Peony.ink is a virtual data room with AI Q&A, auto-indexing, and smart search, enabling instant answers from uploaded documents. It features page-level analytics, NDA-gated access, e-signatures, and enterprise security for efficient due diligence, fundraising, and M&A collaboration. Document management 2 0 1 Free trial That is the core of what Peony does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Peony.ink is a virtual data room with AI Q&A, auto-indexing, and smart search, enabling instant answers from uploaded documents. It features page-level analytics, NDA-gated access, e-signatures, and enterprise security for efficient due diligence, fundraising, and M&A collaboration.  That is the core of what Peony does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Peony free?
     a: Peony uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Peony?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Peony?
 
-Peony.ink is a virtual data room with AI Q&A, auto-indexing, and smart search, enabling instant answers from uploaded documents. It features page-level analytics, NDA-gated access, e-signatures, and enterprise security for efficient due diligence, fundraising, and M&A collaboration. Document management 2 0 1 Free trial
-
-In short, Peony is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Peony.ink is a virtual data room with AI Q&A, auto-indexing, and smart search, enabling instant answers from uploaded documents. It features page-level analytics, NDA-gated access, e-signatures, and enterprise security for efficient due diligence, fundraising, and M&A collaboration. In short, Peony is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

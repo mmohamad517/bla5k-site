@@ -165,22 +165,22 @@ When compared to other local proxies, Codex Router offers better routing logic. 
 | Setup Difficulty | Medium | Easy | Easy | Medium |
 
 ## Frequently Asked Questions (FAQ)
-Q: What is Codex Router?  
+Q: What is Codex Router? 
 A: Codex Router is an open-source API proxy. It intelligently routes AI coding requests to the best Large Language Model. It picks the right model based on cost, speed, and task complexity. This helps developers save money and improve performance.
 
-Q: How does Codex Router save money?  
+Q: How does Codex Router save money? 
 A: It uses smart routing rules. You can send simple tasks to cheaper, faster models. You can send complex tasks to premium models. This prevents you from overspending on expensive APIs for basic code generation. It optimizes your overall API budget.
 
-Q: Can I use Codex Router with my existing tools?  
+Q: Can I use Codex Router with my existing tools? 
 A: Yes, it is highly compatible. It works as a drop-in replacement for standard API endpoints. You can easily connect it to tools like Cursor AI, GitHub Copilot, or custom scripts. It supports all major AI providers without changing your code.
 
-Q: Is Codex Router secure for my API keys?  
+Q: Is Codex Router secure for my API keys? 
 A: Absolutely. Security is a top priority. It acts as a secure gateway. Your API keys are stored safely on the router. The router masks them before sending requests to the AI providers. This keeps your credentials safe from exposure.
 
-Q: Does it support local AI models?  
+Q: Does it support local AI models? 
 A: Yes, it supports local models. You can route requests to local instances like Ollama or LM Studio. This is great for offline coding or handling sensitive code. You can mix local models with cloud APIs for a hybrid approach.
 
-Q: Is Codex Router free to use?  
+Q: Is Codex Router free to use? 
 A: Yes, it is completely free. The project is open-source and released under the MIT License. You can download it, modify it, and use it for personal or commercial projects. There are no hidden fees or premium tiers.
 
 ## Conclusion

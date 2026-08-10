@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MyDetector?
-    a: MyDetector is a free tool that detects AI-generated text and humanizes it to ensure authenticity. It supports multiple languages, offers 99% accuracy, and refines content to match human-like quality. AI detection 13 4 Free That is the core of what MyDetector does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: MyDetector is a free tool that detects AI-generated text and humanizes it to ensure authenticity. It supports multiple languages, offers 99% accuracy, and refines content to match human-like quality.  That is the core of what MyDetector does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MyDetector free?
     a: Yes — MyDetector is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with MyDetector?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is MyDetector?
 
-MyDetector is a free tool that detects AI-generated text and humanizes it to ensure authenticity. It supports multiple languages, offers 99% accuracy, and refines content to match human-like quality. AI detection 13 4 Free
-
-In short, MyDetector is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+MyDetector is a free tool that detects AI-generated text and humanizes it to ensure authenticity. It supports multiple languages, offers 99% accuracy, and refines content to match human-like quality. In short, MyDetector is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Captain?
-    a: Captain is an AI-powered marketing platform for brands, automating content creation, optimizing user engagement, and identifying leads in real-time. Boost awareness, drive traffic, and increase conversion rates with its quick setup and user insights-driven strategies. Digital Marketing 4 1 Free trial - $99/mo That is the core of what Captain does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Captain is an AI-powered marketing platform for brands, automating content creation, optimizing user engagement, and identifying leads in real-time. Boost awareness, drive traffic, and increase conversion rates with its quick setup and user insights-driven strategies.  That is the core of what Captain does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Captain free?
     a: Captain uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $99/mo, check the official website — pricing changes often.
   - q: What can you do with Captain?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Captain?
 
-Captain is an AI-powered marketing platform for brands, automating content creation, optimizing user engagement, and identifying leads in real-time. Boost awareness, drive traffic, and increase conversion rates with its quick setup and user insights-driven strategies. Digital Marketing 4 1 Free trial - $99/mo
-
-In short, Captain is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Captain is an AI-powered marketing platform for brands, automating content creation, optimizing user engagement, and identifying leads in real-time. Boost awareness, drive traffic, and increase conversion rates with its quick setup and user insights-driven strategies. In short, Captain is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

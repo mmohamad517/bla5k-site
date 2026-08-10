@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: WPGPT - AI Tool Review & Guide 2026
-metaDescription: The WPGPT plugin allows users to create custom AI-powered chat for their WordPress website, offering pre-built models for various niches and the ability to...
+metaDescription: The WPGPT plugin allows users to create custom AI-powered chat for their WordPress website, offering pre-built models for various niches and the ability to
 simple: The WPGPT plugin allows users to create custom AI-powered chat for their WordPress website, offering pre-built models for various niches and the ability to create custom models.
 example: Give WPGPT one real task — a prompt, a file, or a request — and it returns a usable result for your no-code building workflow.
 goodFor:

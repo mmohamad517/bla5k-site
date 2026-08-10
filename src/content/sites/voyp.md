@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Voyp - AI Tool Review & Guide 2026
-metaDescription: Voyp is an AI call agent that schedules appointments, reservations, and phone tasks via voice or text, auto‑adds events, records calls, supports multiple...
+metaDescription: Voyp is an AI call agent that schedules appointments, reservations, and phone tasks via voice or text, auto‑adds events, records calls, supports multiple
 simple: Voyp is an AI call agent that schedules appointments, reservations, and phone tasks via voice or text, auto‑adds events, records calls, supports multiple languages and platforms, and can transfer calls to verified numbers.
 example: Give Voyp one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

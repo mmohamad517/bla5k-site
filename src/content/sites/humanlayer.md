@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: HumanLayer - AI Tool Review & Guide 2026
-metaDescription: HumanLayer is an open-source IDE and orchestration layer for AI coding agents, managing parallel Claude Code sessions, multiclaude workflows, worktrees and...
+metaDescription: HumanLayer is an open-source IDE and orchestration layer for AI coding agents, managing parallel Claude Code sessions, multiclaude workflows, worktrees and
 simple: "HumanLayer is an open-source IDE and orchestration layer for AI coding agents, managing parallel Claude Code sessions, multiclaude workflows, worktrees and remote workers, with context-engineering tools, session replay, workflow templates and GitHub-integrated code-review automation."
 example: "Give HumanLayer one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

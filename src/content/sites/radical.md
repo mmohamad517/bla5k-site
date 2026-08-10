@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-07
 metaTitle: RADiCAL - AI 3D Tool Review & Guide 2026
-metaDescription: Radical is a web-based 3D content creation platform that allows users to design, animate, and collaborate in real-time with AI tools, featuring markerless...
+metaDescription: Radical is a web-based 3D content creation platform that allows users to design, animate, and collaborate in real-time with AI tools, featuring markerless
 simple: "Radical is a web-based 3D content creation platform that allows users to design, animate, and collaborate in real-time with AI tools, featuring markerless motion capture, integration with major software, and a library of 3D assets."
 example: "Give RADiCAL your source material — a prompt, an image, or a model file — and it returns a usable 3D result for your workflow."
 goodFor:

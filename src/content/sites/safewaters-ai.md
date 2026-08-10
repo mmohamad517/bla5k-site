@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: SafeWaters.ai - AI Tool Review & Guide 2026
-metaDescription: SafeWaters.ai predicts global shark activity with 83% accuracy, provides surf and tide data, visibility forecasts from chlorophyll maps, an AI chat on shark...
+metaDescription: SafeWaters.ai predicts global shark activity with 83% accuracy, provides surf and tide data, visibility forecasts from chlorophyll maps, an AI chat on shark
 simple: SafeWaters.ai predicts global shark activity with 83% accuracy, provides surf and tide data, visibility forecasts from chlorophyll maps, an AI chat on shark risks, and real‑time webcams and swell maps for surfers, spearfishers, divers, and beachgoers.
 example: Give SafeWaters.ai one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

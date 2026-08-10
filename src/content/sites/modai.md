@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: ModAi - AI Tool Review & Guide 2026
-metaDescription: Modai is an AI support bot for Discord that answers up to 90% of inquiries, manages support tickets, and supports over 30 languages, enhancing customer...
+metaDescription: Modai is an AI support bot for Discord that answers up to 90% of inquiries, manages support tickets, and supports over 30 languages, enhancing customer
 simple: Modai is an AI support bot for Discord that answers up to 90% of inquiries, manages support tickets, and supports over 30 languages, enhancing customer service efficiency and enabling teams to focus on complex issues.
 example: Give ModAi one real task — a prompt, a file, or a request — and it returns a usable result for your ai customer support workflow.
 goodFor:

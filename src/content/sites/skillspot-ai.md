@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Skillspot.ai?
-    a: Skillspot automates recruitment by sourcing, screening, and scheduling candidates from 800 million profiles. It matches talent to job specs, sends AI‑generated outreach, and provides video interview analytics, reducing screening time and supporting data‑driven hiring. AI Agents 1 0 Subscription - $49/mo That is the core of what Skillspot.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Skillspot automates recruitment by sourcing, screening, and scheduling candidates from 800 million profiles. It matches talent to job specs, sends AI‑generated outreach, and provides video interview analytics, reducing screening time and supporting data‑driven hiring.  That is the core of what Skillspot.ai does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Skillspot.ai free?
     a: Skillspot.ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Skillspot.ai?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Skillspot.ai?
 
-Skillspot automates recruitment by sourcing, screening, and scheduling candidates from 800 million profiles. It matches talent to job specs, sends AI‑generated outreach, and provides video interview analytics, reducing screening time and supporting data‑driven hiring. AI Agents 1 0 Subscription - $49/mo
-
-In short, Skillspot.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Skillspot automates recruitment by sourcing, screening, and scheduling candidates from 800 million profiles. It matches talent to job specs, sends AI‑generated outreach, and provides video interview analytics, reducing screening time and supporting data‑driven hiring. In short, Skillspot.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

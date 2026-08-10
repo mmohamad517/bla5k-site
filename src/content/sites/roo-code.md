@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is RooCode?
-    a: Roo Code is an AI-powered coding assistant that integrates with VS Code, enabling developers to automate tasks, execute commands, and optimize code. It supports multiple AI models, customizable roles, and adaptive autonomy for efficient software development. Code assistant 1 0 Free That is the core of what RooCode does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Roo Code is an AI-powered coding assistant that integrates with VS Code, enabling developers to automate tasks, execute commands, and optimize code. It supports multiple AI models, customizable roles, and adaptive autonomy for efficient software development.  That is the core of what RooCode does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is RooCode free?
     a: Yes — RooCode is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with RooCode?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is RooCode?
 
-Roo Code is an AI-powered coding assistant that integrates with VS Code, enabling developers to automate tasks, execute commands, and optimize code. It supports multiple AI models, customizable roles, and adaptive autonomy for efficient software development. Code assistant 1 0 Free
-
-In short, RooCode is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Roo Code is an AI-powered coding assistant that integrates with VS Code, enabling developers to automate tasks, execute commands, and optimize code. It supports multiple AI models, customizable roles, and adaptive autonomy for efficient software development. In short, RooCode is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

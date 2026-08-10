@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: enso - AI Tool Review & Guide 2026
-metaDescription: Enso automates business workflows with AI agents that run continuously, bundling 5–8 agents for tasks such as content creation, lead qualification, and...
+metaDescription: Enso automates business workflows with AI agents that run continuously, bundling 5–8 agents for tasks such as content creation, lead qualification, and
 simple: Enso automates business workflows with AI agents that run continuously, bundling 5–8 agents for tasks such as content creation, lead qualification, and revenue management.
 example: Give enso one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it.
 goodFor:

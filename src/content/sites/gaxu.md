@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Gaxu?
-    a: Meet gaxu, your AI marketing assistant, always on standby to provide insights, competitive analysis, keyword extraction, and quick summarization of content. Gain a competitive edge in digital marketing with gaxu's support 24/7. AI Assistant 1 0 Free That is the core of what Gaxu does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Meet gaxu, your AI marketing assistant, always on standby to provide insights, competitive analysis, keyword extraction, and quick summarization of content. Gain a competitive edge in digital marketing with gaxu's support 24/7.  That is the core of what Gaxu does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Gaxu free?
     a: Yes — Gaxu is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Gaxu?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Gaxu?
 
-Meet gaxu, your AI marketing assistant, always on standby to provide insights, competitive analysis, keyword extraction, and quick summarization of content. Gain a competitive edge in digital marketing with gaxu's support 24/7. AI Assistant 1 0 Free
-
-In short, Gaxu is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Meet gaxu, your AI marketing assistant, always on standby to provide insights, competitive analysis, keyword extraction, and quick summarization of content. Gain a competitive edge in digital marketing with gaxu's support 24/7. In short, Gaxu is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

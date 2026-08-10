@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Chattee?
-    a: Chattee is an AI app builder that converts plain-English prompts into full-stack web applications with databases, auth, and workflows. It enables instant deployment with scalable hosting while allowing full code export and ownership for rapid prototyping and production. App Builder 6 1 5 Free trial That is the core of what Chattee does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Chattee is an AI app builder that converts plain-English prompts into full-stack web applications with databases, auth, and workflows. It enables instant deployment with scalable hosting while allowing full code export and ownership for rapid prototyping and production.  That is the core of what Chattee does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Chattee free?
     a: Chattee uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Chattee?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Chattee?
 
-Chattee is an AI app builder that converts plain-English prompts into full-stack web applications with databases, auth, and workflows. It enables instant deployment with scalable hosting while allowing full code export and ownership for rapid prototyping and production. App Builder 6 1 5 Free trial
-
-In short, Chattee is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Chattee is an AI app builder that converts plain-English prompts into full-stack web applications with databases, auth, and workflows. It enables instant deployment with scalable hosting while allowing full code export and ownership for rapid prototyping and production. In short, Chattee is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

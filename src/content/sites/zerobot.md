@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ZeroBot?
-    a: ZeroBot lets users create role‑specific AI agents with custom voice, avatar, and behavior, supporting GPT‑5, Gemini, Claude, Llama, and Qwen. It offers actions, connectors, web search, image generation, and human‑backed verification for secure, versatile use. AI Assistant 3 3 Paid That is the core of what ZeroBot does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ZeroBot lets users create role‑specific AI agents with custom voice, avatar, and behavior, supporting GPT‑5, Gemini, Claude, Llama, and Qwen. It offers actions, connectors, web search, image generation, and human‑backed verification for secure, versatile use.  That is the core of what ZeroBot does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ZeroBot free?
     a: ZeroBot is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with ZeroBot?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is ZeroBot?
 
-ZeroBot lets users create role‑specific AI agents with custom voice, avatar, and behavior, supporting GPT‑5, Gemini, Claude, Llama, and Qwen. It offers actions, connectors, web search, image generation, and human‑backed verification for secure, versatile use. AI Assistant 3 3 Paid
-
-In short, ZeroBot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+ZeroBot lets users create role‑specific AI agents with custom voice, avatar, and behavior, supporting GPT‑5, Gemini, Claude, Llama, and Qwen. It offers actions, connectors, web search, image generation, and human‑backed verification for secure, versatile use. In short, ZeroBot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

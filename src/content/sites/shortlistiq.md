@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: ShortlistIQ - AI Tool Review & Guide 2026
-metaDescription: ShortlistIQ automates first‑round interviews with conversational AI, allowing recruiters to create custom avatars that match company culture, support...
+metaDescription: ShortlistIQ automates first‑round interviews with conversational AI, allowing recruiters to create custom avatars that match company culture, support
 simple: ShortlistIQ automates first‑round interviews with conversational AI, allowing recruiters to create custom avatars that match company culture, support multilingual interactions, and deliver objective scoring reports.
 example: Give ShortlistIQ one real task — a prompt, a file, or a request — and it returns a usable result for your ai research workflow.
 goodFor:
@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ShortlistIQ?
-    a: ShortlistIQ automates first‑round interviews with conversational AI, allowing recruiters to create custom avatars that match company culture, support multilingual interactions, and deliver objective scoring reports. It integrates with ATS, filters CVs, and shortens hiring time. Human resources 2 3 Freemium That is the core of what ShortlistIQ does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ShortlistIQ automates first‑round interviews with conversational AI, allowing recruiters to create custom avatars that match company culture, support multilingual interactions, and deliver objective scoring reports. It integrates with ATS, filters CVs, and shortens hiring time.  That is the core of what ShortlistIQ does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ShortlistIQ free?
     a: ShortlistIQ uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ShortlistIQ?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is ShortlistIQ?
 
-ShortlistIQ automates first‑round interviews with conversational AI, allowing recruiters to create custom avatars that match company culture, support multilingual interactions, and deliver objective scoring reports. It integrates with ATS, filters CVs, and shortens hiring time. Human resources 2 3 Freemium
-
-In short, ShortlistIQ is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+ShortlistIQ automates first‑round interviews with conversational AI, allowing recruiters to create custom avatars that match company culture, support multilingual interactions, and deliver objective scoring reports. It integrates with ATS, filters CVs, and shortens hiring time. In short, ShortlistIQ is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

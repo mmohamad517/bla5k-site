@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Cogniroot?
-    a: Cogniroot AI Assistant offers automated chat support across websites, WhatsApp, and phone calls, with a customizable chatbot builder. It integrates scheduling, product inquiries, and Shopify, enabling 24/7 customer service that cuts staff workload and errors. AI Assistant 1 0 Freemium - $30/mo That is the core of what Cogniroot does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Cogniroot AI Assistant offers automated chat support across websites, WhatsApp, and phone calls, with a customizable chatbot builder. It integrates scheduling, product inquiries, and Shopify, enabling 24/7 customer service that cuts staff workload and errors.  That is the core of what Cogniroot does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Cogniroot free?
     a: Cogniroot uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $30/mo, check the official website — pricing changes often.
   - q: What can you do with Cogniroot?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Cogniroot?
 
-Cogniroot AI Assistant offers automated chat support across websites, WhatsApp, and phone calls, with a customizable chatbot builder. It integrates scheduling, product inquiries, and Shopify, enabling 24/7 customer service that cuts staff workload and errors. AI Assistant 1 0 Freemium - $30/mo
-
-In short, Cogniroot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Cogniroot AI Assistant offers automated chat support across websites, WhatsApp, and phone calls, with a customizable chatbot builder. It integrates scheduling, product inquiries, and Shopify, enabling 24/7 customer service that cuts staff workload and errors. In short, Cogniroot is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

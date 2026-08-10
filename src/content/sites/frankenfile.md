@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Frankenfile - AI Tool Review & Guide 2026
-metaDescription: Frankenfile is a macOS desktop app that automatically converts, resizes, and crops images, videos, audio, and PDFs locally, providing quick file...
+metaDescription: Frankenfile is a macOS desktop app that automatically converts, resizes, and crops images, videos, audio, and PDFs locally, providing quick file manipulation
 simple: Frankenfile is a macOS desktop app that automatically converts, resizes, and crops images, videos, audio, and PDFs locally, providing quick file manipulation for photographers, videographers, designers, and office users, ensuring privacy.
 example: Give Frankenfile one real task — a prompt, a file, or a request — and it returns a usable result for your ai management workflow.
 goodFor:

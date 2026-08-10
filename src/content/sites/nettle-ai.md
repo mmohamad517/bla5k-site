@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Nettle.ai - AI Tool Review & Guide 2026
-metaDescription: People Nettle creates customizable, lifelike digital humans for brands, enhancing customer engagement through interactive, voice-responsive avatars powered...
+metaDescription: People Nettle creates customizable, lifelike digital humans for brands, enhancing customer engagement through interactive, voice-responsive avatars powered
 simple: People Nettle creates customizable, lifelike digital humans for brands, enhancing customer engagement through interactive, voice-responsive avatars powered by natural language processing.
 example: Give Nettle.ai one real task — a prompt, a file, or a request — and it returns a usable result for your ai avatar generation workflow.
 goodFor:

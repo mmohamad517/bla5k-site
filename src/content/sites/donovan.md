@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Donovan?
-    a: Donovan provides a no‑code Agent Factory that builds and connects AI agents for mission‑critical government and defense workflows. It evaluates model performance, runs on classified, air‑gapped Kubernetes environments, and offers traceable reasoning with defense‑aligned guardrails. AI Agents 21 7 Freemium That is the core of what Donovan does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Donovan provides a no‑code Agent Factory that builds and connects AI agents for mission‑critical government and defense workflows. It evaluates model performance, runs on classified, air‑gapped Kubernetes environments, and offers traceable reasoning with defense‑aligned guardrails.  That is the core of what Donovan does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Donovan free?
     a: Donovan uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Donovan?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Donovan?
 
-Donovan provides a no‑code Agent Factory that builds and connects AI agents for mission‑critical government and defense workflows. It evaluates model performance, runs on classified, air‑gapped Kubernetes environments, and offers traceable reasoning with defense‑aligned guardrails. AI Agents 21 7 Freemium
-
-In short, Donovan is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Donovan provides a no‑code Agent Factory that builds and connects AI agents for mission‑critical government and defense workflows. It evaluates model performance, runs on classified, air‑gapped Kubernetes environments, and offers traceable reasoning with defense‑aligned guardrails. In short, Donovan is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

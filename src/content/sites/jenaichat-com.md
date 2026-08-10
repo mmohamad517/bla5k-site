@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: JenAI Chat - AI Tool Review & Guide 2026
-metaDescription: JenAI Chat is an Android AI chat app that connects to GPT-3.5/4/4o and Gemini Pro for conversational and document tasks, offering bidirectional voice,...
+metaDescription: JenAI Chat is an Android AI chat app that connects to GPT-3.5/4/4o and Gemini Pro for conversational and document tasks, offering bidirectional voice
 simple: JenAI Chat is an Android AI chat app that connects to GPT-3.5/4/4o and Gemini Pro for conversational and document tasks, offering bidirectional voice, Android Auto, customizable one‑tap commands, tap‑to‑stop responses, tutoring, math help, games, and email-ready composition.
 example: Give JenAI Chat one real task — a prompt, a file, or a request — and it returns a usable result for your conversational ai workflow.
 goodFor:

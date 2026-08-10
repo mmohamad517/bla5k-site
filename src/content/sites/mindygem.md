@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: MindyGem - AI Tool Review & Guide 2026
-metaDescription: MindyGem automates the creation of product documents, user stories, and technical specs from brief inputs or UI mockups, saves drafting time, stores...
+metaDescription: MindyGem automates the creation of product documents, user stories, and technical specs from brief inputs or UI mockups, saves drafting time, stores
 simple: MindyGem automates the creation of product documents, user stories, and technical specs from brief inputs or UI mockups, saves drafting time, stores artifacts in a searchable knowledge base with collaboration tools, and integrates with Jira and Swagger.
 example: Give MindyGem one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

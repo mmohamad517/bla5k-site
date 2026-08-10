@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Quo?
-    a: Quo is a business phone system that centralizes calls, SMS, voicemails, recordings, and contact history into shared inboxes. Sona AI handles 24/7 call answering, qualification and routing, with automated tagging, summaries, CRM integrations and analytics. Customer support 11 3 Free trial That is the core of what Quo does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Quo is a business phone system that centralizes calls, SMS, voicemails, recordings, and contact history into shared inboxes. Sona AI handles 24/7 call answering, qualification and routing, with automated tagging, summaries, CRM integrations and analytics.  That is the core of what Quo does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Quo free?
     a: Quo uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Quo?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Quo?
 
-Quo is a business phone system that centralizes calls, SMS, voicemails, recordings, and contact history into shared inboxes. Sona AI handles 24/7 call answering, qualification and routing, with automated tagging, summaries, CRM integrations and analytics. Customer support 11 3 Free trial
-
-In short, Quo is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Quo is a business phone system that centralizes calls, SMS, voicemails, recordings, and contact history into shared inboxes. Sona AI handles 24/7 call answering, qualification and routing, with automated tagging, summaries, CRM integrations and analytics. In short, Quo is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

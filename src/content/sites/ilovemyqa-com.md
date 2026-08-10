@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ilovemyqa.com?
-    a: ilovemyqa provides AI-powered software testing services from Vancouver, prioritizing clear communication and real device testing across platforms. Find critical bugs, enhance quality, and elevate user experience hassle-free. AI Assistant 1 0 Freemium - $49/mo That is the core of what ilovemyqa.com does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ilovemyqa provides AI-powered software testing services from Vancouver, prioritizing clear communication and real device testing across platforms. Find critical bugs, enhance quality, and elevate user experience hassle-free.  That is the core of what ilovemyqa.com does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ilovemyqa.com free?
     a: ilovemyqa.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $49/mo, check the official website — pricing changes often.
   - q: What can you do with ilovemyqa.com?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is ilovemyqa.com?
 
-ilovemyqa provides AI-powered software testing services from Vancouver, prioritizing clear communication and real device testing across platforms. Find critical bugs, enhance quality, and elevate user experience hassle-free. AI Assistant 1 0 Freemium - $49/mo
-
-In short, ilovemyqa.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+ilovemyqa provides AI-powered software testing services from Vancouver, prioritizing clear communication and real device testing across platforms. Find critical bugs, enhance quality, and elevate user experience hassle-free. In short, ilovemyqa.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

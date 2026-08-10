@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TechhorizonCity Content & Image Generator?
-    a: Generate articles up to 2000 words with integrated images. Choose from 11 languages, 10 writing styles, and various tones. Offers optional image creation, image conversion, HTML editing, and readability analysis for writers, marketers, educators, and students. Content Writing 1 2 Freemium That is the core of what TechhorizonCity Content & Image Generator does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Generate articles up to 2000 words with integrated images. Choose from 11 languages, 10 writing styles, and various tones. Offers optional image creation, image conversion, HTML editing, and readability analysis for writers, marketers, educators, and students.  That is the core of what TechhorizonCity Content & Image Generator does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TechhorizonCity Content & Image Generator free?
     a: TechhorizonCity Content & Image Generator uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with TechhorizonCity Content & Image Generator?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is TechhorizonCity Content & Image Generator?
 
-Generate articles up to 2000 words with integrated images. Choose from 11 languages, 10 writing styles, and various tones. Offers optional image creation, image conversion, HTML editing, and readability analysis for writers, marketers, educators, and students. Content Writing 1 2 Freemium
-
-In short, TechhorizonCity Content & Image Generator is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Generate articles up to 2000 words with integrated images. Choose from 11 languages, 10 writing styles, and various tones. Offers optional image creation, image conversion, HTML editing, and readability analysis for writers, marketers, educators, and students. In short, TechhorizonCity Content & Image Generator is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

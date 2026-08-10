@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: RGX Tools - AI Tool Review & Guide 2026
-metaDescription: rgx.tools uses GPT‑3.5‑Turbo to translate natural‑language prompts into readable regular expressions, providing code snippets for JavaScript, Python, Java,...
+metaDescription: rgx.tools uses GPT‑3.5‑Turbo to translate natural‑language prompts into readable regular expressions, providing code snippets for JavaScript, Python, Java
 simple: rgx.tools uses GPT‑3.5‑Turbo to translate natural‑language prompts into readable regular expressions, providing code snippets for JavaScript, Python, Java, C#, Ruby, PHP, Go, Rust, Kotlin, Swift, and SED.
 example: Give RGX Tools one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

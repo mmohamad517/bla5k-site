@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Describe Music AI?
-    a: Describe Music.net is an AI audio analysis tool that generates detailed music descriptions, detects genre/mood/instruments, and analyzes voice/sound effects. It provides technical metadata, SEO tags, and exports reports for creators, musicians, and marketers. Audio 3 3 Free trial - $9.9/mo That is the core of what Describe Music AI does — ai audio handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Describe Music.net is an AI audio analysis tool that generates detailed music descriptions, detects genre/mood/instruments, and analyzes voice/sound effects. It provides technical metadata, SEO tags, and exports reports for creators, musicians, and marketers.  That is the core of what Describe Music AI does — ai audio handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Describe Music AI free?
     a: Describe Music AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9.9/mo, check the official website — pricing changes often.
   - q: What can you do with Describe Music AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Describe Music AI?
 
-Describe Music.net is an AI audio analysis tool that generates detailed music descriptions, detects genre/mood/instruments, and analyzes voice/sound effects. It provides technical metadata, SEO tags, and exports reports for creators, musicians, and marketers. Audio 3 3 Free trial - $9.9/mo
-
-In short, Describe Music AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI audio without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Describe Music.net is an AI audio analysis tool that generates detailed music descriptions, detects genre/mood/instruments, and analyzes voice/sound effects. It provides technical metadata, SEO tags, and exports reports for creators, musicians, and marketers. In short, Describe Music AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI audio without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Walter writes AI?
-    a: Walter Writes AI enhances AI-generated content by refining its structure and tone, making it indistinguishable from human writing. It supports over 80 languages and includes a built-in detection tool to identify AI-produced text. AI detection 8 7 Free trial That is the core of what Walter writes AI does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Walter Writes AI enhances AI-generated content by refining its structure and tone, making it indistinguishable from human writing. It supports over 80 languages and includes a built-in detection tool to identify AI-produced text.  That is the core of what Walter writes AI does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Walter writes AI free?
     a: Walter writes AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Walter writes AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Walter writes AI?
 
-Walter Writes AI enhances AI-generated content by refining its structure and tone, making it indistinguishable from human writing. It supports over 80 languages and includes a built-in detection tool to identify AI-produced text. AI detection 8 7 Free trial
-
-In short, Walter writes AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Walter Writes AI enhances AI-generated content by refining its structure and tone, making it indistinguishable from human writing. It supports over 80 languages and includes a built-in detection tool to identify AI-produced text. In short, Walter writes AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: RAGGENIE - AI Tool Review & Guide 2026
-metaDescription: Raggenie is a low-code platform for building conversational AI tools, allowing users to create custom generative applications by integrating various data...
+metaDescription: Raggenie is a low-code platform for building conversational AI tools, allowing users to create custom generative applications by integrating various data
 simple: Raggenie is a low-code platform for building conversational AI tools, allowing users to create custom generative applications by integrating various data sources.
 example: Give RAGGENIE one real task — a prompt, a file, or a request — and it returns a usable result for your ai management workflow.
 goodFor:

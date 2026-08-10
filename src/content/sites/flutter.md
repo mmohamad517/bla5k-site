@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Flutter?
-    a: ShipFlutter is a customizable boilerplate starter kit for Flutter, enabling rapid project generation with an AI builder. It offers modular features, Firebase integration, and tools for SEO and payment processing, suitable for responsive mobile and web applications. App Builder 0 1 Free trial That is the core of what Flutter does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ShipFlutter is a customizable boilerplate starter kit for Flutter, enabling rapid project generation with an AI builder. It offers modular features, Firebase integration, and tools for SEO and payment processing, suitable for responsive mobile and web applications.  That is the core of what Flutter does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Flutter free?
     a: Flutter uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Flutter?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Flutter?
 
-ShipFlutter is a customizable boilerplate starter kit for Flutter, enabling rapid project generation with an AI builder. It offers modular features, Firebase integration, and tools for SEO and payment processing, suitable for responsive mobile and web applications. App Builder 0 1 Free trial
-
-In short, Flutter is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+ShipFlutter is a customizable boilerplate starter kit for Flutter, enabling rapid project generation with an AI builder. It offers modular features, Firebase integration, and tools for SEO and payment processing, suitable for responsive mobile and web applications. In short, Flutter is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

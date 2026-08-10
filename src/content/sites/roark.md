@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Roark - AI Tool Review & Guide 2026
-metaDescription: Roark - Voice AI Evals provides monitoring and evaluation tools for voice AI, tracking over 40 call metrics, facilitating multi-speaker analysis, and...
+metaDescription: Roark - Voice AI Evals provides monitoring and evaluation tools for voice AI, tracking over 40 call metrics, facilitating multi-speaker analysis, and
 simple: "Roark - Voice AI Evals provides monitoring and evaluation tools for voice AI, tracking over 40 call metrics, facilitating multi-speaker analysis, and ensuring compliance with regulations while optimizing voice agent performance through customizable dashboards and automated alerts."
 example: "Give Roark one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

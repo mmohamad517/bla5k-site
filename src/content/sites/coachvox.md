@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Coachvox?
-    a: Coachvox delivers a 24/7 conversational AI that mirrors a coach’s unique style. It auto‑trains from books, articles, and session transcripts, offers customizable personality sliders, embeds on websites or dashboards, supports multiple languages, and provides analytics for content improvement. Coaching 1 0 Subscription - $99/mo That is the core of what Coachvox does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Coachvox delivers a 24/7 conversational AI that mirrors a coach’s unique style. It auto‑trains from books, articles, and session transcripts, offers customizable personality sliders, embeds on websites or dashboards, supports multiple languages, and provides analytics for content improvement.  That is the core of what Coachvox does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Coachvox free?
     a: Coachvox is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Coachvox?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Coachvox?
 
-Coachvox delivers a 24/7 conversational AI that mirrors a coach’s unique style. It auto‑trains from books, articles, and session transcripts, offers customizable personality sliders, embeds on websites or dashboards, supports multiple languages, and provides analytics for content improvement. Coaching 1 0 Subscription - $99/mo
-
-In short, Coachvox is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Coachvox delivers a 24/7 conversational AI that mirrors a coach’s unique style. It auto‑trains from books, articles, and session transcripts, offers customizable personality sliders, embeds on websites or dashboards, supports multiple languages, and provides analytics for content improvement. In short, Coachvox is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

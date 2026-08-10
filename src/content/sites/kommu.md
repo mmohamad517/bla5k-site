@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Kommu?
-    a: Kommuassist is an AI-driven home assistant with advanced safety and convenience features. Leveraging Bukapilot technology, it delivers Level 2 autonomous driving capabilities for enhanced comfort and control. Personal assistant 0 1 Freemium That is the core of what Kommu does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Kommuassist is an AI-driven home assistant with advanced safety and convenience features. Leveraging Bukapilot technology, it delivers Level 2 autonomous driving capabilities for enhanced comfort and control.  That is the core of what Kommu does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Kommu free?
     a: Kommu uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Kommu?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Kommu?
 
-Kommuassist is an AI-driven home assistant with advanced safety and convenience features. Leveraging Bukapilot technology, it delivers Level 2 autonomous driving capabilities for enhanced comfort and control. Personal assistant 0 1 Freemium
-
-In short, Kommu is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Kommuassist is an AI-driven home assistant with advanced safety and convenience features. Leveraging Bukapilot technology, it delivers Level 2 autonomous driving capabilities for enhanced comfort and control. In short, Kommu is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

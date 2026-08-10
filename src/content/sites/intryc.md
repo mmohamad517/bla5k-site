@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Intryc - AI Tool Review & Guide 2026
-metaDescription: Intryc is an AI QA platform for customer experience teams that automates ticket evaluation with customizable scorecards, generates realistic simulations for...
+metaDescription: Intryc is an AI QA platform for customer experience teams that automates ticket evaluation with customizable scorecards, generates realistic simulations for
 simple: Intryc is an AI QA platform for customer experience teams that automates ticket evaluation with customizable scorecards, generates realistic simulations for onboarding, delivers instant coaching from QA results, and provides performance insights and integrations for scalable QA.
 example: Give Intryc one real task — a prompt, a file, or a request — and it returns a usable result for your ai customer support workflow.
 goodFor:

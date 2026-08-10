@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Fabric - augmenting humans using AI - AI Tool Review & Guide 2026
-metaDescription: Fabric is an open-source AI framework that enhances productivity by offering a modular structure and crowdsourced AI prompts for tasks like summarizing...
+metaDescription: Fabric is an open-source AI framework that enhances productivity by offering a modular structure and crowdsourced AI prompts for tasks like summarizing
 simple: Fabric is an open-source AI framework that enhances productivity by offering a modular structure and crowdsourced AI prompts for tasks like summarizing content, creating art prompts, and writing essays.
 example: Give Fabric - augmenting humans using AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

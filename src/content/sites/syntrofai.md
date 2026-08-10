@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: SyntrofAI - AI Tool Review & Guide 2026
-metaDescription: SyntrofAI is a multi-agent operating system that coordinates AI agents to design, execute, and share end-to-end workflows, enabling persistent memory,...
+metaDescription: SyntrofAI is a multi-agent operating system that coordinates AI agents to design, execute, and share end-to-end workflows, enabling persistent memory
 simple: SyntrofAI is a multi-agent operating system that coordinates AI agents to design, execute, and share end-to-end workflows, enabling persistent memory, low-latency neural-hybrid processing, local/air-gapped deployment, developer debugging, audited logs, and modular scaling.
 example: Give SyntrofAI one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it.
 goodFor:

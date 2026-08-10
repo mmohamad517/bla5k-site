@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Book AI Writer?
-    a: BookAIWriter.com streamlines book creation by converting a simple outline into full chapters and matching cover art. Writers set plot, characters, style, and chapter count; the platform generates complete text and visual branding in a single interface. Book writer 5 1 Freemium That is the core of what Book AI Writer does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: BookAIWriter.com streamlines book creation by converting a simple outline into full chapters and matching cover art. Writers set plot, characters, style, and chapter count; the platform generates complete text and visual branding in a single interface.  That is the core of what Book AI Writer does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Book AI Writer free?
     a: Book AI Writer uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Book AI Writer?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Book AI Writer?
 
-BookAIWriter.com streamlines book creation by converting a simple outline into full chapters and matching cover art. Writers set plot, characters, style, and chapter count; the platform generates complete text and visual branding in a single interface. Book writer 5 1 Freemium
-
-In short, Book AI Writer is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+BookAIWriter.com streamlines book creation by converting a simple outline into full chapters and matching cover art. Writers set plot, characters, style, and chapter count; the platform generates complete text and visual branding in a single interface. In short, Book AI Writer is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is HomeworkAI.ai?
-    a: Homework AI processes uploaded images or text files, delivering step‑by‑step solutions for math, science, literature, and history. It supports PDFs, DOCX, JPEG, PNG, and provides detailed explanations with alternative methods, available 24/7 for all school levels. Content creation 0 1 Subscription - $4.9/mo That is the core of what HomeworkAI.ai does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Homework AI processes uploaded images or text files, delivering step‑by‑step solutions for math, science, literature, and history. It supports PDFs, DOCX, JPEG, PNG, and provides detailed explanations with alternative methods, available 24/7 for all school levels.  That is the core of what HomeworkAI.ai does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is HomeworkAI.ai free?
     a: HomeworkAI.ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with HomeworkAI.ai?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is HomeworkAI.ai?
 
-Homework AI processes uploaded images or text files, delivering step‑by‑step solutions for math, science, literature, and history. It supports PDFs, DOCX, JPEG, PNG, and provides detailed explanations with alternative methods, available 24/7 for all school levels. Content creation 0 1 Subscription - $4.9/mo
-
-In short, HomeworkAI.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Homework AI processes uploaded images or text files, delivering step‑by‑step solutions for math, science, literature, and history. It supports PDFs, DOCX, JPEG, PNG, and provides detailed explanations with alternative methods, available 24/7 for all school levels. In short, HomeworkAI.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

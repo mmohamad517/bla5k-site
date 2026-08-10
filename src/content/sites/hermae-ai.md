@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Hermae AI - AI Tool Review & Guide 2026
-metaDescription: Hermae was an AI assistant that accelerated product shipping for enterprise design systems by converting Storybook documentation into Markdown, generating...
+metaDescription: Hermae was an AI assistant that accelerated product shipping for enterprise design systems by converting Storybook documentation into Markdown, generating
 simple: Hermae was an AI assistant that accelerated product shipping for enterprise design systems by converting Storybook documentation into Markdown, generating embeddings, and providing IDE context, public examples, and Figma MCP connections for code generation and design value retrieval.
 example: Give Hermae AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

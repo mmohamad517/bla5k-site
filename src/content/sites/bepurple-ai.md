@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: BePurple.ai - AI Tool Review & Guide 2026
-metaDescription: Converts product specs into phased, trackable tickets and coordinated cross-repo pull requests using codebase-aware agents; decomposes features, runs...
+metaDescription: Converts product specs into phased, trackable tickets and coordinated cross-repo pull requests using codebase-aware agents; decomposes features, runs
 simple: "Converts product specs into phased, trackable tickets and coordinated cross-repo pull requests using codebase-aware agents; decomposes features, runs parallel implementations, enforces QA and contract checks, and coordinates multi-repo merges to reduce integration drift."
 example: "Give BePurple.ai one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Claw Buff?
-    a: Claw Buff is a platform for deploying and managing OpenClaw AI agents with a ~30-second setup. It provides one-click LLM switching, multi-channel integrations, a persona marketplace, and a centralized console for monitoring, controls, and billing. AI Agents 4 0 Subscription - $4.99/mo That is the core of what Claw Buff does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Claw Buff is a platform for deploying and managing OpenClaw AI agents with a ~30-second setup. It provides one-click LLM switching, multi-channel integrations, a persona marketplace, and a centralized console for monitoring, controls, and billing.  That is the core of what Claw Buff does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Claw Buff free?
     a: Claw Buff is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Claw Buff?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Claw Buff?
 
-Claw Buff is a platform for deploying and managing OpenClaw AI agents with a ~30-second setup. It provides one-click LLM switching, multi-channel integrations, a persona marketplace, and a centralized console for monitoring, controls, and billing. AI Agents 4 0 Subscription - $4.99/mo
-
-In short, Claw Buff is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Claw Buff is a platform for deploying and managing OpenClaw AI agents with a ~30-second setup. It provides one-click LLM switching, multi-channel integrations, a persona marketplace, and a centralized console for monitoring, controls, and billing. In short, Claw Buff is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

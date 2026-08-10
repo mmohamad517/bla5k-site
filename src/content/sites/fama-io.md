@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: fama.io - AI Tool Review & Guide 2026
-metaDescription: Fama analyzes public digital footprints across thousands of sources to surface professional attributes, detect misconduct indicators (fraud, harassment,...
+metaDescription: Fama analyzes public digital footprints across thousands of sources to surface professional attributes, detect misconduct indicators (fraud, harassment
 simple: Fama analyzes public digital footprints across thousands of sources to surface professional attributes, detect misconduct indicators (fraud, harassment, threats), and identify skills like creativity and leadership, integrating with HRIS/ATS and complying with FCRA, EEOC, and SOC2.
 example: Give fama.io one real task — a prompt, a file, or a request — and it returns a usable result for your ai research workflow.
 goodFor:

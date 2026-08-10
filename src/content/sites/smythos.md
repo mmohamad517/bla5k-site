@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: SmythOS - AI Tool Review & Guide 2026
-metaDescription: Smythos is an AI agent creation platform that allows users to build and deploy agents effortlessly using templates and a drag-and-drop interface, supporting...
+metaDescription: Smythos is an AI agent creation platform that allows users to build and deploy agents effortlessly using templates and a drag-and-drop interface, supporting
 simple: "Smythos is an AI agent creation platform that allows users to build and deploy agents effortlessly using templates and a drag-and-drop interface, supporting various automation needs and seamless integration with popular AI models and APIs."
 example: "Give SmythOS one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

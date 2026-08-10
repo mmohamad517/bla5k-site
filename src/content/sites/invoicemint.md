@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Invoicemint?
-    a: Invoicemint is a cloud invoicing platform that lets users create, customize, and send invoices, quotes, and agreements via email or WhatsApp. It supports GST compliance, e‑invoices, e‑way bills, payment reminders, and basic accounting. Billing Management 0 1 Freemium That is the core of what Invoicemint does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Invoicemint is a cloud invoicing platform that lets users create, customize, and send invoices, quotes, and agreements via email or WhatsApp. It supports GST compliance, e‑invoices, e‑way bills, payment reminders, and basic accounting.  That is the core of what Invoicemint does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Invoicemint free?
     a: Invoicemint uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Invoicemint?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Invoicemint?
 
-Invoicemint is a cloud invoicing platform that lets users create, customize, and send invoices, quotes, and agreements via email or WhatsApp. It supports GST compliance, e‑invoices, e‑way bills, payment reminders, and basic accounting. Billing Management 0 1 Freemium
-
-In short, Invoicemint is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Invoicemint is a cloud invoicing platform that lets users create, customize, and send invoices, quotes, and agreements via email or WhatsApp. It supports GST compliance, e‑invoices, e‑way bills, payment reminders, and basic accounting. In short, Invoicemint is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

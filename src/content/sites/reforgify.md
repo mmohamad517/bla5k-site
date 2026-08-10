@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Reforgify - AI Tool Review & Guide 2026
-metaDescription: AI platform that aggregates public startup data, letting users search VC‑backed ideas by industry, user group, or JTBD and filter by launch date, geography,...
+metaDescription: AI platform that aggregates public startup data, letting users search VC‑backed ideas by industry, user group, or JTBD and filter by launch date, geography
 simple: AI platform that aggregates public startup data, letting users search VC‑backed ideas by industry, user group, or JTBD and filter by launch date, geography, business model, etc., while providing detailed profiles and trend analysis to accelerate validation and market entry.
 example: Give Reforgify one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

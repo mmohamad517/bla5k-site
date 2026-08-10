@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is BotStacks?
-    a: BotStacks is a no‑code platform that builds AI chatbots for Wix, Squarespace, Bubble, Framer, and Webflow sites. Its visual workflow editor, advanced web‑crawling, and app connectors streamline lead capture, decision guidance, and customer engagement. Chatbot builder 1 0 Freemium That is the core of what BotStacks does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: BotStacks is a no‑code platform that builds AI chatbots for Wix, Squarespace, Bubble, Framer, and Webflow sites. Its visual workflow editor, advanced web‑crawling, and app connectors streamline lead capture, decision guidance, and customer engagement.  That is the core of what BotStacks does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is BotStacks free?
     a: BotStacks uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with BotStacks?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is BotStacks?
 
-BotStacks is a no‑code platform that builds AI chatbots for Wix, Squarespace, Bubble, Framer, and Webflow sites. Its visual workflow editor, advanced web‑crawling, and app connectors streamline lead capture, decision guidance, and customer engagement. Chatbot builder 1 0 Freemium
-
-In short, BotStacks is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+BotStacks is a no‑code platform that builds AI chatbots for Wix, Squarespace, Bubble, Framer, and Webflow sites. Its visual workflow editor, advanced web‑crawling, and app connectors streamline lead capture, decision guidance, and customer engagement. In short, BotStacks is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

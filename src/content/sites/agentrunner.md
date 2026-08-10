@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: AgentRunner - AI Tool Review & Guide 2026
-metaDescription: AgentRunner is a workflow builder for AI app development, featuring visual prompt engineering, integration with popular AI models, performance monitoring,...
+metaDescription: AgentRunner is a workflow builder for AI app development, featuring visual prompt engineering, integration with popular AI models, performance monitoring
 simple: "AgentRunner is a workflow builder for AI app development, featuring visual prompt engineering, integration with popular AI models, performance monitoring, and versioning."
 example: "Give AgentRunner one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

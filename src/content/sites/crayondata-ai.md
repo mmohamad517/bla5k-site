@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: crayondata.ai - AI Tool Review & Guide 2026
-metaDescription: Crayon Data Tangram is an enterprise, model- and vendor-agnostic AI platform offering 200+ pre-built use cases, reusable agents, and modular components for...
+metaDescription: Crayon Data Tangram is an enterprise, model- and vendor-agnostic AI platform offering 200+ pre-built use cases, reusable agents, and modular components for
 simple: Crayon Data Tangram is an enterprise, model- and vendor-agnostic AI platform offering 200+ pre-built use cases, reusable agents, and modular components for rapid deployment, integration with legacy systems, governance controls, and scalable personalization and decisioning.
 example: Give crayondata.ai one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it.
 goodFor:

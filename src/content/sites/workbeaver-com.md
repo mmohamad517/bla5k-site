@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is WorkBeaver?
-    a: WorkBeaver is an AI automation platform that eliminates manual data entry by running agentic workflows inside existing web tools and local files. It reduces operational overhead for SMEs through a no-code builder, pre-built templates, and background automation with enterprise-grade security compliance. Workflow Automation 2 0 Freemium - $21.95/mo That is the core of what WorkBeaver does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: WorkBeaver is an AI automation platform that eliminates manual data entry by running agentic workflows inside existing web tools and local files. It reduces operational overhead for SMEs through a no-code builder, pre-built templates, and background automation with enterprise-grade security compliance.  That is the core of what WorkBeaver does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is WorkBeaver free?
     a: WorkBeaver uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $21.95/mo, check the official website — pricing changes often.
   - q: What can you do with WorkBeaver?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is WorkBeaver?
 
-WorkBeaver is an AI automation platform that eliminates manual data entry by running agentic workflows inside existing web tools and local files. It reduces operational overhead for SMEs through a no-code builder, pre-built templates, and background automation with enterprise-grade security compliance. Workflow Automation 2 0 Freemium - $21.95/mo
-
-In short, WorkBeaver is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+WorkBeaver is an AI automation platform that eliminates manual data entry by running agentic workflows inside existing web tools and local files. It reduces operational overhead for SMEs through a no-code builder, pre-built templates, and background automation with enterprise-grade security compliance. In short, WorkBeaver is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

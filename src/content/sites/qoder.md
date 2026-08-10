@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Qoder?
-    a: Qoder is an agentic coding platform that automates software development through autonomous AI agents. It enables conversation-based programming, task delegation, and provides deep codebase insights for streamlined development. Code assistant 10 5 Free trial That is the core of what Qoder does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Qoder is an agentic coding platform that automates software development through autonomous AI agents. It enables conversation-based programming, task delegation, and provides deep codebase insights for streamlined development.  That is the core of what Qoder does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Qoder free?
     a: Qoder uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Qoder?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Qoder?
 
-Qoder is an agentic coding platform that automates software development through autonomous AI agents. It enables conversation-based programming, task delegation, and provides deep codebase insights for streamlined development. Code assistant 10 5 Free trial
-
-In short, Qoder is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Qoder is an agentic coding platform that automates software development through autonomous AI agents. It enables conversation-based programming, task delegation, and provides deep codebase insights for streamlined development. In short, Qoder is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

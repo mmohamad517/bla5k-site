@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Fibery - AI Tool Review & Guide 2026
-metaDescription: Fibery is a modular work platform combining product, project, CRM, and knowledge work with relational databases, customizable templates, multiple views,...
+metaDescription: Fibery is a modular work platform combining product, project, CRM, and knowledge work with relational databases, customizable templates, multiple views
 simple: Fibery is a modular work platform combining product, project, CRM, and knowledge work with relational databases, customizable templates, multiple views, automations, integrations, dependency-aware planning, and AI-assisted search, synthesis, and reporting for cross-team workflows.
 example: Give Fibery one real task — a prompt, a file, or a request — and it returns a usable result for your ai management workflow.
 goodFor:

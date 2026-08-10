@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: IntellibizzAI - AI Tool Review & Guide 2026
-metaDescription: IntellibizzAI is an AI‑assisted branding platform that defines brand identity, builds conversion‑optimized websites, and supplies a structured content...
+metaDescription: IntellibizzAI is an AI‑assisted branding platform that defines brand identity, builds conversion‑optimized websites, and supplies a structured content
 simple: IntellibizzAI is an AI‑assisted branding platform that defines brand identity, builds conversion‑optimized websites, and supplies a structured content playbook, visibility calendar, and ongoing performance updates for founders and boutique brands.
 example: Give IntellibizzAI one real task — a prompt, a file, or a request — and it returns a usable result for your content creation workflow.
 goodFor:

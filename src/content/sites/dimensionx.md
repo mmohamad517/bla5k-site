@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-07
 metaTitle: DimensionX - AI 3D Tool Review & Guide 2026
-metaDescription: DimensionX enables users to create detailed 3D and 4D scenes from text prompts and images, offering both static images and dynamic video generation with...
+metaDescription: DimensionX enables users to create detailed 3D and 4D scenes from text prompts and images, offering both static images and dynamic video generation with
 simple: "DimensionX enables users to create detailed 3D and 4D scenes from text prompts and images, offering both static images and dynamic video generation with customizable camera movements."
 example: "Record a short video of an object with your phone and DimensionX turns it into a usable 3D model you can rotate, export, and drop into your project."
 goodFor:

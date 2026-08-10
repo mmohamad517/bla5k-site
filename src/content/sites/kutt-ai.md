@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Kutt AI?
-    a: Kutt AI is an AI avatar generator that creates lip-synced, talking avatars from photos with programmable gestures and emotions. It offers a full suite of tools for video creation, including face/body swap, text-to-video, and an integrated editor for rapid content production. Avatar 3 2 Free trial That is the core of what Kutt AI does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Kutt AI is an AI avatar generator that creates lip-synced, talking avatars from photos with programmable gestures and emotions. It offers a full suite of tools for video creation, including face/body swap, text-to-video, and an integrated editor for rapid content production.  That is the core of what Kutt AI does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Kutt AI free?
     a: Kutt AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Kutt AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Kutt AI?
 
-Kutt AI is an AI avatar generator that creates lip-synced, talking avatars from photos with programmable gestures and emotions. It offers a full suite of tools for video creation, including face/body swap, text-to-video, and an integrated editor for rapid content production. Avatar 3 2 Free trial
-
-In short, Kutt AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Kutt AI is an AI avatar generator that creates lip-synced, talking avatars from photos with programmable gestures and emotions. It offers a full suite of tools for video creation, including face/body swap, text-to-video, and an integrated editor for rapid content production. In short, Kutt AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

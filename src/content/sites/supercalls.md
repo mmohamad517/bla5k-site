@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SuperCalls?
-    a: SuperCalls automates bulk voice outreach from CSV lists, using ChatGPT prompts to make calls, record, transcribe, and summarize. AI tags move cards on a Kanban board, letting sales, recruiters, and event teams prioritize follow‑ups on a mobile dashboard. Communication Automation 1 0 Paid That is the core of what SuperCalls does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: SuperCalls automates bulk voice outreach from CSV lists, using ChatGPT prompts to make calls, record, transcribe, and summarize. AI tags move cards on a Kanban board, letting sales, recruiters, and event teams prioritize follow‑ups on a mobile dashboard.  That is the core of what SuperCalls does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SuperCalls free?
     a: SuperCalls is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with SuperCalls?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is SuperCalls?
 
-SuperCalls automates bulk voice outreach from CSV lists, using ChatGPT prompts to make calls, record, transcribe, and summarize. AI tags move cards on a Kanban board, letting sales, recruiters, and event teams prioritize follow‑ups on a mobile dashboard. Communication Automation 1 0 Paid
-
-In short, SuperCalls is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+SuperCalls automates bulk voice outreach from CSV lists, using ChatGPT prompts to make calls, record, transcribe, and summarize. AI tags move cards on a Kanban board, letting sales, recruiters, and event teams prioritize follow‑ups on a mobile dashboard. In short, SuperCalls is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

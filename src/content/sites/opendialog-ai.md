@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: opendialog.ai - AI Tool Review & Guide 2026
-metaDescription: OpenDialog is an enterprise AI platform that deploys purpose‑built agents for regulated insurance workflows, boosting quote conversions, automating policy...
+metaDescription: OpenDialog is an enterprise AI platform that deploys purpose‑built agents for regulated insurance workflows, boosting quote conversions, automating policy
 simple: OpenDialog is an enterprise AI platform that deploys purpose‑built agents for regulated insurance workflows, boosting quote conversions, automating policy queries, and recovering lost revenue while ensuring compliance and auditability for agencies.
 example: Give opendialog.ai one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it.
 goodFor:

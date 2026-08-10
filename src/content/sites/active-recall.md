@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Active Recall?
-    a: Recall is an AI-driven knowledge management tool that organizes and retrieves information efficiently. It summarizes content, uses an interactive knowledge graph, supports spaced repetition, and ensures cross-platform accessibility while prioritizing user data privacy. Knowledge base management 16 7 Freemium That is the core of what Active Recall does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Recall is an AI-driven knowledge management tool that organizes and retrieves information efficiently. It summarizes content, uses an interactive knowledge graph, supports spaced repetition, and ensures cross-platform accessibility while prioritizing user data privacy.  That is the core of what Active Recall does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Active Recall free?
     a: Active Recall uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Active Recall?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Active Recall?
 
-Recall is an AI-driven knowledge management tool that organizes and retrieves information efficiently. It summarizes content, uses an interactive knowledge graph, supports spaced repetition, and ensures cross-platform accessibility while prioritizing user data privacy. Knowledge base management 16 7 Freemium
-
-In short, Active Recall is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Recall is an AI-driven knowledge management tool that organizes and retrieves information efficiently. It summarizes content, uses an interactive knowledge graph, supports spaced repetition, and ensures cross-platform accessibility while prioritizing user data privacy. In short, Active Recall is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

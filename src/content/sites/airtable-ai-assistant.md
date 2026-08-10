@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Airtable AI assistant - AI Tool Review & Guide 2026
-metaDescription: Airtable Assistant is a no-code app-building platform that enhances workflows with AI, offering task automation, customizable visualizations, and reporting...
+metaDescription: Airtable Assistant is a no-code app-building platform that enhances workflows with AI, offering task automation, customizable visualizations, and reporting
 simple: Airtable Assistant is a no-code app-building platform that enhances workflows with AI, offering task automation, customizable visualizations, and reporting tools.
 example: Give Airtable AI assistant one real task — a prompt, a file, or a request — and it returns a usable result for your no-code building workflow.
 goodFor:

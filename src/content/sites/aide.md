@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Aide?
-    a: Aide deploys AI agents across platforms like Zendesk, Shopify, and Salesforce to automate ticket conversations, auto‑tag, route, and trigger actions. Its Copilot surfaces guidance, reducing agent context‑search, while analytics uncover trends and the solution meets SOC 2, GDPR, and HIPAA compliance. Customer support 1 0 Freemium That is the core of what Aide does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Aide deploys AI agents across platforms like Zendesk, Shopify, and Salesforce to automate ticket conversations, auto‑tag, route, and trigger actions. Its Copilot surfaces guidance, reducing agent context‑search, while analytics uncover trends and the solution meets SOC 2, GDPR, and HIPAA compliance.  That is the core of what Aide does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Aide free?
     a: Aide uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Aide?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Aide?
 
-Aide deploys AI agents across platforms like Zendesk, Shopify, and Salesforce to automate ticket conversations, auto‑tag, route, and trigger actions. Its Copilot surfaces guidance, reducing agent context‑search, while analytics uncover trends and the solution meets SOC 2, GDPR, and HIPAA compliance. Customer support 1 0 Freemium
-
-In short, Aide is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Aide deploys AI agents across platforms like Zendesk, Shopify, and Salesforce to automate ticket conversations, auto‑tag, route, and trigger actions. Its Copilot surfaces guidance, reducing agent context‑search, while analytics uncover trends and the solution meets SOC 2, GDPR, and HIPAA compliance. In short, Aide is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

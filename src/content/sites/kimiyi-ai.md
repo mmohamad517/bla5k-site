@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: kimiyi.ai - AI Tool Review & Guide 2026
-metaDescription: Kimiyi AI is a no-code platform for building customizable AI agents and digital humans, including chat, voice and phone agents, avatar-driven live chat,...
+metaDescription: Kimiyi AI is a no-code platform for building customizable AI agents and digital humans, including chat, voice and phone agents, avatar-driven live chat
 simple: Kimiyi AI is a no-code platform for building customizable AI agents and digital humans, including chat, voice and phone agents, avatar-driven live chat, image and video generation, AI-powered slide design, email assistants and data analysis for 24/7 support.
 example: Give kimiyi.ai one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it.
 goodFor:

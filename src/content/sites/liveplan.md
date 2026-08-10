@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: LivePlan - AI Tool Review & Guide 2026
-metaDescription: LivePlan is a business plan software that helps entrepreneurs create detailed plans with AI assistance, offering sample plans, financial forecasting, and...
+metaDescription: LivePlan is a business plan software that helps entrepreneurs create detailed plans with AI assistance, offering sample plans, financial forecasting, and
 simple: LivePlan is a business plan software that helps entrepreneurs create detailed plans with AI assistance, offering sample plans, financial forecasting, and integration with accounting software for effective strategy formulation and performance tracking.
 example: Give LivePlan one real task — a prompt, a file, or a request — and it returns a usable result for your ai planning workflow.
 goodFor:

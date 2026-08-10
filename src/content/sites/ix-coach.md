@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is IX Coach?
-    a: ix Coach is an AI-powered interdisciplinary coaching tool that aims to improve various areas of life. Users can select a specific area of focus, such as personal growth, relationships, or emotional intelligence, and the tool provides the necessary guidance and support. Coaching 1 0 Freemium That is the core of what IX Coach does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ix Coach is an AI-powered interdisciplinary coaching tool that aims to improve various areas of life. Users can select a specific area of focus, such as personal growth, relationships, or emotional intelligence, and the tool provides the necessary guidance and support.  That is the core of what IX Coach does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is IX Coach free?
     a: IX Coach uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with IX Coach?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is IX Coach?
 
-ix Coach is an AI-powered interdisciplinary coaching tool that aims to improve various areas of life. Users can select a specific area of focus, such as personal growth, relationships, or emotional intelligence, and the tool provides the necessary guidance and support. Coaching 1 0 Freemium
-
-In short, IX Coach is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+ix Coach is an AI-powered interdisciplinary coaching tool that aims to improve various areas of life. Users can select a specific area of focus, such as personal growth, relationships, or emotional intelligence, and the tool provides the necessary guidance and support. In short, IX Coach is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TheCartoonist?
-    a: thecartoonist.studio is a face-to-cartoon generator that uses a FaceCap™ engine to preserve facial likeness in 4K PNG outputs with transparent backgrounds. It creates consistent cartoon avatars, caricatures, and portraits for profiles, merchandise, and branding—with commercial rights included. Avatar 2 0 1 Free That is the core of what TheCartoonist does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: thecartoonist.studio is a face-to-cartoon generator that uses a FaceCap™ engine to preserve facial likeness in 4K PNG outputs with transparent backgrounds. It creates consistent cartoon avatars, caricatures, and portraits for profiles, merchandise, and branding—with commercial rights included.  That is the core of what TheCartoonist does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TheCartoonist free?
     a: Yes — TheCartoonist is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with TheCartoonist?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is TheCartoonist?
 
-thecartoonist.studio is a face-to-cartoon generator that uses a FaceCap™ engine to preserve facial likeness in 4K PNG outputs with transparent backgrounds. It creates consistent cartoon avatars, caricatures, and portraits for profiles, merchandise, and branding—with commercial rights included. Avatar 2 0 1 Free
-
-In short, TheCartoonist is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+thecartoonist.studio is a face-to-cartoon generator that uses a FaceCap™ engine to preserve facial likeness in 4K PNG outputs with transparent backgrounds. It creates consistent cartoon avatars, caricatures, and portraits for profiles, merchandise, and branding—with commercial rights included. In short, TheCartoonist is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

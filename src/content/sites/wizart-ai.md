@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-07
 metaTitle: wizart.ai - AI 3D Tool Review & Guide 2026
-metaDescription: Wizart provides AI-driven product visualization for manufacturers and retailers, generating photorealistic renders, interactive configurators, and SEO-ready...
+metaDescription: Wizart provides AI-driven product visualization for manufacturers and retailers, generating photorealistic renders, interactive configurators, and SEO-ready
 simple: "Wizart provides AI-driven product visualization for manufacturers and retailers, generating photorealistic renders, interactive configurators, and SEO-ready assets; Vision and Visualizer APIs enable surface segmentation, room geometry, white-label visualizers, and easy platform integrations."
 example: "Upload a single photo or reference image and wizart.ai generates a usable 3D model you can export for games, VR, or visualization work."
 goodFor:

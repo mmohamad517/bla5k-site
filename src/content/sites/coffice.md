@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Coffice?
-    a: Coffice embeds in Slack to enable real‑time peer recognition by awarding points with tags and reasons. It displays a dynamic leaderboard, supports custom tags and a rewards marketplace, imports employee data from BambooHR, and provides engagement reports. Human resources 2 2 Subscription - $0.99/mo That is the core of what Coffice does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Coffice embeds in Slack to enable real‑time peer recognition by awarding points with tags and reasons. It displays a dynamic leaderboard, supports custom tags and a rewards marketplace, imports employee data from BambooHR, and provides engagement reports.  That is the core of what Coffice does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Coffice free?
     a: Coffice is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Coffice?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Coffice?
 
-Coffice embeds in Slack to enable real‑time peer recognition by awarding points with tags and reasons. It displays a dynamic leaderboard, supports custom tags and a rewards marketplace, imports employee data from BambooHR, and provides engagement reports. Human resources 2 2 Subscription - $0.99/mo
-
-In short, Coffice is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Coffice embeds in Slack to enable real‑time peer recognition by awarding points with tags and reasons. It displays a dynamic leaderboard, supports custom tags and a rewards marketplace, imports employee data from BambooHR, and provides engagement reports. In short, Coffice is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

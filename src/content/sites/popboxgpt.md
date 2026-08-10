@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: PopboxGPT - AI Tool Review & Guide 2026
-metaDescription: PopboxGPT is a Chrome extension that embeds GPT‑3.5‑turbo into the browser, offering Alt+J quick launch, fullscreen mode, persistent session history, and a...
+metaDescription: PopboxGPT is a Chrome extension that embeds GPT‑3.5‑turbo into the browser, offering Alt+J quick launch, fullscreen mode, persistent session history, and a
 simple: PopboxGPT is a Chrome extension that embeds GPT‑3.5‑turbo into the browser, offering Alt+J quick launch, fullscreen mode, persistent session history, and a lightweight modal for drafting, research, or brainstorming across sites for all users.
 example: Give PopboxGPT one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

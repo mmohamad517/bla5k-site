@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: UpCat - AI Tool Review & Guide 2026
-metaDescription: UpCat automates Upwork proposal creation, generating tailored cover letters from job posts and alerting users to new openings or status changes directly in...
+metaDescription: UpCat automates Upwork proposal creation, generating tailored cover letters from job posts and alerting users to new openings or status changes directly in
 simple: UpCat automates Upwork proposal creation, generating tailored cover letters from job posts and alerting users to new openings or status changes directly in the browser.
 example: Give UpCat one real task — a prompt, a file, or a request — and it returns a usable result for your ai research workflow.
 goodFor:

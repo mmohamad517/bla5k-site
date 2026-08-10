@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Hyrproz?
-    a: Hyrproz is a fractional hiring marketplace that pairs employers with pre‑screened, part‑time executives (CTO, CFO, CMO, VP of Sales, Product Lead). It matches talent to projects, enabling rapid skill‑gap closure and flexible scaling while lowering hiring overhead. Business 0 1 Paid That is the core of what Hyrproz does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Hyrproz is a fractional hiring marketplace that pairs employers with pre‑screened, part‑time executives (CTO, CFO, CMO, VP of Sales, Product Lead). It matches talent to projects, enabling rapid skill‑gap closure and flexible scaling while lowering hiring overhead.  That is the core of what Hyrproz does — business automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Hyrproz free?
     a: Hyrproz is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Hyrproz?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Hyrproz?
 
-Hyrproz is a fractional hiring marketplace that pairs employers with pre‑screened, part‑time executives (CTO, CFO, CMO, VP of Sales, Product Lead). It matches talent to projects, enabling rapid skill‑gap closure and flexible scaling while lowering hiring overhead. Business 0 1 Paid
-
-In short, Hyrproz is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Hyrproz is a fractional hiring marketplace that pairs employers with pre‑screened, part‑time executives (CTO, CFO, CMO, VP of Sales, Product Lead). It matches talent to projects, enabling rapid skill‑gap closure and flexible scaling while lowering hiring overhead. In short, Hyrproz is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for business automation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

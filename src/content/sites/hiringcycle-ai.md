@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is hiringcycle.ai?
-    a: HiringCycle.ai automates video interview scheduling, screens hundreds of candidates simultaneously, and provides real‑time scoring and analytics. It includes language proficiency tests, competency interview templates, and a job‑posting generator, helping HR teams reduce screening effort, speed closures, and support DEI. Human resources 0 1 Freemium - $1.58/mo That is the core of what hiringcycle.ai does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: HiringCycle.ai automates video interview scheduling, screens hundreds of candidates simultaneously, and provides real‑time scoring and analytics. It includes language proficiency tests, competency interview templates, and a job‑posting generator, helping HR teams reduce screening effort, speed closures, and support DEI.  That is the core of what hiringcycle.ai does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is hiringcycle.ai free?
     a: hiringcycle.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $1.58/mo, check the official website — pricing changes often.
   - q: What can you do with hiringcycle.ai?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is hiringcycle.ai?
 
-HiringCycle.ai automates video interview scheduling, screens hundreds of candidates simultaneously, and provides real‑time scoring and analytics. It includes language proficiency tests, competency interview templates, and a job‑posting generator, helping HR teams reduce screening effort, speed closures, and support DEI. Human resources 0 1 Freemium - $1.58/mo
-
-In short, hiringcycle.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+HiringCycle.ai automates video interview scheduling, screens hundreds of candidates simultaneously, and provides real‑time scoring and analytics. It includes language proficiency tests, competency interview templates, and a job‑posting generator, helping HR teams reduce screening effort, speed closures, and support DEI. In short, hiringcycle.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

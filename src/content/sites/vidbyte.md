@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Vidbyte - AI Tool Review & Guide 2026
-metaDescription: Vidbyte converts text and images into short educational videos with visual aids and step by step walkthroughs for homework and exam prep across subjects...
+metaDescription: Vidbyte converts text and images into short educational videos with visual aids and step by step walkthroughs for homework and exam prep across subjects
 simple: Vidbyte converts text and images into short educational videos with visual aids and step by step walkthroughs for homework and exam prep across subjects including calculus, literature, and chemistry.
 example: Give Vidbyte one real task — a prompt, a file, or a request — and it returns a usable result for your ai content generation workflow.
 goodFor:

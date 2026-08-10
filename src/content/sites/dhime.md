@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Dhime - AI Tool Review & Guide 2026
-metaDescription: Dhime is an AI-driven dance coaching platform offering personalized video tutorials and instant performance feedback, allowing users to learn and practice...
+metaDescription: Dhime is an AI-driven dance coaching platform offering personalized video tutorials and instant performance feedback, allowing users to learn and practice
 simple: Dhime is an AI-driven dance coaching platform offering personalized video tutorials and instant performance feedback, allowing users to learn and practice dance techniques at their own pace while maintaining privacy with automatic video deletion.
 example: Give Dhime one real task — a prompt, a file, or a request — and it returns a usable result for your ai coaching workflow.
 goodFor:

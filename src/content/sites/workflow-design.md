@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Workflow.Design - AI Tool Review & Guide 2026
-metaDescription: "###workflow is a project management tool that enhances creative collaboration by organizing assets, tracking tasks, and managing feedback with features like..."
+metaDescription: "###workflow is a project management tool that enhances creative collaboration by organizing assets, tracking tasks, and managing feedback with features like"
 simple: "###workflow is a project management tool that enhances creative collaboration by organizing assets, tracking tasks, and managing feedback with features like centralized inboxes and version control, streamlining workflow and improving project quality for teams."
 example: Give Workflow.Design one real task — a prompt, a file, or a request — and it returns a usable result for your ai management workflow.
 goodFor:

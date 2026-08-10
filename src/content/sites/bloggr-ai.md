@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Bloggr AI?
-    a: Bloggr AI is a AI blog writer that generates SEO-optimized, original content. It creates tailored posts from your documents or URLs, featuring topic generation, style customization, and plagiarism detection. Content creation 5 2 Free trial - $4.99/mo That is the core of what Bloggr AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Bloggr AI is a AI blog writer that generates SEO-optimized, original content. It creates tailored posts from your documents or URLs, featuring topic generation, style customization, and plagiarism detection.  That is the core of what Bloggr AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Bloggr AI free?
     a: Bloggr AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $4.99/mo, check the official website — pricing changes often.
   - q: What can you do with Bloggr AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Bloggr AI?
 
-Bloggr AI is a AI blog writer that generates SEO-optimized, original content. It creates tailored posts from your documents or URLs, featuring topic generation, style customization, and plagiarism detection. Content creation 5 2 Free trial - $4.99/mo
-
-In short, Bloggr AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Bloggr AI is a AI blog writer that generates SEO-optimized, original content. It creates tailored posts from your documents or URLs, featuring topic generation, style customization, and plagiarism detection. In short, Bloggr AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

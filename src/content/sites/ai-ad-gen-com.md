@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: AI Ad Gen - AI Tool Review & Guide 2026
-metaDescription: ai-ad-gen.com is a tool that instantly converts a single product photo into platform-optimized ad creatives and lifestyle visuals for TikTok, Amazon, and...
+metaDescription: ai-ad-gen.com is a tool that instantly converts a single product photo into platform-optimized ad creatives and lifestyle visuals for TikTok, Amazon, and
 simple: ai-ad-gen.com is a tool that instantly converts a single product photo into platform-optimized ad creatives and lifestyle visuals for TikTok, Amazon, and Shopify.
 example: Give AI Ad Gen one real task — a prompt, a file, or a request — and it returns a usable result for your ai design workflow.
 goodFor:

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is DeepSeek-TUI?
-    a: DeepSeek-TUI is a terminal-native coding agent that provides a keyboard-driven interface for file editing, shell execution, web search, and Git management. It leverages Deepseek v4 with 1M-token context windows, real-time chain-of-thought streaming, and multi-agent orchestration for large-scale code analysis and development workflows. Code assistant 2 0 Freemium That is the core of what DeepSeek-TUI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: DeepSeek-TUI is a terminal-native coding agent that provides a keyboard-driven interface for file editing, shell execution, web search, and Git management. It leverages Deepseek v4 with 1M-token context windows, real-time chain-of-thought streaming, and multi-agent orchestration for large-scale code analysis and development workflows.  That is the core of what DeepSeek-TUI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is DeepSeek-TUI free?
     a: DeepSeek-TUI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with DeepSeek-TUI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is DeepSeek-TUI?
 
-DeepSeek-TUI is a terminal-native coding agent that provides a keyboard-driven interface for file editing, shell execution, web search, and Git management. It leverages Deepseek v4 with 1M-token context windows, real-time chain-of-thought streaming, and multi-agent orchestration for large-scale code analysis and development workflows. Code assistant 2 0 Freemium
-
-In short, DeepSeek-TUI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+DeepSeek-TUI is a terminal-native coding agent that provides a keyboard-driven interface for file editing, shell execution, web search, and Git management. It leverages Deepseek v4 with 1M-token context windows, real-time chain-of-thought streaming, and multi-agent orchestration for large-scale code analysis and development workflows. In short, DeepSeek-TUI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

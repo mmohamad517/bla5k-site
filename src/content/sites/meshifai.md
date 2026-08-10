@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-07
 metaTitle: MeshifAI - AI 3D Tool Review & Guide 2026
-metaDescription: Meshifai is a text-to-3D generation platform that converts textual descriptions into 3D models in about 30 seconds, supporting integration with APIs and...
+metaDescription: Meshifai is a text-to-3D generation platform that converts textual descriptions into 3D models in about 30 seconds, supporting integration with APIs and SDKs
 simple: "Meshifai is a text-to-3D generation platform that converts textual descriptions into 3D models in about 30 seconds, supporting integration with APIs and SDKs for use in game development and app design."
 example: "Type a text prompt describing the object you want and MeshifAI generates a finished 3D model you can refine and export."
 goodFor:

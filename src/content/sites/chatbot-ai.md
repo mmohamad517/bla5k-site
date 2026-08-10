@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Chatbot AI?
-    a: Chatbot AI provides access to various AI models for text conversations and image generation. It features an advanced search function, supports idea brainstorming, and allows for both casual and in-depth discussions with fast response times and chat history. AI Assistant 4 2 Freemium - $14.99/mo That is the core of what Chatbot AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Chatbot AI provides access to various AI models for text conversations and image generation. It features an advanced search function, supports idea brainstorming, and allows for both casual and in-depth discussions with fast response times and chat history.  That is the core of what Chatbot AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Chatbot AI free?
     a: Chatbot AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $14.99/mo, check the official website — pricing changes often.
   - q: What can you do with Chatbot AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Chatbot AI?
 
-Chatbot AI provides access to various AI models for text conversations and image generation. It features an advanced search function, supports idea brainstorming, and allows for both casual and in-depth discussions with fast response times and chat history. AI Assistant 4 2 Freemium - $14.99/mo
-
-In short, Chatbot AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Chatbot AI provides access to various AI models for text conversations and image generation. It features an advanced search function, supports idea brainstorming, and allows for both casual and in-depth discussions with fast response times and chat history. In short, Chatbot AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

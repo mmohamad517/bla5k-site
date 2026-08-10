@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Ask Marcus - AI Tool Review & Guide 2026
-metaDescription: Ask Marcus is a GPT‑4 chatbot that lets users converse with a virtual Marcus Aurelius, providing concise, historically grounded replies that illustrate...
+metaDescription: Ask Marcus is a GPT‑4 chatbot that lets users converse with a virtual Marcus Aurelius, providing concise, historically grounded replies that illustrate Stoic
 simple: Ask Marcus is a GPT‑4 chatbot that lets users converse with a virtual Marcus Aurelius, providing concise, historically grounded replies that illustrate Stoic principles and offer practical self‑discipline guidance for philosophy students and personal growth seekers.
 example: Give Ask Marcus one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

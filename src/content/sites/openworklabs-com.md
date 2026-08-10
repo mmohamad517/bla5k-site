@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Openwork?
-    a: Openwork is an open-source desktop app that connects 50+ LLMs with team workspaces, shared setups, skills, plugins, and configs. It runs agent workflows and browser automation, integrates with IDEs via a remote MCP server, and lets teams share full workspace configs as one-click links. AI Agents 2 0 Freemium - $10/mo That is the core of what Openwork does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Openwork is an open-source desktop app that connects 50+ LLMs with team workspaces, shared setups, skills, plugins, and configs. It runs agent workflows and browser automation, integrates with IDEs via a remote MCP server, and lets teams share full workspace configs as one-click links.  That is the core of what Openwork does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Openwork free?
     a: Openwork uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $10/mo, check the official website — pricing changes often.
   - q: What can you do with Openwork?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Openwork?
 
-Openwork is an open-source desktop app that connects 50+ LLMs with team workspaces, shared setups, skills, plugins, and configs. It runs agent workflows and browser automation, integrates with IDEs via a remote MCP server, and lets teams share full workspace configs as one-click links. AI Agents 2 0 Freemium - $10/mo
-
-In short, Openwork is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Openwork is an open-source desktop app that connects 50+ LLMs with team workspaces, shared setups, skills, plugins, and configs. It runs agent workflows and browser automation, integrates with IDEs via a remote MCP server, and lets teams share full workspace configs as one-click links. In short, Openwork is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

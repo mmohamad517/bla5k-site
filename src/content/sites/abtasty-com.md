@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-07
 metaTitle: AB Tasty - AI Agent Platform Review & Guide 2026
-metaDescription: AB Tasty is a digital experience optimization platform for A/B testing and feature rollouts across web and mobile, combining multi-channel SDKs/APIs,...
+metaDescription: AB Tasty is a digital experience optimization platform for A/B testing and feature rollouts across web and mobile, combining multi-channel SDKs/APIs
 simple: "AB Tasty is a digital experience optimization platform for A/B testing and feature rollouts across web and mobile, combining multi-channel SDKs/APIs, personalization (segmentation, EmotionsAI, AdaptiveCX), e-merchandising, and AI-driven insights to accelerate experiments and optimize journeys."
 example: "Give AB Tasty one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

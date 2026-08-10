@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is GetButton?
-    a: GetButton is an AI-powered chatbot tool for websites like Shopify and WordPress, integrating WhatsApp, Messenger, and Telegram for seamless communication. It offers customizable buttons, multilingual support, and 24/7 automated assistance to enhance user engagement. Omnichannel chatbot 2 2 Freemium That is the core of what GetButton does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: GetButton is an AI-powered chatbot tool for websites like Shopify and WordPress, integrating WhatsApp, Messenger, and Telegram for seamless communication. It offers customizable buttons, multilingual support, and 24/7 automated assistance to enhance user engagement.  That is the core of what GetButton does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is GetButton free?
     a: GetButton uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with GetButton?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is GetButton?
 
-GetButton is an AI-powered chatbot tool for websites like Shopify and WordPress, integrating WhatsApp, Messenger, and Telegram for seamless communication. It offers customizable buttons, multilingual support, and 24/7 automated assistance to enhance user engagement. Omnichannel chatbot 2 2 Freemium
-
-In short, GetButton is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+GetButton is an AI-powered chatbot tool for websites like Shopify and WordPress, integrating WhatsApp, Messenger, and Telegram for seamless communication. It offers customizable buttons, multilingual support, and 24/7 automated assistance to enhance user engagement. In short, GetButton is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Surf - AI Tool Review & Guide 2026
-metaDescription: Surf is an AI tool for cryptocurrency analysis that provides real-time market insights, tailored agent tools, on-chain tracking across 40 blockchains, and...
+metaDescription: Surf is an AI tool for cryptocurrency analysis that provides real-time market insights, tailored agent tools, on-chain tracking across 40 blockchains, and
 simple: Surf is an AI tool for cryptocurrency analysis that provides real-time market insights, tailored agent tools, on-chain tracking across 40 blockchains, and over 200 technical indicators to support informed trading decisions.
 example: Give Surf one real task — a prompt, a file, or a request — and it returns a usable result for your web3 and ai agents workflow.
 goodFor:

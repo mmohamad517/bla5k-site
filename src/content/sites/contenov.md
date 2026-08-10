@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Contenov - AI Tool Review & Guide 2026
-metaDescription: Contenov generates SEO-focused content briefs by analyzing top-ranking competitor articles to extract structure, keywords, search intent and content gaps,...
+metaDescription: Contenov generates SEO-focused content briefs by analyzing top-ranking competitor articles to extract structure, keywords, search intent and content gaps
 simple: Contenov generates SEO-focused content briefs by analyzing top-ranking competitor articles to extract structure, keywords, search intent and content gaps, delivering recommended headings, on-page SEO suggestions, exportable briefs and collaboration templates to streamline content strategy.
 example: Give Contenov one real task — a prompt, a file, or a request — and it returns a usable result for your content creation workflow.
 goodFor:

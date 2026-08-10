@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ComicsMaker.ai?
-    a: ComicsMaker lets creators design characters, generate scenes, and layout pages with AI. Users upload reference images to train custom LoRA models, refine panels via prompts, and export high‑quality comics—no art skills needed. Character Design 1 0 Freemium - $10/mo That is the core of what ComicsMaker.ai does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ComicsMaker lets creators design characters, generate scenes, and layout pages with AI. Users upload reference images to train custom LoRA models, refine panels via prompts, and export high‑quality comics—no art skills needed.  That is the core of what ComicsMaker.ai does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ComicsMaker.ai free?
     a: ComicsMaker.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $10/mo, check the official website — pricing changes often.
   - q: What can you do with ComicsMaker.ai?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is ComicsMaker.ai?
 
-ComicsMaker lets creators design characters, generate scenes, and layout pages with AI. Users upload reference images to train custom LoRA models, refine panels via prompts, and export high‑quality comics—no art skills needed. Character Design 1 0 Freemium - $10/mo
-
-In short, ComicsMaker.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+ComicsMaker lets creators design characters, generate scenes, and layout pages with AI. Users upload reference images to train custom LoRA models, refine panels via prompts, and export high‑quality comics—no art skills needed. In short, ComicsMaker.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

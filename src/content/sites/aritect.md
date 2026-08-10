@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Aritect - AI Tool Review & Guide 2026
-metaDescription: Aritect is a Solana-based risk intelligence platform and $ARITECT token offering wallet scoring, on-chain credit history and behavioral analytics via REST...
+metaDescription: Aritect is a Solana-based risk intelligence platform and $ARITECT token offering wallet scoring, on-chain credit history and behavioral analytics via REST
 simple: Aritect is a Solana-based risk intelligence platform and $ARITECT token offering wallet scoring, on-chain credit history and behavioral analytics via REST API and dashboard.
 example: Give Aritect one real task — a prompt, a file, or a request — and it returns a usable result for your web3 and ai agents workflow.
 goodFor:

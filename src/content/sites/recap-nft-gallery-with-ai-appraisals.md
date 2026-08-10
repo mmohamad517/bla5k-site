@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Recap NFT Gallery - AI Tool Review & Guide 2026
-metaDescription: Recap is a UK crypto‑tax platform that aggregates all transactions from exchanges and on‑chain wallets, provides real‑time portfolio tracking, automatically...
+metaDescription: Recap is a UK crypto‑tax platform that aggregates all transactions from exchanges and on‑chain wallets, provides real‑time portfolio tracking, automatically
 simple: Recap is a UK crypto‑tax platform that aggregates all transactions from exchanges and on‑chain wallets, provides real‑time portfolio tracking, automatically calculates HMRC‑compliant gains, and delivers SA108‑ready reports with secure accountant data sharing.
 example: Give Recap NFT Gallery one real task — a prompt, a file, or a request — and it returns a usable result for your web3 and ai agents workflow.
 goodFor:

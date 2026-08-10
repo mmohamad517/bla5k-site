@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Sweep AI - AI Tool Review & Guide 2026
-metaDescription: Sweep is an AI coding assistant plugin for all JetBrains IDEs that offers low‑latency autocomplete, next‑tab predictions, code review suggestions, and...
+metaDescription: Sweep is an AI coding assistant plugin for all JetBrains IDEs that offers low‑latency autocomplete, next‑tab predictions, code review suggestions, and
 simple: Sweep is an AI coding assistant plugin for all JetBrains IDEs that offers low‑latency autocomplete, next‑tab predictions, code review suggestions, and precise refactoring by indexing the entire project.
 example: Give Sweep AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

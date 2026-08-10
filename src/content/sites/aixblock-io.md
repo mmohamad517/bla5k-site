@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: AIxBlock - AI Tool Review & Guide 2026
-metaDescription: AIxBlock supplies enterprise-grade speech and language training data—voice, audio and text across 100+ languages—offering licensed catalogs, custom...
+metaDescription: AIxBlock supplies enterprise-grade speech and language training data—voice, audio and text across 100+ languages—offering licensed catalogs, custom
 simple: AIxBlock supplies enterprise-grade speech and language training data—voice, audio and text across 100+ languages—offering licensed catalogs, custom collections, transcription/annotation, RLHF and dialogue datasets, plus self-hosted storage options for data sovereignty.
 example: Give AIxBlock one real task — a prompt, a file, or a request — and it returns a usable result for your ai audio workflow.
 goodFor:

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: GenWorlds - AI Tool Review & Guide 2026
-metaDescription: GenWorlds is an event‑driven framework for building scalable multi‑agent systems in generative AI worlds, supporting custom agents, objects, goals, memory...
+metaDescription: GenWorlds is an event‑driven framework for building scalable multi‑agent systems in generative AI worlds, supporting custom agents, objects, goals, memory
 simple: "GenWorlds is an event‑driven framework for building scalable multi‑agent systems in generative AI worlds, supporting custom agents, objects, goals, memory imports, cognitive models (Tree of Thoughts, Chain of Thoughts, AutoGPT), WebSocket interfaces, and integration with Qdrant and LangChain."
 example: "Give GenWorlds one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

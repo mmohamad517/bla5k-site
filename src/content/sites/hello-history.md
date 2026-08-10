@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Hello History?
-    a: Hello History is an AI-powered chat platform that lets users converse with historical figures such as Cleopatra, Einstein, and Buddha. It offers a fact‑checked, customizable environment for educators, students, researchers, and curators to explore, debate, and study history interactively. Chat 1 0 Free That is the core of what Hello History does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Hello History is an AI-powered chat platform that lets users converse with historical figures such as Cleopatra, Einstein, and Buddha. It offers a fact‑checked, customizable environment for educators, students, researchers, and curators to explore, debate, and study history interactively.  That is the core of what Hello History does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Hello History free?
     a: Yes — Hello History is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Hello History?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Hello History?
 
-Hello History is an AI-powered chat platform that lets users converse with historical figures such as Cleopatra, Einstein, and Buddha. It offers a fact‑checked, customizable environment for educators, students, researchers, and curators to explore, debate, and study history interactively. Chat 1 0 Free
-
-In short, Hello History is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Hello History is an AI-powered chat platform that lets users converse with historical figures such as Cleopatra, Einstein, and Buddha. It offers a fact‑checked, customizable environment for educators, students, researchers, and curators to explore, debate, and study history interactively. In short, Hello History is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

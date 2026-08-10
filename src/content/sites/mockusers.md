@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: MockUsers - AI Tool Review & Guide 2026
-metaDescription: MockUsers analyzes landing pages, auto-detects ideal customer profiles and deploys AI visitor agents to simulate behavior, pinpoint sentence-level doubts...
+metaDescription: MockUsers analyzes landing pages, auto-detects ideal customer profiles and deploys AI visitor agents to simulate behavior, pinpoint sentence-level doubts and
 simple: "MockUsers analyzes landing pages, auto-detects ideal customer profiles and deploys AI visitor agents to simulate behavior, pinpoint sentence-level doubts and conversion blockers, rank issues by impact, and generate ICP-tailored hero, bullets and CTA rewrites with scored actionable fixes."
 example: "Give MockUsers one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

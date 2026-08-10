@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-07
 metaTitle: Amara AI - AI 3D Tool Review & Guide 2026
-metaDescription: Unreal Engine plugin that generates production-ready 3D meshes from 2D images, converts image assets into editable UE5 models, and assembles scenes via...
+metaDescription: Unreal Engine plugin that generates production-ready 3D meshes from 2D images, converts image assets into editable UE5 models, and assembles scenes via
 simple: "Unreal Engine plugin that generates production-ready 3D meshes from 2D images, converts image assets into editable UE5 models, and assembles scenes via natural-language commands with context-aware placement, geometry/textures refinement, and rapid iteration."
 example: "Describe what you want in a text prompt — or upload a reference image — and Amara AI returns a finished 3D model you can export to your game engine, slicer, or 3D software."
 goodFor:

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-07
 metaTitle: Prismal.io - AI 3D Tool Review & Guide 2026
-metaDescription: PRISMAL creates immersive Web3 and tech brand experiences — 3D websites, spatial environments, Webflow development, Unity/Spatial.io integrations and GSAP...
+metaDescription: PRISMAL creates immersive Web3 and tech brand experiences — 3D websites, spatial environments, Webflow development, Unity/Spatial.io integrations and GSAP
 simple: "PRISMAL creates immersive Web3 and tech brand experiences — 3D websites, spatial environments, Webflow development, Unity/Spatial.io integrations and GSAP animations — delivering brand identity, product design, MVPs and interactive demos for founders and product or marketing teams."
 example: "Give Prismal.io your source material — a prompt, an image, or a model file — and it returns a usable 3D result for your workflow."
 goodFor:

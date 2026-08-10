@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: PlugBear - AI Tool Review & Guide 2026
-metaDescription: Runbear is an AI teammate that answers questions before users read messages, integrating with Slack, Teams, email, and 2,000+ tools, learning context to...
+metaDescription: Runbear is an AI teammate that answers questions before users read messages, integrating with Slack, Teams, email, and 2,000+ tools, learning context to
 simple: Runbear is an AI teammate that answers questions before users read messages, integrating with Slack, Teams, email, and 2,000+ tools, learning context to route inquiries, create tickets, update CRM, draft documents, and accelerate workflows—all with minimal setup and SOC 2 compliance.
 example: Give PlugBear one real task — a prompt, a file, or a request — and it returns a usable result for your conversational ai workflow.
 goodFor:

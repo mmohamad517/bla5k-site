@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Learnt.ai - AI Tool Review & Guide 2026
-metaDescription: Learnt.ai is an AI‑powered platform for educators that turns prompts into course outlines, interactive activities, scenario questions, facilitator guides,...
+metaDescription: Learnt.ai is an AI‑powered platform for educators that turns prompts into course outlines, interactive activities, scenario questions, facilitator guides
 simple: Learnt.ai is an AI‑powered platform for educators that turns prompts into course outlines, interactive activities, scenario questions, facilitator guides, and assessments within seconds.
 example: Give Learnt.ai one real task — a prompt, a file, or a request — and it returns a usable result for your ai content generation workflow.
 goodFor:

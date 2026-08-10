@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AIFreeBox?
-    a: AIFreeBox is a platform offering over 500 AI tools for content creation. It enables users to generate text, digital artwork, and song lyrics, while also supporting over 30 languages. AI Assistant 4 1 Free That is the core of what AIFreeBox does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AIFreeBox is a platform offering over 500 AI tools for content creation. It enables users to generate text, digital artwork, and song lyrics, while also supporting over 30 languages.  That is the core of what AIFreeBox does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AIFreeBox free?
     a: Yes — AIFreeBox is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with AIFreeBox?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is AIFreeBox?
 
-AIFreeBox is a platform offering over 500 AI tools for content creation. It enables users to generate text, digital artwork, and song lyrics, while also supporting over 30 languages. AI Assistant 4 1 Free
-
-In short, AIFreeBox is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+AIFreeBox is a platform offering over 500 AI tools for content creation. It enables users to generate text, digital artwork, and song lyrics, while also supporting over 30 languages. In short, AIFreeBox is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Spectrahertz - AI Tool Review & Guide 2026
-metaDescription: Spectrahertz detects AI-generated audio and hidden watermarks with 99.9% accuracy and sub-100 ms latency, removes spectral artifacts, embeds imperceptible...
+metaDescription: Spectrahertz detects AI-generated audio and hidden watermarks with 99.9% accuracy and sub-100 ms latency, removes spectral artifacts, embeds imperceptible
 simple: Spectrahertz detects AI-generated audio and hidden watermarks with 99.9% accuracy and sub-100 ms latency, removes spectral artifacts, embeds imperceptible marks, applies stereo/3D/Room spatial processing, exports high-quality WAV, and offers secure uploads plus API.
 example: Give Spectrahertz one real task — a prompt, a file, or a request — and it returns a usable result for your ai audio workflow.
 goodFor:

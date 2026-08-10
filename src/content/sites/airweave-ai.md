@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AirWeave AI?
-    a: airweave enables users to create intelligent agents with minimal coding. It integrates with over 100 data sources, automates data syncing, and offers flexible deployment options, making it suitable for both small projects and enterprise applications. AI Agents 1 0 Freemium That is the core of what AirWeave AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: airweave enables users to create intelligent agents with minimal coding. It integrates with over 100 data sources, automates data syncing, and offers flexible deployment options, making it suitable for both small projects and enterprise applications.  That is the core of what AirWeave AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AirWeave AI free?
     a: AirWeave AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AirWeave AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is AirWeave AI?
 
-airweave enables users to create intelligent agents with minimal coding. It integrates with over 100 data sources, automates data syncing, and offers flexible deployment options, making it suitable for both small projects and enterprise applications. AI Agents 1 0 Freemium
-
-In short, AirWeave AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+airweave enables users to create intelligent agents with minimal coding. It integrates with over 100 data sources, automates data syncing, and offers flexible deployment options, making it suitable for both small projects and enterprise applications. In short, AirWeave AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

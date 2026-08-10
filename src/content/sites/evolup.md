@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Evolup?
-    a: Evolup uses AI to automate affiliate store creation and management. It syncs product data from Amazon and other networks, updates prices and availability, auto‑generates descriptions and blog content, and offers SEO tools and site analytics for improved visibility. Content creation 0 1 Subscription - $10/mo That is the core of what Evolup does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Evolup uses AI to automate affiliate store creation and management. It syncs product data from Amazon and other networks, updates prices and availability, auto‑generates descriptions and blog content, and offers SEO tools and site analytics for improved visibility.  That is the core of what Evolup does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Evolup free?
     a: Evolup is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Evolup?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Evolup?
 
-Evolup uses AI to automate affiliate store creation and management. It syncs product data from Amazon and other networks, updates prices and availability, auto‑generates descriptions and blog content, and offers SEO tools and site analytics for improved visibility. Content creation 0 1 Subscription - $10/mo
-
-In short, Evolup is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Evolup uses AI to automate affiliate store creation and management. It syncs product data from Amazon and other networks, updates prices and availability, auto‑generates descriptions and blog content, and offers SEO tools and site analytics for improved visibility. In short, Evolup is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: PromptLocker - AI Tool Review & Guide 2026
-metaDescription: PromptLocker is an on‑prem/cloud governance layer that keeps client data in your account, logs every AI interaction in an append‑only audit trail,...
+metaDescription: PromptLocker is an on‑prem/cloud governance layer that keeps client data in your account, logs every AI interaction in an append‑only audit trail, integrates
 simple: PromptLocker is an on‑prem/cloud governance layer that keeps client data in your account, logs every AI interaction in an append‑only audit trail, integrates with document stores without migration, and provides compliance reports and auditing tools for regulated firms.
 example: Give PromptLocker one real task — a prompt, a file, or a request — and it returns a usable result for your ai verification workflow.
 goodFor:

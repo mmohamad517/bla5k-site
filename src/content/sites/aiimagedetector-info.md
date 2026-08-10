@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AIImageDetector.info?
-    a: The AI Image Detector employs a multi-signal forensic screening approach to determine if an image is AI-generated. It utilizes four independent AI detection models – Sightengine, Winston AI, SAFE (KDD 2025), and Open-source cross-check – each with published weights. AI detection 1 0 1 Freemium That is the core of what AIImageDetector.info does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: The AI Image Detector employs a multi-signal forensic screening approach to determine if an image is AI-generated. It utilizes four independent AI detection models – Sightengine, Winston AI, SAFE (KDD 2025), and Open-source cross-check – each with published weights.  That is the core of what AIImageDetector.info does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AIImageDetector.info free?
     a: AIImageDetector.info uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AIImageDetector.info?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is AIImageDetector.info?
 
-The AI Image Detector employs a multi-signal forensic screening approach to determine if an image is AI-generated. It utilizes four independent AI detection models – Sightengine, Winston AI, SAFE (KDD 2025), and Open-source cross-check – each with published weights. AI detection 1 0 1 Freemium
-
-In short, AIImageDetector.info is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+The AI Image Detector employs a multi-signal forensic screening approach to determine if an image is AI-generated. It utilizes four independent AI detection models – Sightengine, Winston AI, SAFE (KDD 2025), and Open-source cross-check – each with published weights. In short, AIImageDetector.info is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Sup AI?
-    a: Sup AI is a multi-model orchestration platform that intelligently routes queries to the best frontier models for task-specific results. It ensures verifiable accuracy by scoring outputs in real-time, automatically retrying low-confidence responses and linking claims to citable sources. AI Agents 5 1 Freemium - $20/mo That is the core of what Sup AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Sup AI is a multi-model orchestration platform that intelligently routes queries to the best frontier models for task-specific results. It ensures verifiable accuracy by scoring outputs in real-time, automatically retrying low-confidence responses and linking claims to citable sources.  That is the core of what Sup AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Sup AI free?
     a: Sup AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $20/mo, check the official website — pricing changes often.
   - q: What can you do with Sup AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Sup AI?
 
-Sup AI is a multi-model orchestration platform that intelligently routes queries to the best frontier models for task-specific results. It ensures verifiable accuracy by scoring outputs in real-time, automatically retrying low-confidence responses and linking claims to citable sources. AI Agents 5 1 Freemium - $20/mo
-
-In short, Sup AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Sup AI is a multi-model orchestration platform that intelligently routes queries to the best frontier models for task-specific results. It ensures verifiable accuracy by scoring outputs in real-time, automatically retrying low-confidence responses and linking claims to citable sources. In short, Sup AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: MindThera - AI Tool Review & Guide 2026
-metaDescription: Mindthera is an AI mental health chatbot that offers 24/7 personalized support, emotional analysis, and tailored recommendations for managing anxiety,...
+metaDescription: Mindthera is an AI mental health chatbot that offers 24/7 personalized support, emotional analysis, and tailored recommendations for managing anxiety
 simple: Mindthera is an AI mental health chatbot that offers 24/7 personalized support, emotional analysis, and tailored recommendations for managing anxiety, stress, and self-esteem, all while ensuring user privacy and fostering a supportive community.
 example: Give MindThera one real task — a prompt, a file, or a request — and it returns a usable result for your no-code building workflow.
 goodFor:

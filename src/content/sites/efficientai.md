@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: EfficientAI - AI Tool Review & Guide 2026
-metaDescription: Efficient AI is an open-source voice evaluation platform that automates end-to-end testing of conversational agents—simulating IVR/contact-center call...
+metaDescription: Efficient AI is an open-source voice evaluation platform that automates end-to-end testing of conversational agents—simulating IVR/contact-center call flows
 simple: Efficient AI is an open-source voice evaluation platform that automates end-to-end testing of conversational agents—simulating IVR/contact-center call flows, measuring TTS, ASR, NLU and dialogue performance, exporting detailed per-call metrics and supporting CI and live monitoring.
 example: Give EfficientAI one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it.
 goodFor:

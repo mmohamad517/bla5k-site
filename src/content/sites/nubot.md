@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Nubot - AI Tool Review & Guide 2026
-metaDescription: Nubot is an AI sales agent and WhatsApp CRM that automates multi‑channel support and sales via no‑code conversational flows, unified inbox, scheduling and...
+metaDescription: Nubot is an AI sales agent and WhatsApp CRM that automates multi‑channel support and sales via no‑code conversational flows, unified inbox, scheduling and
 simple: Nubot is an AI sales agent and WhatsApp CRM that automates multi‑channel support and sales via no‑code conversational flows, unified inbox, scheduling and follow‑ups, segmented messaging, lead prioritization, integrations (APIs/webhooks) and team collaboration tools.
 example: Give Nubot one real task — a prompt, a file, or a request — and it returns a usable result for your conversational ai workflow.
 goodFor:

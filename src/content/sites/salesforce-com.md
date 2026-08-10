@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Salesforce - AI Tool Review & Guide 2026
-metaDescription: Salesforce is a cloud CRM that centralizes customer, transactional and engagement data and uses agent-based AI (Agentforce) to automate lead qualification,...
+metaDescription: Salesforce is a cloud CRM that centralizes customer, transactional and engagement data and uses agent-based AI (Agentforce) to automate lead qualification
 simple: Salesforce is a cloud CRM that centralizes customer, transactional and engagement data and uses agent-based AI (Agentforce) to automate lead qualification, case resolution, predict outcomes, recommend next-best actions and orchestrate multi-step, industry-specific workflows.
 example: Give Salesforce one real task — a prompt, a file, or a request — and it returns a usable result for your ai work workflow.
 goodFor:

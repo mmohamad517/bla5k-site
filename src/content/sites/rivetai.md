@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is RivetAI?
-    a: Rivet AI automates film pre‑production by generating shooting schedules, line‑item budgets, and tax‑incentive data from script breakdowns. It consolidates stunts, extras, effects, locations, and props, offering secure collaboration, version control, and export to FDX, CSV, PDF, XLSX. AI Assistant 1 0 Freemium That is the core of what RivetAI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Rivet AI automates film pre‑production by generating shooting schedules, line‑item budgets, and tax‑incentive data from script breakdowns. It consolidates stunts, extras, effects, locations, and props, offering secure collaboration, version control, and export to FDX, CSV, PDF, XLSX.  That is the core of what RivetAI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is RivetAI free?
     a: RivetAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with RivetAI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is RivetAI?
 
-Rivet AI automates film pre‑production by generating shooting schedules, line‑item budgets, and tax‑incentive data from script breakdowns. It consolidates stunts, extras, effects, locations, and props, offering secure collaboration, version control, and export to FDX, CSV, PDF, XLSX. AI Assistant 1 0 Freemium
-
-In short, RivetAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Rivet AI automates film pre‑production by generating shooting schedules, line‑item budgets, and tax‑incentive data from script breakdowns. It consolidates stunts, extras, effects, locations, and props, offering secure collaboration, version control, and export to FDX, CSV, PDF, XLSX. In short, RivetAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

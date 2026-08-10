@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Xreacher - AI Tool Review & Guide 2026
-metaDescription: Xreacher is a Twitter outreach automation tool that enables users to send up to 450 direct messages daily, scrape leads, analyze campaign performance, and...
+metaDescription: Xreacher is a Twitter outreach automation tool that enables users to send up to 450 direct messages daily, scrape leads, analyze campaign performance, and
 simple: Xreacher is a Twitter outreach automation tool that enables users to send up to 450 direct messages daily, scrape leads, analyze campaign performance, and manage multiple accounts efficiently for effective cold outreach.
 example: Give Xreacher one real task — a prompt, a file, or a request — and it returns a usable result for your ai sales workflow.
 goodFor:

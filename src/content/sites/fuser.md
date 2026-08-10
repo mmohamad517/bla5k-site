@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-07
 metaTitle: Fuser - AI 3D Tool Review & Guide 2026
-metaDescription: Fuser is a multimodal AI workflow platform for creatives offering a single canvas with model-agnostic access to hundreds of generative models, templates and...
+metaDescription: Fuser is a multimodal AI workflow platform for creatives offering a single canvas with model-agnostic access to hundreds of generative models, templates and
 simple: "Fuser is a multimodal AI workflow platform for creatives offering a single canvas with model-agnostic access to hundreds of generative models, templates and reusable workflow blocks, asset management, and tools for image, video, audio and 3D production."
 example: "Record a short video of an object with your phone and Fuser turns it into a usable 3D model you can rotate, export, and drop into your project."
 goodFor:

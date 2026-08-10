@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Kore.ai?
-    a: Kore.ai Agent Platform delivers customizable AI agents for banking, healthcare, retail, and other industries. It includes multi‑agent orchestration, engineering tools, extensive data connectors, no‑code/pro‑code development, real‑time observability, secure governance, and deployable on AWS, Azure, or GCP. Customer support 1 0 Free That is the core of what Kore.ai does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Kore.ai Agent Platform delivers customizable AI agents for banking, healthcare, retail, and other industries. It includes multi‑agent orchestration, engineering tools, extensive data connectors, no‑code/pro‑code development, real‑time observability, secure governance, and deployable on AWS, Azure, or GCP.  That is the core of what Kore.ai does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Kore.ai free?
     a: Yes — Kore.ai is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Kore.ai?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Kore.ai?
 
-Kore.ai Agent Platform delivers customizable AI agents for banking, healthcare, retail, and other industries. It includes multi‑agent orchestration, engineering tools, extensive data connectors, no‑code/pro‑code development, real‑time observability, secure governance, and deployable on AWS, Azure, or GCP. Customer support 1 0 Free
-
-In short, Kore.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Kore.ai Agent Platform delivers customizable AI agents for banking, healthcare, retail, and other industries. It includes multi‑agent orchestration, engineering tools, extensive data connectors, no‑code/pro‑code development, real‑time observability, secure governance, and deployable on AWS, Azure, or GCP. In short, Kore.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

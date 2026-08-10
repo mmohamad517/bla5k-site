@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Book Wizard AI - AI Tool Review & Guide 2026
-metaDescription: "Book Wizard AI automates book creation: input title, description, and audience, and it generates a structured table of contents, full chapter content, and..."
+metaDescription: "Book Wizard AI automates book creation: input title, description, and audience, and it generates a structured table of contents, full chapter content, and"
 simple: "Book Wizard AI automates book creation: input title, description, and audience, and it generates a structured table of contents, full chapter content, and formatted manuscript."
 example: Give Book Wizard AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai writing workflow.
 goodFor:
@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Book Wizard AI?
-    a: "Book Wizard AI automates book creation: input title, description, and audience, and it generates a structured table of contents, full chapter content, and formatted manuscript. Users edit, preview, export PDFs, and access API and support. Book writer 0 1 Subscription - $9.99/mo That is the core of what Book Wizard AI does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "Book Wizard AI automates book creation: input title, description, and audience, and it generates a structured table of contents, full chapter content, and formatted manuscript. Users edit, preview, export PDFs, and access API and support.  That is the core of what Book Wizard AI does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is Book Wizard AI free?
     a: Book Wizard AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Book Wizard AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Book Wizard AI?
 
-Book Wizard AI automates book creation: input title, description, and audience, and it generates a structured table of contents, full chapter content, and formatted manuscript. Users edit, preview, export PDFs, and access API and support. Book writer 0 1 Subscription - $9.99/mo
-
-In short, Book Wizard AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Book Wizard AI automates book creation: input title, description, and audience, and it generates a structured table of contents, full chapter content, and formatted manuscript. Users edit, preview, export PDFs, and access API and support. In short, Book Wizard AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

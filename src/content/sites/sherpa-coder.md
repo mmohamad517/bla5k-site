@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Sherpa Coder - AI Tool Review & Guide 2026
-metaDescription: Sherpa Coder enhances VS Code for developers by integrating OpenAI assistants for context-aware suggestions, custom assistants, and secure account...
+metaDescription: Sherpa Coder enhances VS Code for developers by integrating OpenAI assistants for context-aware suggestions, custom assistants, and secure account
 simple: Sherpa Coder enhances VS Code for developers by integrating OpenAI assistants for context-aware suggestions, custom assistants, and secure account management, streamlining the coding process for both individual programmers and collaborative teams.
 example: Give Sherpa Coder one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

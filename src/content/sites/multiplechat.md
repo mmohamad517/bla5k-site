@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MultipleChat?
-    a: MultipleChat integrates ChatGPT, Claude, Gemini, Grok, and Perplexity into a single prompt, displaying each model’s output side‑by‑side. It auto‑debates, flags conflicts, provides source references, and supports document, slide, spreadsheet, and image generation with humanized style learning. AI Assistant 1 1 Free trial That is the core of what MultipleChat does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: MultipleChat integrates ChatGPT, Claude, Gemini, Grok, and Perplexity into a single prompt, displaying each model’s output side‑by‑side. It auto‑debates, flags conflicts, provides source references, and supports document, slide, spreadsheet, and image generation with humanized style learning.  That is the core of what MultipleChat does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MultipleChat free?
     a: MultipleChat uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with MultipleChat?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is MultipleChat?
 
-MultipleChat integrates ChatGPT, Claude, Gemini, Grok, and Perplexity into a single prompt, displaying each model’s output side‑by‑side. It auto‑debates, flags conflicts, provides source references, and supports document, slide, spreadsheet, and image generation with humanized style learning. AI Assistant 1 1 Free trial
-
-In short, MultipleChat is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+MultipleChat integrates ChatGPT, Claude, Gemini, Grok, and Perplexity into a single prompt, displaying each model’s output side‑by‑side. It auto‑debates, flags conflicts, provides source references, and supports document, slide, spreadsheet, and image generation with humanized style learning. In short, MultipleChat is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

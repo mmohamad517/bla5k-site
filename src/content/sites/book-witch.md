@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Book Witch?
-    a: Book Witch is an AI platform that generates and edits full‑length e‑books in a single click. It creates chapters, maintains logical flow, preserves author voice, supports 30+ languages, and exports to PDF, DOCX, or TXT for quick publishing. Book writer 6 1 Freemium - $26/mo That is the core of what Book Witch does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Book Witch is an AI platform that generates and edits full‑length e‑books in a single click. It creates chapters, maintains logical flow, preserves author voice, supports 30+ languages, and exports to PDF, DOCX, or TXT for quick publishing.  That is the core of what Book Witch does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Book Witch free?
     a: Book Witch uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $26/mo, check the official website — pricing changes often.
   - q: What can you do with Book Witch?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Book Witch?
 
-Book Witch is an AI platform that generates and edits full‑length e‑books in a single click. It creates chapters, maintains logical flow, preserves author voice, supports 30+ languages, and exports to PDF, DOCX, or TXT for quick publishing. Book writer 6 1 Freemium - $26/mo
-
-In short, Book Witch is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Book Witch is an AI platform that generates and edits full‑length e‑books in a single click. It creates chapters, maintains logical flow, preserves author voice, supports 30+ languages, and exports to PDF, DOCX, or TXT for quick publishing. In short, Book Witch is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

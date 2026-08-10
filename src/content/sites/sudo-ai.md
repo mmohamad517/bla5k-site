@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Sudo AI - AI Tool Review & Guide 2026
-metaDescription: Sudo is a multi-model API platform offering a single endpoint and SDKs for Python/TypeScript to access GPT-4, Claude, and open-source LLMs for text, image,...
+metaDescription: Sudo is a multi-model API platform offering a single endpoint and SDKs for Python/TypeScript to access GPT-4, Claude, and open-source LLMs for text, image
 simple: "Sudo is a multi-model API platform offering a single endpoint and SDKs for Python/TypeScript to access GPT-4, Claude, and open-source LLMs for text, image, and audio generation with built-in routing and centralized billing."
 example: "Give Sudo AI one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

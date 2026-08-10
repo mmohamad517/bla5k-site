@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-07
 metaTitle: Marble - AI 3D Tool Review & Guide 2026
-metaDescription: Marble generates persistent 3D worlds from text, images, video, panoramas, or 3D models, offers image stitching, a Studio editor with style presets,...
+metaDescription: Marble generates persistent 3D worlds from text, images, video, panoramas, or 3D models, offers image stitching, a Studio editor with style presets
 simple: "Marble generates persistent 3D worlds from text, images, video, panoramas, or 3D models, offers image stitching, a Studio editor with style presets, multi-world stitching, export collaboration, and cinematic 3D video output for iterative workflows."
 example: "Record a short video of an object with your phone and Marble turns it into a usable 3D model you can rotate, export, and drop into your project."
 goodFor:

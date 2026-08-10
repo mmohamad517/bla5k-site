@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Colby AI?
-    a: Colby AI is a voice-powered Salesforce assistant that automates CRM updates, notes, and lead research via real-time web searches. It streamlines sales workflows with hands-free bulk updates and seamless integration, reducing manual admin tasks. Sales 5 1 Freemium That is the core of what Colby AI does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Colby AI is a voice-powered Salesforce assistant that automates CRM updates, notes, and lead research via real-time web searches. It streamlines sales workflows with hands-free bulk updates and seamless integration, reducing manual admin tasks.  That is the core of what Colby AI does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Colby AI free?
     a: Colby AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Colby AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Colby AI?
 
-Colby AI is a voice-powered Salesforce assistant that automates CRM updates, notes, and lead research via real-time web searches. It streamlines sales workflows with hands-free bulk updates and seamless integration, reducing manual admin tasks. Sales 5 1 Freemium
-
-In short, Colby AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Colby AI is a voice-powered Salesforce assistant that automates CRM updates, notes, and lead research via real-time web searches. It streamlines sales workflows with hands-free bulk updates and seamless integration, reducing manual admin tasks. In short, Colby AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

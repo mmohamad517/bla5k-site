@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Intrvuz - AI Tool Review & Guide 2026
-metaDescription: Intrvuz automates high‑volume hiring with 24/7 AI interviews in 57 languages, real‑time proctoring, facial and voice ID checks, CV screening,...
+metaDescription: Intrvuz automates high‑volume hiring with 24/7 AI interviews in 57 languages, real‑time proctoring, facial and voice ID checks, CV screening, job‑description
 simple: Intrvuz automates high‑volume hiring with 24/7 AI interviews in 57 languages, real‑time proctoring, facial and voice ID checks, CV screening, job‑description generation, role‑specific assessments, psychometric testing, and bias‑free analytics, integrating via APIs into ATS and HRMS.
 example: Give Intrvuz one real task — a prompt, a file, or a request — and it returns a usable result for your ai work workflow.
 goodFor:
@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Intrvuz?
-    a: Intrvuz automates high‑volume hiring with 24/7 AI interviews in 57 languages, real‑time proctoring, facial and voice ID checks, CV screening, job‑description generation, role‑specific assessments, psychometric testing, and bias‑free analytics, integrating via APIs into ATS and HRMS. AI Assistant 0 1 Free - $29/mo That is the core of what Intrvuz does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Intrvuz automates high‑volume hiring with 24/7 AI interviews in 57 languages, real‑time proctoring, facial and voice ID checks, CV screening, job‑description generation, role‑specific assessments, psychometric testing, and bias‑free analytics, integrating via APIs into ATS and HRMS.  That is the core of what Intrvuz does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Intrvuz free?
     a: Intrvuz uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Intrvuz?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Intrvuz?
 
-Intrvuz automates high‑volume hiring with 24/7 AI interviews in 57 languages, real‑time proctoring, facial and voice ID checks, CV screening, job‑description generation, role‑specific assessments, psychometric testing, and bias‑free analytics, integrating via APIs into ATS and HRMS. AI Assistant 0 1 Free - $29/mo
-
-In short, Intrvuz is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Intrvuz automates high‑volume hiring with 24/7 AI interviews in 57 languages, real‑time proctoring, facial and voice ID checks, CV screening, job‑description generation, role‑specific assessments, psychometric testing, and bias‑free analytics, integrating via APIs into ATS and HRMS. In short, Intrvuz is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

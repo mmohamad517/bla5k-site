@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Kovai.co - AI Tool Review & Guide 2026
-metaDescription: Kovai.co’s SaaS suite—BizTalk360, Turbo360, and Document360—provides AI-assisted BizTalk Server and Azure monitoring, serverless tracing, automated...
+metaDescription: Kovai.co’s SaaS suite—BizTalk360, Turbo360, and Document360—provides AI-assisted BizTalk Server and Azure monitoring, serverless tracing, automated
 simple: "Kovai.co’s SaaS suite—BizTalk360, Turbo360, and Document360—provides AI-assisted BizTalk Server and Azure monitoring, serverless tracing, automated remediation, role-based access, operational analytics, and a documentation platform for faster incident resolution and governance."
 example: "Give Kovai.co one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

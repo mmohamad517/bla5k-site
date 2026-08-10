@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Tranquil AI - AI Tool Review & Guide 2026
-metaDescription: TranquilAI generates AI-guided personalized meditations from user-reported mood, stress level and situational needs, delivering on-demand, downloadable...
+metaDescription: TranquilAI generates AI-guided personalized meditations from user-reported mood, stress level and situational needs, delivering on-demand, downloadable
 simple: TranquilAI generates AI-guided personalized meditations from user-reported mood, stress level and situational needs, delivering on-demand, downloadable guided meditation audio tailored by length, focus (sleep, anxiety, concentration) and voice preference for mindfulness and stress relief.
 example: Give Tranquil AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai audio workflow.
 goodFor:

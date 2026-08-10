@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Booksmate - AI Tool Review & Guide 2026
-metaDescription: Booksmate.com is an AI-powered tool that automates invoice and receipt capture by scanning emails, supplier portals, and over 400 websites to extract...
+metaDescription: Booksmate.com is an AI-powered tool that automates invoice and receipt capture by scanning emails, supplier portals, and over 400 websites to extract expense
 simple: Booksmate.com is an AI-powered tool that automates invoice and receipt capture by scanning emails, supplier portals, and over 400 websites to extract expense data with up to 99.9% accuracy.
 example: Give Booksmate one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

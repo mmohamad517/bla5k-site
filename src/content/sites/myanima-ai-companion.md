@@ -42,7 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is MyAnima AI Companion?
 
-Anima is an AI companion on Android and iOS designed to facilitate conversation, roleplaying, and improve communication skills. Have a friendly chat with your virtual friend. Personal Chatbot 19 6
+Anima is an AI companion on Android and iOS designed to facilitate conversation, roleplaying, and improve communication skills. Have a friendly chat with your virtual friend. 
 
 In short, MyAnima AI Companion is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is UI Faces with AI?
-    a: UI Faces offers a free library of high‑quality AI avatars—Human, Alien, Cartoon, and Abstract—plus 100 detailed personas. Designers can browse, download, or insert them via Figma or Adobe Express plugins, speeding prototype development and maintaining visual consistency. Avatar 1 1 Free That is the core of what UI Faces with AI does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: UI Faces offers a free library of high‑quality AI avatars—Human, Alien, Cartoon, and Abstract—plus 100 detailed personas. Designers can browse, download, or insert them via Figma or Adobe Express plugins, speeding prototype development and maintaining visual consistency.  That is the core of what UI Faces with AI does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is UI Faces with AI free?
     a: Yes — UI Faces with AI is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with UI Faces with AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is UI Faces with AI?
 
-UI Faces offers a free library of high‑quality AI avatars—Human, Alien, Cartoon, and Abstract—plus 100 detailed personas. Designers can browse, download, or insert them via Figma or Adobe Express plugins, speeding prototype development and maintaining visual consistency. Avatar 1 1 Free
-
-In short, UI Faces with AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+UI Faces offers a free library of high‑quality AI avatars—Human, Alien, Cartoon, and Abstract—plus 100 detailed personas. Designers can browse, download, or insert them via Figma or Adobe Express plugins, speeding prototype development and maintaining visual consistency. In short, UI Faces with AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

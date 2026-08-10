@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CoPaw?
-    a: CoPaw is an open-source, modular AI agent workstation (Agentscope) for local or cloud deployment, unifying model layers, plugins and long-term memory. It supports local LLMs, multi-channel chat, schedulers and CLI tools for custom agents and workflows. AI Agents 3 0 2 Free That is the core of what CoPaw does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CoPaw is an open-source, modular AI agent workstation (Agentscope) for local or cloud deployment, unifying model layers, plugins and long-term memory. It supports local LLMs, multi-channel chat, schedulers and CLI tools for custom agents and workflows.  That is the core of what CoPaw does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CoPaw free?
     a: Yes — CoPaw is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with CoPaw?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is CoPaw?
 
-CoPaw is an open-source, modular AI agent workstation (Agentscope) for local or cloud deployment, unifying model layers, plugins and long-term memory. It supports local LLMs, multi-channel chat, schedulers and CLI tools for custom agents and workflows. AI Agents 3 0 2 Free
-
-In short, CoPaw is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+CoPaw is an open-source, modular AI agent workstation (Agentscope) for local or cloud deployment, unifying model layers, plugins and long-term memory. It supports local LLMs, multi-channel chat, schedulers and CLI tools for custom agents and workflows. In short, CoPaw is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

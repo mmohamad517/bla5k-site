@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: qodo.ai - AI Tool Review & Guide 2026
-metaDescription: Qodo is an AI code-review platform that integrates with IDEs, pull requests, CLI and CI/CD to provide context-aware, cross-repo analysis, automated...
+metaDescription: Qodo is an AI code-review platform that integrates with IDEs, pull requests, CLI and CI/CD to provide context-aware, cross-repo analysis, automated
 simple: Qodo is an AI code-review platform that integrates with IDEs, pull requests, CLI and CI/CD to provide context-aware, cross-repo analysis, automated bug/security detection, test and docs suggestions, inline fix candidates, and configurable governance for enterprise workflows.
 example: Give qodo.ai one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

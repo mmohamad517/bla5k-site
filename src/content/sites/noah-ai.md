@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Noah AI?
-    a: Noah is a powerful chatbot with seamless integration with popular productivity tools and various pricing plans. It prioritizes security and follows industry standards to protect data. Tavrn offers live support for any questions or assistance. AI Assistant 3 3 Free trial That is the core of what Noah AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Noah is a powerful chatbot with seamless integration with popular productivity tools and various pricing plans. It prioritizes security and follows industry standards to protect data. Tavrn offers live support for any questions or assistance.  That is the core of what Noah AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Noah AI free?
     a: Noah AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Noah AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Noah AI?
 
-Noah is a powerful chatbot with seamless integration with popular productivity tools and various pricing plans. It prioritizes security and follows industry standards to protect data. Tavrn offers live support for any questions or assistance. AI Assistant 3 3 Free trial
-
-In short, Noah AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Noah is a powerful chatbot with seamless integration with popular productivity tools and various pricing plans. It prioritizes security and follows industry standards to protect data. Tavrn offers live support for any questions or assistance. In short, Noah AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

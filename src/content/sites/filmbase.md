@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Filmbase - AI Tool Review & Guide 2026
-metaDescription: FilmBase is production management software that uses on-device AI to automate script breakdowns and tagging, optimize scheduling and stripboards, manage...
+metaDescription: FilmBase is production management software that uses on-device AI to automate script breakdowns and tagging, optimize scheduling and stripboards, manage
 simple: FilmBase is production management software that uses on-device AI to automate script breakdowns and tagging, optimize scheduling and stripboards, manage budgets, call sheets, locations and shotlists, link storyboards to camera plans, and store projects offline.
 example: Give Filmbase one real task — a prompt, a file, or a request — and it returns a usable result for your ai management workflow.
 goodFor:

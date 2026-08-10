@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-07
 metaTitle: Vibe3D.ai - AI 3D Tool Review & Guide 2026
-metaDescription: Vibe3D is an AI-powered rendering tool that generates photorealistic 3D visuals in seconds, allowing users to import designs from SketchUp or 3ds Max while...
+metaDescription: Vibe3D is an AI-powered rendering tool that generates photorealistic 3D visuals in seconds, allowing users to import designs from SketchUp or 3ds Max while
 simple: "Vibe3D is an AI-powered rendering tool that generates photorealistic 3D visuals in seconds, allowing users to import designs from SketchUp or 3ds Max while facilitating quick updates and enhancing the efficiency of the rendering workflow."
 example: "Upload a single photo or reference image and Vibe3D.ai generates a usable 3D model you can export for games, VR, or visualization work."
 goodFor:

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: ContentBees - AI Tool Review & Guide 2026
-metaDescription: Contentbees is a content curation tool that helps marketers and bloggers discover, organize, and share relevant content from over 50,000 sources, enhancing...
+metaDescription: Contentbees is a content curation tool that helps marketers and bloggers discover, organize, and share relevant content from over 50,000 sources, enhancing
 simple: Contentbees is a content curation tool that helps marketers and bloggers discover, organize, and share relevant content from over 50,000 sources, enhancing content strategies and boosting traffic and conversions through actionable insights and trending topics.
 example: Give ContentBees one real task — a prompt, a file, or a request — and it returns a usable result for your ai writing workflow.
 goodFor:

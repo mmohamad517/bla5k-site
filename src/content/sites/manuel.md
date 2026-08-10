@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Manuel - AI Tool Review & Guide 2026
-metaDescription: Manuel is an AI assistant for installation companies, providing instant access to thousands of fault codes, guides, and maintenance tips for heat pumps and...
+metaDescription: Manuel is an AI assistant for installation companies, providing instant access to thousands of fault codes, guides, and maintenance tips for heat pumps and
 simple: Manuel is an AI assistant for installation companies, providing instant access to thousands of fault codes, guides, and maintenance tips for heat pumps and boilers.
 example: Give Manuel one real task — a prompt, a file, or a request — and it returns a usable result for your ai customer support workflow.
 goodFor:

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Content Detector - Leap?
-    a: AI Content Detector analyzes text to determine whether a human or AI wrote it. It accepts plain text or uploads, provides confidence scores and explanations, supports multiple languages, and includes step‑by‑step instructions and a video tutorial. AI detection 3 2 Freemium - $99/mo That is the core of what AI Content Detector - Leap does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Content Detector analyzes text to determine whether a human or AI wrote it. It accepts plain text or uploads, provides confidence scores and explanations, supports multiple languages, and includes step‑by‑step instructions and a video tutorial.  That is the core of what AI Content Detector - Leap does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI Content Detector - Leap free?
     a: AI Content Detector - Leap uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $99/mo, check the official website — pricing changes often.
   - q: What can you do with AI Content Detector - Leap?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is AI Content Detector - Leap?
 
-AI Content Detector analyzes text to determine whether a human or AI wrote it. It accepts plain text or uploads, provides confidence scores and explanations, supports multiple languages, and includes step‑by‑step instructions and a video tutorial. AI detection 3 2 Freemium - $99/mo
-
-In short, AI Content Detector - Leap is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+AI Content Detector analyzes text to determine whether a human or AI wrote it. It accepts plain text or uploads, provides confidence scores and explanations, supports multiple languages, and includes step‑by‑step instructions and a video tutorial. In short, AI Content Detector - Leap is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

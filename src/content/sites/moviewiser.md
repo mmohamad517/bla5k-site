@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MovieWiser?
-    a: MovieWiser uses AI to give mood‑based movie and series suggestions, pinpointing where titles stream. Users manage watchlists, receive episode alerts, view detailed metadata, and get subscription‑optimum recommendations across global platforms. Content creation 0 1 Free That is the core of what MovieWiser does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: MovieWiser uses AI to give mood‑based movie and series suggestions, pinpointing where titles stream. Users manage watchlists, receive episode alerts, view detailed metadata, and get subscription‑optimum recommendations across global platforms.  That is the core of what MovieWiser does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MovieWiser free?
     a: Yes — MovieWiser is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with MovieWiser?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is MovieWiser?
 
-MovieWiser uses AI to give mood‑based movie and series suggestions, pinpointing where titles stream. Users manage watchlists, receive episode alerts, view detailed metadata, and get subscription‑optimum recommendations across global platforms. Content creation 0 1 Free
-
-In short, MovieWiser is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+MovieWiser uses AI to give mood‑based movie and series suggestions, pinpointing where titles stream. Users manage watchlists, receive episode alerts, view detailed metadata, and get subscription‑optimum recommendations across global platforms. In short, MovieWiser is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

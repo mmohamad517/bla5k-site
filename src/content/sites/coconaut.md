@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Coconaut?
-    a: Coconaut.ai enables rapid chatbot deployment by training models from uploaded PDFs or website URLs. It uses GPT‑3.5 or GPT‑4, supports multiple bots, quotas, secure data storage, and embeds with a single line of code. Chatbot builder 3 2 Subscription - $19/mo That is the core of what Coconaut does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Coconaut.ai enables rapid chatbot deployment by training models from uploaded PDFs or website URLs. It uses GPT‑3.5 or GPT‑4, supports multiple bots, quotas, secure data storage, and embeds with a single line of code.  That is the core of what Coconaut does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Coconaut free?
     a: Coconaut is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Coconaut?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Coconaut?
 
-Coconaut.ai enables rapid chatbot deployment by training models from uploaded PDFs or website URLs. It uses GPT‑3.5 or GPT‑4, supports multiple bots, quotas, secure data storage, and embeds with a single line of code. Chatbot builder 3 2 Subscription - $19/mo
-
-In short, Coconaut is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Coconaut.ai enables rapid chatbot deployment by training models from uploaded PDFs or website URLs. It uses GPT‑3.5 or GPT‑4, supports multiple bots, quotas, secure data storage, and embeds with a single line of code. In short, Coconaut is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

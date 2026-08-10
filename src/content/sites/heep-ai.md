@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Heep AI - AI Tool Review & Guide 2026
-metaDescription: Heep AI is an AI social media assistant that automates customer interactions on platforms like WhatsApp and Instagram, managing tasks such as reservations...
+metaDescription: Heep AI is an AI social media assistant that automates customer interactions on platforms like WhatsApp and Instagram, managing tasks such as reservations
 simple: Heep AI is an AI social media assistant that automates customer interactions on platforms like WhatsApp and Instagram, managing tasks such as reservations and order processing.
 example: Give Heep AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai customer support workflow.
 goodFor:

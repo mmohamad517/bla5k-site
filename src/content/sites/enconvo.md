@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Enconvo - AI Tool Review & Guide 2026
-metaDescription: EnConvo turns macOS apps into AI agents via SmartBar, PopBar, and Companion Orb, offering voice input, live screen and camera sharing, multi‑provider web...
+metaDescription: EnConvo turns macOS apps into AI agents via SmartBar, PopBar, and Companion Orb, offering voice input, live screen and camera sharing, multi‑provider web
 simple: EnConvo turns macOS apps into AI agents via SmartBar, PopBar, and Companion Orb, offering voice input, live screen and camera sharing, multi‑provider web search, image generation, custom workflows, document chat, offline LLMs, open‑source plugins, and real‑time captions.
 example: Give Enconvo one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

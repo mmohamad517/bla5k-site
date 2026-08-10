@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-07
 metaTitle: Industrial Render AI - AI 3D Tool Review & Guide 2026
-metaDescription: Industrial Render AI converts sketches, photos, or simple models into studio‑grade 3D renderings instantly, offering preset styles for mood and realistic...
+metaDescription: Industrial Render AI converts sketches, photos, or simple models into studio‑grade 3D renderings instantly, offering preset styles for mood and realistic CMF
 simple: "Industrial Render AI converts sketches, photos, or simple models into studio‑grade 3D renderings instantly, offering preset styles for mood and realistic CMF details like brushed aluminum or matte plastic, enabling rapid prototyping for designers."
 example: "Upload a single photo or reference image and Industrial Render AI generates a usable 3D model you can export for games, VR, or visualization work."
 goodFor:

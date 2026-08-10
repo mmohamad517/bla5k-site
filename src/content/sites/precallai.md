@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PreCallAI?
-    a: PreCallAI automates inbound and outbound calls with AI voice assistants and SMS bots for sales, booking, support, and lead follow‑up. It offers a no‑code flow designer, integrates with 200+ CRMs, supports 30+ languages, and delivers real‑time analytics and routing. Communication Automation 1 0 Freemium - $0.02 That is the core of what PreCallAI does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: PreCallAI automates inbound and outbound calls with AI voice assistants and SMS bots for sales, booking, support, and lead follow‑up. It offers a no‑code flow designer, integrates with 200+ CRMs, supports 30+ languages, and delivers real‑time analytics and routing.  That is the core of what PreCallAI does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is PreCallAI free?
     a: PreCallAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $0.02, check the official website — pricing changes often.
   - q: What can you do with PreCallAI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is PreCallAI?
 
-PreCallAI automates inbound and outbound calls with AI voice assistants and SMS bots for sales, booking, support, and lead follow‑up. It offers a no‑code flow designer, integrates with 200+ CRMs, supports 30+ languages, and delivers real‑time analytics and routing. Communication Automation 1 0 Freemium - $0.02
-
-In short, PreCallAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+PreCallAI automates inbound and outbound calls with AI voice assistants and SMS bots for sales, booking, support, and lead follow‑up. It offers a no‑code flow designer, integrates with 200+ CRMs, supports 30+ languages, and delivers real‑time analytics and routing. In short, PreCallAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

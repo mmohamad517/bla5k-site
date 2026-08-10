@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is codeflying?
-    a: Codeflying is an app builder that allows users to rapidly prototype and launch full-stack applications. Its features include a drag-and-drop interface, real-time collaboration, and the ability to download source code, making it versatile for various applications. App Builder 3 2 Freemium - $25/mo That is the core of what codeflying does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Codeflying is an app builder that allows users to rapidly prototype and launch full-stack applications. Its features include a drag-and-drop interface, real-time collaboration, and the ability to download source code, making it versatile for various applications.  That is the core of what codeflying does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is codeflying free?
     a: codeflying uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $25/mo, check the official website — pricing changes often.
   - q: What can you do with codeflying?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is codeflying?
 
-Codeflying is an app builder that allows users to rapidly prototype and launch full-stack applications. Its features include a drag-and-drop interface, real-time collaboration, and the ability to download source code, making it versatile for various applications. App Builder 3 2 Freemium - $25/mo
-
-In short, codeflying is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Codeflying is an app builder that allows users to rapidly prototype and launch full-stack applications. Its features include a drag-and-drop interface, real-time collaboration, and the ability to download source code, making it versatile for various applications. In short, codeflying is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

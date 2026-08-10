@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Joinery - AI Tool Review & Guide 2026
-metaDescription: Joinery is an AI recruitment tool that streamlines hiring with candidate summary cards, bias-free scoring, automated resume parsing, and anonymized...
+metaDescription: Joinery is an AI recruitment tool that streamlines hiring with candidate summary cards, bias-free scoring, automated resume parsing, and anonymized
 simple: Joinery is an AI recruitment tool that streamlines hiring with candidate summary cards, bias-free scoring, automated resume parsing, and anonymized evaluations to foster diversity.
 example: Give Joinery one real task — a prompt, a file, or a request — and it returns a usable result for your ai research workflow.
 goodFor:

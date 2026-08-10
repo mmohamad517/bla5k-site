@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is NowKnow?
-    a: NowKnow uses AI personas to simulate target audiences, delivering rapid market feedback and visual design testing within minutes. It supports detailed demographic targeting, unlimited studies without recruitment costs, and basic analytics dashboards with optional predictive insights. Marketing 2 2 Subscription - $15/mo That is the core of what NowKnow does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: NowKnow uses AI personas to simulate target audiences, delivering rapid market feedback and visual design testing within minutes. It supports detailed demographic targeting, unlimited studies without recruitment costs, and basic analytics dashboards with optional predictive insights.  That is the core of what NowKnow does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is NowKnow free?
     a: NowKnow is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with NowKnow?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is NowKnow?
 
-NowKnow uses AI personas to simulate target audiences, delivering rapid market feedback and visual design testing within minutes. It supports detailed demographic targeting, unlimited studies without recruitment costs, and basic analytics dashboards with optional predictive insights. Marketing 2 2 Subscription - $15/mo
-
-In short, NowKnow is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+NowKnow uses AI personas to simulate target audiences, delivering rapid market feedback and visual design testing within minutes. It supports detailed demographic targeting, unlimited studies without recruitment costs, and basic analytics dashboards with optional predictive insights. In short, NowKnow is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

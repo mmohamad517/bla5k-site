@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: SpeakBrightly - AI Tool Review & Guide 2026
-metaDescription: SpeakBrightly is an AI tool that helps users overcome speaking anxiety and improve public speaking skills through personalized practice, constructive...
+metaDescription: SpeakBrightly is an AI tool that helps users overcome speaking anxiety and improve public speaking skills through personalized practice, constructive
 simple: SpeakBrightly is an AI tool that helps users overcome speaking anxiety and improve public speaking skills through personalized practice, constructive feedback, and progress tracking.
 example: Give SpeakBrightly one real task — a prompt, a file, or a request — and it returns a usable result for your ai coaching workflow.
 goodFor:

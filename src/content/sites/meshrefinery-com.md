@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-07
 metaTitle: Meshrefinery - AI 3D Tool Review & Guide 2026
-metaDescription: meshrefinery.com is a browser-based 3D model repair and conversion tool that runs locally via WebAssembly, fixing open edges and non-manifold geometry to...
+metaDescription: meshrefinery.com is a browser-based 3D model repair and conversion tool that runs locally via WebAssembly, fixing open edges and non-manifold geometry to
 simple: "meshrefinery.com is a browser-based 3D model repair and conversion tool that runs locally via WebAssembly, fixing open edges and non-manifold geometry to produce watertight, slicer-ready meshes while keeping files on your device."
 example: "Upload a messy or broken 3D mesh and Meshrefinery repairs it into a clean, watertight model you can send straight to a slicer or game engine."
 goodFor:

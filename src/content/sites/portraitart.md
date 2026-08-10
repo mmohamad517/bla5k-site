@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PortraitArt?
-    a: PortraitArt converts uploaded photos into custom coloring pages and diverse styles—oil, watercolor, sketch, cartoon, pop art, etc. It supports portraits, groups, pets, buildings, scenery, preserves composition, previews before download, and deletes images afterward. Coloring Pages 1 0 Paid - $7.99 That is the core of what PortraitArt does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: PortraitArt converts uploaded photos into custom coloring pages and diverse styles—oil, watercolor, sketch, cartoon, pop art, etc. It supports portraits, groups, pets, buildings, scenery, preserves composition, previews before download, and deletes images afterward.  That is the core of what PortraitArt does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is PortraitArt free?
     a: PortraitArt is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with PortraitArt?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is PortraitArt?
 
-PortraitArt converts uploaded photos into custom coloring pages and diverse styles—oil, watercolor, sketch, cartoon, pop art, etc. It supports portraits, groups, pets, buildings, scenery, preserves composition, previews before download, and deletes images afterward. Coloring Pages 1 0 Paid - $7.99
-
-In short, PortraitArt is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+PortraitArt converts uploaded photos into custom coloring pages and diverse styles—oil, watercolor, sketch, cartoon, pop art, etc. It supports portraits, groups, pets, buildings, scenery, preserves composition, previews before download, and deletes images afterward. In short, PortraitArt is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

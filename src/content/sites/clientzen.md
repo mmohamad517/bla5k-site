@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ClientZen?
-    a: ClientZen aggregates customer feedback from tickets and reviews, analyzing it to surface spikes and recurring issues. It delivers instant contextual answers via Mantra AI and generates VoC reports, integrating with Zendesk for a unified customer journey view. Customer support 1 0 Freemium - $240/mo That is the core of what ClientZen does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ClientZen aggregates customer feedback from tickets and reviews, analyzing it to surface spikes and recurring issues. It delivers instant contextual answers via Mantra AI and generates VoC reports, integrating with Zendesk for a unified customer journey view.  That is the core of what ClientZen does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ClientZen free?
     a: ClientZen uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $240/mo, check the official website — pricing changes often.
   - q: What can you do with ClientZen?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is ClientZen?
 
-ClientZen aggregates customer feedback from tickets and reviews, analyzing it to surface spikes and recurring issues. It delivers instant contextual answers via Mantra AI and generates VoC reports, integrating with Zendesk for a unified customer journey view. Customer support 1 0 Freemium - $240/mo
-
-In short, ClientZen is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+ClientZen aggregates customer feedback from tickets and reviews, analyzing it to surface spikes and recurring issues. It delivers instant contextual answers via Mantra AI and generates VoC reports, integrating with Zendesk for a unified customer journey view. In short, ClientZen is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

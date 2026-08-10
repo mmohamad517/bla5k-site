@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Bolt AI Dev?
-    a: BoltAI.dev is a no-code platform for web UI development, offering a drag-and-drop interface and AI-driven tools for prototyping. It enables rapid iteration, testing, and provides customizable frameworks with built-in data privacy controls. App Builder 3 2 Free That is the core of what Bolt AI Dev does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: BoltAI.dev is a no-code platform for web UI development, offering a drag-and-drop interface and AI-driven tools for prototyping. It enables rapid iteration, testing, and provides customizable frameworks with built-in data privacy controls.  That is the core of what Bolt AI Dev does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Bolt AI Dev free?
     a: Yes — Bolt AI Dev is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Bolt AI Dev?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Bolt AI Dev?
 
-BoltAI.dev is a no-code platform for web UI development, offering a drag-and-drop interface and AI-driven tools for prototyping. It enables rapid iteration, testing, and provides customizable frameworks with built-in data privacy controls. App Builder 3 2 Free
-
-In short, Bolt AI Dev is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+BoltAI.dev is a no-code platform for web UI development, offering a drag-and-drop interface and AI-driven tools for prototyping. It enables rapid iteration, testing, and provides customizable frameworks with built-in data privacy controls. In short, Bolt AI Dev is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

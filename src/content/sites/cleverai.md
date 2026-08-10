@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: CleverAI - AI Tool Review & Guide 2026
-metaDescription: CleverAI is an all‑in‑one multimodal AI platform offering chat, image generation, video editing, PDF extraction/summarization/Q&A, smart search, mindmaps...
+metaDescription: CleverAI is an all‑in‑one multimodal AI platform offering chat, image generation, video editing, PDF extraction/summarization/Q&A, smart search, mindmaps and
 simple: CleverAI is an all‑in‑one multimodal AI platform offering chat, image generation, video editing, PDF extraction/summarization/Q&A, smart search, mindmaps and workflow automation, with APIs, multilingual support (100+ languages), model selection, low latency and consent-based data handling.
 example: Give CleverAI one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

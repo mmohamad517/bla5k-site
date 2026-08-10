@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Thundr - AI Tool Review & Guide 2026
-metaDescription: Thundr is a random video chat app that instantly connects users for one-on-one video or text conversations, with interest and location filters, customizable...
+metaDescription: Thundr is a random video chat app that instantly connects users for one-on-one video or text conversations, with interest and location filters, customizable
 simple: Thundr is a random video chat app that instantly connects users for one-on-one video or text conversations, with interest and location filters, customizable privacy and interface settings, moderation tools, and boost options for targeted matches.
 example: Give Thundr one real task — a prompt, a file, or a request — and it returns a usable result for your conversational ai workflow.
 goodFor:

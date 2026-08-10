@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Lunchbreak AI - AI Tool Review & Guide 2026
-metaDescription: Lunchbreak AI scans documents with Turnitin, GPTZero and other detectors, highlights AI‑flagged sections, and offers one‑click rewriting that preserves...
+metaDescription: Lunchbreak AI scans documents with Turnitin, GPTZero and other detectors, highlights AI‑flagged sections, and offers one‑click rewriting that preserves
 simple: Lunchbreak AI scans documents with Turnitin, GPTZero and other detectors, highlights AI‑flagged sections, and offers one‑click rewriting that preserves meaning and voice.
 example: Give Lunchbreak AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai content detection workflow.
 goodFor:

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Firebender - AI Tool Review & Guide 2026
-metaDescription: Firebender is an Android Studio AI agent that auto‑generates feature code, applies fixes with refactoring, debugger, and Logcat, and converts Figma designs...
+metaDescription: Firebender is an Android Studio AI agent that auto‑generates feature code, applies fixes with refactoring, debugger, and Logcat, and converts Figma designs
 simple: Firebender is an Android Studio AI agent that auto‑generates feature code, applies fixes with refactoring, debugger, and Logcat, and converts Figma designs to Jetpack Compose.
 example: Give Firebender one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

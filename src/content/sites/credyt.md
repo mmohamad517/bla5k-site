@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Credyt - AI Tool Review & Guide 2026
-metaDescription: Credyt is a wallet-native real-time billing engine for AI products that applies usage-based, event- and dimensional pricing, records token-level fees,...
+metaDescription: Credyt is a wallet-native real-time billing engine for AI products that applies usage-based, event- and dimensional pricing, records token-level fees
 simple: Credyt is a wallet-native real-time billing engine for AI products that applies usage-based, event- and dimensional pricing, records token-level fees, manages multi-asset balances with auto top-ups, and provides APIs and dashboards for live billing, reconciliation, and profitability tracking.
 example: Give Credyt one real task — a prompt, a file, or a request — and it returns a usable result for your ai management workflow.
 goodFor:

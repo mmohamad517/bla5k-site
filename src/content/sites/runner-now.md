@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Runner.now - AI Tool Review & Guide 2026
-metaDescription: Runner is an AI assistant that seamlessly integrates with your existing tools—Gmail, Slack, Notion—to automate workflows, executing tasks like drafting...
+metaDescription: Runner is an AI assistant that seamlessly integrates with your existing tools—Gmail, Slack, Notion—to automate workflows, executing tasks like drafting
 simple: "Runner is an AI assistant that seamlessly integrates with your existing tools—Gmail, Slack, Notion—to automate workflows, executing tasks like drafting emails and prepping meetings, saving you time and effort."
 example: "Give Runner.now one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MixHub AI?
-    a: MixHub AI is a versatile platform for content creation, offering text-to-video, image-to-video, and video style transfer capabilities. With over 150 effects and cloud-based processing, it enables fast and high-quality video production across devices. Content creation 1 0 Freemium That is the core of what MixHub AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: MixHub AI is a versatile platform for content creation, offering text-to-video, image-to-video, and video style transfer capabilities. With over 150 effects and cloud-based processing, it enables fast and high-quality video production across devices.  That is the core of what MixHub AI does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MixHub AI free?
     a: MixHub AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with MixHub AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is MixHub AI?
 
-MixHub AI is a versatile platform for content creation, offering text-to-video, image-to-video, and video style transfer capabilities. With over 150 effects and cloud-based processing, it enables fast and high-quality video production across devices. Content creation 1 0 Freemium
-
-In short, MixHub AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+MixHub AI is a versatile platform for content creation, offering text-to-video, image-to-video, and video style transfer capabilities. With over 150 effects and cloud-based processing, it enables fast and high-quality video production across devices. In short, MixHub AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

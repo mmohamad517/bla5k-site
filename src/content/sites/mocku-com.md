@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-07
 metaTitle: mocku.com - AI 3D Tool Review & Guide 2026
-metaDescription: Mocku is a mockup generator for products, devices, apparel and packaging that converts uploads into ready-to-use visuals using templates, style presets and...
+metaDescription: Mocku is a mockup generator for products, devices, apparel and packaging that converts uploads into ready-to-use visuals using templates, style presets and
 simple: "Mocku is a mockup generator for products, devices, apparel and packaging that converts uploads into ready-to-use visuals using templates, style presets and AI tools (2D→3D, camera-angle, photoshoot, headshots), plus editing and variant management."
 example: "Upload a single photo or reference image and mocku.com generates a usable 3D model you can export for games, VR, or visualization work."
 goodFor:

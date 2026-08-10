@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Dr. FeelGood?
-    a: Dr. FeelGood is a 24/7 AI coach that tracks a single project, delivering daily check‑ins, reminders, and personalized encouragement based on a user’s personality. It helps reduce procrastination, sustain momentum, and record milestones for efficient completion. Coaching 1 0 Free That is the core of what Dr. FeelGood does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Dr. FeelGood is a 24/7 AI coach that tracks a single project, delivering daily check‑ins, reminders, and personalized encouragement based on a user’s personality. It helps reduce procrastination, sustain momentum, and record milestones for efficient completion.  That is the core of what Dr. FeelGood does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Dr. FeelGood free?
     a: Yes — Dr. FeelGood is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Dr. FeelGood?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Dr. FeelGood?
 
-Dr. FeelGood is a 24/7 AI coach that tracks a single project, delivering daily check‑ins, reminders, and personalized encouragement based on a user’s personality. It helps reduce procrastination, sustain momentum, and record milestones for efficient completion. Coaching 1 0 Free
-
-In short, Dr. FeelGood is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Dr. FeelGood is a 24/7 AI coach that tracks a single project, delivering daily check‑ins, reminders, and personalized encouragement based on a user’s personality. It helps reduce procrastination, sustain momentum, and record milestones for efficient completion. In short, Dr. FeelGood is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

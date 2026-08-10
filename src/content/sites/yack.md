@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Yack - AI Tool Review & Guide 2026
-metaDescription: Yack is an AI tool designed for Apple Silicon models from 2020 onwards with markdown support, multiple themes, keyboard-first design, and upcoming features...
+metaDescription: Yack is an AI tool designed for Apple Silicon models from 2020 onwards with markdown support, multiple themes, keyboard-first design, and upcoming features
 simple: Yack is an AI tool designed for Apple Silicon models from 2020 onwards with markdown support, multiple themes, keyboard-first design, and upcoming features such as cross-app integration, prompt completion, and search functionality.
 example: Give Yack one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

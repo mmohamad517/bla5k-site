@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Xdge AI - AI Tool Review & Guide 2026
-metaDescription: Xdge offers AI agents, enterprise search and automated workflows across Slack, Gmail, Jira, Notion and meetings—providing transcription, summaries,...
+metaDescription: Xdge offers AI agents, enterprise search and automated workflows across Slack, Gmail, Jira, Notion and meetings—providing transcription, summaries
 simple: Xdge offers AI agents, enterprise search and automated workflows across Slack, Gmail, Jira, Notion and meetings—providing transcription, summaries, in-context browser/Slack assistance, indexed content connectors, playbook management, and compliance-ready audit trails.
 example: Give Xdge AI one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it.
 goodFor:

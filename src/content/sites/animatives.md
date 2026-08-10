@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-07
 metaTitle: Animatives - AI 3D Tool Review & Guide 2026
-metaDescription: Animatives lets iPhone/iPad users create stop‑motion, timelapse, and mixed‑media videos with frame‑by‑frame control, combining photos, drawings, virtual...
+metaDescription: Animatives lets iPhone/iPad users create stop‑motion, timelapse, and mixed‑media videos with frame‑by‑frame control, combining photos, drawings, virtual
 simple: "Animatives lets iPhone/iPad users create stop‑motion, timelapse, and mixed‑media videos with frame‑by‑frame control, combining photos, drawings, virtual objects, and audio."
 example: "Record a short video of an object with your phone and Animatives turns it into a usable 3D model you can rotate, export, and drop into your project."
 goodFor:

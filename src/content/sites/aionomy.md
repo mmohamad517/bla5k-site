@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Aionomy - AI Tool Review & Guide 2026
-metaDescription: Aionomy delivers rapid contract staffing and recruitment services, connecting businesses with qualified candidates across digital media, technology, and...
+metaDescription: Aionomy delivers rapid contract staffing and recruitment services, connecting businesses with qualified candidates across digital media, technology, and
 simple: Aionomy delivers rapid contract staffing and recruitment services, connecting businesses with qualified candidates across digital media, technology, and other sectors.
 example: Give Aionomy one real task — a prompt, a file, or a request — and it returns a usable result for your ai marketing workflow.
 goodFor:

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Careers AI?
-    a: Careers is an AI hiring assistant that auto‑generates job profiles, interview questions, and skill assessments. It streamlines recruitment by producing detailed job descriptions and custom evaluation exercises instantly, exportable as TXT, JSON, or PDF. Human resources 2 0 Freemium That is the core of what Careers AI does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Careers is an AI hiring assistant that auto‑generates job profiles, interview questions, and skill assessments. It streamlines recruitment by producing detailed job descriptions and custom evaluation exercises instantly, exportable as TXT, JSON, or PDF.  That is the core of what Careers AI does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Careers AI free?
     a: Careers AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Careers AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Careers AI?
 
-Careers is an AI hiring assistant that auto‑generates job profiles, interview questions, and skill assessments. It streamlines recruitment by producing detailed job descriptions and custom evaluation exercises instantly, exportable as TXT, JSON, or PDF. Human resources 2 0 Freemium
-
-In short, Careers AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Careers is an AI hiring assistant that auto‑generates job profiles, interview questions, and skill assessments. It streamlines recruitment by producing detailed job descriptions and custom evaluation exercises instantly, exportable as TXT, JSON, or PDF. In short, Careers AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: merge.dev - AI Tool Review & Guide 2026
-metaDescription: "merge.devis a get touch: an AI chatbot and conversational platform that automates lead generation and customer support across web chat, SMS, and social..."
+metaDescription: "merge.devis a get touch: an AI chatbot and conversational platform that automates lead generation and customer support across web chat, SMS, and social"
 simple: "merge.devis a get touch: an AI chatbot and conversational platform that automates lead generation and customer support across web chat, SMS, and social channels, with built-in CRM syncing and analytics for sales and marketing teams."
 example: Give merge.dev one real task — a prompt, a file, or a request — and it returns a usable result for your conversational ai workflow.
 goodFor:

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: SuperAPI.ai - AI Tool Review & Guide 2026
-metaDescription: SuperAPI.ai is a digital sales analyst for public sector and enterprise sales that continuously monitors hundreds of public sources to surface tender...
+metaDescription: SuperAPI.ai is a digital sales analyst for public sector and enterprise sales that continuously monitors hundreds of public sources to surface tender
 simple: SuperAPI.ai is a digital sales analyst for public sector and enterprise sales that continuously monitors hundreds of public sources to surface tender opportunities, procurement signals, and personnel changes.
 example: Give SuperAPI.ai one real task — a prompt, a file, or a request — and it returns a usable result for your ai sales workflow.
 goodFor:

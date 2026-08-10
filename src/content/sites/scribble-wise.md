@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Scribble Wise - AI Tool Review & Guide 2026
-metaDescription: Scribblewise is an AI essay grading platform that learns a teacher’s rubric, automates scoring and feedback, and integrates with LMS like Canvas for direct...
+metaDescription: Scribblewise is an AI essay grading platform that learns a teacher’s rubric, automates scoring and feedback, and integrates with LMS like Canvas for direct
 simple: "Scribblewise is an AI essay grading platform that learns a teacher’s rubric, automates scoring and feedback, and integrates with LMS like Canvas for direct submissions."
 example: "Give Scribble Wise one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

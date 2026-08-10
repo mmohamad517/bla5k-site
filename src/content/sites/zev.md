@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Zev - AI Tool Review & Guide 2026
-metaDescription: Zev is an AI chatbot on Telegram, Line, and Viber that can assist with answering questions, providing recommendations, language translation, and using...
+metaDescription: Zev is an AI chatbot on Telegram, Line, and Viber that can assist with answering questions, providing recommendations, language translation, and using
 simple: Zev is an AI chatbot on Telegram, Line, and Viber that can assist with answering questions, providing recommendations, language translation, and using different personas.
 example: Give Zev one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

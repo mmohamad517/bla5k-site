@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Press ranger - AI Tool Review & Guide 2026
-metaDescription: Press Ranger centralizes PR workflows, letting users draft and distribute press releases, pitch personalized emails, and target journalists and publishers...
+metaDescription: Press Ranger centralizes PR workflows, letting users draft and distribute press releases, pitch personalized emails, and target journalists and publishers
 simple: Press Ranger centralizes PR workflows, letting users draft and distribute press releases, pitch personalized emails, and target journalists and publishers via a database of 500,000+ contacts.
 example: Give Press ranger one real task — a prompt, a file, or a request — and it returns a usable result for your ai marketing workflow.
 goodFor:

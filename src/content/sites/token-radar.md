@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Token Radar - AI Tool Review & Guide 2026
-metaDescription: Token Radar is a crypto analytics platform that enables investors to identify top-performing tokens and market trends through a real-time dashboard, social...
+metaDescription: Token Radar is a crypto analytics platform that enables investors to identify top-performing tokens and market trends through a real-time dashboard, social
 simple: Token Radar is a crypto analytics platform that enables investors to identify top-performing tokens and market trends through a real-time dashboard, social sentiment analysis, performance comparisons, and advanced filtering options.
 example: Give Token Radar one real task — a prompt, a file, or a request — and it returns a usable result for your web3 and ai agents workflow.
 goodFor:

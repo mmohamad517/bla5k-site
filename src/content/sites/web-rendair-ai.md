@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-07
 metaTitle: Rendair - AI 3D Tool Review & Guide 2026
-metaDescription: Rendair AI converts sketches, 2D plans and 3D models (SketchUp, Rhino, Revit, ArchiCAD, Blender, AutoCAD) into photorealistic renders and animations, with...
+metaDescription: Rendair AI converts sketches, 2D plans and 3D models (SketchUp, Rhino, Revit, ArchiCAD, Blender, AutoCAD) into photorealistic renders and animations, with
 simple: "Rendair AI converts sketches, 2D plans and 3D models (SketchUp, Rhino, Revit, ArchiCAD, Blender, AutoCAD) into photorealistic renders and animations, with natural-language editing, material/lighting adjustments, variation generation, upscaling and collaboration tools."
 example: "Upload a single photo or reference image and Rendair generates a usable 3D model you can export for games, VR, or visualization work."
 goodFor:

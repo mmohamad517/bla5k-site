@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Adsgency ai mvp?
-    a: AdsGency AI centralizes ad creation, targeting, automation, and analytics across Google, Facebook, and Instagram. It builds 360° audience profiles, auto‑generates tailored copy and visuals, and offers real‑time performance tracking for quick budget and creative adjustments. Marketing 0 1 Paid - $79 That is the core of what Adsgency ai mvp does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AdsGency AI centralizes ad creation, targeting, automation, and analytics across Google, Facebook, and Instagram. It builds 360° audience profiles, auto‑generates tailored copy and visuals, and offers real‑time performance tracking for quick budget and creative adjustments.  That is the core of what Adsgency ai mvp does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Adsgency ai mvp free?
     a: Adsgency ai mvp is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Adsgency ai mvp?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Adsgency ai mvp?
 
-AdsGency AI centralizes ad creation, targeting, automation, and analytics across Google, Facebook, and Instagram. It builds 360° audience profiles, auto‑generates tailored copy and visuals, and offers real‑time performance tracking for quick budget and creative adjustments. Marketing 0 1 Paid - $79
-
-In short, Adsgency ai mvp is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+AdsGency AI centralizes ad creation, targeting, automation, and analytics across Google, Facebook, and Instagram. It builds 360° audience profiles, auto‑generates tailored copy and visuals, and offers real‑time performance tracking for quick budget and creative adjustments. In short, Adsgency ai mvp is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

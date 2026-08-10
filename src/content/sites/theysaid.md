@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: TheySaid - AI Tool Review & Guide 2026
-metaDescription: TheySay is an AI-driven survey platform that enhances engagement and feedback accuracy through conversational methods, personalized questions, and an...
+metaDescription: TheySay is an AI-driven survey platform that enhances engagement and feedback accuracy through conversational methods, personalized questions, and an
 simple: TheySay is an AI-driven survey platform that enhances engagement and feedback accuracy through conversational methods, personalized questions, and an automated chatbot, enabling organizations to gather deeper insights and improve customer experience.
 example: Give TheySaid one real task — a prompt, a file, or a request — and it returns a usable result for your ai customer support workflow.
 goodFor:

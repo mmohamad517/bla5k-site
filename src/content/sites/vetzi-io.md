@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Vetzi.io - AI Tool Review & Guide 2026
-metaDescription: AI Vet Scribe converts visit recordings and notes into structured SOAP clinical records, client emails, and discharge instructions using customizable...
+metaDescription: AI Vet Scribe converts visit recordings and notes into structured SOAP clinical records, client emails, and discharge instructions using customizable
 simple: AI Vet Scribe converts visit recordings and notes into structured SOAP clinical records, client emails, and discharge instructions using customizable templates, integrations, and secure, searchable storage to streamline documentation, collaboration, billing, and compliance for veterinary practices.
 example: Give Vetzi.io one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it.
 goodFor:

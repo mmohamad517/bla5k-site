@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Devath - AI Tool Review & Guide 2026
-metaDescription: Devath is an AI‑driven SmartHome platform that lets developers publish no‑code device apps, automatically handling Bluetooth, data transmission, and UI...
+metaDescription: Devath is an AI‑driven SmartHome platform that lets developers publish no‑code device apps, automatically handling Bluetooth, data transmission, and UI
 simple: Devath is an AI‑driven SmartHome platform that lets developers publish no‑code device apps, automatically handling Bluetooth, data transmission, and UI layouts for desktop and mobile.
 example: Give Devath one real task — a prompt, a file, or a request — and it returns a usable result for your no-code building workflow.
 goodFor:

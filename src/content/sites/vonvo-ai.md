@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Vonvo.ai?
-    a: Vonvo.ai is an enterprise AI sales training platform that uses configurable AI personas for roleplay and call analysis in 25+ languages. It integrates with major CRM and sales tools, offering secure, scalable training for onboarding, coaching, and deal preparation across global teams. Sales 3 2 Freemium - $49/mo That is the core of what Vonvo.ai does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Vonvo.ai is an enterprise AI sales training platform that uses configurable AI personas for roleplay and call analysis in 25+ languages. It integrates with major CRM and sales tools, offering secure, scalable training for onboarding, coaching, and deal preparation across global teams.  That is the core of what Vonvo.ai does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Vonvo.ai free?
     a: Vonvo.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $49/mo, check the official website — pricing changes often.
   - q: What can you do with Vonvo.ai?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Vonvo.ai?
 
-Vonvo.ai is an enterprise AI sales training platform that uses configurable AI personas for roleplay and call analysis in 25+ languages. It integrates with major CRM and sales tools, offering secure, scalable training for onboarding, coaching, and deal preparation across global teams. Sales 3 2 Freemium - $49/mo
-
-In short, Vonvo.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Vonvo.ai is an enterprise AI sales training platform that uses configurable AI personas for roleplay and call analysis in 25+ languages. It integrates with major CRM and sales tools, offering secure, scalable training for onboarding, coaching, and deal preparation across global teams. In short, Vonvo.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

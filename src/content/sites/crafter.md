@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Crafter?
-    a: Crafter auto‑generates Jira tickets from PDFs and other documents, extracting key data to create actionable tasks. It provides real‑time project insights, predicts bottlenecks, prioritizes work, and streams updates to Slack, keeping teams aligned. Project management 1 0 Freemium - $9.99 That is the core of what Crafter does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Crafter auto‑generates Jira tickets from PDFs and other documents, extracting key data to create actionable tasks. It provides real‑time project insights, predicts bottlenecks, prioritizes work, and streams updates to Slack, keeping teams aligned.  That is the core of what Crafter does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Crafter free?
     a: Crafter uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9.99, check the official website — pricing changes often.
   - q: What can you do with Crafter?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Crafter?
 
-Crafter auto‑generates Jira tickets from PDFs and other documents, extracting key data to create actionable tasks. It provides real‑time project insights, predicts bottlenecks, prioritizes work, and streams updates to Slack, keeping teams aligned. Project management 1 0 Freemium - $9.99
-
-In short, Crafter is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Crafter auto‑generates Jira tickets from PDFs and other documents, extracting key data to create actionable tasks. It provides real‑time project insights, predicts bottlenecks, prioritizes work, and streams updates to Slack, keeping teams aligned. In short, Crafter is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

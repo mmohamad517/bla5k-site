@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Crono - AI Tool Review & Guide 2026
-metaDescription: Crono is a sales automation platform for B2B teams, enabling task automation, centralized data management, advanced analytics, and AI-driven lead generation...
+metaDescription: Crono is a sales automation platform for B2B teams, enabling task automation, centralized data management, advanced analytics, and AI-driven lead generation
 simple: Crono is a sales automation platform for B2B teams, enabling task automation, centralized data management, advanced analytics, and AI-driven lead generation to enhance productivity and streamline sales processes.
 example: Give Crono one real task — a prompt, a file, or a request — and it returns a usable result for your ai sales workflow.
 goodFor:

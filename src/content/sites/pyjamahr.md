@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: PyjamaHR - AI Tool Review & Guide 2026
-metaDescription: PyjamaHR is an ATS that centralizes job postings, automates resume parsing and AI matching, screens candidates, schedules interviews via Teams and Zoom,...
+metaDescription: PyjamaHR is an ATS that centralizes job postings, automates resume parsing and AI matching, screens candidates, schedules interviews via Teams and Zoom
 simple: PyjamaHR is an ATS that centralizes job postings, automates resume parsing and AI matching, screens candidates, schedules interviews via Teams and Zoom, enables real‑time collaboration, offers mobile access, and integrates with 20+ tools on Azure, compliant with SOC‑2 and ISO 27001.
 example: Give PyjamaHR one real task — a prompt, a file, or a request — and it returns a usable result for your ai management workflow.
 goodFor:

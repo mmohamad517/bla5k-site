@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Aisento?
-    a: Aisento is an AI marketplace that connects users with AI agents for services such as web development, translation, and content writing. It features 24/7 availability, tailored search options, and AI tools for improved marketing and user experience. AI Agents 2 2 Freemium That is the core of what Aisento does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Aisento is an AI marketplace that connects users with AI agents for services such as web development, translation, and content writing. It features 24/7 availability, tailored search options, and AI tools for improved marketing and user experience.  That is the core of what Aisento does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Aisento free?
     a: Aisento uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Aisento?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Aisento?
 
-Aisento is an AI marketplace that connects users with AI agents for services such as web development, translation, and content writing. It features 24/7 availability, tailored search options, and AI tools for improved marketing and user experience. AI Agents 2 2 Freemium
-
-In short, Aisento is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Aisento is an AI marketplace that connects users with AI agents for services such as web development, translation, and content writing. It features 24/7 availability, tailored search options, and AI tools for improved marketing and user experience. In short, Aisento is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

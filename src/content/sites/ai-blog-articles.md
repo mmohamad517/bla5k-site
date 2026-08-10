@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: AI Blog Articles - AI Tool Review & Guide 2026
-metaDescription: "AI Blog Articles creates SEO-optimized blog posts from a topic in two steps: instant keyword list and editable outline, then one-click generation of fully..."
+metaDescription: "AI Blog Articles creates SEO-optimized blog posts from a topic in two steps: instant keyword list and editable outline, then one-click generation of fully"
 simple: "AI Blog Articles creates SEO-optimized blog posts from a topic in two steps: instant keyword list and editable outline, then one-click generation of fully formatted articles (meta, headings, lists, tables) with rich-text/Markdown editing and HTML/.md export."
 example: Give AI Blog Articles one real task — a prompt, a file, or a request — and it returns a usable result for your ai writing workflow.
 goodFor:

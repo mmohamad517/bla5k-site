@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Image3D AI - AI Tool Review & Guide 2026
-metaDescription: Image3D AI converts 2D images, including PNG, JPEG and WEBP, into editable 3D models (STL, OBJ, GLB) via single-image or multi-view reconstruction, with...
+metaDescription: Image3D AI converts 2D images, including PNG, JPEG and WEBP, into editable 3D models (STL, OBJ, GLB) via single-image or multi-view reconstruction, with
 simple: Image3D AI converts 2D images, including PNG, JPEG and WEBP, into editable 3D models (STL, OBJ, GLB) via single-image or multi-view reconstruction, with Normal/Low‑Poly/Geometry modes and optional PBR texturing for printing, AR, prototyping and game assets.
 example: Give Image3D AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai work workflow.
 goodFor:

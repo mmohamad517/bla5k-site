@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-07
 metaTitle: Vendra Marketplace - AI 3D Tool Review & Guide 2026
-metaDescription: Vendra Marketplace connects engineers and procurement with vetted US manufacturers for custom parts, offering CAD uploads, automated manufacturability...
+metaDescription: Vendra Marketplace connects engineers and procurement with vetted US manufacturers for custom parts, offering CAD uploads, automated manufacturability
 simple: "Vendra Marketplace connects engineers and procurement with vetted US manufacturers for custom parts, offering CAD uploads, automated manufacturability feedback, RFQs, shop matching, quote management, finishing/inspection coordination, and secure, compliant file handling for regulated industries."
 example: "Give Vendra Marketplace your source material — a prompt, an image, or a model file — and it returns a usable 3D result for your workflow."
 goodFor:

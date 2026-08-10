@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is NullClaw?
-    a: NullClaw is a compact, low-latency AI assistant infrastructure built in Zig. It enables developers to embed, orchestrate, and centrally manage autonomous agents within DevOps workflows and toolchains. AI Agents 2 0 1 Free That is the core of what NullClaw does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: NullClaw is a compact, low-latency AI assistant infrastructure built in Zig. It enables developers to embed, orchestrate, and centrally manage autonomous agents within DevOps workflows and toolchains.  That is the core of what NullClaw does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is NullClaw free?
     a: Yes — NullClaw is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with NullClaw?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is NullClaw?
 
-NullClaw is a compact, low-latency AI assistant infrastructure built in Zig. It enables developers to embed, orchestrate, and centrally manage autonomous agents within DevOps workflows and toolchains. AI Agents 2 0 1 Free
-
-In short, NullClaw is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+NullClaw is a compact, low-latency AI assistant infrastructure built in Zig. It enables developers to embed, orchestrate, and centrally manage autonomous agents within DevOps workflows and toolchains. In short, NullClaw is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

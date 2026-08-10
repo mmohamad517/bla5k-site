@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: netradyne.com - AI Tool Review & Guide 2026
-metaDescription: Driver•i is an AI-driven video telematics system that records forward and inward cameras, monitors driver drowsiness and distraction with DMS and audio...
+metaDescription: Driver•i is an AI-driven video telematics system that records forward and inward cameras, monitors driver drowsiness and distraction with DMS and audio
 simple: Driver•i is an AI-driven video telematics system that records forward and inward cameras, monitors driver drowsiness and distraction with DMS and audio alerts, provides GPS/cloud video access, automated coaching workflows, scoring and fleet integrations for safety, compliance, and review.
 example: Give netradyne.com one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it.
 goodFor:

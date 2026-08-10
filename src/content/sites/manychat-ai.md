@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Manychat AI - AI Tool Review & Guide 2026
-metaDescription: ManyChat is a multi-channel chatbot and messaging automation platform (Messenger, Instagram, WhatsApp, SMS, email) offering a visual flow builder, audience...
+metaDescription: ManyChat is a multi-channel chatbot and messaging automation platform (Messenger, Instagram, WhatsApp, SMS, email) offering a visual flow builder, audience
 simple: ManyChat is a multi-channel chatbot and messaging automation platform (Messenger, Instagram, WhatsApp, SMS, email) offering a visual flow builder, audience segmentation, integrations (Shopify, Zapier, CRMs, payments), analytics and APIs to automate customer interactions and lead workflows.
 example: Give Manychat AI one real task — a prompt, a file, or a request — and it returns a usable result for your no-code building workflow.
 goodFor:

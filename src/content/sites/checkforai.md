@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CheckforAi?
-    a: Checkforai is an AI tool that detects AI-generated content in written text, ensuring authenticity and helping prevent plagiarism and search engine penalization. AI detection 0 1 Free That is the core of what CheckforAi does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Checkforai is an AI tool that detects AI-generated content in written text, ensuring authenticity and helping prevent plagiarism and search engine penalization.  That is the core of what CheckforAi does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CheckforAi free?
     a: Yes — CheckforAi is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with CheckforAi?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is CheckforAi?
 
-Checkforai is an AI tool that detects AI-generated content in written text, ensuring authenticity and helping prevent plagiarism and search engine penalization. AI detection 0 1 Free
-
-In short, CheckforAi is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Checkforai is an AI tool that detects AI-generated content in written text, ensuring authenticity and helping prevent plagiarism and search engine penalization. In short, CheckforAi is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Wanuai - AI Tool Review & Guide 2026
-metaDescription: WanuAI is a content generation platform combining AI chat, image and code generation, SEO and metadata tools, 72+ templates, multilingual plagiarism-free...
+metaDescription: WanuAI is a content generation platform combining AI chat, image and code generation, SEO and metadata tools, 72+ templates, multilingual plagiarism-free
 simple: WanuAI is a content generation platform combining AI chat, image and code generation, SEO and metadata tools, 72+ templates, multilingual plagiarism-free outputs, export integrations, and analytics to scale content production and standardize messaging.
 example: Give Wanuai one real task — a prompt, a file, or a request — and it returns a usable result for your content creation workflow.
 goodFor:

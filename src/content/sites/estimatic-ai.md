@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Estimatic AI?
-    a: Estimatic AI is a construction estimating tool that generates detailed project quotes using live supplier pricing and labor rates. It streamlines workflows by automating takeoffs from uploaded plans and managing invoicing, scheduling, and client agreements. AI Assistant 1 3 Freemium - $49/mo That is the core of what Estimatic AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Estimatic AI is a construction estimating tool that generates detailed project quotes using live supplier pricing and labor rates. It streamlines workflows by automating takeoffs from uploaded plans and managing invoicing, scheduling, and client agreements.  That is the core of what Estimatic AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Estimatic AI free?
     a: Estimatic AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $49/mo, check the official website — pricing changes often.
   - q: What can you do with Estimatic AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Estimatic AI?
 
-Estimatic AI is a construction estimating tool that generates detailed project quotes using live supplier pricing and labor rates. It streamlines workflows by automating takeoffs from uploaded plans and managing invoicing, scheduling, and client agreements. AI Assistant 1 3 Freemium - $49/mo
-
-In short, Estimatic AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Estimatic AI is a construction estimating tool that generates detailed project quotes using live supplier pricing and labor rates. It streamlines workflows by automating takeoffs from uploaded plans and managing invoicing, scheduling, and client agreements. In short, Estimatic AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

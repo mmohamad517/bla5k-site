@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Cosine - AI Tool Review & Guide 2026
-metaDescription: Cosine is an on‑prem or VPC‑hosted AI assistant for software engineering that integrates with GitHub, Jira, Slack, and other tools to draft pull requests,...
+metaDescription: Cosine is an on‑prem or VPC‑hosted AI assistant for software engineering that integrates with GitHub, Jira, Slack, and other tools to draft pull requests
 simple: Cosine is an on‑prem or VPC‑hosted AI assistant for software engineering that integrates with GitHub, Jira, Slack, and other tools to draft pull requests, write tests, detect bugs, and refactor code while enabling developer review and maintaining SOC 2/ISO 27001‑level security.
 example: Give Cosine one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-07
 metaTitle: Alpha3D - AI 3D Tool Review & Guide 2026
-metaDescription: Alpha3D AI 3D Model Generator converts text or 2‑D images into fully textured 3‑D meshes in seconds, producing 4K textures ready for game engines, VR, and...
+metaDescription: Alpha3D AI 3D Model Generator converts text or 2‑D images into fully textured 3‑D meshes in seconds, producing 4K textures ready for game engines, VR, and
 simple: "Alpha3D AI 3D Model Generator converts text or 2‑D images into fully textured 3‑D meshes in seconds, producing 4K textures ready for game engines, VR, and architectural visualizations."
 example: "Describe what you want in a text prompt — or upload a reference image — and Alpha3D returns a finished 3D model you can export to your game engine, slicer, or 3D software."
 goodFor:

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Looti - AI Tool Review & Guide 2026
-metaDescription: Looti AI is a B2B growth tool that offers features such as AI-generated leads, task management, team collaboration, audience discovery, and advanced...
+metaDescription: Looti AI is a B2B growth tool that offers features such as AI-generated leads, task management, team collaboration, audience discovery, and advanced
 simple: Looti AI is a B2B growth tool that offers features such as AI-generated leads, task management, team collaboration, audience discovery, and advanced filtering options, with integrations and super-reactive support.
 example: Give Looti one real task — a prompt, a file, or a request — and it returns a usable result for your ai sales workflow.
 goodFor:

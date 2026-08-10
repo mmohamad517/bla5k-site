@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Jasper Art?
-    a: Jasper AI is a powerful tool that can help you create high-quality images, and other content in just minutes with advanced AI capabilities. Content creation 18 4 Free trial - $39/mo That is the core of what Jasper Art does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Jasper AI is a powerful tool that can help you create high-quality images, and other content in just minutes with advanced AI capabilities.  That is the core of what Jasper Art does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Jasper Art free?
     a: Jasper Art uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $39/mo, check the official website — pricing changes often.
   - q: What can you do with Jasper Art?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Jasper Art?
 
-Jasper AI is a powerful tool that can help you create high-quality images, and other content in just minutes with advanced AI capabilities. Content creation 18 4 Free trial - $39/mo
-
-In short, Jasper Art is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Jasper AI is a powerful tool that can help you create high-quality images, and other content in just minutes with advanced AI capabilities. In short, Jasper Art is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

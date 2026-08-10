@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: AISA.to - AI Tool Review & Guide 2026
-metaDescription: AISA.to is an AI-powered skills assessment tool that delivers a personalized 20-minute evaluation, role-based persona classification, and a verifiable...
+metaDescription: AISA.to is an AI-powered skills assessment tool that delivers a personalized 20-minute evaluation, role-based persona classification, and a verifiable
 simple: AISA.to is an AI-powered skills assessment tool that delivers a personalized 20-minute evaluation, role-based persona classification, and a verifiable certificate.
 example: Give AISA.to one real task — a prompt, a file, or a request — and it returns a usable result for your ai coaching workflow.
 goodFor:

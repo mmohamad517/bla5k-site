@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: zesh.ai - AI Tool Review & Guide 2026
-metaDescription: Zesh AI Layer is a Web3 AI agent platform for KOL discovery, community engagement and campaign optimization, offering predictive influence scoring,...
+metaDescription: Zesh AI Layer is a Web3 AI agent platform for KOL discovery, community engagement and campaign optimization, offering predictive influence scoring
 simple: Zesh AI Layer is a Web3 AI agent platform for KOL discovery, community engagement and campaign optimization, offering predictive influence scoring, Sybil-resistant participant verification, cross-platform analytics, tokenized agent marketplace, wallet/NFT reward integration and APIs.
 example: Give zesh.ai one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it.
 goodFor:

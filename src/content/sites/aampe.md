@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Aampe - AI Tool Review & Guide 2026
-metaDescription: Aampe is an agentic infrastructure for real-time personalization, assigning a dedicated AI agent to each user to run parallel experiments and adapt...
+metaDescription: Aampe is an agentic infrastructure for real-time personalization, assigning a dedicated AI agent to each user to run parallel experiments and adapt messaging
 simple: "Aampe is an agentic infrastructure for real-time personalization, assigning a dedicated AI agent to each user to run parallel experiments and adapt messaging individually."
 example: "Give Aampe one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

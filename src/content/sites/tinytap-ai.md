@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TinyTap AI?
-    a: TinyTap AI automatically creates interactive lessons on any topic, assembling multimedia content, quizzes, and prompts. Teachers can customize lessons instantly, saving research time, and the multilingual beta expands accessibility for diverse classrooms. Course Generator 27 5 Freemium That is the core of what TinyTap AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: TinyTap AI automatically creates interactive lessons on any topic, assembling multimedia content, quizzes, and prompts. Teachers can customize lessons instantly, saving research time, and the multilingual beta expands accessibility for diverse classrooms.  That is the core of what TinyTap AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TinyTap AI free?
     a: TinyTap AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with TinyTap AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is TinyTap AI?
 
-TinyTap AI automatically creates interactive lessons on any topic, assembling multimedia content, quizzes, and prompts. Teachers can customize lessons instantly, saving research time, and the multilingual beta expands accessibility for diverse classrooms. Course Generator 27 5 Freemium
-
-In short, TinyTap AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+TinyTap AI automatically creates interactive lessons on any topic, assembling multimedia content, quizzes, and prompts. Teachers can customize lessons instantly, saving research time, and the multilingual beta expands accessibility for diverse classrooms. In short, TinyTap AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

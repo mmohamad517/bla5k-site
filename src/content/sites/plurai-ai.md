@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Plurai AI - AI Tool Review & Guide 2026
-metaDescription: Simulation-driven platform that evaluates and monitors AI agents across modalities with realistic multi-turn scenarios, CI/CD-integrated automated tests,...
+metaDescription: Simulation-driven platform that evaluates and monitors AI agents across modalities with realistic multi-turn scenarios, CI/CD-integrated automated tests
 simple: "Simulation-driven platform that evaluates and monitors AI agents across modalities with realistic multi-turn scenarios, CI/CD-integrated automated tests, configurable safety/policy guardrails, and analytics for failures, hallucinations, and performance to ensure production readiness."
 example: "Give Plurai AI one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

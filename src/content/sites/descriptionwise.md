@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Descriptionwise?
-    a: Descriptionwise uses AI to generate product descriptions at scale, extracting features from images and data. It offers tone customization, multilingual support, bulk processing of up to 100 items, and analytics to improve catalog content and SEO. Digital Marketing 1 1 Subscription - $250/mo That is the core of what Descriptionwise does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Descriptionwise uses AI to generate product descriptions at scale, extracting features from images and data. It offers tone customization, multilingual support, bulk processing of up to 100 items, and analytics to improve catalog content and SEO.  That is the core of what Descriptionwise does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Descriptionwise free?
     a: Descriptionwise is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Descriptionwise?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Descriptionwise?
 
-Descriptionwise uses AI to generate product descriptions at scale, extracting features from images and data. It offers tone customization, multilingual support, bulk processing of up to 100 items, and analytics to improve catalog content and SEO. Digital Marketing 1 1 Subscription - $250/mo
-
-In short, Descriptionwise is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Descriptionwise uses AI to generate product descriptions at scale, extracting features from images and data. It offers tone customization, multilingual support, bulk processing of up to 100 items, and analytics to improve catalog content and SEO. In short, Descriptionwise is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Reachout.ai - AI Tool Review & Guide 2026
-metaDescription: "Reachout.AI is a personalization platform for automated 1:1 video messaging that helps founders and sales teams break through inbox clutter and drive..."
+metaDescription: Reachout.AI is a personalization platform for automated 1:1 video messaging that helps founders and sales teams break through inbox clutter and drive
 simple: "Reachout.AI is a personalization platform for automated 1:1 video messaging that helps founders and sales teams break through inbox clutter and drive consistent, predictable sales conversations and appointments using A.I."
 example: Give Reachout.ai one real task — a prompt, a file, or a request — and it returns a usable result for your ai sales workflow.
 goodFor:

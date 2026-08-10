@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Compass AI - AI Tool Review & Guide 2026
-metaDescription: Compass AI autonomously routes non-custodial USDC across blockchains and DeFi protocols, executing sub-500ms atomic settlements while rebalancing per...
+metaDescription: Compass AI autonomously routes non-custodial USDC across blockchains and DeFi protocols, executing sub-500ms atomic settlements while rebalancing per
 simple: Compass AI autonomously routes non-custodial USDC across blockchains and DeFi protocols, executing sub-500ms atomic settlements while rebalancing per user-defined risk bands and whitelists.
 example: Give Compass AI one real task — a prompt, a file, or a request — and it returns a usable result for your web3 and ai agents workflow.
 goodFor:

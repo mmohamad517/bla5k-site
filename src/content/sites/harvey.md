@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Harvey?
-    a: Harvey can improve customer support satisfaction by accurately identifying conversation context and offering intelligent suggestions to agents. Personal assistant 10 4 Free trial - $15 That is the core of what Harvey does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Harvey can improve customer support satisfaction by accurately identifying conversation context and offering intelligent suggestions to agents.  That is the core of what Harvey does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Harvey free?
     a: Harvey uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $15, check the official website — pricing changes often.
   - q: What can you do with Harvey?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Harvey?
 
-Harvey can improve customer support satisfaction by accurately identifying conversation context and offering intelligent suggestions to agents. Personal assistant 10 4 Free trial - $15
-
-In short, Harvey is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Harvey can improve customer support satisfaction by accurately identifying conversation context and offering intelligent suggestions to agents. In short, Harvey is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

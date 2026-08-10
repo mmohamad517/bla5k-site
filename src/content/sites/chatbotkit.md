@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ChatBotKit?
-    a: ChatBotKit is an AI agent platform enabling developers to create, test, and deploy autonomous agents for apps, websites, and messaging services. It supports multiple AI providers, offers memory, custom tools, and enterprise compliance features. Omnichannel chatbot 2 0 Freemium - $25/mo That is the core of what ChatBotKit does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ChatBotKit is an AI agent platform enabling developers to create, test, and deploy autonomous agents for apps, websites, and messaging services. It supports multiple AI providers, offers memory, custom tools, and enterprise compliance features.  That is the core of what ChatBotKit does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ChatBotKit free?
     a: ChatBotKit uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $25/mo, check the official website — pricing changes often.
   - q: What can you do with ChatBotKit?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is ChatBotKit?
 
-ChatBotKit is an AI agent platform enabling developers to create, test, and deploy autonomous agents for apps, websites, and messaging services. It supports multiple AI providers, offers memory, custom tools, and enterprise compliance features. Omnichannel chatbot 2 0 Freemium - $25/mo
-
-In short, ChatBotKit is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+ChatBotKit is an AI agent platform enabling developers to create, test, and deploy autonomous agents for apps, websites, and messaging services. It supports multiple AI providers, offers memory, custom tools, and enterprise compliance features. In short, ChatBotKit is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

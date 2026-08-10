@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CodingPlanX AI?
-    a: CodingPlanX AI is a development planning tool that converts project requirements into structured plans with code scaffolding and task breakdowns. It integrates with Git and issue trackers to automate workflows and provides collaboration features with reporting for risk and resource management. Project management 1 1 1 Freemium That is the core of what CodingPlanX AI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CodingPlanX AI is a development planning tool that converts project requirements into structured plans with code scaffolding and task breakdowns. It integrates with Git and issue trackers to automate workflows and provides collaboration features with reporting for risk and resource management.  That is the core of what CodingPlanX AI does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CodingPlanX AI free?
     a: CodingPlanX AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with CodingPlanX AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is CodingPlanX AI?
 
-CodingPlanX AI is a development planning tool that converts project requirements into structured plans with code scaffolding and task breakdowns. It integrates with Git and issue trackers to automate workflows and provides collaboration features with reporting for risk and resource management. Project management 1 1 1 Freemium
-
-In short, CodingPlanX AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+CodingPlanX AI is a development planning tool that converts project requirements into structured plans with code scaffolding and task breakdowns. It integrates with Git and issue trackers to automate workflows and provides collaboration features with reporting for risk and resource management. In short, CodingPlanX AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Sideconvo.ai?
-    a: Sideconvo.ai is an AI-powered plugin that acts as a 24/7 virtual assistant for your website. It automatically engages visitors in real-time conversations to answer questions, guide them, and drive conversions. Chatbot builder 2 2 Subscription - $41.67/mo That is the core of what Sideconvo.ai does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Sideconvo.ai is an AI-powered plugin that acts as a 24/7 virtual assistant for your website. It automatically engages visitors in real-time conversations to answer questions, guide them, and drive conversions.  That is the core of what Sideconvo.ai does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Sideconvo.ai free?
     a: Sideconvo.ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Sideconvo.ai?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Sideconvo.ai?
 
-Sideconvo.ai is an AI-powered plugin that acts as a 24/7 virtual assistant for your website. It automatically engages visitors in real-time conversations to answer questions, guide them, and drive conversions. Chatbot builder 2 2 Subscription - $41.67/mo
-
-In short, Sideconvo.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Sideconvo.ai is an AI-powered plugin that acts as a 24/7 virtual assistant for your website. It automatically engages visitors in real-time conversations to answer questions, guide them, and drive conversions. In short, Sideconvo.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

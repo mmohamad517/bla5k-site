@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-07
 metaTitle: Genie 2 - AI 3D Tool Review & Guide 2026
-metaDescription: Genie 2 is an AI game generator that creates interactive 3D environments from image prompts, featuring sophisticated physics simulations, contextual...
+metaDescription: Genie 2 is an AI game generator that creates interactive 3D environments from image prompts, featuring sophisticated physics simulations, contextual
 simple: "Genie 2 is an AI game generator that creates interactive 3D environments from image prompts, featuring sophisticated physics simulations, contextual animations, and rich visual details, making it ideal for rapid prototyping and immersive virtual experience exploration."
 example: "Describe what you want in a text prompt — or upload a reference image — and Genie 2 returns a finished 3D model you can export to your game engine, slicer, or 3D software."
 goodFor:

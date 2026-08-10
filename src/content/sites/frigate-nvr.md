@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Frigate NVR - AI Tool Review & Guide 2026
-metaDescription: Frigate NVR is an open-source on‑premise NVR that runs local AI object detection and real-time tracking on camera feeds, supports hardware accelerators and...
+metaDescription: Frigate NVR is an open-source on‑premise NVR that runs local AI object detection and real-time tracking on camera feeds, supports hardware accelerators and
 simple: "Frigate NVR is an open-source on‑premise NVR that runs local AI object detection and real-time tracking on camera feeds, supports hardware accelerators and custom models, configurable detection zones, and integrates with Home Assistant, Node-RED, MQTT for automations."
 example: "Give Frigate NVR one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

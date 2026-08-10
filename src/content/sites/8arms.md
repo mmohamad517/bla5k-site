@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: 8arms - AI Tool Review & Guide 2026
-metaDescription: 8arms.ai is an AI copywriting tool that simplifies content creation for marketing campaigns, offering features like customizable tones, SEO optimization,...
+metaDescription: 8arms.ai is an AI copywriting tool that simplifies content creation for marketing campaigns, offering features like customizable tones, SEO optimization, and
 simple: 8arms.ai is an AI copywriting tool that simplifies content creation for marketing campaigns, offering features like customizable tones, SEO optimization, and direct social media scheduling, enabling teams to launch campaigns quickly and efficiently.
 example: Give 8arms one real task — a prompt, a file, or a request — and it returns a usable result for your ai copywriting workflow.
 goodFor:

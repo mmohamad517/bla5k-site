@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is bookbyanyone.com?
-    a: An AI platform that converts a brief questionnaire into a 200‑page personalized book featuring the recipient’s name, interests, and photos. Users choose title, cover style, and format, and receive paperback or hardcover within 9‑13 business days. Book writer 15 3 Freemium That is the core of what bookbyanyone.com does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: An AI platform that converts a brief questionnaire into a 200‑page personalized book featuring the recipient’s name, interests, and photos. Users choose title, cover style, and format, and receive paperback or hardcover within 9‑13 business days.  That is the core of what bookbyanyone.com does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is bookbyanyone.com free?
     a: bookbyanyone.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with bookbyanyone.com?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is bookbyanyone.com?
 
-An AI platform that converts a brief questionnaire into a 200‑page personalized book featuring the recipient’s name, interests, and photos. Users choose title, cover style, and format, and receive paperback or hardcover within 9‑13 business days. Book writer 15 3 Freemium
-
-In short, bookbyanyone.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+An AI platform that converts a brief questionnaire into a 200‑page personalized book featuring the recipient’s name, interests, and photos. Users choose title, cover style, and format, and receive paperback or hardcover within 9‑13 business days. In short, bookbyanyone.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

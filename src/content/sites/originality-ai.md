@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Originality.AI?
-    a: Originality.ai evaluates text for AI generation, plagiarism, factual accuracy, readability, grammar, and SEO. The Chrome extension and web app enable on‑page checks, bulk scanning, PDF uploads, and API integration for writers and editors. AI detection 12 9 Free trial - $12.95/mo That is the core of what Originality.AI does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Originality.ai evaluates text for AI generation, plagiarism, factual accuracy, readability, grammar, and SEO. The Chrome extension and web app enable on‑page checks, bulk scanning, PDF uploads, and API integration for writers and editors.  That is the core of what Originality.AI does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Originality.AI free?
     a: Originality.AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $12.95/mo, check the official website — pricing changes often.
   - q: What can you do with Originality.AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Originality.AI?
 
-Originality.ai evaluates text for AI generation, plagiarism, factual accuracy, readability, grammar, and SEO. The Chrome extension and web app enable on‑page checks, bulk scanning, PDF uploads, and API integration for writers and editors. AI detection 12 9 Free trial - $12.95/mo
-
-In short, Originality.AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Originality.ai evaluates text for AI generation, plagiarism, factual accuracy, readability, grammar, and SEO. The Chrome extension and web app enable on‑page checks, bulk scanning, PDF uploads, and API integration for writers and editors. In short, Originality.AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

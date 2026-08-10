@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Remagine AI - AI Tool Review & Guide 2026
-metaDescription: Remagine AI generates SEO-optimized blog posts, landing pages, social media posts, and ad copy using templates, batch generation, keyword and persona...
+metaDescription: Remagine AI generates SEO-optimized blog posts, landing pages, social media posts, and ad copy using templates, batch generation, keyword and persona
 simple: Remagine AI generates SEO-optimized blog posts, landing pages, social media posts, and ad copy using templates, batch generation, keyword and persona customization.
 example: Give Remagine AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai work workflow.
 goodFor:

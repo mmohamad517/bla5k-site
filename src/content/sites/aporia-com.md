@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is aporia.com?
-    a: Aporia is an AI control platform at aporia.com that guarantees Gen AI integrity through policy enforcement, data protection, and compliance enhancement. It provides advanced features like off-topic detection, profanity prevention, and data leakage prevention for secure and reliable AI interactions. AI Assistant 1 0 Subscription - $99/mo That is the core of what aporia.com does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Aporia is an AI control platform at aporia.com that guarantees Gen AI integrity through policy enforcement, data protection, and compliance enhancement. It provides advanced features like off-topic detection, profanity prevention, and data leakage prevention for secure and reliable AI interactions.  That is the core of what aporia.com does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is aporia.com free?
     a: aporia.com is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with aporia.com?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is aporia.com?
 
-Aporia is an AI control platform at aporia.com that guarantees Gen AI integrity through policy enforcement, data protection, and compliance enhancement. It provides advanced features like off-topic detection, profanity prevention, and data leakage prevention for secure and reliable AI interactions. AI Assistant 1 0 Subscription - $99/mo
-
-In short, aporia.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Aporia is an AI control platform at aporia.com that guarantees Gen AI integrity through policy enforcement, data protection, and compliance enhancement. It provides advanced features like off-topic detection, profanity prevention, and data leakage prevention for secure and reliable AI interactions. In short, aporia.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

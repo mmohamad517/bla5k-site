@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: CodeMaker - AI Tool Review & Guide 2026
-metaDescription: CodeMaker AI provides context-aware code completion and generation using file-level context, plus inline and automated documentation, batch directory-wide...
+metaDescription: CodeMaker AI provides context-aware code completion and generation using file-level context, plus inline and automated documentation, batch directory-wide
 simple: CodeMaker AI provides context-aware code completion and generation using file-level context, plus inline and automated documentation, batch directory-wide refactors, IDE/GitHub/CLI integrations, repository indexing, fine-tuning and testing workflows for team-aligned codebases.
 example: Give CodeMaker one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

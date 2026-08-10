@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Morphllm - AI Tool Review & Guide 2026
-metaDescription: Morphllmis a high-throughput AI code-editing platform that applies LLM-generated multi-file edits, automated diffs, and merges at 10,500+ tokens/sec via...
+metaDescription: Morphllmis a high-throughput AI code-editing platform that applies LLM-generated multi-file edits, automated diffs, and merges at 10,500+ tokens/sec via
 simple: Morphllmis a high-throughput AI code-editing platform that applies LLM-generated multi-file edits, automated diffs, and merges at 10,500+ tokens/sec via edit_file and MCP/OpenAI-compatible SDKs (TypeScript, Python) for editor, CI, and agent integration.
 example: Give Morphllm one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

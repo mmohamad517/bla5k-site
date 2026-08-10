@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is DoubleO.AI?
-    a: Build your own AI agent to automate tasks and projects. Double O allows you to give a simple instruction, connect your tools, then sit back as your team of highly-trained AI agents automates even the most complex task. AI Agents 2 3 Paid - $500 That is the core of what DoubleO.AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Build your own AI agent to automate tasks and projects. Double O allows you to give a simple instruction, connect your tools, then sit back as your team of highly-trained AI agents automates even the most complex task.  That is the core of what DoubleO.AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is DoubleO.AI free?
     a: DoubleO.AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with DoubleO.AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is DoubleO.AI?
 
-Build your own AI agent to automate tasks and projects. Double O allows you to give a simple instruction, connect your tools, then sit back as your team of highly-trained AI agents automates even the most complex task. AI Agents 2 3 Paid - $500
-
-In short, DoubleO.AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Build your own AI agent to automate tasks and projects. Double O allows you to give a simple instruction, connect your tools, then sit back as your team of highly-trained AI agents automates even the most complex task. In short, DoubleO.AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

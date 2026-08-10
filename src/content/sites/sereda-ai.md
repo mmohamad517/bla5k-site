@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Sereda AI - AI Tool Review & Guide 2026
-metaDescription: Sereda AI is an HCM and LMS that centralizes knowledge with a searchable knowledge base and AI assistant, offers course and onboarding builders, employee...
+metaDescription: Sereda AI is an HCM and LMS that centralizes knowledge with a searchable knowledge base and AI assistant, offers course and onboarding builders, employee
 simple: Sereda AI is an HCM and LMS that centralizes knowledge with a searchable knowledge base and AI assistant, offers course and onboarding builders, employee surveys and anonymous reviews, plus learning analytics and automation for training and performance.
 example: Give Sereda AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai management workflow.
 goodFor:

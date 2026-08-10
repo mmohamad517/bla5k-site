@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: SoundBoost.ai - AI Tool Review & Guide 2026
-metaDescription: SoundBoost.ai offers rapid, prompt-driven online mastering with genre-aware AI profiles, stem splitting, LUFS/loudness analysis, true-peak limiting,...
+metaDescription: SoundBoost.ai offers rapid, prompt-driven online mastering with genre-aware AI profiles, stem splitting, LUFS/loudness analysis, true-peak limiting
 simple: SoundBoost.ai offers rapid, prompt-driven online mastering with genre-aware AI profiles, stem splitting, LUFS/loudness analysis, true-peak limiting, analog-modeled saturation, A/B comparison and metadata editing, accepting major formats and returning masters under a minute.
 example: Give SoundBoost.ai one real task — a prompt, a file, or a request — and it returns a usable result for your ai audio workflow.
 goodFor:

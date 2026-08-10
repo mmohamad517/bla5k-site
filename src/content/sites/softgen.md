@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Softgen?
-    a: Softgen transforms natural‑language specs into Next.js apps, integrating Supabase, Vercel, and GitHub for database, deployment, and version control. It supports multiple AI models and one‑click payment, email, and analytics services, while preserving code ownership and standard workflows. App Builder 1 1 Paid That is the core of what Softgen does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Softgen transforms natural‑language specs into Next.js apps, integrating Supabase, Vercel, and GitHub for database, deployment, and version control. It supports multiple AI models and one‑click payment, email, and analytics services, while preserving code ownership and standard workflows.  That is the core of what Softgen does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Softgen free?
     a: Softgen is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Softgen?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Softgen?
 
-Softgen transforms natural‑language specs into Next.js apps, integrating Supabase, Vercel, and GitHub for database, deployment, and version control. It supports multiple AI models and one‑click payment, email, and analytics services, while preserving code ownership and standard workflows. App Builder 1 1 Paid
-
-In short, Softgen is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Softgen transforms natural‑language specs into Next.js apps, integrating Supabase, Vercel, and GitHub for database, deployment, and version control. It supports multiple AI models and one‑click payment, email, and analytics services, while preserving code ownership and standard workflows. In short, Softgen is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ArchiVinci?
-    a: ArchiVinci turns sketches, photos, or 3‑D screenshots into photorealistic 4K–8K renders in seconds, all within a browser. It auto‑applies materials, lighting, and atmosphere, offering interior, exterior, masterplan, and urban modules plus rapid style transfer and in‑painting. Architectural Design 5 1 Freemium That is the core of what ArchiVinci does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ArchiVinci turns sketches, photos, or 3‑D screenshots into photorealistic 4K–8K renders in seconds, all within a browser. It auto‑applies materials, lighting, and atmosphere, offering interior, exterior, masterplan, and urban modules plus rapid style transfer and in‑painting.  That is the core of what ArchiVinci does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ArchiVinci free?
     a: ArchiVinci uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ArchiVinci?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is ArchiVinci?
 
-ArchiVinci turns sketches, photos, or 3‑D screenshots into photorealistic 4K–8K renders in seconds, all within a browser. It auto‑applies materials, lighting, and atmosphere, offering interior, exterior, masterplan, and urban modules plus rapid style transfer and in‑painting. Architectural Design 5 1 Freemium
-
-In short, ArchiVinci is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+ArchiVinci turns sketches, photos, or 3‑D screenshots into photorealistic 4K–8K renders in seconds, all within a browser. It auto‑applies materials, lighting, and atmosphere, offering interior, exterior, masterplan, and urban modules plus rapid style transfer and in‑painting. In short, ArchiVinci is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Sam Audio - AI Tool Review & Guide 2026
-metaDescription: SAM Audio uses Meta’s Segment Anything Audio Model to isolate vocals, instruments, speech and effects from mixes via multimodal prompts (text, visual,...
+metaDescription: SAM Audio uses Meta’s Segment Anything Audio Model to isolate vocals, instruments, speech and effects from mixes via multimodal prompts (text, visual
 simple: SAM Audio uses Meta’s Segment Anything Audio Model to isolate vocals, instruments, speech and effects from mixes via multimodal prompts (text, visual, time-span).
 example: Give Sam Audio one real task — a prompt, a file, or a request — and it returns a usable result for your ai content generation workflow.
 goodFor:

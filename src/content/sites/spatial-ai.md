@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Spatial.ai - AI Tool Review & Guide 2026
-metaDescription: Spatial.ai is an AI tool that uses web and mobile activities to provide real-time behavior segmentation for various industries through their Personalive™...
+metaDescription: Spatial.ai is an AI tool that uses web and mobile activities to provide real-time behavior segmentation for various industries through their Personalive™
 simple: Spatial.ai is an AI tool that uses web and mobile activities to provide real-time behavior segmentation for various industries through their Personalive™ system.
 example: Give Spatial.ai one real task — a prompt, a file, or a request — and it returns a usable result for your ai marketing workflow.
 goodFor:

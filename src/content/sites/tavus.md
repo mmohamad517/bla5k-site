@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Tavus - AI Tool Review & Guide 2026
-metaDescription: The Tavus AI Human tool creates lifelike, interactive AI agents that feel like talking to a real person, offering customizable conversational experiences...
+metaDescription: The Tavus AI Human tool creates lifelike, interactive AI agents that feel like talking to a real person, offering customizable conversational experiences for
 simple: The Tavus AI Human tool creates lifelike, interactive AI agents that feel like talking to a real person, offering customizable conversational experiences for a range of applications.
 example: Give Tavus one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it.
 goodFor:

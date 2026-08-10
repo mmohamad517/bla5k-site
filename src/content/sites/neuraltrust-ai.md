@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: NeuralTrust - AI Tool Review & Guide 2026
-metaDescription: NeuralTrust is an AI agent security platform that discovers, inventories, and governs autonomous agents across cloud, hybrid, and on-prem environments,...
+metaDescription: NeuralTrust is an AI agent security platform that discovers, inventories, and governs autonomous agents across cloud, hybrid, and on-prem environments, while
 simple: "NeuralTrust is an AI agent security platform that discovers, inventories, and governs autonomous agents across cloud, hybrid, and on-prem environments, while providing runtime security, posture management, and centralized policy enforcement for governance and compliance."
 example: "Give NeuralTrust one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Podgen - AI Tool Review & Guide 2026
-metaDescription: PodGen.io converts text, YouTube videos and PDFs into podcast-ready audio with 50+ voices, voice cloning, multi-host and multilingual support, offering...
+metaDescription: PodGen.io converts text, YouTube videos and PDFs into podcast-ready audio with 50+ voices, voice cloning, multi-host and multilingual support, offering
 simple: PodGen.io converts text, YouTube videos and PDFs into podcast-ready audio with 50+ voices, voice cloning, multi-host and multilingual support, offering transcript editing, AI script/show-note generation, audio mastering, publishing workflows, RSS/API integration and analytics.
 example: Give Podgen one real task — a prompt, a file, or a request — and it returns a usable result for your ai content generation workflow.
 goodFor:

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Breef Docs?
-    a: Breef Docs is an AI-powered knowledge base that enhances team collaboration by enabling secure document creation, management, and sharing. It features advanced search capabilities and organized documentation for efficient knowledge sharing and improved workflow. Knowledge base management 0 1 Freemium That is the core of what Breef Docs does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Breef Docs is an AI-powered knowledge base that enhances team collaboration by enabling secure document creation, management, and sharing. It features advanced search capabilities and organized documentation for efficient knowledge sharing and improved workflow.  That is the core of what Breef Docs does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Breef Docs free?
     a: Breef Docs uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Breef Docs?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Breef Docs?
 
-Breef Docs is an AI-powered knowledge base that enhances team collaboration by enabling secure document creation, management, and sharing. It features advanced search capabilities and organized documentation for efficient knowledge sharing and improved workflow. Knowledge base management 0 1 Freemium
-
-In short, Breef Docs is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Breef Docs is an AI-powered knowledge base that enhances team collaboration by enabling secure document creation, management, and sharing. It features advanced search capabilities and organized documentation for efficient knowledge sharing and improved workflow. In short, Breef Docs is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

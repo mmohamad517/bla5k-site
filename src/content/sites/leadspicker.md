@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Leadspicker?
-    a: Leadspicker is an AI tool that automates lead generation and outreach on LinkedIn and email. It features customizable workflows, email deliverability checks, and AI-driven personalization to enhance efficiency for sales and marketing teams. Sales 0 1 Free trial That is the core of what Leadspicker does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Leadspicker is an AI tool that automates lead generation and outreach on LinkedIn and email. It features customizable workflows, email deliverability checks, and AI-driven personalization to enhance efficiency for sales and marketing teams.  That is the core of what Leadspicker does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Leadspicker free?
     a: Leadspicker uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Leadspicker?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Leadspicker?
 
-Leadspicker is an AI tool that automates lead generation and outreach on LinkedIn and email. It features customizable workflows, email deliverability checks, and AI-driven personalization to enhance efficiency for sales and marketing teams. Sales 0 1 Free trial
-
-In short, Leadspicker is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Leadspicker is an AI tool that automates lead generation and outreach on LinkedIn and email. It features customizable workflows, email deliverability checks, and AI-driven personalization to enhance efficiency for sales and marketing teams. In short, Leadspicker is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

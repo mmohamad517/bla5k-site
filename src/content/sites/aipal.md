@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AIPal?
-    a: "Chat, write, reply, translate, and more on any webpage, powered by cutting-edge AI models such as GPT-4, Claude 3, and Gemini. Coming soon: image, video, PPT, and PDF processing. AI Assistant 4 1 Free That is the core of what AIPal does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "Chat, write, reply, translate, and more on any webpage, powered by cutting-edge AI models such as GPT-4, Claude 3, and Gemini. Coming soon: image, video, PPT, and PDF processing.  That is the core of what AIPal does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is AIPal free?
     a: Yes — AIPal is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with AIPal?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is AIPal?
 
-Chat, write, reply, translate, and more on any webpage, powered by cutting-edge AI models such as GPT-4, Claude 3, and Gemini. Coming soon: image, video, PPT, and PDF processing. AI Assistant 4 1 Free
-
-In short, AIPal is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Chat, write, reply, translate, and more on any webpage, powered by cutting-edge AI models such as GPT-4, Claude 3, and Gemini. Coming soon: image, video, PPT, and PDF processing. In short, AIPal is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

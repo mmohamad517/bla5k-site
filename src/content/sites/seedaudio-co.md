@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: SeedAudio.co - AI Tool Review & Guide 2026
-metaDescription: seedaudio.co is a multimodal AI audio studio that transforms text, images, and reference clips into layered sound scenes with multi-speaker dialogue,...
+metaDescription: seedaudio.co is a multimodal AI audio studio that transforms text, images, and reference clips into layered sound scenes with multi-speaker dialogue, ambient
 simple: seedaudio.co is a multimodal AI audio studio that transforms text, images, and reference clips into layered sound scenes with multi-speaker dialogue, ambient beds, and SFX.
 example: Give SeedAudio.co one real task — a prompt, a file, or a request — and it returns a usable result for your ai content generation workflow.
 goodFor:

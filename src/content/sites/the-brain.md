@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is The Brain?
-    a: TheBrain is an AI‑enabled mind‑mapping platform that integrates ChatGPT for real‑time idea generation and refinement. It captures ideas quickly, visually organizes them, auto‑creates detailed notes, and lets users edit or discard branches with one‑click actions across iOS, Android, and web. Personal assistant 1 0 Freemium That is the core of what The Brain does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: TheBrain is an AI‑enabled mind‑mapping platform that integrates ChatGPT for real‑time idea generation and refinement. It captures ideas quickly, visually organizes them, auto‑creates detailed notes, and lets users edit or discard branches with one‑click actions across iOS, Android, and web.  That is the core of what The Brain does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is The Brain free?
     a: The Brain uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with The Brain?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is The Brain?
 
-TheBrain is an AI‑enabled mind‑mapping platform that integrates ChatGPT for real‑time idea generation and refinement. It captures ideas quickly, visually organizes them, auto‑creates detailed notes, and lets users edit or discard branches with one‑click actions across iOS, Android, and web. Personal assistant 1 0 Freemium
-
-In short, The Brain is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+TheBrain is an AI‑enabled mind‑mapping platform that integrates ChatGPT for real‑time idea generation and refinement. It captures ideas quickly, visually organizes them, auto‑creates detailed notes, and lets users edit or discard branches with one‑click actions across iOS, Android, and web. In short, The Brain is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

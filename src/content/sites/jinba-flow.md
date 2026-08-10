@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Jinba Flow - AI Tool Review & Guide 2026
-metaDescription: Jinba is an AI workflow automation platform combining a visual builder (Jinba Flow) and runtime (Jinba App) to orchestrate AI-driven tasks, feature-flag...
+metaDescription: Jinba is an AI workflow automation platform combining a visual builder (Jinba Flow) and runtime (Jinba App) to orchestrate AI-driven tasks, feature-flag
 simple: Jinba is an AI workflow automation platform combining a visual builder (Jinba Flow) and runtime (Jinba App) to orchestrate AI-driven tasks, feature-flag integration, and product analytics for enterprise processes across banking, insurance, manufacturing, legal, and sales.
 example: Give Jinba Flow one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it.
 goodFor:

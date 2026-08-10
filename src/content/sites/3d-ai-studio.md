@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-07
 metaTitle: 3D AI Studio - AI 3D Tool Review & Guide 2026
-metaDescription: 3D AI Studio turns text prompts and images into production‑ready 3D models with AI‑generated PBR textures, automated remeshing, and export to FBX, GLB, OBJ,...
+metaDescription: 3D AI Studio turns text prompts and images into production‑ready 3D models with AI‑generated PBR textures, automated remeshing, and export to FBX, GLB, OBJ
 simple: "3D AI Studio turns text prompts and images into production‑ready 3D models with AI‑generated PBR textures, automated remeshing, and export to FBX, GLB, OBJ, STL, USDZ, and BLEND."
 example: "Describe what you want in a text prompt — or upload a reference image — and 3D AI Studio returns a finished 3D model you can export to your game engine, slicer, or 3D software."
 goodFor:

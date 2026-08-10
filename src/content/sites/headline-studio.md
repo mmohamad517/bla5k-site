@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Headline Studio?
-    a: Headline Studio uses AI to generate platform‑specific headlines and gives data‑driven feedback on word balance, character limits, and keyword relevance. It offers SERP previews, competitor comparison, a keyword explorer, thesaurus bank, favorites, and integration with CMS and email clients. Copywriting 17 8 Freemium - $4/mo That is the core of what Headline Studio does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Headline Studio uses AI to generate platform‑specific headlines and gives data‑driven feedback on word balance, character limits, and keyword relevance. It offers SERP previews, competitor comparison, a keyword explorer, thesaurus bank, favorites, and integration with CMS and email clients.  That is the core of what Headline Studio does — ai copywriting handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Headline Studio free?
     a: Headline Studio uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $4/mo, check the official website — pricing changes often.
   - q: What can you do with Headline Studio?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Headline Studio?
 
-Headline Studio uses AI to generate platform‑specific headlines and gives data‑driven feedback on word balance, character limits, and keyword relevance. It offers SERP previews, competitor comparison, a keyword explorer, thesaurus bank, favorites, and integration with CMS and email clients. Copywriting 17 8 Freemium - $4/mo
-
-In short, Headline Studio is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Headline Studio uses AI to generate platform‑specific headlines and gives data‑driven feedback on word balance, character limits, and keyword relevance. It offers SERP previews, competitor comparison, a keyword explorer, thesaurus bank, favorites, and integration with CMS and email clients. In short, Headline Studio is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI copywriting without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

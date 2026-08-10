@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Talynce - AI Tool Review & Guide 2026
-metaDescription: Talynce AI automates hiring by parsing bulk resumes into searchable profiles, conducting AI-driven screening and semantic candidate matching, enabling...
+metaDescription: Talynce AI automates hiring by parsing bulk resumes into searchable profiles, conducting AI-driven screening and semantic candidate matching, enabling
 simple: Talynce AI automates hiring by parsing bulk resumes into searchable profiles, conducting AI-driven screening and semantic candidate matching, enabling WhatsApp/email outreach, supporting ATS workflows with collaboration, analytics, APIs, role-based permissions and enterprise security.
 example: Give Talynce one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it.
 goodFor:

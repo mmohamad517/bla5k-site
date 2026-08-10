@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SmartScout?
-    a: AI Listing Architect simplifies the process of creating optimized Amazon listings in minutes. Copywriting 1 0 Free trail - $29/mo That is the core of what SmartScout does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Listing Architect simplifies the process of creating optimized Amazon listings in minutes.  trail - $29/mo That is the core of what SmartScout does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SmartScout free?
     a: SmartScout uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with SmartScout?
@@ -42,7 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is SmartScout?
 
-AI Listing Architect simplifies the process of creating optimized Amazon listings in minutes. Copywriting 1 0 Free trail - $29/mo
+AI Listing Architect simplifies the process of creating optimized Amazon listings in minutes. trail - $29/mo
 
 In short, SmartScout is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 

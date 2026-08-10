@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Content Goblin?
-    a: Content Goblin is an AI-powered tool designed to generate high-quality listicles and conent, complete with subheadings, images, and descriptive text. It offers customizable outlines, Pinterest-optimized images, and seamless WordPress integration for streamlined content creation and publishing. Content Writing 5 0 Free trial - $29/mo That is the core of what Content Goblin does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Content Goblin is an AI-powered tool designed to generate high-quality listicles and conent, complete with subheadings, images, and descriptive text. It offers customizable outlines, Pinterest-optimized images, and seamless WordPress integration for streamlined content creation and publishing.  That is the core of what Content Goblin does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Content Goblin free?
     a: Content Goblin uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $29/mo, check the official website — pricing changes often.
   - q: What can you do with Content Goblin?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Content Goblin?
 
-Content Goblin is an AI-powered tool designed to generate high-quality listicles and conent, complete with subheadings, images, and descriptive text. It offers customizable outlines, Pinterest-optimized images, and seamless WordPress integration for streamlined content creation and publishing. Content Writing 5 0 Free trial - $29/mo
-
-In short, Content Goblin is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Content Goblin is an AI-powered tool designed to generate high-quality listicles and conent, complete with subheadings, images, and descriptive text. It offers customizable outlines, Pinterest-optimized images, and seamless WordPress integration for streamlined content creation and publishing. In short, Content Goblin is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

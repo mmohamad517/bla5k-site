@@ -134,13 +134,13 @@ import replicate
 
 # Run the model with specific input parameters
 output = replicate.run(
-    "stability-ai/sdxl:39ed52f2a78e934b3ba6e2a89f5b1c712de7dfea535525255b1aa35c5565e08b",
-    input={
-        "prompt": "A futuristic cityscape at sunset, cyberpunk style, highly detailed, 8k resolution",
-        "width": 1024,
-        "height": 1024,
-        "num_inference_steps": 50
-    }
+ "stability-ai/sdxl:39ed52f2a78e934b3ba6e2a89f5b1c712de7dfea535525255b1aa35c5565e08b",
+ input={
+ "prompt": "A futuristic cityscape at sunset, cyberpunk style, highly detailed, 8k resolution",
+ "width": 1024,
+ "height": 1024,
+ "num_inference_steps": 50
+ }
 )
 
 # The output is a list of URLs pointing to the generated images

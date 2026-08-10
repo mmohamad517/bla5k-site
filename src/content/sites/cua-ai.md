@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Cua AI?
-    a: cua AI is a platform that enables secure AI agents to run in macOS and Linux containers, optimized for Apple Silicon. It simplifies setup, supports multi-model workflows, and facilitates cross-OS automation and collaboration through VM image sharing. AI Agents 0 1 Freemium That is the core of what Cua AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: cua AI is a platform that enables secure AI agents to run in macOS and Linux containers, optimized for Apple Silicon. It simplifies setup, supports multi-model workflows, and facilitates cross-OS automation and collaboration through VM image sharing.  That is the core of what Cua AI does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Cua AI free?
     a: Cua AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Cua AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Cua AI?
 
-cua AI is a platform that enables secure AI agents to run in macOS and Linux containers, optimized for Apple Silicon. It simplifies setup, supports multi-model workflows, and facilitates cross-OS automation and collaboration through VM image sharing. AI Agents 0 1 Freemium
-
-In short, Cua AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+cua AI is a platform that enables secure AI agents to run in macOS and Linux containers, optimized for Apple Silicon. It simplifies setup, supports multi-model workflows, and facilitates cross-OS automation and collaboration through VM image sharing. In short, Cua AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

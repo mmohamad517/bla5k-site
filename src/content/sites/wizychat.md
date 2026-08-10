@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is WizyChat?
-    a: WizyChat builds AI chatbots from website content, crawling data and training GPT‑4 for understanding. A drag‑and‑drop builder lets non‑coders create flows, while integrations with Intercom, Salesforce, Slack, WhatsApp, and Telegram streamline lead capture, ticketing, and knowledge‑base support. Analytics track engagement. Chatbot builder 1 0 Freemium - $500/mo That is the core of what WizyChat does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: WizyChat builds AI chatbots from website content, crawling data and training GPT‑4 for understanding. A drag‑and‑drop builder lets non‑coders create flows, while integrations with Intercom, Salesforce, Slack, WhatsApp, and Telegram streamline lead capture, ticketing, and knowledge‑base support. Analytics track engagement.  That is the core of what WizyChat does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is WizyChat free?
     a: WizyChat uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $500/mo, check the official website — pricing changes often.
   - q: What can you do with WizyChat?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is WizyChat?
 
-WizyChat builds AI chatbots from website content, crawling data and training GPT‑4 for understanding. A drag‑and‑drop builder lets non‑coders create flows, while integrations with Intercom, Salesforce, Slack, WhatsApp, and Telegram streamline lead capture, ticketing, and knowledge‑base support. Analytics track engagement. Chatbot builder 1 0 Freemium - $500/mo
-
-In short, WizyChat is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+WizyChat builds AI chatbots from website content, crawling data and training GPT‑4 for understanding. A drag‑and‑drop builder lets non‑coders create flows, while integrations with Intercom, Salesforce, Slack, WhatsApp, and Telegram streamline lead capture, ticketing, and knowledge‑base support. Analytics track engagement. In short, WizyChat is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

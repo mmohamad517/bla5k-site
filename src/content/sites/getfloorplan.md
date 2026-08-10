@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is GetFloorPlan?
-    a: Getfloorplan converts JPG, PNG, or PDF floor plans into detailed 2D and 3D visualizations, including full‑color renders and 360° virtual tours. Upload a single file, AI renders it, QA verifies, and results are delivered within 24 hours. Architectural Design 3 1 Paid - $14.99/mo That is the core of what GetFloorPlan does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Getfloorplan converts JPG, PNG, or PDF floor plans into detailed 2D and 3D visualizations, including full‑color renders and 360° virtual tours. Upload a single file, AI renders it, QA verifies, and results are delivered within 24 hours.  That is the core of what GetFloorPlan does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is GetFloorPlan free?
     a: GetFloorPlan is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with GetFloorPlan?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is GetFloorPlan?
 
-Getfloorplan converts JPG, PNG, or PDF floor plans into detailed 2D and 3D visualizations, including full‑color renders and 360° virtual tours. Upload a single file, AI renders it, QA verifies, and results are delivered within 24 hours. Architectural Design 3 1 Paid - $14.99/mo
-
-In short, GetFloorPlan is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Getfloorplan converts JPG, PNG, or PDF floor plans into detailed 2D and 3D visualizations, including full‑color renders and 360° virtual tours. Upload a single file, AI renders it, QA verifies, and results are delivered within 24 hours. In short, GetFloorPlan is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

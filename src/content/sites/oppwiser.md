@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Oppwiser - AI Tool Review & Guide 2026
-metaDescription: Oppwiser is an AI revenue-discovery platform for account-based sales and B2B prospecting that identifies lookalike companies, scores net-new accounts from a...
+metaDescription: Oppwiser is an AI revenue-discovery platform for account-based sales and B2B prospecting that identifies lookalike companies, scores net-new accounts from a
 simple: Oppwiser is an AI revenue-discovery platform for account-based sales and B2B prospecting that identifies lookalike companies, scores net-new accounts from a 60M+ database, tracks buyer signals, enriches CRM data, and provides verified contact details and segmentation filters.
 example: Give Oppwiser one real task — a prompt, a file, or a request — and it returns a usable result for your ai work workflow.
 goodFor:

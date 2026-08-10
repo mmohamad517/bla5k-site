@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Wisdomise - AI Tool Review & Guide 2026
-metaDescription: Wisdomise provides AI-driven automated crypto index funds with risk-adjusted allocation and automated rebalancing across major cryptocurrencies, real-time...
+metaDescription: Wisdomise provides AI-driven automated crypto index funds with risk-adjusted allocation and automated rebalancing across major cryptocurrencies, real-time
 simple: Wisdomise provides AI-driven automated crypto index funds with risk-adjusted allocation and automated rebalancing across major cryptocurrencies, real-time portfolio analytics, trade execution reporting for compliance, and on-platform utility via the WSDM token under Swiss SRO regulation.
 example: Give Wisdomise one real task — a prompt, a file, or a request — and it returns a usable result for your web3 and ai agents workflow.
 goodFor:

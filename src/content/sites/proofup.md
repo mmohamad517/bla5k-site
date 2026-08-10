@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Proofup - AI Tool Review & Guide 2026
-metaDescription: ProofUp uses OCR, NLP, and large language models to process rental applications, detecting fraud via PDF byte analysis, verifying IDs with facial...
+metaDescription: ProofUp uses OCR, NLP, and large language models to process rental applications, detecting fraud via PDF byte analysis, verifying IDs with facial
 simple: "ProofUp uses OCR, NLP, and large language models to process rental applications, detecting fraud via PDF byte analysis, verifying IDs with facial recognition, and confirming income through Plaid bank links for landlords and property managers."
 example: "Give Proofup one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is GoSearch AI Enterprise Search?
-    a: GoSearch consolidates indexed and non‑indexed data from 100+ apps, letting teams query across email, chat, documents, and private files with AI assistants. It automates routine tasks through custom agents, enforces granular security, and supports multiple LLMs for unified enterprise knowledge. Knowledge base management 3 2 Freemium - $20/mo That is the core of what GoSearch AI Enterprise Search does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: GoSearch consolidates indexed and non‑indexed data from 100+ apps, letting teams query across email, chat, documents, and private files with AI assistants. It automates routine tasks through custom agents, enforces granular security, and supports multiple LLMs for unified enterprise knowledge.  That is the core of what GoSearch AI Enterprise Search does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is GoSearch AI Enterprise Search free?
     a: GoSearch AI Enterprise Search uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $20/mo, check the official website — pricing changes often.
   - q: What can you do with GoSearch AI Enterprise Search?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is GoSearch AI Enterprise Search?
 
-GoSearch consolidates indexed and non‑indexed data from 100+ apps, letting teams query across email, chat, documents, and private files with AI assistants. It automates routine tasks through custom agents, enforces granular security, and supports multiple LLMs for unified enterprise knowledge. Knowledge base management 3 2 Freemium - $20/mo
-
-In short, GoSearch AI Enterprise Search is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+GoSearch consolidates indexed and non‑indexed data from 100+ apps, letting teams query across email, chat, documents, and private files with AI assistants. It automates routine tasks through custom agents, enforces granular security, and supports multiple LLMs for unified enterprise knowledge. In short, GoSearch AI Enterprise Search is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

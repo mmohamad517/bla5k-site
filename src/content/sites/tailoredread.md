@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: TailoredRead - AI Tool Review & Guide 2026
-metaDescription: TailoredRead generates personalized nonfiction books based on user-selected subjects and goals, streamlining learning by consolidating relevant information...
+metaDescription: TailoredRead generates personalized nonfiction books based on user-selected subjects and goals, streamlining learning by consolidating relevant information
 simple: TailoredRead generates personalized nonfiction books based on user-selected subjects and goals, streamlining learning by consolidating relevant information into focused volumes.
 example: Give TailoredRead one real task — a prompt, a file, or a request — and it returns a usable result for your ai writing workflow.
 goodFor:

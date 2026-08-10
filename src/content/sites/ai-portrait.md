@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: AI-Portrait - AI Tool Review & Guide 2026
-metaDescription: AI Portrait Generator turns a single selfie into over 2,000 AI‑style portraits—including ID photos, comics, oil paintings, cartoons, anime, and...
+metaDescription: AI Portrait Generator turns a single selfie into over 2,000 AI‑style portraits—including ID photos, comics, oil paintings, cartoons, anime, and avatars—using
 simple: AI Portrait Generator turns a single selfie into over 2,000 AI‑style portraits—including ID photos, comics, oil paintings, cartoons, anime, and avatars—using Midjourney V5.
 example: Give AI-Portrait one real task — a prompt, a file, or a request — and it returns a usable result for your ai design workflow.
 goodFor:

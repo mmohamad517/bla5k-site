@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Imagen3D - AI Tool Review & Guide 2026
-metaDescription: Imagen3D converts single- or multi-view photos into production-ready, watertight 3D models with clean topology and baked PBR textures, exporting common...
+metaDescription: Imagen3D converts single- or multi-view photos into production-ready, watertight 3D models with clean topology and baked PBR textures, exporting common
 simple: Imagen3D converts single- or multi-view photos into production-ready, watertight 3D models with clean topology and baked PBR textures, exporting common formats (GLB/OBJ/STL/GLTF/USDZ) and MP4 previews, optimized for rendering, printing, games and AR/VR.
 example: Give Imagen3D one real task — a prompt, a file, or a request — and it returns a usable result for your ai work workflow.
 goodFor:

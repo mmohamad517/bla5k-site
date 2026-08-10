@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Idscan.net - AI Tool Review & Guide 2026
-metaDescription: IDScan.net offers an AI‑driven identity verification platform that scans passports, driver’s licenses, and mobile IDs using UV/IR imaging and deep‑fake...
+metaDescription: IDScan.net offers an AI‑driven identity verification platform that scans passports, driver’s licenses, and mobile IDs using UV/IR imaging and deep‑fake
 simple: "IDScan.net offers an AI‑driven identity verification platform that scans passports, driver’s licenses, and mobile IDs using UV/IR imaging and deep‑fake detection."
 example: "Give Idscan.net one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

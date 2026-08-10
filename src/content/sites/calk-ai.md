@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Calk AI?
-    a: Calk AI is a customizable AI assistant platform designed to boost business productivity by integrating data across tools like Notion, HubSpot, and Google Drive. It offers contextual insights, real-time collaboration, and multi-model AI support to streamline workflows and enhance decision-making. AI Assistant 2 3 Free trial - $19/mo That is the core of what Calk AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Calk AI is a customizable AI assistant platform designed to boost business productivity by integrating data across tools like Notion, HubSpot, and Google Drive. It offers contextual insights, real-time collaboration, and multi-model AI support to streamline workflows and enhance decision-making.  That is the core of what Calk AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Calk AI free?
     a: Calk AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $19/mo, check the official website — pricing changes often.
   - q: What can you do with Calk AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Calk AI?
 
-Calk AI is a customizable AI assistant platform designed to boost business productivity by integrating data across tools like Notion, HubSpot, and Google Drive. It offers contextual insights, real-time collaboration, and multi-model AI support to streamline workflows and enhance decision-making. AI Assistant 2 3 Free trial - $19/mo
-
-In short, Calk AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Calk AI is a customizable AI assistant platform designed to boost business productivity by integrating data across tools like Notion, HubSpot, and Google Drive. It offers contextual insights, real-time collaboration, and multi-model AI support to streamline workflows and enhance decision-making. In short, Calk AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

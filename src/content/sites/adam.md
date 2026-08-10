@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Adam?
-    a: Interval AI automates receivable collections via AI‑driven outreach across calls, texts, and emails. It imports data, schedules optimal contact, negotiates, answers queries 24/7, and provides real‑time dashboards with multilingual support, reducing costs and preserving relationships. Communication Automation 0 1 Freemium - $15 That is the core of what Adam does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Interval AI automates receivable collections via AI‑driven outreach across calls, texts, and emails. It imports data, schedules optimal contact, negotiates, answers queries 24/7, and provides real‑time dashboards with multilingual support, reducing costs and preserving relationships.  That is the core of what Adam does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Adam free?
     a: Adam uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $15, check the official website — pricing changes often.
   - q: What can you do with Adam?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Adam?
 
-Interval AI automates receivable collections via AI‑driven outreach across calls, texts, and emails. It imports data, schedules optimal contact, negotiates, answers queries 24/7, and provides real‑time dashboards with multilingual support, reducing costs and preserving relationships. Communication Automation 0 1 Freemium - $15
-
-In short, Adam is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Interval AI automates receivable collections via AI‑driven outreach across calls, texts, and emails. It imports data, schedules optimal contact, negotiates, answers queries 24/7, and provides real‑time dashboards with multilingual support, reducing costs and preserving relationships. In short, Adam is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

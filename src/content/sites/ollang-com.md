@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: ollang.com - AI Tool Review & Guide 2026
-metaDescription: Ollang is a localization platform that automates dubbing, subtitles, closed captions and metadata in 100+ languages, combining studio-quality voice...
+metaDescription: Ollang is a localization platform that automates dubbing, subtitles, closed captions and metadata in 100+ languages, combining studio-quality voice
 simple: Ollang is a localization platform that automates dubbing, subtitles, closed captions and metadata in 100+ languages, combining studio-quality voice workflows, agentic AI orchestration, no-code project automation, and an API for scalable video, audio, and text localization.
 example: Give ollang.com one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it.
 goodFor:

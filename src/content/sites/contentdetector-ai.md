@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: ContentDetector.ai - AI Tool Review & Guide 2026
-metaDescription: ContentDetector.AI is a free tool that identifies AI-generated written text, including Chat GPT and GPT 3 content, and provides an estimated percentage...
+metaDescription: ContentDetector.AI is a free tool that identifies AI-generated written text, including Chat GPT and GPT 3 content, and provides an estimated percentage score
 simple: ContentDetector.AI is a free tool that identifies AI-generated written text, including Chat GPT and GPT 3 content, and provides an estimated percentage score of AI generation likelihood.
 example: Give ContentDetector.ai one real task — a prompt, a file, or a request — and it returns a usable result for your ai content detection workflow.
 goodFor:

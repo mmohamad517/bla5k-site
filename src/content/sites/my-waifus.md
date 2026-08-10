@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is My Waifus?
-    a: MyWaifus.ai is an AI-powered tool for creating and exploring a collection of safe for work waifus. It offers high-quality images, a live feed feature. Use cases include waifus character creation, browsing others' waifus creations. Character Design 5 3 Freemium That is the core of what My Waifus does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: MyWaifus.ai is an AI-powered tool for creating and exploring a collection of safe for work waifus. It offers high-quality images, a live feed feature. Use cases include waifus character creation, browsing others' waifus creations.  That is the core of what My Waifus does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is My Waifus free?
     a: My Waifus uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with My Waifus?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is My Waifus?
 
-MyWaifus.ai is an AI-powered tool for creating and exploring a collection of safe for work waifus. It offers high-quality images, a live feed feature. Use cases include waifus character creation, browsing others' waifus creations. Character Design 5 3 Freemium
-
-In short, My Waifus is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+MyWaifus.ai is an AI-powered tool for creating and exploring a collection of safe for work waifus. It offers high-quality images, a live feed feature. Use cases include waifus character creation, browsing others' waifus creations. In short, My Waifus is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

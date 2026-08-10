@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: PESTEL - AI Tool Review & Guide 2026
-metaDescription: Enter a brief company description and the AI generates a detailed PESTEL analysis, automatically identifying political, economic, social, technological,...
+metaDescription: Enter a brief company description and the AI generates a detailed PESTEL analysis, automatically identifying political, economic, social, technological
 simple: Enter a brief company description and the AI generates a detailed PESTEL analysis, automatically identifying political, economic, social, technological, environmental, and legal factors.
 example: Give PESTEL one real task — a prompt, a file, or a request — and it returns a usable result for your ai planning workflow.
 goodFor:

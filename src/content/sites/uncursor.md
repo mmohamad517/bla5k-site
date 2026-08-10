@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Uncursor - AI Tool Review & Guide 2026
-metaDescription: SpokeSite is an AI-powered platform that enables users to create web applications and websites using natural language prompts, eliminating the need for...
+metaDescription: SpokeSite is an AI-powered platform that enables users to create web applications and websites using natural language prompts, eliminating the need for
 simple: SpokeSite is an AI-powered platform that enables users to create web applications and websites using natural language prompts, eliminating the need for coding expertise.
 example: Give Uncursor one real task — a prompt, a file, or a request — and it returns a usable result for your no-code building workflow.
 goodFor:

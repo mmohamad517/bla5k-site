@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Flow Leads - AI Tool Review & Guide 2026
-metaDescription: Flow Leads is an e-commerce lead generation tool that provides access to over 12 million stores, offering decision-makers' contact information for targeted...
+metaDescription: Flow Leads is an e-commerce lead generation tool that provides access to over 12 million stores, offering decision-makers' contact information for targeted
 simple: Flow Leads is an e-commerce lead generation tool that provides access to over 12 million stores, offering decision-makers' contact information for targeted outreach.
 example: Give Flow Leads one real task — a prompt, a file, or a request — and it returns a usable result for your ai sales workflow.
 goodFor:

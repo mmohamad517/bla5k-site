@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: ChurchCalls.ai - AI Tool Review & Guide 2026
-metaDescription: ChurchCalls.ai is an AI solution for church ministries that handles calls 24/7, directs inquiries to the right departments, and generates automated call...
+metaDescription: ChurchCalls.ai is an AI solution for church ministries that handles calls 24/7, directs inquiries to the right departments, and generates automated call
 simple: ChurchCalls.ai is an AI solution for church ministries that handles calls 24/7, directs inquiries to the right departments, and generates automated call summaries.
 example: Give ChurchCalls.ai one real task — a prompt, a file, or a request — and it returns a usable result for your ai customer support workflow.
 goodFor:

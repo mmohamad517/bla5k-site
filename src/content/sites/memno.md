@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Memno - AI Tool Review & Guide 2026
-metaDescription: Memno is a privacy-first personal AI assistant that builds a personal knowledge graph from photos, documents, voice notes, emails, contacts and calendars to...
+metaDescription: Memno is a privacy-first personal AI assistant that builds a personal knowledge graph from photos, documents, voice notes, emails, contacts and calendars to
 simple: Memno is a privacy-first personal AI assistant that builds a personal knowledge graph from photos, documents, voice notes, emails, contacts and calendars to enable context-aware search, reminders, automated scheduling, multilingual calls and task automation.
 example: Give Memno one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

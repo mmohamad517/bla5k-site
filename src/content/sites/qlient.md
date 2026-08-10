@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Qlient?
-    a: "Qlient AI: Revolutionary 24/7 call intake system with lifelike voices. Automates call summaries, scheduling, recording, and delivers personalized experiences using advanced NLP. Communication Automation 1 0 Subscription - $24.92/mo That is the core of what Qlient does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "Qlient AI: Revolutionary 24/7 call intake system with lifelike voices. Automates call summaries, scheduling, recording, and delivers personalized experiences using advanced NLP.  That is the core of what Qlient does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is Qlient free?
     a: Qlient is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Qlient?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Qlient?
 
-Qlient AI: Revolutionary 24/7 call intake system with lifelike voices. Automates call summaries, scheduling, recording, and delivers personalized experiences using advanced NLP. Communication Automation 1 0 Subscription - $24.92/mo
-
-In short, Qlient is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Qlient AI: Revolutionary 24/7 call intake system with lifelike voices. Automates call summaries, scheduling, recording, and delivers personalized experiences using advanced NLP. In short, Qlient is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

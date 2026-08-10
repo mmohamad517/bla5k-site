@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Heatseeker?
-    a: Heatseeker automates live ad experiments, replacing surveys with real‑buyer testing. It integrates transaction, marketing, and qualitative data to generate synthetic insights and AI personas, enabling quick validation of messaging, creative, and product features. Marketing 1 0 Subscription That is the core of what Heatseeker does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Heatseeker automates live ad experiments, replacing surveys with real‑buyer testing. It integrates transaction, marketing, and qualitative data to generate synthetic insights and AI personas, enabling quick validation of messaging, creative, and product features.  That is the core of what Heatseeker does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Heatseeker free?
     a: Heatseeker is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Heatseeker?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Heatseeker?
 
-Heatseeker automates live ad experiments, replacing surveys with real‑buyer testing. It integrates transaction, marketing, and qualitative data to generate synthetic insights and AI personas, enabling quick validation of messaging, creative, and product features. Marketing 1 0 Subscription
-
-In short, Heatseeker is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Heatseeker automates live ad experiments, replacing surveys with real‑buyer testing. It integrates transaction, marketing, and qualitative data to generate synthetic insights and AI personas, enabling quick validation of messaging, creative, and product features. In short, Heatseeker is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

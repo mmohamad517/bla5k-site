@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI Survey Maker?
-    a: AI Survey Generator drafts surveys within seconds, offering diverse question types, adaptive and skip logic, and score calculators. Distribute via email, web, app, WhatsApp, SMS, or link, and integrate with major platforms. Mobile‑optimized, multilingual, it compiles data into actionable reports. Marketing 4 1 Freemium That is the core of what AI Survey Maker does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AI Survey Generator drafts surveys within seconds, offering diverse question types, adaptive and skip logic, and score calculators. Distribute via email, web, app, WhatsApp, SMS, or link, and integrate with major platforms. Mobile‑optimized, multilingual, it compiles data into actionable reports.  That is the core of what AI Survey Maker does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI Survey Maker free?
     a: AI Survey Maker uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AI Survey Maker?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is AI Survey Maker?
 
-AI Survey Generator drafts surveys within seconds, offering diverse question types, adaptive and skip logic, and score calculators. Distribute via email, web, app, WhatsApp, SMS, or link, and integrate with major platforms. Mobile‑optimized, multilingual, it compiles data into actionable reports. Marketing 4 1 Freemium
-
-In short, AI Survey Maker is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+AI Survey Generator drafts surveys within seconds, offering diverse question types, adaptive and skip logic, and score calculators. Distribute via email, web, app, WhatsApp, SMS, or link, and integrate with major platforms. Mobile‑optimized, multilingual, it compiles data into actionable reports. In short, AI Survey Maker is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

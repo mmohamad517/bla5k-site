@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Clyr - AI Tool Review & Guide 2026
-metaDescription: Clyr centralizes expense and bill management for field and finance teams, offering real-time receipt capture, AI-driven transaction coding and matching,...
+metaDescription: Clyr centralizes expense and bill management for field and finance teams, offering real-time receipt capture, AI-driven transaction coding and matching, live
 simple: Clyr centralizes expense and bill management for field and finance teams, offering real-time receipt capture, AI-driven transaction coding and matching, live card/bank integrations, automated AP and reimbursements, project job costing, profitability tracking, and custom reporting.
 example: Give Clyr one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

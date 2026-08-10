@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: "What is Re:amaze?"
-    a: "Re:amaze unifies email, chat, social, SMS, VoIP, video, and push into a shared inbox, uses AI to draft replies, summarize, and analyze sentiment. Real‑time dashboards, workflow macros, co‑browsing, and integrations with Shopify, Slack, Jira, Zapier enhance support and automation. Customer support 11 3 1 Free trial - $29/mo That is the core of what Re:amaze does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "Re:amaze unifies email, chat, social, SMS, VoIP, video, and push into a shared inbox, uses AI to draft replies, summarize, and analyze sentiment. Real‑time dashboards, workflow macros, co‑browsing, and integrations with Shopify, Slack, Jira, Zapier enhance support and automation.  That is the core of what Re:amaze does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: "Is Re:amaze free?"
     a: "Re:amaze uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $29/mo, check the official website — pricing changes often."
   - q: "What can you do with Re:amaze?"
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Re:amaze?
 
-Re:amaze unifies email, chat, social, SMS, VoIP, video, and push into a shared inbox, uses AI to draft replies, summarize, and analyze sentiment. Real‑time dashboards, workflow macros, co‑browsing, and integrations with Shopify, Slack, Jira, Zapier enhance support and automation. Customer support 11 3 1 Free trial - $29/mo
-
-In short, Re:amaze is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Re:amaze unifies email, chat, social, SMS, VoIP, video, and push into a shared inbox, uses AI to draft replies, summarize, and analyze sentiment. Real‑time dashboards, workflow macros, co‑browsing, and integrations with Shopify, Slack, Jira, Zapier enhance support and automation. In short, Re:amaze is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

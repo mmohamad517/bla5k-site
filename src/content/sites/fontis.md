@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Fontis?
-    a: Fontis.ai turns AI-generated images into on‑demand physical prints. Users choose from a gallery or create custom designs, preview them, and order canvases, posters, mugs, stickers, or puzzles, all printed in high resolution and shipped across the U.S. Art Prints 0 1 Freemium That is the core of what Fontis does — ai print design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Fontis.ai turns AI-generated images into on‑demand physical prints. Users choose from a gallery or create custom designs, preview them, and order canvases, posters, mugs, stickers, or puzzles, all printed in high resolution and shipped across the U.S.  That is the core of what Fontis does — ai print design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Fontis free?
     a: Fontis uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Fontis?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Fontis?
 
-Fontis.ai turns AI-generated images into on‑demand physical prints. Users choose from a gallery or create custom designs, preview them, and order canvases, posters, mugs, stickers, or puzzles, all printed in high resolution and shipped across the U.S. Art Prints 0 1 Freemium
-
-In short, Fontis is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI print design without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Fontis.ai turns AI-generated images into on‑demand physical prints. Users choose from a gallery or create custom designs, preview them, and order canvases, posters, mugs, stickers, or puzzles, all printed in high resolution and shipped across the U.S. In short, Fontis is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI print design without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

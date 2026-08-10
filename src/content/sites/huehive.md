@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: HueHive - AI Tool Review & Guide 2026
-metaDescription: HueHive is an AI‑driven palette generator that quickly creates colors, extracts dominant hues from photos, builds gradients, converts HEX/RGB/HSL/CMYK,...
+metaDescription: HueHive is an AI‑driven palette generator that quickly creates colors, extracts dominant hues from photos, builds gradients, converts HEX/RGB/HSL/CMYK
 simple: HueHive is an AI‑driven palette generator that quickly creates colors, extracts dominant hues from photos, builds gradients, converts HEX/RGB/HSL/CMYK, checks WCAG contrast, previews live UI, and exports to CSS, Tailwind, JSON, PNG, and ASE.
 example: Give HueHive one real task — a prompt, a file, or a request — and it returns a usable result for your ai design workflow.
 goodFor:

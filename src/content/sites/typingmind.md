@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: TypingMind - AI Tool Review & Guide 2026
-metaDescription: TypingMind unifies ChatGPT, Gemini, Claude, and other LLMs in one interface, enabling parallel chats, project folders, tagging, search, and built‑in tools...
+metaDescription: TypingMind unifies ChatGPT, Gemini, Claude, and other LLMs in one interface, enabling parallel chats, project folders, tagging, search, and built‑in tools
 simple: TypingMind unifies ChatGPT, Gemini, Claude, and other LLMs in one interface, enabling parallel chats, project folders, tagging, search, and built‑in tools for documents, images, and code, plus features like agent building, prompt chaining, RAG, voice, canvas, and plugins.
 example: Give TypingMind one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

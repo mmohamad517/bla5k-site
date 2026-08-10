@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ChatFans?
-    a: ChatFans uses AI to connect fans with celebrities and influencers through real‑time, personalized chatbot conversations. It lets creators engage large audiences, cut repetitive work, and monetize via ERC‑20 FANS token rewards and premium content. Avatar 1 0 Free That is the core of what ChatFans does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ChatFans uses AI to connect fans with celebrities and influencers through real‑time, personalized chatbot conversations. It lets creators engage large audiences, cut repetitive work, and monetize via ERC‑20 FANS token rewards and premium content.  That is the core of what ChatFans does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ChatFans free?
     a: Yes — ChatFans is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with ChatFans?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is ChatFans?
 
-ChatFans uses AI to connect fans with celebrities and influencers through real‑time, personalized chatbot conversations. It lets creators engage large audiences, cut repetitive work, and monetize via ERC‑20 FANS token rewards and premium content. Avatar 1 0 Free
-
-In short, ChatFans is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+ChatFans uses AI to connect fans with celebrities and influencers through real‑time, personalized chatbot conversations. It lets creators engage large audiences, cut repetitive work, and monetize via ERC‑20 FANS token rewards and premium content. In short, ChatFans is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

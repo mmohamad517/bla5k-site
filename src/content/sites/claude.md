@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Claude AI?
-    a: Claude is an advanced AI assistant designed for a variety of tasks, including code generation, writing, productivity enhancement, and business automation. It is highly adaptable, intelligent, and customizable to meet diverse user needs. Leading AI Assistants 32 10 2 Freemium - $18/mo That is the core of what Claude AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Claude is an advanced AI assistant designed for a variety of tasks, including code generation, writing, productivity enhancement, and business automation. It is highly adaptable, intelligent, and customizable to meet diverse user needs.  That is the core of what Claude AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Claude AI free?
     a: Claude AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $18/mo, check the official website — pricing changes often.
   - q: What can you do with Claude AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Claude AI?
 
-Claude is an advanced AI assistant designed for a variety of tasks, including code generation, writing, productivity enhancement, and business automation. It is highly adaptable, intelligent, and customizable to meet diverse user needs. Leading AI Assistants 32 10 2 Freemium - $18/mo
-
-In short, Claude AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Claude is an advanced AI assistant designed for a variety of tasks, including code generation, writing, productivity enhancement, and business automation. It is highly adaptable, intelligent, and customizable to meet diverse user needs. In short, Claude AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

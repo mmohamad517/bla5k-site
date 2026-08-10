@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Fluently ai?
-    a: Fluently uses AI to provide real‑time speaking practice, evaluating pronunciation, grammar, vocabulary, and fluency. It adapts lessons, tracks progress, and offers live feedback during calls or recordings for English and Spanish learners. Coaching 16 4 Free That is the core of what Fluently ai does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Fluently uses AI to provide real‑time speaking practice, evaluating pronunciation, grammar, vocabulary, and fluency. It adapts lessons, tracks progress, and offers live feedback during calls or recordings for English and Spanish learners.  That is the core of what Fluently ai does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Fluently ai free?
     a: Yes — Fluently ai is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Fluently ai?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Fluently ai?
 
-Fluently uses AI to provide real‑time speaking practice, evaluating pronunciation, grammar, vocabulary, and fluency. It adapts lessons, tracks progress, and offers live feedback during calls or recordings for English and Spanish learners. Coaching 16 4 Free
-
-In short, Fluently ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Fluently uses AI to provide real‑time speaking practice, evaluating pronunciation, grammar, vocabulary, and fluency. It adapts lessons, tracks progress, and offers live feedback during calls or recordings for English and Spanish learners. In short, Fluently ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

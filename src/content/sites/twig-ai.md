@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Twig AI - AI Tool Review & Guide 2026
-metaDescription: Twig is an autonomous AI agent platform that integrates with existing support stacks via 30+ connectors, automatically resolves tickets using memory and...
+metaDescription: Twig is an autonomous AI agent platform that integrates with existing support stacks via 30+ connectors, automatically resolves tickets using memory and
 simple: Twig is an autonomous AI agent platform that integrates with existing support stacks via 30+ connectors, automatically resolves tickets using memory and synthetic data, escalates low‑confidence cases, reduces routine ticket volume by 70 %, and provides real‑time performance metrics.
 example: Give Twig AI one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it.
 goodFor:

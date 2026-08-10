@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Semihuman.Ai?
-    a: Semihuman.ai converts AI‑generated text into natural, undetectable prose that passes Turnitin, GPTZero, and ZeroGPT. The web and API tools rewrite up to 250 words in 10‑30 seconds, preserving keyword density and readability for SEO and academic use. AI detection 25 5 Freemium - $6/mo That is the core of what Semihuman.Ai does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Semihuman.ai converts AI‑generated text into natural, undetectable prose that passes Turnitin, GPTZero, and ZeroGPT. The web and API tools rewrite up to 250 words in 10‑30 seconds, preserving keyword density and readability for SEO and academic use.  That is the core of what Semihuman.Ai does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Semihuman.Ai free?
     a: Semihuman.Ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $6/mo, check the official website — pricing changes often.
   - q: What can you do with Semihuman.Ai?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Semihuman.Ai?
 
-Semihuman.ai converts AI‑generated text into natural, undetectable prose that passes Turnitin, GPTZero, and ZeroGPT. The web and API tools rewrite up to 250 words in 10‑30 seconds, preserving keyword density and readability for SEO and academic use. AI detection 25 5 Freemium - $6/mo
-
-In short, Semihuman.Ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Semihuman.ai converts AI‑generated text into natural, undetectable prose that passes Turnitin, GPTZero, and ZeroGPT. The web and API tools rewrite up to 250 words in 10‑30 seconds, preserving keyword density and readability for SEO and academic use. In short, Semihuman.Ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

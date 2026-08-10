@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Business Profile Manager - AI Tool Review & Guide 2026
-metaDescription: Rank Google Business Profile offers an AI‑powered dashboard to manage unlimited listings, auto‑reply to reviews with keyword‑rich responses, audit...
+metaDescription: Rank Google Business Profile offers an AI‑powered dashboard to manage unlimited listings, auto‑reply to reviews with keyword‑rich responses, audit citations
 simple: Rank Google Business Profile offers an AI‑powered dashboard to manage unlimited listings, auto‑reply to reviews with keyword‑rich responses, audit citations, track keyword rankings, visualize map positions, and schedule AI‑generated posts for consistent engagement.
 example: Give Business Profile Manager one real task — a prompt, a file, or a request — and it returns a usable result for your ai marketing workflow.
 goodFor:

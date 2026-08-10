@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Navismart AI - AI Tool Review & Guide 2026
-metaDescription: Navismart AI simplifies the immigration process with AI-driven form filling, an eligibility checker for visa options, 24/7 support, mock interview practice,...
+metaDescription: Navismart AI simplifies the immigration process with AI-driven form filling, an eligibility checker for visa options, 24/7 support, mock interview practice
 simple: "Navismart AI simplifies the immigration process with AI-driven form filling, an eligibility checker for visa options, 24/7 support, mock interview practice, real-time application tracking, and multilingual assistance, enhancing efficiency for individuals and families navigating immigration."
 example: "Give Navismart AI one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

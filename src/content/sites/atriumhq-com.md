@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is atriumhq.com?
-    a: Fullcast Performance integrates with CRM, data warehouses, and communication tools to unify sales planning and execution. It delivers AI‑driven coaching, automated goal tracking, real‑time territory and quota visibility, and data enrichment to reduce cycle time and expand pipeline reach. Coaching 0 1 Paid That is the core of what atriumhq.com does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Fullcast Performance integrates with CRM, data warehouses, and communication tools to unify sales planning and execution. It delivers AI‑driven coaching, automated goal tracking, real‑time territory and quota visibility, and data enrichment to reduce cycle time and expand pipeline reach.  That is the core of what atriumhq.com does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is atriumhq.com free?
     a: atriumhq.com is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with atriumhq.com?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is atriumhq.com?
 
-Fullcast Performance integrates with CRM, data warehouses, and communication tools to unify sales planning and execution. It delivers AI‑driven coaching, automated goal tracking, real‑time territory and quota visibility, and data enrichment to reduce cycle time and expand pipeline reach. Coaching 0 1 Paid
-
-In short, atriumhq.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Fullcast Performance integrates with CRM, data warehouses, and communication tools to unify sales planning and execution. It delivers AI‑driven coaching, automated goal tracking, real‑time territory and quota visibility, and data enrichment to reduce cycle time and expand pipeline reach. In short, atriumhq.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

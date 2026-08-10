@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Modor - AI Tool Review & Guide 2026
-metaDescription: Modor generates realistic product and branding mockups from uploaded designs using AI-assisted placement, lighting and shadow adjustments across 10,000+...
+metaDescription: Modor generates realistic product and branding mockups from uploaded designs using AI-assisted placement, lighting and shadow adjustments across 10,000+
 simple: Modor generates realistic product and branding mockups from uploaded designs using AI-assisted placement, lighting and shadow adjustments across 10,000+ templates for apparel, devices, packaging and print.
 example: Give Modor one real task — a prompt, a file, or a request — and it returns a usable result for your ai design workflow.
 goodFor:

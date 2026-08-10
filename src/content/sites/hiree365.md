@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Hiree365 - AI Tool Review & Guide 2026
-metaDescription: "Hiree365 is an AI‑driven applicant tracking system that automates end‑to‑end recruitment: career page setup, job posting, chatbot screening, AI assessments,..."
+metaDescription: "Hiree365 is an AI‑driven applicant tracking system that automates end‑to‑end recruitment: career page setup, job posting, chatbot screening, AI assessments"
 simple: "Hiree365 is an AI‑driven applicant tracking system that automates end‑to‑end recruitment: career page setup, job posting, chatbot screening, AI assessments, candidate matching, video interviews, stage tracking, and campus placement dashboards, consolidating data in one interface."
 example: Give Hiree365 one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Jeeves.Ai - AI Tool Review & Guide 2026
-metaDescription: Jeeves.Ai delivers GPT‑3/4 chat assistance and a library of editable business, legal, and marketing templates—including contracts, SEO and influencer...
+metaDescription: Jeeves.Ai delivers GPT‑3/4 chat assistance and a library of editable business, legal, and marketing templates—including contracts, SEO and influencer
 simple: Jeeves.Ai delivers GPT‑3/4 chat assistance and a library of editable business, legal, and marketing templates—including contracts, SEO and influencer agreements—and content generation for websites, social media, copywriting, education, and customer service across industries.
 example: Give Jeeves.Ai one real task — a prompt, a file, or a request — and it returns a usable result for your conversational ai workflow.
 goodFor:

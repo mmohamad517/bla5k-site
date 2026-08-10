@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Correctify - AI Tool Review & Guide 2026
-metaDescription: Correctify is an AI menu maker for restaurants and hotels that replaces spreadsheets with structured blocks, offering AI proofreading across...
+metaDescription: Correctify is an AI menu maker for restaurants and hotels that replaces spreadsheets with structured blocks, offering AI proofreading across Word/PDF/images
 simple: Correctify is an AI menu maker for restaurants and hotels that replaces spreadsheets with structured blocks, offering AI proofreading across Word/PDF/images, dish and cocktail generation, real‑time collaboration, version control, and online publishing with QR codes.
 example: Give Correctify one real task — a prompt, a file, or a request — and it returns a usable result for your ai work workflow.
 goodFor:

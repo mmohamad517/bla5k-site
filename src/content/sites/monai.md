@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: MonAi - AI Tool Review & Guide 2026
-metaDescription: Monai is an AI-powered expense tracker that simplifies recording via voice messages, categorizes expenses, secures data in private iCloud, and facilitates...
+metaDescription: Monai is an AI-powered expense tracker that simplifies recording via voice messages, categorizes expenses, secures data in private iCloud, and facilitates
 simple: Monai is an AI-powered expense tracker that simplifies recording via voice messages, categorizes expenses, secures data in private iCloud, and facilitates collaborative sharing among users.
 example: Give MonAi one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

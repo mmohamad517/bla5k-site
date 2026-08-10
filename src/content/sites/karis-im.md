@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Karis - AI Tool Review & Guide 2026
-metaDescription: Karis scans a URL to extract brand DNA, map audiences and competitors, then delivers a prioritized growth blueprint, continuous social listening with daily...
+metaDescription: Karis scans a URL to extract brand DNA, map audiences and competitors, then delivers a prioritized growth blueprint, continuous social listening with daily
 simple: Karis scans a URL to extract brand DNA, map audiences and competitors, then delivers a prioritized growth blueprint, continuous social listening with daily opportunity feeds, influencer/creator discovery, SEO/GEO audits, and workflow/reporting tools.
 example: Give Karis one real task — a prompt, a file, or a request — and it returns a usable result for your ai marketing workflow.
 goodFor:

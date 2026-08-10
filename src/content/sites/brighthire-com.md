@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Brighthire.com - AI Tool Review & Guide 2026
-metaDescription: BrightHire automates first‑round interviews with an AI interviewer, records and transcribes sessions, and produces real‑time interview guides, scorecards,...
+metaDescription: BrightHire automates first‑round interviews with an AI interviewer, records and transcribes sessions, and produces real‑time interview guides, scorecards
 simple: BrightHire automates first‑round interviews with an AI interviewer, records and transcribes sessions, and produces real‑time interview guides, scorecards, and candidate summaries.
 example: Give Brighthire.com one real task — a prompt, a file, or a request — and it returns a usable result for your ai research workflow.
 goodFor:

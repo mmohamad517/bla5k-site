@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Section AI - AI Tool Review & Guide 2026
-metaDescription: sectionai.com is an enterprise platform that accelerates AI adoption by providing personalized, role-specific training and certification to transform...
+metaDescription: sectionai.com is an enterprise platform that accelerates AI adoption by providing personalized, role-specific training and certification to transform
 simple: "sectionai.com is an enterprise platform that accelerates AI adoption by providing personalized, role-specific training and certification to transform workforce proficiency."
 example: "Give Section AI one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

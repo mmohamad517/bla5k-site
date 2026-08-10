@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Kustomer IQ - AI Tool Review & Guide 2026
-metaDescription: Kustomer unifies customer data, conversations, and history into a single timeline, combining native AI agents with human-agent collaboration to automate...
+metaDescription: Kustomer unifies customer data, conversations, and history into a single timeline, combining native AI agents with human-agent collaboration to automate
 simple: Kustomer unifies customer data, conversations, and history into a single timeline, combining native AI agents with human-agent collaboration to automate omnichannel support, route workflows, provide real-time agent assist, and surface intent-driven analytics for CX optimization.
 example: Give Kustomer IQ one real task — a prompt, a file, or a request — and it returns a usable result for your ai work workflow.
 goodFor:

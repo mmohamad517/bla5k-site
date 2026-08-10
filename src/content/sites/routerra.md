@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Routerra - AI Tool Review & Guide 2026
-metaDescription: Routerra optimizes delivery and fleet routes with AI-assisted bulk stop import, traffic-aware routing, stop constraints (time windows, priorities), vehicle...
+metaDescription: Routerra optimizes delivery and fleet routes with AI-assisted bulk stop import, traffic-aware routing, stop constraints (time windows, priorities), vehicle
 simple: Routerra optimizes delivery and fleet routes with AI-assisted bulk stop import, traffic-aware routing, stop constraints (time windows, priorities), vehicle and route restrictions, manual adjustments, large-stop handling, exportable plans and direct navigation for drivers and dispatch.
 example: Give Routerra one real task — a prompt, a file, or a request — and it returns a usable result for your business automation workflow.
 goodFor:

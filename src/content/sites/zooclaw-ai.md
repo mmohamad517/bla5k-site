@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Zooclaw AI - AI Tool Review & Guide 2026
-metaDescription: Zooclaw provides role-ready AI specialist teams with built-in workflows, tools, and context for tasks; intelligent routing to top models, persistent...
+metaDescription: Zooclaw provides role-ready AI specialist teams with built-in workflows, tools, and context for tasks; intelligent routing to top models, persistent
 simple: Zooclaw provides role-ready AI specialist teams with built-in workflows, tools, and context for tasks; intelligent routing to top models, persistent sessions, multi-channel interaction, and secure isolated execution to automate workflows and produce end-to-end outputs.
 example: Give Zooclaw AI one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it.
 goodFor:

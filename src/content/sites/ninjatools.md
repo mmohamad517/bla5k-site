@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is NinjaTools?
-    a: NinjaTools is an AI workspace that integrates various functionalities, offering tools for image generation, music creation, and document analysis. It supports collaboration, manages chat data across models, and features categorized prompt libraries for enhanced productivity. Content creation 0 1 Free trial - $11/mo That is the core of what NinjaTools does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: NinjaTools is an AI workspace that integrates various functionalities, offering tools for image generation, music creation, and document analysis. It supports collaboration, manages chat data across models, and features categorized prompt libraries for enhanced productivity.  That is the core of what NinjaTools does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is NinjaTools free?
     a: NinjaTools uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $11/mo, check the official website — pricing changes often.
   - q: What can you do with NinjaTools?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is NinjaTools?
 
-NinjaTools is an AI workspace that integrates various functionalities, offering tools for image generation, music creation, and document analysis. It supports collaboration, manages chat data across models, and features categorized prompt libraries for enhanced productivity. Content creation 0 1 Free trial - $11/mo
-
-In short, NinjaTools is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+NinjaTools is an AI workspace that integrates various functionalities, offering tools for image generation, music creation, and document analysis. It supports collaboration, manages chat data across models, and features categorized prompt libraries for enhanced productivity. In short, NinjaTools is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

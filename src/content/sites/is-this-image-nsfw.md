@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Is This Image NSFW??
-    a: Analyzes if an image is safe for work or not using AI. AI detection 1 1 Free That is the core of what Is This Image NSFW? does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Analyzes if an image is safe for work or not using AI.  That is the core of what Is This Image NSFW? does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Is This Image NSFW? free?
     a: Yes — Is This Image NSFW? is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Is This Image NSFW??
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Is This Image NSFW??
 
-Analyzes if an image is safe for work or not using AI. AI detection 1 1 Free
-
-In short, Is This Image NSFW? is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Analyzes if an image is safe for work or not using AI. In short, Is This Image NSFW? is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

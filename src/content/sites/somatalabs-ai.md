@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-07
 metaTitle: somatalabs.ai - AI 3D Tool Review & Guide 2026
-metaDescription: Somata Labs generates accurate, production-ready human meshes in real time from a single image or biometric prompt, automating mesh creation, rigging, and...
+metaDescription: Somata Labs generates accurate, production-ready human meshes in real time from a single image or biometric prompt, automating mesh creation, rigging, and
 simple: "Somata Labs generates accurate, production-ready human meshes in real time from a single image or biometric prompt, automating mesh creation, rigging, and scale with deterministic AI and exporting FBX, OBJ, GLB, USD for direct engine import."
 example: "Upload a single photo or reference image and somatalabs.ai generates a usable 3D model you can export for games, VR, or visualization work."
 goodFor:

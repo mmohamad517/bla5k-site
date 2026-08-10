@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-07
 metaTitle: To3D.AI - AI 3D Tool Review & Guide 2026
-metaDescription: To3D.AI converts text prompts and 2D images into production-ready 3D models with optimized topology, PBR textures, quad remeshing, LODs, auto-rigging and...
+metaDescription: To3D.AI converts text prompts and 2D images into production-ready 3D models with optimized topology, PBR textures, quad remeshing, LODs, auto-rigging and
 simple: "To3D.AI converts text prompts and 2D images into production-ready 3D models with optimized topology, PBR textures, quad remeshing, LODs, auto-rigging and automated UV/materials."
 example: "Describe what you want in a text prompt — or upload a reference image — and To3D.AI returns a finished 3D model you can export to your game engine, slicer, or 3D software."
 goodFor:

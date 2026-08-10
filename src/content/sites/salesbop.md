@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: SalesBop - AI Tool Review & Guide 2026
-metaDescription: Salesbop is an AI-driven sales coaching tool that provides real-time guidance during calls, helping sales teams improve performance by 40% through...
+metaDescription: Salesbop is an AI-driven sales coaching tool that provides real-time guidance during calls, helping sales teams improve performance by 40% through
 simple: Salesbop is an AI-driven sales coaching tool that provides real-time guidance during calls, helping sales teams improve performance by 40% through personalized coaching, pain point identification, and insights into effective strategies used by top performers.
 example: Give SalesBop one real task — a prompt, a file, or a request — and it returns a usable result for your ai coaching workflow.
 goodFor:

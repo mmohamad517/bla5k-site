@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is FikraHub?
-    a: FikraHub is an AI‑driven platform for ideation, hackathon management, and custom innovation solutions. It offers a Launchpad for educational projects, an Education portal for business challenges, and a Bridge module to build tailored modules across sectors. AI Assistant 1 0 Subscription That is the core of what FikraHub does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: FikraHub is an AI‑driven platform for ideation, hackathon management, and custom innovation solutions. It offers a Launchpad for educational projects, an Education portal for business challenges, and a Bridge module to build tailored modules across sectors.  That is the core of what FikraHub does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is FikraHub free?
     a: FikraHub is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with FikraHub?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is FikraHub?
 
-FikraHub is an AI‑driven platform for ideation, hackathon management, and custom innovation solutions. It offers a Launchpad for educational projects, an Education portal for business challenges, and a Bridge module to build tailored modules across sectors. AI Assistant 1 0 Subscription
-
-In short, FikraHub is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+FikraHub is an AI‑driven platform for ideation, hackathon management, and custom innovation solutions. It offers a Launchpad for educational projects, an Education portal for business challenges, and a Bridge module to build tailored modules across sectors. In short, FikraHub is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

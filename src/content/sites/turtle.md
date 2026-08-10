@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: turtle - AI Tool Review & Guide 2026
-metaDescription: Turtle Try AI is an AI-driven unified CRM that streamlines customer journey management, featuring automated bookings, live chat, support tickets, and...
+metaDescription: Turtle Try AI is an AI-driven unified CRM that streamlines customer journey management, featuring automated bookings, live chat, support tickets, and
 simple: Turtle Try AI is an AI-driven unified CRM that streamlines customer journey management, featuring automated bookings, live chat, support tickets, and integrated analytics, all while enhancing data security and improving customer retention across sales and support teams.
 example: Give turtle one real task — a prompt, a file, or a request — and it returns a usable result for your ai customer support workflow.
 goodFor:

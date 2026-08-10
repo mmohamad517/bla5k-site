@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is trulience.com?
-    a: Trulience.com is an innovative digital avatar platform powered by conversational AI and UE4 technology. It creates lifelike human avatars using real data, accessible via download or WebRTC, and integrates with Dialogflow for immersive AI-human interactions. Avatar 1 0 Subscription - $60/mo That is the core of what trulience.com does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Trulience.com is an innovative digital avatar platform powered by conversational AI and UE4 technology. It creates lifelike human avatars using real data, accessible via download or WebRTC, and integrates with Dialogflow for immersive AI-human interactions.  That is the core of what trulience.com does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is trulience.com free?
     a: trulience.com is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with trulience.com?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is trulience.com?
 
-Trulience.com is an innovative digital avatar platform powered by conversational AI and UE4 technology. It creates lifelike human avatars using real data, accessible via download or WebRTC, and integrates with Dialogflow for immersive AI-human interactions. Avatar 1 0 Subscription - $60/mo
-
-In short, trulience.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Trulience.com is an innovative digital avatar platform powered by conversational AI and UE4 technology. It creates lifelike human avatars using real data, accessible via download or WebRTC, and integrates with Dialogflow for immersive AI-human interactions. In short, trulience.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

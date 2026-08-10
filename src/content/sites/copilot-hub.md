@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Copilot Hub - AI Tool Review & Guide 2026
-metaDescription: Devv is an AI coding agent that builds full‑stack web applications from textual prompts, offering native integrations for authentication, language‑model...
+metaDescription: Devv is an AI coding agent that builds full‑stack web applications from textual prompts, offering native integrations for authentication, language‑model
 simple: Devv is an AI coding agent that builds full‑stack web applications from textual prompts, offering native integrations for authentication, language‑model inference, database, and image generation.
 example: Give Copilot Hub one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

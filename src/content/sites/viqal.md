@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Viqal?
-    a: Viqal automates guest messaging across WhatsApp, Messenger, and web widgets, linking to a PMS for real‑time, personalized responses. It handles routine inquiries, upsells, digital keys, and post‑stay reviews, freeing staff for complex tasks. Communication Automation 1 0 Subscription - $99/mo That is the core of what Viqal does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Viqal automates guest messaging across WhatsApp, Messenger, and web widgets, linking to a PMS for real‑time, personalized responses. It handles routine inquiries, upsells, digital keys, and post‑stay reviews, freeing staff for complex tasks.  That is the core of what Viqal does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Viqal free?
     a: Viqal is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Viqal?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Viqal?
 
-Viqal automates guest messaging across WhatsApp, Messenger, and web widgets, linking to a PMS for real‑time, personalized responses. It handles routine inquiries, upsells, digital keys, and post‑stay reviews, freeing staff for complex tasks. Communication Automation 1 0 Subscription - $99/mo
-
-In short, Viqal is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Viqal automates guest messaging across WhatsApp, Messenger, and web widgets, linking to a PMS for real‑time, personalized responses. It handles routine inquiries, upsells, digital keys, and post‑stay reviews, freeing staff for complex tasks. In short, Viqal is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

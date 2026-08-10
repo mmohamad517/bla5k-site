@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Architecture insights - AI Tool Review & Guide 2026
-metaDescription: Architecture Insights is a resource platform for architecture professionals, featuring over 1,500 articles on AI applications in design, social media...
+metaDescription: Architecture Insights is a resource platform for architecture professionals, featuring over 1,500 articles on AI applications in design, social media
 simple: Architecture Insights is a resource platform for architecture professionals, featuring over 1,500 articles on AI applications in design, social media strategies, and data privacy.
 example: Give Architecture insights one real task — a prompt, a file, or a request — and it returns a usable result for your ai design workflow.
 goodFor:

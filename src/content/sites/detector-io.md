@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Detector.io?
-    a: Detector.io is an AI detection tool that scans text to identify AI-generated passages, providing a score and highlighted segments. It includes integrated tools like an AI humanizer and plagiarism checker to help refine content for authenticity. AI detection 2 1 Free That is the core of what Detector.io does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Detector.io is an AI detection tool that scans text to identify AI-generated passages, providing a score and highlighted segments. It includes integrated tools like an AI humanizer and plagiarism checker to help refine content for authenticity.  That is the core of what Detector.io does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Detector.io free?
     a: Yes — Detector.io is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Detector.io?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Detector.io?
 
-Detector.io is an AI detection tool that scans text to identify AI-generated passages, providing a score and highlighted segments. It includes integrated tools like an AI humanizer and plagiarism checker to help refine content for authenticity. AI detection 2 1 Free
-
-In short, Detector.io is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Detector.io is an AI detection tool that scans text to identify AI-generated passages, providing a score and highlighted segments. It includes integrated tools like an AI humanizer and plagiarism checker to help refine content for authenticity. In short, Detector.io is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

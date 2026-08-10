@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Synaptic AI - AI Tool Review & Guide 2026
-metaDescription: Synaptic AI is a browser-integrated knowledge base and AI agent that captures and summarizes web pages and videos into searchable notes, supports rich-text...
+metaDescription: Synaptic AI is a browser-integrated knowledge base and AI agent that captures and summarizes web pages and videos into searchable notes, supports rich-text
 simple: Synaptic AI is a browser-integrated knowledge base and AI agent that captures and summarizes web pages and videos into searchable notes, supports rich-text editing, tagging, chat-based retrieval, and generates kanban tasks from notes for research and project workflows.
 example: Give Synaptic AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai management workflow.
 goodFor:

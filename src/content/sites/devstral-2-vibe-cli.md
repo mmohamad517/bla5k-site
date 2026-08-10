@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: devstral-2-vibe-cli - AI Tool Review & Guide 2026
-metaDescription: Devstral 2 and Devstral Small 2 are open-source coding models designed for autonomous code automation and development, offering state-of-the-art performance...
+metaDescription: Devstral 2 and Devstral Small 2 are open-source coding models designed for autonomous code automation and development, offering state-of-the-art performance
 simple: Devstral 2 and Devstral Small 2 are open-source coding models designed for autonomous code automation and development, offering state-of-the-art performance and cost-efficiency.
 example: Give devstral-2-vibe-cli one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

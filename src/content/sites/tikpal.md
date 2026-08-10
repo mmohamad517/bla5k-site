@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Tikpal - AI Tool Review & Guide 2026
-metaDescription: Tikpal is an AI voice recorder that captures and organizes audio using a four-microphone array, AI noise reduction, and multi-agent workflows with...
+metaDescription: Tikpal is an AI voice recorder that captures and organizes audio using a four-microphone array, AI noise reduction, and multi-agent workflows with persistent
 simple: Tikpal is an AI voice recorder that captures and organizes audio using a four-microphone array, AI noise reduction, and multi-agent workflows with persistent memory, enabling context-aware recording, tagging, retrieval, and integrations for creators, journalists, and teams.
 example: Give Tikpal one real task — a prompt, a file, or a request — and it returns a usable result for your ai audio workflow.
 goodFor:

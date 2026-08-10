@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Moondream - AI Tool Review & Guide 2026
-metaDescription: Moondream provides vision AI for real-time image and video analysis—object detection, counting, scene reasoning—plus automatic media tagging and metadata...
+metaDescription: Moondream provides vision AI for real-time image and video analysis—object detection, counting, scene reasoning—plus automatic media tagging and metadata for
 simple: "Moondream provides vision AI for real-time image and video analysis—object detection, counting, scene reasoning—plus automatic media tagging and metadata for semantic search, natural-language perception for robotics, semantic UI element recognition, and Python/Node integration."
 example: "Give Moondream one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

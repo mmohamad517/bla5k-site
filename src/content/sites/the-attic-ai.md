@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: The Attic AI - AI Tool Review & Guide 2026
-metaDescription: Attic AI offers no‑code tools to create and deploy custom LLMs that convert internal documents into searchable knowledge bases, automate grant and proposal...
+metaDescription: Attic AI offers no‑code tools to create and deploy custom LLMs that convert internal documents into searchable knowledge bases, automate grant and proposal
 simple: Attic AI offers no‑code tools to create and deploy custom LLMs that convert internal documents into searchable knowledge bases, automate grant and proposal drafting for contractors and universities, and analyze congressional appropriations for compliance—all on secure on‑prem or private cloud.
 example: Give The Attic AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

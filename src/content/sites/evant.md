@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Evant?
-    a: Evant automates event RSVPs, check‑ins, and fundraising via SMS and online links, with keyword‑triggered replies and scheduled messaging. It integrates with CRMs and payment processors, providing real‑time attendance analytics and streamlined donor outreach. Communication Automation 0 1 Subscription - $27/mo That is the core of what Evant does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Evant automates event RSVPs, check‑ins, and fundraising via SMS and online links, with keyword‑triggered replies and scheduled messaging. It integrates with CRMs and payment processors, providing real‑time attendance analytics and streamlined donor outreach.  That is the core of what Evant does — workflow automation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Evant free?
     a: Evant is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Evant?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Evant?
 
-Evant automates event RSVPs, check‑ins, and fundraising via SMS and online links, with keyword‑triggered replies and scheduled messaging. It integrates with CRMs and payment processors, providing real‑time attendance analytics and streamlined donor outreach. Communication Automation 0 1 Subscription - $27/mo
-
-In short, Evant is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Evant automates event RSVPs, check‑ins, and fundraising via SMS and online links, with keyword‑triggered replies and scheduled messaging. It integrates with CRMs and payment processors, providing real‑time attendance analytics and streamlined donor outreach. In short, Evant is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for workflow automation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

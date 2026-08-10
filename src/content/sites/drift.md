@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Drift?
-    a: Drift is an AI chat agent that engages visitors, answers questions, qualifies leads, and routes them to reps or meetings. It reveals company details, tracks conversation metrics, and syncs with sales and marketing tools to shorten cycles and boost conversion. Customer support 14 7 Subscription - $208.33/mo That is the core of what Drift does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Drift is an AI chat agent that engages visitors, answers questions, qualifies leads, and routes them to reps or meetings. It reveals company details, tracks conversation metrics, and syncs with sales and marketing tools to shorten cycles and boost conversion.  That is the core of what Drift does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Drift free?
     a: Drift is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Drift?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Drift?
 
-Drift is an AI chat agent that engages visitors, answers questions, qualifies leads, and routes them to reps or meetings. It reveals company details, tracks conversation metrics, and syncs with sales and marketing tools to shorten cycles and boost conversion. Customer support 14 7 Subscription - $208.33/mo
-
-In short, Drift is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Drift is an AI chat agent that engages visitors, answers questions, qualifies leads, and routes them to reps or meetings. It reveals company details, tracks conversation metrics, and syncs with sales and marketing tools to shorten cycles and boost conversion. In short, Drift is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

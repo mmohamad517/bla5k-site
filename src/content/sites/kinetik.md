@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Kinetik?
-    a: Kinetikis a data-driven content intelligence platform that transforms analytics into creative direction and actionable recommendations. It streamlines content production and distribution through campaign optimization, workflow automation, and collaborative tools for cross-team coordination. Content creation 1 0 Freemium That is the core of what Kinetik does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Kinetikis a data-driven content intelligence platform that transforms analytics into creative direction and actionable recommendations. It streamlines content production and distribution through campaign optimization, workflow automation, and collaborative tools for cross-team coordination.  That is the core of what Kinetik does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Kinetik free?
     a: Kinetik uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Kinetik?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Kinetik?
 
-Kinetikis a data-driven content intelligence platform that transforms analytics into creative direction and actionable recommendations. It streamlines content production and distribution through campaign optimization, workflow automation, and collaborative tools for cross-team coordination. Content creation 1 0 Freemium
-
-In short, Kinetik is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Kinetikis a data-driven content intelligence platform that transforms analytics into creative direction and actionable recommendations. It streamlines content production and distribution through campaign optimization, workflow automation, and collaborative tools for cross-team coordination. In short, Kinetik is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

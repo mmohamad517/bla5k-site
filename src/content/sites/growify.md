@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Growify - AI Tool Review & Guide 2026
-metaDescription: Growify is a marketing attribution and analytics software that enables users to track marketing performance across channels, offering multi-touch...
+metaDescription: Growify is a marketing attribution and analytics software that enables users to track marketing performance across channels, offering multi-touch
 simple: Growify is a marketing attribution and analytics software that enables users to track marketing performance across channels, offering multi-touch attribution, real-time analytics, and customizable reporting for data-driven decision-making and campaign optimization.
 example: Give Growify one real task — a prompt, a file, or a request — and it returns a usable result for your ai work workflow.
 goodFor:

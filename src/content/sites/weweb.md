@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is WeWeb?
-    a: WeWeb is a no-code AI platform for building and customizing web apps with a drag-and-drop editor, requiring no coding skills. It accelerates development and deployment with AI-powered tools and workspace-based project management. App Builder 2 1 Freemium That is the core of what WeWeb does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: WeWeb is a no-code AI platform for building and customizing web apps with a drag-and-drop editor, requiring no coding skills. It accelerates development and deployment with AI-powered tools and workspace-based project management.  That is the core of what WeWeb does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is WeWeb free?
     a: WeWeb uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with WeWeb?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is WeWeb?
 
-WeWeb is a no-code AI platform for building and customizing web apps with a drag-and-drop editor, requiring no coding skills. It accelerates development and deployment with AI-powered tools and workspace-based project management. App Builder 2 1 Freemium
-
-In short, WeWeb is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+WeWeb is a no-code AI platform for building and customizing web apps with a drag-and-drop editor, requiring no coding skills. It accelerates development and deployment with AI-powered tools and workspace-based project management. In short, WeWeb is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

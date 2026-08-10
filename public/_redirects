@@ -1,5 +1,7 @@
 # Redirects for merged duplicate tool entries (301 preserves link equity)
 # NOTE: Cloudflare Pages applies only the first 100 rules — critical rules stay on top.
+# www -> apex (fixes duplicate-host indexation in Google Search Console)
+https://www.bla5k.com/*        https://bla5k.com/:splat   301
 /tools/antigravity*        /tools/google-antigravity/    301
 /tools/apx-ml*             /tools/apx-machine-learning/  301
 /tools/multica-ai*         /tools/multica/               301

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Letters from Santa - AI Tool Review & Guide 2026
-metaDescription: Generates AI-personalized Santa letters using a child’s name, achievements and custom messages; provides editable templates, multi-recipient support,...
+metaDescription: Generates AI-personalized Santa letters using a child’s name, achievements and custom messages; provides editable templates, multi-recipient support
 simple: Generates AI-personalized Santa letters using a child’s name, achievements and custom messages; provides editable templates, multi-recipient support, downloadable printer-ready PDFs, and optional signed mailed delivery—no account required for creation, editing, or regeneration.
 example: Give Letters from Santa one real task — a prompt, a file, or a request — and it returns a usable result for your ai writing workflow.
 goodFor:

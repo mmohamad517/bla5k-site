@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Monet AI - AI Tool Review & Guide 2026
-metaDescription: Monet AI is an all-in-one content creation platform that combines multiple generative models for text-to-video, text-to-image, image-to-video,...
+metaDescription: Monet AI is an all-in-one content creation platform that combines multiple generative models for text-to-video, text-to-image, image-to-video, text-to-speech
 simple: Monet AI is an all-in-one content creation platform that combines multiple generative models for text-to-video, text-to-image, image-to-video, text-to-speech and music generation, with style-transfer presets, batch processing, centralized asset library and a unified API for workflows.
 example: Give Monet AI one real task — a prompt, a file, or a request — and it returns a usable result for your content creation workflow.
 goodFor:

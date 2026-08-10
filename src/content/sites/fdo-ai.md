@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: fdo.ai - AI Tool Review & Guide 2026
-metaDescription: Edison offers AI‑powered tools for small businesses, automating bookkeeping, guiding strategy, managing marketing campaigns, and delivering real‑time...
+metaDescription: Edison offers AI‑powered tools for small businesses, automating bookkeeping, guiding strategy, managing marketing campaigns, and delivering real‑time
 simple: Edison offers AI‑powered tools for small businesses, automating bookkeeping, guiding strategy, managing marketing campaigns, and delivering real‑time analytics for budgeting, forecasting, and resource allocation – all within a unified interface for efficient growth.
 example: Give fdo.ai one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

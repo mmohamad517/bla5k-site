@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TalentSprout?
-    a: TalentSprout is an AI recruitment tool that automates candidate screening with human-like, multilingual interviews. It delivers instant insights and summaries to help teams review candidates and make data-driven hiring decisions faster. AI Agents 3 3 Free trial - $199/mo That is the core of what TalentSprout does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: TalentSprout is an AI recruitment tool that automates candidate screening with human-like, multilingual interviews. It delivers instant insights and summaries to help teams review candidates and make data-driven hiring decisions faster.  That is the core of what TalentSprout does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TalentSprout free?
     a: TalentSprout uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $199/mo, check the official website — pricing changes often.
   - q: What can you do with TalentSprout?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is TalentSprout?
 
-TalentSprout is an AI recruitment tool that automates candidate screening with human-like, multilingual interviews. It delivers instant insights and summaries to help teams review candidates and make data-driven hiring decisions faster. AI Agents 3 3 Free trial - $199/mo
-
-In short, TalentSprout is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+TalentSprout is an AI recruitment tool that automates candidate screening with human-like, multilingual interviews. It delivers instant insights and summaries to help teams review candidates and make data-driven hiring decisions faster. In short, TalentSprout is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

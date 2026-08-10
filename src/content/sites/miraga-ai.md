@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Miraga AI?
-    a: Miraga AI is a realistic image and video generator that turns text prompts into photo-realistic visuals and short clips. It offers adjustable controls for style, aspect ratio, and resolution, with batch processing and API integration for streamlined creative workflows. Art Generation 1 0 Freemium That is the core of what Miraga AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Miraga AI is a realistic image and video generator that turns text prompts into photo-realistic visuals and short clips. It offers adjustable controls for style, aspect ratio, and resolution, with batch processing and API integration for streamlined creative workflows.  That is the core of what Miraga AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Miraga AI free?
     a: Miraga AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Miraga AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Miraga AI?
 
-Miraga AI is a realistic image and video generator that turns text prompts into photo-realistic visuals and short clips. It offers adjustable controls for style, aspect ratio, and resolution, with batch processing and API integration for streamlined creative workflows. Art Generation 1 0 Freemium
-
-In short, Miraga AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Miraga AI is a realistic image and video generator that turns text prompts into photo-realistic visuals and short clips. It offers adjustable controls for style, aspect ratio, and resolution, with batch processing and API integration for streamlined creative workflows. In short, Miraga AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

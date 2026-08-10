@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: CNDTS Screening - AI Tool Review & Guide 2026
-metaDescription: Candidate Screening Software utilizes AI for efficient hiring by offering customizable assessments, instant results, video interviews, and seamless...
+metaDescription: Candidate Screening Software utilizes AI for efficient hiring by offering customizable assessments, instant results, video interviews, and seamless
 simple: "Candidate Screening Software utilizes AI for efficient hiring by offering customizable assessments, instant results, video interviews, and seamless integration with applicant tracking systems, enabling businesses to effectively evaluate and manage large volumes of job applicants."
 example: "Give CNDTS Screening one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

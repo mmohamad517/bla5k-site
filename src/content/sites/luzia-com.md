@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: luzia.com - AI Tool Review & Guide 2026
-metaDescription: "Luzia is a cross-platform AI assistant on web, iOS, Android and WhatsApp offering conversational chat and task workflows: text and image generation and..."
+metaDescription: "Luzia is a cross-platform AI assistant on web, iOS, Android and WhatsApp offering conversational chat and task workflows: text and image generation and"
 simple: "Luzia is a cross-platform AI assistant on web, iOS, Android and WhatsApp offering conversational chat and task workflows: text and image generation and analysis, PDF extraction, math, code, transcription and translation tools, customizable personas, exportable results."
 example: Give luzia.com one real task — a prompt, a file, or a request — and it returns a usable result for your conversational ai workflow.
 goodFor:

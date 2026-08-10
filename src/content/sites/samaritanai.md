@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: SamaritanAI - AI Tool Review & Guide 2026
-metaDescription: SamaritanAI simplifies open source contributions by visualizing complex codebases as navigable graphs, helping users identify necessary file changes, manage...
+metaDescription: SamaritanAI simplifies open source contributions by visualizing complex codebases as navigable graphs, helping users identify necessary file changes, manage
 simple: SamaritanAI simplifies open source contributions by visualizing complex codebases as navigable graphs, helping users identify necessary file changes, manage tasks, and gain insights on GitHub issues, thereby enhancing overall productivity for developers.
 example: Give SamaritanAI one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

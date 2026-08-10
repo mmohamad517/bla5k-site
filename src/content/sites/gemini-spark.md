@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Gemini Spark - AI Tool Review & Guide 2026
-metaDescription: Gemini Spark is a background personal AI agent that automates Google Workspace tasks—summarizing and prioritizing email, extracting receipts and leads,...
+metaDescription: Gemini Spark is a background personal AI agent that automates Google Workspace tasks—summarizing and prioritizing email, extracting receipts and leads
 simple: Gemini Spark is a background personal AI agent that automates Google Workspace tasks—summarizing and prioritizing email, extracting receipts and leads, organizing files, drafting emails, blocking calendar time, and running multi-step scheduled workflows across Workspace apps.
 example: Give Gemini Spark one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

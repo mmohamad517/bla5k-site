@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Mixpanel Spark?
-    a: Spark Beta by Mixpanel is an AI tool that uses natural language processing to provide insights on product, marketing, and revenue questions. It offers efficient report generation and CEO insights, while simplifying data management for better decision-making. Business planning 12 15 Subscription - $20/mo That is the core of what Mixpanel Spark does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Spark Beta by Mixpanel is an AI tool that uses natural language processing to provide insights on product, marketing, and revenue questions. It offers efficient report generation and CEO insights, while simplifying data management for better decision-making.  That is the core of what Mixpanel Spark does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Mixpanel Spark free?
     a: Mixpanel Spark is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Mixpanel Spark?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Mixpanel Spark?
 
-Spark Beta by Mixpanel is an AI tool that uses natural language processing to provide insights on product, marketing, and revenue questions. It offers efficient report generation and CEO insights, while simplifying data management for better decision-making. Business planning 12 15 Subscription - $20/mo
-
-In short, Mixpanel Spark is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI planning without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Spark Beta by Mixpanel is an AI tool that uses natural language processing to provide insights on product, marketing, and revenue questions. It offers efficient report generation and CEO insights, while simplifying data management for better decision-making. In short, Mixpanel Spark is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI planning without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

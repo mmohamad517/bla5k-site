@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: FreeSong AI - AI Tool Review & Guide 2026
-metaDescription: Freesong is a browser-based AI song generator that converts text prompts, humming, or uploads into full tracks with AI voice cloning, genre/mood...
+metaDescription: Freesong is a browser-based AI song generator that converts text prompts, humming, or uploads into full tracks with AI voice cloning, genre/mood
 simple: Freesong is a browser-based AI song generator that converts text prompts, humming, or uploads into full tracks with AI voice cloning, genre/mood arrangements, lyric editing, and DAW-ready exports (MP3/WAV and time-aligned stems).
 example: Give FreeSong AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai content generation workflow.
 goodFor:

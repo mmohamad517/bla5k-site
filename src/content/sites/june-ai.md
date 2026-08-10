@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is June AI?
-    a: June is an AI‑driven analytics platform for B2B SaaS that lets teams query user data via SQL or natural language. It connects to Salesforce, HubSpot, Attio, and Twilio Segment, auto‑generates reports, shares queries, and meets SOC 2 Type II/GDPR compliance. Business planning 2 0 Paid That is the core of what June AI does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: June is an AI‑driven analytics platform for B2B SaaS that lets teams query user data via SQL or natural language. It connects to Salesforce, HubSpot, Attio, and Twilio Segment, auto‑generates reports, shares queries, and meets SOC 2 Type II/GDPR compliance.  That is the core of what June AI does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is June AI free?
     a: June AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with June AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is June AI?
 
-June is an AI‑driven analytics platform for B2B SaaS that lets teams query user data via SQL or natural language. It connects to Salesforce, HubSpot, Attio, and Twilio Segment, auto‑generates reports, shares queries, and meets SOC 2 Type II/GDPR compliance. Business planning 2 0 Paid
-
-In short, June AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI planning without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+June is an AI‑driven analytics platform for B2B SaaS that lets teams query user data via SQL or natural language. It connects to Salesforce, HubSpot, Attio, and Twilio Segment, auto‑generates reports, shares queries, and meets SOC 2 Type II/GDPR compliance. In short, June AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI planning without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

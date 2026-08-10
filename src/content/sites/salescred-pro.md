@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SalesCred PRO?
-    a: Salescred® Pro is an AI-powered platform amining to enhance credibility and accelerate the trust-building process for B2B salespeople. The tool offers real-time prospecting research, industry-specific digital credibility scoring, on-demand competitive intelligence, and more. Sales 6 0 Free trial That is the core of what SalesCred PRO does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Salescred® Pro is an AI-powered platform amining to enhance credibility and accelerate the trust-building process for B2B salespeople. The tool offers real-time prospecting research, industry-specific digital credibility scoring, on-demand competitive intelligence, and more.  That is the core of what SalesCred PRO does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SalesCred PRO free?
     a: SalesCred PRO uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with SalesCred PRO?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is SalesCred PRO?
 
-Salescred® Pro is an AI-powered platform amining to enhance credibility and accelerate the trust-building process for B2B salespeople. The tool offers real-time prospecting research, industry-specific digital credibility scoring, on-demand competitive intelligence, and more. Sales 6 0 Free trial
-
-In short, SalesCred PRO is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Salescred® Pro is an AI-powered platform amining to enhance credibility and accelerate the trust-building process for B2B salespeople. The tool offers real-time prospecting research, industry-specific digital credibility scoring, on-demand competitive intelligence, and more. In short, SalesCred PRO is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

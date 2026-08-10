@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Uncheck AI - AI Tool Review & Guide 2026
-metaDescription: Uncheck AI evaluates text for AI signatures, then rewrites it into human‑like, spam‑free prose that passes detectors such as GPTZero, Turnitin, Copyleaks,...
+metaDescription: Uncheck AI evaluates text for AI signatures, then rewrites it into human‑like, spam‑free prose that passes detectors such as GPTZero, Turnitin, Copyleaks
 simple: Uncheck AI evaluates text for AI signatures, then rewrites it into human‑like, spam‑free prose that passes detectors such as GPTZero, Turnitin, Copyleaks, and ZeroGPT.
 example: Give Uncheck AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai copywriting workflow.
 goodFor:

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Bloome - AI Tool Review & Guide 2026
-metaDescription: Bloome is a platform that coordinates AI agents and human teams across product development, content creation, sales, and operations, enabling end-to-end...
+metaDescription: Bloome is a platform that coordinates AI agents and human teams across product development, content creation, sales, and operations, enabling end-to-end
 simple: "Bloome is a platform that coordinates AI agents and human teams across product development, content creation, sales, and operations, enabling end-to-end workflow automation with shared memory and governance."
 example: "Give Bloome one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

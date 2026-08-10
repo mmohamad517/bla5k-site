@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Ghibli-art.io?
-    a: ghibli-art.io is an AI tool that transforms photos into Ghibli-inspired, painterly anime art with cinematic lighting and soft palettes. It supports batch uploads, custom style prompts, and aspect ratios for fast, high-resolution social-media-ready outputs. Anime Generation 3 0 Freemium That is the core of what Ghibli-art.io does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ghibli-art.io is an AI tool that transforms photos into Ghibli-inspired, painterly anime art with cinematic lighting and soft palettes. It supports batch uploads, custom style prompts, and aspect ratios for fast, high-resolution social-media-ready outputs.  That is the core of what Ghibli-art.io does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Ghibli-art.io free?
     a: Ghibli-art.io uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Ghibli-art.io?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Ghibli-art.io?
 
-ghibli-art.io is an AI tool that transforms photos into Ghibli-inspired, painterly anime art with cinematic lighting and soft palettes. It supports batch uploads, custom style prompts, and aspect ratios for fast, high-resolution social-media-ready outputs. Anime Generation 3 0 Freemium
-
-In short, Ghibli-art.io is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+ghibli-art.io is an AI tool that transforms photos into Ghibli-inspired, painterly anime art with cinematic lighting and soft palettes. It supports batch uploads, custom style prompts, and aspect ratios for fast, high-resolution social-media-ready outputs. In short, Ghibli-art.io is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

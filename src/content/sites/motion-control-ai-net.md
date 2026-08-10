@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Motion Control AI - AI Tool Review & Guide 2026
-metaDescription: motion-control-ai.net is an AI video generator that extracts full-body motion, facial expressions, hand gestures, and lip sync from a reference video to...
+metaDescription: motion-control-ai.net is an AI video generator that extracts full-body motion, facial expressions, hand gestures, and lip sync from a reference video to
 simple: motion-control-ai.net is an AI video generator that extracts full-body motion, facial expressions, hand gestures, and lip sync from a reference video to animate any character image without manual rigging or mocap suits.
 example: Give Motion Control AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai content generation workflow.
 goodFor:

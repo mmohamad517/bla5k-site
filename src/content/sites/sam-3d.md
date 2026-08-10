@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-07
 metaTitle: SAM 3D- - AI 3D Tool Review & Guide 2026
-metaDescription: SAM 3D converts single images into textured 3D meshes and scene reconstructions using SAM 3D Objects and SAM 3D Body, handling occlusions and zero-shot...
+metaDescription: SAM 3D converts single images into textured 3D meshes and scene reconstructions using SAM 3D Objects and SAM 3D Body, handling occlusions and zero-shot
 simple: "SAM 3D converts single images into textured 3D meshes and scene reconstructions using SAM 3D Objects and SAM 3D Body, handling occlusions and zero-shot detection, exporting GLB/OBJ/FBX/PLY and providing API and batch processing."
 example: "Describe what you want in a text prompt — or upload a reference image — and SAM 3D- returns a finished 3D model you can export to your game engine, slicer, or 3D software."
 goodFor:

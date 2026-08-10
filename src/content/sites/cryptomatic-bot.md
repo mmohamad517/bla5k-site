@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: CryptoMatic Bot - AI Tool Review & Guide 2026
-metaDescription: CryptoMatic Bot automates spot and futures trading across multiple exchanges using AI-driven strategies—Scalping, Intraday, Swing—and integrates TradingView...
+metaDescription: CryptoMatic Bot automates spot and futures trading across multiple exchanges using AI-driven strategies—Scalping, Intraday, Swing—and integrates TradingView
 simple: CryptoMatic Bot automates spot and futures trading across multiple exchanges using AI-driven strategies—Scalping, Intraday, Swing—and integrates TradingView alerts or on‑chain data.
 example: Give CryptoMatic Bot one real task — a prompt, a file, or a request — and it returns a usable result for your web3 and ai agents workflow.
 goodFor:

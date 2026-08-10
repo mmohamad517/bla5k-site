@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is getsleek.ai?
-    a: Sleek AI is an all-in-one marketing automation platform utilizing AI for campaign management and optimization. It centralizes tasks, enhances performance, and increases conversion rates while streamlining operations and reducing costs. Get started at getsleek.ai. Marketing 0 1 Free That is the core of what getsleek.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Sleek AI is an all-in-one marketing automation platform utilizing AI for campaign management and optimization. It centralizes tasks, enhances performance, and increases conversion rates while streamlining operations and reducing costs. Get started at getsleek.ai.  That is the core of what getsleek.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is getsleek.ai free?
     a: Yes — getsleek.ai is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with getsleek.ai?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is getsleek.ai?
 
-Sleek AI is an all-in-one marketing automation platform utilizing AI for campaign management and optimization. It centralizes tasks, enhances performance, and increases conversion rates while streamlining operations and reducing costs. Get started at getsleek.ai. Marketing 0 1 Free
-
-In short, getsleek.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Sleek AI is an all-in-one marketing automation platform utilizing AI for campaign management and optimization. It centralizes tasks, enhances performance, and increases conversion rates while streamlining operations and reducing costs. Get started at getsleek.ai. In short, getsleek.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

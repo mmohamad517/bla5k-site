@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: PaioClaw - AI Tool Review & Guide 2026
-metaDescription: "PaioClaw is an AI platform for building and deploying persistent, autonomous agents (\"claws\") in under 60 seconds, featuring a marketplace of 2,000+ skills..."
+metaDescription: PaioClaw is an AI platform for building and deploying persistent, autonomous agents (\"claws\") in under 60 seconds, featuring a marketplace of 2,000+ skills
 simple: "PaioClaw is an AI platform for building and deploying persistent, autonomous agents (\"claws\") in under 60 seconds, featuring a marketplace of 2,000+ skills and integrations with 100+ models."
 example: "Give PaioClaw one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

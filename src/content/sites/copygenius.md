@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: CopyGenius - AI Tool Review & Guide 2026
-metaDescription: CopyGenius is an AI copywriter that quickly generates product descriptions, ad copy, blog outlines, emails, and SEO meta tags from templates, supports over...
+metaDescription: CopyGenius is an AI copywriter that quickly generates product descriptions, ad copy, blog outlines, emails, and SEO meta tags from templates, supports over
 simple: CopyGenius is an AI copywriter that quickly generates product descriptions, ad copy, blog outlines, emails, and SEO meta tags from templates, supports over 100 languages, and offers a Genius Editor for tone analysis and team collaboration.
 example: Give CopyGenius one real task — a prompt, a file, or a request — and it returns a usable result for your ai marketing workflow.
 goodFor:

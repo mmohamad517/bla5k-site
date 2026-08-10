@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ReplyAgent?
-    a: ReplyAgent.ai is an AI-powered Reddit marketing tool that automatically finds relevant conversations and generates authentic, context-aware comments. It features smart targeting, persona-based replies, and built-in anti-spam to drive engagement and traffic efficiently. Marketing 4 0 Free trial That is the core of what ReplyAgent does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ReplyAgent.ai is an AI-powered Reddit marketing tool that automatically finds relevant conversations and generates authentic, context-aware comments. It features smart targeting, persona-based replies, and built-in anti-spam to drive engagement and traffic efficiently.  That is the core of what ReplyAgent does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ReplyAgent free?
     a: ReplyAgent uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ReplyAgent?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is ReplyAgent?
 
-ReplyAgent.ai is an AI-powered Reddit marketing tool that automatically finds relevant conversations and generates authentic, context-aware comments. It features smart targeting, persona-based replies, and built-in anti-spam to drive engagement and traffic efficiently. Marketing 4 0 Free trial
-
-In short, ReplyAgent is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+ReplyAgent.ai is an AI-powered Reddit marketing tool that automatically finds relevant conversations and generates authentic, context-aware comments. It features smart targeting, persona-based replies, and built-in anti-spam to drive engagement and traffic efficiently. In short, ReplyAgent is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

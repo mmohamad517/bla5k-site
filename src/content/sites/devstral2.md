@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: devstral2 - AI Tool Review & Guide 2026
-metaDescription: "Devstral2 is a 123B-parameter coding model with a 256K-token context window for agentic coding: autonomous multi-file editing, refactoring, bug..."
+metaDescription: "Devstral2 is a 123B-parameter coding model with a 256K-token context window for agentic coding: autonomous multi-file editing, refactoring, bug"
 simple: "Devstral2 is a 123B-parameter coding model with a 256K-token context window for agentic coding: autonomous multi-file editing, refactoring, bug detection/fixes, and code review, with IDE integrations, CLI/API access, and on-premise deployment options."
 example: Give devstral2 one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

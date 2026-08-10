@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is CallPrompter.app?
-    a: CallPrompter.app is a real-time AI call coaching tool that provides reps with hidden, context-aware prompts and objection responses during live calls. It features dynamic scripts, AI practice simulations, and manager dashboards to standardize messaging, accelerate training, and improve sales performance. Sales 2 1 3 Free trial - $99/mo That is the core of what CallPrompter.app does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: CallPrompter.app is a real-time AI call coaching tool that provides reps with hidden, context-aware prompts and objection responses during live calls. It features dynamic scripts, AI practice simulations, and manager dashboards to standardize messaging, accelerate training, and improve sales performance.  That is the core of what CallPrompter.app does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is CallPrompter.app free?
     a: CallPrompter.app uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $99/mo, check the official website — pricing changes often.
   - q: What can you do with CallPrompter.app?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is CallPrompter.app?
 
-CallPrompter.app is a real-time AI call coaching tool that provides reps with hidden, context-aware prompts and objection responses during live calls. It features dynamic scripts, AI practice simulations, and manager dashboards to standardize messaging, accelerate training, and improve sales performance. Sales 2 1 3 Free trial - $99/mo
-
-In short, CallPrompter.app is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+CallPrompter.app is a real-time AI call coaching tool that provides reps with hidden, context-aware prompts and objection responses during live calls. It features dynamic scripts, AI practice simulations, and manager dashboards to standardize messaging, accelerate training, and improve sales performance. In short, CallPrompter.app is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

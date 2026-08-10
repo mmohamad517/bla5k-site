@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Base44?
-    a: Base44.com is an AI platform that transforms natural language descriptions into fully-functional, deployed web applications. It automatically generates the code, integrates features like authentication, and hosts the application for instant sharing. App Builder 17 4 Freemium - $16/mo That is the core of what Base44 does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Base44.com is an AI platform that transforms natural language descriptions into fully-functional, deployed web applications. It automatically generates the code, integrates features like authentication, and hosts the application for instant sharing.  That is the core of what Base44 does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Base44 free?
     a: Base44 uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $16/mo, check the official website — pricing changes often.
   - q: What can you do with Base44?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Base44?
 
-Base44.com is an AI platform that transforms natural language descriptions into fully-functional, deployed web applications. It automatically generates the code, integrates features like authentication, and hosts the application for instant sharing. App Builder 17 4 Freemium - $16/mo
-
-In short, Base44 is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Base44.com is an AI platform that transforms natural language descriptions into fully-functional, deployed web applications. It automatically generates the code, integrates features like authentication, and hosts the application for instant sharing. In short, Base44 is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

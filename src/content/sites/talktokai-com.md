@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: talktokai.com - AI Tool Review & Guide 2026
-metaDescription: Plataforma de automatización para WhatsApp que crea agentes 24/7 para captura de datos, agendamiento y atención continua; sincroniza calendarios, envía...
+metaDescription: Plataforma de automatización para WhatsApp que crea agentes 24/7 para captura de datos, agendamiento y atención continua; sincroniza calendarios, envía
 simple: Plataforma de automatización para WhatsApp que crea agentes 24/7 para captura de datos, agendamiento y atención continua; sincroniza calendarios, envía recordatorios, integra con CRM/ERP, procesa documentos con OCR y genera reportes operativos.
 example: Give talktokai.com one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it.
 goodFor:

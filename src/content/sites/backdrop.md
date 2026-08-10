@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Backdrop - AI Tool Review & Guide 2026
-metaDescription: Backdrop automates accounts payable for corporate and project teams by extracting invoices from email, categorizing them, matching to purchase orders, and...
+metaDescription: Backdrop automates accounts payable for corporate and project teams by extracting invoices from email, categorizing them, matching to purchase orders, and
 simple: Backdrop automates accounts payable for corporate and project teams by extracting invoices from email, categorizing them, matching to purchase orders, and issuing payments via ERP or ACH.
 example: Give Backdrop one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

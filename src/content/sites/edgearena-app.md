@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Edge Arena?
-    a: Edge Arena is a decision-testing platform that runs competing AI agents to pressure-test business choices and produce ranked, actionable execution plans. It compares strategies across pricing, demand, channels, and risk, scoring options to deliver clear next actions. AI Agents 1 0 Freemium - $12/mo That is the core of what Edge Arena does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Edge Arena is a decision-testing platform that runs competing AI agents to pressure-test business choices and produce ranked, actionable execution plans. It compares strategies across pricing, demand, channels, and risk, scoring options to deliver clear next actions.  That is the core of what Edge Arena does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Edge Arena free?
     a: Edge Arena uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $12/mo, check the official website — pricing changes often.
   - q: What can you do with Edge Arena?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Edge Arena?
 
-Edge Arena is a decision-testing platform that runs competing AI agents to pressure-test business choices and produce ranked, actionable execution plans. It compares strategies across pricing, demand, channels, and risk, scoring options to deliver clear next actions. AI Agents 1 0 Freemium - $12/mo
-
-In short, Edge Arena is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Edge Arena is a decision-testing platform that runs competing AI agents to pressure-test business choices and produce ranked, actionable execution plans. It compares strategies across pricing, demand, channels, and risk, scoring options to deliver clear next actions. In short, Edge Arena is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

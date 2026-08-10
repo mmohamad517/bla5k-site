@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is FloCareer?
-    a: "FloCareer offers automated, AI‑guided and expert‑led interview workflows for technical, non‑technical, and campus hiring. It delivers instant AI sessions, live 1:1 assessments, structured rubrics, proctoring, skill reports, and ATS integration, cutting interview turnaround to under 24 hours. AI Assistant 0 1 Freemium That is the core of what FloCareer does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "FloCareer offers automated, AI‑guided and expert‑led interview workflows for technical, non‑technical, and campus hiring. It delivers instant AI sessions, live 1:1 assessments, structured rubrics, proctoring, skill reports, and ATS integration, cutting interview turnaround to under 24 hours.  That is the core of what FloCareer does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is FloCareer free?
     a: FloCareer uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with FloCareer?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is FloCareer?
 
-FloCareer offers automated, AI‑guided and expert‑led interview workflows for technical, non‑technical, and campus hiring. It delivers instant AI sessions, live 1:1 assessments, structured rubrics, proctoring, skill reports, and ATS integration, cutting interview turnaround to under 24 hours. AI Assistant 0 1 Freemium
-
-In short, FloCareer is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+FloCareer offers automated, AI‑guided and expert‑led interview workflows for technical, non‑technical, and campus hiring. It delivers instant AI sessions, live 1:1 assessments, structured rubrics, proctoring, skill reports, and ATS integration, cutting interview turnaround to under 24 hours. In short, FloCareer is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

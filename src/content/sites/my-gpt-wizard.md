@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is My GPT Wizard?
-    a: My GPT Wizard is an AI writing and content generation partner that utilizes AI-driven creativity to meet all your content creation needs. Content Writing 5 1 Free trial That is the core of what My GPT Wizard does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: My GPT Wizard is an AI writing and content generation partner that utilizes AI-driven creativity to meet all your content creation needs.  That is the core of what My GPT Wizard does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is My GPT Wizard free?
     a: My GPT Wizard uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with My GPT Wizard?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is My GPT Wizard?
 
-My GPT Wizard is an AI writing and content generation partner that utilizes AI-driven creativity to meet all your content creation needs. Content Writing 5 1 Free trial
-
-In short, My GPT Wizard is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+My GPT Wizard is an AI writing and content generation partner that utilizes AI-driven creativity to meet all your content creation needs. In short, My GPT Wizard is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

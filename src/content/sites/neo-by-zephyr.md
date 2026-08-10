@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Neo by zephyr - AI Tool Review & Guide 2026
-metaDescription: Zephyr Global offers AI‑powered virtual workforce solutions that deliver instant IT support for Microsoft, AWS, Cisco, Dell, Oracle, and Google Cloud...
+metaDescription: Zephyr Global offers AI‑powered virtual workforce solutions that deliver instant IT support for Microsoft, AWS, Cisco, Dell, Oracle, and Google Cloud
 simple: Zephyr Global offers AI‑powered virtual workforce solutions that deliver instant IT support for Microsoft, AWS, Cisco, Dell, Oracle, and Google Cloud environments.
 example: Give Neo by zephyr one real task — a prompt, a file, or a request — and it returns a usable result for your ai customer support workflow.
 goodFor:

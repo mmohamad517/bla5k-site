@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Teammates.ai?
-    a: Teammates.ai is a platform offering autonomous AI teammates that manage business functions with 24/7 human-like interactions in 50+ languages. It handles customer inquiries, qualifies leads, and integrates with CRM systems for real-time, context-aware responses and automated updates. Customer support 4 0 Paid That is the core of what Teammates.ai does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Teammates.ai is a platform offering autonomous AI teammates that manage business functions with 24/7 human-like interactions in 50+ languages. It handles customer inquiries, qualifies leads, and integrates with CRM systems for real-time, context-aware responses and automated updates.  That is the core of what Teammates.ai does — ai customer support handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Teammates.ai free?
     a: Teammates.ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Teammates.ai?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Teammates.ai?
 
-Teammates.ai is a platform offering autonomous AI teammates that manage business functions with 24/7 human-like interactions in 50+ languages. It handles customer inquiries, qualifies leads, and integrates with CRM systems for real-time, context-aware responses and automated updates. Customer support 4 0 Paid
-
-In short, Teammates.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Teammates.ai is a platform offering autonomous AI teammates that manage business functions with 24/7 human-like interactions in 50+ languages. It handles customer inquiries, qualifies leads, and integrates with CRM systems for real-time, context-aware responses and automated updates. In short, Teammates.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI customer support without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

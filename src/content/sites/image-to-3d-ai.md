@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-07
 metaTitle: image-to-3d.ai - AI 3D Tool Review & Guide 2026
-metaDescription: image-to-3d.ai is an AI-powered 3D model generator that transforms single images or text prompts into production-ready assets, supporting both textured...
+metaDescription: image-to-3d.ai is an AI-powered 3D model generator that transforms single images or text prompts into production-ready assets, supporting both textured
 simple: "image-to-3d.ai is an AI-powered 3D model generator that transforms single images or text prompts into production-ready assets, supporting both textured meshes with UVs and geometry-only models for animation and game pipelines."
 example: "Describe what you want in a text prompt — or upload a reference image — and image-to-3d.ai returns a finished 3D model you can export to your game engine, slicer, or 3D software."
 goodFor:

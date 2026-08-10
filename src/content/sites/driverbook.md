@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Driverbook?
-    a: Driverbook is a vehicle‑management app that logs trips, maintenance, and mileage. It offers dark/light themes, searchable records by story, model, or date, reminders for service, and audit‑trail views for weeks, months, and years. Automotive 1 0 Freemium That is the core of what Driverbook does — automotive ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Driverbook is a vehicle‑management app that logs trips, maintenance, and mileage. It offers dark/light themes, searchable records by story, model, or date, reminders for service, and audit‑trail views for weeks, months, and years.  That is the core of what Driverbook does — automotive ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Driverbook free?
     a: Driverbook uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Driverbook?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Driverbook?
 
-Driverbook is a vehicle‑management app that logs trips, maintenance, and mileage. It offers dark/light themes, searchable records by story, model, or date, reminders for service, and audit‑trail views for weeks, months, and years. Automotive 1 0 Freemium
-
-In short, Driverbook is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for automotive AI without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Driverbook is a vehicle‑management app that logs trips, maintenance, and mileage. It offers dark/light themes, searchable records by story, model, or date, reminders for service, and audit‑trail views for weeks, months, and years. In short, Driverbook is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for automotive AI without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

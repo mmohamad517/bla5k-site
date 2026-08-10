@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Yanna.pro?
-    a: Yanna.pro is an AI-based legal document automation platform offering over 10,000 templates for efficient creation of contracts and demand letters. It features AI-assisted generation, e-signature integration, and API support for seamless workflow management. Contract Management 1 0 Free trial That is the core of what Yanna.pro does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Yanna.pro is an AI-based legal document automation platform offering over 10,000 templates for efficient creation of contracts and demand letters. It features AI-assisted generation, e-signature integration, and API support for seamless workflow management.  That is the core of what Yanna.pro does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Yanna.pro free?
     a: Yanna.pro uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Yanna.pro?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Yanna.pro?
 
-Yanna.pro is an AI-based legal document automation platform offering over 10,000 templates for efficient creation of contracts and demand letters. It features AI-assisted generation, e-signature integration, and API support for seamless workflow management. Contract Management 1 0 Free trial
-
-In short, Yanna.pro is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Yanna.pro is an AI-based legal document automation platform offering over 10,000 templates for efficient creation of contracts and demand letters. It features AI-assisted generation, e-signature integration, and API support for seamless workflow management. In short, Yanna.pro is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

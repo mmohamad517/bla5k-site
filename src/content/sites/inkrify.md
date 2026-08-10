@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Inkrify?
-    a: Inkrify is an AI-powered book writing platform that helps users create professional-quality manuscripts efficiently. With features for genre optimization, KDP-ready exports, and a user-friendly editing interface, it supports authors in self-publishing across various formats and languages. Book writer 1 0 Freemium That is the core of what Inkrify does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Inkrify is an AI-powered book writing platform that helps users create professional-quality manuscripts efficiently. With features for genre optimization, KDP-ready exports, and a user-friendly editing interface, it supports authors in self-publishing across various formats and languages.  That is the core of what Inkrify does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Inkrify free?
     a: Inkrify uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Inkrify?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Inkrify?
 
-Inkrify is an AI-powered book writing platform that helps users create professional-quality manuscripts efficiently. With features for genre optimization, KDP-ready exports, and a user-friendly editing interface, it supports authors in self-publishing across various formats and languages. Book writer 1 0 Freemium
-
-In short, Inkrify is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Inkrify is an AI-powered book writing platform that helps users create professional-quality manuscripts efficiently. With features for genre optimization, KDP-ready exports, and a user-friendly editing interface, it supports authors in self-publishing across various formats and languages. In short, Inkrify is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

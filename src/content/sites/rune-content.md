@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Rune Content?
-    a: RuneContent automatically converts LinkedIn posts, threads, or articles into short educational videos. Users paste text and the AI generates a concise, one‑idea video ready for LinkedIn, X, or other platforms, completing production in under ten minutes. Course Generator 0 1 Subscription - $29/mo That is the core of what Rune Content does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: RuneContent automatically converts LinkedIn posts, threads, or articles into short educational videos. Users paste text and the AI generates a concise, one‑idea video ready for LinkedIn, X, or other platforms, completing production in under ten minutes.  That is the core of what Rune Content does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Rune Content free?
     a: Rune Content is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Rune Content?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Rune Content?
 
-RuneContent automatically converts LinkedIn posts, threads, or articles into short educational videos. Users paste text and the AI generates a concise, one‑idea video ready for LinkedIn, X, or other platforms, completing production in under ten minutes. Course Generator 0 1 Subscription - $29/mo
-
-In short, Rune Content is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+RuneContent automatically converts LinkedIn posts, threads, or articles into short educational videos. Users paste text and the AI generates a concise, one‑idea video ready for LinkedIn, X, or other platforms, completing production in under ten minutes. In short, Rune Content is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

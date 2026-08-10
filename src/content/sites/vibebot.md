@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: VibeBot - AI Tool Review & Guide 2026
-metaDescription: VibeBot is a multifunctional Discord bot that streamlines server management with AI-powered moderation, translation, and chatbot features alongside music...
+metaDescription: VibeBot is a multifunctional Discord bot that streamlines server management with AI-powered moderation, translation, and chatbot features alongside music
 simple: VibeBot is a multifunctional Discord bot that streamlines server management with AI-powered moderation, translation, and chatbot features alongside music playback and ticketing.
 example: Give VibeBot one real task — a prompt, a file, or a request — and it returns a usable result for your no-code building workflow.
 goodFor:

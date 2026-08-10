@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: reflexivity.com - AI Tool Review & Guide 2026
-metaDescription: Reflexivity is an investment analysis platform using autonomous AI agents and a knowledge graph to deliver research, document intelligence, smart market...
+metaDescription: Reflexivity is an investment analysis platform using autonomous AI agents and a knowledge graph to deliver research, document intelligence, smart market
 simple: Reflexivity is an investment analysis platform using autonomous AI agents and a knowledge graph to deliver research, document intelligence, smart market screening, portfolio analytics, scenario backtesting, and auditable insights with enterprise data integrations, APIs, and security controls.
 example: Give reflexivity.com one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it.
 goodFor:

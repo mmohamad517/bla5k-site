@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AI CEO Coach?
-    a: The AI CEO Coach by Glenn Gow is an innovative tool that provides personalized guidance to CEOs. It utilizes Glenn's expertise to validate decisions, provide proactive advice, debunk coaching myths, and offer tailored support for confident decision-making and managing organizational complexities. Coaching 1 0 Free That is the core of what AI CEO Coach does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: The AI CEO Coach by Glenn Gow is an innovative tool that provides personalized guidance to CEOs. It utilizes Glenn's expertise to validate decisions, provide proactive advice, debunk coaching myths, and offer tailored support for confident decision-making and managing organizational complexities.  That is the core of what AI CEO Coach does — ai coaching handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AI CEO Coach free?
     a: Yes — AI CEO Coach is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with AI CEO Coach?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is AI CEO Coach?
 
-The AI CEO Coach by Glenn Gow is an innovative tool that provides personalized guidance to CEOs. It utilizes Glenn's expertise to validate decisions, provide proactive advice, debunk coaching myths, and offer tailored support for confident decision-making and managing organizational complexities. Coaching 1 0 Free
-
-In short, AI CEO Coach is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+The AI CEO Coach by Glenn Gow is an innovative tool that provides personalized guidance to CEOs. It utilizes Glenn's expertise to validate decisions, provide proactive advice, debunk coaching myths, and offer tailored support for confident decision-making and managing organizational complexities. In short, AI CEO Coach is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI coaching without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

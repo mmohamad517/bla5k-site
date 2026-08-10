@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: ProdMoh AI - AI Tool Review & Guide 2026
-metaDescription: ProdMoh is an AI‑enabled chief‑of‑staff platform that consolidates product intent into a Product Canvas, tracks releases with evidence‑based Decision...
+metaDescription: ProdMoh is an AI‑enabled chief‑of‑staff platform that consolidates product intent into a Product Canvas, tracks releases with evidence‑based Decision Queues
 simple: ProdMoh is an AI‑enabled chief‑of‑staff platform that consolidates product intent into a Product Canvas, tracks releases with evidence‑based Decision Queues, auto‑generates launch assets, and aligns engineering, product, and GTM teams while reducing support load.
 example: Give ProdMoh AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai planning workflow.
 goodFor:

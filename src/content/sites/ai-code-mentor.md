@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: AI Code Mentor - AI Tool Review & Guide 2026
-metaDescription: AI Code Mentor analyzes pasted JavaScript, Python, HTML, and CSS, providing detailed explanations, complexity metrics, automated refactoring, and...
+metaDescription: AI Code Mentor analyzes pasted JavaScript, Python, HTML, and CSS, providing detailed explanations, complexity metrics, automated refactoring, and code‑review
 simple: AI Code Mentor analyzes pasted JavaScript, Python, HTML, and CSS, providing detailed explanations, complexity metrics, automated refactoring, and code‑review alerts for errors and best‑practice violations, helping learners and developers improve code quality and efficiency.
 example: Give AI Code Mentor one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

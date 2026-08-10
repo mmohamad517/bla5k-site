@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Paradot - AI Tool Review & Guide 2026
-metaDescription: Paradot is a conversational AI for text and voice chat that provides on-demand question answering, drafting and task assistance, preserves conversational...
+metaDescription: Paradot is a conversational AI for text and voice chat that provides on-demand question answering, drafting and task assistance, preserves conversational
 simple: Paradot is a conversational AI for text and voice chat that provides on-demand question answering, drafting and task assistance, preserves conversational context for follow-ups, and offers privacy controls to help users streamline workflows and research.
 example: Give Paradot one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

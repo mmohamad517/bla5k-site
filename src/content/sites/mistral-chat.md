@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Le Chat - Mistral?
-    a: Le Chat is an AI assistant that simplifies tasks from everyday questions to complex projects. It combines powerful AI with access to various data sources for comprehensive answers, offering features like search, code analysis, and custom workflow building. Leading AI Assistants 23 8 Freemium That is the core of what Le Chat - Mistral does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Le Chat is an AI assistant that simplifies tasks from everyday questions to complex projects. It combines powerful AI with access to various data sources for comprehensive answers, offering features like search, code analysis, and custom workflow building.  That is the core of what Le Chat - Mistral does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Le Chat - Mistral free?
     a: Le Chat - Mistral uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Le Chat - Mistral?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Le Chat - Mistral?
 
-Le Chat is an AI assistant that simplifies tasks from everyday questions to complex projects. It combines powerful AI with access to various data sources for comprehensive answers, offering features like search, code analysis, and custom workflow building. Leading AI Assistants 23 8 Freemium
-
-In short, Le Chat - Mistral is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Le Chat is an AI assistant that simplifies tasks from everyday questions to complex projects. It combines powerful AI with access to various data sources for comprehensive answers, offering features like search, code analysis, and custom workflow building. In short, Le Chat - Mistral is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

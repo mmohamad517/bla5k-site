@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Maestro AI - AI Tool Review & Guide 2026
-metaDescription: Maestro is an AI agent command center that orchestrates autonomous coding agents across desktop, CLI, and mobile, supporting multi-agent workflows,...
+metaDescription: Maestro is an AI agent command center that orchestrates autonomous coding agents across desktop, CLI, and mobile, supporting multi-agent workflows
 simple: "Maestro is an AI agent command center that orchestrates autonomous coding agents across desktop, CLI, and mobile, supporting multi-agent workflows, scheduling, Git-aware editing, remote control, real-time monitoring, and JSON/log outputs for automation."
 example: "Give Maestro AI one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

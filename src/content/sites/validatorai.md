@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ValidatorAI?
-    a: ValidatorAI evaluates startup ideas, scoring market fit, competitor landscape, TAM/SAM/SOM, and simulating customer responses. It outputs a structured value proposition, launch gaps, pivot suggestions, a landing‑page template, and an MVP outline to accelerate prototype development. Business planning 1 0 Paid That is the core of what ValidatorAI does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ValidatorAI evaluates startup ideas, scoring market fit, competitor landscape, TAM/SAM/SOM, and simulating customer responses. It outputs a structured value proposition, launch gaps, pivot suggestions, a landing‑page template, and an MVP outline to accelerate prototype development.  That is the core of what ValidatorAI does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ValidatorAI free?
     a: ValidatorAI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with ValidatorAI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is ValidatorAI?
 
-ValidatorAI evaluates startup ideas, scoring market fit, competitor landscape, TAM/SAM/SOM, and simulating customer responses. It outputs a structured value proposition, launch gaps, pivot suggestions, a landing‑page template, and an MVP outline to accelerate prototype development. Business planning 1 0 Paid
-
-In short, ValidatorAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI planning without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+ValidatorAI evaluates startup ideas, scoring market fit, competitor landscape, TAM/SAM/SOM, and simulating customer responses. It outputs a structured value proposition, launch gaps, pivot suggestions, a landing‑page template, and an MVP outline to accelerate prototype development. In short, ValidatorAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI planning without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

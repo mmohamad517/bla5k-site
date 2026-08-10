@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Notation?
-    a: Notation is a CLI that pushes Markdown from a repo to a Notion page or static site. It reads a Notation.toml config, supports page metadata, and renders headers, lists, tables, code, images, links, and nested page references as Notion subpages. Document management 0 1 Free That is the core of what Notation does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Notation is a CLI that pushes Markdown from a repo to a Notion page or static site. It reads a Notation.toml config, supports page metadata, and renders headers, lists, tables, code, images, links, and nested page references as Notion subpages.  That is the core of what Notation does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Notation free?
     a: Yes — Notation is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Notation?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Notation?
 
-Notation is a CLI that pushes Markdown from a repo to a Notion page or static site. It reads a Notation.toml config, supports page metadata, and renders headers, lists, tables, code, images, links, and nested page references as Notion subpages. Document management 0 1 Free
-
-In short, Notation is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Notation is a CLI that pushes Markdown from a repo to a Notion page or static site. It reads a Notation.toml config, supports page metadata, and renders headers, lists, tables, code, images, links, and nested page references as Notion subpages. In short, Notation is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: 未来简历 - AI Tool Review & Guide 2026
-metaDescription: FutureResume is an AI‑powered tool that analyzes your existing résumé and a target job description, extracts key skills, writes STAR‑based content,...
+metaDescription: FutureResume is an AI‑powered tool that analyzes your existing résumé and a target job description, extracts key skills, writes STAR‑based content
 simple: FutureResume is an AI‑powered tool that analyzes your existing résumé and a target job description, extracts key skills, writes STAR‑based content, auto‑formats it for HR readability, provides match and coherence reports, and offers interview prep.
 example: Give 未来简历 one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

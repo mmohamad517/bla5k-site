@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PrometAI?
-    a: The PrometAI AI Business Plan Generator simplifies business plan creation with strategic guidance, AI-assisted content generation, and expert valuation tools. It ensures security and offers step-by-step guidance, making planning effortless for all entrepreneurs. Business planning 1 2 Freemium - $29/mo That is the core of what PrometAI does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: The PrometAI AI Business Plan Generator simplifies business plan creation with strategic guidance, AI-assisted content generation, and expert valuation tools. It ensures security and offers step-by-step guidance, making planning effortless for all entrepreneurs.  That is the core of what PrometAI does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is PrometAI free?
     a: PrometAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $29/mo, check the official website — pricing changes often.
   - q: What can you do with PrometAI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is PrometAI?
 
-The PrometAI AI Business Plan Generator simplifies business plan creation with strategic guidance, AI-assisted content generation, and expert valuation tools. It ensures security and offers step-by-step guidance, making planning effortless for all entrepreneurs. Business planning 1 2 Freemium - $29/mo
-
-In short, PrometAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI planning without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+The PrometAI AI Business Plan Generator simplifies business plan creation with strategic guidance, AI-assisted content generation, and expert valuation tools. It ensures security and offers step-by-step guidance, making planning effortless for all entrepreneurs. In short, PrometAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI planning without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

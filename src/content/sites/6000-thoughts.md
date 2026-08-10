@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: 6000 thoughts - AI Tool Review & Guide 2026
-metaDescription: 6000 Thoughts records spontaneous self‑conversations, summarizes recurring themes, flags cognitive biases, and tracks patterns to support mindfulness and...
+metaDescription: 6000 Thoughts records spontaneous self‑conversations, summarizes recurring themes, flags cognitive biases, and tracks patterns to support mindfulness and
 simple: 6000 Thoughts records spontaneous self‑conversations, summarizes recurring themes, flags cognitive biases, and tracks patterns to support mindfulness and self‑awareness.
 example: Give 6000 thoughts one real task — a prompt, a file, or a request — and it returns a usable result for your ai coaching workflow.
 goodFor:

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: kat dev - AI Tool Review & Guide 2026
-metaDescription: Kat Dev is an AI code intelligence tool that assists software engineers by generating high-quality code, implementing features, fixing bugs, and optimizing...
+metaDescription: Kat Dev is an AI code intelligence tool that assists software engineers by generating high-quality code, implementing features, fixing bugs, and optimizing
 simple: Kat Dev is an AI code intelligence tool that assists software engineers by generating high-quality code, implementing features, fixing bugs, and optimizing performance.
 example: Give kat dev one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

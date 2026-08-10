@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: createinfluencers.com - AI Tool Review & Guide 2026
-metaDescription: CreateInfluencers generates realistic images and short videos of virtual influencers, offering themed photo packs and customizable character templates, face...
+metaDescription: CreateInfluencers generates realistic images and short videos of virtual influencers, offering themed photo packs and customizable character templates, face
 simple: CreateInfluencers generates realistic images and short videos of virtual influencers, offering themed photo packs and customizable character templates, face enhance/lock/swap, avatar creation, image-to-HD restoration, custom model training, social-ready exports and unlimited iterative variations.
 example: Give createinfluencers.com one real task — a prompt, a file, or a request — and it returns a usable result for your ai avatar generation workflow.
 goodFor:

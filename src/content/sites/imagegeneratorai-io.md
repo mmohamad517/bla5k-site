@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ImageGeneratorAI.io?
-    a: ImageGeneratorAI.io is a browser-based AI image generator that transforms text prompts into high-resolution visuals using models like SDXL and Flux. It offers extensive customization for style, aspect ratio, and composition, enabling rapid creation of marketing assets, concept art, and social media content. Content creation 5 2 1 Free That is the core of what ImageGeneratorAI.io does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ImageGeneratorAI.io is a browser-based AI image generator that transforms text prompts into high-resolution visuals using models like SDXL and Flux. It offers extensive customization for style, aspect ratio, and composition, enabling rapid creation of marketing assets, concept art, and social media content.  That is the core of what ImageGeneratorAI.io does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ImageGeneratorAI.io free?
     a: Yes — ImageGeneratorAI.io is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with ImageGeneratorAI.io?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is ImageGeneratorAI.io?
 
-ImageGeneratorAI.io is a browser-based AI image generator that transforms text prompts into high-resolution visuals using models like SDXL and Flux. It offers extensive customization for style, aspect ratio, and composition, enabling rapid creation of marketing assets, concept art, and social media content. Content creation 5 2 1 Free
-
-In short, ImageGeneratorAI.io is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+ImageGeneratorAI.io is a browser-based AI image generator that transforms text prompts into high-resolution visuals using models like SDXL and Flux. It offers extensive customization for style, aspect ratio, and composition, enabling rapid creation of marketing assets, concept art, and social media content. In short, ImageGeneratorAI.io is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

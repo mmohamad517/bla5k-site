@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Aixpertrecruit - AI Tool Review & Guide 2026
-metaDescription: AixpertRecruit is an AI-driven recruitment tool that streamlines sourcing, screening, and hiring by creating personalized interviews and utilizing...
+metaDescription: AixpertRecruit is an AI-driven recruitment tool that streamlines sourcing, screening, and hiring by creating personalized interviews and utilizing
 simple: AixpertRecruit is an AI-driven recruitment tool that streamlines sourcing, screening, and hiring by creating personalized interviews and utilizing intelligent assessments, helping HR teams efficiently manage candidates and build effective teams across various industries.
 example: Give Aixpertrecruit one real task — a prompt, a file, or a request — and it returns a usable result for your ai research workflow.
 goodFor:

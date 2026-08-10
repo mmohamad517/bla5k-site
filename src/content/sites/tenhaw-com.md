@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Tenhaw.com?
-    a: Tenhaw delivers Outcomes as a Service, starting with a 20‑minute discovery and a 90‑day plan to reset priorities. AI agents auto‑code while humans supervise, boosting release speed 30‑50 % and cutting defects and waste by 40‑50 %. Project management 1 0 Freemium That is the core of what Tenhaw.com does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Tenhaw delivers Outcomes as a Service, starting with a 20‑minute discovery and a 90‑day plan to reset priorities. AI agents auto‑code while humans supervise, boosting release speed 30‑50 % and cutting defects and waste by 40‑50 %.  That is the core of what Tenhaw.com does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Tenhaw.com free?
     a: Tenhaw.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Tenhaw.com?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Tenhaw.com?
 
-Tenhaw delivers Outcomes as a Service, starting with a 20‑minute discovery and a 90‑day plan to reset priorities. AI agents auto‑code while humans supervise, boosting release speed 30‑50 % and cutting defects and waste by 40‑50 %. Project management 1 0 Freemium
-
-In short, Tenhaw.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Tenhaw delivers Outcomes as a Service, starting with a 20‑minute discovery and a 90‑day plan to reset priorities. AI agents auto‑code while humans supervise, boosting release speed 30‑50 % and cutting defects and waste by 40‑50 %. In short, Tenhaw.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

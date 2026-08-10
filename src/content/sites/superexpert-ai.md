@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: SuperExpert AI - AI Tool Review & Guide 2026
-metaDescription: SuperExpert AI is an open-source platform for building and deploying multi-task AI agents without coding, featuring RAG for document retrieval and custom...
+metaDescription: SuperExpert AI is an open-source platform for building and deploying multi-task AI agents without coding, featuring RAG for document retrieval and custom
 simple: "SuperExpert AI is an open-source platform for building and deploying multi-task AI agents without coding, featuring RAG for document retrieval and custom tool integration."
 example: "Give SuperExpert AI one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

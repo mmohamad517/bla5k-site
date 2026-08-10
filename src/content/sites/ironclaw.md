@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: IronClaw - AI Tool Review & Guide 2026
-metaDescription: ironclaw is a Rust-based, OpenAI-compatible self-hosted AI assistant framework emphasizing privacy and security, offering an embedded registry, WASM...
+metaDescription: ironclaw is a Rust-based, OpenAI-compatible self-hosted AI assistant framework emphasizing privacy and security, offering an embedded registry, WASM
 simple: "ironclaw is a Rust-based, OpenAI-compatible self-hosted AI assistant framework emphasizing privacy and security, offering an embedded registry, WASM channels, multi-channel adapters (Signal, Telegram, Slack, Discord), hot-activate extensions, and containerized deployment tooling."
 example: "Give IronClaw one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:
@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is IronClaw?
-    a: ironclaw is a Rust-based, OpenAI-compatible self-hosted AI assistant framework emphasizing privacy and security, offering an embedded registry, WASM channels, multi-channel adapters (Signal, Telegram, Slack, Discord), hot-activate extensions, and containerized deployment tooling. AI Agents 2 0 1 Free That is the core of what IronClaw does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ironclaw is a Rust-based, OpenAI-compatible self-hosted AI assistant framework emphasizing privacy and security, offering an embedded registry, WASM channels, multi-channel adapters (Signal, Telegram, Slack, Discord), hot-activate extensions, and containerized deployment tooling.  That is the core of what IronClaw does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is IronClaw free?
     a: Yes — IronClaw is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with IronClaw?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is IronClaw?
 
-ironclaw is a Rust-based, OpenAI-compatible self-hosted AI assistant framework emphasizing privacy and security, offering an embedded registry, WASM channels, multi-channel adapters (Signal, Telegram, Slack, Discord), hot-activate extensions, and containerized deployment tooling. AI Agents 2 0 1 Free
-
-In short, IronClaw is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+ironclaw is a Rust-based, OpenAI-compatible self-hosted AI assistant framework emphasizing privacy and security, offering an embedded registry, WASM channels, multi-channel adapters (Signal, Telegram, Slack, Discord), hot-activate extensions, and containerized deployment tooling. In short, IronClaw is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

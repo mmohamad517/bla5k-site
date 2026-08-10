@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Soul Machines Studio?
-    a: "Soul Machines Studio is a platform for creating autonomous, interactive AI assistants with customizable appearance, tone, and personality. It leverages emotional AI to respond to human emotions and integrates with proprietary models and LLMs for seamless 1:1 customer interactions. AI Assistant 3 2 Free trial - $12.99/mo That is the core of what Soul Machines Studio does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot."
+    a: "Soul Machines Studio is a platform for creating autonomous, interactive AI assistants with customizable appearance, tone, and personality. It leverages emotional AI to respond to human emotions and integrates with proprietary models and LLMs for seamless 1:1 customer interactions.  That is the core of what Soul Machines Studio does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot."
   - q: Is Soul Machines Studio free?
     a: Soul Machines Studio uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $12.99/mo, check the official website — pricing changes often.
   - q: What can you do with Soul Machines Studio?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Soul Machines Studio?
 
-Soul Machines Studio is a platform for creating autonomous, interactive AI assistants with customizable appearance, tone, and personality. It leverages emotional AI to respond to human emotions and integrates with proprietary models and LLMs for seamless 1:1 customer interactions. AI Assistant 3 2 Free trial - $12.99/mo
-
-In short, Soul Machines Studio is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Soul Machines Studio is a platform for creating autonomous, interactive AI assistants with customizable appearance, tone, and personality. It leverages emotional AI to respond to human emotions and integrates with proprietary models and LLMs for seamless 1:1 customer interactions. In short, Soul Machines Studio is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

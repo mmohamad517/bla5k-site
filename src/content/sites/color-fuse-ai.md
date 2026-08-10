@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Color Fuse AI?
-    a: Generate AI‑powered color palettes and apply them instantly across Adobe Illustrator, Photoshop 2022+, and Figma. Customize and save schemes to the cloud, accessing them from any device via a ZXP plugin or web interface. Coloring 1 0 Freemium - $8/mo That is the core of what Color Fuse AI does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Generate AI‑powered color palettes and apply them instantly across Adobe Illustrator, Photoshop 2022+, and Figma. Customize and save schemes to the cloud, accessing them from any device via a ZXP plugin or web interface.  That is the core of what Color Fuse AI does — ai design handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Color Fuse AI free?
     a: Color Fuse AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $8/mo, check the official website — pricing changes often.
   - q: What can you do with Color Fuse AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Color Fuse AI?
 
-Generate AI‑powered color palettes and apply them instantly across Adobe Illustrator, Photoshop 2022+, and Figma. Customize and save schemes to the cloud, accessing them from any device via a ZXP plugin or web interface. Coloring 1 0 Freemium - $8/mo
-
-In short, Color Fuse AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Generate AI‑powered color palettes and apply them instantly across Adobe Illustrator, Photoshop 2022+, and Figma. Customize and save schemes to the cloud, accessing them from any device via a ZXP plugin or web interface. In short, Color Fuse AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI design without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Yaara.ai - AI Tool Review & Guide 2026
-metaDescription: Yaara is an AI writing assistant that produces ads, emails, blogs, website copy, social media posts, and presentations in 26 languages using context‑aware...
+metaDescription: Yaara is an AI writing assistant that produces ads, emails, blogs, website copy, social media posts, and presentations in 26 languages using context‑aware
 simple: Yaara is an AI writing assistant that produces ads, emails, blogs, website copy, social media posts, and presentations in 26 languages using context‑aware generation, templates, SEO prompts, and real‑time style edits.
 example: Give Yaara.ai one real task — a prompt, a file, or a request — and it returns a usable result for your ai copywriting workflow.
 goodFor:

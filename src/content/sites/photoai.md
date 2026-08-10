@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is PhotoAI?
-    a: Photo AI transforms uploaded portrait photos into over 100 unique AI‑styled images per selected pack (Tinder, LinkedIn, Polaroid, Avatar, Royal). Users receive downloadable files within hours, suitable for professional headshots or dating‑app profiles. Avatar 0 1 Freemium That is the core of what PhotoAI does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Photo AI transforms uploaded portrait photos into over 100 unique AI‑styled images per selected pack (Tinder, LinkedIn, Polaroid, Avatar, Royal). Users receive downloadable files within hours, suitable for professional headshots or dating‑app profiles.  That is the core of what PhotoAI does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is PhotoAI free?
     a: PhotoAI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with PhotoAI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is PhotoAI?
 
-Photo AI transforms uploaded portrait photos into over 100 unique AI‑styled images per selected pack (Tinder, LinkedIn, Polaroid, Avatar, Royal). Users receive downloadable files within hours, suitable for professional headshots or dating‑app profiles. Avatar 0 1 Freemium
-
-In short, PhotoAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Photo AI transforms uploaded portrait photos into over 100 unique AI‑styled images per selected pack (Tinder, LinkedIn, Polaroid, Avatar, Royal). Users receive downloadable files within hours, suitable for professional headshots or dating‑app profiles. In short, PhotoAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

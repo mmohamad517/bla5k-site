@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Agent Reach - AI Tool Review & Guide 2026
-metaDescription: agent-reach gives AI agents one-command access to web and social platforms (Twitter/X, Reddit, YouTube, Bilibili, Xiaohongshu, GitHub, LinkedIn, V2EX,...
+metaDescription: agent-reach gives AI agents one-command access to web and social platforms (Twitter/X, Reddit, YouTube, Bilibili, Xiaohongshu, GitHub, LinkedIn, V2EX
 simple: "agent-reach gives AI agents one-command access to web and social platforms (Twitter/X, Reddit, YouTube, Bilibili, Xiaohongshu, GitHub, LinkedIn, V2EX, Xueqiu), enabling zero-config search, subtitle/transcript extraction, repo cloning with mirror, Markdown ingestion and diagnostics."
 example: "Give Agent Reach one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

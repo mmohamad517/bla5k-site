@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Brella - AI Tool Review & Guide 2026
-metaDescription: Brella is an event platform for virtual, physical, and hybrid events that uses AI matchmaking to pair attendees, collects post‑event lead scans and ratings,...
+metaDescription: Brella is an event platform for virtual, physical, and hybrid events that uses AI matchmaking to pair attendees, collects post‑event lead scans and ratings
 simple: Brella is an event platform for virtual, physical, and hybrid events that uses AI matchmaking to pair attendees, collects post‑event lead scans and ratings, and offers full branding customization, sponsor portals, native API integration, real‑time engagement analytics, and multi‑track scheduling.
 example: Give Brella one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

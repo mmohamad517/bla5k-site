@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: GenZWrite - AI Tool Review & Guide 2026
-metaDescription: GenZWrite humanizes AI output by rewriting text into natural, context-aware prose across modes—Academic, Social, DM, Hustle—producing role-specific tones,...
+metaDescription: GenZWrite humanizes AI output by rewriting text into natural, context-aware prose across modes—Academic, Social, DM, Hustle—producing role-specific tones
 simple: GenZWrite humanizes AI output by rewriting text into natural, context-aware prose across modes—Academic, Social, DM, Hustle—producing role-specific tones, alternative drafts, summaries and multilingual rewrites for captions, essays, resumes and cover letters.
 example: Give GenZWrite one real task — a prompt, a file, or a request — and it returns a usable result for your ai copywriting workflow.
 goodFor:

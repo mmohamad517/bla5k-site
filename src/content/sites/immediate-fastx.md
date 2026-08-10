@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Immediate FastX - AI Tool Review & Guide 2026
-metaDescription: Immediate FastX is an AI-powered cryptocurrency trading platform that automates transactions for Bitcoin, Ethereum, and Litecoin using real-time market...
+metaDescription: Immediate FastX is an AI-powered cryptocurrency trading platform that automates transactions for Bitcoin, Ethereum, and Litecoin using real-time market
 simple: Immediate FastX is an AI-powered cryptocurrency trading platform that automates transactions for Bitcoin, Ethereum, and Litecoin using real-time market analysis.
 example: Give Immediate FastX one real task — a prompt, a file, or a request — and it returns a usable result for your web3 and ai agents workflow.
 goodFor:

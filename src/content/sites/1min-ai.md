@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is 1min.AI?
-    a: 1minAI unifies text, image, audio, and video AI tools in one interface, supporting GPT‑4, Gemini, Claude, and Mistral. It offers generation, editing, translation, and API integration while keeping data private. AI Assistant 11 7 Freemium - $7/mo That is the core of what 1min.AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: 1minAI unifies text, image, audio, and video AI tools in one interface, supporting GPT‑4, Gemini, Claude, and Mistral. It offers generation, editing, translation, and API integration while keeping data private.  That is the core of what 1min.AI does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is 1min.AI free?
     a: 1min.AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $7/mo, check the official website — pricing changes often.
   - q: What can you do with 1min.AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is 1min.AI?
 
-1minAI unifies text, image, audio, and video AI tools in one interface, supporting GPT‑4, Gemini, Claude, and Mistral. It offers generation, editing, translation, and API integration while keeping data private. AI Assistant 11 7 Freemium - $7/mo
-
-In short, 1min.AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+1minAI unifies text, image, audio, and video AI tools in one interface, supporting GPT‑4, Gemini, Claude, and Mistral. It offers generation, editing, translation, and API integration while keeping data private. In short, 1min.AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Typewise - AI Tool Review & Guide 2026
-metaDescription: Typewise is an AI tool for customer service sales teams that improves efficiency, reduces response time, and enhances customer satisfaction through features...
+metaDescription: Typewise is an AI tool for customer service sales teams that improves efficiency, reduces response time, and enhances customer satisfaction through features
 simple: Typewise is an AI tool for customer service sales teams that improves efficiency, reduces response time, and enhances customer satisfaction through features like text prediction, auto-reply, and analytics dashboard.
 example: Give Typewise one real task — a prompt, a file, or a request — and it returns a usable result for your ai sales workflow.
 goodFor:

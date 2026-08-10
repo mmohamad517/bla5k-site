@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Lanceboard - AI Tool Review & Guide 2026
-metaDescription: Lanceboard is a freelance platform that simplifies task assignment and management, featuring AI-driven talent matching, secure payments, and collaborative...
+metaDescription: Lanceboard is a freelance platform that simplifies task assignment and management, featuring AI-driven talent matching, secure payments, and collaborative
 simple: Lanceboard is a freelance platform that simplifies task assignment and management, featuring AI-driven talent matching, secure payments, and collaborative project tools to enhance productivity for clients and freelancers in the gig economy.
 example: Give Lanceboard one real task — a prompt, a file, or a request — and it returns a usable result for your ai management workflow.
 goodFor:

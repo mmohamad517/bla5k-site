@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Trellus?
-    a: Trellus embeds a parallel dialer into sales engagement tools, enabling up to five simultaneous calls, automated voicemail drops, and number health checks. AI handles inbound calls, qualifies prospects, coaches reps live, and scores analytics to close performance gaps. Sales 1 0 Free trial That is the core of what Trellus does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Trellus embeds a parallel dialer into sales engagement tools, enabling up to five simultaneous calls, automated voicemail drops, and number health checks. AI handles inbound calls, qualifies prospects, coaches reps live, and scores analytics to close performance gaps.  That is the core of what Trellus does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Trellus free?
     a: Trellus uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Trellus?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Trellus?
 
-Trellus embeds a parallel dialer into sales engagement tools, enabling up to five simultaneous calls, automated voicemail drops, and number health checks. AI handles inbound calls, qualifies prospects, coaches reps live, and scores analytics to close performance gaps. Sales 1 0 Free trial
-
-In short, Trellus is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Trellus embeds a parallel dialer into sales engagement tools, enabling up to five simultaneous calls, automated voicemail drops, and number health checks. AI handles inbound calls, qualifies prospects, coaches reps live, and scores analytics to close performance gaps. In short, Trellus is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

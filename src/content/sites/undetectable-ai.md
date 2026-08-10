@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Undetectable AI?
-    a: Undetectable AI scans text and images for signatures of models like GPT‑4, Gemini, and Claude, combining multiple engine results into a probability score. It handles paraphrased content, supports 50+ languages, and offers a Chrome extension and API. AI detection 7 6 Free - $5/mo That is the core of what Undetectable AI does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Undetectable AI scans text and images for signatures of models like GPT‑4, Gemini, and Claude, combining multiple engine results into a probability score. It handles paraphrased content, supports 50+ languages, and offers a Chrome extension and API.  That is the core of what Undetectable AI does — ai work handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Undetectable AI free?
     a: Undetectable AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Undetectable AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Undetectable AI?
 
-Undetectable AI scans text and images for signatures of models like GPT‑4, Gemini, and Claude, combining multiple engine results into a probability score. It handles paraphrased content, supports 50+ languages, and offers a Chrome extension and API. AI detection 7 6 Free - $5/mo
-
-In short, Undetectable AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Undetectable AI scans text and images for signatures of models like GPT‑4, Gemini, and Claude, combining multiple engine results into a probability score. It handles paraphrased content, supports 50+ languages, and offers a Chrome extension and API. In short, Undetectable AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

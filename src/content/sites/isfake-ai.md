@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is isFake AI?
-    a: isFake.ai is a deepfake detection tool that identifies AI-generated content across text, images, audio, and video. It provides instant analysis and transparent scoring to help verify the authenticity of digital media. AI detection 3 2 Freemium - $9/mo That is the core of what isFake AI does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: isFake.ai is a deepfake detection tool that identifies AI-generated content across text, images, audio, and video. It provides instant analysis and transparent scoring to help verify the authenticity of digital media.  That is the core of what isFake AI does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is isFake AI free?
     a: isFake AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $9/mo, check the official website — pricing changes often.
   - q: What can you do with isFake AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is isFake AI?
 
-isFake.ai is a deepfake detection tool that identifies AI-generated content across text, images, audio, and video. It provides instant analysis and transparent scoring to help verify the authenticity of digital media. AI detection 3 2 Freemium - $9/mo
-
-In short, isFake AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+isFake.ai is a deepfake detection tool that identifies AI-generated content across text, images, audio, and video. It provides instant analysis and transparent scoring to help verify the authenticity of digital media. In short, isFake AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

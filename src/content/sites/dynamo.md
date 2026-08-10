@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Dynamo - AI Tool Review & Guide 2026
-metaDescription: Dynamo is an AI‑driven DM platform that transforms messaging into a full‑funnel growth engine, automating acquisition, retention, and retargeting with...
+metaDescription: Dynamo is an AI‑driven DM platform that transforms messaging into a full‑funnel growth engine, automating acquisition, retention, and retargeting with
 simple: Dynamo is an AI‑driven DM platform that transforms messaging into a full‑funnel growth engine, automating acquisition, retention, and retargeting with personalized DMs at scale.
 example: Give Dynamo one real task — a prompt, a file, or a request — and it returns a usable result for your ai marketing workflow.
 goodFor:

@@ -42,7 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Scrumbuiss?
 
-Scrumbuiss is an AI-powered project management tool that enhances team collaboration, streamlines workflows, and boosts productivity. It offers task management, Kanban boards, progress tracking, AI automation, and real-time notifications for efficient project execution and organization. Project management 1 3
+Scrumbuiss is an AI-powered project management tool that enhances team collaboration, streamlines workflows, and boosts productivity. It offers task management, Kanban boards, progress tracking, AI automation, and real-time notifications for efficient project execution and organization. 
 
 In short, Scrumbuiss is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI work without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 

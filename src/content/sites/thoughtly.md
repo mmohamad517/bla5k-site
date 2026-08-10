@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Thoughtly?
-    a: Thoughtly automates inbound/outbound calls with code‑free voice agents that integrate CRM, calendars and SaaS tools. It supports sales, support, and appointments, provides real‑time analytics, custom knowledge bases, industry templates, and scales by talk time. AI Agents 4 1 Free That is the core of what Thoughtly does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Thoughtly automates inbound/outbound calls with code‑free voice agents that integrate CRM, calendars and SaaS tools. It supports sales, support, and appointments, provides real‑time analytics, custom knowledge bases, industry templates, and scales by talk time.  That is the core of what Thoughtly does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Thoughtly free?
     a: Yes — Thoughtly is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Thoughtly?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Thoughtly?
 
-Thoughtly automates inbound/outbound calls with code‑free voice agents that integrate CRM, calendars and SaaS tools. It supports sales, support, and appointments, provides real‑time analytics, custom knowledge bases, industry templates, and scales by talk time. AI Agents 4 1 Free
-
-In short, Thoughtly is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Thoughtly automates inbound/outbound calls with code‑free voice agents that integrate CRM, calendars and SaaS tools. It supports sales, support, and appointments, provides real‑time analytics, custom knowledge bases, industry templates, and scales by talk time. In short, Thoughtly is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

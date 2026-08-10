@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Chat KJV - AI Tool Review & Guide 2026
-metaDescription: ChatKJV is a chat interface for the King James Bible that returns contextually relevant passages, offers natural-language scripture search, verse lookup,...
+metaDescription: ChatKJV is a chat interface for the King James Bible that returns contextually relevant passages, offers natural-language scripture search, verse lookup
 simple: ChatKJV is a chat interface for the King James Bible that returns contextually relevant passages, offers natural-language scripture search, verse lookup, devotional prompts, and personalized recommendations; includes church-focused features for sermon preparation, group engagement, and SSO.
 example: Give Chat KJV one real task — a prompt, a file, or a request — and it returns a usable result for your conversational ai workflow.
 goodFor:

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Doppel - AI Tool Review & Guide 2026
-metaDescription: Doppel - Chat Era is an app with AI personas of famous personalities from various fields for engaging in stimulating conversations and learning about their...
+metaDescription: Doppel - Chat Era is an app with AI personas of famous personalities from various fields for engaging in stimulating conversations and learning about their
 simple: Doppel - Chat Era is an app with AI personas of famous personalities from various fields for engaging in stimulating conversations and learning about their perspectives on current world issues.
 example: Give Doppel one real task — a prompt, a file, or a request — and it returns a usable result for your conversational ai workflow.
 goodFor:

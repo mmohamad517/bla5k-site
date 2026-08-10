@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Quark - AI Tool Review & Guide 2026
-metaDescription: Quark Publishing Platform is an enterprise content lifecycle management system for structured, componentized authoring and automated document assembly,...
+metaDescription: Quark Publishing Platform is an enterprise content lifecycle management system for structured, componentized authoring and automated document assembly
 simple: Quark Publishing Platform is an enterprise content lifecycle management system for structured, componentized authoring and automated document assembly, offering XML CCMS, version control, approval workflows, AI-assisted unstructured-to-structured conversion, LLM integrations, APIs, omnichannel publishing and localization.
 example: Give Quark one real task — a prompt, a file, or a request — and it returns a usable result for your business automation workflow.
 goodFor:

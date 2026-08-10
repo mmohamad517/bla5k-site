@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Storylist - AI Tool Review & Guide 2026
-metaDescription: Storylist automatically turns simple project descriptions into structured user stories, offering time estimates, GitHub sync, shared boards, and public...
+metaDescription: Storylist automatically turns simple project descriptions into structured user stories, offering time estimates, GitHub sync, shared boards, and public links
 simple: Storylist automatically turns simple project descriptions into structured user stories, offering time estimates, GitHub sync, shared boards, and public links for clear communication.
 example: Give Storylist one real task — a prompt, a file, or a request — and it returns a usable result for your ai management workflow.
 goodFor:

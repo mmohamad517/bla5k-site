@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-07
 metaTitle: Meta AI Demos - AI 3D Tool Review & Guide 2026
-metaDescription: Meta AI Demos is a catalog of experimental models and interactive technical demos from Meta Research, enabling developers and researchers to test...
+metaDescription: Meta AI Demos is a catalog of experimental models and interactive technical demos from Meta Research, enabling developers and researchers to test image/video
 simple: "Meta AI Demos is a catalog of experimental models and interactive technical demos from Meta Research, enabling developers and researchers to test image/video segmentation and tracking, audio/video generation, embodied agent and 3D localization models, prototype integrations, and evaluate outputs."
 example: "Record a short video of an object with your phone and Meta AI Demos turns it into a usable 3D model you can rotate, export, and drop into your project."
 goodFor:

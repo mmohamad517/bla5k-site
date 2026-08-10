@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Dust?
-    a: Dust is an AI agent OS that deploys, orchestrates, and governs agents across departments, linking to knowledge bases, productivity tools, and data silos. It handles reporting, ticket routing, code review, onboarding, and contract review while meeting SOC 2, GDPR, and HIPAA. AI Agents 1 1 Subscription That is the core of what Dust does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Dust is an AI agent OS that deploys, orchestrates, and governs agents across departments, linking to knowledge bases, productivity tools, and data silos. It handles reporting, ticket routing, code review, onboarding, and contract review while meeting SOC 2, GDPR, and HIPAA.  That is the core of what Dust does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Dust free?
     a: Dust is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Dust?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Dust?
 
-Dust is an AI agent OS that deploys, orchestrates, and governs agents across departments, linking to knowledge bases, productivity tools, and data silos. It handles reporting, ticket routing, code review, onboarding, and contract review while meeting SOC 2, GDPR, and HIPAA. AI Agents 1 1 Subscription
-
-In short, Dust is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Dust is an AI agent OS that deploys, orchestrates, and governs agents across departments, linking to knowledge bases, productivity tools, and data silos. It handles reporting, ticket routing, code review, onboarding, and contract review while meeting SOC 2, GDPR, and HIPAA. In short, Dust is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

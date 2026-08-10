@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Kindred Tales - AI Tool Review & Guide 2026
-metaDescription: Kindred Tales records a loved one’s life story through weekly prompts, AI biographer follow‑ups, and voice or email entries, transcribes speech, and...
+metaDescription: Kindred Tales records a loved one’s life story through weekly prompts, AI biographer follow‑ups, and voice or email entries, transcribes speech, and compiles
 simple: Kindred Tales records a loved one’s life story through weekly prompts, AI biographer follow‑ups, and voice or email entries, transcribes speech, and compiles photos and text into a polished hardcover book for future generations.
 example: Give Kindred Tales one real task — a prompt, a file, or a request — and it returns a usable result for your ai writing workflow.
 goodFor:

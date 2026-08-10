@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: rowy.io - AI Tool Review & Guide 2026
-metaDescription: Rowy provides a low-code backend for Google Cloud/Firebase, exposing Firestore in a spreadsheet UI, enabling inline backend functions, API and job...
+metaDescription: Rowy provides a low-code backend for Google Cloud/Firebase, exposing Firestore in a spreadsheet UI, enabling inline backend functions, API and job
 simple: Rowy provides a low-code backend for Google Cloud/Firebase, exposing Firestore in a spreadsheet UI, enabling inline backend functions, API and job deployment, field-level data management, automations, webhooks, prebuilt AI templates, and role-based auditing.
 example: Give rowy.io one real task — a prompt, a file, or a request — and it returns a usable result for your ai work workflow.
 goodFor:

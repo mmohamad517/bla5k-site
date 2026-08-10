@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Patra - AI Tool Review & Guide 2026
-metaDescription: Patra is a natural language assistant that enables Jira ticket management directly within Slack, allowing users to create, update, and track tickets with...
+metaDescription: Patra is a natural language assistant that enables Jira ticket management directly within Slack, allowing users to create, update, and track tickets with
 simple: Patra is a natural language assistant that enables Jira ticket management directly within Slack, allowing users to create, update, and track tickets with conversational commands, enhancing team collaboration and providing real-time updates on project metrics.
 example: Give Patra one real task — a prompt, a file, or a request — and it returns a usable result for your ai management workflow.
 goodFor:

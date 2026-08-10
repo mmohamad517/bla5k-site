@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Ouro - AI Tool Review & Guide 2026
-metaDescription: Ouro is a collaborative platform that lets researchers upload and monetize Earth datasets, share APIs via Water APIs, embed live data and code in posts,...
+metaDescription: Ouro is a collaborative platform that lets researchers upload and monetize Earth datasets, share APIs via Water APIs, embed live data and code in posts
 simple: "Ouro is a collaborative platform that lets researchers upload and monetize Earth datasets, share APIs via Water APIs, embed live data and code in posts, organize community quests, and provide a Python SDK for automating pipelines, with private collaboration options."
 example: "Give Ouro one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: ATZ CRM - AI Tool Review & Guide 2026
-metaDescription: AtZ CRM is an AI-driven recruitment software that combines ATS and CRM functionalities, streamlining hiring workflows with automation, smart resume parsing,...
+metaDescription: AtZ CRM is an AI-driven recruitment software that combines ATS and CRM functionalities, streamlining hiring workflows with automation, smart resume parsing
 simple: AtZ CRM is an AI-driven recruitment software that combines ATS and CRM functionalities, streamlining hiring workflows with automation, smart resume parsing, customizable pipelines, and detailed analytics for efficient candidate management and communication.
 example: Give ATZ CRM one real task — a prompt, a file, or a request — and it returns a usable result for your ai research workflow.
 goodFor:
@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ATZ CRM?
-    a: AtZ CRM is an AI-driven recruitment software that combines ATS and CRM functionalities, streamlining hiring workflows with automation, smart resume parsing, customizable pipelines, and detailed analytics for efficient candidate management and communication. Human resources 1 0 Free trial - $10/mo That is the core of what ATZ CRM does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AtZ CRM is an AI-driven recruitment software that combines ATS and CRM functionalities, streamlining hiring workflows with automation, smart resume parsing, customizable pipelines, and detailed analytics for efficient candidate management and communication.  That is the core of what ATZ CRM does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ATZ CRM free?
     a: ATZ CRM uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $10/mo, check the official website — pricing changes often.
   - q: What can you do with ATZ CRM?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is ATZ CRM?
 
-AtZ CRM is an AI-driven recruitment software that combines ATS and CRM functionalities, streamlining hiring workflows with automation, smart resume parsing, customizable pipelines, and detailed analytics for efficient candidate management and communication. Human resources 1 0 Free trial - $10/mo
-
-In short, ATZ CRM is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+AtZ CRM is an AI-driven recruitment software that combines ATS and CRM functionalities, streamlining hiring workflows with automation, smart resume parsing, customizable pipelines, and detailed analytics for efficient candidate management and communication. In short, ATZ CRM is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

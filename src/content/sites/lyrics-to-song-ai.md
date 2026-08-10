@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Lyrics to Song AI?
-    a: Lyrics to Song AI is a tool that converts text lyrics into complete songs with AI-generated vocals and instrumentals. It allows for genre and style customization, producing studio-quality, export-ready audio for demos, content, and commercial projects. Audio generation 4 1 Free trial That is the core of what Lyrics to Song AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Lyrics to Song AI is a tool that converts text lyrics into complete songs with AI-generated vocals and instrumentals. It allows for genre and style customization, producing studio-quality, export-ready audio for demos, content, and commercial projects.  That is the core of what Lyrics to Song AI does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Lyrics to Song AI free?
     a: Lyrics to Song AI uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Lyrics to Song AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Lyrics to Song AI?
 
-Lyrics to Song AI is a tool that converts text lyrics into complete songs with AI-generated vocals and instrumentals. It allows for genre and style customization, producing studio-quality, export-ready audio for demos, content, and commercial projects. Audio generation 4 1 Free trial
-
-In short, Lyrics to Song AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Lyrics to Song AI is a tool that converts text lyrics into complete songs with AI-generated vocals and instrumentals. It allows for genre and style customization, producing studio-quality, export-ready audio for demos, content, and commercial projects. In short, Lyrics to Song AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

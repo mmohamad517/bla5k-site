@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Reasonix - AI Tool Review & Guide 2026
-metaDescription: Reasonix.io is a terminal-native AI coding agent that leverages Deepseek’s byte-stable prefix cache to achieve 90%+ cache hits, slashing input-token costs...
+metaDescription: Reasonix.io is a terminal-native AI coding agent that leverages Deepseek’s byte-stable prefix cache to achieve 90%+ cache hits, slashing input-token costs to
 simple: Reasonix.io is a terminal-native AI coding agent that leverages Deepseek’s byte-stable prefix cache to achieve 90%+ cache hits, slashing input-token costs to roughly one-fifth.
 example: Give Reasonix one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

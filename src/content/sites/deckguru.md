@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: DeckGuru - AI Tool Review & Guide 2026
-metaDescription: DeckGuru AI analyzes uploaded PDF pitch decks (≤20 MB, 20 pages) and offers quick, actionable feedback on structure, content, visuals, storytelling, and...
+metaDescription: DeckGuru AI analyzes uploaded PDF pitch decks (≤20 MB, 20 pages) and offers quick, actionable feedback on structure, content, visuals, storytelling, and
 simple: DeckGuru AI analyzes uploaded PDF pitch decks (≤20 MB, 20 pages) and offers quick, actionable feedback on structure, content, visuals, storytelling, and clarity, helping founders refine narratives for stronger investor presentations in a lightweight, fast process.
 example: Give DeckGuru one real task — a prompt, a file, or a request — and it returns a usable result for your business automation workflow.
 goodFor:

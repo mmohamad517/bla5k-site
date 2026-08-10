@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Coframe - AI Tool Review & Guide 2026
-metaDescription: Coframe automates conversion rate optimization and website experimentation by generating deployable UI code, performance-focused copy, and visuals,...
+metaDescription: Coframe automates conversion rate optimization and website experimentation by generating deployable UI code, performance-focused copy, and visuals, surfacing
 simple: "Coframe automates conversion rate optimization and website experimentation by generating deployable UI code, performance-focused copy, and visuals, surfacing and prioritizing test ideas from site structure and audience data, enabling rapid deployment, analytics, and enterprise-grade security."
 example: "Give Coframe one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

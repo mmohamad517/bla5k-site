@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: VibeOnly - AI Tool Review & Guide 2026
-metaDescription: VibeOnly assesses candidates' AI and coding proficiency using real-world challenges, automated scoring, and metrics like prompting, problem-solving, speed,...
+metaDescription: VibeOnly assesses candidates' AI and coding proficiency using real-world challenges, automated scoring, and metrics like prompting, problem-solving, speed
 simple: VibeOnly assesses candidates' AI and coding proficiency using real-world challenges, automated scoring, and metrics like prompting, problem-solving, speed, and core coding skills to standardize candidate comparison, prioritize shortlists, and integrate with recruitment workflows.
 example: Give VibeOnly one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it.
 goodFor:

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Ontezo - AI Tool Review & Guide 2026
-metaDescription: Ontezo is an AI-driven project management tool that enhances team productivity with features like AI-generated user stories, an AI Scrum Master, reporting...
+metaDescription: Ontezo is an AI-driven project management tool that enhances team productivity with features like AI-generated user stories, an AI Scrum Master, reporting
 simple: Ontezo is an AI-driven project management tool that enhances team productivity with features like AI-generated user stories, an AI Scrum Master, reporting tools, and an integrated CRM system for efficient resource management and collaboration.
 example: Give Ontezo one real task — a prompt, a file, or a request — and it returns a usable result for your ai management workflow.
 goodFor:

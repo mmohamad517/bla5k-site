@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MyGPT Link?
-    a: MyGPT lets users build custom ChatGPT‑style bots inside Telegram, choosing from GPT‑4o, GPT‑3.5‑turbo, or Claude 3‑5‑sonnet. It adds DALL·E 3 image generation, Whisper transcription, GPT‑4 Vision image understanding, and text‑to‑speech, with quick setup and open‑source scripts. Chatbot builder 1 0 Paid - $19.99 That is the core of what MyGPT Link does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: MyGPT lets users build custom ChatGPT‑style bots inside Telegram, choosing from GPT‑4o, GPT‑3.5‑turbo, or Claude 3‑5‑sonnet. It adds DALL·E 3 image generation, Whisper transcription, GPT‑4 Vision image understanding, and text‑to‑speech, with quick setup and open‑source scripts.  That is the core of what MyGPT Link does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MyGPT Link free?
     a: MyGPT Link is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with MyGPT Link?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is MyGPT Link?
 
-MyGPT lets users build custom ChatGPT‑style bots inside Telegram, choosing from GPT‑4o, GPT‑3.5‑turbo, or Claude 3‑5‑sonnet. It adds DALL·E 3 image generation, Whisper transcription, GPT‑4 Vision image understanding, and text‑to‑speech, with quick setup and open‑source scripts. Chatbot builder 1 0 Paid - $19.99
-
-In short, MyGPT Link is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+MyGPT lets users build custom ChatGPT‑style bots inside Telegram, choosing from GPT‑4o, GPT‑3.5‑turbo, or Claude 3‑5‑sonnet. It adds DALL·E 3 image generation, Whisper transcription, GPT‑4 Vision image understanding, and text‑to‑speech, with quick setup and open‑source scripts. In short, MyGPT Link is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

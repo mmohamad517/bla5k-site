@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Terrakotta?
-    a: Terrakotta automates commercial real‑estate outreach by integrating with CRMs and Excel, providing AI call summarization, voice cloning, and AI voicemails. Its property database and Chrome extension deliver owner data, skip‑trace numbers, and enriched market insights for efficient contact. AI Assistant 1 0 Freemium That is the core of what Terrakotta does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Terrakotta automates commercial real‑estate outreach by integrating with CRMs and Excel, providing AI call summarization, voice cloning, and AI voicemails. Its property database and Chrome extension deliver owner data, skip‑trace numbers, and enriched market insights for efficient contact.  That is the core of what Terrakotta does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Terrakotta free?
     a: Terrakotta uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Terrakotta?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Terrakotta?
 
-Terrakotta automates commercial real‑estate outreach by integrating with CRMs and Excel, providing AI call summarization, voice cloning, and AI voicemails. Its property database and Chrome extension deliver owner data, skip‑trace numbers, and enriched market insights for efficient contact. AI Assistant 1 0 Freemium
-
-In short, Terrakotta is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Terrakotta automates commercial real‑estate outreach by integrating with CRMs and Excel, providing AI call summarization, voice cloning, and AI voicemails. Its property database and Chrome extension deliver owner data, skip‑trace numbers, and enriched market insights for efficient contact. In short, Terrakotta is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

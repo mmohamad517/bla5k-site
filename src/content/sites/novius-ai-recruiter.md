@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Novius AI Recruiter - AI Tool Review & Guide 2026
-metaDescription: Novius is a recruitment automation tool that streamlines hiring by creating job descriptions, providing advanced candidate matching, and offering seamless...
+metaDescription: Novius is a recruitment automation tool that streamlines hiring by creating job descriptions, providing advanced candidate matching, and offering seamless
 simple: Novius is a recruitment automation tool that streamlines hiring by creating job descriptions, providing advanced candidate matching, and offering seamless communication integration with Google Workspace and Outlook, along with customizable assessments for evaluating candidate skills.
 example: Give Novius AI Recruiter one real task — a prompt, a file, or a request — and it returns a usable result for your ai research workflow.
 goodFor:

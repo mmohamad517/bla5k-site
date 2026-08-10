@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Gupshup - AI Tool Review & Guide 2026
-metaDescription: Gupshup.ai provides omnichannel conversational AI agents for sales, marketing, and support, enabling automated lead generation, lifecycle outreach, drip...
+metaDescription: Gupshup.ai provides omnichannel conversational AI agents for sales, marketing, and support, enabling automated lead generation, lifecycle outreach, drip
 simple: Gupshup.ai provides omnichannel conversational AI agents for sales, marketing, and support, enabling automated lead generation, lifecycle outreach, drip campaigns and commerce workflows, with real-time intent detection, LLM-powered dialogue, escalation routing, and CRM integrations.
 example: Give Gupshup one real task — a prompt, a file, or a request — and it returns a usable result for your ai work workflow.
 goodFor:

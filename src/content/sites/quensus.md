@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Quensus?
-    a: Quensus is an AI‑powered water management system that detects leaks instantly, automatically shuts off valves, and supplies real‑time flow analytics. It integrates with building controls, supports compliance, and reduces insurance risk across commercial, residential, and industrial sites. AI Assistant 1 0 Free That is the core of what Quensus does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Quensus is an AI‑powered water management system that detects leaks instantly, automatically shuts off valves, and supplies real‑time flow analytics. It integrates with building controls, supports compliance, and reduces insurance risk across commercial, residential, and industrial sites.  That is the core of what Quensus does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Quensus free?
     a: Yes — Quensus is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with Quensus?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Quensus?
 
-Quensus is an AI‑powered water management system that detects leaks instantly, automatically shuts off valves, and supplies real‑time flow analytics. It integrates with building controls, supports compliance, and reduces insurance risk across commercial, residential, and industrial sites. AI Assistant 1 0 Free
-
-In short, Quensus is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Quensus is an AI‑powered water management system that detects leaks instantly, automatically shuts off valves, and supplies real‑time flow analytics. It integrates with building controls, supports compliance, and reduces insurance risk across commercial, residential, and industrial sites. In short, Quensus is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

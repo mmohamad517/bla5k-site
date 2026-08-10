@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Bardeen AI - AI Tool Review & Guide 2026
-metaDescription: Bardeen automates lead generation by scraping web data, using AI to research and qualify prospects, and enriching contacts with verified emails and phone...
+metaDescription: Bardeen automates lead generation by scraping web data, using AI to research and qualify prospects, and enriching contacts with verified emails and phone
 simple: "Bardeen automates lead generation by scraping web data, using AI to research and qualify prospects, and enriching contacts with verified emails and phone numbers."
 example: "Give Bardeen AI one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

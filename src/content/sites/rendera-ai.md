@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-07
 metaTitle: Rendera.ai - AI 3D Tool Review & Guide 2026
-metaDescription: Rendera is an AI-powered design generator that creates high-quality landscape and interior visualizations from uploaded images, considering climate and...
+metaDescription: Rendera is an AI-powered design generator that creates high-quality landscape and interior visualizations from uploaded images, considering climate and
 simple: "Rendera is an AI-powered design generator that creates high-quality landscape and interior visualizations from uploaded images, considering climate and architectural styles."
 example: "Upload a single photo or reference image and Rendera.ai generates a usable 3D model you can export for games, VR, or visualization work."
 goodFor:

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is MyGPT?
-    a: A free and fast Chat interface powered by ChatGPT API with prompts support, which can be enhanced by installing plugins via MyGPT, requiring an OpenAI API key. AI Assistant 0 1 Free That is the core of what MyGPT does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: A free and fast Chat interface powered by ChatGPT API with prompts support, which can be enhanced by installing plugins via MyGPT, requiring an OpenAI API key.  That is the core of what MyGPT does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is MyGPT free?
     a: Yes — MyGPT is currently free to use. The exact limits and any future pricing changes should be confirmed on the official website, as tools in this category occasionally introduce paid tiers.
   - q: What can you do with MyGPT?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is MyGPT?
 
-A free and fast Chat interface powered by ChatGPT API with prompts support, which can be enhanced by installing plugins via MyGPT, requiring an OpenAI API key. AI Assistant 0 1 Free
-
-In short, MyGPT is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+A free and fast Chat interface powered by ChatGPT API with prompts support, which can be enhanced by installing plugins via MyGPT, requiring an OpenAI API key. In short, MyGPT is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

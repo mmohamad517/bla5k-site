@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: anti.space - AI Tool Review & Guide 2026
-metaDescription: Antispace is an AI operating system that provides customizable AI sidekicks to manage email, calendar, notes, search and tasks, integrating web, mail and...
+metaDescription: Antispace is an AI operating system that provides customizable AI sidekicks to manage email, calendar, notes, search and tasks, integrating web, mail and
 simple: Antispace is an AI operating system that provides customizable AI sidekicks to manage email, calendar, notes, search and tasks, integrating web, mail and documents, using dynamic model selection, workflow automation, persistent memory and privacy controls.
 example: Give anti.space one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

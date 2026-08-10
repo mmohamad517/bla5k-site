@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Avallon - AI Tool Review & Guide 2026
-metaDescription: Avallon provides AI agents that automate claims intake and processing—capturing losses via phone, email, or upload, extracting and indexing document data,...
+metaDescription: Avallon provides AI agents that automate claims intake and processing—capturing losses via phone, email, or upload, extracting and indexing document data
 simple: "Avallon provides AI agents that automate claims intake and processing—capturing losses via phone, email, or upload, extracting and indexing document data, automating outreach and task routing, integrating with CMS/CRM/IVR, and surfacing case guidance for adjusters."
 example: "Give Avallon one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

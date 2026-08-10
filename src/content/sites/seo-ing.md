@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is SEO.ING?
-    a: seo.ing is an AI-powered writing tool that uses multiple autonomous agents to generate SEO-optimized articles. It streamlines content creation with smart research, adjustable outlines, and multilingual support. Content creation 1 3 Free trial That is the core of what SEO.ING does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: seo.ing is an AI-powered writing tool that uses multiple autonomous agents to generate SEO-optimized articles. It streamlines content creation with smart research, adjustable outlines, and multilingual support.  That is the core of what SEO.ING does — content creation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is SEO.ING free?
     a: SEO.ING uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with SEO.ING?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is SEO.ING?
 
-seo.ing is an AI-powered writing tool that uses multiple autonomous agents to generate SEO-optimized articles. It streamlines content creation with smart research, adjustable outlines, and multilingual support. Content creation 1 3 Free trial
-
-In short, SEO.ING is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+seo.ing is an AI-powered writing tool that uses multiple autonomous agents to generate SEO-optimized articles. It streamlines content creation with smart research, adjustable outlines, and multilingual support. In short, SEO.ING is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for content creation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Kursus AI - AI Tool Review & Guide 2026
-metaDescription: Kursus AI is an AI-driven tool for analyzing candidate resumes, streamlining recruitment by allowing bulk CV uploads, tailored job postings, and mobile...
+metaDescription: Kursus AI is an AI-driven tool for analyzing candidate resumes, streamlining recruitment by allowing bulk CV uploads, tailored job postings, and mobile
 simple: "Kursus AI is an AI-driven tool for analyzing candidate resumes, streamlining recruitment by allowing bulk CV uploads, tailored job postings, and mobile access, enhancing efficiency in candidate selection and management."
 example: "Give Kursus AI one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

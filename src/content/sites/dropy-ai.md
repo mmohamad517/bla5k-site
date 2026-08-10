@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Dropy AI?
-    a: Dropy.AI automates dropshipping by curating winning products, offering one‑click Shopify imports, and integrating Zendrop and AliExpress. Its virtual assistant generates SEO descriptions, handles basic support, and boosts traffic via social outreach. It also provides competitor insights. Business planning 1 0 Subscription - $20/mo That is the core of what Dropy AI does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Dropy.AI automates dropshipping by curating winning products, offering one‑click Shopify imports, and integrating Zendrop and AliExpress. Its virtual assistant generates SEO descriptions, handles basic support, and boosts traffic via social outreach. It also provides competitor insights.  That is the core of what Dropy AI does — ai planning handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Dropy AI free?
     a: Dropy AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Dropy AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Dropy AI?
 
-Dropy.AI automates dropshipping by curating winning products, offering one‑click Shopify imports, and integrating Zendrop and AliExpress. Its virtual assistant generates SEO descriptions, handles basic support, and boosts traffic via social outreach. It also provides competitor insights. Business planning 1 0 Subscription - $20/mo
-
-In short, Dropy AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI planning without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Dropy.AI automates dropshipping by curating winning products, offering one‑click Shopify imports, and integrating Zendrop and AliExpress. Its virtual assistant generates SEO descriptions, handles basic support, and boosts traffic via social outreach. It also provides competitor insights. In short, Dropy AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI planning without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

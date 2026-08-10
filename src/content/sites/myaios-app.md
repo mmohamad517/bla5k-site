@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: aiOS - AI Tool Review & Guide 2026
-metaDescription: aiOS is an AI marketing automation platform that orchestrates GPT, Claude, and Gemini models with 1,200+ agentic skills to automate content creation, ad...
+metaDescription: aiOS is an AI marketing automation platform that orchestrates GPT, Claude, and Gemini models with 1,200+ agentic skills to automate content creation, ad
 simple: aiOS is an AI marketing automation platform that orchestrates GPT, Claude, and Gemini models with 1,200+ agentic skills to automate content creation, ad optimization, lead generation, and multi-channel publishing.
 example: Give aiOS one real task — a prompt, a file, or a request — and it returns a usable result for your ai marketing workflow.
 goodFor:

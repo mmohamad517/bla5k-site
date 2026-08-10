@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: auto-respond.com - AI Tool Review & Guide 2026
-metaDescription: Yelp Auto Responder is an AI voice agent that answers leads across Yelp, Thumbtack, Facebook and Google, instantly qualifying inquiries, generating quotes,...
+metaDescription: Yelp Auto Responder is an AI voice agent that answers leads across Yelp, Thumbtack, Facebook and Google, instantly qualifying inquiries, generating quotes
 simple: Yelp Auto Responder is an AI voice agent that answers leads across Yelp, Thumbtack, Facebook and Google, instantly qualifying inquiries, generating quotes, booking appointments, running batch campaigns, integrating with CRMs, and providing analytics and call recording for automated follow-up.
 example: Give auto-respond.com one real task — a prompt, a file, or a request — and it returns a usable result for your ai sales workflow.
 goodFor:

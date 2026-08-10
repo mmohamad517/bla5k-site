@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Docuopia?
-    a: Docuopia is an AI‑powered assistant that drafts product requirements, help docs, wikis, and marketing copy from brief prompts. It supports real‑time collaboration, version control, a hierarchical structure, diagram generation, markdown editing, and brand‑specific copy creation. Document management 1 0 Freemium That is the core of what Docuopia does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Docuopia is an AI‑powered assistant that drafts product requirements, help docs, wikis, and marketing copy from brief prompts. It supports real‑time collaboration, version control, a hierarchical structure, diagram generation, markdown editing, and brand‑specific copy creation.  That is the core of what Docuopia does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Docuopia free?
     a: Docuopia uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Docuopia?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Docuopia?
 
-Docuopia is an AI‑powered assistant that drafts product requirements, help docs, wikis, and marketing copy from brief prompts. It supports real‑time collaboration, version control, a hierarchical structure, diagram generation, markdown editing, and brand‑specific copy creation. Document management 1 0 Freemium
-
-In short, Docuopia is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Docuopia is an AI‑powered assistant that drafts product requirements, help docs, wikis, and marketing copy from brief prompts. It supports real‑time collaboration, version control, a hierarchical structure, diagram generation, markdown editing, and brand‑specific copy creation. In short, Docuopia is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

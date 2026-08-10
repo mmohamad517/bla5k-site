@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: PhotoBoutique - AI Tool Review & Guide 2026
-metaDescription: PhotoBoutique trains an AI model on 10‑35 uploaded face photos in about an hour, then generates high‑resolution avatars, professional headshots, and...
+metaDescription: PhotoBoutique trains an AI model on 10‑35 uploaded face photos in about an hour, then generates high‑resolution avatars, professional headshots, and stylized
 simple: PhotoBoutique trains an AI model on 10‑35 uploaded face photos in about an hour, then generates high‑resolution avatars, professional headshots, and stylized portraits.
 example: Give PhotoBoutique one real task — a prompt, a file, or a request — and it returns a usable result for your ai avatar generation workflow.
 goodFor:

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Recursechat - AI Tool Review & Guide 2026
-metaDescription: RecurseChat is a macOS app that runs large language models locally, offering offline AI with a floating chat window, file‑based RAG, support for multiple...
+metaDescription: RecurseChat is a macOS app that runs large language models locally, offering offline AI with a floating chat window, file‑based RAG, support for multiple
 simple: RecurseChat is a macOS app that runs large language models locally, offering offline AI with a floating chat window, file‑based RAG, support for multiple model formats, and seamless switching between local and cloud models while keeping data local.
 example: Give Recursechat one real task — a prompt, a file, or a request — and it returns a usable result for your conversational ai workflow.
 goodFor:

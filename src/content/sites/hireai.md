@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is HireAI?
-    a: Arc gives instant access to 450,000 professionals across 190 countries, with hiring timelines of 72 hours for freelance and up to 14 days for full‑time roles. Secure payments are managed via Employer‑of‑Record partners, and recruiter support covers LATAM and APAC. Human resources 9 5 Paid - $999/mo That is the core of what HireAI does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Arc gives instant access to 450,000 professionals across 190 countries, with hiring timelines of 72 hours for freelance and up to 14 days for full‑time roles. Secure payments are managed via Employer‑of‑Record partners, and recruiter support covers LATAM and APAC.  That is the core of what HireAI does — ai research handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is HireAI free?
     a: HireAI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with HireAI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is HireAI?
 
-Arc gives instant access to 450,000 professionals across 190 countries, with hiring timelines of 72 hours for freelance and up to 14 days for full‑time roles. Secure payments are managed via Employer‑of‑Record partners, and recruiter support covers LATAM and APAC. Human resources 9 5 Paid - $999/mo
-
-In short, HireAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Arc gives instant access to 450,000 professionals across 190 countries, with hiring timelines of 72 hours for freelance and up to 14 days for full‑time roles. Secure payments are managed via Employer‑of‑Record partners, and recruiter support covers LATAM and APAC. In short, HireAI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI research without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

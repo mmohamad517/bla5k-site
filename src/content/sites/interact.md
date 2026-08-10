@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Interact - AI Tool Review & Guide 2026
-metaDescription: Xobin is an AI‑powered assessment platform offering over 3,400 skill tests, 2,500 role‑specific evaluations, secure proctoring, automated grading, and API...
+metaDescription: Xobin is an AI‑powered assessment platform offering over 3,400 skill tests, 2,500 role‑specific evaluations, secure proctoring, automated grading, and API
 simple: Xobin is an AI‑powered assessment platform offering over 3,400 skill tests, 2,500 role‑specific evaluations, secure proctoring, automated grading, and API integration with ATS, LMS, and HR systems.
 example: Give Interact one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

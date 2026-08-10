@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-07
 metaTitle: Instant3d.ai - AI 3D Tool Review & Guide 2026
-metaDescription: Instant 3D enables users to create high-quality 3D models from text prompts or 2D images, featuring auto remesh tools and an integrated 3D viewer for easy...
+metaDescription: Instant 3D enables users to create high-quality 3D models from text prompts or 2D images, featuring auto remesh tools and an integrated 3D viewer for easy
 simple: "Instant 3D enables users to create high-quality 3D models from text prompts or 2D images, featuring auto remesh tools and an integrated 3D viewer for easy editing and exploration, suitable for various applications like animation and product visualization."
 example: "Describe what you want in a text prompt — or upload a reference image — and Instant3d.ai returns a finished 3D model you can export to your game engine, slicer, or 3D software."
 goodFor:

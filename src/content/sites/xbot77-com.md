@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Xbot77.com?
-    a: Xbot77.com is an AI agent platform for building and deploying task-specific agents with integrated data controls and CRM. It enables users to train agents from various sources and deploy them as widgets, dashboards, or internal tools for scalable automation. AI Agents 1 1 Free trial That is the core of what Xbot77.com does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Xbot77.com is an AI agent platform for building and deploying task-specific agents with integrated data controls and CRM. It enables users to train agents from various sources and deploy them as widgets, dashboards, or internal tools for scalable automation.  That is the core of what Xbot77.com does — ai agent workflows handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Xbot77.com free?
     a: Xbot77.com uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Xbot77.com?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Xbot77.com?
 
-Xbot77.com is an AI agent platform for building and deploying task-specific agents with integrated data controls and CRM. It enables users to train agents from various sources and deploy them as widgets, dashboards, or internal tools for scalable automation. AI Agents 1 1 Free trial
-
-In short, Xbot77.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Xbot77.com is an AI agent platform for building and deploying task-specific agents with integrated data controls and CRM. It enables users to train agents from various sources and deploy them as widgets, dashboards, or internal tools for scalable automation. In short, Xbot77.com is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI agent workflows without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

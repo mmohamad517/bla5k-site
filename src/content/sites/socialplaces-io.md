@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is socialplaces.io?
-    a: Social Places centralizes franchise listing management, reputation monitoring, and local page creation across search engines, directories, and maps. It offers omni‑channel customer care, AI sentiment analysis, a unified campaign dashboard for 100+ channels, and a white‑label booking system. Marketing 0 1 Freemium - $29/mo That is the core of what socialplaces.io does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Social Places centralizes franchise listing management, reputation monitoring, and local page creation across search engines, directories, and maps. It offers omni‑channel customer care, AI sentiment analysis, a unified campaign dashboard for 100+ channels, and a white‑label booking system.  That is the core of what socialplaces.io does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is socialplaces.io free?
     a: socialplaces.io uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $29/mo, check the official website — pricing changes often.
   - q: What can you do with socialplaces.io?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is socialplaces.io?
 
-Social Places centralizes franchise listing management, reputation monitoring, and local page creation across search engines, directories, and maps. It offers omni‑channel customer care, AI sentiment analysis, a unified campaign dashboard for 100+ channels, and a white‑label booking system. Marketing 0 1 Freemium - $29/mo
-
-In short, socialplaces.io is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Social Places centralizes franchise listing management, reputation monitoring, and local page creation across search engines, directories, and maps. It offers omni‑channel customer care, AI sentiment analysis, a unified campaign dashboard for 100+ channels, and a white‑label booking system. In short, socialplaces.io is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

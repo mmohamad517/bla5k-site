@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Ellydee AI - AI Tool Review & Guide 2026
-metaDescription: Ellydee is a privacy first AI chat platform offering end to end encryption, no data harvesting, configurable retention and training exclusions, uncensored...
+metaDescription: Ellydee is a privacy first AI chat platform offering end to end encryption, no data harvesting, configurable retention and training exclusions, uncensored
 simple: Ellydee is a privacy first AI chat platform offering end to end encryption, no data harvesting, configurable retention and training exclusions, uncensored dialogue, and an eco mode routing inference to renewable energy centers with chat compression and an impact dashboard.
 example: Give Ellydee AI one real task — a prompt, a file, or a request — and it returns a usable result for your conversational ai workflow.
 goodFor:

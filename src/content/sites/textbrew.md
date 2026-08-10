@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is TextBrew?
-    a: Textbrew is an automated product description generator for e-commerce, creating accurate and SEO-optimized content quickly. It utilizes AI to extract key product features, allowing customization and efficient management of both single and bulk listings. Content Writing 1 0 Free trial - $1 That is the core of what TextBrew does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Textbrew is an automated product description generator for e-commerce, creating accurate and SEO-optimized content quickly. It utilizes AI to extract key product features, allowing customization and efficient management of both single and bulk listings.  That is the core of what TextBrew does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is TextBrew free?
     a: TextBrew uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $1, check the official website — pricing changes often.
   - q: What can you do with TextBrew?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is TextBrew?
 
-Textbrew is an automated product description generator for e-commerce, creating accurate and SEO-optimized content quickly. It utilizes AI to extract key product features, allowing customization and efficient management of both single and bulk listings. Content Writing 1 0 Free trial - $1
-
-In short, TextBrew is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Textbrew is an automated product description generator for e-commerce, creating accurate and SEO-optimized content quickly. It utilizes AI to extract key product features, allowing customization and efficient management of both single and bulk listings. In short, TextBrew is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

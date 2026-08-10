@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Owlbot.ai?
-    a: Owlbot is an AI chatbot platform that aggregates data from documents, markdown, webpages, and APIs, delivering instant multilingual answers in 95 languages. It supports custom branding, embed options, analytics, function‑calling, 12 LLM choices, and automated lead capture. Knowledge base management 2 0 Subscription - $19/mo That is the core of what Owlbot.ai does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Owlbot is an AI chatbot platform that aggregates data from documents, markdown, webpages, and APIs, delivering instant multilingual answers in 95 languages. It supports custom branding, embed options, analytics, function‑calling, 12 LLM choices, and automated lead capture.  That is the core of what Owlbot.ai does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Owlbot.ai free?
     a: Owlbot.ai is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Owlbot.ai?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Owlbot.ai?
 
-Owlbot is an AI chatbot platform that aggregates data from documents, markdown, webpages, and APIs, delivering instant multilingual answers in 95 languages. It supports custom branding, embed options, analytics, function‑calling, 12 LLM choices, and automated lead capture. Knowledge base management 2 0 Subscription - $19/mo
-
-In short, Owlbot.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Owlbot is an AI chatbot platform that aggregates data from documents, markdown, webpages, and APIs, delivering instant multilingual answers in 95 languages. It supports custom branding, embed options, analytics, function‑calling, 12 LLM choices, and automated lead capture. In short, Owlbot.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

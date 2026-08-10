@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Haxiom - AI Tool Review & Guide 2026
-metaDescription: Haxiom is an online Markdown editor for collaborative teams that organizes knowledge into a unified, GitHub-linked knowledge base with real-time multiplayer...
+metaDescription: Haxiom is an online Markdown editor for collaborative teams that organizes knowledge into a unified, GitHub-linked knowledge base with real-time multiplayer
 simple: Haxiom is an online Markdown editor for collaborative teams that organizes knowledge into a unified, GitHub-linked knowledge base with real-time multiplayer editing, AI-driven note structuring and deduplication, semantic search, GitHub sync, Typst math rendering, and an AI assistant.
 example: Give Haxiom one real task — a prompt, a file, or a request — and it returns a usable result for your ai management workflow.
 goodFor:

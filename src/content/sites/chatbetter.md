@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ChatBetter?
-    a: ChatBetter is a unified AI platform that automatically selects and chains the best language models for any query or complex task. It enables side-by-side response comparison and supports team collaboration with enterprise-grade security and project management. Chat 3 2 Free trial - $20/mo That is the core of what ChatBetter does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ChatBetter is a unified AI platform that automatically selects and chains the best language models for any query or complex task. It enables side-by-side response comparison and supports team collaboration with enterprise-grade security and project management.  That is the core of what ChatBetter does — conversational ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ChatBetter free?
     a: ChatBetter uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $20/mo, check the official website — pricing changes often.
   - q: What can you do with ChatBetter?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is ChatBetter?
 
-ChatBetter is a unified AI platform that automatically selects and chains the best language models for any query or complex task. It enables side-by-side response comparison and supports team collaboration with enterprise-grade security and project management. Chat 3 2 Free trial - $20/mo
-
-In short, ChatBetter is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+ChatBetter is a unified AI platform that automatically selects and chains the best language models for any query or complex task. It enables side-by-side response comparison and supports team collaboration with enterprise-grade security and project management. In short, ChatBetter is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for conversational AI without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

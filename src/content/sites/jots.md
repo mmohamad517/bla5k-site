@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Jots - AI Tool Review & Guide 2026
-metaDescription: Jots helps developers build Slow Thinking habits through short daily reflection sessions, a distraction-free editor and VSCode extension, mood and progress...
+metaDescription: Jots helps developers build Slow Thinking habits through short daily reflection sessions, a distraction-free editor and VSCode extension, mood and progress
 simple: Jots helps developers build Slow Thinking habits through short daily reflection sessions, a distraction-free editor and VSCode extension, mood and progress tracking, AI summaries highlighting trends, and a career-coach chat to turn work into actionable learning.
 example: Give Jots one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

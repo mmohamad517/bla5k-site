@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is ZeroGPT.Tools?
-    a: ZeroGPT is a web‑based AI detector that evaluates text for content from models like ChatGPT, GPT‑4, Claude, and more, delivering a percentage score. It accepts up to 2,000 words paste, unlimited uploads, runs locally, and offers a Chrome extension. AI detection 3 2 Freemium That is the core of what ZeroGPT.Tools does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: ZeroGPT is a web‑based AI detector that evaluates text for content from models like ChatGPT, GPT‑4, Claude, and more, delivering a percentage score. It accepts up to 2,000 words paste, unlimited uploads, runs locally, and offers a Chrome extension.  That is the core of what ZeroGPT.Tools does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is ZeroGPT.Tools free?
     a: ZeroGPT.Tools uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with ZeroGPT.Tools?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is ZeroGPT.Tools?
 
-ZeroGPT is a web‑based AI detector that evaluates text for content from models like ChatGPT, GPT‑4, Claude, and more, delivering a percentage score. It accepts up to 2,000 words paste, unlimited uploads, runs locally, and offers a Chrome extension. AI detection 3 2 Freemium
-
-In short, ZeroGPT.Tools is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+ZeroGPT is a web‑based AI detector that evaluates text for content from models like ChatGPT, GPT‑4, Claude, and more, delivering a percentage score. It accepts up to 2,000 words paste, unlimited uploads, runs locally, and offers a Chrome extension. In short, ZeroGPT.Tools is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

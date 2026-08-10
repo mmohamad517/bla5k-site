@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: OpenHuman - AI Tool Review & Guide 2026
-metaDescription: OpenHuman is an open-source personal AI framework for private, on‑premises deployments and local model execution, providing an agent framework, prompt...
+metaDescription: OpenHuman is an open-source personal AI framework for private, on‑premises deployments and local model execution, providing an agent framework, prompt
 simple: OpenHuman is an open-source personal AI framework for private, on‑premises deployments and local model execution, providing an agent framework, prompt management, local speech (Whisper/Piper), integrations, Docker/one‑click deployment, and developer tooling.
 example: Give OpenHuman one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

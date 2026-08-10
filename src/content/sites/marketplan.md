@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Marketplan - AI Tool Review & Guide 2026
-metaDescription: The All In One Marketing Platform provides comprehensive tools for marketing teams to manage and track their plans and campaigns on multiple platforms,...
+metaDescription: The All In One Marketing Platform provides comprehensive tools for marketing teams to manage and track their plans and campaigns on multiple platforms, while
 simple: The All In One Marketing Platform provides comprehensive tools for marketing teams to manage and track their plans and campaigns on multiple platforms, while collaborating with team members.
 example: Give Marketplan one real task — a prompt, a file, or a request — and it returns a usable result for your ai marketing workflow.
 goodFor:

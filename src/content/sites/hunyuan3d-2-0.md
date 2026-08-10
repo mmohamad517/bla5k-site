@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-07
 metaTitle: Hunyuan3D 2.0 - AI 3D Tool Review & Guide 2026
-metaDescription: Tencent Hunyuan 3D is an open-source generative model for creating high-quality 3D assets, offering tools for realistic PBR materials and textures, with...
+metaDescription: Tencent Hunyuan 3D is an open-source generative model for creating high-quality 3D assets, offering tools for realistic PBR materials and textures, with
 simple: "Tencent Hunyuan 3D is an open-source generative model for creating high-quality 3D assets, offering tools for realistic PBR materials and textures, with comprehensive pipelines for game asset development and industrial design applications."
 example: "Type a text prompt describing the object you want and Hunyuan3D 2.0 generates a finished 3D model you can refine and export."
 goodFor:

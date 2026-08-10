@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Stonly?
-    a: Stonly is a knowledge management platform that enables the creation of interactive guides to enhance self-service support. Its AI-driven automation aids agents in resolving tickets efficiently, improving first-touch resolution rates and reducing support volume. Knowledge base management 0 1 Freemium That is the core of what Stonly does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Stonly is a knowledge management platform that enables the creation of interactive guides to enhance self-service support. Its AI-driven automation aids agents in resolving tickets efficiently, improving first-touch resolution rates and reducing support volume.  That is the core of what Stonly does — ai management handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Stonly free?
     a: Stonly uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Stonly?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Stonly?
 
-Stonly is a knowledge management platform that enables the creation of interactive guides to enhance self-service support. Its AI-driven automation aids agents in resolving tickets efficiently, improving first-touch resolution rates and reducing support volume. Knowledge base management 0 1 Freemium
-
-In short, Stonly is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Stonly is a knowledge management platform that enables the creation of interactive guides to enhance self-service support. Its AI-driven automation aids agents in resolving tickets efficiently, improving first-touch resolution rates and reducing support volume. In short, Stonly is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI management without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

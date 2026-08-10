@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Edge - AI Tool Review & Guide 2026
-metaDescription: Edge is an AI‑driven patent drafting platform that automates claims, descriptions, and background sections, generates publication‑ready figures, parses...
+metaDescription: Edge is an AI‑driven patent drafting platform that automates claims, descriptions, and background sections, generates publication‑ready figures, parses
 simple: Edge is an AI‑driven patent drafting platform that automates claims, descriptions, and background sections, generates publication‑ready figures, parses inventor disclosures, and adapts filings for USPTO and EPO.
 example: Give Edge one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it.
 goodFor:

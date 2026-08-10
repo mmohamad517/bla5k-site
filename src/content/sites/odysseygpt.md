@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: OdysseyGPT - AI Tool Review & Guide 2026
-metaDescription: OdysseyGPT is an AI document intelligence tool for enterprises, enabling natural-language queries across large document sets, providing citation-backed...
+metaDescription: OdysseyGPT is an AI document intelligence tool for enterprises, enabling natural-language queries across large document sets, providing citation-backed
 simple: "OdysseyGPT is an AI document intelligence tool for enterprises, enabling natural-language queries across large document sets, providing citation-backed answers, and ensuring data control with secure deployment options and robust access controls for compliance and auditability."
 example: "Give OdysseyGPT one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Fini - AI Tool Review & Guide 2026
-metaDescription: Fini AI’s Sophie autonomously resolves ~80 % of customer queries, boosts CSAT by ~10 %, cuts support costs by 50 %, and performs refunds, updates, and...
+metaDescription: Fini AI’s Sophie autonomously resolves ~80 % of customer queries, boosts CSAT by ~10 %, cuts support costs by 50 %, and performs refunds, updates, and
 simple: Fini AI’s Sophie autonomously resolves ~80 % of customer queries, boosts CSAT by ~10 %, cuts support costs by 50 %, and performs refunds, updates, and cancellations.
 example: Give Fini one real task — a prompt, a file, or a request — and it returns a usable result for your ai customer support workflow.
 goodFor:

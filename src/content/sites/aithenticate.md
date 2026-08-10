@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Aithenticate?
-    a: Aithenticate enhances AI transparency by allowing users to easily disclose content origins—AI-generated or human-created—through a WordPress plug-in. It ensures compliance with regulations and promotes clarity with visual indicators and custom disclosures. AI detection 1 0 Freemium That is the core of what Aithenticate does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Aithenticate enhances AI transparency by allowing users to easily disclose content origins—AI-generated or human-created—through a WordPress plug-in. It ensures compliance with regulations and promotes clarity with visual indicators and custom disclosures.  That is the core of what Aithenticate does — ai content detection handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Aithenticate free?
     a: Aithenticate uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Aithenticate?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Aithenticate?
 
-Aithenticate enhances AI transparency by allowing users to easily disclose content origins—AI-generated or human-created—through a WordPress plug-in. It ensures compliance with regulations and promotes clarity with visual indicators and custom disclosures. AI detection 1 0 Freemium
-
-In short, Aithenticate is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Aithenticate enhances AI transparency by allowing users to easily disclose content origins—AI-generated or human-created—through a WordPress plug-in. It ensures compliance with regulations and promotes clarity with visual indicators and custom disclosures. In short, Aithenticate is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content detection without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

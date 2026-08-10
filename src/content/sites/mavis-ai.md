@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Mavis AI - AI Tool Review & Guide 2026
-metaDescription: Mavis AI is a content automation platform that enables publishers and marketing teams to quickly generate SEO-friendly articles, newsletters, and social...
+metaDescription: Mavis AI is a content automation platform that enables publishers and marketing teams to quickly generate SEO-friendly articles, newsletters, and social
 simple: Mavis AI is a content automation platform that enables publishers and marketing teams to quickly generate SEO-friendly articles, newsletters, and social media posts.
 example: Give Mavis AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai writing workflow.
 goodFor:

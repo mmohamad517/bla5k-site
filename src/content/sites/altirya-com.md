@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Altirya - AI Tool Review & Guide 2026
-metaDescription: Altirya is an AI project management copilot that converts goals into structured roadmaps, Gantt/Kanban/To‑Do views, tasks, dependencies, milestones,...
+metaDescription: Altirya is an AI project management copilot that converts goals into structured roadmaps, Gantt/Kanban/To‑Do views, tasks, dependencies, milestones, resource
 simple: Altirya is an AI project management copilot that converts goals into structured roadmaps, Gantt/Kanban/To‑Do views, tasks, dependencies, milestones, resource allocations, risk registers, cost estimates and weekly alerts, plus collaborative editor, calendar sync, and Azure-backed security.
 example: Give Altirya one real task — a prompt, a file, or a request — and it returns a usable result for your ai management workflow.
 goodFor:

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: "Tabby: AI Bookkeeper - AI Tool Review & Guide 2026"
-metaDescription: Tabby is AI bookkeeping for freelancers and small businesses that syncs bank/card data via Plaid, automates transaction categorization and reconciliation,...
+metaDescription: Tabby is AI bookkeeping for freelancers and small businesses that syncs bank/card data via Plaid, automates transaction categorization and reconciliation
 simple: Tabby is AI bookkeeping for freelancers and small businesses that syncs bank/card data via Plaid, automates transaction categorization and reconciliation, provides real-time expense tracking and receipt scanning, and generates tax-ready P&L and deduction reports.
 example: "Give Tabby: AI Bookkeeper one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow."
 goodFor:

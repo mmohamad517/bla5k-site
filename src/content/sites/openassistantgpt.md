@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is OpenAssistantGPT?
-    a: OpenAssistantGPT is an open‑source SaaS that lets you build no‑code AI chatbots for websites. It auto‑crawls a URL, supports GPT‑4/3.5, handles file attachments, SAML/SSO, API calls, and web search, with GitHub source and Vercel SDK. Chatbot builder 1 0 Freemium - $18/mo That is the core of what OpenAssistantGPT does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: OpenAssistantGPT is an open‑source SaaS that lets you build no‑code AI chatbots for websites. It auto‑crawls a URL, supports GPT‑4/3.5, handles file attachments, SAML/SSO, API calls, and web search, with GitHub source and Vercel SDK.  That is the core of what OpenAssistantGPT does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is OpenAssistantGPT free?
     a: OpenAssistantGPT uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $18/mo, check the official website — pricing changes often.
   - q: What can you do with OpenAssistantGPT?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is OpenAssistantGPT?
 
-OpenAssistantGPT is an open‑source SaaS that lets you build no‑code AI chatbots for websites. It auto‑crawls a URL, supports GPT‑4/3.5, handles file attachments, SAML/SSO, API calls, and web search, with GitHub source and Vercel SDK. Chatbot builder 1 0 Freemium - $18/mo
-
-In short, OpenAssistantGPT is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+OpenAssistantGPT is an open‑source SaaS that lets you build no‑code AI chatbots for websites. It auto‑crawls a URL, supports GPT‑4/3.5, handles file attachments, SAML/SSO, API calls, and web search, with GitHub source and Vercel SDK. In short, OpenAssistantGPT is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

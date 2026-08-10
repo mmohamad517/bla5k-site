@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Baddie Finder?
-    a: Baddie Finder automates Tinder and Bumble swipes by evaluating profile photos with an AI model. It auto‑swipes right on attractive matches and left on others, with adjustable sensitivity, running daily in the background to save time. AI Assistant 1 0 Paid - $7.99 That is the core of what Baddie Finder does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Baddie Finder automates Tinder and Bumble swipes by evaluating profile photos with an AI model. It auto‑swipes right on attractive matches and left on others, with adjustable sensitivity, running daily in the background to save time.  That is the core of what Baddie Finder does — ai assistance handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Baddie Finder free?
     a: Baddie Finder is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Baddie Finder?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Baddie Finder?
 
-Baddie Finder automates Tinder and Bumble swipes by evaluating profile photos with an AI model. It auto‑swipes right on attractive matches and left on others, with adjustable sensitivity, running daily in the background to save time. AI Assistant 1 0 Paid - $7.99
-
-In short, Baddie Finder is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Baddie Finder automates Tinder and Bumble swipes by evaluating profile photos with an AI model. It auto‑swipes right on attractive matches and left on others, with adjustable sensitivity, running daily in the background to save time. In short, Baddie Finder is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI assistance without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is imagetovideoai.pro?
-    a: imagetovideoai.pro is an AI tool that transforms static images into cinematic video clips with camera controls, keyframes, and audio. It supports multi-image references, physics-aware motion, and team collaboration for rapid, consistent content creation. Animation Generation 1 0 Free trial - $15/mo That is the core of what imagetovideoai.pro does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: imagetovideoai.pro is an AI tool that transforms static images into cinematic video clips with camera controls, keyframes, and audio. It supports multi-image references, physics-aware motion, and team collaboration for rapid, consistent content creation.  That is the core of what imagetovideoai.pro does — ai content generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is imagetovideoai.pro free?
     a: imagetovideoai.pro uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $15/mo, check the official website — pricing changes often.
   - q: What can you do with imagetovideoai.pro?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is imagetovideoai.pro?
 
-imagetovideoai.pro is an AI tool that transforms static images into cinematic video clips with camera controls, keyframes, and audio. It supports multi-image references, physics-aware motion, and team collaboration for rapid, consistent content creation. Animation Generation 1 0 Free trial - $15/mo
-
-In short, imagetovideoai.pro is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+imagetovideoai.pro is an AI tool that transforms static images into cinematic video clips with camera controls, keyframes, and audio. It supports multi-image references, physics-aware motion, and team collaboration for rapid, consistent content creation. In short, imagetovideoai.pro is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI content generation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

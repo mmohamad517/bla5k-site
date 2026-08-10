@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Strykr.ai - AI Tool Review & Guide 2026
-metaDescription: Strykr.ai provides real-time market intelligence and AI-driven volatility alerts across crypto and multi-chain assets, scoring macro events, screening...
+metaDescription: Strykr.ai provides real-time market intelligence and AI-driven volatility alerts across crypto and multi-chain assets, scoring macro events, screening
 simple: Strykr.ai provides real-time market intelligence and AI-driven volatility alerts across crypto and multi-chain assets, scoring macro events, screening markets and wallets, offering on-chain risk signals, developer APIs and continuous historical data for backtesting and automation.
 example: Give Strykr.ai one real task — a prompt, a file, or a request — and it returns a usable result for your web3 and ai agents workflow.
 goodFor:

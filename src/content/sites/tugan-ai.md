@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Tugan.ai?
-    a: Tugan.ai transforms a web page or video link into ready‑to‑publish content such as email sequences, social media posts, newsletters, and product pages. It offers adjustable tone, length, and style, with single‑click export for quick workflow. Marketing 4 0 Freemium That is the core of what Tugan.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Tugan.ai transforms a web page or video link into ready‑to‑publish content such as email sequences, social media posts, newsletters, and product pages. It offers adjustable tone, length, and style, with single‑click export for quick workflow.  That is the core of what Tugan.ai does — ai marketing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Tugan.ai free?
     a: Tugan.ai uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with Tugan.ai?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Tugan.ai?
 
-Tugan.ai transforms a web page or video link into ready‑to‑publish content such as email sequences, social media posts, newsletters, and product pages. It offers adjustable tone, length, and style, with single‑click export for quick workflow. Marketing 4 0 Freemium
-
-In short, Tugan.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Tugan.ai transforms a web page or video link into ready‑to‑publish content such as email sequences, social media posts, newsletters, and product pages. It offers adjustable tone, length, and style, with single‑click export for quick workflow. In short, Tugan.ai is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI marketing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

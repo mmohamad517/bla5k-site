@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Wabi AI?
-    a: Wabi.ai is a personal software platform that enables users to create mini-apps from simple prompts. It features an intuitive interface for building and remixing apps using customizable templates for everyday tasks. App Builder 3 2 Subscription That is the core of what Wabi AI does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Wabi.ai is a personal software platform that enables users to create mini-apps from simple prompts. It features an intuitive interface for building and remixing apps using customizable templates for everyday tasks.  That is the core of what Wabi AI does — no-code building handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Wabi AI free?
     a: Wabi AI is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Wabi AI?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Wabi AI?
 
-Wabi.ai is a personal software platform that enables users to create mini-apps from simple prompts. It features an intuitive interface for building and remixing apps using customizable templates for everyday tasks. App Builder 3 2 Subscription
-
-In short, Wabi AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Wabi.ai is a personal software platform that enables users to create mini-apps from simple prompts. It features an intuitive interface for building and remixing apps using customizable templates for everyday tasks. In short, Wabi AI is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for no-code building without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

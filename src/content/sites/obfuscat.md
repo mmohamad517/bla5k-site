@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: ObfusCat - AI Tool Review & Guide 2026
-metaDescription: ObfusCat masks sensitive code locally with a proprietary algorithm, sends obfuscated prompts to ChatGPT, then unmasks responses, enabling secure code...
+metaDescription: ObfusCat masks sensitive code locally with a proprietary algorithm, sends obfuscated prompts to ChatGPT, then unmasks responses, enabling secure code
 simple: ObfusCat masks sensitive code locally with a proprietary algorithm, sends obfuscated prompts to ChatGPT, then unmasks responses, enabling secure code completion, automated test generation, bug‑fix suggestions, and deep algorithm explanations—without exposing code externally.
 example: Give ObfusCat one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: TimeSkip - AI Tool Review & Guide 2026
-metaDescription: Timeskip AI is a Chrome extension that automates the creation of SEO-optimized chapters for YouTube videos, podcasts, and webinars, enhancing...
+metaDescription: Timeskip AI is a Chrome extension that automates the creation of SEO-optimized chapters for YouTube videos, podcasts, and webinars, enhancing discoverability
 simple: Timeskip AI is a Chrome extension that automates the creation of SEO-optimized chapters for YouTube videos, podcasts, and webinars, enhancing discoverability and viewer engagement by generating chapters with timestamps in seconds.
 example: Give TimeSkip one real task — a prompt, a file, or a request — and it returns a usable result for your content creation workflow.
 goodFor:

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: writewithspiral.com - AI Tool Review & Guide 2026
-metaDescription: Spiral is an AI writing partner that asks targeted questions to clarify intent, generates multiple draft angles, learns brand voice from examples, ingests...
+metaDescription: Spiral is an AI writing partner that asks targeted questions to clarify intent, generates multiple draft angles, learns brand voice from examples, ingests
 simple: Spiral is an AI writing partner that asks targeted questions to clarify intent, generates multiple draft angles, learns brand voice from examples, ingests documents to ground content, and supports collaborative workflows for export-ready social, landing, presentation, and documentation copy.
 example: Give writewithspiral.com one real task — a prompt, a file, or a request — and it returns a usable result for your ai copywriting workflow.
 goodFor:

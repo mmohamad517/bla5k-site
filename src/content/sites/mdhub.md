@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: mdhub - AI Tool Review & Guide 2026
-metaDescription: mdhub automates behavioral health clinic operations—patient intake, provider matching, insurance eligibility, clinical documentation, claim submission,...
+metaDescription: mdhub automates behavioral health clinic operations—patient intake, provider matching, insurance eligibility, clinical documentation, claim submission
 simple: mdhub automates behavioral health clinic operations—patient intake, provider matching, insurance eligibility, clinical documentation, claim submission, denial flagging, and prior authorization.
 example: Give mdhub one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it.
 goodFor:

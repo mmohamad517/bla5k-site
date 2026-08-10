@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is WriteMage?
-    a: WriteMage overlays ChatGPT across macOS/iOS apps, preserving session memory and local labeled chat history. Users can edit or create prompts, supply custom OpenAI keys to lift word limits, and enjoy seamless multi‑device use on Intel/Apple Silicon. Content Writing 1 0 Subscription - $10/mo That is the core of what WriteMage does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: WriteMage overlays ChatGPT across macOS/iOS apps, preserving session memory and local labeled chat history. Users can edit or create prompts, supply custom OpenAI keys to lift word limits, and enjoy seamless multi‑device use on Intel/Apple Silicon.  That is the core of what WriteMage does — ai writing handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is WriteMage free?
     a: WriteMage is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with WriteMage?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is WriteMage?
 
-WriteMage overlays ChatGPT across macOS/iOS apps, preserving session memory and local labeled chat history. Users can edit or create prompts, supply custom OpenAI keys to lift word limits, and enjoy seamless multi‑device use on Intel/Apple Silicon. Content Writing 1 0 Subscription - $10/mo
-
-In short, WriteMage is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+WriteMage overlays ChatGPT across macOS/iOS apps, preserving session memory and local labeled chat history. Users can edit or create prompts, supply custom OpenAI keys to lift word limits, and enjoy seamless multi‑device use on Intel/Apple Silicon. In short, WriteMage is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI writing without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

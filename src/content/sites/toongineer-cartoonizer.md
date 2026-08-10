@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Toongineer Cartoonizer?
-    a: Toongineer Cartoonizer turns JPEG, PNG, or JPG photos into cartoon images with anime, Disney, Ghibli, or comics styles. It supports up to 2.8 MP, offers batch processing, real‑time previews, and quick upscaling via stable diffusion and AnimeGANv2. Avatar 20 8 Paid - $4.95 That is the core of what Toongineer Cartoonizer does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Toongineer Cartoonizer turns JPEG, PNG, or JPG photos into cartoon images with anime, Disney, Ghibli, or comics styles. It supports up to 2.8 MP, offers batch processing, real‑time previews, and quick upscaling via stable diffusion and AnimeGANv2.  That is the core of what Toongineer Cartoonizer does — ai avatar generation handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Toongineer Cartoonizer free?
     a: Toongineer Cartoonizer is a paid tool (subscription or one-off pricing). Some tools in this category offer a free trial, so check the official website for the current plans and any trial before subscribing.
   - q: What can you do with Toongineer Cartoonizer?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Toongineer Cartoonizer?
 
-Toongineer Cartoonizer turns JPEG, PNG, or JPG photos into cartoon images with anime, Disney, Ghibli, or comics styles. It supports up to 2.8 MP, offers batch processing, real‑time previews, and quick upscaling via stable diffusion and AnimeGANv2. Avatar 20 8 Paid - $4.95
-
-In short, Toongineer Cartoonizer is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Toongineer Cartoonizer turns JPEG, PNG, or JPG photos into cartoon images with anime, Disney, Ghibli, or comics styles. It supports up to 2.8 MP, offers batch processing, real‑time previews, and quick upscaling via stable diffusion and AnimeGANv2. In short, Toongineer Cartoonizer is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI avatar generation without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

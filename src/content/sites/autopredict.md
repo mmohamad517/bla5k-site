@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is AutoPredict?
-    a: AutoPredict uses AI on 100 million+ data points to forecast vehicle lifespans for specific makes and models, incorporating MOT history. It provides a RESTful API, a searchable historical MOT database, and continuously updates with new data and research insights. Automotive 0 1 Freemium That is the core of what AutoPredict does — automotive ai handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: AutoPredict uses AI on 100 million+ data points to forecast vehicle lifespans for specific makes and models, incorporating MOT history. It provides a RESTful API, a searchable historical MOT database, and continuously updates with new data and research insights.  That is the core of what AutoPredict does — automotive ai handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is AutoPredict free?
     a: AutoPredict uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, check the official website — pricing changes often.
   - q: What can you do with AutoPredict?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is AutoPredict?
 
-AutoPredict uses AI on 100 million+ data points to forecast vehicle lifespans for specific makes and models, incorporating MOT history. It provides a RESTful API, a searchable historical MOT database, and continuously updates with new data and research insights. Automotive 0 1 Freemium
-
-In short, AutoPredict is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for automotive AI without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+AutoPredict uses AI on 100 million+ data points to forecast vehicle lifespans for specific makes and models, incorporating MOT history. It provides a RESTful API, a searchable historical MOT database, and continuously updates with new data and research insights. In short, AutoPredict is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for automotive AI without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 

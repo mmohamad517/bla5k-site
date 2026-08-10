@@ -26,7 +26,7 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is Skarbe?
-    a: Skarbe automates lead follow‑up and qualification for sales teams, capturing contacts from forms, emails, and meetings. It analyzes conversations to identify high‑value leads, suggests next steps, drafts messages, and integrates calendar/email for faster closures. Sales 1 0 Freemium - $8.25/mo That is the core of what Skarbe does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
+    a: Skarbe automates lead follow‑up and qualification for sales teams, capturing contacts from forms, emails, and meetings. It analyzes conversations to identify high‑value leads, suggests next steps, drafts messages, and integrates calendar/email for faster closures.  That is the core of what Skarbe does — ai sales handled by a dedicated AI tool rather than a general-purpose chatbot.
   - q: Is Skarbe free?
     a: Skarbe uses a freemium model, so there is a usable free tier with paid upgrades available. For exact limits and the current price of the paid plan, around $8.25/mo, check the official website — pricing changes often.
   - q: What can you do with Skarbe?
@@ -42,9 +42,7 @@ Most teams now use AI for more than chat, and the gap between a demo and a daily
 
 ## What is Skarbe?
 
-Skarbe automates lead follow‑up and qualification for sales teams, capturing contacts from forms, emails, and meetings. It analyzes conversations to identify high‑value leads, suggests next steps, drafts messages, and integrates calendar/email for faster closures. Sales 1 0 Freemium - $8.25/mo
-
-In short, Skarbe is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
+Skarbe automates lead follow‑up and qualification for sales teams, capturing contacts from forms, emails, and meetings. It analyzes conversations to identify high‑value leads, suggests next steps, drafts messages, and integrates calendar/email for faster closures. In short, Skarbe is built around one clear promise: take your input — a prompt, a file, or a task — and return a usable result for AI sales without the manual grind. For many users that single capability is enough to replace several steps in their current workflow.
 
 ## Key features
 
