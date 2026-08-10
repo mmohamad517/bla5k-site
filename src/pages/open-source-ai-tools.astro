@@ -98,7 +98,7 @@ const schema = [
 
     <section class="section pt0">
       <div class="container">
-        <!-- Instant search: filters the reviewed cards + the 1,000+ repo list.
+        <!-- Instant search: filters the reviewed cards + the 5,000+ repo list.
              All content stays in the HTML (progressive, works without JS). -->
         <div class="search glass">
           <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2"/><path d="m20 20-3.2-3.2" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
@@ -217,7 +217,7 @@ const schema = [
   @media (min-width: 640px) { .oss-grid { grid-template-columns: 1fr 1fr; } }
   @media (min-width: 1024px) { .oss-grid { grid-template-columns: 1fr 1fr 1fr; } }
 
-  /* ---- 1,000+ GitHub projects section ---- */
+  /* ---- 5,000+ GitHub projects section ---- */
   .oss-big { padding-block: 1.5rem 3rem; }
   .oss-big-lead { color: var(--text-dim); font-size: 0.98rem; max-width: 72ch; margin-bottom: 1.2rem; }
   .oss-big-grid { list-style: none; display: grid; gap: 0.7rem; }
@@ -243,7 +243,7 @@ const schema = [
 </style>
 
 <script>
-  // Instant filter across the reviewed cards and the 1,000+ repo list.
+  // Instant filter across the reviewed cards and the 5,000+ repo list.
   const input = document.getElementById('oss-search') as HTMLInputElement | null;
   const clearBtn = document.getElementById('oss-clear') as HTMLButtonElement | null;
   const status = document.getElementById('oss-status');
@@ -275,7 +275,13 @@ const schema = [
       }
     };
 
-    input.addEventListener('input', run);
+    // Debounce: with 5,000+ cards, running the filter on every keystroke
+    // freezes typing on phones. 90ms keeps it snappy without lagging.
+    let t: number | undefined;
+    input.addEventListener('input', () => {
+      window.clearTimeout(t);
+      t = window.setTimeout(run, 90);
+    });
     clearBtn?.addEventListener('click', () => { input.value = ''; run(); input.focus(); });
   }
 </script>
