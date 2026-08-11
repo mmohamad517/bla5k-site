@@ -36,6 +36,27 @@ const TIMEOUT = Number(process.env.LINK_TIMEOUT || 8000);
 const CONC = Number(process.env.LINK_CONCURRENCY || 8);
 const SITE = 'https://bla5k.com';
 
+// ── known-dead allowlist ──
+// External links that are intentionally dead or archive-only must NOT fail
+// the QA gate. Loaded from scripts/known-dead-links.txt (one URL per line,
+// '#' comments allowed) so editors can maintain it without touching code.
+// Wayback snapshots are also exempted: they are archival by nature and can
+// hard-fail under the archive's rate limiting — a snapshot gone means a
+// manual check, not a blocked publish.
+const KNOWN_DEAD_FILE = join(ROOT, 'scripts', 'known-dead-links.txt');
+const knownDead = new Set();
+try {
+  for (const line of readFileSync(KNOWN_DEAD_FILE, 'utf8').split(/\r?\n/)) {
+    const u = line.replace(/#.*$/, '').trim();
+    if (u) knownDead.add(u);
+  }
+} catch {}
+const KNOWN_PATTERNS = [/^https?:\/\/web\.archive\.org\//];
+function isKnownDead(url) {
+  if (knownDead.has(url)) return true;
+  return KNOWN_PATTERNS.some((rx) => rx.test(url));
+}
+
 // ── helpers ──
 function listMd(dir) {
   if (!existsSync(dir)) return [];
@@ -190,6 +211,9 @@ if (!SKIP_LIVE) {
       if (r.dead) dead.set(url, r);
       else if (r.soft) soft.set(url, r);
     });
+    if (process.stderr.isTTY || process.env.GITHUB_ACTIONS) {
+      process.stderr.write(`  links checked: ${Math.min(i + CONC, urls.length)}/${urls.length}\n`);
+    }
   }
   // Second pass: retry anything dead or soft (once).
   const retry = [...dead.keys(), ...soft.keys()];
@@ -207,9 +231,18 @@ if (!SKIP_LIVE) {
       }
     });
   }
+  let knownDeadCount = 0;
   for (const [url, r] of dead) {
+    if (isKnownDead(url)) {
+      knownDeadCount++;
+      report.push(`ℹ️ KNOWN-DEAD (${r.code}, مسموح): \`${url}\` ← ${[...external.get(url)].slice(0, 3).join(', ')}`);
+      continue;
+    }
     brokenExternal++;
     report.push(`❌ EXTERNAL (${r.code}): \`${url}\` ← ${[...external.get(url)].slice(0, 3).join(', ')}`);
+  }
+  if (knownDeadCount) {
+    console.log(`- ℹ️ ميتة معروفة/مقصودة (لا تمنع النشر): **${knownDeadCount}**`);
   }
   for (const [url, r] of soft) {
     softIssues++;
