@@ -135,4 +135,6 @@ CanIRun.ai is a genuinely useful, privacy-respecting free tool for the local-AI 
 
 To discover more developer tools and utilities, browse our [Developer Tools](/category/developer/) and [Handy Utilities](/category/utilities/) categories, or explore the full [bla5k directory](/directory/).
 
+For deeper cost analysis and GPU comparison, ApX Machine Learning offers a VRAM calculator, GPU cost comparison, and model benchmarks that pair well with CanIRun.ai's hardware detection.
+
 *Official resource: the [CanIRun.ai website](https://www.canirun.ai).*

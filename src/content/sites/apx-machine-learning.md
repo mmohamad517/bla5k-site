@@ -141,4 +141,6 @@ ApX Machine Learning is a valuable free resource for the LLM engineering communi
 
 To discover more developer tools and AI tools, browse our [Developer Tools](/category/developer/) and [AI Tools](/category/ai-tools/) categories, or explore the full [bla5k directory](/directory/).
 
+For a complementary browser-based check, CanIRun.ai detects your specific hardware and tells you which models your machine can run, making it a useful companion to ApX's VRAM calculator.
+
 *Official resource: the [ApX Machine Learning website](https://apxml.com).*

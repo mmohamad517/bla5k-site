@@ -122,4 +122,6 @@ Midjourney remains one of the most influential and beloved AI image generators a
 
 > **Tip:** Add style keywords like "cinematic" or "watercolor" and experiment with aspect ratios to steer the look of your results.
 
+For free AI image generation, tools like PxBee and Vheer offer accessible alternatives worth trying. If you need royalty-free stock imagery for your projects, StockCake provides AI-generated stock photos at no cost.
+
 *Official resource: [Midjourney](https://www.midjourney.com)*

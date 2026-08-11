@@ -102,7 +102,7 @@ Nothing To Watch is a small, clever tool that solves a very real everyday proble
 
 Larger discovery services like JustWatch focus on telling you where a title is available to stream, while the recommendation engines built into Netflix and other apps push their own catalogs. Nothing To Watch's charm is its opposite approach: a small, neutral, playful tool whose only job is to help you *decide*, independent of any single platform.
 
-If you prefer classic public-domain films, [Internet Archive Films](/tools/internet-archive-films/) is a great complement, and for mood-based picks that also tell you where each title streams, [MovieWiser](/tools/moviewiser/) covers the other end of the discovery spectrum.
+If you prefer classic public-domain films, [Internet Archive Films](/tools/internet-archive-films/) is a great complement, and for mood-based picks that also tell you where each title streams, [MovieWiser](/tools/moviewiser/) covers the other end of the discovery spectrum. For books rather than movies, The StoryGraph offers a similar mood-based discovery approach for finding your next read.
 
 ## Conclusion
 

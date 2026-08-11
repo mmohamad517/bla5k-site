@@ -175,4 +175,6 @@ ChatGPT is the tool that made AI feel useful and accessible to everyone. It's a 
 
 If you haven't yet made ChatGPT part of your daily toolkit, it's the single easiest place to start with AI. And to discover more tools shaping this era, browse our [AI Tools](/category/ai-tools/) category or the full [bla5k directory](/directory/).
 
+For users in regions where ChatGPT access is limited, GlobalGPT provides an alternative interface for accessing AI chat capabilities.
+
 *Official resources: the [ChatGPT website](https://chat.openai.com) and [OpenAI](https://openai.com).*

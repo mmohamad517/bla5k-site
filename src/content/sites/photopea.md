@@ -123,4 +123,6 @@ PhotoPea is proof that **professional editing doesn't have to cost money or requ
 
 For AI-powered design and image work, pair it with [Microsoft Designer](/tools/microsoft-designer/) and [Remini](/tools/remini/), and explore the full [AI Tools directory](/category/ai-tools/).
 
+For lighter editing tasks, BeFunky offers one-click photo effects and collages, Auto Draw uses AI to help you sketch ideas quickly, and PhotoGIMP is a free plugin that gives GIMP a Photoshop-like interface for offline work.
+
 *Official resource: [PhotoPea](https://www.photopea.com/).*

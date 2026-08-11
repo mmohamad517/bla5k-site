@@ -119,6 +119,6 @@ Prompt quality is 80% of the result. Describe composition, style, and lighting l
 
 Stable Diffusion Online is the **simplest way to experience open-source AI image generation**: free, in-browser, no hardware required. It's the model that democratized AI art, now available to anyone with a browser tab. For learning, experimenting, and creative exploration, it's the perfect starting point.
 
-For more image tools, explore [Microsoft Designer](/tools/microsoft-designer/), [Midjourney](/tools/midjourney/), and the full [AI Tools directory](/category/ai-tools/).
+For more image tools, explore [Microsoft Designer](/tools/microsoft-designer/), [Midjourney](/tools/midjourney/), and the full [AI Tools directory](/category/ai-tools/). Other free AI image generators worth exploring include Bylo.ai for quick creations and PixAI.ART for anime and character art styles.
 
 *Official resource: [Stable Diffusion Online](https://stablediffusionweb.com/).*

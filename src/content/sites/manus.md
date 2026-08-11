@@ -148,4 +148,6 @@ Manus is a capable general-purpose agent that executes real work end-to-end — 
 
 To discover more developer tools and AI agents, browse our [Developer Tools](/category/developer/) and [AI Tools](/category/ai-tools/) categories, or explore the full [bla5k directory](/directory/).
 
+Other AI agent tools worth exploring include Google Antigravity for experimental agent interactions, MuleRun for automated data extraction agents, Multica for multi-agent collaboration, and Open-WA for building WhatsApp-based AI agents and bots.
+
 *Official resources: the [Manus website](https://manus.im) and the [Manus API documentation](https://open.manus.ai/docs).*

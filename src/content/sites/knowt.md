@@ -123,4 +123,6 @@ Knowt turns **notes into active learning automatically** — flashcards, quizzes
 
 For more learning tools, explore [Gauth AI](/tools/gauth/) for math help and [NotebookLM](/tools/notebooklm/) for research, or browse our [Education directory](/category/learning/).
 
+Other study tools worth exploring include Cognito for UK curriculum video lessons, Course Hero for expert-verified homework help, Shortform for book summaries and key insights, and Turnitin for plagiarism checking and academic integrity.
+
 *Official resource: [Knowt](https://knowt.com/).*

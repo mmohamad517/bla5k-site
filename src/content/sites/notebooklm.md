@@ -119,4 +119,6 @@ NotebookLM solves a real, painful problem: **trustworthy AI answers to questions
 
 Pair it with a general assistant like [Qwen Chat](/tools/qwen-chat/) or [DeepSeek](/tools/deepseek/) for broader questions, and you have a complete research stack: grounded answers for your documents, general intelligence for everything else.
 
+For organizing and managing your reading and research notes beyond NotebookLM, MoltBook offers AI-powered book and knowledge management.
+
 *Official resource: [NotebookLM](https://notebooklm.google.com/).*
