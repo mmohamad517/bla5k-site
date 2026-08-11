@@ -83,7 +83,7 @@ Passisto Online currently runs on a freemium model with a free tier plus paid up
 
 ## Alternatives and comparisons
 
-The Conversational AI space has no shortage of contenders; your volume, budget, and how specialized your needs are will decide whether Passisto Online is the right one. Try Passisto Online on a real task alongside one or two alternatives and judge output quality, speed, and price for yourself. The main differentiators are output quality, integrations, and how well Passisto Online slots into your current process.
+The Conversational AI space has no shortage of contenders; your volume, budget, and how specialized your needs are will decide whether Passisto Online is the right one. Try Passisto Online on a real task alongside one or two alternatives and judge output quality, speed, and price for yourself. The main differentiators are output quality, integrations, and how well Passisto Online fits into your current process.
 
 ## Conclusion
 

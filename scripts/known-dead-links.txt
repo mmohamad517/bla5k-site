@@ -1,0 +1,11 @@
+# Known-dead external links that must NOT fail the Content QA gate.
+# One URL per line. Lines starting with # are comments.
+# Add URLs here when a tool is intentionally shut down / archive-only.
+# Verified dead / DNS-failing from GitHub Actions runner (Aug 2026):
+# These tools are shut down, archive-only, or block datacenter IPs — the
+# Content QA gate must not fail on them. Tracked in the article body.
+https://www.bolna.dev
+https://faqnation.com
+https://skillotaproducts.com/leadflux
+https://www.sommel-ai.app
+https://storykube.com
