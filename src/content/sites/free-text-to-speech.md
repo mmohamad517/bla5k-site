@@ -120,6 +120,6 @@ Start with a short test clip, then convert your full script in sections.
 
 Free Text-to-Speech is the **quickest way to turn text into spoken audio** — free, instant, and browser-based. For narrations, learning, and accessibility, it's a practical tool with no barriers to entry.
 
-For more audio tools, explore [TTSMaker](/tools/ttsmaker/), [Suno AI](/tools/suno-ai/) for music, and our [AI Tools directory](/category/ai-tools/). If you want a Microsoft-powered alternative, Edge-TTS (Microsoft TTS) offers high-quality voices for free, and Vocal Image focuses on shaping and enhancing your vocal output.
+For more audio tools, explore [TTSMaker](/tools/ttsmaker/), [Suno AI](/tools/suno-ai/) for music, and our [AI Tools directory](/category/ai-tools/). If you want a Microsoft-powered alternative, [Edge-TTS (Microsoft TTS)](/tools/edge-tts/) offers high-quality voices for free, and Vocal Image focuses on shaping and enhancing your vocal output.
 
 *Official resource: [Free Text-to-Speech](https://freetts.com/).*
