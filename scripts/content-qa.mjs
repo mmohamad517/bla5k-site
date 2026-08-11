@@ -342,5 +342,13 @@ const head = [
 
 const out = head + report.join('\n') + '\n';
 console.log(out);
-if (process.env.GITHUB_STEP_SUMMARY) { try { appendFileSync(process.env.GITHUB_STEP_SUMMARY, out.slice(0, 900000)); } catch {} }
+if (process.env.GITHUB_STEP_SUMMARY) {
+  try {
+    const MAX_SUMMARY = 900 * 1024;
+    const summary = out.length > MAX_SUMMARY
+      ? out.slice(0, MAX_SUMMARY) + '\n\n---\n⚠️ التقرير مقصوص — تجاوز الحد الأقصى لـ GitHub Step Summary.\n'
+      : out;
+    appendFileSync(process.env.GITHUB_STEP_SUMMARY, summary);
+  } catch {}
+}
 process.exit(critical > 0 ? 1 : 0);

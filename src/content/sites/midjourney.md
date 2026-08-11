@@ -125,3 +125,5 @@ Midjourney remains one of the most influential and beloved AI image generators a
 For free AI image generation, tools like PxBee and Vheer offer accessible alternatives worth trying. If you need royalty-free stock imagery for your projects, StockCake provides AI-generated stock photos at no cost.
 
 *Official resource: [Midjourney](https://www.midjourney.com)*
+
+Other AI image tools worth exploring include 101.school, A2E.ai, Adauris AI, AI Animate Image, AI Avatar Art, AI Cartoon Generator, AI Course Creator - AcademyOcean, AI Emoji, AI Image To Video Generator, AI Jingle Maker, AI Singing, AI Song Creator, AI Art Create, AIGenTools. Additionally, check out AirMusic. Additionally, check out Anijam.ai, Animate Image AI, Animate old photos, AnimatedDrawings by Meta, AnimeBuilder, AniPortrait, APOB.AI. See also: ARTi.PiCS, Artbreeder, Artlist, Arvow, Ask Elle, arcloop. Also see ASMR AI Studio.

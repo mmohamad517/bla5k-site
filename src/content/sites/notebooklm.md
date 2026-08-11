@@ -122,3 +122,5 @@ Pair it with a general assistant like [Qwen Chat](/tools/qwen-chat/) or [DeepSee
 For organizing and managing your reading and research notes beyond NotebookLM, MoltBook offers AI-powered book and knowledge management.
 
 *Official resource: [NotebookLM](https://notebooklm.google.com/).*
+
+Other AI productivity tools worth exploring include 2020 background screening, accent-technologies.com, Active Recall, Adaptiv Academy, Addy.so, Adpost AI Chatbot, Advacheck, Aethera AI, Aftercare, Agent.ai, AI Business Plan Generator - Upmetrics, AI detect, AI Domain Genius, AI for Sheets by Cargo, AI Haggler. Additionally, check out aihelpcn.net, AIImageDetector.info, AIScanner.io, AiSDR, AIssistify, AITextChecker.pro, Aithenticate, AIturnitinchecker.com, Aixpertrecruit, Almeta ML, Altirya, Amplemarket. Additionally, check out 3pi, ANUMA AI, Applicant AI. See also: Arcitext.com. Also see Assembly, Asyntai. ATZ CRM is also worth a look.

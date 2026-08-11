@@ -222,3 +222,5 @@ It is not the easiest path — capable hardware and technical setup are real pre
 To keep discovering tools shaping the local and autonomous AI movement, explore our [Developer Tools](/category/developer/) and [AI Tools](/category/ai-tools/) categories, or browse the full [bla5k directory](/directory/).
 
 *Official resource: the [AgenticSeek GitHub repository](https://github.com/Fosowl/agenticSeek).*
+
+Other AI agent tools worth exploring include Ai Pal, and Ai superior gpt.

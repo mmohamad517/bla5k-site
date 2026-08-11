@@ -148,3 +148,5 @@ It may not be the right fit if you have no dedicated GPU, need guaranteed commer
 ACE-Step UI represents a compelling shift in AI music generation: from rented, metered cloud tools toward free, local, open-source software that you own outright. By pairing the ACE-Step 1.5 model with a genuinely usable interface — complete with a library, player, editor, and advanced controls — it turns local music generation into something that feels like a real application rather than an experiment. For anyone with the hardware to run it, it is one of the most capable free alternatives to commercial services available today.
 
 *Official resources: [GitHub](https://github.com/fspecii/ace-step-ui) and the underlying [ACE-Step 1.5 model](https://github.com/ace-step/ACE-Step-1.5).*
+
+Other AI audio and video tools worth exploring include AIxBlock.

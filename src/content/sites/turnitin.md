@@ -117,3 +117,5 @@ Turnitin is the **academic integrity standard** — a sophisticated plagiarism c
 For students navigating the AI era, the smart play is understanding your school's policy and using tools transparently: [ChatGPT](/tools/chatgpt/) and [DeepSeek](/tools/deepseek/) for drafting help you disclose, [NotebookLM](/tools/notebooklm/) for research, and original writing you can stand behind.
 
 *Official resource: [Turnitin](https://www.turnitin.com/).*
+
+Other learning and education tools worth exploring include 6000 thoughts, AI CEO Coach, and AI Coach Amotions. Additionally, check out AISA.to. Additionally, check out Alya. Related: atriumhq.com.
