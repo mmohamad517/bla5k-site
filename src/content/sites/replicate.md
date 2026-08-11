@@ -187,3 +187,4 @@ As the AI landscape continues to evolve, platforms like Replicate will remain cr
 
 *Official resources: [Website](https://replicate.com/) and [Replicate Documentation](https://replicate.com/docs).*
 
+Other developer tools worth exploring include aiCode.fail.

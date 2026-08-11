@@ -127,3 +127,5 @@ DeepSeek did more than launch a great chatbot — it **rewrote the economics of 
 Pair it with the right tools for your workflow: use [Claude Code](/tools/claude-code/) for agentic terminal coding, and DeepSeek for affordable bulk intelligence. The combination gives you frontier-level capability at a fraction of the usual cost.
 
 *Official resources: [deepseek.com](https://deepseek.com/en/) and the [DeepSeek API documentation](https://api-docs.deepseek.com/).*
+
+Other AI chat and assistant tools worth exploring include AICommit.app, Aiden Solutions, and AIFreeBox.

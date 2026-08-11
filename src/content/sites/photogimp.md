@@ -133,3 +133,5 @@ It may be less ideal if you depend on Photoshop-exclusive features, need guarant
 PhotoGIMP is one of the smartest, lowest-risk ways to escape a Photoshop subscription without abandoning everything you already know. By reshaping GIMP's layout, shortcuts, and workspace to mirror Adobe's, it removes the single biggest obstacle most people face when moving to free image-editing software: unfamiliarity. It won't magically turn GIMP into Photoshop, but for a free, open-source patch, it delivers exactly what it promises — a familiar, comfortable, professional-feeling editing environment at zero cost.
 
 *Official resources: [GitHub](https://github.com/Diolinux/PhotoGIMP). Requires [GIMP](https://www.gimp.org) installed first.*
+
+Other design and graphics tools worth exploring include Ad Mocker, AI Ad Gen, AI Architectures, AI Comic Factory, Ai linkedin banners, AI-Portrait. Additionally, check out Ai Picasso. Additionally, check out AI Sticker, Archistar, Architecture insights. See also: ArchiVinci, Archsynth, artvisual.ai.

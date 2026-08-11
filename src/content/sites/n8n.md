@@ -123,3 +123,5 @@ Combine n8n with AI coding tools like [Claude Code](/tools/claude-code/) or [Aid
 For simpler chatbot-style automation, Notbot lets you build no-code bots for WhatsApp and messaging platforms. And if you need a no-code website to go with your automations, Onepage is a straightforward single-page website builder.
 
 *Official resources: [n8n.io](https://n8n.io/) and the [n8n docs](https://docs.n8n.io/).*
+
+Other automation tools worth exploring include Adam. Additionally, check out Allyhub.

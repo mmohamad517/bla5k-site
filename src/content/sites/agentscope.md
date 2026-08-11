@@ -296,3 +296,5 @@ If you're a developer or team serious about building multi-agent AI systems — 
 To keep discovering tools shaping the AI-agent era, explore our [AI Tools](/category/ai-tools/) and [Developer Tools](/category/developer/) categories, or browse the full [bla5k directory](/directory/) — your compass for the internet's best tools.
 
 *Official resources: [agentscope.io](https://agentscope.io), the [AgentScope GitHub repository](https://github.com/agentscope-ai/agentscope), and the [official documentation](https://docs.agentscope.io).*
+
+Other AI agent tools worth exploring include 8080.ai, Aampe, AB Tasty, actcast.io, AdMesh, Agency-agents, Agent Crop, Agent.exe, Agent Reach, agentafk, AgentR, AgentRunner, agentz.ai, Agihalo, AI or Not. Additionally, check out Ain Finance, AirWeave AI, Aisento, aleph-alpha.com, Alomana, Anchain.ai. Additionally, check out AiAgent.app, Algobash.com, AnswerGrid, API Hub, Play2Learn, Arbiquant, ArbitrageScanner.io. See also: ASCN.AI, Aritect. Check out Atomic Bot.

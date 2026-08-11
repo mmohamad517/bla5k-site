@@ -121,3 +121,5 @@ HomeByMe takes the risk and guesswork out of home design. By letting you build a
 > **Tip:** Get your room dimensions right in the 2D floor plan first — everything you place in 3D depends on that accurate base.
 
 *Official resource: [HomeByMe](https://home.by.me)*
+
+Other 3D design tools worth exploring include 3D House Planner, 3DPresso, AI Action Figure Generator, and AI3DGen. Additionally, check out aihouse.com, Alpha3D, Amara AI. Additionally, check out Animant, Animatives. See also: ArchRender.

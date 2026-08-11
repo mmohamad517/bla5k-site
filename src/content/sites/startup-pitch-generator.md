@@ -92,3 +92,5 @@ Startup Pitch Generator targets a real pain point in business automation — tur
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
 *Official resource: [Startup Pitch Generator](https://tally.so/r/npeJgq)*
+
+Other finance and fintech tools worth exploring include 7BE, AI consulting tools, and AI Majic. Additionally, check out AItoGrow. Also see Askgiraffe, AteneAI.
