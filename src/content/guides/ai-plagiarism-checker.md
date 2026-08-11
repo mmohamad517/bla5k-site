@@ -58,9 +58,9 @@ ZeroGPT is the most popular free AI content detector. It specializes in identify
 
 Originality.ai is the leading AI plagiarism checker for professional content teams. It combines AI detection with plagiarism scanning, supporting team workflows, API access, and detailed reporting. Content publishers and SEO teams use it as a quality gate before publishing. Its accuracy is among the highest available.
 
-### 4. [AI Detector](/tools/ai-detector/)
+### 4. [Winston AI](/tools/winston-ai/)
 
-AI Detector offers a straightforward AI content detector for quick checks. It supports multiple AI models and provides a percentage score showing how likely the text is AI-generated. The free tier covers basic use, and the interface is minimal and fast.
+Winston AI is a professional AI content detector built for publishers and educators. It scans text for AI-generated content with high accuracy, pairs detection with a readability score, and supports OCR so you can check scanned documents and PDFs. Its detailed reports make it a solid quality gate before content goes live.
 
 ### 5. [AI Detector Deutsch](/tools/ai-detector-deutsch/)
 
