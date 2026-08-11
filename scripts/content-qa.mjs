@@ -51,7 +51,7 @@ const POLICY = [
   { cat: 'قمار', sev: 'block', re: /\bbetting\s+(site|platform|app|tips|strategies)\b/i, why: 'ترويج مراهنات' },
   { cat: 'قمار', sev: 'block', re: /\b(real-money\s+betting|bet\s+real\s+money)\b/i, why: 'ترويج قمار بأموال حقيقية' },
   { cat: 'قمار', sev: 'block', re: /\bpoker\s+(for\s+)?(real\s+money|cash\s+games?)\b/i, why: 'ترويج بوكر بأموال حقيقية' },
-  { cat: 'قمار', sev: 'block', re: /\b(online\s+slot|slot\s+machines?|jackpot\s+win)/i, why: 'ترويج سلوتس' },
+  { cat: 'قمار', sev: 'block', re: /\b(slot\s+machines?|online\s+slots?\s+games?|jackpot\s+win)/i, why: 'ترويج سلوتس' },
   { cat: 'قمار', sev: 'block', re: /\b(blackjack|roulette)\s+(strateg|system|win)/i, why: 'ترويج ألعاب كازينو' },
   { cat: 'قمار', sev: 'review', re: /\b(casino|gambling|betting|lottery)\b/i, why: 'ذكر قمار/يانصيب (قد يكون بريئاً)' },
 
@@ -342,5 +342,5 @@ const head = [
 
 const out = head + report.join('\n') + '\n';
 console.log(out);
-if (process.env.GITHUB_STEP_SUMMARY) { try { appendFileSync(process.env.GITHUB_STEP_SUMMARY, out); } catch {} }
+if (process.env.GITHUB_STEP_SUMMARY) { try { appendFileSync(process.env.GITHUB_STEP_SUMMARY, out.slice(0, 900000)); } catch {} }
 process.exit(critical > 0 ? 1 : 0);
