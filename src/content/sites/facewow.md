@@ -1,6 +1,8 @@
 ---
 name: Facewow
-url: https://facewow.io/
+url: https://facewow.ai/
+image: /logos/facewow.png
+screenshot: /screens/facewow.webp
 subcategory: ai-image
 tagline: "AI face animation — bring old photos to life with realistic facial animations."
 tags: [facewow, face animation, ai, photos, nostalgic]
@@ -120,4 +122,4 @@ Facewow makes **the impossible feel simple**: a still photo becomes a living, mo
 
 For more AI image tools, explore [Aigazou](/tools/aigazou/), [Remini](/tools/remini/), and our [AI Tools directory](/category/ai-tools/).
 
-*Official resource: [Facewow](https://facewow.io/).*
+*Official resource: [Facewow](https://facewow.ai/).*

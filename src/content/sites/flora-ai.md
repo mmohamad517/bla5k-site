@@ -1,117 +1,120 @@
 ---
 name: FLORA
-url: https://flora.io/
+url: https://flora.ai/
+image: /logos/flora-ai.png
+screenshot: /screens/flora-ai.webp
 subcategory: ai-image
-tagline: "AI art generator with unique artistic styles — create stunning visuals from text prompts."
-tags: [flora, ai art generator, creative, styles, illustration]
+tagline: "AI design studio with an infinite canvas — generate, iterate, and design with 50+ models in one workspace."
+tags: [flora, ai design, ai art, canvas, creative, generative design]
 featured: false
 affiliate: false
-metaTitle: "FLORA: AI Art Generator with Unique Styles | 2026 Guide"
-metaDescription: "FLORA — AI art generator with unique artistic styles. Create stunning illustrations and visuals from text prompts."
-simple: "An AI art generator that turns text prompts into images with its own distinctive artistic styles."
-example: "Type 'a dreamy forest with glowing fireflies' and FLORA produces an artistic illustration with its signature style."
+metaTitle: "FLORA: AI Design Studio & Art Generator | 2026 Guide"
+metaDescription: "FLORA — the AI design studio that combines generation and an infinite canvas. Create, iterate, and design with 50+ models. 2026 guide."
+simple: "A browser-based AI design workspace where you generate images and iterate on an infinite canvas — instead of jumping between separate tools, everything happens in one place."
+example: "Generate a mood board for a brand campaign, then arrange, remix, and refine the visuals on an infinite canvas without leaving the browser."
 goodFor:
-  - "Artistic AI generation"
-  - "Unique visual styles"
-  - "Illustration and creative work"
-  - "Exploring AI aesthetics"
+  - "Creative teams & designers"
+  - "Mood boards & concepting"
+  - "Iterative AI design"
+  - "Brand and agency work"
 notFor:
-  - "Photorealistic generation"
-  - "Business/stock-style images"
-  - "Fine prompt control"
+  - "Quick single-image generation"
+  - "Photorealistic stock-style output"
+  - "Users who want a simple prompt box only"
 faqs:
   - q: "What is FLORA?"
-    a: "FLORA is an AI art generator known for its distinctive artistic styles. It converts text prompts into images with a creative, illustration-focused aesthetic rather than generic photorealistic output."
+    a: "FLORA is a browser-based AI design studio built around an infinite canvas. It combines image generation with design tools so creative teams can generate, arrange, and iterate on visuals in one workspace. It was formerly known as Flora Fauna and is now at flora.ai."
   - q: "Is FLORA free?"
-    a: "FLORA offers free generation with limits and premium options for more styles, higher resolution, and additional credits. The free tier is enough to explore its artistic styles."
-  - q: "What styles does FLORA have?"
-    a: "FLORA is built around unique artistic styles — its output leans toward illustration and artistic interpretation rather than photorealistic images, giving creations a distinctive look."
+    a: "FLORA offers a free tier with limits plus premium plans for heavier use. It is positioned as a professional tool for designers and teams, with the free tier enough to explore the workflow."
+  - q: "How many models does FLORA support?"
+    a: "FLORA integrates 50+ generative models, so you can switch between different image, design, and creative models inside the same canvas instead of juggling multiple websites."
   - q: "Can I use FLORA for commercial work?"
-    a: "Check FLORA's current terms for commercial usage rights. As with any AI art tool, verify the license before using images in products or business contexts."
+    a: "FLORA is built for professional and agency use. Check its current terms for commercial rights on generated output, as you would with any AI tool."
   - q: "How is FLORA different from other AI image generators?"
-    a: "FLORA differentiates through its artistic identity — it's designed for visually distinctive, illustration-style output rather than general-purpose image generation, making it a choice for creative work with character."
+    a: "Most AI image tools are single-purpose prompt boxes. FLORA pairs generation with an infinite canvas and design workflow, targeting creative teams that iterate — not just one-off images."
 ---
 
-Most AI image generators try to look photorealistic. **FLORA** goes the other direction: an AI art generator with its own distinctive artistic styles, built for illustrations and visually creative output. This guide covers what FLORA does and who it's for.
+Most AI image tools are single-purpose prompt boxes: type, generate, download. **FLORA** pairs generation with an **infinite canvas** — a browser-based design studio where creative teams generate with 50+ models and iterate on the results in one workspace. This guide covers what FLORA is and who it's for.
 
 For more AI image tools, explore our [AI Tools directory](/category/ai-tools/) and the [best AI tools in 2026](/guides/best-ai-tools-2026/) roundup.
 
 ## What is FLORA?
 
-FLORA is an **AI art generator distinguished by its artistic styles**. Instead of chasing photorealism, FLORA leans into illustration and creative interpretation — text prompts become images with a distinctive, artistic character.
+FLORA is an **AI design studio** built around an infinite canvas. Instead of leaving a tool after every generation, you stay in one workspace: generate visuals, arrange them on the canvas, remix, and refine — with **50+ generative models** available inside the same interface.
 
 Core characteristics:
 
-- **Artistic styles** — a signature aesthetic, not generic photos
-- **Text-to-image** — prompts become illustrations
-- **Creative focus** — built for visual expression
-- **Distinctive output** — images with personality
+- **Infinite canvas** — an endless workspace, not a single output box
+- **50+ models** — switch between many generative models in one place
+- **Design workflow** — generate, arrange, and iterate like a design tool
+- **Team-focused** — built for designers, brand teams, and agencies
 
-It's positioned for creators who want their AI images to look *made*, not photographed.
+It's positioned for people who treat AI generation as a *workflow*, not a one-off task.
 
 ## How FLORA works
 
 The workflow is straightforward:
 
-1. **Type a prompt** — describe your subject and mood.
-2. **Choose a style** — pick from FLORA's artistic styles.
-3. **Generate** — FLORA creates the illustration.
-4. **Refine** — adjust the prompt or try another style.
-5. **Download** — save your artwork.
+1. **Open the canvas** — start an infinite workspace in your browser.
+2. **Generate** — create visuals with the model that fits the task.
+3. **Arrange & remix** — place results on the canvas and iterate.
+4. **Refine** — adjust prompts or try another of the 50+ models.
+5. **Export** — finalize your boards, concepts, or artwork.
 
-The artistic style selection is where FLORA's personality shows — each style gives the output a distinct creative character.
+The canvas is where FLORA's personality shows: generation stops being isolated and becomes part of a design process.
 
 ## Key features of FLORA
 
-### Distinctive artistic styles
+### Infinite canvas
 
-**Unique styles** that give output an illustration-focused, artistic identity rather than generic photorealism.
+An **endless browser workspace** for arranging, comparing, and iterating on generated visuals.
 
-### Text-to-art generation
+### 50+ generative models
 
-Turn **text prompts into artistic images** — from subjects to full scenes.
+Access **many models in one interface** — no juggling separate websites for different outputs.
 
-### Creative-first design
+### Design-first workflow
 
-Built for **visual expression and character** — images designed to look created, not captured.
+Built for **creative teams and agencies** — mood boards, concepting, and campaign visuals in one place.
 
-### Easy refinement
+### Iteration built in
 
-Iterate by **adjusting prompts and switching styles** until the artwork matches your vision.
+Refine by **adjusting prompts and switching models** directly on the canvas.
 
-## FLORA vs. other AI art tools
+## FLORA vs. other AI image tools
 
 | | FLORA | Bylo | Stable Diffusion Online |
 | --- | --- | --- | --- |
-| Style identity | ✅ Strong | General | Model variety |
-| Photorealism | Less focus | Yes | Yes |
-| Creative/illustration | ✅ Core | Available | Available |
+| Workflow | Canvas + design | Prompt box | Prompt box |
+| Model access | 50+ in one place | One model | Model variety |
+| Team/agency focus | ✅ Core | Individual | Individual |
+| Photorealism | Via models | Yes | Yes |
 
-**FLORA is the choice when you want artistic character.** **Bylo** is the quick general generator. **Stable Diffusion Online** offers the most model variety. If your project needs an illustration look, FLORA's identity is its advantage.
+**FLORA is the choice when AI generation is part of a design workflow.** **Bylo** is the quick general generator for individuals. **Stable Diffusion Online** offers model variety. If you only need a single image fast, a simple prompt box is enough; if you iterate and collaborate, FLORA's canvas is the advantage.
 
 ## Who is FLORA for?
 
-- **Creators** who want stylized, artistic images.
-- **Illustrators** exploring AI-assisted styles.
-- **Artists** experimenting with new aesthetics.
-- **Anyone** tired of generic AI images.
+- **Designers** who want generation inside their workflow.
+- **Creative teams & agencies** building mood boards and concepts.
+- **Brand teams** iterating on visual directions.
+- **Anyone** who generates many images and needs to arrange them.
 
-It's **not** for photorealistic generation, business/stock-style photos, or users who need precise control over every detail. For artistic expression, it's a distinctive option.
+It's **not** for quick one-off image generation, photorealistic stock-style output, or users who prefer a minimal prompt box. For iterative creative work, it's a strong professional option.
 
 ## How to get started with FLORA
 
-1. **Open flora.io** and create an account.
-2. **Type a prompt** — start with a subject you love.
-3. **Try different styles** — see how each changes the character.
-4. **Refine your prompt** — add mood, colors, and details.
-5. **Download** your favorite artwork.
+1. **Open flora.ai** and create an account.
+2. **Start a canvas** — begin in your browser, no install.
+3. **Generate** — pick a model and describe what you want.
+4. **Arrange & iterate** — refine on the infinite canvas.
+5. **Export** your boards or visuals when they're ready.
 
-Start by testing one prompt across several styles — it's the fastest way to understand FLORA's artistic range.
+Start with a small concept board — it's the fastest way to feel the canvas workflow.
 
 ## The bottom line
 
-FLORA brings **artistic identity back to AI images** — distinctive styles that make output look created rather than generic. For creators who want character in their AI art, it's a refreshing alternative to photorealistic generators.
+FLORA brings **generation into a design workflow** — an infinite canvas with 50+ models for teams that iterate. For creative professionals who treat AI as part of the process, it's a genuinely different option from single-purpose generators.
 
 For more image tools, explore [Aigazou](/tools/aigazou/), [Starryai](/tools/starryai/), and our [AI Tools directory](/category/ai-tools/).
 
-*Official resource: [FLORA](https://flora.io/).*
+*Official resource: [FLORA](https://flora.ai/).*

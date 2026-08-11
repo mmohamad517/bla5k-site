@@ -1,6 +1,8 @@
 ---
 name: CrewAI
 url: https://www.crewai.com/
+image: /logos/crewai.png
+screenshot: /screens/crewai.webp
 subcategory: dev-ai-agents
 tagline: "Build teams of AI agents that collaborate on complex tasks — the multi-agent framework."
 tags: [crewai, multi-agent, ai agents, automation, framework, orchestration]

@@ -1,6 +1,8 @@
 ---
 name: Output
 url: https://output.com/
+image: /logos/output.png
+screenshot: /screens/output.webp
 subcategory: ai-video-audio
 tagline: "Professional music production tools — software instruments and effects for producers."
 tags: [output, music production, instruments, effects, professional]

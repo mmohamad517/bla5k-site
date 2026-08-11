@@ -1,6 +1,8 @@
 ---
 name: Clipfly
 url: https://www.clipfly.ai/
+image: /logos/clipfly.png
+screenshot: /screens/clipfly.webp
 subcategory: ai-video-audio
 tagline: "Free AI video generator and editor — create and enhance videos with AI tools."
 tags: [clipfly, ai video, generator, editor, free, creative]
@@ -114,6 +116,6 @@ Start with a simple prompt to learn the interface, then expand to enhancement an
 
 Clipfly makes **AI video creation accessible to everyone**: generate from text, enhance footage, and edit with AI — free and in your browser. For creators starting with video AI, it's an ideal entry point.
 
-For more video tools, explore [GenTube](/tools/gentube/), [Submagic](/tools/submagic/), and our [AI Tools directory](/category/ai-tools/).
+For more video tools, explore [GenTube](/tools/gentube/), [Submagic](/tools/submagic/), and our [AI Tools directory](/category/ai-tools/). For lip-sync generation, LipSync.video specializes in matching audio to faces, and Vmake.ai offers additional AI video and image editing capabilities.
 
 *Official resource: [Clipfly](https://www.clipfly.ai/).*

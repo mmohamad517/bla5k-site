@@ -1,6 +1,8 @@
 ---
 name: InShot
 url: https://inshot.com/
+image: /logos/inshot.png
+screenshot: /screens/inshot.webp
 subcategory: va-video-edit
 tagline: "Mobile video editor — trim, add music, filters, and effects for social media content."
 tags: [inshot, mobile video editor, social media, filters, effects]
@@ -122,5 +124,7 @@ Start by editing a single clip end to end — trim, music, text, export — and 
 InShot is the **fastest way to turn raw phone footage into a polished social video**. Its social-first exports, music library, and beginner-friendly interface make it the go-to mobile editor for millions of creators. If you make short-form content, it belongs on your home screen.
 
 For the AI side of content creation — generating images, music, and designs — pair InShot with tools like [Microsoft Designer](/tools/microsoft-designer/) and [Suno AI](/tools/suno-ai/), and explore more in our [AI Tools directory](/category/ai-tools/).
+
+For desktop and browser-based video work, Apowersoft offers a full suite of video editing and conversion utilities, Free AI Video Upscaler enhances low-resolution footage with AI, and VideoCompress.ai reduces file sizes without visible quality loss.
 
 *Official resource: [InShot](https://inshot.com/).*

@@ -1,0 +1,130 @@
+====================================================================
+ bla5k.com — TOOLIFY.AI SUBMISSION KIT (12 tools)
+ Copy each block: Website URL → Description → Category → Tags
+ Read the steps at the bottom before submitting.
+====================================================================
+
+------------------------------------------------------------
+[1] ChatGPT
+------------------------------------------------------------
+WEBSITE (official): https://chat.openai.com
+CATEGORY: AI Chatbot
+TAGS: chatbot, ai assistant, gpt, openai, free ai
+DESCRIPTION:
+ChatGPT is the world's most popular AI chatbot — write, learn, code, and solve problems in one free tool. OpenAI's flagship assistant handles writing drafts, answering questions, brainstorming, and basic coding. The free tier covers daily use, and ChatGPT Plus unlocks GPT-5, image generation, voice, and advanced reasoning. Perfect for students, writers, and professionals who need a versatile AI companion with the largest ecosystem of plugins and integrations. Compare ChatGPT vs free alternatives like DeepSeek and Qwen Chat in our free review: bla5k.com/tools/chatgpt/
+
+------------------------------------------------------------
+[2] DeepSeek
+------------------------------------------------------------
+WEBSITE (official): https://deepseek.com/en/
+CATEGORY: AI Chatbot
+TAGS: deepseek, ai chatbot, open source, free ai, affordable api
+DESCRIPTION:
+DeepSeek is a free, open-source AI chatbot with a 1M-token context window and revolutionary pricing — $0.14 per million input tokens, roughly 50-100x cheaper than Western frontier models. The web and mobile apps are completely free, and the open models can run locally. Developers love it for coding with entire codebases in context; students use it for document analysis. Best budget alternative to ChatGPT with comparable reasoning. Full review, pricing table, and model comparison: bla5k.com/tools/deepseek/
+
+------------------------------------------------------------
+[3] Perplexity
+------------------------------------------------------------
+WEBSITE (official): https://www.perplexity.ai/
+CATEGORY: AI Search
+TAGS: perplexity, ai search, answer engine, research, cited sources
+DESCRIPTION:
+Perplexity is the AI answer engine that searches the live web and answers with cited sources — no hallucinated links, no guesswork. Free unlimited searches with up-to-date information, ideal for research, fact-checking, and finding sources fast. It combines a chatbot interface with real-time search results, making it the go-to alternative to Google for answers that need proof. Perfect for students, journalists, and researchers. Read our honest review with pros, cons, and pricing: bla5k.com/tools/perplexity/
+
+------------------------------------------------------------
+[4] Midjourney
+------------------------------------------------------------
+WEBSITE (official): https://www.midjourney.com
+CATEGORY: AI Image Generation
+TAGS: midjourney, ai art, image generator, text to image, design
+DESCRIPTION:
+Midjourney turns a line of text into strikingly artistic images — the gold standard for AI art quality. Designers, marketers, and creators use it for concept art, product mockups, and social media visuals with unmatched aesthetic control. Now available on the web with a free tier for trying. Learn how it compares to free image generators and get prompt tips in our guide: bla5k.com/tools/midjourney/
+
+------------------------------------------------------------
+[5] Qwen Chat
+------------------------------------------------------------
+WEBSITE (official): https://chat.qwen.ai/
+CATEGORY: AI Chatbot
+TAGS: qwen, alibaba, chinese ai, chatbot, free ai
+DESCRIPTION:
+Qwen Chat by Alibaba is a free AI assistant with access to 100+ models, built-in image generation, and live web search — all in one chat. It's one of the strongest free alternatives to ChatGPT, especially for multilingual users and anyone exploring Chinese AI models. Supports long documents, coding, and vision tasks without a subscription. See how Qwen compares to DeepSeek, Kimi, and GLM in our head-to-head: bla5k.com/tools/qwen-chat/
+
+------------------------------------------------------------
+[6] Kimi
+------------------------------------------------------------
+WEBSITE (official): https://kimi.com/
+CATEGORY: AI Chatbot
+TAGS: kimi, moonshot, chinese ai, chatbot, long context
+DESCRIPTION:
+Kimi by Moonshot AI is a free chatbot with a massive 1M-token context window — load an entire book, a 300-page report, or a full codebase in one prompt. It reads everything at once and answers without chunking, plus native vision for images and diagrams. Free on web and mobile, with a low-cost API for developers. The best tool for long-document analysis among Chinese AI models. Full review: bla5k.com/tools/kimi/
+
+------------------------------------------------------------
+[7] Claude Code
+------------------------------------------------------------
+WEBSITE (official): https://docs.anthropic.com/en/docs/claude-code
+CATEGORY: AI Coding
+TAGS: claude code, anthropic, coding agent, cli, terminal
+DESCRIPTION:
+Claude Code is Anthropic's agentic coding CLI — it reads, writes, tests, and debugs your entire codebase directly from the terminal. Developers delegate refactoring, test generation, and bug fixes to it, then review the changes. Works with any language and integrates with your existing git workflow. The fastest way to ship more code with less typing. Complete guide with setup steps and real examples: bla5k.com/tools/claude-code/
+
+------------------------------------------------------------
+[8] NotebookLM
+------------------------------------------------------------
+WEBSITE (official): https://notebooklm.google.com/
+CATEGORY: AI Productivity / Research
+TAGS: notebooklm, google, research, study, source-grounded
+DESCRIPTION:
+NotebookLM is Google's free AI research assistant — upload your own documents and get answers grounded ONLY in your sources, never in random internet data. Perfect for students, researchers, and analysts who need cited, source-based answers from PDFs, notes, and web links. Includes audio overviews that turn your notes into podcast-style summaries. Free with a Google account. Full guide with use cases: bla5k.com/tools/notebooklm/
+
+------------------------------------------------------------
+[9] Suno AI Music Generator
+------------------------------------------------------------
+WEBSITE (official): https://suno.com/
+CATEGORY: AI Music Generation
+TAGS: suno, ai music, music generator, ai songs, vocals
+DESCRIPTION:
+Suno is the AI music creator that generates full songs with vocals and instruments from a simple text prompt. You describe the style, mood, and lyrics — Suno produces studio-quality tracks in seconds. Free tier for everyday creators; used by musicians for demos, content creators for background tracks, and hobbyists exploring AI audio. Read our review covering free limits and best prompts: bla5k.com/tools/suno-ai/
+
+------------------------------------------------------------
+[10] n8n
+------------------------------------------------------------
+WEBSITE (official): https://n8n.io/
+CATEGORY: No-Code Automation
+TAGS: n8n, automation, workflow, no-code, open source
+DESCRIPTION:
+n8n is the open-source workflow automation platform — connect 400+ apps and AI agents with drag-and-drop nodes, no code required. Self-host it for free on your own server, or use the cloud version. The most flexible Zapier alternative for developers and power users who want full control over their automations, with AI agent nodes built in. Setup guide, pricing comparison, and real workflow examples: bla5k.com/tools/n8n/
+
+------------------------------------------------------------
+[11] GLM (Zhipu AI)
+------------------------------------------------------------
+WEBSITE (official): https://z.ai/
+CATEGORY: AI Chatbot
+TAGS: glm, zhipu, chinese ai, chatbot, open source
+DESCRIPTION:
+Zhipu AI's GLM is a frontier Chinese model for chat, coding, and agentic workflows — with open-source variants you can self-host. Competitive reasoning at a fraction of Western API prices, plus a clean free web app. Compare GLM vs DeepSeek, Qwen, and Kimi in our 4-way guide: bla5k.com/tools/glm-zhipu/
+
+------------------------------------------------------------
+[12] MiniMax (Hailuo AI)
+------------------------------------------------------------
+WEBSITE (official): https://hailuoai.video/
+CATEGORY: AI Video Generation
+TAGS: minimax, hailuo, ai video, text to video, chinese ai
+DESCRIPTION:
+Hailuo AI by MiniMax generates cinematic text-to-video from a single prompt — plus image generation and voice cloning in one suite. One of the most impressive free AI video tools from a Chinese lab. See sample results and free-tier limits: bla5k.com/tools/minimax/
+
+====================================================================
+ SUBMISSION STEPS (1 minute per tool)
+====================================================================
+1. Go to https://www.toolify.ai → Sign in with Google → Submit Tool
+2. Paste the official WEBSITE into the "Website" field (approval requirement)
+3. Paste the DESCRIPTION into the Description field
+4. Pick CATEGORY + add the TAGS
+5. Submit → auto-reviewed within days
+6. After 3 submissions, search "bla5k" inside Toolify — if auto-indexed,
+   CLAIM your profile to confirm ownership
+
+TIP: The official website is required for approval. Each description
+ends with the bla5k review URL, so every listing still spreads bla5k's
+name (co-citation). Submit the 5 high-value tools first: ChatGPT,
+DeepSeek, Perplexity, Midjourney, Kimi.
+====================================================================

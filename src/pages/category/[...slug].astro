@@ -1,0 +1,206 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { getCollection } from 'astro:content';
+import { categories, subcategoriesOf } from '../../data/categories';
+import { outboundRel } from '../../lib/links';
+
+// Paginate every category: 200 tools per page. Keeps category pages light
+// (~150 KB instead of 1.3 MB), spreads link equity across more pages, and
+// caps ItemList at Google's practical 100-item rich-result limit.
+// NOTE: getStaticPaths compiles to a module-level function, so the page size
+// must live INSIDE it and travel to the template via props (frontmatter consts
+// are not visible there).
+export async function getStaticPaths() {
+  const PER_PAGE = 200;
+  const sites = await getCollection('sites');
+  const paths = [];
+  for (const cat of categories) {
+    const subs = subcategoriesOf(cat.slug)
+      .map((sub) => ({
+        sub,
+        sites: sites
+          .filter((s) => s.data.subcategory === sub.slug)
+          .sort((a, b) => Number(b.data.featured) - Number(a.data.featured) || a.data.name.localeCompare(b.data.name)),
+      }))
+      .filter((x) => x.sites.length > 0);
+    const count = subs.reduce((n, x) => n + x.sites.length, 0);
+    if (count === 0) continue;
+    const pageCount = Math.max(1, Math.ceil(count / PER_PAGE));
+    for (let page = 1; page <= pageCount; page++) {
+      // Rest params take a slash-joined string: ['ai-tools','page','2'] -> 'ai-tools/page/2'.
+      paths.push({
+        params: { slug: page === 1 ? cat.slug : `${cat.slug}/page/${page}` },
+        props: { cat, subs, count, page, pageCount, perPage: PER_PAGE },
+      });
+    }
+  }
+  return paths;
+}
+
+const { cat, subs, count, page, pageCount, perPage } = Astro.props;
+const site = 'https://bla5k.com';
+const noun = count === 1 ? 'Tool' : 'Tools';
+
+// Slice this page's tools out of the flat category list (featured first, then A–Z).
+const all = subs.flatMap((x) => x.sites);
+const pageSites = all.slice((page - 1) * perPage, page * perPage);
+const pageSubs = subs
+  .map(({ sub, sites: subSites }) => ({ sub, sites: subSites.filter((s) => pageSites.includes(s)) }))
+  .filter((x) => x.sites.length > 0);
+const pageStart = (page - 1) * perPage + 1;
+const pageEnd = Math.min(count, page * perPage);
+
+const title =
+  page === 1
+    ? `${cat.name} — ${count} Best ${noun} & Sites | bla5k`
+    : `${cat.name} — Best ${noun} & Sites (Page ${page} of ${pageCount}) | bla5k`;
+const description =
+  page === 1
+    ? `${cat.blurb} A hand-picked directory of ${count} ${count === 1 ? 'tool' : 'tools'} and websites for ${cat.name.toLowerCase()}.`
+    : `${cat.name.toLowerCase()} tools ${pageStart}–${pageEnd} of ${count}: a hand-picked directory of tools and websites for ${cat.name.toLowerCase()}.`;
+
+const schema = [
+  {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: `${site}/` },
+      { '@type': 'ListItem', position: 2, name: cat.name, item: `${site}/category/${cat.slug}/` },
+    ],
+  },
+  {
+    '@type': 'ItemList',
+    name: cat.name,
+    numberOfItems: count,
+    // Google's practical limit is ~100 items per ItemList — list this page's first 100.
+    itemListElement: pageSites.slice(0, 100).map((s, i) => ({
+      '@type': 'ListItem',
+      position: pageStart + i,
+      url: `${site}/tools/${s.id}/`,
+      name: s.data.name,
+    })),
+  },
+];
+---
+<Layout title={title} description={description} schema={schema}>
+  <Header />
+  <main>
+    <section class="section cat-hero">
+      <div class="container">
+        <nav class="crumbs" aria-label="Breadcrumb">
+          <a href="/">Home</a> <span aria-hidden="true">/</span> <span>{cat.name}</span>
+        </nav>
+        <span class="cat-emoji" aria-hidden="true">{cat.icon}</span>
+        <h1 class="cat-title">{cat.name}</h1>
+        <p class="cat-blurb">{cat.blurb}</p>
+        <span class="cat-count">{count} curated {count === 1 ? 'entry' : 'entries'}</span>
+        {pageCount > 1 && (
+          <span class="cat-count page-of">Page {page} of {pageCount} · {pageStart}–{pageEnd}</span>
+        )}
+      </div>
+    </section>
+
+    <section class="section pt0">
+      <div class="container groups">
+        {pageSubs.map(({ sub, sites }) => (
+          <div class="group">
+            <h2 class="group-title"><span aria-hidden="true">{sub.icon}</span> {sub.name}</h2>
+            <ul class="cards" role="list">
+              {sites.map((s) => (
+                <li class="card glass">
+                  <div class="card-head">
+                    <a class="card-name" href={`/tools/${s.id}/`}>{s.data.name}{s.data.sponsored
+                      ? <span class="spons" title="Paid placement">Sponsored</span>
+                      : s.data.featured && <span class="pick" title="Editor’s pick">★</span>}</a>
+                  </div>
+                  <p class="card-tag">{s.data.tagline}</p>
+                  <div class="card-foot">
+                    <a class="more" href={`/tools/${s.id}/`}>Read more</a>
+                    <a class="visit" href={s.data.url} target="_blank" rel={outboundRel(s.data.url, s.data.affiliate, s.data.sponsored)}>Visit ↗</a>
+                  </div>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    {pageCount > 1 && (
+      <section class="section pt0">
+        <div class="container">
+          <nav class="pager" aria-label="Pagination">
+            {page > 1 ? (
+              <a class="pager-btn" rel="prev" href={page === 2 ? `/category/${cat.slug}/` : `/category/${cat.slug}/page/${page - 1}/`}>‹ Previous</a>
+            ) : (
+              <span class="pager-btn disabled" aria-hidden="true">‹ Previous</span>
+            )}
+            <span class="pager-pages">
+              {Array.from({ length: pageCount }, (_, i) => i + 1).map((p) =>
+                p === page ? (
+                  <span class="pager-num current" aria-current="page">{p}</span>
+                ) : (
+                  <a class="pager-num" href={p === 1 ? `/category/${cat.slug}/` : `/category/${cat.slug}/page/${p}/`}>{p}</a>
+                )
+              )}
+            </span>
+            {page < pageCount ? (
+              <a class="pager-btn" rel="next" href={`/category/${cat.slug}/page/${page + 1}/`}>Next ›</a>
+            ) : (
+              <span class="pager-btn disabled" aria-hidden="true">Next ›</span>
+            )}
+          </nav>
+        </div>
+      </section>
+    )}
+  </main>
+  <Footer />
+</Layout>
+
+<style>
+  .cat-hero { padding-block: clamp(2rem, 7vw, 3.5rem) 1rem; }
+  .crumbs { font-size: 0.85rem; color: var(--text-faint); margin-bottom: 1.2rem; }
+  .crumbs a { color: var(--cyan-soft); }
+  .crumbs span { margin-inline: 0.35rem; }
+  .cat-emoji { font-size: 2.4rem; }
+  .cat-title { font-size: clamp(2rem, 1.4rem + 4vw, 3.2rem); margin-block: 0.5rem 0.6rem; }
+  .cat-blurb { color: var(--text-dim); max-width: 60ch; font-size: 1.08rem; }
+  .cat-count { display: inline-block; margin-top: 1rem; margin-right: 0.5rem; font-family: var(--font-head); font-weight: 600; font-size: 0.85rem; color: var(--cyan-soft); background: rgba(0,240,255,.08); border: 1px solid var(--glass-border); padding: 0.3rem 0.85rem; border-radius: 999px; }
+  .page-of { color: var(--text-dim); background: rgba(255,255,255,.04); }
+
+  .pt0 { padding-top: 0; }
+  .groups { display: grid; gap: 2.4rem; }
+  .group-title { font-size: 1.35rem; display: flex; align-items: center; gap: 0.5rem; margin-bottom: 1rem; padding-bottom: 0.6rem; border-bottom: 1px solid var(--glass-border); }
+  .cards { list-style: none; display: grid; gap: 0.9rem; grid-template-columns: 1fr; }
+  .card { padding: 1.2rem 1.25rem; display: flex; flex-direction: column; transition: transform .24s, border-color .24s, box-shadow .24s; }
+  .card:hover { transform: translateY(-4px); border-color: var(--glass-border-strong); box-shadow: var(--shadow-card), var(--glow-cyan); }
+  .card-name { font-family: var(--font-head); font-weight: 700; font-size: 1.15rem; display: inline-flex; align-items: center; gap: 0.35rem; }
+  .card-name:hover { color: var(--cyan-soft); }
+  .pick { color: var(--orange); font-size: 0.85rem; }
+  .spons {
+    font-family: var(--font-body); font-weight: 700; font-size: 0.62rem; letter-spacing: 0.08em; text-transform: uppercase;
+    color: var(--orange); background: rgba(255,159,67,.1); border: 1px solid rgba(255,159,67,.45);
+    border-radius: 999px; padding: 0.14rem 0.55rem; line-height: 1.2;
+  }
+  .card-tag { color: var(--text-dim); font-size: 0.92rem; margin-top: 0.4rem; flex: 1; }
+  .card-foot { display: flex; align-items: center; justify-content: space-between; margin-top: 1rem; }
+  .more { font-family: var(--font-head); font-weight: 600; font-size: 0.88rem; color: var(--text); }
+  .more:hover { color: var(--cyan-soft); }
+  .visit { font-family: var(--font-head); font-weight: 600; font-size: 0.85rem; color: var(--cyan-soft); padding: 0.4rem 0.85rem; border-radius: 999px; background: rgba(0,240,255,.06); border: 1px solid var(--glass-border); transition: background .2s, box-shadow .2s; }
+  .visit:hover { background: rgba(0,240,255,.13); box-shadow: var(--glow-cyan); }
+
+  .pager { display: flex; align-items: center; justify-content: center; gap: 0.6rem; flex-wrap: wrap; margin-block: 1.2rem 2rem; }
+  .pager-btn, .pager-num {
+    font-family: var(--font-head); font-weight: 600; font-size: 0.9rem;
+    color: var(--cyan-soft); background: rgba(0,240,255,.06); border: 1px solid var(--glass-border);
+    border-radius: 999px; padding: 0.45rem 0.95rem; transition: background .2s, box-shadow .2s;
+  }
+  .pager-btn:hover, .pager-num:hover { background: rgba(0,240,255,.13); box-shadow: var(--glow-cyan); }
+  .pager-btn.disabled { color: var(--text-faint); background: rgba(255,255,255,.03); border-color: transparent; pointer-events: none; }
+  .pager-pages { display: flex; gap: 0.35rem; flex-wrap: wrap; }
+  .pager-num.current { color: var(--text); background: rgba(0,240,255,.14); border-color: rgba(0,240,255,.5); box-shadow: 0 0 14px -6px rgba(0,240,255,.6); }
+
+  @media (min-width: 620px) { .cards { grid-template-columns: 1fr 1fr; } }
+  @media (min-width: 1000px) { .cards { grid-template-columns: 1fr 1fr 1fr; } }
+</style>

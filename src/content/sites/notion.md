@@ -1,7 +1,10 @@
 ---
 name: Notion
 url: https://www.notion.so
+image: /logos/notion.png
+screenshot: /screens/notion.webp
 subcategory: prod-notes
+pricing: freemium
 tagline: Docs, wikis, and databases combined into one flexible workspace.
 tags:
   - Notes

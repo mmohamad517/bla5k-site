@@ -1,7 +1,10 @@
 ---
 name: ChatGPT
 url: https://chat.openai.com
+image: /logos/chatgpt.png
+screenshot: /screens/chatgpt.webp
 subcategory: ai-chat
+pricing: freemium
 tagline: The world's most popular AI chatbot — write, learn, code, and solve
   problems in plain conversation.
 tags:
@@ -170,6 +173,8 @@ A great first exercise: give it a real task you'd normally do yourself — draft
 
 ChatGPT is the tool that made AI feel useful and accessible to everyone. It's a versatile, conversational assistant that can write, teach, code, analyze, and brainstorm, with a genuinely capable free tier and a rich set of premium features for those who want more. Its main caveat — that it can be confidently wrong — is easily managed by verifying what matters.
 
-If you haven't yet made ChatGPT part of your daily toolkit, it's the single easiest place to start with AI. And to discover more tools shaping this era, browse our [AI Tools](/category/ai-tools/) category or the full [bla5k directory](/#directory).
+If you haven't yet made ChatGPT part of your daily toolkit, it's the single easiest place to start with AI. And to discover more tools shaping this era, browse our [AI Tools](/category/ai-tools/) category or the full [bla5k directory](/directory/).
+
+For users in regions where ChatGPT access is limited, GlobalGPT provides an alternative interface for accessing AI chat capabilities.
 
 *Official resources: the [ChatGPT website](https://chat.openai.com) and [OpenAI](https://openai.com).*

@@ -137,6 +137,9 @@ export default defineConfig({
       lastmod: new Date(),
       changefreq: 'weekly',
       priority: 0.7,
+      customPages: ['https://bla5k.com/llms.txt'],
+      // RSS feeds are machine-readable endpoints, not indexable HTML pages.
+      filter: (page) => !/\/rss(-tools|-guides)?\.xml$/.test(page),
     }),
   ],
 });

@@ -17,6 +17,10 @@ const sites = defineCollection({
     tagline: z.string(),               // one-line summary (shown on cards/rows)
     tags: z.array(z.string()).default([]),
     featured: z.boolean().default(false),
+    /** Paid placement (advertised listing/featured slot). Renders a visible
+     *  "Sponsored" badge and forces rel="sponsored" on the outbound link,
+     *  per Google's paid-link policy — never shown as an editorial pick. */
+    sponsored: z.boolean().default(false),
     /** Optional override. Leave unset for auto-detection from the URL.
      *  true  -> force rel="sponsored"; false -> force a normal follow link. */
     affiliate: z.boolean().optional(),
@@ -25,6 +29,13 @@ const sites = defineCollection({
     metaDescription: z.string().optional(),
     /** Optional logo or hero image URL for this tool. Used in UI and Schema. */
     image: z.string().optional(),
+    /** Optional local screenshot preview (public/screens/<slug>.webp).
+     *  Shown above the tool name in directory cards as a visual preview. */
+    screenshot: z.string().optional(),
+    /** Pricing model — shown as a badge on directory rows and powers the
+     *  price filter. free = no paywall at all, freemium = usable free tier
+     *  with paid upgrades, paid = requires payment (trial may exist). */
+    pricing: z.enum(['free', 'freemium', 'paid']).optional(),
     /** Plain-language explainer blocks shown at the TOP of the tool page,
      *  so a visitor understands the tool in ~10 seconds without jargon. */
     simple: z.string().optional(),            // "In plain words" — no technical terms, 1-2 sentences

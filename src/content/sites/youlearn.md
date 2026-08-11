@@ -1,6 +1,8 @@
 ---
 name: Youlearn
 url: https://youlearn.ai/
+image: /logos/youlearn.png
+screenshot: /screens/youlearn.webp
 subcategory: learn-courses
 tagline: "AI study assistant that turns any content into personalized learning materials."
 tags: [youlearn, study, ai, learning, personalized, education]

@@ -1,6 +1,8 @@
 ---
 name: Free AI Video Upscaler
 url: https://www.media.io/video-enhancer.html
+image: /logos/free-ai-video-upscaler.png
+screenshot: /screens/free-ai-video-upscaler.webp
 subcategory: va-video-edit
 tagline: "AI video upscaler — enhance video resolution up to 4K for free."
 tags: [free ai video upscaler, 4k, enhance, resolution]

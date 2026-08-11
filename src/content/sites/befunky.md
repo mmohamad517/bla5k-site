@@ -1,7 +1,10 @@
 ---
 name: BeFunky
 url: https://www.befunky.com/
+image: /logos/befunky.png
+screenshot: /screens/befunky.webp
 subcategory: design-graphics
+pricing: freemium
 tagline: "All-in-one photo editor, collage maker, and graphic designer — free online tools."
 tags: [befunky, photo editor, collage, design, free, online]
 featured: false

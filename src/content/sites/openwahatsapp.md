@@ -1,6 +1,8 @@
 ---
 name: Open-WA
 url: https://www.open-wa.org/
+image: /logos/openwahatsapp.png
+screenshot: /screens/openwahatsapp.webp
 subcategory: dev-ai-agents
 tagline: A free, self-hosted, open-source WhatsApp automation library for developers — unofficial, use responsibly.
 tags:
@@ -13,7 +15,7 @@ tags:
 featured: false
 affiliate: false
 updated: 2026-08-01
-metaTitle: Open-WA - Self-Hosted WhatsApp Automation Library 2026
+metaTitle: Open-WA.org - Self-Hosted WhatsApp Automation Library 2026
 metaDescription: A developer's guide to Open-WA (wa-automate-nodejs), the self-hosted open-source WhatsApp automation library — features, licensing, and the important ban and Terms-of-Service risks.
 simple: "A free developer tool that lets software send and receive WhatsApp messages automatically. It's powerful for building chatbots — but it's unofficial and can get a phone number banned."
 example: "A developer could connect it to a shop so order confirmations send automatically on WhatsApp — using a spare number, since automation like this breaks WhatsApp's rules."

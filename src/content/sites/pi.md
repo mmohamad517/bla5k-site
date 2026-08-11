@@ -1,6 +1,8 @@
 ---
 name: Pi
 url: https://pi.dev
+image: /logos/pi.png
+screenshot: /screens/pi.webp
 subcategory: dev-ai-agents
 tagline: A minimal, hackable AI agent harness — unify your LLM providers, run agents, and adapt the toolkit to your own workflows.
 tags:
@@ -154,6 +156,6 @@ Each has its strengths; Pi's niche is minimalism and adaptability.
 
 Pi is a refreshingly minimal take on AI agents: a free, MIT-licensed harness you adapt to your own workflows. With a unified multi-provider API, an agent runtime, a TUI, and a coding agent CLI, it gives developers the building blocks and the freedom to build what they want — at the cost of doing your own setup and sandboxing. If you're a developer who'd rather adapt your tools than be adapted to them, Pi is worth a serious look.
 
-To discover more developer tools and AI agents, browse our [Developer Tools](/category/developer/) and [AI Tools](/category/ai-tools/) categories, or explore the full [bla5k directory](/#directory).
+To discover more developer tools and AI agents, browse our [Developer Tools](/category/developer/) and [AI Tools](/category/ai-tools/) categories, or explore the full [bla5k directory](/directory/).
 
 *Official resources: the [Pi website](https://pi.dev) and the [official GitHub repository](https://github.com/earendil-works/pi).*

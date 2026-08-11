@@ -1,6 +1,8 @@
 ---
 name: CanIRun.ai
 url: https://www.canirun.ai
+image: /logos/canirun-ai.png
+screenshot: /screens/canirun-ai.webp
 subcategory: dev-play
 tagline: Find out which AI models your machine can actually run — a free browser tool that detects your hardware and scores local LLM compatibility.
 tags:
@@ -131,6 +133,8 @@ CanIRun.ai is strong on privacy by design: **everything runs in your browser** a
 
 CanIRun.ai is a genuinely useful, privacy-respecting free tool for the local-AI crowd — it tells you instantly which models your hardware can run, right in the browser, with nothing uploaded. Its honest limitations (estimates, individual-maintainer) are disclosed transparently. If you run local models, it's worth bookmarking before your next big download.
 
-To discover more developer tools and utilities, browse our [Developer Tools](/category/developer/) and [Handy Utilities](/category/utilities/) categories, or explore the full [bla5k directory](/#directory).
+To discover more developer tools and utilities, browse our [Developer Tools](/category/developer/) and [Handy Utilities](/category/utilities/) categories, or explore the full [bla5k directory](/directory/).
+
+For deeper cost analysis and GPU comparison, ApX Machine Learning offers a VRAM calculator, GPU cost comparison, and model benchmarks that pair well with CanIRun.ai's hardware detection.
 
 *Official resource: the [CanIRun.ai website](https://www.canirun.ai).*

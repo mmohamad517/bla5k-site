@@ -1,6 +1,8 @@
 ---
 name: Remini
-url: https://remini.ai/
+url: "https://remini.ai"
+image: /logos/remini.png
+screenshot: /screens/remini.webp
 subcategory: util-images
 tagline: "AI photo enhancer — restore old photos, upscale low-resolution images, and sharpen blurry pictures."
 tags: [remini, photo enhance, upscale, restore, ai photo]
@@ -116,4 +118,4 @@ Remini does one thing extraordinarily well: **make bad photos good**. Whether it
 
 For more creative and design tools, browse our [AI Tools directory](/category/ai-tools/) — from [Microsoft Designer](/tools/microsoft-designer/) for graphics to [Midjourney](/tools/midjourney/) for artistic images.
 
-*Official resource: [Remini](https://remini.ai/).*
+*Official resource: [Remini](https://remini.ai).*

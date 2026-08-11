@@ -1,6 +1,8 @@
 ---
 name: Melobytes.com
 url: https://melobytes.com/
+image: /logos/melobytes.png
+screenshot: /screens/melobytes.webp
 subcategory: ai-video-audio
 tagline: "AI music and media generator — create songs, videos, and art from text automatically."
 tags: [melobytes, ai music, generator, songs, videos, creative]

@@ -1,6 +1,8 @@
 ---
 name: Replicate
 url: https://replicate.com/
+image: /logos/replicate.png
+screenshot: /screens/replicate.webp
 subcategory: dev-code
 tagline: Serverless cloud platform to run open-source AI models via simple,
   scalable APIs
@@ -14,7 +16,7 @@ featured: true
 affiliate: false
 updated: 2026-07-31
 metaTitle: "Replicate: Serverless AI Model API Platform Guide 2026"
-metaDescription: Discover Replicate, the serverless cloud platform to run
+metaDescription: Replicate — run 50,000+ open-source AI models with one API call. Serverless, pay-per-use, no GPU management. Complete 2026 developer guide with pricing.
   open-source AI models like Llama and Stable Diffusion via simple APIs without
   managing GPUs.
 simple: "A service that lets you run powerful AI models over the internet without owning expensive hardware. You send a request, it runs the model on its servers, and sends the result back."
@@ -132,13 +134,13 @@ import replicate
 
 # Run the model with specific input parameters
 output = replicate.run(
-    "stability-ai/sdxl:39ed52f2a78e934b3ba6e2a89f5b1c712de7dfea535525255b1aa35c5565e08b",
-    input={
-        "prompt": "A futuristic cityscape at sunset, cyberpunk style, highly detailed, 8k resolution",
-        "width": 1024,
-        "height": 1024,
-        "num_inference_steps": 50
-    }
+ "stability-ai/sdxl:39ed52f2a78e934b3ba6e2a89f5b1c712de7dfea535525255b1aa35c5565e08b",
+ input={
+ "prompt": "A futuristic cityscape at sunset, cyberpunk style, highly detailed, 8k resolution",
+ "width": 1024,
+ "height": 1024,
+ "num_inference_steps": 50
+ }
 )
 
 # The output is a list of URLs pointing to the generated images

@@ -1,6 +1,8 @@
 ---
 name: Paperclip
 url: https://paperclip.ing
+image: /logos/paperclip.png
+screenshot: /screens/paperclip.webp
 subcategory: dev-ai-agents
 tagline: The open-source control plane for running a team of AI agents at work — organize agents like Claude Code and Codex into a company with goals, budgets, and governance.
 tags:
@@ -143,6 +145,6 @@ Paperclip's self-hosted model is inherently private: agents, data, and infrastru
 
 Paperclip brings management and governance to the AI agent era. As an open-source, self-hosted control plane, it turns a scattered collection of coding agents into an organized team with roles, budgets, and oversight — solving the cost, compliance, and coordination problems that appear once agents multiply. It's young, but the MIT license, BYOA model, and rapid adoption make it a project worth watching for any team serious about running AI agents.
 
-To discover more developer tools and AI agents, browse our [Developer Tools](/category/developer/) and [AI Tools](/category/ai-tools/) categories, or explore the full [bla5k directory](/#directory).
+To discover more developer tools and AI agents, browse our [Developer Tools](/category/developer/) and [AI Tools](/category/ai-tools/) categories, or explore the full [bla5k directory](/directory/).
 
 *Official resources: the [Paperclip website](https://paperclip.ing), the [Paperclip documentation](https://docs.paperclip.ing), and the [official GitHub repository](https://github.com/paperclipai/paperclip).*

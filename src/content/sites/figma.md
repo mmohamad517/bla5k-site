@@ -1,7 +1,10 @@
 ---
 name: Figma
 url: https://www.figma.com
+image: /logos/figma.png
+screenshot: /screens/figma.webp
 subcategory: design-ui
+pricing: freemium
 tagline: The collaborative, browser-based design tool where teams design, prototype, and build interfaces together in real time.
 tags: ["ui design", "ux", "prototyping", "collaboration", "design tool", "wireframing"]
 featured: true
@@ -156,6 +159,6 @@ A great first project: recreate a screen from an app you like. It teaches you th
 
 Figma redefined interface design by making it collaborative, browser-based, and accessible. It's the industry-standard platform where teams design UIs, build interactive prototypes, maintain design systems, and hand off polished work to developers — all in one shared space, with a genuinely useful free plan to start. Its cloud-first nature is both its superpower and its main trade-off, but for modern product design, nothing has matched it.
 
-Whether you're a professional designer, a founder sketching an idea, or a beginner learning the craft, Figma is the place to start. To discover more tools like it, browse our [Design & Creative](/category/design/) category or the full [bla5k directory](/#directory).
+Whether you're a professional designer, a founder sketching an idea, or a beginner learning the craft, Figma is the place to start. To discover more tools like it, browse our [Design & Creative](/category/design/) category or the full [bla5k directory](/directory/).
 
 *Official resources: the [Figma website](https://www.figma.com).*

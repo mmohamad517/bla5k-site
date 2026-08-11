@@ -1,6 +1,8 @@
 ---
 name: Product Hunt
 url: https://www.producthunt.com
+image: /logos/product-hunt.png
+screenshot: /screens/product-hunt.webp
 subcategory: disc-launches
 tagline: The internet's daily launchpad for the newest products.
 tags:

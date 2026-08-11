@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import { categories, subcategoriesOf, SHOW_EMPTY_CATEGORIES } from '../data/categories';
 import { outboundRel } from '../lib/links';
+import { toolDate } from '../lib/content-dates';
 
 const allSites = await getCollection('sites');
 
@@ -14,6 +15,13 @@ for (const s of allSites) {
 }
 for (const list of sitesBySub.values()) {
   list.sort((a, b) => Number(b.data.featured) - Number(a.data.featured) || a.data.name.localeCompare(b.data.name));
+}
+
+// Pricing filter counts (for the filter buttons).
+const priceCounts = { free: 0, freemium: 0, paid: 0 };
+for (const s of allSites) {
+  const p = s.data.pricing;
+  if (p) priceCounts[p]++;
 }
 
 const tree = categories
@@ -35,7 +43,7 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
     <div class="dir-head">
       <span class="eyebrow"><span class="dot"></span> The Directory</span>
       <h2 class="section-title">Browse every <span class="grad">tool &amp; site</span></h2>
-      <p class="section-lead">Tap a category to expand it. Search to jump straight to what you need.</p>
+      <p class="section-lead">Tap a category to expand it. Search to jump straight to what you need. Missing something? <a href="/contact/#suggest" class="dir-suggest">Suggest a tool →</a></p>
     </div>
 
     <!-- Instant search (progressive: works only as a filter; all content is in the HTML) -->
@@ -44,6 +52,24 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
       <input id="dir-search" type="search" inputmode="search" autocomplete="off"
              placeholder="Search tools, sites, forums…" aria-label="Search the directory" />
       <button id="dir-clear" type="button" aria-label="Clear search" hidden>&times;</button>
+    </div>
+
+    <!-- Sort control (progressive: hidden until JS is available) -->
+    <div class="sort-bar" role="group" aria-label="Sort tools">
+      <span class="sort-label">Sort</span>
+      <button type="button" class="sort-btn" data-sort="newest" aria-pressed="false">Newest</button>
+      <button type="button" class="sort-btn" data-sort="featured" aria-pressed="false">Featured</button>
+      <button type="button" class="sort-btn" data-sort="az" aria-pressed="false">A–Z</button>
+    </div>
+
+    <!-- Price filter (progressive — hidden until JS is available) -->
+    <div class="price-bar" role="group" aria-label="Filter by price">
+      <span class="sort-label">Price</span>
+      <button type="button" class="sort-btn" data-price="all" aria-pressed="true">All</button>
+      <button type="button" class="sort-btn" data-price="free" aria-pressed="false">Free<span class="pcount">{priceCounts.free}</span></button>
+      <button type="button" class="sort-btn" data-price="freemium" aria-pressed="false">Freemium<span class="pcount">{priceCounts.freemium}</span></button>
+      <button type="button" class="sort-btn" data-price="paid" aria-pressed="false">Paid<span class="pcount">{priceCounts.paid}</span></button>
+      <span class="price-note">Pricing shown for our top picks — more tools getting labels.</span>
     </div>
     <p class="search-status" id="dir-status" role="status" aria-live="polite" hidden></p>
 
@@ -68,18 +94,35 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
                 </summary>
                 <ul class="sites" role="list">
                   {sites.map((site) => (
-                    <li class="site-row" data-search={`${site.data.name} ${site.data.tagline} ${site.data.tags.join(' ')} ${cat.name} ${sub.name}`.toLowerCase()}>
-                      <div class="site-main">
-                        <a class="site-title" href={`/tools/${site.id}/`}>
-                          {site.data.name}
-                          {site.data.featured && <span class="pick" title="Editor’s pick">★</span>}
+                    <li
+                      class="site-row"
+                      data-tags={site.data.tags.join(' ').toLowerCase()}
+                      data-name={site.data.name.toLowerCase()}
+                      data-date={toolDate(site).getTime()}
+                      data-feat={site.data.featured ? '1' : '0'}
+                      data-pricing={site.data.pricing ?? ''}
+                    >
+                      <div class="site-row-bot">
+                        <div class="site-main">
+                          <a class="site-title" href={`/tools/${site.id}/`}>
+                            {site.data.image && (
+                              <img class="site-logo" src={site.data.image} alt="" width="24" height="24" loading="lazy" referrerpolicy="no-referrer" />
+                            )}
+                            {site.data.name}
+                            {site.data.sponsored
+                              ? <span class="spons" title="Paid placement">Sponsored</span>
+                              : site.data.featured && <span class="pick" title="Editor’s pick">★</span>}
+                            {site.data.pricing && (
+                              <span class={`price price-${site.data.pricing}`}>{site.data.pricing}</span>
+                            )}
+                          </a>
+                          <p class="site-tag">{site.data.tagline}</p>
+                        </div>
+                        <a class="site-visit" href={site.data.url} target="_blank" rel={outboundRel(site.data.url, site.data.affiliate, site.data.sponsored)} aria-label={`Visit ${site.data.name}`}>
+                          Visit
+                          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
                         </a>
-                        <p class="site-tag">{site.data.tagline}</p>
                       </div>
-                      <a class="site-visit" href={site.data.url} target="_blank" rel={outboundRel(site.data.url, site.data.affiliate)} aria-label={`Visit ${site.data.name}`}>
-                        Visit
-                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
-                      </a>
                     </li>
                   ))}
                 </ul>
@@ -98,6 +141,8 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
   /* Trim the big empty gap between the hero and the directory */
   .directory-wrap { padding-top: clamp(1.5rem, 4vw, 2.75rem); }
   .dir-head { max-width: 640px; margin-bottom: 1.6rem; }
+  .dir-suggest { color: var(--cyan-soft); text-decoration: underline; text-underline-offset: 3px; white-space: nowrap; }
+  .dir-suggest:hover { color: var(--cyan); }
 
   /* ---- Search ---- */
   .search { display: flex; align-items: center; gap: 0.6rem; padding: 0.55rem 0.9rem; margin-bottom: 0.5rem; }
@@ -108,12 +153,54 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
   #dir-clear { background: none; border: none; color: var(--text-dim); font-size: 1.4rem; line-height: 1; cursor: pointer; padding: 0 0.3rem; }
   .search-status { color: var(--text-faint); font-size: 0.85rem; margin: 0.4rem 0.2rem 0.8rem; }
 
+  /* ---- Sort (progressive — visible only with JS) ---- */
+  .sort-bar { display: none; align-items: center; gap: 0.4rem; flex-wrap: wrap; margin: 0.35rem 0.1rem 0.9rem; }
+  html.js .sort-bar { display: flex; }
+  .sort-label {
+    font-size: 0.72rem; font-weight: 700; letter-spacing: 0.09em; text-transform: uppercase;
+    color: var(--text-faint); margin-right: 0.15rem;
+  }
+  .sort-btn {
+    font-family: var(--font-head); font-size: 0.8rem; font-weight: 600;
+    color: var(--text-dim); background: rgba(18,22,41,.55);
+    border: 1px solid var(--glass-border); border-radius: 999px;
+    padding: 0.32rem 0.8rem; cursor: pointer;
+    transition: color .2s, border-color .2s, background .2s, box-shadow .2s;
+  }
+  .sort-btn:hover { color: var(--cyan-soft); border-color: var(--glass-border-strong); }
+  .sort-btn[aria-pressed="true"] {
+    color: var(--cyan); background: rgba(0,240,255,.1); border-color: rgba(0,240,255,.5);
+    box-shadow: 0 0 14px -6px rgba(0,240,255,.6);
+  }
+  .sort-btn:focus-visible { outline: 2px solid var(--cyan); outline-offset: 2px; }
+
+  /* ---- Price badge + filter ---- */
+  .price {
+    font-family: var(--font-body); font-weight: 700; font-size: 0.6rem; letter-spacing: 0.07em; text-transform: uppercase;
+    border-radius: 999px; padding: 0.13rem 0.5rem; line-height: 1.3; border: 1px solid;
+  }
+  .price-free { color: #4ade80; background: rgba(74,222,128,.1); border-color: rgba(74,222,128,.45); }
+  .price-freemium { color: var(--cyan-soft); background: rgba(0,240,255,.08); border-color: rgba(0,240,255,.45); }
+  .price-paid { color: var(--orange); background: rgba(255,159,67,.1); border-color: rgba(255,159,67,.45); }
+  .price-bar { display: none; align-items: center; gap: 0.4rem; flex-wrap: wrap; margin: 0.35rem 0.1rem 0.9rem; }
+  html.js .price-bar { display: flex; }
+  .pcount { font-size: 0.68rem; font-weight: 700; color: var(--text-faint); margin-left: 0.3rem; }
+  .price-note { flex-basis: 100%; font-size: 0.74rem; color: var(--text-faint); }
+
   /* ---- Accordion (mobile-first) ---- */
   .directory { display: grid; gap: 0.8rem; margin-top: 1rem; }
+  /* content-visibility skips layout/paint for off-screen categories — big
+     Speed Index win on the 150+ card homepage. contain-intrinsic-size
+     reserves space so scrolling stays smooth (no layout jumps). */
   .cat {
     background: var(--glass-bg); border: 1px solid var(--glass-border);
     border-radius: var(--radius); overflow: hidden;
     backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+    content-visibility: auto;
+    contain-intrinsic-size: auto 58px;
+  }
+  @media (min-width: 720px) {
+    .cat { contain-intrinsic-size: auto 66px; }
   }
   .cat[open] { border-color: var(--glass-border-strong); box-shadow: 0 0 26px -10px rgba(0,240,255,.35); }
 
@@ -145,22 +232,43 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
   .sub[open] > .sub-sum .chev.sm { transform: rotate(180deg); }
   .sub-sum:hover { background: rgba(112,243,255,.03); }
 
-  /* ---- Site rows ---- */
-  .sites { list-style: none; display: grid; gap: 0.4rem; padding: 0 0.5rem 0.6rem; }
+  /* ---- Site rows: card with screenshot preview above the name ---- */
+  .sites { list-style: none; display: grid; gap: 0.6rem; padding: 0 0.5rem 0.6rem; }
+  /* content-visibility skips layout/paint for off-screen rows — the directory has
+     thousands of them, and this keeps scrolling and INP smooth on phones. */
   .site-row {
-    display: flex; align-items: center; gap: 0.6rem; justify-content: space-between;
-    padding: 0.7rem 0.75rem; border-radius: 12px;
+    display: flex; flex-direction: column;
+    padding: 0.6rem; border-radius: 14px;
     background: rgba(30,36,66,.5); border: 1px solid transparent;
-    transition: border-color .2s, background .2s, transform .2s;
+    transition: border-color .2s, background .2s, transform .2s, box-shadow .2s;
+    content-visibility: auto;
+    contain-intrinsic-size: auto 54px;
   }
-  .site-row:hover { border-color: var(--glass-border-strong); background: rgba(30,36,66,.85); }
+  .site-row:hover {
+    border-color: var(--glass-border-strong); background: rgba(30,36,66,.85);
+    transform: translateY(-2px); box-shadow: 0 0 26px -12px rgba(0,240,255,.45);
+  }
+  /* Small favicon chip beside the tool name — full screenshots live on the tool pages */
+  .site-logo {
+    width: 24px; height: 24px; border-radius: 6px;
+    object-fit: contain; flex: none;
+    background: rgba(12,15,28,.88); border: 1px solid rgba(255,255,255,.14);
+    padding: 2px; box-shadow: 0 2px 8px rgba(0,0,0,.45);
+  }
+  .site-row-bot { display: flex; align-items: center; justify-content: space-between; gap: 0.6rem; }
   .site-main { min-width: 0; }
   .site-title { font-family: var(--font-head); font-weight: 600; font-size: 1rem; color: var(--text); display: inline-flex; align-items: center; gap: 0.35rem; }
   .site-title:hover { color: var(--cyan-soft); }
   .pick { color: var(--orange); font-size: 0.8rem; }
+  .spons {
+    font-family: var(--font-body); font-weight: 700; font-size: 0.62rem; letter-spacing: 0.08em; text-transform: uppercase;
+    color: var(--orange); background: rgba(255,159,67,.1); border: 1px solid rgba(255,159,67,.45);
+    border-radius: 999px; padding: 0.12rem 0.5rem; line-height: 1.2;
+  }
   .site-tag { color: var(--text-dim); font-size: 0.86rem; margin-top: 0.15rem; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
   .site-visit {
-    flex: none; display: inline-flex; align-items: center; gap: 0.3rem;
+    align-self: flex-start;
+    display: inline-flex; align-items: center; gap: 0.3rem;
     font-family: var(--font-head); font-weight: 600; font-size: 0.82rem; color: var(--cyan-soft);
     padding: 0.45rem 0.8rem; border-radius: 999px;
     background: rgba(0,240,255,.06); border: 1px solid var(--glass-border);
@@ -194,6 +302,7 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
   const list = document.getElementById('dir-list');
   if (input && list) {
     const cats = Array.from(list.querySelectorAll<HTMLDetailsElement>('.cat'));
+    const subs = Array.from(list.querySelectorAll<HTMLDetailsElement>('.sub'));
     const rows = Array.from(list.querySelectorAll<HTMLElement>('.site-row'));
 
     // Remember each category's default open state to restore after search.
@@ -201,47 +310,134 @@ const firstPopulated = tree.findIndex((x) => x.count > 0);
     cats.forEach((c) => defaults.set(c, c.open));
 
     let t: number | undefined;
-    const run = (raw: string) => {
-      const q = raw.trim().toLowerCase();
-      if (clearBtn) clearBtn.hidden = q.length === 0;
+    let priceMode = 'all'; // 'all' | 'free' | 'freemium' | 'paid'
 
-      if (!q) {
-        rows.forEach((r) => r.classList.remove('hide'));
-        list.querySelectorAll('.sub, .cat').forEach((el) => el.classList.remove('hide'));
-        cats.forEach((c) => (c.open = defaults.get(c) ?? false));
-        list.querySelectorAll<HTMLDetailsElement>('.sub').forEach((s) => (s.open = true));
-        if (status) status.hidden = true;
-        if (empty) empty.hidden = true;
-        return;
+    // ── Precomputed search index ──
+    // Built ONCE (lazily on first focus/keystroke). The per-keystroke path then only
+    // does string matching + class toggles — zero DOM reads. Previously we read
+    // textContent/closest/querySelector for 2,600+ rows on every keypress, which
+    // froze and crashed the page while typing on phones.
+    type Entry = { r: HTMLElement; sub: HTMLDetailsElement | null; cat: HTMLDetailsElement | null; text: string };
+    let index: Entry[] | null = null;
+    const buildIndex = () => {
+      index = rows.map((r) => {
+        const sub = r.closest('.sub') as HTMLDetailsElement | null;
+        const cat = (sub ? sub.closest('.cat') : r.closest('.cat')) as HTMLDetailsElement | null;
+        return {
+          r,
+          sub,
+          cat,
+          text: `${r.textContent} ${r.dataset.tags ?? ''} ${sub?.querySelector('.sub-name')?.textContent ?? ''} ${cat?.querySelector('.cat-name')?.textContent ?? ''}`.toLowerCase(),
+        };
+      });
+    };
+    // Warm the index as soon as the user taps the search box, before they type.
+    input.addEventListener('focus', () => { if (!index) buildIndex(); }, { once: true });
+
+    const priceMatch = (r: HTMLElement) => priceMode === 'all' || (r.dataset.pricing || '') === priceMode;
+    const run = () => {
+      if (!index) buildIndex();
+      const q = (input.value ?? '').trim().toLowerCase();
+      if (clearBtn) clearBtn.hidden = q.length === 0;
+      const all = q === '' && priceMode === 'all';
+      let visible = 0;
+      // Count matches per branch in the same pass — no per-keystroke querySelector.
+      const subHas = new Set<HTMLDetailsElement>();
+      const catHas = new Set<HTMLDetailsElement>();
+      for (const it of index!) {
+        const m = (q ? it.text.includes(q) : true) && priceMatch(it.r);
+        it.r.classList.toggle('hide', !m);
+        if (m) {
+          visible++;
+          if (it.sub) subHas.add(it.sub);
+          if (it.cat) catHas.add(it.cat);
+        }
       }
 
-      let visible = 0;
-      rows.forEach((r) => {
-        const match = (r.dataset.search ?? '').includes(q);
-        r.classList.toggle('hide', !match);
-        if (match) visible++;
-      });
-
       // Show/open only branches that still contain matches.
-      list.querySelectorAll<HTMLDetailsElement>('.sub').forEach((sub) => {
-        const has = sub.querySelector('.site-row:not(.hide)');
+      for (const sub of subs) {
+        const has = subHas.has(sub);
         sub.classList.toggle('hide', !has);
         if (has) sub.open = true;
-      });
-      cats.forEach((cat) => {
-        const has = cat.querySelector('.site-row:not(.hide)');
+      }
+      for (const cat of cats) {
+        const has = catHas.has(cat);
         cat.classList.toggle('hide', !has);
-        cat.open = !!has;
-      });
-
-      if (status) { status.hidden = false; status.textContent = `${visible} result${visible === 1 ? '' : 's'}`; }
-      if (empty) empty.hidden = visible !== 0;
+        cat.open = has;
+      }
+      if (all) {
+        cats.forEach((c) => (c.open = defaults.get(c) ?? false));
+        subs.forEach((s) => (s.open = true));
+      }
+      if (status) { status.hidden = all; if (!all) status.textContent = `${visible} result${visible === 1 ? '' : 's'}`; }
+      if (empty) empty.hidden = !(visible === 0 && !all);
     };
 
     input.addEventListener('input', () => {
       window.clearTimeout(t);
-      t = window.setTimeout(() => run(input.value), 90);
+      t = window.setTimeout(run, 90);
     });
-    clearBtn?.addEventListener('click', () => { input.value = ''; run(''); input.focus(); });
+    clearBtn?.addEventListener('click', () => { input.value = ''; run(); input.focus(); });
+
+    // ── Price filter: all / free / freemium / paid (combines with search) ──
+    const priceBtns = Array.from(document.querySelectorAll<HTMLButtonElement>('[data-price]'));
+    const setPricePressed = () => priceBtns.forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.price === priceMode)));
+    priceBtns.forEach((b) =>
+      b.addEventListener('click', () => {
+        if (!b.dataset.price) return;
+        priceMode = b.dataset.price;
+        setPricePressed();
+        run();
+      })
+    );
+    setPricePressed();
+  }
+
+  // ── Sorting: newest / featured / A–Z (no libraries) ──
+  const sortBtns = Array.from(document.querySelectorAll<HTMLButtonElement>('[data-sort]'));
+  const SORT_KEY = 'bla5k-dir-sort';
+  let sortMode: string = 'featured';
+  try { sortMode = localStorage.getItem(SORT_KEY) ?? 'featured'; } catch {}
+  if (sortMode !== 'newest' && sortMode !== 'featured' && sortMode !== 'az') sortMode = 'featured';
+  if (sortBtns.length && list) {
+    const setPressed = () => sortBtns.forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.sort === sortMode)));
+    const sortAll = () => {
+      // Reorder the rows inside every subcategory (structure and open states stay).
+      list.querySelectorAll<HTMLUListElement>('ul.sites').forEach((ul) => {
+        const rows = Array.from(ul.children).filter(
+          (el): el is HTMLElement => el instanceof HTMLElement && el.classList.contains('site-row')
+        );
+        rows.sort((a, b) => {
+          if (sortMode === 'newest') return Number(b.dataset.date || 0) - Number(a.dataset.date || 0);
+          if (sortMode === 'az') return (a.dataset.name || '').localeCompare(b.dataset.name || '');
+          const f = Number(b.dataset.feat || 0) - Number(a.dataset.feat || 0);
+          return f !== 0 ? f : (a.dataset.name || '').localeCompare(b.dataset.name || '');
+        });
+        rows.forEach((r) => ul.appendChild(r));
+      });
+      setPressed();
+    };
+    sortBtns.forEach((b) =>
+      b.addEventListener('click', () => {
+        if (!b.dataset.sort) return;
+        sortMode = b.dataset.sort;
+        try { localStorage.setItem(SORT_KEY, sortMode); } catch {}
+        sortAll();
+      })
+    );
+    sortAll(); // apply a persisted choice on load
+  }
+
+  // ── Deep links: /directory/#ai-tools opens that category and scrolls to it ──
+  const deep = window.location.hash.slice(1);
+  if (deep && list) {
+    const target = Array.from(list.querySelectorAll<HTMLDetailsElement>('.cat')).find(
+      (c) => c.dataset.cat === deep
+    );
+    if (target) {
+      target.open = true;
+      // Wait a tick so the category content is laid out before scrolling.
+      requestAnimationFrame(() => target.scrollIntoView({ block: 'start' }));
+    }
   }
 </script>

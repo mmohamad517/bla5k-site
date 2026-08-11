@@ -1,0 +1,287 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import LegalStrip from '../components/LegalStrip.astro';
+import { getCollection } from 'astro:content';
+import { subcategoryBySlug, categoryBySlug } from '../data/categories';
+import { OPEN_SOURCE_REPOS, NON_OSS_GITHUB_SLUGS } from '../data/open-source';
+import { OSS_REPOS } from '../data/open-source-github';
+
+const sites = await getCollection('sites');
+const site = 'https://bla5k.com';
+
+interface OssEntry {
+  slug: string;
+  name: string;
+  tagline: string;
+  image?: string;
+  cat?: { slug: string; name: string; icon: string };
+  subName?: string;
+  repo: string;
+}
+
+const entries: OssEntry[] = [];
+for (const e of sites) {
+  const d = e.data;
+  const slug = e.id;
+  if (NON_OSS_GITHUB_SLUGS.has(slug)) continue;
+  const repo = d.url.includes('github.com') ? d.url : OPEN_SOURCE_REPOS[slug];
+  if (!repo) continue;
+  const sub = subcategoryBySlug(d.subcategory);
+  const cat = sub ? categoryBySlug(sub.category) : undefined;
+  entries.push({
+    slug,
+    name: d.name,
+    tagline: d.tagline,
+    image: d.image,
+    cat: cat ? { slug: cat.slug, name: cat.name, icon: cat.icon } : undefined,
+    subName: sub?.name,
+    repo,
+  });
+}
+entries.sort((a, b) => a.name.localeCompare(b.name));
+
+const groups = new Map<string, OssEntry[]>();
+for (const en of entries) {
+  const key = en.cat?.name ?? 'Other';
+  if (!groups.has(key)) groups.set(key, []);
+  groups.get(key)!.push(en);
+}
+const orderedGroups = [...groups.entries()].sort((a, b) => a[0].localeCompare(b[0]));
+const total = entries.length;
+
+const grandTotal = total + OSS_REPOS.length;
+const title = `Open Source AI Tools on GitHub (${grandTotal} Free Repos) | bla5k`;
+const description = `${grandTotal} open-source AI tools and projects on GitHub — ${total} fully reviewed in the bla5k directory plus ${OSS_REPOS.length} more verified open-source projects. AI agents, coding assistants, image & video generators, and more. Every repository link is real and verified.`;
+
+const schema = [
+  {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: `${site}/` },
+      { '@type': 'ListItem', position: 2, name: 'Open Source AI Tools', item: `${site}/open-source-ai-tools/` },
+    ],
+  },
+  {
+    '@type': 'ItemList',
+    name: 'Open Source AI Tools on GitHub',
+    numberOfItems: total,
+    itemListElement: entries.map((en, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      url: `${site}/tools/${en.slug}/`,
+      name: en.name,
+    })),
+  },
+];
+---
+
+<Layout title={title} description={description} schema={schema}>
+  <Header />
+  <main>
+    <section class="section oss-hero">
+      <div class="container">
+        <nav class="crumbs" aria-label="Breadcrumb">
+          <a href="/">Home</a> <span aria-hidden="true">/</span> <span>Open Source AI Tools</span>
+        </nav>
+        <span class="eyebrow reveal"><span class="dot"></span> Free &amp; Open Source</span>
+        <h1 class="oss-title reveal d1">Open Source <span class="grad">AI Tools</span> on GitHub</h1>
+        <p class="oss-lead reveal d2">
+          <strong>{grandTotal} open-source tools &amp; projects on GitHub</strong> — {total} fully reviewed in the bla5k
+          directory plus {OSS_REPOS.length} more verified open-source projects pulled from GitHub. Every repository
+          link below is the <strong>real, verified GitHub repo</strong>. Click a reviewed tool name for the full article.
+        </p>
+        <p class="oss-count reveal d3">{grandTotal} verified repositories</p>
+      </div>
+    </section>
+
+    <section class="section pt0">
+      <div class="container">
+        <!-- Instant search: filters the reviewed cards + the 5,000+ repo list.
+             All content stays in the HTML (progressive, works without JS). -->
+        <div class="search glass">
+          <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden="true"><circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2"/><path d="m20 20-3.2-3.2" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+          <input id="oss-search" type="search" inputmode="search" autocomplete="off"
+                 placeholder="Search open source AI tools, repos, languages…" aria-label="Search open source tools" />
+          <button id="oss-clear" type="button" aria-label="Clear search" hidden>&times;</button>
+        </div>
+        <p class="search-status" id="oss-status" role="status" aria-live="polite" hidden></p>
+      </div>
+    </section>
+
+    {orderedGroups.map(([groupName, group]) => (
+      <section class="section oss-group">
+        <div class="container">
+          <h2 class="oss-group-title">{groupName} <span class="count-badge">{group.length}</span></h2>
+          <ul class="oss-grid" role="list">
+            {group.map((en) => (
+              <li class="oss-card glass" data-search={`${en.name} ${en.tagline} ${en.subName ?? ''} ${en.cat?.name ?? ''}`.toLowerCase()}>
+                {en.image && (
+                  <img class="oss-logo" src={en.image} alt="" width="40" height="40" loading="lazy" referrerpolicy="no-referrer" />
+                )}
+                <div class="oss-main">
+                  <div class="oss-head">
+                    <a class="oss-name" href={`/tools/${en.slug}/`}>{en.name}</a>
+                    {en.cat && <span class="oss-cat">{en.cat.icon} {en.subName ?? en.cat.name}</span>}
+                  </div>
+                  <p class="oss-tag">{en.tagline}</p>
+                  <a class="oss-repo" href={en.repo} target="_blank" rel="noopener noreferrer">
+                    <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8Z"/></svg>
+                    GitHub
+                  </a>
+                </div>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </section>
+    ))}
+
+    <section class="section oss-big">
+      <div class="container">
+        <h2 class="oss-group-title">More open-source projects on GitHub <span class="count-badge">{OSS_REPOS.length}</span></h2>
+        <p class="oss-big-lead">
+          A further {OSS_REPOS.length} fully open-source AI projects, pulled live from GitHub and sorted by stars.
+          Every link opens the real repository.
+        </p>
+        <ul class="oss-big-grid" role="list">
+          {OSS_REPOS.map((r) => (
+            <li class="oss-big-card" data-search={`${r.name} ${r.desc ?? ''} ${r.lang ?? ''} ${r.license ?? ''}`.toLowerCase()}>
+              <div class="ob-head">
+                <a class="ob-name" href={r.url} target="_blank" rel="noopener noreferrer">{r.name}</a>
+                <span class="ob-stars" title="GitHub stars">★ {r.stars.toLocaleString()}</span>
+              </div>
+              {r.desc && <p class="ob-desc">{r.desc}</p>}
+              <div class="ob-meta">
+                {r.lang && <span class="ob-lang">{r.lang}</span>}
+                {r.license && <span class="ob-lic">{r.license}</span>}
+                <a class="ob-link" href={r.url} target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+              </div>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  </main>
+  <Footer />
+  <LegalStrip />
+</Layout>
+
+<style>
+  .oss-hero { padding-block: clamp(2rem, 6vw, 3.5rem) 1rem; }
+  .crumbs { font-size: 0.85rem; color: var(--text-faint); margin-bottom: 1.4rem; }
+  .crumbs a { color: var(--cyan-soft); }
+  .crumbs span { margin-inline: 0.35rem; }
+  .eyebrow { display: inline-flex; align-items: center; gap: 0.5rem; font-size: 0.8rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--text-faint); }
+  .eyebrow .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--cyan); box-shadow: var(--glow-cyan); }
+  .oss-title { font-size: clamp(2rem, 1.4rem + 3.4vw, 3.4rem); margin: 0.7rem 0 0.8rem; font-family: var(--font-head); }
+  .grad { background: linear-gradient(90deg, var(--cyan-soft), var(--purple)); -webkit-background-clip: text; background-clip: text; color: transparent; }
+  .oss-lead { color: var(--text-dim); font-size: 1.06rem; max-width: 72ch; line-height: 1.65; }
+  .oss-lead strong { color: var(--text); }
+  .oss-count { margin-top: 1rem; display: inline-block; font-family: var(--font-head); font-weight: 700; color: var(--cyan-soft); background: rgba(0,240,255,.08); border: 1px solid var(--glass-border); border-radius: 999px; padding: 0.35rem 0.9rem; font-size: 0.85rem; }
+
+  /* ---- Instant search (progressive: works only as a filter; content in HTML) ---- */
+  .pt0 { padding-top: 0; }
+  .search { display: flex; align-items: center; gap: 0.6rem; padding: 0.6rem 0.95rem; margin-top: 0.4rem; }
+  .search-icon { color: var(--text-faint); flex: none; }
+  #oss-search { flex: 1; background: none; border: none; outline: none; color: var(--text); font: inherit; font-size: 1rem; padding: 0.5rem 0; min-width: 0; }
+  #oss-search::-webkit-search-cancel-button, #oss-search::-webkit-search-decoration { -webkit-appearance: none; appearance: none; }
+  #oss-search::placeholder { color: var(--text-faint); }
+  #oss-clear { background: none; border: none; color: var(--text-dim); font-size: 1.4rem; line-height: 1; cursor: pointer; padding: 0 0.3rem; }
+  .search-status { color: var(--text-faint); font-size: 0.85rem; margin: 0.5rem 0.2rem 0; }
+  .hide { display: none !important; }
+
+  .oss-group { padding-block: 1.5rem; }
+  .oss-group-title { font-size: 1.35rem; font-family: var(--font-head); margin-bottom: 1.1rem; display: flex; align-items: center; gap: 0.6rem; }
+  .count-badge { font-size: 0.78rem; color: var(--text-faint); background: var(--glass-bg); border: 1px solid var(--glass-border); padding: 0.15rem 0.6rem; border-radius: 999px; font-weight: 600; }
+
+  .oss-grid { list-style: none; display: grid; gap: 0.8rem; }
+  .oss-card { padding: 1rem 1.15rem; display: flex; gap: 0.9rem; align-items: flex-start; transition: border-color .2s, transform .2s; }
+  .oss-card:hover { border-color: var(--glass-border-strong); transform: translateY(-1px); }
+  .oss-logo { flex: none; width: 40px; height: 40px; border-radius: 10px; object-fit: contain; background: rgba(255,255,255,.06); border: 1px solid var(--glass-border); padding: 4px; }
+  .oss-main { min-width: 0; flex: 1; }
+  .oss-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.5rem; }
+  .oss-name { font-family: var(--font-head); font-weight: 700; font-size: 1.04rem; color: var(--text); }
+  .oss-name:hover { color: var(--cyan-soft); }
+  .oss-cat { font-size: 0.76rem; color: var(--text-faint); }
+  .oss-tag { color: var(--text-dim); font-size: 0.92rem; margin-top: 0.25rem; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .oss-repo {
+    display: inline-flex; align-items: center; gap: 0.4rem; margin-top: 0.55rem;
+    font-size: 0.8rem; font-weight: 700; color: var(--cyan-soft);
+    border: 1px solid var(--glass-border); border-radius: 999px; padding: 0.28rem 0.75rem;
+    background: rgba(0,240,255,.06); text-decoration: none;
+  }
+  .oss-repo:hover { border-color: var(--cyan); background: rgba(0,240,255,.12); }
+
+  @media (min-width: 640px) { .oss-grid { grid-template-columns: 1fr 1fr; } }
+  @media (min-width: 1024px) { .oss-grid { grid-template-columns: 1fr 1fr 1fr; } }
+
+  /* ---- 5,000+ GitHub projects section ---- */
+  .oss-big { padding-block: 1.5rem 3rem; }
+  .oss-big-lead { color: var(--text-dim); font-size: 0.98rem; max-width: 72ch; margin-bottom: 1.2rem; }
+  .oss-big-grid { list-style: none; display: grid; gap: 0.7rem; }
+  .oss-big-card {
+    padding: 0.9rem 1.05rem; border-radius: 12px;
+    background: var(--glass-bg); border: 1px solid var(--glass-border);
+    content-visibility: auto; contain-intrinsic-size: auto 94px;
+    transition: border-color .2s, transform .2s;
+  }
+  .oss-big-card:hover { border-color: var(--glass-border-strong); transform: translateY(-1px); }
+  .ob-head { display: flex; align-items: baseline; gap: 0.6rem; }
+  .ob-name { font-family: var(--font-head); font-weight: 700; font-size: 0.94rem; color: var(--text); word-break: break-word; }
+  .ob-name:hover { color: var(--cyan-soft); }
+  .ob-stars { margin-left: auto; flex: none; font-size: 0.78rem; color: var(--orange); white-space: nowrap; }
+  .ob-desc { color: var(--text-dim); font-size: 0.86rem; margin-top: 0.25rem; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .ob-meta { display: flex; align-items: center; gap: 0.5rem; margin-top: 0.45rem; font-size: 0.72rem; }
+  .ob-lang, .ob-lic { color: var(--text-faint); background: rgba(255,255,255,.05); border: 1px solid var(--glass-border); border-radius: 999px; padding: 0.12rem 0.5rem; }
+  .ob-link { margin-left: auto; color: var(--cyan-soft); font-weight: 700; text-decoration: none; }
+  .ob-link:hover { text-decoration: underline; }
+
+  @media (min-width: 640px) { .oss-big-grid { grid-template-columns: 1fr 1fr; } }
+  @media (min-width: 1024px) { .oss-big-grid { grid-template-columns: 1fr 1fr 1fr; } }
+</style>
+
+<script>
+  // Instant filter across the reviewed cards and the 5,000+ repo list.
+  const input = document.getElementById('oss-search') as HTMLInputElement | null;
+  const clearBtn = document.getElementById('oss-clear') as HTMLButtonElement | null;
+  const status = document.getElementById('oss-status');
+  if (input) {
+    const cards = Array.from(document.querySelectorAll<HTMLElement>('.oss-card, .oss-big-card'));
+    const groups = Array.from(document.querySelectorAll<HTMLElement>('.oss-group'));
+    const bigSection = document.querySelector<HTMLElement>('.oss-big');
+
+    const run = () => {
+      const q = (input.value ?? '').trim().toLowerCase();
+      if (clearBtn) clearBtn.hidden = q.length === 0;
+      let visible = 0;
+      cards.forEach((c) => {
+        const m = q === '' || (c.dataset.search ?? '').includes(q);
+        c.classList.toggle('hide', !m);
+        if (m) visible++;
+      });
+      groups.forEach((g) => {
+        const has = g.querySelector('.oss-card:not(.hide)');
+        g.classList.toggle('hide', !has);
+      });
+      if (bigSection) {
+        const has = bigSection.querySelector('.oss-big-card:not(.hide)');
+        bigSection.classList.toggle('hide', q !== '' && !has);
+      }
+      if (status) {
+        status.hidden = q === '';
+        status.textContent = `${visible} result${visible === 1 ? '' : 's'}`;
+      }
+    };
+
+    // Debounce: with 5,000+ cards, running the filter on every keystroke
+    // freezes typing on phones. 90ms keeps it snappy without lagging.
+    let t: number | undefined;
+    input.addEventListener('input', () => {
+      window.clearTimeout(t);
+      t = window.setTimeout(run, 90);
+    });
+    clearBtn?.addEventListener('click', () => { input.value = ''; run(); input.focus(); });
+  }
+</script>

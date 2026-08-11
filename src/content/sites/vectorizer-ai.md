@@ -1,13 +1,15 @@
 ---
 name: Vectorizer AI
 url: https://vectorizer.ai/
+image: /logos/vectorizer-ai.png
+screenshot: /screens/vectorizer-ai.webp
 subcategory: util-images
 tagline: "Convert raster images to clean SVG vectors automatically — AI-powered vectorization."
 tags: [vectorizer, svg, convert, ai, image, vector]
 featured: false
 affiliate: false
-metaTitle: "Vectorizer AI: Convert Images to SVG Vectors | 2026 Guide"
-metaDescription: "Vectorizer AI — convert raster images (PNG, JPG) to clean SVG vectors automatically with AI. Scalable graphics for logos, print, and design."
+metaTitle: "Vectorizer AI: Free PNG & JPG to SVG Converter Online"
+metaDescription: Vectorizer AI converts PNG and JPG photos to clean SVG vectors automatically — free online. Perfect for logos, print, and scalable design graphics.
 simple: "Upload a regular image (like a PNG or JPG) and it becomes a clean, infinitely scalable SVG vector — no tracing software needed."
 example: "Upload a pixelated logo PNG and download a crisp SVG that stays sharp at any size — perfect for printing or large displays."
 goodFor:

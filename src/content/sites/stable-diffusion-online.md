@@ -1,6 +1,8 @@
 ---
 name: Stable Diffusion Online
 url: https://stablediffusionweb.com/
+image: /logos/stable-diffusion-online.png
+screenshot: /screens/stable-diffusion-online.webp
 subcategory: ai-image
 tagline: "Run Stable Diffusion free in your browser — open-source AI image generation without installation."
 tags: [stable diffusion, free ai, image generation, open source, browser]
@@ -117,6 +119,6 @@ Prompt quality is 80% of the result. Describe composition, style, and lighting l
 
 Stable Diffusion Online is the **simplest way to experience open-source AI image generation**: free, in-browser, no hardware required. It's the model that democratized AI art, now available to anyone with a browser tab. For learning, experimenting, and creative exploration, it's the perfect starting point.
 
-For more image tools, explore [Microsoft Designer](/tools/microsoft-designer/), [Midjourney](/tools/midjourney/), and the full [AI Tools directory](/category/ai-tools/).
+For more image tools, explore [Microsoft Designer](/tools/microsoft-designer/), [Midjourney](/tools/midjourney/), and the full [AI Tools directory](/category/ai-tools/). Other free AI image generators worth exploring include Bylo.ai for quick creations and PixAI.ART for anime and character art styles.
 
 *Official resource: [Stable Diffusion Online](https://stablediffusionweb.com/).*

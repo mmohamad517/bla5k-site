@@ -1,7 +1,10 @@
 ---
 name: Nothing To Watch
 url: https://nothing-to-watch.port80.ch
+image: /logos/nothing-to-watch.png
+screenshot: /screens/nothing-to-watch.webp
 subcategory: ent-watch
+pricing: free
 tagline: Beat the endless scroll and finally decide what to watch.
 tags:
   - Movies
@@ -11,8 +14,8 @@ tags:
   - Entertainment
 featured: false
 updated: 2026-08-01
-metaTitle: Nothing To Watch - End the Scroll & Pick a Movie 2026
-metaDescription: A guide to Nothing To Watch, a playful movie-discovery tool powered by open TMDB data that helps you stop scrolling and finally decide what to watch tonight.
+metaTitle: Nothing to Watch? Free Movie Picker to End the Scroll (2026)
+metaDescription: Nothing to watch tonight? This free movie picker ends the endless scroll — get instant film ideas and finally press play. No account needed.
 simple: "A simple, free website that helps you decide what movie to watch. Instead of endless scrolling, it surfaces films for you so you can quickly pick something for tonight."
 example: "Can't decide on a movie? Open Nothing To Watch, browse the films it suggests, pick one, then play it on whatever streaming service you already have."
 goodFor:
@@ -36,6 +39,10 @@ faqs:
     a: The experience is designed for a larger screen, so it works best on a laptop or desktop. You can browse and decide there, then queue up your pick on your usual streaming service.
   - q: Do I need an account to use it?
     a: No account is required to start exploring. It is built to be an immediate, low-friction way to discover a film and get on with your evening.
+  - q: What should I watch tonight?
+    a: The fastest way to decide is to stop searching from a blank mind and start reacting to options. Nothing To Watch surfaces films for you to browse, so you can pick by mood or gut feeling instead of scrolling endlessly. Decide by mood first (funny, tense, or easy) and cap your browsing time so the choice actually happens.
+  - q: How is Nothing To Watch different from JustWatch?
+    a: JustWatch tells you where a specific title is available to stream. Nothing To Watch solves the opposite problem — it helps you choose what to watch in the first place by surfacing films to explore, and it stays neutral about which streaming service you use.
 ---
 
 We have all lived it: twenty minutes of scrolling through streaming apps, thumbnails blurring together, and still nothing playing. The paradox of endless choice is that it often leads to no choice at all. Nothing To Watch is a small, playful tool built to fix exactly that — it turns the overwhelming sea of options into a path toward actually pressing play tonight.
@@ -64,6 +71,10 @@ Nothing To Watch draws on **TMDB (The Movie Database)**, a large, community-main
 - **No streaming lock-in** — it is neutral about where you watch, pointing you to films you can play on any service.
 - **Best on desktop** — the experience is built to shine on a larger screen.
 
+## What should I watch tonight?
+
+If you are stuck on what to watch, the fastest fix is to stop trying to recall a title and start reacting to options. Nothing To Watch is built for exactly that moment: it surfaces films for you to react to, which is far easier than searching from a blank mind. Two habits help as well — decide by mood first (funny, tense, easy, cozy) and cap your browsing time, because the endless scroll is usually what turns a movie night into a night of nothing.
+
 ## Who is it for?
 
 Nothing To Watch is for anyone who has ever wasted an evening deciding instead of watching: couples debating movie night, solo viewers facing a wall of thumbnails, or anyone who finds the streaming apps' own recommendations repetitive. If the hardest part of your movie night is choosing, this tool is aimed squarely at you.
@@ -90,6 +101,8 @@ Nothing To Watch is a small, clever tool that solves a very real everyday proble
 ## Alternatives and comparisons
 
 Larger discovery services like JustWatch focus on telling you where a title is available to stream, while the recommendation engines built into Netflix and other apps push their own catalogs. Nothing To Watch's charm is its opposite approach: a small, neutral, playful tool whose only job is to help you *decide*, independent of any single platform.
+
+If you prefer classic public-domain films, [Internet Archive Films](/tools/internet-archive-films/) is a great complement, and for mood-based picks that also tell you where each title streams, [MovieWiser](/tools/moviewiser/) covers the other end of the discovery spectrum. For books rather than movies, The StoryGraph offers a similar mood-based discovery approach for finding your next read.
 
 ## Conclusion
 

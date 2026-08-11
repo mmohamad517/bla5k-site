@@ -1,6 +1,8 @@
 ---
 name: Starryai
 url: https://starryai.com/
+image: /logos/starryai.png
+screenshot: /screens/starryai.webp
 subcategory: ai-image
 tagline: "AI art generator app — create NFT-quality art on your phone with text prompts."
 tags: [starryai, ai art, image generator, mobile, creative]

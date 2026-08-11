@@ -1,7 +1,10 @@
 ---
 name: Monica
 url: https://monica.im/
+image: /logos/monica.png
+screenshot: /screens/monica.webp
 subcategory: ai-chat
+pricing: freemium
 tagline: "Chrome extension bringing GPT-5, Claude, and Gemini to any webpage—40 free queries/day."
 tags:
   - monica
@@ -11,8 +14,8 @@ tags:
   - productivity
 featured: false
 affiliate: false
-metaTitle: "Monica: Chrome Extension with ChatGPT, Claude, Gemini"
-metaDescription: "Monica—Chrome extension providing instant AI assistance on any webpage. ChatGPT, Claude, Gemini, image generation, translation. Free + Pro."
+metaTitle: "Monica AI Chrome Extension: ChatGPT, Claude & Gemini on Any Page"
+metaDescription: "Monica AI is a Chrome extension that puts ChatGPT, Claude, and Gemini on any webpage — explain, rewrite, translate, and generate images. Free 40 queries/day."
 simple: "Highlight text on any website and get AI suggestions instantly—rewrite, translate, summarize, generate images—all in a smart toolbar."
 example: "Reading a confusing tech article? Highlight a paragraph and Monica explains it in simple words without switching tabs."
 goodFor:

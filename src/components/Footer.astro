@@ -1,5 +1,6 @@
 ---
 import { categories } from '../data/categories';
+import { WEB3FORMS_KEY, web3FormsReady as emailReady } from '../lib/config';
 const year = new Date().getFullYear();
 const topCats = categories.slice(0, 6);
 ---
@@ -8,6 +9,21 @@ const topCats = categories.slice(0, 6);
     <div class="foot-brand">
       <span class="brand"><span class="mark">◆</span> bla<span class="grad">5k</span></span>
       <p>Your curated directory of the best AI tools, sites, and communities.</p>
+      {emailReady && (
+        <form id="footSubForm" class="foot-sub" action="https://api.web3forms.com/submit" method="POST">
+          <input type="hidden" name="access_key" value={WEB3FORMS_KEY} />
+          <input type="hidden" name="subject" value="New bla5k newsletter signup" />
+          <input type="hidden" name="from_name" value="bla5k" />
+          <input type="checkbox" name="botcheck" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true" />
+          <input type="email" name="email" required placeholder="you@example.com" aria-label="Your email address" />
+          <button type="submit" class="btn btn-primary">Subscribe</button>
+          <p class="sub-msg" id="footSubMsg" role="status" aria-live="polite"></p>
+        </form>
+      )}
+      <a href="/rss.xml" class="foot-rss" rel="alternate" type="application/rss+xml" aria-label="Follow the bla5k RSS feed instead">
+        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M4 11a9 9 0 0 1 9 9M4 4a16 16 0 0 1 16 16" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><circle cx="5" cy="19" r="1.6" fill="currentColor"/></svg>
+        Prefer RSS? Follow the feed
+      </a>
     </div>
 
     <nav class="foot-col" aria-label="Categories">
@@ -17,27 +33,63 @@ const topCats = categories.slice(0, 6);
 
     <nav class="foot-col" aria-label="Site">
       <h3>bla5k</h3>
-      <a href="/#directory">Directory</a>
+      <a href="/directory/">Directory</a>
       <a href="/guides/">Guides</a>
       <a href="/faq/">FAQ</a>
       <a href="/about/">About</a>
       <a href="/advertise/">Advertise</a>
       <a href="/contact/">Contact</a>
+      <a href="/llms.txt" rel="alternate" type="text/plain">For AI (llms.txt)</a>
     </nav>
 
     <nav class="foot-col" aria-label="Legal">
       <h3>Legal</h3>
       <a href="/privacy/">Privacy Policy</a>
+      <a href="/cookie-policy/">Cookie Policy</a>
       <a href="/terms/">Terms of Use</a>
+      <a href="/acceptable-use/">Acceptable Use</a>
+      <a href="/dmca/">DMCA &amp; Copyright</a>
       <a href="/disclosure/">Disclosure</a>
     </nav>
   </div>
 
   <div class="container foot-bottom">
     <span>© {year} bla5k. All rights reserved.</span>
-    <span class="disc">Some links on this site may be affiliate links.</span>
+    <span class="disc">Some links on this site may be affiliate links. · <button type="button" class="cookie-link" id="cookie-settings-btn">Cookie settings</button></span>
   </div>
 </footer>
+
+<script>
+  // Re-open the consent banner from the footer button.
+  document.getElementById('cookie-settings-btn')?.addEventListener('click', () => {
+    if (typeof window.__openCookieSettings === 'function') window.__openCookieSettings();
+  });
+
+  // Footer email subscribe form (Web3Forms, same as the newsletter box).
+  const ff = document.getElementById('footSubForm') as HTMLFormElement | null;
+  if (ff) {
+    ff.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const msg = document.getElementById('footSubMsg');
+      const data = Object.fromEntries(new FormData(ff) as any);
+      if (msg) msg.textContent = 'Subscribing…';
+      try {
+        const res = await fetch('https://api.web3forms.com/submit', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
+          body: JSON.stringify(data),
+        });
+        const json = await res.json();
+        if (msg) msg.textContent = json.success
+          ? '✅ You’re in — updates go straight to your inbox.'
+          : 'Hmm, that didn’t go through — please try again.';
+        if (json.success) ff.reset();
+      } catch {
+        if (msg) msg.textContent = 'Network error — please try again in a moment.';
+      }
+    });
+  }
+</script>
 
 <style>
   .site-footer { border-top: 1px solid rgba(112,243,255,.1); margin-top: 2rem; padding-block: 2.4rem 1.5rem; background: rgba(18,22,41,.5); }
@@ -45,12 +97,28 @@ const topCats = categories.slice(0, 6);
   .foot-brand .brand { font-family: var(--font-head); font-weight: 700; font-size: 1.3rem; }
   .foot-brand .mark { color: var(--cyan); }
   .foot-brand p { color: var(--text-faint); margin-top: 0.5rem; max-width: 40ch; font-size: 0.92rem; }
+  .foot-sub { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1rem; max-width: 380px; }
+  .foot-sub input[type="email"] {
+    flex: 1 1 200px; min-width: 0;
+    padding: 0.55rem 0.9rem; border-radius: 999px;
+    background: rgba(18,22,41,.6); color: var(--text);
+    border: 1px solid var(--glass-border-strong); font: inherit; font-size: 0.9rem;
+  }
+  .foot-sub input[type="email"]:focus-visible { outline: 2px solid var(--cyan); outline-offset: 2px; }
+  .foot-sub button { padding: 0.55rem 1.05rem; border-radius: 999px; font-size: 0.9rem; }
+  .foot-sub .sub-msg { flex-basis: 100%; margin: 0; font-size: 0.82rem; color: var(--cyan-soft); min-height: 1.1em; }
+  .hp { position: absolute; left: -9999px; opacity: 0; }
+  .foot-rss { display: inline-flex; align-items: center; gap: 0.4rem; margin-top: 0.7rem; color: var(--text-dim); font-size: 0.82rem; }
+  .foot-rss svg { color: #f26522; }
+  .foot-rss:hover { color: var(--cyan-soft); }
   .foot-col { display: flex; flex-direction: column; gap: 0.5rem; }
   .foot-col h3 { font-family: var(--font-head); font-size: 0.82rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text); margin-bottom: 0.2rem; }
   .foot-col a { color: var(--text-dim); font-size: 0.92rem; transition: color .2s; }
   .foot-col a:hover { color: var(--cyan-soft); }
   .foot-bottom { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0.5rem; margin-top: 2rem; padding-top: 1.3rem; border-top: 1px solid rgba(112,243,255,.07); color: var(--text-faint); font-size: 0.82rem; }
   .disc { color: var(--text-dim); }
+  .cookie-link { background: none; border: none; padding: 0; color: var(--cyan-soft); font: inherit; font-size: inherit; text-decoration: underline; text-underline-offset: 2px; cursor: pointer; }
+  .cookie-link:hover { color: var(--cyan); }
 
   @media (min-width: 640px) { .foot { grid-template-columns: 2fr 1fr 1fr 1fr; gap: 2rem; } }
 </style>

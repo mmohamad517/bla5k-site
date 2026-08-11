@@ -1,6 +1,8 @@
 ---
 name: Spline
 url: https://spline.design/
+image: /logos/spline.png
+screenshot: /screens/spline.webp
 subcategory: design-3d
 tagline: "Free 3D design tool for the web — create interactive 3D experiences in your browser."
 tags: [spline, 3d design, web 3d, interactive, browser, free]
@@ -122,6 +124,6 @@ Start with a simple object and one animation — you'll have a shareable 3D scen
 
 Spline makes **interactive 3D design as easy as 2D design** — browser-based, collaborative, and built for the web. Whether it's a product mockup, an animated logo, or a fully interactive landing page, Spline lets designers create experiences that used to require specialized 3D teams.
 
-For more design and creative tools, explore [Looka](/tools/looka/) for branding, [Figma](/tools/figma/) for UI, and our [Design directory](/category/design/).
+For more design and creative tools, explore [Looka](/tools/looka/) for branding, [Figma](/tools/figma/) for UI, and our [Design directory](/category/design/). If you need 3D for interior and home design specifically, HomeByMe offers photorealistic room visualization in the browser.
 
 *Official resource: [Spline](https://spline.design/).*

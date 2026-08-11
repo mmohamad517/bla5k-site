@@ -9,10 +9,12 @@ export interface Props {
   heading: string;
   updated?: string;
   noindex?: boolean;
+  /** Extra Schema.org nodes merged into the page @graph. */
+  schema?: Record<string, any>[];
 }
-const { title, description, heading, updated, noindex = false } = Astro.props;
+const { title, description, heading, updated, noindex = false, schema = [] } = Astro.props;
 ---
-<Layout title={`${title} | bla5k`} description={description} noindex={noindex}>
+<Layout title={`${title} | bla5k`} description={description} noindex={noindex} schema={schema}>
   <Header />
   <main>
     <article class="page">

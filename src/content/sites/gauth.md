@@ -1,6 +1,8 @@
 ---
 name: Gauth AI
 url: https://www.gauthmath.com/
+image: /logos/gauth.png
+screenshot: /screens/gauth.webp
 subcategory: learn-courses
 tagline: "Snap a photo of any math problem and get instant step-by-step solutions."
 tags: [gauth, math solver, homework, ai tutor, photo solver]
@@ -118,5 +120,7 @@ Used this way, Gauth is a powerful tutor. Used as a shortcut, it teaches you not
 Gauth AI is the **fastest way past a stuck homework problem**: photograph it, get a step-by-step solution in seconds, and actually understand the method. For students in math and science, it's the pocket tutor that's always available — if you use it to learn, not just to copy.
 
 For the rest of your study stack, explore [Knowt](/tools/knowt/) for flashcards, [NotebookLM](/tools/notebooklm/) for research, and our [Education directory](/category/learning/).
+
+For specialized study needs, Gizmo uses AI to create study sets, OpenEvidence AI focuses on medical and scientific evidence, Thea provides personalized AI tutoring, ThetaWave AI helps with focus and study productivity, and PTE APEUni is the go-to practice tool for PTE Academic exam preparation.
 
 *Official resource: [Gauth AI](https://www.gauthmath.com/).*

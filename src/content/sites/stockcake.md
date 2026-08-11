@@ -1,6 +1,8 @@
 ---
 name: StockCake
-url: https://stockcake.com/
+url: "https://stockcake.com"
+image: /logos/stockcake.png
+screenshot: /screens/stockcake.webp
 subcategory: media-photos
 tagline: "Free AI-generated stock photos — unlimited downloads, no attribution required."
 tags: [stockcake, stock photos, free, ai generated, no attribution]
@@ -119,4 +121,4 @@ StockCake delivers what content creators actually want: **free, unlimited, no-at
 
 For more creative and AI tools, explore our [AI Tools directory](/category/ai-tools/), including [Microsoft Designer](/tools/microsoft-designer/) for custom graphics.
 
-*Official resource: [StockCake](https://stockcake.com/).*
+*Official resource: [StockCake](https://stockcake.com).*

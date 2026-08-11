@@ -1,7 +1,10 @@
 ---
 name: Claude Code
 url: https://docs.anthropic.com/en/docs/claude-code
+image: /logos/claude-code.png
+screenshot: /screens/claude-code.webp
 subcategory: dev-code
+pricing: paid
 tagline: "Anthropic's agentic coding CLI — reads, writes, tests, and debugs your codebase from the terminal."
 tags: [claude code, anthropic, cli, coding agent, terminal, ai coding]
 featured: false
@@ -128,6 +131,6 @@ Start with a small, well-scoped task to build trust, then scale up to full featu
 
 Claude Code represents a genuine shift in how coding work gets done: instead of an autocomplete assistant waiting for your keystrokes, it's an **agent that takes a goal and executes it end to end** — reading, editing, testing, and fixing with real autonomy. It's not for everyone, and it's not free, but for professional developers doing serious work, the productivity gain is dramatic.
 
-If you're evaluating terminal AI coding tools, the short version is: choose Claude Code for deep agentic autonomy with Anthropic's models, and [Aider](/tools/aider/) if you want an open-source, model-agnostic alternative. Both belong in a modern developer's toolbox.
+If you're evaluating terminal AI coding tools, the short version is: choose Claude Code for deep agentic autonomy with Anthropic's models, and [Aider](/tools/aider/) if you want an open-source, model-agnostic alternative. Both belong in a modern developer's toolbox. For deploying and hosting ML models, Replicate lets you run open-source models in the cloud via API, and Can I Run AI helps you check whether your local hardware can handle a given model before you start.
 
 *Official resource: [Anthropic Claude Code documentation](https://docs.anthropic.com/en/docs/claude-code).*

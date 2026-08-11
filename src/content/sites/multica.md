@@ -1,6 +1,8 @@
 ---
 name: Multica
 url: https://multica.ai
+image: /logos/multica.png
+screenshot: /screens/multica.webp
 subcategory: dev-ai-agents
 tagline: Open-source project management for human and agent teammates — turn coding agents into real teammates you can assign tasks to, with skills and live progress tracking.
 tags:
@@ -145,6 +147,6 @@ Multica's architecture is privacy-conscious: **agent execution happens on your m
 
 Multica brings AI coding agents into the project-management fold — assigning them tasks like teammates, tracking their work in real time, and sharing skills across the team. As an open-source, self-hostable platform with broad agent support and a privacy-first architecture, it's a strong choice for teams that want their AI contributors managed, visible, and organized. If you're running multiple agents seriously, Multica is worth a serious look.
 
-To discover more developer tools and AI agents, browse our [Developer Tools](/category/developer/) and [AI Tools](/category/ai-tools/) categories, or explore the full [bla5k directory](/#directory).
+To discover more developer tools and AI agents, browse our [Developer Tools](/category/developer/) and [AI Tools](/category/ai-tools/) categories, or explore the full [bla5k directory](/directory/).
 
 *Official resources: the [Multica website](https://multica.ai), the [Multica documentation](https://multica.ai/docs), and the [official GitHub repository](https://github.com/multica-ai/multica).*

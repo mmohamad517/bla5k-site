@@ -1,6 +1,8 @@
 ---
 name: AudioConvert
 url: https://audioconvert.com/
+image: /logos/audioconvert.png
+screenshot: /screens/audioconvert.webp
 subcategory: ai-video-audio
 tagline: "Free audio converter — convert between MP3, WAV, FLAC, and other formats online."
 tags: [audioconvert, audio converter, mp3, wav, flac, free, online]

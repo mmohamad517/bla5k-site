@@ -18,7 +18,7 @@ If you're building AI applications, running a startup, or simply exploring what'
 
 ## What is DeepSeek? Understanding the Platform
 
-DeepSeek is an AI research and development organization founded to explore artificial general intelligence (AGI). Unlike OpenAI or Anthropic, which operate primarily from the United States, DeepSeek is a Chinese company. This distinction matters — not because Chinese AI is inherently inferior (it isn't), but because data residency and regulatory considerations shape how you can and should use the platform.
+DeepSeek is an AI research and development organization founded to explore artificial general intelligence (AGI). It sits at the center of a crowded 2026 field of Chinese models — see our [DeepSeek vs Qwen vs Kimi vs GLM comparison](/guides/deepseek-vs-qwen-vs-kimi-vs-glm/) to see how it stacks up head-to-head. Unlike OpenAI or Anthropic, which operate primarily from the United States, DeepSeek is a Chinese company. This distinction matters — not because Chinese AI is inherently inferior (it isn't), but because data residency and regulatory considerations shape how you can and should use the platform.
 
 At its core, DeepSeek provides three things:
 

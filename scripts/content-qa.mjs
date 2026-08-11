@@ -1,17 +1,21 @@
 #!/usr/bin/env node
 /**
- * bla5k Content QA Bot — v2.1
- * -------------------------
+ * bla5k Content QA Bot — v3.0
+ * ---------------------------
  * Runs automatically on every content change (GitHub Action). It ONLY reads
- * your content and prints a report — it never edits, deletes, or blocks
- * anything. 100% deterministic (no AI) → it cannot hallucinate.
+ * your content and prints a report — it never edits or deletes anything.
+ * 100% deterministic (no AI) → it cannot hallucinate.
  *
- * v2.1 fixes:
- * - fmValue() now correctly reads YAML multiline values (indented continuation lines)
- * - metaDescription missing now reports "بدون metaDescription" instead of (null) errors
+ * v3.0 — automatic AdSense policy gate:
+ * - Categorized policy checker: gambling, drugs, piracy, medical claims
+ *   (Google health policy: unsubstantiated cures, guaranteed results).
+ * - sev:'block' rules → CRITICAL → exit code 1 → CI blocks the publish.
+ * - sev:'review' rules → warning → human must verify (many are innocent
+ *   matches like "treats data" or legal streaming pages mentioning "free
+ *   movies").
  *
  * Checks:
- *   • Banned / AdSense-policy content (piracy, adult, drugs, weapons, hate…)
+ *   • Policy gate (gambling / drugs / piracy / medical claims / adult)
  *   • Duplicate tools (name / url / slug) + duplicate meta titles/descriptions
  *   • Near-duplicate article bodies (copied content) via shingle similarity
  *   • Broken / dead links (live HTTP check of the tool URL + body links)
@@ -22,7 +26,8 @@
  *   • A 0–100 health score per entry and for the whole site
  *
  * Env: QA_SKIP_LINKS=1 skips the live link check (faster local runs).
- * Exit code 1 only on CRITICAL structural issues that also break the build.
+ * Exit code 1 on CRITICAL issues — structural build-breakers AND
+ * unambiguous AdSense policy violations (policy gate).
  */
 import { readFileSync, readdirSync, existsSync, appendFileSync } from 'node:fs';
 import { join } from 'node:path';
@@ -34,18 +39,47 @@ const CATS_FILE = join(ROOT, 'src/data/categories.ts');
 const SKIP_LINKS = process.env.QA_SKIP_LINKS === '1';
 
 // ── policy patterns (piracy + AdSense prohibited content) ──
-const BANNED = [
-  { re: /\btorrents?\b/i, why: 'قرصنة' }, { re: /\bcrack(ed|s|ing)?\b/i, why: 'قرصنة' },
-  { re: /\bnulled\b/i, why: 'قرصنة' }, { re: /\bwarez\b/i, why: 'قرصنة' },
-  { re: /\bkeygens?\b/i, why: 'قرصنة' }, { re: /\bpirat(e|ed|ing|es)?\b/i, why: 'قرصنة' },
-  { re: /\bmod[\s-]?apk\b/i, why: 'قرصنة' }, { re: /\bmodded\b/i, why: 'قرصنة' },
-  { re: /free\s+(movies|streaming|premium|netflix|spotify)/i, why: 'قرصنة' },
-  { re: /premium\s+(for\s+)?free/i, why: 'قرصنة' }, { re: /\bserial\s+keys?\b/i, why: 'قرصنة' },
-  { re: /\bactivation\s+keys?\b/i, why: 'قرصنة' },
-  { re: /\b(porn|xxx|nsfw|escort|adult\s+content)\b/i, why: 'محتوى بالغين (AdSense)' },
-  { re: /\b(cocaine|heroin|meth|weed\s+shop|buy\s+drugs)\b/i, why: 'مخدرات (AdSense)' },
-  { re: /\b(buy\s+(a\s+)?gun|firearms\s+for\s+sale|ammo\s+for\s+sale)\b/i, why: 'أسلحة (AdSense)' },
-  { re: /\b(gambling\s+bonus|online\s+casino\s+real\s+money)\b/i, why: 'قمار (AdSense)' },
+// Each rule: { cat, sev, re, why }
+//   sev 'block'  → unambiguous AdSense violation (gambling, drugs, adult…)
+//   sev 'review' → possible innocent match, needs a human look
+// Medical claims match Google/AdSense health policy: unsubstantiated
+// cures, guaranteed results, disease treatment claims.
+const POLICY = [
+  // ── Gambling ──
+  { cat: 'قمار', sev: 'block', re: /\b(online\s+casino|casino\s+(bonus|real\s+money|games?))\b/i, why: 'ترويج قمار بأموال حقيقية' },
+  { cat: 'قمار', sev: 'block', re: /\bsports\s+betting\b/i, why: 'ترويج رهانات رياضية' },
+  { cat: 'قمار', sev: 'block', re: /\bbetting\s+(site|platform|app|tips|strategies)\b/i, why: 'ترويج مراهنات' },
+  { cat: 'قمار', sev: 'block', re: /\b(real-money\s+betting|bet\s+real\s+money)\b/i, why: 'ترويج قمار بأموال حقيقية' },
+  { cat: 'قمار', sev: 'block', re: /\bpoker\s+(for\s+)?(real\s+money|cash\s+games?)\b/i, why: 'ترويج بوكر بأموال حقيقية' },
+  { cat: 'قمار', sev: 'block', re: /\b(online\s+slot|slot\s+machines?|jackpot\s+win)/i, why: 'ترويج سلوتس' },
+  { cat: 'قمار', sev: 'block', re: /\b(blackjack|roulette)\s+(strateg|system|win)/i, why: 'ترويج ألعاب كازينو' },
+  { cat: 'قمار', sev: 'review', re: /\b(casino|gambling|betting|lottery)\b/i, why: 'ذكر قمار/يانصيب (قد يكون بريئاً)' },
+
+  // ── Drugs ──
+  { cat: 'مخدرات', sev: 'block', re: /\b(buy|cost|order|cheap)\s+(cocaine|heroin|meth|fentanyl|lsd|mdma|marijuana|cannabis|weed|pills?\s+online)\b/i, why: 'بيع مخدرات' },
+  { cat: 'مخدرات', sev: 'block', re: /\b(no\s+prescription|without\s+prescription)\s*(needed|required)?\b/i, why: 'صيدلية بدون وصفة (مخدرات)' },
+  { cat: 'مخدرات', sev: 'block', re: /\b(steroids?|anabolic)\s+for\s+sale\b/i, why: 'بيع ستيرويدات' },
+  { cat: 'مخدرات', sev: 'block', re: /\b(dark\s+web|darknet)\s*(drug|market)/i, why: 'أسواق مخدرات' },
+  { cat: 'مخدرات', sev: 'block', re: /\b(adderall|oxycodone|vicodin|xanax)\s*(online|for\s+sale|cheap)\b/i, why: 'بيع أدوية مقيّدة' },
+  { cat: 'مخدرات', sev: 'review', re: /\b(cocaine|heroin|meth|marijuana|cannabis|drugs)\b/i, why: 'ذكر مخدرات (قد يكون بريئاً)' },
+
+  // ── Piracy / copyright ──
+  { cat: 'قرصنة', sev: 'block', re: /\b(torrents?|crack(ed|s|ing)?|nulled|warez|keygens?|serial\s+keys?|activation\s+keys?)\b/i, why: 'قرصنة برامج' },
+  { cat: 'قرصنة', sev: 'block', re: /\b(mod[\s-]?apk|modded|apk\s+premium)\b/i, why: 'تطبيقات مقرصنة' },
+  { cat: 'قرصنة', sev: 'block', re: /\b(premium|paid)\s+(accounts?|apps?|software)\s+(for\s+)?free\b/i, why: 'محتوى مدفوع مجاناً (قرصنة)' },
+  { cat: 'قرصنة', sev: 'review', re: /\b(pirat(e|ed|ing|es)?|free\s+(movies|streaming|netflix|spotify))\b/i, why: 'ذكر قرصنة/أفلام مجانية (قد يكون تطابق بريء — خدمة قانونية)' },
+
+  // ── Medical claims (Google health policy) ──
+  { cat: 'ادعاءات طبية', sev: 'block', re: /\b(cure[sd]?|treat[s]?|heal[s]?)\s+(cancer|diabetes|aids|hiv|tumou?r|autism|depression|anxiety|arthritis|alzheimers?)\b/i, why: 'ادعاء علاج مرض' },
+  { cat: 'ادعاءات طبية', sev: 'block', re: /\bmiracle\s+(cure|treatment|remedy)\b/i, why: 'علاج معجزة (مضلل)' },
+  { cat: 'ادعاءات طبية', sev: 'block', re: /\b(clinically|scientifically|medically)\s+proven\b/i, why: 'ادعاء إثبات طبي بلا دليل' },
+  { cat: 'ادعاءات طبية', sev: 'block', re: /\bweight\s+loss\s+(guaranteed|pill|supplement|cure)\b/i, why: 'ادعاء تنحيف مضمون' },
+  { cat: 'ادعاءات طبية', sev: 'block', re: /\b(lose|burn)\s+(\d+\s*(kg|lbs?|pounds))\s*(in|per)\s*\d+\s*(days?|weeks?)\b/i, why: 'وعد فقدان وزن سريع' },
+  { cat: 'ادعاءات طبية', sev: 'block', re: /\bdetox\s+(tea|cleanse|diet|supplement|program)\b/i, why: 'ادعاء تطهير الجسم (مضلل)' },
+  { cat: 'ادعاءات طبية', sev: 'block', re: /\bboost(s|es|ing)?\s+(your\s+)?immune\s+system\b/i, why: 'ادعاء تقوية مناعة' },
+  { cat: 'ادعاءات طبية', sev: 'block', re: /\bno\s+side\s+effects\b/i, why: 'ادعاء بلا آثار جانبية' },
+  { cat: 'ادعاءات طبية', sev: 'block', re: /\b(herbal|natural)\s+(cure|remedy)\s+for\s+(cancer|diabetes)\b/i, why: 'علاج عشبي لمرض' },
+  { cat: 'ادعاءات طبية', sev: 'review', re: /\b(cure[sd]?|heal(ing|s)?|treat(ment|s)?|therap(y|ies)|clinical|diagnos(e|is|tic)|symptom|patient)\b/i, why: 'مصطلح طبي (تحقق أنه ليس ادعاء علاج)' },
 ];
 
 const STOP = new Set('the a an and or of to in for on with is are be it as at by from that this you your we our their they can will not no do does how what which when who why more most into over under out up down about'.split(' '));
@@ -192,9 +226,17 @@ for (const e of entries) {
   const F = []; let score = 100;
   const sub = (t) => { score -= t; };
 
-  // policy
-  const hit = BANNED.find((b) => b.re.test((e.name + ' ' + e.fmText + ' ' + e.body).slice(0, 25000)));
-  if (hit) { F.push(`🚫 **راجع يدوياً**: ${hit.why} — نمط \`${hit.re.source}\`. تأكد إن الأداة شرعية 100% (قد يكون تطابق بريء).`); warnings++; sub(15); }
+  // policy (gambling / drugs / piracy / medical claims)
+  const policyText = (e.name + ' ' + e.fmText + ' ' + e.body).slice(0, 25000);
+  const policyHits = POLICY.filter((p) => p.re.test(policyText));
+  const blockedCats = new Set(policyHits.filter((p) => p.sev === 'block').map((p) => p.cat));
+  for (const p of policyHits.filter((x) => x.sev === 'block')) {
+    F.push(`🚫 **سياسة (${p.cat})**: ${p.why} — نمط \`${p.re.source}\``); critical++; sub(25);
+  }
+  // Review-only in categories where no block fired (avoids duplicate noise).
+  for (const p of policyHits.filter((x) => x.sev === 'review' && !blockedCats.has(x.cat))) {
+    F.push(`🟡 **مراجعة (${p.cat})**: ${p.why} — نمط \`${p.re.source}\`. تأكد أنه ليس مخالفة (قد يكون تطابق بريء).`); warnings++; sub(8);
+  }
 
   // duplicates
   if (byName[e.name.toLowerCase()].length > 1) { F.push(`⚠️ اسم مكرر مع: ${byName[e.name.toLowerCase()].filter(s=>s!==e.slug).join(', ')}`); warnings++; sub(6); }
@@ -276,13 +318,25 @@ for (const e of entries) {
 const avg = scores.length ? Math.round(scores.reduce((a, b) => a + b, 0) / scores.length) : 100;
 const grade = avg >= 90 ? 'A ممتاز' : avg >= 80 ? 'B جيد جداً' : avg >= 70 ? 'C جيد' : avg >= 60 ? 'D مقبول' : 'F يحتاج عمل';
 
+// policy summary counts — distinct entries per category (block+review)
+const policyCounts = {};
+for (const e of entries) {
+  const text = (e.name + ' ' + e.fmText + ' ' + e.body).slice(0, 25000);
+  const cats = new Set(POLICY.filter((p) => p.re.test(text)).map((p) => p.cat));
+  for (const c of cats) policyCounts[c] = (policyCounts[c] || 0) + 1;
+}
+const policyLine = Object.keys(policyCounts).length
+  ? Object.entries(policyCounts).map(([c, n]) => `${c}: ${n}`).join(' · ')
+  : 'لا شيء';
+
 const head = [
-  '# 🤖 تقرير فحص المحتوى — bla5k Content QA v2\n',
+  '# 🤖 تقرير فحص المحتوى — bla5k Content QA v3\n',
   `فُحص: ${new Date().toISOString().replace('T', ' ').slice(0, 16)} UTC${SKIP_LINKS ? ' (بدون فحص روابط)' : ''}\n`,
   '## 📊 الملخص',
   `- 🏆 **درجة صحة الموقع: ${avg}/100 — ${grade}**`,
   `- الملفات: **${entries.length}** · 🔴 حرجة: **${critical}** · 🟡 تنبيهات: **${warnings}**`,
-  critical === 0 ? '- ✅ **لا مشاكل حرجة — آمن للنشر.**' : '- ❌ **مشاكل حرجة — راجعها.**',
+  `- 🚨 **فحص السياسات** (قمار/مخدرات/قرصنة/ادعاءات طبية): ${policyLine}`,
+  critical === 0 ? '- ✅ **لا مشاكل حرجة — آمن للنشر.**' : '- ❌ **مشاكل حرجة — راجعها قبل النشر.**',
   '',
 ].join('\n');
 

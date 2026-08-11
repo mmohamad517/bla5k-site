@@ -1,6 +1,8 @@
 ---
 name: Udio
 url: https://www.udio.com/
+image: /logos/udio.png
+screenshot: /screens/udio.webp
 subcategory: ai-video-audio
 tagline: "AI music generator — create original songs from text prompts with voice control, style blending, and licensed music output."
 tags:

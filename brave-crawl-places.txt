@@ -1,0 +1,141 @@
+════════════════════════════════════════════════════════════════
+🌐 قائمة المواقع عالية الزحف من Bravebot — لوضع رابط bla5k فيها
+   لتسريع اكتشاف الموقع في فهرس Brave (الفهرس المستقل)
+════════════════════════════════════════════════════════════════
+
+🔍 كيف بُنيت هذه القائمة؟
+   من فحوص حية لنتائج Brave Search لكلمات "best ai tools" —
+   المواقع التالية تظهر فعلًا في نتائج Brave = يزحفها Bravebot
+   باستمرار = رابطك فيها سيُكتشف سريعًا.
+
+────────────────────────────────────────────────────────────────
+🥇 المجموعة 1 — من نتائج Brave الحية (الأعلى زحفًا — افعل أولًا)
+────────────────────────────────────────────────────────────────
+
+1️⃣  Reddit — ريديت ⭐ الأقوى
+   🔗 https://www.reddit.com
+   📍 مكان الرابط: في تعليق/منشور ضمن subreddits أدوات AI:
+      • r/artificial · r/artificialintelligence · r/OpenAI
+      • r/ChatGPT · r/LLMDevs · r/AI_Agents
+      • r/SideProject (أفضل للروابط — يسمح بعرض مشروعك)
+   💡 كيف: انشر "شكرًا للمساعدة" + اذكر أداة (مثل bla5k) بصورة
+      طبيعية في سياق — لا سبام. صيغة مقبولة:
+      "I run bla5k.com — a curated directory of AI tools. Happy
+      to answer questions!"
+   ⚠️ ملاحظة: لا تضع رابطًا في أول منشور (قواعد السيلف برومو) —
+      شارك أولًا بأسبوع، ثم اذكر مشروعك.
+
+2️⃣  GitHub — أقوى منصة للمطورين
+   🔗 https://github.com
+   📍 أماكن الرابط (4 خيارات):
+      • README لأي مشروع مفتوح تنشره (حتى لو كان بسيطًا) — ضع
+        bla5k.com في قسم "Resources" أو "See also"
+      • Gist: أنشئ "awesome-ai-tools.md" gist بروابط الأدوات
+        (gist.github.com) — يظهر في بحث جوجل/Brave
+      • ملفك الشخصي: profile README (repo باسمك) — ضع الرابط
+        في السيرة
+      • Issues/تعليقات في مشاريع tools-listings الشهيرة:
+        search: "awesome-ai-tools" repo → أضف bla5k في القائمة
+   💡 خطوة فورية: أنشئ ملف `awesome-ai-tools.md` في repo جديد
+      اسمه مثلاً `ai-tools-directory` وارفع bla5k كمرجع — GitHub
+      مفهرس بقوة في Brave.
+
+3️⃣  Medium — منصة المقالات
+   🔗 https://medium.com
+   📍 مكان الرابط: مقالة "Best AI Tools 2026" تنشرها بصياغة
+      مختلفة عن موقعك (لا تكرار) + رابط bla5k في نص المقال
+   💡 Medium يزحفه Brave بكثرة (ظهر في نتائج Brave مباشرة) —
+      مقالة واحدة تكفي. انشرها مجانًا (Medium عضوية مجانية).
+
+4️⃣  Quora — منصة الأسئلة
+   🔗 https://www.quora.com
+   📍 مكان الرابط: إجابة على سؤال "What are the best AI tools?"
+      أو "Is there a directory of AI tools?" — ضع bla5k.com
+      كمرجع + وصف موجز
+   ⚠️ قواعد Quora: لا تضع روابط سبام — الإجابة المفيدة التي
+      تذكر مصدرًا مقبول، الحشو مرفوض.
+
+5️⃣  Hacker News (news.ycombinator.com) — مجتمع المطورين
+   🔗 https://news.ycombinator.com
+   📍 مكان الرابط: Show HN منشور — "Show HN: bla5k — a curated
+      directory of 200+ AI tools" + رابط
+   💡 HN يزحفه Brave و Google بقوة. Show HN مفتوح للجميع —
+      صياغة صادقة بلا تسويق مفرط تنال ترحيبًا.
+
+6️⃣  dev.to — منصة المطورين
+   🔗 https://dev.to
+   📍 مكان الرابط: مقالة "I curated 200+ AI tools so you don't
+      have to" + رابط bla5k
+   💡 dev.to سهل جدًا للنشر (حساب مجاني فوري) وBrave يزحفه.
+
+────────────────────────────────────────────────────────────────
+🥈 المجموعة 2 — دلائل الأدوات (تكمل tools-URLs.txt الموجود)
+────────────────────────────────────────────────────────────────
+
+7️⃣  AlternativeTo — الدليل الأشهر للبدائل
+   🔗 https://alternativeto.net
+   📍 أضف bla5k.com كـ "Alternative" لأدوات الدلائل الأخرى
+      (مثل Toolify, Futurepedia, TAAFT)
+   💡 لكل أداة صفحة "Alternatives" — أضف bla5k بوصفك
+      "Curated AI tools directory".
+
+8️⃣  There's An AI For That (TAAFT)
+   🔗 https://theresanaiforthat.com
+   📍 تسجيل أداة/دليل في كتالوجهم — كان في خطة tools-URLs.txt
+   💡 تأكد إتمام التسجيل (كان قيد المراجعة).
+
+9️⃣  Toolify.ai — دليل أدوات AI الصيني الضخم
+   🔗 https://www.toolify.ai
+   📍 tools-URLs.txt جاهز — أرسل الأدوات الـ 12 (أولوية: أول 3)
+
+🔟  SaaSHub · TheSaaSDir · Futurepedia · Product Hunt
+   🔗 https://www.saashub.com · https://thesaasdir.com
+      https://www.futurepedia.io · https://www.producthunt.com
+   📍 كلها في خطة tools-URLs.txt — أكمل التسجيلات
+   💡 Product Hunt: Launch (نشر) = أقوى رابط dofollow فوري.
+
+────────────────────────────────────────────────────────────────
+🥉 المجموعة 3 — مصادر إضافية عالية الزحف (اختيارية)
+────────────────────────────────────────────────────────────────
+
+1️⃣1️⃣  LinkedIn — المقالات المهنية
+   🔗 https://www.linkedin.com
+   📍 مقالة قصيرة "Best free AI tools 2026" + رابط bla5k
+   💡 LinkedIn مفهرس في Brave والروابط فيه dofollow.
+
+1️⃣2️⃣  YouTube — وصف الفيديو
+   🔗 https://www.youtube.com
+   📍 في وصف أي فيديو عن أدوات AI (لك أو لأي قناة تتعاون معها)
+      + أول تعليق
+   💡 YouTube يزحفه Brave بقوة.
+
+1️⃣3️⃣  Stack Overflow / Stack Exchange
+   🔗 https://stackoverflow.com
+   📍 إجابة سؤال عن "AI tools directory" (قليل لكن موجود)
+   ⚠️ صارم جدًا ضد السبام — استخدمه فقط لجواب مفيد فعليًا.
+
+1️⃣4️⃣  Hashnode — منصة مدونات مطورين
+   🔗 https://hashnode.com
+   📍 مقالة تقنية عن الدليل — حساب مجاني + نشر فوري.
+
+────────────────────────────────────────────────────────────────
+📊 خطة التنفيذ (7 أيام — 15-30 دقيقة يوميًا)
+────────────────────────────────────────────────────────────────
+
+   اليوم 1: GitHub (ملف awesome-ai-tools.md) + Gist
+   اليوم 2: Reddit — ابدأ المشاركة في r/SideProject و r/artificial
+   اليوم 3: dev.to مقالة + Hashnode مقالة
+   اليوم 4: Quora إجابة + LinkedIn مقالة
+   اليوم 5: Medium مقالة
+   اليوم 6: أكمل دلائل tools-URLs.txt (الـ 5 المتبقية)
+   اليوم 7: HN Show HN + مراجعة كل الروابط (تأكد أنها تظهر)
+
+────────────────────────────────────────────────────────────────
+✅ قاعدة ذهبية (تجنب العقوبات):
+   • كل رابط في سياق مفيد حقيقي — لا سبام ولا تكرار
+   • صياغات مختلفة لكل منصة (لا تنسخ نفس النص 14 مرة)
+   • الأولوية: GitHub + Reddit + دلائل = أعلى عائد لـ Brave
+   • لا تدفع مقابل روابط أبدًا (مخالف لجوجل + AdSense)
+
+📈 التوقع: أول ظهور في Brave خلال 2-6 أسابيع من أول رابط مقبول.
+   وكل رابط يخدم Google و Bing أيضًا — عائد ثلاثي.

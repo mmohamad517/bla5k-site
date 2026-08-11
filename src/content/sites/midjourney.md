@@ -1,7 +1,10 @@
 ---
 name: Midjourney
 url: https://www.midjourney.com
+image: /logos/midjourney.png
+screenshot: /screens/midjourney.webp
 subcategory: ai-image
+pricing: paid
 tagline: Turn a line of text into strikingly artistic images.
 tags:
   - AI Images
@@ -118,5 +121,7 @@ Other leading AI image tools include DALL-E, known for strong prompt-following a
 Midjourney remains one of the most influential and beloved AI image generators available. Its combination of a distinctive artistic style, rapid iteration, and an approachable web app makes it an outstanding choice for anyone who wants to turn ideas into arresting visuals. For creators and businesses that value how an image looks above all else, Midjourney is hard to beat.
 
 > **Tip:** Add style keywords like "cinematic" or "watercolor" and experiment with aspect ratios to steer the look of your results.
+
+For free AI image generation, tools like PxBee and Vheer offer accessible alternatives worth trying. If you need royalty-free stock imagery for your projects, StockCake provides AI-generated stock photos at no cost.
 
 *Official resource: [Midjourney](https://www.midjourney.com)*

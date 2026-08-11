@@ -1,6 +1,8 @@
 ---
 name: SongAgent
 url: https://songagent.com/
+image: /logos/songagent.png
+screenshot: /screens/songagent.webp
 subcategory: ai-video-audio
 tagline: "AI music agent — creates professional, copyright-free songs through conversation, with music theory and batch composition built in."
 tags:

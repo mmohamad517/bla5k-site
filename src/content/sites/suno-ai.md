@@ -1,7 +1,10 @@
 ---
 name: Suno AI Music Generator
 url: https://suno.com/
+image: /logos/suno-ai.png
+screenshot: /screens/suno-ai.webp
 subcategory: ai-video-audio
+pricing: freemium
 tagline: "AI music creator — generate full songs with vocals and instruments from text prompts."
 tags: [ai music, music generator, ai songs, vocals, suno]
 featured: false
@@ -124,5 +127,7 @@ Start with a simple, clear description — the more specific the vibe, the bette
 Suno AI is the **easiest way to make a real song ever created**. No instruments, no studio, no music theory — just describe what you want and a complete track with vocals appears in under a minute. For creators, hobbyists, and musicians exploring ideas, it's nothing short of revolutionary.
 
 For other creative AI tools, explore our [AI Tools directory](/category/ai-tools/) — and if you want to learn the code behind such tools, [Coddy](/tools/coddy/) is a great place to start.
+
+For audio format conversion between projects, AudioConvert handles quick file-type changes, and Algoriddim DJ is worth exploring if you want to mix and DJ with your AI-generated tracks.
 
 *Official resource: [Suno AI](https://suno.com/).*

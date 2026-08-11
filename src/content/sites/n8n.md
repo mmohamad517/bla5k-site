@@ -1,6 +1,8 @@
 ---
 name: n8n
 url: https://n8n.io/
+image: /logos/n8n.png
+screenshot: /screens/n8n.webp
 subcategory: nc-automation
 tagline: "Open-source workflow automation — connect 400+ apps with AI, no code required."
 tags: [n8n, automation, workflow, no-code, open source, integrations, zapier alternative]
@@ -117,5 +119,7 @@ Start with one small, genuinely useful workflow — like "new form submission �
 n8n is the automation platform that scales with you: free and private when self-hosted, powerful enough for enterprise logic, and increasingly AI-native. For anyone tired of per-task pricing or locked-in cloud automation, it's the open, flexible foundation for connecting your entire tool stack.
 
 Combine n8n with AI coding tools like [Claude Code](/tools/claude-code/) or [Aider](/tools/aider/) and you can automate not just your apps, but the code that powers them.
+
+For simpler chatbot-style automation, Notbot lets you build no-code bots for WhatsApp and messaging platforms. And if you need a no-code website to go with your automations, Onepage is a straightforward single-page website builder.
 
 *Official resources: [n8n.io](https://n8n.io/) and the [n8n docs](https://docs.n8n.io/).*

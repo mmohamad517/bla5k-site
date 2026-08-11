@@ -1,6 +1,8 @@
 ---
 name: Harvey AI
 url: https://www.harvey.ai/
+image: /logos/harvey-ai.png
+screenshot: /screens/harvey-ai.webp
 subcategory: ai-productivity
 tagline: "AI for lawyers — draft contracts, analyze documents, and research case law."
 tags: [harvey, legal ai, law, contracts, case law, document analysis]
@@ -117,5 +119,7 @@ Harvey is deployed through organizations rather than self-serve, so the starting
 Harvey AI is the **benchmark for legal AI** — purpose-built for the work lawyers actually do, with the security posture law firms actually require. For firms looking to cut document time without compromising quality, it's the leading option in a fast-moving category.
 
 For general AI productivity, explore [PaperClip](/tools/paperclip-ai/) for document management and our [AI Tools directory](/category/ai-tools/).
+
+For AI applied to finance and investing rather than law, DEXTER provides AI-driven investment research and analysis tools.
 
 *Official resource: [Harvey AI](https://www.harvey.ai/).*

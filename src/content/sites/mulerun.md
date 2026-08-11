@@ -1,13 +1,15 @@
 ---
 name: MuleRun
 url: https://mulerun.ai/
+image: /logos/mulerun.png
+screenshot: /screens/mulerun.webp
 subcategory: dev-ai-agents
 tagline: "AI agent platform for data extraction and web research — automate repetitive research tasks."
 tags: [mulerun, data extraction, web scraping, research agent, automation]
 featured: false
 affiliate: false
-metaTitle: "MuleRun: AI Agents for Data Extraction & Web Research"
-metaDescription: "MuleRun — AI agent platform that automates web research and data extraction. Collect competitor data, leads, and market research automatically."
+metaTitle: "MuleRun AI Agent: Automate Data Extraction & Web Research"
+metaDescription: "MuleRun is an AI agent platform that automates web research and data extraction — collect competitor data, leads, and market intelligence on autopilot."
 simple: "An AI that does tedious research for you. Give it a task like 'find pricing for 50 competitors' and it browses, extracts, and organizes the data."
 example: "Ask 'collect contact info for 100 SaaS companies in the CRM space' and MuleRun browses their websites, extracts emails and phone numbers, and delivers a spreadsheet."
 goodFor:
@@ -119,6 +121,6 @@ Start with a small, well-defined task — like collecting pricing from 10 known 
 
 MuleRun automates **the most tedious part of knowledge work**: web research and data extraction. Describe a task, get structured results, and reclaim the hours you used to spend clicking through websites. For any team that repeatedly needs data, it's a genuine force multiplier.
 
-For more agent tools, explore [CrewAI](/tools/crewai/), [OpenClaw AI](/tools/openclaw-ai/), and our [AI Tools directory](/category/ai-tools/).
+For more agent tools, explore [CrewAI](/tools/crewai/), [OpenClaw](/tools/openclaw/), and our [AI Tools directory](/category/ai-tools/).
 
 *Official resource: [MuleRun](https://mulerun.ai/).*

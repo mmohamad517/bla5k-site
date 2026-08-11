@@ -1,6 +1,8 @@
 ---
 name: Mintlify
 url: https://mintlify.com/
+image: /logos/mintlify.png
+screenshot: /screens/mintlify.webp
 subcategory: dev-docs
 tagline: "Beautiful API documentation that writes itself — AI-powered docs from your codebase."
 tags: [mintlify, documentation, api docs, developer tools, technical writing]
@@ -120,6 +122,6 @@ Start by connecting an existing repository to see the generation quality, then c
 
 Mintlify makes **documentation a byproduct of code, not a project of its own** — AI-generated, always current, and genuinely beautiful by default. For developer teams, it removes one of the most hated and most important chores in software.
 
-For more developer tools, explore [LlamaIndex](/tools/llamaindex/), [CrewAI](/tools/crewai/), and our [Developer Tools directory](/category/developer/).
+For more developer tools, explore [LlamaIndex](/tools/llamaindex/), [CrewAI](/tools/crewai/), and our [Developer Tools directory](/category/developer/). If you need to understand an existing codebase before documenting it, Understand Anything turns code into interactive knowledge graphs.
 
 *Official resource: [Mintlify](https://mintlify.com/).*

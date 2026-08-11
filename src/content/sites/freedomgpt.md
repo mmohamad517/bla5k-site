@@ -1,6 +1,8 @@
 ---
 name: FreedomGPT
 url: https://freedomgpt.com/
+image: /logos/freedomgpt.png
+screenshot: /screens/freedomgpt.webp
 subcategory: ai-chat
 tagline: "Open-source AI with 400+ uncensored models—run locally on your device for complete privacy."
 tags:

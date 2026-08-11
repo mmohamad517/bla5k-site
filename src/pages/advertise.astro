@@ -26,12 +26,12 @@ const packages = [
     id: '5kplus',
     name: '5k plus',
     price: '499',
-    tagline: 'Top of the site, right next to the bla5k name.',
+    tagline: 'Top of the site, right under the header.',
     features: [
-      'Featured at the very top, next to “bla5k”',
-      'Animated square card in the header carousel',
+      'Featured at the very top of the site, under the header',
+      'Animated card in the header sponsored carousel',
       'Seen instantly by every visitor — no search needed',
-      'Only 3 exclusive slots (they rotate)',
+      'A limited number of exclusive slots, shared between advertisers',
       'Maximum exposure on the whole site',
     ],
     premium: true,
@@ -88,7 +88,7 @@ const schema = [
             </li>
           ))}
         </ul>
-        <p class="pkg-note">🔒 Secure checkout via Beacons — accepts Visa &amp; major cards. Every placement is reviewed and clearly marked.</p>
+        <p class="pkg-note">🔒 Secure checkout via Beacons — accepts Visa &amp; major cards.</p>
       </div>
     </section>
 
@@ -97,11 +97,49 @@ const schema = [
         <div class="how glass">
           <h2 class="section-title">How <span class="grad">5k plus</span> works</h2>
           <ul role="list">
-            <li>Your product appears as an <strong>animated card in a carousel next to the bla5k logo</strong>, at the very top of the site.</li>
+            <li>Your product appears as an <strong>animated card in a carousel under the header</strong>, at the very top of the site.</li>
             <li>Every visitor sees it <strong>the moment they arrive</strong> — no searching, no scrolling.</li>
-            <li>Only <strong>3 slots</strong> exist; if more than one advertiser is active, they <strong>rotate automatically</strong>.</li>
+            <li>Only a <strong>limited number of slots</strong> exist; if more than one advertiser is active, they <strong>share the carousel</strong>.</li>
             <li>Includes your name, a clear description, and your link.</li>
           </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="section pt0">
+      <div class="container">
+        <div class="how glass">
+          <h2 class="section-title">Transparency &amp; <span class="grad">editorial independence</span></h2>
+          <p class="trans-lead">bla5k follows Google's paid-link and advertising policies. Here's exactly what a paid placement means:</p>
+          <ul role="list">
+            <li><strong>Clearly labeled.</strong> Every paid listing shows a visible <strong>"Sponsored"</strong> badge on its card and page — never disguised as an editorial pick.</li>
+            <li><strong>Separated from editorial.</strong> The ★ star means <em>Editor's pick</em> (earned, not bought). A paid placement is always marked "Sponsored" instead.</li>
+            <li><strong>Honest links.</strong> Outbound links from paid placements carry <code>rel="sponsored"</code>, the attribute Google requires for advertising links.</li>
+            <li><strong>No ranking impact.</strong> Paying never changes our reviews, ratings, or how a tool is covered — editorial content stays independent.</li>
+            <li><strong>Review before publish.</strong> Every placement is personally reviewed and must comply with our quality standards before going live.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="section pt0">
+      <div class="container">
+        <div class="how glass">
+          <h2 class="section-title">Copyright <span class="grad">guidance for advertisers</span></h2>
+          <p class="trans-lead">Before submitting any placement, please make sure your ad materials respect intellectual-property rights. Here's what we require:</p>
+          <ul role="list">
+            <li><strong>Own what you use.</strong> You must own, or have permission to use, every asset in your placement — text, logos, images, screenshots, music, and video. Licensed stock or openly licensed (CC0/CC-BY) assets are fine; be ready to show proof if asked.</li>
+            <li><strong>Don't copy competitors.</strong> Your listing must not reproduce another company's branding, logo, screenshots, or marketing copy, or imply an affiliation that doesn't exist.</li>
+            <li><strong>No infringing products.</strong> We do not accept placements that promote piracy, unauthorized streaming, counterfeit goods, or tools whose primary purpose is copyright infringement. This matches our site-wide <a href="/acceptable-use/">Acceptable Use Policy</a>.</li>
+            <li><strong>Facts over claims.</strong> Claims must be truthful and verifiable — no misleading "best", "official", or endorsements you don't have. Trademark usage must be nominative and accurate.</li>
+            <li><strong>Right to refuse or remove.</strong> We may refuse, edit, or remove any placement that we reasonably believe infringes rights or violates these guidelines — with or without notice, and without refund if it breaches this policy.</li>
+            <li><strong>Repeat infringers.</strong> Advertisers who repeatedly submit infringing materials lose the right to advertise on bla5k, consistent with our <a href="/dmca/">DMCA &amp; Copyright Policy</a>.</li>
+          </ul>
+          <p class="trans-lead copy-tip">
+            🛡️ If you believe a placement on bla5k infringes your copyright, see our
+            <a href="/dmca/">DMCA takedown procedure</a> or contact us via the
+            <a href="/contact/">Contact</a> page.
+          </p>
         </div>
       </div>
     </section>
@@ -152,6 +190,9 @@ const schema = [
 
   .how { padding: clamp(1.5rem, 5vw, 2.4rem); max-width: 820px; margin-inline: auto; }
   .how ul { list-style: none; display: grid; gap: 0.8rem; margin-top: 1rem; }
+  .trans-lead { color: var(--text-dim); margin-top: 0.8rem; }
+  .copy-tip { margin-top: 1.2rem; padding: 0.7rem 1rem; border: 1px solid var(--glass-border); border-radius: 12px; background: rgba(0,240,255,.04); }
+  .how code { background: rgba(112,243,255,.08); border: 1px solid var(--glass-border); border-radius: 6px; padding: 0.1rem 0.4rem; font-size: 0.9em; }
   .how li { color: var(--text-dim); padding-left: 1.6rem; position: relative; }
   .how li::before { content: '✦'; position: absolute; left: 0; color: var(--cyan); text-shadow: var(--glow-cyan); }
   .how strong { color: var(--text); }

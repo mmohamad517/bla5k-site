@@ -1,6 +1,8 @@
 ---
 name: LipSync.video
 url: https://lipsync.video/
+image: /logos/lipsync-video.png
+screenshot: /screens/lipsync-video.webp
 subcategory: ai-video-audio
 tagline: "AI lip sync tool — match lip movements to any audio or voiceover automatically."
 tags: [lipsync.video, lip sync, ai, video, dubbing, voiceover]

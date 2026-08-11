@@ -1,6 +1,8 @@
 ---
 name: Apowersoft
 url: https://www.apowersoft.com/
+image: /logos/apowersoft.png
+screenshot: /screens/apowersoft.webp
 subcategory: va-video-edit
 tagline: "Online screen recorder and video tools — record, edit, and convert media free."
 tags: [apowersoft, screen recorder, video tools, convert, online]

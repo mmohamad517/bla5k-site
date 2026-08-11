@@ -1,13 +1,15 @@
 ---
 name: Auto Draw
 url: https://www.autodraw.com/
+image: /logos/autodraw.png
+screenshot: /screens/autodraw.webp
 subcategory: design-graphics
 tagline: "Google AI drawing tool — sketch roughly and AI suggests professional drawings to replace your doodles."
 tags: [google, autodraw, ai, drawing, sketch, doodle]
 featured: false
 affiliate: false
-metaTitle: "AutoDraw: Google's AI Drawing Assistant | 2026 Guide"
-metaDescription: "AutoDraw by Google — sketch roughly and AI suggests professional drawings to replace your doodles. Free, fun, and in your browser."
+metaTitle: "AutoDraw: Google's Free AI Drawing Assistant Online"
+metaDescription: AutoDraw by Google turns rough sketches into professional drawings with AI — free and in your browser. No signup, works on any device.
 simple: "Draw a rough doodle and Google's AI recognizes it and offers professional-looking drawings you can swap in — no art skills needed."
 example: "Doodle a rough circle with legs and AutoDraw recognizes a dog, offering a clean cartoon dog you can insert instead."
 goodFor:

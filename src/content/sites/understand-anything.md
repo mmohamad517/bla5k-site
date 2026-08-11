@@ -1,6 +1,8 @@
 ---
 name: Understand Anything
 url: https://understand-anything.com
+image: /logos/understand-anything.png
+screenshot: /screens/understand-anything.webp
 subcategory: dev-docs
 tagline: Turn any codebase into an interactive knowledge graph to understand architectures instantly
 tags:
@@ -11,8 +13,8 @@ tags:
   - Open Source
 featured: false
 updated: 2026-07-31
-metaTitle: Understand Anything - AI Codebase Knowledge Graphs 2026
-metaDescription: Transform complex codebases into interactive knowledge graphs with AI. Free open-source tool for code understanding and architecture review.
+metaTitle: Understand Anything AI - Free Codebase Knowledge Graph Tool
+metaDescription: Understand Anything is a free AI tool that turns complex codebases into interactive knowledge graphs — understand any project's architecture in minutes.
 simple: "A tool for developers that turns a big, confusing codebase into an interactive map. It shows how all the pieces connect, so you can understand a project in minutes instead of weeks."
 example: "Just joined a team with a huge, unfamiliar codebase? Point Understand Anything at it and explore a visual map, asking questions like \"what uses this function?\" in plain English."
 goodFor:
@@ -192,4 +194,6 @@ Understand Anything represents a significant leap forward in developer productiv
 
 The combination of open-source availability, no licensing costs, local deployment, and seamless IDE integration makes it an accessible tool for teams of any size.
 
-*Official resources: [Website](https://understand-anything.com) and [GitHub](https://github.com/understand-anything)*
+Once you understand a codebase with this tool, Mintlify can generate and maintain beautiful API documentation from the same code automatically.
+
+*Official resources: [Website](https://understand-anything.com) and [GitHub](https://github.com/Egonex-AI/Understand-Anything)*

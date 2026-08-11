@@ -1,7 +1,10 @@
 ---
 name: NotebookLM
 url: https://notebooklm.google.com/
+image: /logos/notebooklm.png
+screenshot: /screens/notebooklm.webp
 subcategory: ai-productivity
+pricing: free
 tagline: "Google AI research assistant — upload documents and get answers grounded in YOUR sources."
 tags: [notebooklm, google, research, study, ai assistant, source-grounded]
 featured: false
@@ -115,5 +118,7 @@ Start with a single document to see the citation quality, then scale up to a ful
 NotebookLM solves a real, painful problem: **trustworthy AI answers to questions about material you actually care about**. By grounding every answer in your sources with citations, it combines the speed of AI with the reliability of a well-organized filing system — plus a podcast feature that makes studying genuinely enjoyable.
 
 Pair it with a general assistant like [Qwen Chat](/tools/qwen-chat/) or [DeepSeek](/tools/deepseek/) for broader questions, and you have a complete research stack: grounded answers for your documents, general intelligence for everything else.
+
+For organizing and managing your reading and research notes beyond NotebookLM, MoltBook offers AI-powered book and knowledge management.
 
 *Official resource: [NotebookLM](https://notebooklm.google.com/).*

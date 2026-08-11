@@ -1,6 +1,8 @@
 ---
 name: DeerFlow
 url: https://github.com/bytedance/deer-flow
+image: /logos/deerflow.png
+screenshot: /screens/deerflow.webp
 subcategory: dev-ai-agents
 tagline: ByteDance's open-source "super agent" harness that researches, codes, and creates — handling long tasks that take minutes to hours.
 tags: ["ai agents", "bytedance", "open-source", "super agent", "autonomous", "llm"]
@@ -185,7 +187,7 @@ DeerFlow answers a question that separates real agents from demos: *what does an
 
 It's a technical, self-hosted tool built for developers and teams — not a consumer app — but for that audience, DeerFlow offers a remarkably complete foundation for autonomous work. If you want agents that research, code, and create over the long haul, it deserves a serious look.
 
-To keep exploring the tools shaping the AI-agent era, browse our [AI Tools](/category/ai-tools/) and [Developer Tools](/category/developer/) categories, read our roundup of the [best AI tools in 2026](/guides/best-ai-tools-2026/), or explore the full [bla5k directory](/#directory).
+To keep exploring the tools shaping the AI-agent era, browse our [AI Tools](/category/ai-tools/) and [Developer Tools](/category/developer/) categories, read our roundup of the [best AI tools in 2026](/guides/best-ai-tools-2026/), or explore the full [bla5k directory](/directory/).
 
 *Official resources: the [DeerFlow website](https://deerflow.tech) and the [DeerFlow GitHub repository](https://github.com/bytedance/deer-flow).*
 

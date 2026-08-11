@@ -1,6 +1,8 @@
 ---
 name: Edge-TTS (Microsoft TTS)
 url: https://github.com/rany2/edge-tts
+image: /logos/edge-tts.png
+screenshot: /screens/edge-tts.webp
 subcategory: ai-video-audio
 tagline: Free access to Microsoft's natural neural voices from Python or the command line — no API key, a real ElevenLabs alternative
 tags:

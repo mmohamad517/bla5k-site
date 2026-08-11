@@ -156,6 +156,8 @@ Alibaba's privacy policy is transparent: they collect conversation data for serv
 
 ## Qwen vs. ChatGPT vs. Claude: When to Use What
 
+> Looking for the head-to-head? See our [DeepSeek vs Qwen vs Kimi vs GLM comparison](/guides/deepseek-vs-qwen-vs-kimi-vs-glm/) to see how Qwen stacks up against the other top Chinese models.
+
 **Use Qwen when:**
 - You need free, unlimited AI access
 - You're analyzing very long documents
@@ -219,7 +221,7 @@ In 2026, the AI landscape is genuinely global. Qwen is a reminder that innovatio
 ## Resources
 
 - **Official Website**: https://chat.qwen.ai/
-- **Alibaba Qwen**: https://www.qwen.ai/
+- **Alibaba Qwen**: https://chat.qwen.ai/
 - **API Documentation**: https://help.aliyun.com/zh/dashscope/
 - **Open-Source Models**: Available on Hugging Face
 

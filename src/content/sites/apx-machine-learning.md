@@ -1,6 +1,8 @@
 ---
 name: ApX Machine Learning
 url: https://apxml.com
+image: /logos/apx-machine-learning.png
+screenshot: /screens/apx-machine-learning.webp
 subcategory: dev-play
 tagline: Free LLM engineering tools and courses — a VRAM calculator, GPU cost comparison, model directory and benchmarks, plus open-access AI/ML courses.
 tags:
@@ -137,6 +139,8 @@ ApX is a standard website with HTTPS; it's not a data-processing platform, so th
 
 ApX Machine Learning is a valuable free resource for the LLM engineering community — practical calculators and benchmarks that answer real "what runs and what it costs" questions, plus genuinely deep free courses. Its honest caveat is scale: it's a solo-maintained project without a company entity. For engineers and learners who want practical numbers and free education, ApX is well worth using.
 
-To discover more developer tools and AI tools, browse our [Developer Tools](/category/developer/) and [AI Tools](/category/ai-tools/) categories, or explore the full [bla5k directory](/#directory).
+To discover more developer tools and AI tools, browse our [Developer Tools](/category/developer/) and [AI Tools](/category/ai-tools/) categories, or explore the full [bla5k directory](/directory/).
+
+For a complementary browser-based check, CanIRun.ai detects your specific hardware and tells you which models your machine can run, making it a useful companion to ApX's VRAM calculator.
 
 *Official resource: the [ApX Machine Learning website](https://apxml.com).*

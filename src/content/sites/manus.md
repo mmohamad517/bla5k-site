@@ -1,7 +1,10 @@
 ---
 name: Manus
 url: https://manus.im
+image: /logos/manus.png
+screenshot: /screens/manus.webp
 subcategory: dev-ai-agents
+pricing: freemium
 tagline: A general-purpose AI agent that gets things done — Manus researches, codes, builds, designs, and executes multi-step tasks end-to-end.
 tags:
   - ai agent
@@ -14,8 +17,8 @@ tags:
   - manus
 featured: true
 updated: 2026-08-01
-metaTitle: "Manus: The General-Purpose AI Agent (2026 Guide)"
-metaDescription: A complete guide to Manus — the general-purpose autonomous AI agent that researches, codes, builds, and executes multi-step tasks. Features, API, and team plans.
+metaTitle: "Manus AI: The Autonomous Agent That Does Tasks For You"
+metaDescription: Manus AI is the autonomous agent that researches, codes, builds, and executes multi-step tasks for you. See how it works, what it costs, and who it is for.
 simple: "An AI agent that does the work for you. Give it a task — research a topic, build a website, analyze data — and it executes the whole thing end-to-end, not just answering in a chat."
 example: "Ask Manus to 'research the top 5 competitors and build a comparison site' and it researches, writes, designs, and delivers the finished result."
 goodFor:
@@ -143,6 +146,8 @@ The official site claims **SOC 2 compliance** and a **Trust Center**, and states
 
 Manus is a capable general-purpose agent that executes real work end-to-end — research, code, building, and analysis. Its team features and developer API make it useful for both individuals and organizations. The caveats are real: its ownership status (the unverified "part of Meta" claim) and non-transparent pricing deserve scrutiny before you commit. If you want an agent that gets things done rather than one that chats, Manus is worth evaluating — with due diligence.
 
-To discover more developer tools and AI agents, browse our [Developer Tools](/category/developer/) and [AI Tools](/category/ai-tools/) categories, or explore the full [bla5k directory](/#directory).
+To discover more developer tools and AI agents, browse our [Developer Tools](/category/developer/) and [AI Tools](/category/ai-tools/) categories, or explore the full [bla5k directory](/directory/).
+
+Other AI agent tools worth exploring include Google Antigravity for experimental agent interactions, MuleRun for automated data extraction agents, Multica for multi-agent collaboration, and Open-WA for building WhatsApp-based AI agents and bots.
 
 *Official resources: the [Manus website](https://manus.im) and the [Manus API documentation](https://open.manus.ai/docs).*

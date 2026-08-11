@@ -1,6 +1,8 @@
 ---
 name: OpenClaw
 url: https://openclaw.ai
+image: /logos/openclaw.png
+screenshot: /screens/openclaw.webp
 subcategory: dev-ai-agents
 tagline: The open-source personal AI assistant that lives on your devices and acts through the chat apps you already use — WhatsApp, Telegram, iMessage, Slack, Discord, and more.
 tags:
@@ -146,6 +148,6 @@ OpenClaw defaults to **secure DM pairing**: unknown senders must be approved bef
 
 OpenClaw is the poster child for local-first, open-source AI — a personal assistant that lives on your devices and works through the chat apps you already use. It's free, private, model-agnostic, and backed by one of the largest communities in open-source software. The trade-off is setup and security responsibility: self-hosting means you manage it. For anyone who wants a genuinely private AI assistant that lives where they chat, OpenClaw is extraordinary.
 
-To discover more developer tools and AI agents, browse our [Developer Tools](/category/developer/) and [AI Tools](/category/ai-tools/) categories, or explore the full [bla5k directory](/#directory).
+To discover more developer tools and AI agents, browse our [Developer Tools](/category/developer/) and [AI Tools](/category/ai-tools/) categories, or explore the full [bla5k directory](/directory/).
 
 *Official resources: the [OpenClaw website](https://openclaw.ai), the [OpenClaw documentation](https://docs.openclaw.ai), and the [official GitHub repository](https://github.com/openclaw/openclaw).*

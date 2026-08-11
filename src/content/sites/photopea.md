@@ -1,7 +1,10 @@
 ---
 name: PhotoPea
 url: https://www.photopea.com/
+image: /logos/photopea.png
+screenshot: /screens/photopea.webp
 subcategory: design-graphics
+pricing: freemium
 tagline: "Free online Photoshop alternative — edit PSD, XCF, Sketch files directly in your browser."
 tags: [photopea, photoshop alternative, free image editor, psd editor]
 featured: false
@@ -93,7 +96,7 @@ PhotoPea is **actively maintained**, with frequent feature additions tracking pr
 | Interface | Like Photoshop | Unique (steep) | Photoshop |
 | Best for | Quick, free PSD work | Full offline editor | Professionals |
 
-**PhotoPea wins on accessibility** — zero setup and native PSD handling. **GIMP** is a full offline editor with a steeper learning curve. **Photoshop** remains the professional standard for advanced workflows, plugins, and support. For most free editing needs, PhotoPea is unbeatable.
+**PhotoPea wins on accessibility** — zero setup and native PSD handling. **GIMP** (and its Photoshop-look patch [PhotoGIMP](/tools/photogimp/)) is a full offline editor with a steeper learning curve. **Photoshop** remains the professional standard for advanced workflows, plugins, and support. For the full price-versus-power breakdown, read our [PhotoGIMP vs Photoshop comparison](/guides/photogimp-vs-photoshop/). For most free editing needs, PhotoPea is unbeatable.
 
 ## Who is PhotoPea for?
 
@@ -119,5 +122,7 @@ If you know Photoshop, you already know PhotoPea — the layout is nearly identi
 PhotoPea is proof that **professional editing doesn't have to cost money or require installation**. It opens real PSD files, handles layers like a pro tool, and runs anywhere in a browser — completely free. For anyone who needs capable image editing without the Adobe subscription, it's the definitive choice.
 
 For AI-powered design and image work, pair it with [Microsoft Designer](/tools/microsoft-designer/) and [Remini](/tools/remini/), and explore the full [AI Tools directory](/category/ai-tools/).
+
+For lighter editing tasks, BeFunky offers one-click photo effects and collages, Auto Draw uses AI to help you sketch ideas quickly, and PhotoGIMP is a free plugin that gives GIMP a Photoshop-like interface for offline work.
 
 *Official resource: [PhotoPea](https://www.photopea.com/).*

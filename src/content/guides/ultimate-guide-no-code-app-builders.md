@@ -28,7 +28,7 @@ The no-code movement tore that barrier down. In 2026, a single person with no pr
 
 This is the complete guide. We'll cover what no-code actually is, why it exploded, what you can realistically build, the best tools for every job, how to build your first app step by step, and — just as importantly — the honest limitations you need to understand before you commit. Whether you're a founder validating an idea, a marketer tired of waiting on the dev team, or a curious beginner, by the end you'll know exactly where to start.
 
-When you're ready to explore specific tools, our [directory of the internet's best tools](/#directory) keeps a growing, hand-picked list of no-code platforms.
+When you're ready to explore specific tools, our [directory of the internet's best tools](/directory/) keeps a growing, hand-picked list of no-code platforms.
 
 ## What is no-code, really?
 
@@ -103,7 +103,7 @@ With those answers in hand, you can match your project to the right category of 
 
 ## The best no-code app builders in 2026, by category
 
-Rather than crown a single winner — which would be meaningless across such different needs — here are the standout tools organized by what they're best at. Explore more of them in our [no-code section of the directory](/#directory).
+Rather than crown a single winner — which would be meaningless across such different needs — here are the standout tools organized by what they're best at. Explore more of them in our [no-code section of the directory](/directory/).
 
 ### Web app builders
 
@@ -300,4 +300,4 @@ No-code app builders have fundamentally changed who gets to build software. The 
 
 The winning approach is simple: define the one thing your app must do, map your data, pick the right tool for the job, build the smallest working version, and improve from real feedback. Start with a friendly tool, respect the honest limitations, and don't be afraid to combine several tools into a stack that fits your exact needs.
 
-The best time to build the thing you've been imagining is now, and the tools have never been more capable. When you're ready to find the right platform, explore our constantly growing [directory of the internet's best tools](/#directory) — your compass for turning an idea into something real.
+The best time to build the thing you've been imagining is now, and the tools have never been more capable. When you're ready to find the right platform, explore our constantly growing [directory of the internet's best tools](/directory/) — your compass for turning an idea into something real.

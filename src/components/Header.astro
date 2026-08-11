@@ -1,4 +1,12 @@
 ---
+import { getCollection } from 'astro:content';
+import { outboundRel } from '../lib/links';
+
+// Paid placements sold via the Advertise page. Only renders when a site has
+// `sponsored: true` in its frontmatter; each card is clearly labeled
+// "Sponsored" and its link carries rel="sponsored" (Google paid-link policy).
+const sponsoredSites = (await getCollection('sites')).filter((s) => s.data.sponsored);
+const showCarousel = sponsoredSites.length > 0;
 ---
 <header class="site-header">
   <div class="container bar">
@@ -13,11 +21,37 @@
         <span class="p-name">Code With Us<br />Unlimited for Free</span>
       </a>
     </div>
-    <nav class="nav" aria-label="Primary">
+    <nav class="nav" id="primary-nav" aria-label="Primary">
       <a href="/advertise/">Advertise</a>
-      <a href="/#directory" class="btn btn-ghost nav-cta">Search</a>
+      <a href="/open-source-ai-tools/" class="btn btn-oss nav-cta" aria-label="Open source AI tools on GitHub">
+        <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8Z"/></svg>
+        Open Source
+      </a>
+      <a href="/#subscribe" class="btn btn-primary nav-cta nav-sub" aria-label="Subscribe to get new AI tools by email">
+        Subscribe
+      </a>
+      <a href="/directory/" class="btn btn-ghost nav-cta">Search</a>
     </nav>
+    <button class="hamburger" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="primary-nav">
+      <span class="hb-line" aria-hidden="true"></span>
+      <span class="hb-line" aria-hidden="true"></span>
+      <span class="hb-line" aria-hidden="true"></span>
+    </button>
   </div>
+
+  {showCarousel && (
+    <div class="container spons-bar" role="region" aria-label="Sponsored tools">
+      <span class="spons-label">Sponsored</span>
+      <div class="spons-track">
+        {sponsoredSites.map((s) => (
+          <a class="spons-card" href={s.data.url} target="_blank" rel={outboundRel(s.data.url, s.data.affiliate, true)}>
+            <span class="sc-name">{s.data.name}</span>
+            <span class="sc-tag">{s.data.tagline}</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  )}
 </header>
 
 <style>
@@ -107,18 +141,121 @@
   .nav a:hover { color: var(--text); }
   .nav-cta { padding: 0.45rem 1.05rem; font-size: 0.9rem; }
   .nav-cta:hover { color: var(--text); }
-  @media (max-width: 520px) {
-    .nav a:not(.nav-cta) { display: none; }
+  /* Open Source button — green accent, sits next to Advertise */
+  .btn-oss {
+    display: inline-flex; align-items: center; gap: 0.4rem;
+    color: #4ade80; background: rgba(74,222,128,.08); border-color: rgba(74,222,128,.42);
+  }
+  .btn-oss:hover {
+    color: #86efac; background: rgba(74,222,128,.16);
+    box-shadow: 0 0 18px -6px rgba(74,222,128,.65);
+  }
+  /* Subscribe button — primary CTA with a soft cyan glow */
+  .nav-sub { box-shadow: 0 0 16px -8px var(--cyan); }
+  .nav-sub:hover { box-shadow: 0 0 22px -6px var(--cyan); }
+  /* Paid placements carousel (only renders when sponsored sites exist) */
+  .spons-bar {
+    display: flex; align-items: center; gap: 0.7rem;
+    padding-block: 0.45rem; border-top: 1px solid rgba(255,159,67,.18);
+  }
+  .spons-label {
+    flex: none; font-family: var(--font-head); font-weight: 800; font-size: 0.62rem;
+    letter-spacing: 0.1em; text-transform: uppercase; color: var(--orange);
+    background: rgba(255,159,67,.1); border: 1px solid rgba(255,159,67,.4);
+    border-radius: 999px; padding: 0.22rem 0.6rem; line-height: 1;
+  }
+  .spons-track {
+    display: flex; gap: 0.6rem; overflow-x: auto; scrollbar-width: none;
+    -webkit-overflow-scrolling: touch; padding-block: 0.15rem;
+  }
+  .spons-track::-webkit-scrollbar { display: none; }
+  .spons-card {
+    flex: none; display: flex; align-items: baseline; gap: 0.45rem;
+    max-width: 280px; padding: 0.28rem 0.7rem; border-radius: 999px;
+    background: rgba(255,159,67,.06); border: 1px solid rgba(255,159,67,.28);
+    text-decoration: none; transition: background .2s, border-color .2s, transform .2s;
+  }
+  .spons-card:hover { background: rgba(255,159,67,.12); border-color: rgba(255,159,67,.55); transform: translateY(-1px); }
+  .sc-name { font-family: var(--font-head); font-weight: 700; font-size: 0.82rem; color: var(--text); white-space: nowrap; }
+  .sc-tag { font-size: 0.78rem; color: var(--text-dim); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+  /* ── Hamburger (mobile only) ─────────────────────────────── */
+  .hamburger {
+    display: none;
+    flex-direction: column; justify-content: center; align-items: center;
+    gap: 5px; width: 44px; height: 44px; padding: 0; flex: none;
+    background: none; border: 1px solid transparent; border-radius: 12px;
+    cursor: pointer; -webkit-tap-highlight-color: transparent;
+  }
+  .hb-line { width: 20px; height: 2px; border-radius: 2px; background: var(--text-dim); transition: transform .25s ease, opacity .25s ease; }
+  .hamburger:hover .hb-line, .hamburger:focus-visible .hb-line { background: var(--cyan-soft); }
+  .hamburger:focus-visible { outline: 2px solid var(--cyan); outline-offset: 2px; }
+  .menu-open .hb-line:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+  .menu-open .hb-line:nth-child(2) { opacity: 0; }
+  .menu-open .hb-line:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
+  /* Mobile-first nav: everything collapses into the hamburger panel so
+     buttons never overlap on small screens. Panel = full-width dropdown
+     under the sticky bar, 44px+ touch targets, closes on link/outside/ESC. */
+  @media (max-width: 760px) {
+    .hamburger { display: inline-flex; }
+    .nav {
+      position: absolute; top: 100%; left: 0; right: 0;
+      flex-direction: column; align-items: stretch;
+      gap: 0.35rem; padding: 0.65rem 1rem 1rem;
+      background: rgba(13, 16, 30, 0.98);
+      backdrop-filter: blur(18px); -webkit-backdrop-filter: blur(18px);
+      border-bottom: 1px solid var(--glass-border);
+      box-shadow: 0 22px 44px -20px rgba(0, 0, 0, 0.75);
+      display: none;
+    }
+    .site-header.menu-open .nav { display: flex; }
+    .nav a { font-size: 1.05rem; padding: 0.9rem 0.85rem; border-radius: 12px; }
+    .nav a:hover, .nav a:focus-visible { background: rgba(112, 243, 255, 0.07); color: var(--text); }
+    .nav .nav-cta {
+      display: flex; align-items: center; justify-content: flex-start; gap: 0.55rem;
+      margin-top: 0.2rem; padding: 0.9rem 0.85rem; font-size: 1.05rem;
+      border: 1px solid var(--glass-border);
+    }
+    .btn-oss { margin-top: 0.5rem; }
     .product-glow { padding: 0.28rem 0.6rem 0.28rem 0.5rem; gap: 0.4rem; }
     .p-pro { font-size: 1rem; }
     .p-name { font-size: 0.44rem; }
+    .spons-card { max-width: 220px; }
   }
   @media (max-width: 380px) {
     .bar-left { gap: 0.5rem; }
     .brand { font-size: 1.12rem; }
     .p-name { letter-spacing: 0.08em; }
+    .product-glow { padding: 0.24rem 0.5rem; }
+    .p-name { display: none; }
   }
   @media (prefers-reduced-motion: reduce) {
     .product-glow, .product-glow::after, .p-pro { animation: none !important; }
   }
 </style>
+
+<script>
+  // Mobile hamburger: opens/closes the nav panel, closes on outside click,
+  // Escape, or after tapping a link. Desktop nav is always visible.
+  const btn = document.querySelector<HTMLButtonElement>('.hamburger');
+  const header = document.querySelector<HTMLElement>('.site-header');
+  if (btn && header) {
+    const setState = (open: boolean) => {
+      header.classList.toggle('menu-open', open);
+      btn.setAttribute('aria-expanded', String(open));
+      btn.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+    };
+    btn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      setState(!header.classList.contains('menu-open'));
+    });
+    document.addEventListener('click', (e) => {
+      if (header.classList.contains('menu-open') && !header.contains(e.target as Node)) setState(false);
+    });
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') setState(false);
+    });
+    header.querySelectorAll('a').forEach((a) => a.addEventListener('click', () => setState(false)));
+  }
+</script>

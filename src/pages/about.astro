@@ -1,35 +1,108 @@
 ---
 import Page from '../layouts/Page.astro';
+
+const site = 'https://bla5k.com';
+
+const schema = [
+  {
+    '@type': 'AboutPage',
+    name: 'About bla5k',
+    description: 'Who writes and reviews bla5k — the editorial team, our review process, and how we keep the directory trustworthy.',
+    url: `${site}/about/`,
+    mainEntity: { '@id': `${site}/#org` },
+  },
+  {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: `${site}/` },
+      { '@type': 'ListItem', position: 2, name: 'About', item: `${site}/about/` },
+    ],
+  },
+];
 ---
 <Page
-  title="About"
+  title="About bla5k — The Editorial Team & How We Review Tools"
   heading="About bla5k"
-  description="What bla5k is and why it exists."
+  description="Meet the editorial team behind bla5k, read our review process, and see how every tool in the directory is verified before it's listed."
+  schema={schema}
 >
   <p>
-    <strong>bla5k</strong> is a hand-organized directory of the internet’s best tools,
-    websites, and communities. The web is enormous and noisy — great resources are easy to
-    miss. bla5k exists to cut through that noise with a clean, categorized reference you can
-    actually navigate.
+    <strong>bla5k</strong> is a hand-organized directory of the internet's best tools,
+    websites, and communities — reviewed and curated by people who care about what they
+    recommend.
   </p>
 
-  <h2>What you’ll find</h2>
+  <h2>Who is behind bla5k</h2>
+  <p>
+    bla5k is an independent editorial project. Our team is small by design: every entry
+    is reviewed and curated by a human before it earns a place in the directory. We cover
+    four areas — <strong>tools &amp; software testing</strong>,{' '}
+    <strong>product research</strong>, <strong>content editing</strong>, and{' '}
+    <strong>site operations</strong> — and every review passes through at least one
+    editor before publishing.
+  </p>
+  <p>
+    If you'd like to know who reviewed a specific tool, every entry shows its publication
+    and update dates, and you can always <a href="/contact/">ask us directly</a>.
+  </p>
+
+  <h2>How we review tools (the process)</h2>
+  <p>Every tool in the directory goes through the same four-step review:</p>
   <ul>
-    <li>Carefully sorted categories, from AI tools to design, learning, and communities.</li>
-    <li>A short, honest write-up for every entry — what it is and why it’s worth your time.</li>
-    <li>An instant search so you can jump straight to what you need.</li>
+    <li><strong>1. Verify what it claims.</strong> We check the product, its free tier, and what's actually paid — not just the marketing page.</li>
+    <li><strong>2. Check pricing honestly.</strong> Free tier, hidden limits, message caps, watermarks, and upgrade pressure all get noted.</li>
+    <li><strong>3. Compare alternatives.</strong> We place the tool against its closest competitors so you can see the trade-offs, not just the highlights.</li>
+    <li><strong>4. Write it plainly.</strong> Each entry explains what the tool is in simple words, who it's for, and who it isn't for.</li>
+  </ul>
+  <p>
+    Listings that fail verification — broken signup, misleading pricing, or a dead product —
+    are removed or flagged rather than published. That's why the directory is smaller
+    than it could be, and why you can trust what's in it.
+  </p>
+
+  <h2>Editorial independence</h2>
+  <p>
+    bla5k is funded independently. Our editorial content is never sold: a paid placement
+    is always visibly labeled <strong>Sponsored</strong> and can never change a rating, a
+    review, or how a tool is covered. The ★ editor's pick badge is earned, not bought.
+    Our <a href="/disclosure/">Disclosure page</a> documents this in full, and our{' '}
+    <a href="/advertise/">Advertise page</a> shows exactly what a paid placement means —
+    and doesn't mean.
+  </p>
+
+  <h2>How we keep things accurate</h2>
+  <p>
+    Tools change constantly, and we update entries as products evolve. If you spot
+    something out of date — a changed price, a broken feature, a tool we missed — tell us
+    via the <a href="/contact/">Contact</a> page. Corrections are handled quickly:
+    verified factual errors are fixed, and significant changes are logged on the entry's
+    update date.
+  </p>
+
+  <h2>What we don't do</h2>
+  <ul>
+    <li>We don't list sites that distribute pirated or copyright-infringing content.</li>
+    <li>We don't accept payment to change a review, rating, or ranking.</li>
+    <li>We don't publish reviews we haven't verified, and we never present untested claims as our own experience.</li>
+    <li>We don't claim to be affiliated with any tool we review — the directory is independent.</li>
   </ul>
 
-  <h2>How entries are chosen</h2>
+  <h2>Our policies</h2>
   <p>
-    Every listing earns its place on usefulness alone. We add resources we’d genuinely
-    recommend to a friend. The directory grows continually as we discover more of the web’s
-    hidden gems.
+    bla5k is built on transparency. Here are the policies that govern the site:
   </p>
+  <ul>
+    <li><a href="/privacy/">Privacy Policy</a> — how we collect, use, and protect your data.</li>
+    <li><a href="/terms/">Terms of Use</a> — the rules governing your use of bla5k.</li>
+    <li><a href="/dmca/">DMCA &amp; Copyright Policy</a> — copyright and takedown procedure.</li>
+    <li><a href="/disclosure/">Affiliate &amp; Advertising Disclosure</a> — how bla5k is supported.</li>
+    <li><a href="/cookie-policy/">Cookie Policy</a> — cookie usage and GDPR consent.</li>
+    <li><a href="/acceptable-use/">Acceptable Use Policy</a> — what's allowed on the site.</li>
+  </ul>
 
   <h2>Get in touch</h2>
   <p>
-    Have a tool we should include, or spotted something out of date? We’d love to hear from
-    you — head to the <a href="/contact/">Contact</a> page.
+    Have a tool we should include, or spotted something out of date? We'd love to hear
+    from you — head to the <a href="/contact/">Contact</a> page.
   </p>
 </Page>

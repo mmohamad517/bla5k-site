@@ -1,6 +1,8 @@
 ---
 name: AgenticSeek
-url: https://agenticseek.tech
+url: https://github.com/Fosowl/agenticSeek
+image: /logos/agenticseek.png
+screenshot: /screens/agenticseek.webp
 subcategory: dev-ai-agents
 tagline: A 100% local, private, open-source alternative to Manus AI — an autonomous agent that runs entirely on your own hardware.
 tags: ["ai agent", "local ai", "privacy", "open-source", "manus alternative", "autonomous", "self-hosted"]
@@ -217,6 +219,6 @@ AgenticSeek answers a question more and more people are asking: *can I have a po
 
 It is not the easiest path — capable hardware and technical setup are real prerequisites — but for privacy-focused, self-hosting users, that's a fair price for genuine ownership of their AI. If you value control, transparency, and keeping your data your own, AgenticSeek deserves a serious look.
 
-To keep discovering tools shaping the local and autonomous AI movement, explore our [Developer Tools](/category/developer/) and [AI Tools](/category/ai-tools/) categories, or browse the full [bla5k directory](/#directory).
+To keep discovering tools shaping the local and autonomous AI movement, explore our [Developer Tools](/category/developer/) and [AI Tools](/category/ai-tools/) categories, or browse the full [bla5k directory](/directory/).
 
-*Official resources: [agenticseek.tech](https://agenticseek.tech) and the [AgenticSeek GitHub repository](https://github.com/Fosowl/agenticSeek).*
+*Official resource: the [AgenticSeek GitHub repository](https://github.com/Fosowl/agenticSeek).*

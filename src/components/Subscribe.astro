@@ -9,10 +9,12 @@
  *
  * Until the key is set, this box stays hidden so nothing broken ever goes live.
  */
-const WEB3FORMS_KEY = 'YOUR_WEB3FORMS_ACCESS_KEY';
+// Newsletter + WhatsApp channel. The Web3Forms key is shared with the
+// submit-a-tool form — set it once in src/lib/config.ts.
+import { WEB3FORMS_KEY, web3FormsReady as emailReady } from '../lib/config';
+
 const WHATSAPP_CHANNEL = ''; // e.g. https://whatsapp.com/channel/xxxxxxxxxxxxx
 
-const emailReady = WEB3FORMS_KEY && !WEB3FORMS_KEY.startsWith('YOUR_');
 const show = emailReady || WHATSAPP_CHANNEL;
 ---
 {show && (

@@ -1,6 +1,8 @@
 ---
 name: OpenClaw Agent Templates
 url: https://github.com/mergisi/awesome-openclaw-agents
+image: /logos/openclaw-agent-templates.png
+screenshot: /screens/openclaw-agent-templates.webp
 subcategory: dev-ai-agents
 tagline: A free, open-source library of 200+ ready-to-use, no-code AI agent templates for the OpenClaw framework.
 tags: ["ai agents", "templates", "no-code", "openclaw", "open-source", "self-hosted"]
@@ -189,6 +191,6 @@ Start with the quickstart example, confirm it works, then adapt a template to yo
 
 The OpenClaw agent templates library turns "build an AI agent" into "copy the right config file." With 200+ free, MIT-licensed, no-code templates across two dozen categories, it offers one of the fastest routes to a working, specialized agent — especially for teams living in Telegram, Slack, or Discord. The trade-off is honest: OpenClaw is a newer ecosystem than the big-name frameworks, and self-hosting asks for some setup and security discipline. But for makers who value speed, openness, and control, that's a fair deal.
 
-If you want a specialized agent up and running without writing framework code, this library is well worth exploring. And to keep discovering tools shaping the AI-agent era, browse our [AI Tools](/category/ai-tools/) and [Developer Tools](/category/developer/) categories, read our roundup of the [best AI tools in 2026](/guides/best-ai-tools-2026/), or explore the full [bla5k directory](/#directory).
+If you want a specialized agent up and running without writing framework code, this library is well worth exploring. And to keep discovering tools shaping the AI-agent era, browse our [AI Tools](/category/ai-tools/) and [Developer Tools](/category/developer/) categories, read our roundup of the [best AI tools in 2026](/guides/best-ai-tools-2026/), or explore the full [bla5k directory](/directory/).
 
 *Official resource: the [awesome-openclaw-agents GitHub repository](https://github.com/mergisi/awesome-openclaw-agents).*

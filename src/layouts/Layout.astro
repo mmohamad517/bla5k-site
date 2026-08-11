@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import CookieConsent from '../components/CookieConsent.astro';
 
 export interface Props {
   image?: string;
@@ -13,7 +14,7 @@ export interface Props {
 
 const {
   title = 'Best AI Tools Directory 2026 - Curated and Reviewed | bla5k',
-  description = 'Discover the best AI tools in one curated directory - 136+ hand-picked AI tools for coding, design, writing, video, music, and productivity. Updated weekly.',
+  description = 'Discover the best AI tools in one curated directory - 2,500+ AI tools for coding, design, writing, video, music, and productivity, each reviewed and compared. Updated daily.',
   image = '/og-image.png',
   schema = [],
   noindex = false,
@@ -22,6 +23,16 @@ const {
 const site = 'https://bla5k.com';
 const canonical = new URL(Astro.url.pathname, site).href.replace(/([^:]\/)\/+/g, '$1');
 const ogImage = image.startsWith('http') ? image : `${site}${image}`;
+
+// Cloudflare Web Analytics — privacy-first, cookieless traffic stats.
+// Set PUBLIC_CF_WEB_ANALYTICS_TOKEN in the Pages build env (or local .env)
+// and the beacon is injected on every page. Leave unset → zero impact.
+const cfAnalyticsToken = import.meta.env.PUBLIC_CF_WEB_ANALYTICS_TOKEN;
+// Google Analytics 4 — set PUBLIC_GA4_ID (format G-XXXXXXXXXX) to enable.
+// Google AdSense — set PUBLIC_ADSENSE_CLIENT (format ca-pub-XXXXXXXXXXXX) to
+// enable. Both load ONLY after the visitor accepts cookies (GDPR/ePrivacy).
+const ga4Id = import.meta.env.PUBLIC_GA4_ID;
+const adsenseClient = import.meta.env.PUBLIC_ADSENSE_CLIENT;
 
 const baseGraph = [
   {
@@ -44,6 +55,14 @@ const baseGraph = [
     name: 'bla5k',
     url: `${site}/`,
     logo: `${site}/icon-512.png`,
+    // E-E-A-T: name the founder/editor. Set the PERSON_NAME const below to
+    // your real name (or a named editor) and Google can attribute authorship.
+    founder: {
+      '@type': 'Person',
+      name: 'bla5k Editorial Team',
+      url: `${site}/about/`,
+      jobTitle: 'Editorial team',
+    },
   },
 ];
 const jsonLd = { '@context': 'https://schema.org', '@graph': [...baseGraph, ...schema] };
@@ -87,9 +106,69 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': [...baseGraph, ...s
     <meta name="twitter:image" content={ogImage} />
 
     <link rel="sitemap" href="/sitemap-index.xml" />
+    <link rel="alternate" type="text/plain" href="/llms.txt" title="llms.txt — AI-readable site summary" />
+    <link rel="alternate" type="application/rss+xml" href="/rss.xml" title="bla5k — Latest Tools & Guides" />
+    <link rel="alternate" type="application/rss+xml" href="/rss-tools.xml" title="bla5k — New AI Tools" />
+    <link rel="alternate" type="application/rss+xml" href="/rss-guides.xml" title="bla5k — Guides & Articles" />
     <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
+    {(cfAnalyticsToken || ga4Id || adsenseClient) && (
+      <script is:inline type="module" id="analytics-gate" data-cf-token={cfAnalyticsToken} data-ga4-id={ga4Id} data-adsense-client={adsenseClient}>
+        // Analytics (Cloudflare + GA4) & Google AdSense — all gated on GDPR
+        // consent. Load ONLY after the visitor accepts; re-evaluate if they
+        // change their choice later. Nothing loads on first visit.
+        // NOTE: document.currentScript is null in module scripts, so config
+        // is read via getElementById instead.
+        const cfg = document.getElementById('analytics-gate');
+        const CF_TOKEN = cfg.getAttribute('data-cf-token');
+        const GA4_ID = cfg.getAttribute('data-ga4-id');
+        const ADSENSE = cfg.getAttribute('data-adsense-client');
+        const KEY = 'bla5k-cookie-consent', VER = '1';
+        const choice = () => {
+          try {
+            const o = JSON.parse(localStorage.getItem(KEY) || 'null');
+            return o && o.version === VER ? o.choice : null;
+          } catch { return null; }
+        };
+        const inject = () => {
+          // Cloudflare beacon (guard against double-inject)
+          if (CF_TOKEN && !document.querySelector('script[data-cf-beacon]')) {
+            const s = document.createElement('script');
+            s.type = 'module';
+            s.src = 'https://static.cloudflareinsights.com/beacon.min.js';
+            s.setAttribute('data-cf-beacon', JSON.stringify({ token: CF_TOKEN, spa: true }));
+            document.head.appendChild(s);
+          }
+          // Google Analytics 4 (guard against double-inject)
+          if (GA4_ID && !document.querySelector('script[data-ga4-id]')) {
+            const g = document.createElement('script');
+            g.async = true;
+            g.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA4_ID;
+            g.setAttribute('data-ga4-id', GA4_ID);
+            document.head.appendChild(g);
+            const inline = document.createElement('script');
+            inline.textContent = 'window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config",' + JSON.stringify(GA4_ID) + ');';
+            document.head.appendChild(inline);
+          }
+          // Google AdSense loader — only after consent. Slots (AdSlot
+          // component) render inert <ins> tags that only fill once this
+          // loader is present and each slot is pushed to window.adsbygoogle.
+          if (ADSENSE && !document.querySelector('script[data-adsense-loader]')) {
+            const a = document.createElement('script');
+            a.async = true;
+            a.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=' + ADSENSE;
+            a.setAttribute('data-adsense-loader', '1');
+            a.setAttribute('crossorigin', 'anonymous');
+            document.head.appendChild(a);
+          }
+        };
+        if (choice() === 'accept') inject();
+        document.addEventListener('bla5k-consent', (e) => { if (e.detail === 'accept') inject(); });
+      </script>
+    )}
   </head>
   <body>
+    <CookieConsent />
     <slot />
     <script>
       const io = new IntersectionObserver(

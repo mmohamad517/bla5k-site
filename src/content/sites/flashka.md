@@ -1,6 +1,8 @@
 ---
 name: Flashka
 url: https://flashka.ai/
+image: /logos/flashka.png
+screenshot: /screens/flashka.webp
 subcategory: learn-courses
 tagline: "AI flashcard generator — paste any text and get study-ready flashcards in seconds."
 tags: [flashka, flashcards, ai, study, quick generation]

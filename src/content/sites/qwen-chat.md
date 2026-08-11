@@ -1,7 +1,10 @@
 ---
 name: Qwen Chat
 url: https://chat.qwen.ai/
+image: /logos/qwen-chat.png
+screenshot: /screens/qwen-chat.webp
 subcategory: ai-chat
+pricing: free
 tagline: "Alibaba's free AI with 100+ models, image generation, web search—powerful alternative to ChatGPT."
 tags:
   - qwen
