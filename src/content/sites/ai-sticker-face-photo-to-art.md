@@ -1,6 +1,6 @@
 ---
 name: AI Sticker
-url: "https://web.archive.org/web/20220821191444/https://apps.apple.com/"
+url: "https://apps.apple.com/us/app/ai-sticker-photo-to-sticker/id6479453843"
 image: /logos/ai-sticker-face-photo-to-art.png
 screenshot: /screens/ai-sticker-face-photo-to-art.webp
 subcategory: design-graphics
@@ -91,4 +91,4 @@ AI Sticker targets a real pain point in AI design — turning an input into a us
 
 > **Tip:** Start with one real task, not a demo — the output quality on your own work is what matters.
 
-*Official resource: [AI Sticker](https://web.archive.org/web/20220821191444/https://apps.apple.com/)*
+*Official resource: [AI Sticker](https://apps.apple.com/us/app/ai-sticker-photo-to-sticker/id6479453843)*
