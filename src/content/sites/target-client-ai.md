@@ -2,7 +2,7 @@
 name: Target Client AI
 url: "https://targetclientai.com/"
 image: /logos/target-client-ai.png
-screenshot: /screens/target-client-ai.webp
+# screenshot removed (file missing): /screens/target-client-ai.webp
 subcategory: mkt-social
 pricing: free
 tagline: Target Client AI streamlines audience analysis, providing actionable customer insights and detailed reports in under five minutes.

@@ -2,7 +2,7 @@
 name: Viinyx AI
 url: "https://viinyx.com"
 image: /logos/viinyx-ai.png
-screenshot: /screens/viinyx-ai.webp
+# screenshot removed (file missing): /screens/viinyx-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Viinyx AI is a browser extension that consolidates ChatGPT, Gemini, Claude, Llama, and DALL·E into a single chatbox on any webpage.

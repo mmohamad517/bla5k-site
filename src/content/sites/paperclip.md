@@ -16,7 +16,7 @@ tags:
   - agent management
 featured: false
 updated: 2026-08-01
-metaTitle: "Paperclip: The Open-Source Control Plane for AI Agents (2026 Guide)"
+metaTitle: "Paperclip: The Open-Source Control Plane for AI Agents (2026)"
 metaDescription: A complete guide to Paperclip — the open-source control plane that organizes your AI agents into a managed team with org charts, budgets, and governance.
 simple: "A free tool that manages your AI agents like employees. It takes the agents you already use (Claude Code, Codex, Cursor) and organizes them into a team with roles, budgets, and oversight."
 example: "Your agents run at a team of 10; Paperclip gives each a budget, an org chart, and a governance board that can pause any agent that goes off track."

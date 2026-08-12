@@ -2,7 +2,7 @@
 name: Baked AI
 url: "https://baked-ai.com"
 image: /logos/baked-ai.png
-screenshot: /screens/baked-ai.webp
+# screenshot removed (file missing): /screens/baked-ai.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Bake is an AI tool that generates unique art from your ideas for printing on various products.

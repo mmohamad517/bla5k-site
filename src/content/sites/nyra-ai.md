@@ -2,7 +2,7 @@
 name: Nyra AI
 url: "https://www.getnyra.ai"
 image: /logos/nyra-ai.png
-screenshot: /screens/nyra-ai.webp
+# screenshot removed (file missing): /screens/nyra-ai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Nyra AI is an AI-driven marketing platform for startups that simplifies ad creation and deployment across channels like Google and Facebook, while...

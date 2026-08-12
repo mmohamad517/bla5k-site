@@ -79,3 +79,5 @@ The practical test is whether your team's 3D work is a recurring production proc
 ## Conclusion
 
 Vivid3D answers a real gap for organizations where 3D content is a daily production input. If your team ships interactive 3D at scale or needs synthetic data for AI training, it is worth an evaluation against your current pipeline. Teams with occasional 3D needs should start with a lighter tool and revisit Vivid3D when volume justifies the platform.
+
+*Official resource: [Vivid3D](https://www.vivid3d.ai)*

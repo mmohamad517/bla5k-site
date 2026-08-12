@@ -1,7 +1,7 @@
 ---
 name: Consistent Character Generator
 url: "https://aiconsistentcharacter.com"
-image: /logos/consistent-character-generator.png
+# image removed (file missing): /logos/consistent-character-generator.png
 screenshot: /screens/consistent-character-generator.webp
 subcategory: ai-image
 pricing: paid

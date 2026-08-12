@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-11
 metaTitle: EZY.ai - AEO & AI Search Optimization Review 2026
-metaDescription: EZY.ai is an AEO & GEO platform that makes your brand visible in AI search — it generates ideal AI answers about you, optimizes your site for ChatGPT, Claude, Perplexity and Gemini, and automates it all from a WordPress plugin.
+metaDescription: EZY.ai is an AEO & GEO platform that makes your brand visible in AI search — it generates ideal AI answers about you, optimizes your site for ChatGPT,...
 simple: EZY.ai is an AEO & GEO platform for AI search visibility. It generates the ideal AI answers about your brand, simulates what models like ChatGPT, Claude, Perplexity, and Gemini say about you, and optimizes your site — with a WordPress plugin that automates the whole thing.
 example: Give EZY.ai one real task — your website and your brand — and it returns a usable result for your AI visibility workflow — ideal answers, optimized pages, and simulated model responses.
 goodFor:

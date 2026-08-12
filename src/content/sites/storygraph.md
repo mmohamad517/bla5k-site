@@ -121,6 +121,6 @@ Start by rating 20-30 books you've read — that gives StoryGraph enough data to
 
 The StoryGraph understands what readers actually want: **books matched to mood and taste, not just popularity**. With detailed stats and genuinely personal recommendations, it's the modern way to find your next favorite read.
 
-For more entertainment tools, explore our [Entertainment directory](/category/entertainment/) and the [best AI tools in 2026](/guides/best-ai-tools-2026/) roundup. If you face the same decision paralysis with movies as with books, Nothing To Watch is a playful tool that helps you pick a film to watch tonight.
+For more entertainment tools, explore our [Entertainment directory](/category/entertainment/) and the [best AI tools in 2026](/guides/best-ai-tools-2026/) roundup.
 
 *Official resource: [The StoryGraph](https://www.thestorygraph.com/).*

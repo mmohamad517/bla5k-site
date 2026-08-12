@@ -2,7 +2,7 @@
 name: AIssistify
 url: "https://aissistify.com/"
 image: /logos/aissistify.png
-screenshot: /screens/aissistify.webp
+# screenshot removed (file missing): /screens/aissistify.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: AIssistify automates SEO, paid‑search, and social‑media content creation.

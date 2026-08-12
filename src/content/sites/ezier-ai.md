@@ -2,7 +2,7 @@
 name: Ezier AI
 url: "https://ezier.ai/"
 image: /logos/ezier-ai.png
-screenshot: /screens/ezier-ai.webp
+# screenshot removed (file missing): /screens/ezier-ai.webp
 subcategory: ai-image
 pricing: paid
 tagline: Ezier.ai is a unified AI workspace that lets you generate and edit images, videos, and audio in one place.

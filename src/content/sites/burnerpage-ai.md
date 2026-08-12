@@ -2,7 +2,7 @@
 name: BurnerPage AI
 url: "https://burnerpage.com"
 image: /logos/burnerpage-ai.png
-screenshot: /screens/burnerpage-ai.webp
+# screenshot removed (file missing): /screens/burnerpage-ai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: ab3.ai is an AI-driven conversion optimizer increasing rates by up to 45%.

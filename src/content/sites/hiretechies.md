@@ -1,7 +1,7 @@
 ---
 name: HireTechies
 url: "https://www.hiretechies.net"
-image: /logos/hiretechies.png
+# image removed (file missing): /logos/hiretechies.png
 screenshot: /screens/hiretechies.webp
 subcategory: ai-productivity
 pricing: freemium

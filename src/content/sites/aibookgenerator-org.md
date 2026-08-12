@@ -1,5 +1,5 @@
 ---
-name: AI Book Generator
+name: AIBookGenerator.org
 url: "https://www.aibookgenerator.org"
 image: /logos/aibookgenerator-org.png
 screenshot: /screens/aibookgenerator-org.webp

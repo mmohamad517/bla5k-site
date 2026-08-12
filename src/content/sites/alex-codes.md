@@ -2,7 +2,7 @@
 name: Alex
 url: "https://alexcodes.app"
 image: /logos/alex-codes.png
-screenshot: /screens/alex-codes.webp
+# screenshot removed (file missing): /screens/alex-codes.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Alex is an AI coding assistant for Xcode, providing smart code completion, real-time error fixes, codebase searches, and voice input.

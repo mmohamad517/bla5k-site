@@ -12,7 +12,7 @@ tags:
   - Tool
 featured: false
 updated: 2026-08-09
-metaTitle: TechhorizonCity Content & Image Generator - AI Tool Review & Guide 2026
+metaTitle: TechhorizonCity Content & Image Generator (2026)
 metaDescription: Generate articles up to 2000 words with integrated images.
 simple: Generate articles up to 2000 words with integrated images.
 example: Give TechhorizonCity Content & Image Generator one real task — a prompt, a file, or a request — and it returns a usable result for your ai writing workflow.

@@ -2,7 +2,7 @@
 name: Gangr.ai
 url: "https://gangr.ai"
 image: /logos/gangr-ai.png
-screenshot: /screens/gangr-ai.webp
+# screenshot removed (file missing): /screens/gangr-ai.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: Gangr.ai is a user-friendly AI optimization tool for DTF printing, offering seamless integrations with ecommerce platforms like Shopify and Wix.

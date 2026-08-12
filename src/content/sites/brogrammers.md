@@ -2,7 +2,7 @@
 name: Brogrammers
 url: "https://brogrammers.in"
 image: /logos/brogrammers.png
-screenshot: /screens/brogrammers.webp
+# screenshot removed (file missing): /screens/brogrammers.webp
 subcategory: ai-image
 pricing: freemium
 tagline: Brogrammers is an AI-powered learning platform that facilitates customized course creation, collaborative learning, and access to curated resources.

@@ -12,7 +12,7 @@ tags:
   - Tool
 featured: false
 updated: 2026-08-08
-metaTitle: Experiential AI Agents - Soul Machines - AI Tool Review & Guide 2026
+metaTitle: Experiential AI Agents - Soul Machines (2026)
 metaDescription: Experiential AI Agents is a human-like digital agent platform for lifelike customer interactions, blending natural conversation with workflow automation.
 simple: "Experiential AI Agents is a human-like digital agent platform for lifelike customer interactions, blending natural conversation with workflow automation."
 example: "Give Experiential AI Agents - Soul Machines one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."

@@ -2,7 +2,7 @@
 name: DomainWoohoo
 url: "https://www.domainwoohoo.com"
 image: /logos/domainwoohoo.png
-screenshot: /screens/domainwoohoo.webp
+# screenshot removed (file missing): /screens/domainwoohoo.webp
 subcategory: fin-fintech
 pricing: freemium
 tagline: DomainWoohoo is an AI‑powered domain finder that scans millions of extensions in real time.

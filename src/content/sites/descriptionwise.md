@@ -2,7 +2,7 @@
 name: Descriptionwise
 url: "https://descriptionwise.ai"
 image: /logos/descriptionwise.png
-screenshot: /screens/descriptionwise.webp
+# screenshot removed (file missing): /screens/descriptionwise.webp
 subcategory: mkt-social
 pricing: paid
 tagline: Descriptionwise uses AI to generate product descriptions at scale, extracting features from images and data.

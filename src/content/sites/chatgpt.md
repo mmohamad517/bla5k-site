@@ -175,8 +175,6 @@ ChatGPT is the tool that made AI feel useful and accessible to everyone. It's a 
 
 If you haven't yet made ChatGPT part of your daily toolkit, it's the single easiest place to start with AI. And to discover more tools shaping this era, browse our [AI Tools](/category/ai-tools/) category or the full [bla5k directory](/directory/).
 
-For users in regions where ChatGPT access is limited, GlobalGPT provides an alternative interface for accessing AI chat capabilities.
-
 *Official resources: the [ChatGPT website](https://chat.openai.com) and [OpenAI](https://openai.com).*
 
 Other AI chat and assistant tools worth exploring include 1440.io, 5DollarJobs, Agentica, AI Accounting Apps, AI Actions, Bookeeping AI, AI Code Mentor, AI Fiesta, Ai for Work, AI LS, AI Receipt Tracker, AI Teacha, AI Wedding Toast, AIArion, AICodeConvert. Additionally, check out AIPal, aipaperwriter.org, AiPlix - The AI Browser, Airfriend, aiToggler, Alan AI Platform, Albus, Alex, All Hands AI, Alle-AI, AmuRing, Anantya.ai. Additionally, check out 008, AI-Flow, AI Perfect Assistant, AINIRO, AiryChat, AISHA AI, anki-decks.com, anti.space, APIMart, aporia.com, Appzen.com, Archie AI. See also: Archittect, Ask Marcus. Also see Assistive Chat. Check out Athena, Atomic Chat. Attentionkart is another option.

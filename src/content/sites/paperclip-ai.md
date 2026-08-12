@@ -1,5 +1,5 @@
 ---
-name: PaperClip
+name: PaperClip (paperclip.co)
 url: https://paperclip.co/
 image: /logos/paperclip-ai.png
 screenshot: /screens/paperclip-ai.webp

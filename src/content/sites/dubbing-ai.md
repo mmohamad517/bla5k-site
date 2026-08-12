@@ -121,6 +121,6 @@ Start with one short video to validate the quality, then dub your full catalog.
 
 Dubbing AI turns **one video into many** — voice-cloned translations that reach 30+ language markets while sounding like you. For creators and brands with global ambitions, it's one of the most powerful distribution tools in the AI video space.
 
-For more video and audio tools, explore [Submagic](/tools/submagic/), [Clipfly](/tools/clipfly/), and our [AI Tools directory](/category/ai-tools/). If you need voice transformation rather than dubbing, Hitpaw Voice Changer handles real-time voice effects, and TapNow AI offers quick AI-powered audio and video creation.
+For more video and audio tools, explore [Submagic](/tools/submagic/), [Clipfly](/tools/clipfly/), and our [AI Tools directory](/category/ai-tools/).
 
 *Official resource: [Dubbing AI](https://dubbing.ai/).*

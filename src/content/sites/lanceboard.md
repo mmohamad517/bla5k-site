@@ -2,7 +2,7 @@
 name: Lanceboard
 url: "https://lanceboard.com"
 image: /logos/lanceboard.png
-screenshot: /screens/lanceboard.webp
+# screenshot removed (file missing): /screens/lanceboard.webp
 subcategory: ai-productivity
 pricing: free
 tagline: Lanceboard is a freelance platform that simplifies task assignment and management, featuring AI-driven talent matching, secure payments, and collaborative...

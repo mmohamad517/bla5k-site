@@ -2,7 +2,7 @@
 name: AI E-books
 url: "https://ai-ebooks.co.uk/"
 image: /logos/ai-e-books.png
-screenshot: /screens/ai-e-books.webp
+# screenshot removed (file missing): /screens/ai-e-books.webp
 subcategory: ai-writing
 pricing: free
 tagline: AI E-Books generates customized, accessible ebooks on a variety of topics using artificial intelligence.

@@ -2,7 +2,7 @@
 name: Invoicemint
 url: "https://invoicemint.in"
 image: /logos/invoicemint.png
-screenshot: /screens/invoicemint.webp
+# screenshot removed (file missing): /screens/invoicemint.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Invoicemint is a cloud invoicing platform that lets users create, customize, and send invoices, quotes, and agreements via email or WhatsApp.

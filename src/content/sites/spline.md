@@ -124,6 +124,6 @@ Start with a simple object and one animation — you'll have a shareable 3D scen
 
 Spline makes **interactive 3D design as easy as 2D design** — browser-based, collaborative, and built for the web. Whether it's a product mockup, an animated logo, or a fully interactive landing page, Spline lets designers create experiences that used to require specialized 3D teams.
 
-For more design and creative tools, explore [Looka](/tools/looka/) for branding, [Figma](/tools/figma/) for UI, and our [Design directory](/category/design/). If you need 3D for interior and home design specifically, HomeByMe offers photorealistic room visualization in the browser.
+For more design and creative tools, explore [Looka](/tools/looka/) for branding, [Figma](/tools/figma/) for UI, and our [Design directory](/category/design/).
 
 *Official resource: [Spline](https://spline.design/).*

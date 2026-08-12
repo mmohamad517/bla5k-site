@@ -16,8 +16,8 @@ tags:
   - devtools
 featured: true
 updated: 2026-08-01
-metaTitle: "OpenAI Codex CLI: The Lightweight Terminal Coding Agent (2026 Guide)"
-metaDescription: A complete guide to OpenAI's Codex CLI — a lightweight open-source coding agent for your terminal. Features, pricing, free tiers, and how it compares to Claude Code and Gemini CLI.
+metaTitle: "OpenAI Codex CLI: The Lightweight Terminal Coding Agent (2026)"
+metaDescription: A complete guide to OpenAI's Codex CLI — a lightweight open-source coding agent for your terminal.
 simple: "An AI coding assistant you run inside your terminal. It reads your repository, writes and edits code, and can open pull requests on GitHub — powered by OpenAI's Codex models."
 example: "Run codex in your repo and ask it to 'add input validation to the signup form' — it edits the code, runs it, and offers to open a pull request."
 goodFor:

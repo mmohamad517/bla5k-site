@@ -2,7 +2,7 @@
 name: Onnix
 url: "https://www.onnix.ai/"
 image: /logos/onnix.png
-screenshot: /screens/onnix.webp
+# screenshot removed (file missing): /screens/onnix.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Onnix AI creates slide decks from bank templates, learns from past decks for rapid iteration, and performs Excel‑style data analysis via prompt commands,...

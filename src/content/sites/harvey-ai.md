@@ -120,6 +120,4 @@ Harvey AI is the **benchmark for legal AI** — purpose-built for the work lawye
 
 For general AI productivity, explore [PaperClip](/tools/paperclip-ai/) for document management and our [AI Tools directory](/category/ai-tools/).
 
-For AI applied to finance and investing rather than law, DEXTER provides AI-driven investment research and analysis tools.
-
 *Official resource: [Harvey AI](https://www.harvey.ai/).*

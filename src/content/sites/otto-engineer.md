@@ -2,7 +2,7 @@
 name: Otto Engineer
 url: "https://otto.engineer"
 image: /logos/otto-engineer.png
-screenshot: /screens/otto-engineer.webp
+# screenshot removed (file missing): /screens/otto-engineer.webp
 subcategory: ai-chat
 pricing: paid
 tagline: Otto Engineer is an AI-powered coding assistant for testing and iterating code.

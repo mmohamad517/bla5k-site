@@ -2,7 +2,7 @@
 name: Jobed
 url: "https://www.jobed.ai"
 image: /logos/jobed.png
-screenshot: /screens/jobed.webp
+# screenshot removed (file missing): /screens/jobed.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Jobed uses AI to create job descriptions in 24 languages across 31 sectors.

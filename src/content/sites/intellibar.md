@@ -12,7 +12,7 @@ tags:
   - Open Source
 featured: false
 updated: 2026-08-10
-metaTitle: "IntelliBar: macOS AI Assistant with Multiple Models & Local LLMs (2026)"
+metaTitle: "IntelliBar: macOS AI Assistant with Multiple Models & Local LLMs"
 metaDescription: IntelliBar is a native macOS AI assistant — one menu-bar shortcut for ChatGPT, Claude, Gemini, Grok, and local models via Ollama, with no subscription.
 simple: "IntelliBar is a menu-bar app for Mac that opens like Spotlight and lets you chat with many AI models — including local ones — from one window, without paying a subscription."
 example: "Press a keyboard shortcut anywhere on your Mac, type a prompt, and IntelliBar answers using GPT-4o, Claude, or a local Llama model — your choice — with the conversation saved on your device."
@@ -72,3 +72,5 @@ IntelliBar competes with other macOS AI menu-bar clients (like RewriteBar and Ke
 ## Conclusion
 
 If you already use several AI providers and want one fast, private entry point on your Mac, IntelliBar is a strong candidate — evaluate it for free, connect your keys, and run one real task through it. If you prefer a zero-setup web chat with built-in credits, a subscription app remains the simpler choice.
+
+*Official resource: [IntelliBar](https://intellibar.app)*

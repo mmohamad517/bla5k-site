@@ -1,7 +1,7 @@
 ---
 name: ChatbotGen
 url: "https://www.chatbotgen.com"
-image: /logos/chatbotgen.png
+# image removed (file missing): /logos/chatbotgen.png
 screenshot: /screens/chatbotgen.webp
 subcategory: ai-chat
 pricing: paid

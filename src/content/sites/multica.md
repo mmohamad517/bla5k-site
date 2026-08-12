@@ -16,7 +16,7 @@ tags:
   - coding agents
 featured: false
 updated: 2026-08-01
-metaTitle: "Multica: Project Management for Human + AI Agent Teams (2026 Guide)"
+metaTitle: "Multica: Project Management for Human + AI Agent Teams (2026)"
 metaDescription: A complete guide to Multica — the open-source project-management platform that turns coding agents into real teammates. Assign tasks, track progress, and manage skills.
 simple: "A tool that turns your AI coding agents into real team members. Instead of pasting prompts, you assign them tasks like teammates — they claim, do, and report on work, all in one workspace."
 example: "Create an issue, assign it to Claude Code as if assigning a colleague, and watch the agent claim it, work through it, and mark it complete with a live progress feed."

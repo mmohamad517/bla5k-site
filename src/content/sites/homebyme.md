@@ -112,7 +112,7 @@ HomeByMe provides a free plan covering the core experience — floor planning, 3
 
 ## Alternatives and comparisons
 
-Alternatives include tools like Planner 5D, Roomstyler, and SketchUp for varying levels of complexity and control. For interactive web-based 3D design beyond interiors, Spline is a popular browser tool for creating animated 3D scenes and product mockups. HomeByMe's advantage is the combination of an approachable, free, browser-based experience with the photorealistic rendering quality that comes from Dassault Systèmes' 3D heritage.
+Alternatives include tools like Planner 5D, Roomstyler, and SketchUp for varying levels of complexity and control. HomeByMe's advantage is the combination of an approachable, free, browser-based experience with the photorealistic rendering quality that comes from Dassault Systèmes' 3D heritage.
 
 ## Conclusion
 

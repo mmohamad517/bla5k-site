@@ -2,7 +2,7 @@
 name: Genius offer ai
 url: "https://geniusofferai.com"
 image: /logos/genius-offer-ai.png
-screenshot: /screens/genius-offer-ai.webp
+# screenshot removed (file missing): /screens/genius-offer-ai.webp
 subcategory: mkt-social
 pricing: freemium
 tagline: Genius Offer AI streamlines offer creation for small businesses, marketers, and sales professionals.

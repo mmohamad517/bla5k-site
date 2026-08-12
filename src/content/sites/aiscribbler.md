@@ -1,7 +1,7 @@
 ---
 name: AiScribbler
 url: "https://aiscribbler.co"
-image: /logos/aiscribbler.png
+# image removed (file missing): /logos/aiscribbler.png
 screenshot: /screens/aiscribbler.webp
 subcategory: ai-writing
 pricing: paid

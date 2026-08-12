@@ -2,7 +2,7 @@
 name: NanaBanana2Flash
 url: "https://nanabanana2flash.com/"
 image: /logos/nanabanana2flash-com.png
-screenshot: /screens/nanabanana2flash-com.webp
+# screenshot removed (file missing): /screens/nanabanana2flash-com.webp
 subcategory: design-graphics
 pricing: freemium
 tagline: nanabanana2flash.com is a conversational AI image generator powered by Google's Gemini.

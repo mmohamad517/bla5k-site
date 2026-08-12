@@ -2,7 +2,7 @@
 name: MailShake
 url: "https://mailshake.com/"
 image: /logos/mailshake-com.png
-screenshot: /screens/mailshake-com.webp
+# screenshot removed (file missing): /screens/mailshake-com.webp
 subcategory: ai-productivity
 pricing: freemium
 tagline: Mailshake centralizes multi-channel B2B outreach—cold email, dialing, and social—combining an AI email writer, prospect search, automated follow-ups,...

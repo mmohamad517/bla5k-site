@@ -1,7 +1,7 @@
 ---
 name: Chatbit
 url: "https://chatbit.co"
-image: /logos/chatbit.png
+# image removed (file missing): /logos/chatbit.png
 screenshot: /screens/chatbit.webp
 subcategory: ai-productivity
 pricing: freemium

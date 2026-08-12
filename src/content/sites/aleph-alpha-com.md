@@ -2,7 +2,7 @@
 name: aleph-alpha.com
 url: "https://aleph-alpha.com"
 image: /logos/aleph-alpha-com.png
-screenshot: /screens/aleph-alpha-com.webp
+# screenshot removed (file missing): /screens/aleph-alpha-com.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Aleph Alpha offers specialized large language models built on EU infrastructure, trained on domain‑specific data for legal, administrative, industrial, and...

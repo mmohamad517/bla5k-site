@@ -2,7 +2,7 @@
 name: evolv.ai
 url: "https://evolv.ai"
 image: /logos/evolv-ai.png
-screenshot: /screens/evolv-ai.webp
+# screenshot removed (file missing): /screens/evolv-ai.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: Evolv AI quickly detects conversion blockers and generates actionable UX recommendations.

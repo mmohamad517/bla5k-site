@@ -2,7 +2,7 @@
 name: ai-dog.net
 url: "https://ai-dog.net"
 image: /logos/ai-dog-net.png
-screenshot: /screens/ai-dog-net.webp
+# screenshot removed (file missing): /screens/ai-dog-net.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: ai-dog is an AI-driven content creation platform that enables users to efficiently generate articles and marketing copy, optimize for SEO, and enhance their...

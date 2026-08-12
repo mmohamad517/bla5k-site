@@ -12,7 +12,7 @@ tags:
   - Tool
 featured: false
 updated: 2026-08-09
-metaTitle: HireTalent-Free Applicant TrackingSystem - AI Tool Review & Guide 2026
+metaTitle: HireTalent-Free Applicant TrackingSystem (2026)
 metaDescription: "HireTalent is an AI‑driven ATS that automates talent acquisition: globally posting jobs, filtering resumes, scheduling interviews, managing offers, and"
 simple: "HireTalent is an AI‑driven ATS that automates talent acquisition: globally posting jobs, filtering resumes, scheduling interviews, managing offers, and providing analytics for bias‑free hiring, cutting time‑to‑hire, boosting quality, and reducing costs."
 example: Give HireTalent-Free Applicant TrackingSystem one real task — a prompt, a file, or a request — and it returns a usable result for your ai work workflow.

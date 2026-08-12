@@ -2,7 +2,7 @@
 name: Merlu.io
 url: "https://www.merlu.io"
 image: /logos/merlu-io.png
-screenshot: /screens/merlu-io.webp
+# screenshot removed (file missing): /screens/merlu-io.webp
 subcategory: dev-ai-agents
 pricing: freemium
 tagline: Merlu.io is an AI-powered Robo Advisor that predicts cryptocurrency prices in real-time.

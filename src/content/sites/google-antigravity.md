@@ -16,8 +16,8 @@ tags:
   - devtools
 featured: true
 updated: 2026-08-01
-metaTitle: "Google Antigravity: The Agent-First Development Platform (2026 Guide)"
-metaDescription: A complete guide to Google Antigravity — the agent-first development platform with a desktop app, CLI, IDE, and SDK. Features, free plan, pricing, and the Gemini CLI transition.
+metaTitle: "Google Antigravity: The Agent-First Development Platform (2026)"
+metaDescription: A complete guide to Google Antigravity — the agent-first development platform with a desktop app, CLI, IDE, and SDK.
 simple: "Google's newest AI development platform. Instead of juggling separate tools, you get one system — desktop app, terminal, IDE, and SDK — all sharing the same AI agent engine that writes, edits, and runs your code."
 example: "Open the Antigravity desktop app on a project, ask it to 'build a small API with a database', and its agents plan, write, run, and test the code — while you approve each step."
 goodFor:

@@ -116,6 +116,6 @@ Start with a simple prompt to learn the interface, then expand to enhancement an
 
 Clipfly makes **AI video creation accessible to everyone**: generate from text, enhance footage, and edit with AI — free and in your browser. For creators starting with video AI, it's an ideal entry point.
 
-For more video tools, explore [GenTube](/tools/gentube/), [Submagic](/tools/submagic/), and our [AI Tools directory](/category/ai-tools/). For lip-sync generation, LipSync.video specializes in matching audio to faces, and Vmake.ai offers additional AI video and image editing capabilities.
+For more video tools, explore [GenTube](/tools/gentube/), [Submagic](/tools/submagic/), and our [AI Tools directory](/category/ai-tools/).
 
 *Official resource: [Clipfly](https://www.clipfly.ai/).*

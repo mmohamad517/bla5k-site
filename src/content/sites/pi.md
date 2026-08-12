@@ -17,7 +17,7 @@ tags:
 featured: false
 updated: 2026-08-01
 metaTitle: "Pi (pi.dev): The Minimal, Hackable AI Agent Harness (2026 Guide)"
-metaDescription: A complete guide to Pi — the minimal, extensible AI agent harness from Earendil. Unified multi-provider LLM API, agent runtime, TUI, and coding agent CLI. MIT open source.
+metaDescription: A complete guide to Pi — the minimal, extensible AI agent harness from Earendil. Unified multi-provider LLM API, agent runtime, TUI, and coding agent CLI.
 simple: "A free, open-source toolkit for building AI agents. Instead of forcing you into one way of working, Pi gives you the building blocks — a unified LLM API, an agent loop, and a terminal UI — and lets you adapt them to your own workflows."
 example: "Want one agent that can use different AI providers? Pi's unified API lets you switch between Anthropic, OpenAI, or a local model without rewriting your agent code."
 goodFor:

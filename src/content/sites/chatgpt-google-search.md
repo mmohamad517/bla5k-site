@@ -12,7 +12,7 @@ tags:
   - Tool
 featured: false
 updated: 2026-08-08
-metaTitle: "ChatGPT on Google: Search with Chat GPT - AI Tool Review & Guide 2026"
+metaTitle: "ChatGPT on Google: Search with Chat GPT (2026)"
 metaDescription: Get the ChatGPT on Google Extension now and discover a world of knowledge and fun with ChatGPT by your side.
 simple: Get the ChatGPT on Google Extension now and discover a world of knowledge and fun with ChatGPT by your side.
 example: "Give ChatGPT on Google: Search with Chat GPT one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow."

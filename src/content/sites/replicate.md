@@ -17,8 +17,6 @@ affiliate: false
 updated: 2026-07-31
 metaTitle: "Replicate: Serverless AI Model API Platform Guide 2026"
 metaDescription: Replicate — run 50,000+ open-source AI models with one API call. Serverless, pay-per-use, no GPU management. Complete 2026 developer guide with pricing.
-  open-source AI models like Llama and Stable Diffusion via simple APIs without
-  managing GPUs.
 simple: "A service that lets you run powerful AI models over the internet without owning expensive hardware. You send a request, it runs the model on its servers, and sends the result back."
 example: "Want to generate images inside your own app? Replicate lets you call an image AI with a simple request and get pictures back — no need to own a powerful graphics card."
 goodFor:

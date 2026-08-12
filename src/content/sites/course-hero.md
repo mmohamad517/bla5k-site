@@ -8,7 +8,7 @@ tagline: "Study resources and AI tutoring — millions of study guides and exper
 tags: [course hero, study, homework, tutoring, education]
 featured: false
 affiliate: false
-metaTitle: "Course Hero: Study Guides, AI Tutoring & Homework Help | 2026 Guide"
+metaTitle: "Course Hero: Study Guides, AI Tutoring & Homework Help | 2026"
 metaDescription: "Course Hero — access millions of study guides, textbook solutions, and 24/7 AI tutoring. Get homework help and exam prep from experts and fellow students."
 simple: "A huge library of study materials plus AI help — find study guides, past exam questions, and textbook solutions for the exact course you're taking."
 example: "Stuck on a calculus problem? Course Hero shows similar solved problems, a study guide for your textbook chapter, and an AI tutor explains the steps."

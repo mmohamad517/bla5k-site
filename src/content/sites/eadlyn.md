@@ -2,7 +2,7 @@
 name: Eadlyn
 url: "https://eadlyn.com"
 image: /logos/eadlyn.png
-screenshot: /screens/eadlyn.webp
+# screenshot removed (file missing): /screens/eadlyn.webp
 subcategory: ai-image
 pricing: paid
 tagline: Eadlyn uses AI to clone portraits and voices from user‑provided audio, images, or text.

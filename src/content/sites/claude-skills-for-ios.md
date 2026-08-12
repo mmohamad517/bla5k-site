@@ -12,10 +12,8 @@ tagline: "Claude Skills for iOS: 161+ Free AI Skills for Apple Developers | 2026
 featured: true
 affiliate: false
 updated: 2026-07-31
-metaTitle: "Claude Skills for iOS: 161+ Free AI Skills for Apple Developers | 2026"
+metaTitle: "Claude Skills for iOS: 161+ Free AI Skills for Apple Developers"
 metaDescription: 161+ free Claude Code skills for iOS developers — build, test, and deploy apps with AI directly in Xcode. Complete guide with install steps and top skills.
-  Swift/SwiftUI apps with AI-powered skills, HIG compliance, and App Store
-  deployment. 161+ skills available.
 simple: "A free collection of ready-made \"skills\" that make an AI coding assistant much better at building iPhone and iPad apps — covering Apple's rules, Swift code, and App Store steps."
 example: "Building an iPhone app with an AI assistant? These skills teach it Apple's design guidelines and Swift best practices so its suggestions actually fit iOS."
 goodFor:
@@ -316,3 +314,5 @@ Claude Skills for iOS development represents a paradigm shift in how developers 
 Whether you're a beginner learning iOS development or a seasoned professional seeking efficiency gains, these skills provide the expertise, automation, and guidance needed to build exceptional iOS apps. The open-source, community-driven nature ensures continuous improvement and adaptation to the evolving iOS ecosystem Hacker News.
 Start exploring Claude Skills today and transform your iOS development workflow from concept to App Store success.
 Official resources: GitHub Repository and MCP Market Skills.
+
+*Official resource: [Claude Skills for iOS](https://github.com/rshankras/claude-code-apple-skills)*

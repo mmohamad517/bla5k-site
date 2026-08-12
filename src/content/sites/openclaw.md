@@ -18,7 +18,7 @@ tags:
 featured: true
 updated: 2026-08-01
 metaTitle: "OpenClaw: The Open-Source Personal AI Assistant (2026 Guide)"
-metaDescription: A complete guide to OpenClaw — the open-source, local-first personal AI assistant that runs on your devices and connects to WhatsApp, Telegram, iMessage, and 25+ channels.
+metaDescription: A complete guide to OpenClaw — the open-source, local-first personal AI assistant that runs on your devices and connects to WhatsApp, Telegram, iMessage, and...
 simple: "A free, open-source AI assistant that runs on your own devices and lives inside the messaging apps you already use. You chat with it on WhatsApp or Telegram, and it can check email, manage your calendar, and get things done."
 example: "Message your OpenClaw on Telegram to 'find a flight next Tuesday and put it in my calendar' — it searches, books, and updates your schedule while you chat."
 goodFor:

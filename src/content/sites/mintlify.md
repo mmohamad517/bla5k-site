@@ -122,6 +122,6 @@ Start by connecting an existing repository to see the generation quality, then c
 
 Mintlify makes **documentation a byproduct of code, not a project of its own** — AI-generated, always current, and genuinely beautiful by default. For developer teams, it removes one of the most hated and most important chores in software.
 
-For more developer tools, explore [LlamaIndex](/tools/llamaindex/), [CrewAI](/tools/crewai/), and our [Developer Tools directory](/category/developer/). If you need to understand an existing codebase before documenting it, Understand Anything turns code into interactive knowledge graphs.
+For more developer tools, explore [LlamaIndex](/tools/llamaindex/), [CrewAI](/tools/crewai/), and our [Developer Tools directory](/category/developer/).
 
 *Official resource: [Mintlify](https://mintlify.com/).*

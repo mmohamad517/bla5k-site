@@ -194,6 +194,4 @@ Understand Anything represents a significant leap forward in developer productiv
 
 The combination of open-source availability, no licensing costs, local deployment, and seamless IDE integration makes it an accessible tool for teams of any size.
 
-Once you understand a codebase with this tool, Mintlify can generate and maintain beautiful API documentation from the same code automatically.
-
 *Official resources: [Website](https://understand-anything.com) and [GitHub](https://github.com/Egonex-AI/Understand-Anything)*

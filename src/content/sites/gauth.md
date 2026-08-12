@@ -121,6 +121,4 @@ Gauth AI is the **fastest way past a stuck homework problem**: photograph it, ge
 
 For the rest of your study stack, explore [Knowt](/tools/knowt/) for flashcards, [NotebookLM](/tools/notebooklm/) for research, and our [Education directory](/category/learning/).
 
-For specialized study needs, Gizmo uses AI to create study sets, OpenEvidence AI focuses on medical and scientific evidence, Thea provides personalized AI tutoring, ThetaWave AI helps with focus and study productivity, and PTE APEUni is the go-to practice tool for PTE Academic exam preparation.
-
 *Official resource: [Gauth AI](https://www.gauthmath.com/).*

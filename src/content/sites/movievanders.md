@@ -2,7 +2,7 @@
 name: Movievanders
 url: "https://movievanders.com"
 image: /logos/movievanders.png
-screenshot: /screens/movievanders.webp
+# screenshot removed (file missing): /screens/movievanders.webp
 subcategory: ai-chat
 pricing: freemium
 tagline: World of Tanks is an online multiplayer tank combat game offering free and premium play.

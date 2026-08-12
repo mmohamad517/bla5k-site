@@ -2,7 +2,7 @@
 name: Oto Kata
 url: "https://otokata.com"
 image: /logos/oto-kata.png
-screenshot: /screens/oto-kata.webp
+# screenshot removed (file missing): /screens/oto-kata.webp
 subcategory: ai-writing
 pricing: freemium
 tagline: Otokata is a user-friendly blogging platform that simplifies content creation and management with customizable templates, effective categorization, and...

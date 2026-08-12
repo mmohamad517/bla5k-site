@@ -2,7 +2,7 @@
 name: Article Forge
 url: "https://www.articleforge.com/"
 image: /logos/article-forge.png
-screenshot: /screens/article-forge.webp
+# screenshot removed (file missing): /screens/article-forge.webp
 subcategory: ai-writing
 pricing: paid
 tagline: Article Forge automatically generates up to 1,500‑word articles from keyword prompts, producing SEO‑aligned sections and subheadings.
