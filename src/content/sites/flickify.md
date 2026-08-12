@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Flickify - AI Tool Review & Guide 2026
-metaDescription: Flickify converts URLs, scripts, or prompts into narrated videos.
+metaDescription: "Flickify converts URLs, scripts, or prompts into narrated videos. built for, what it costs, and how it compares to the competition."
 simple: Flickify converts URLs, scripts, or prompts into narrated videos.
 example: Give Flickify one real task — a prompt, a file, or a request — and it returns a usable result for your ai text-to-video workflow.
 goodFor:

@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Isaac Editor - AI Tool Review & Guide 2026
-metaDescription: Isaac Editor is an AI-powered tool for nan.
+metaDescription: "Isaac Editor is an AI-powered tool for nan. built tool to generic AI assistants."
 simple: Isaac Editor is an AI-powered tool for nan.
 example: Give Isaac Editor one real task — a prompt, a file, or a request — and it returns a usable result for your ai essay writer workflow.
 goodFor:

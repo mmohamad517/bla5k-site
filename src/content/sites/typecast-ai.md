@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Typecast AI - AI Tool Review & Guide 2026
-metaDescription: "Typecast: AI voice generator for content creation - Emotional TTS, Voice cloning &amp; extensive character library for efficient VSTB, Product marketing..."
+metaDescription: "Typecast: AI voice generator for content creation - Emotional TTS, Voice cloning &amp; extensive character library for efficient VSTB,"
 simple: "Typecast: AI voice generator for content creation - Emotional TTS, Voice cloning &amp; extensive character library for efficient VSTB, Product marketing &amp; Training videos."
 example: Give Typecast AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai text-to-speech workflow.
 goodFor:

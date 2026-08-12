@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: WhatDidYouHaveForDinner - AI Tool Review & Guide 2026
-metaDescription: What Did You Have For Dinner?
+metaDescription: "What Did You Have For Dinner? offers AI recipe editing, personalized meal suggestions, and community sharing for friends."
 simple: What Did You Have For Dinner?
 example: Give WhatDidYouHaveForDinner one real task — a prompt, a file, or a request — and it returns a usable result for your ai recipe generator workflow.
 goodFor:

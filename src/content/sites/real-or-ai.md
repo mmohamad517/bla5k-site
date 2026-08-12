@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Real Or AI - AI Tool Review & Guide 2026
-metaDescription: is a precision tool for detecting discrepancies between two images.
+metaDescription: "is a precision tool for detecting discrepancies between two images. built tool to generic AI assistants."
 simple: is a precision tool for detecting discrepancies between two images.
 example: Give Real Or AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai image analysis workflow.
 goodFor:

@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Census GPT - AI Tool Review & Guide 2026
-metaDescription: Census GPT lets users query U.S.
+metaDescription: "Census GPT lets users query U.S. supports basic and advanced queries for neighborhood metrics and city rankings, aiding analysts, policymakers,"
 simple: Census GPT lets users query U.S.
 example: Give Census GPT one real task — a prompt, a file, or a request — and it returns a usable result for your ai research workflow.
 goodFor:

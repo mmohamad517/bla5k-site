@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Okibi - AI Tool Review & Guide 2026
-metaDescription: Okibi is a natural language platform for creating custom AI agents.
+metaDescription: "Okibi is a natural language platform for creating custom AI agents."
 simple: "Okibi is a natural language platform for creating custom AI agents."
 example: "Give Okibi one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

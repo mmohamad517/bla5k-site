@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Eve Legal AI - AI Tool Review & Guide 2026
-metaDescription: "Eve Legal automates plaintiff-firm workflows: 24/7 AI intakes, case evaluation, medical chronologies, pre-litigation demand letters and complaints,..."
+metaDescription: "Eve Legal automates plaintiff-firm workflows: 24/7 AI intakes, case evaluation, medical chronologies,"
 simple: "Eve Legal automates plaintiff-firm workflows: 24/7 AI intakes, case evaluation, medical chronologies, pre-litigation demand letters and complaints, discovery drafting and responses, deposition/motion analysis, and nightly audits surfacing missed value drivers."
 example: Give Eve Legal AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai legal workflow.
 goodFor:

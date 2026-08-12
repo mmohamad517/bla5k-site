@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: MyPrint.ai - AI Tool Review & Guide 2026
-metaDescription: Upload at least ten photos to generate 100+ themed artworks per set.
+metaDescription: "Upload at least ten photos to generate 100+ themed artworks per set."
 simple: Upload at least ten photos to generate 100+ themed artworks per set.
 example: Give MyPrint.ai one real task — a prompt, a file, or a request — and it returns a usable result for your ai print design workflow.
 goodFor:

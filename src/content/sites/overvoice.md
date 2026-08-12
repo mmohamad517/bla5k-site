@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Overvoice - AI Tool Review & Guide 2026
-metaDescription: Overvoice transforms demo footage into narrated videos.
+metaDescription: "Overvoice transforms demo footage into narrated videos. Upload a clip, supply prompts; vision AI drafts copy‑writing‑aligned scripts."
 simple: Overvoice transforms demo footage into narrated videos.
 example: Give Overvoice one real task — a prompt, a file, or a request — and it returns a usable result for your ai audio generation workflow.
 goodFor:

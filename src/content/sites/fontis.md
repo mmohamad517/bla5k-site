@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Fontis - AI Tool Review & Guide 2026
-metaDescription: Fontis.ai turns AI-generated images into on‑demand physical prints.
+metaDescription: "Fontis.ai turns AI-generated images into on‑demand physical prints."
 simple: Fontis.ai turns AI-generated images into on‑demand physical prints.
 example: Give Fontis one real task — a prompt, a file, or a request — and it returns a usable result for your ai print design workflow.
 goodFor:

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: DoubleO.AI - AI Tool Review & Guide 2026
-metaDescription: Build your own AI agent to automate tasks and projects.
+metaDescription: "Build your own AI agent to automate tasks and projects."
 simple: "Build your own AI agent to automate tasks and projects."
 example: "Give DoubleO.AI one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it."
 goodFor:

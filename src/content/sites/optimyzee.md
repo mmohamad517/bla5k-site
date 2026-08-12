@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Optimyzee - AI Tool Review & Guide 2026
-metaDescription: "Optimyzee automates Google Search campaign setup and optimization: it builds structures, generates keyword and negative keyword lists, writes responsive ad..."
+metaDescription: "Optimyzee automates Google Search campaign setup and optimization: it builds structures, generates keyword and negative keyword lists,"
 simple: "Optimyzee automates Google Search campaign setup and optimization: it builds structures, generates keyword and negative keyword lists, writes responsive ad copy, validates assets, and tracks CTR, CPC, CVR, and Quality Score to guide adjustments, cutting effort and boosting performance."
 example: Give Optimyzee one real task — a prompt, a file, or a request — and it returns a usable result for your ai advertising workflow.
 goodFor:

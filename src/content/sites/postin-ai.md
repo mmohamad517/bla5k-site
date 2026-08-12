@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Postin.ai - AI Tool Review & Guide 2026
-metaDescription: Postin is an AI tool for creating optimized LinkedIn content quickly.
+metaDescription: "Postin is an AI tool for creating optimized LinkedIn content quickly."
 simple: Postin is an AI tool for creating optimized LinkedIn content quickly.
 example: Give Postin.ai one real task — a prompt, a file, or a request — and it returns a usable result for your ai social media management workflow.
 goodFor:

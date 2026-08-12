@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: AI App Icon Generator - AI Tool Review & Guide 2026
-metaDescription: AI App Icon Generator turns text prompts into high‑quality app icons.
+metaDescription: "AI App Icon Generator turns text prompts into high‑quality app icons."
 simple: AI App Icon Generator turns text prompts into high‑quality app icons.
 example: Give AI App Icon Generator one real task — a prompt, a file, or a request — and it returns a usable result for your ai icon generation workflow.
 goodFor:

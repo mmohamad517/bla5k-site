@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: StudyforCitizenship - AI Tool Review & Guide 2026
-metaDescription: AI‑driven tool offers the full set of 100 U.S.
+metaDescription: "AI‑driven study tool covering the full set of 100 official U.S. civics questions, with practice tests and progress tracking for citizenship exams."
 simple: AI‑driven tool offers the full set of 100 U.S.
 example: Give StudyforCitizenship one real task — a prompt, a file, or a request — and it returns a usable result for your ai quiz generator workflow.
 goodFor:

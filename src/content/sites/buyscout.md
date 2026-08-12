@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: BuyScout - AI Tool Review & Guide 2026
-metaDescription: "BuyScout® Shopping Assistant is a Chrome extension offering AI‑driven product insights: aggregated review summaries, specification Q&amp;A, side‑by‑side..."
+metaDescription: "BuyScout® Shopping Assistant is a Chrome extension offering AI‑driven product insights: aggregated review summaries, specification Q&amp;A,"
 simple: "BuyScout® Shopping Assistant is a Chrome extension offering AI‑driven product insights: aggregated review summaries, specification Q&amp;A, side‑by‑side comparisons, price tracking, restock alerts, and cross‑store browsing for Amazon, Walmart, Best Buy, Target, available desktop/mobile."
 example: Give BuyScout one real task — a prompt, a file, or a request — and it returns a usable result for your ai e-commerce workflow.
 goodFor:

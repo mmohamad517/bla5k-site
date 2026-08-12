@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Iconify - AI Tool Review & Guide 2026
-metaDescription: IconifyAI is an AI tool for quickly creating custom app icons.
+metaDescription: "IconifyAI is an AI tool for quickly creating custom app icons."
 simple: IconifyAI is an AI tool for quickly creating custom app icons.
 example: Give Iconify one real task — a prompt, a file, or a request — and it returns a usable result for your ai icon generation workflow.
 goodFor:

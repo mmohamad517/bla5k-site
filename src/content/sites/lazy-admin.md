@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Lazy Admin - AI Tool Review & Guide 2026
-metaDescription: Lazy Admin is an efficient Salesforce reporting tool for users.
+metaDescription: "Lazy Admin is an efficient Salesforce reporting tool for users."
 simple: Lazy Admin is an efficient Salesforce reporting tool for users.
 example: Give Lazy Admin one real task — a prompt, a file, or a request — and it returns a usable result for your ai report generation workflow.
 goodFor:

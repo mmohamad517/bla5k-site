@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Wiz Write - AI Tool Review & Guide 2026
-metaDescription: On‑device voice transcription keeps recordings private.
+metaDescription: "On‑device voice transcription keeps recordings private. A global hotkey captures spoken text across apps, auto‑formatting it for use."
 simple: On‑device voice transcription keeps recordings private.
 example: Give Wiz Write one real task — a prompt, a file, or a request — and it returns a usable result for your ai speech-to-text workflow.
 goodFor:

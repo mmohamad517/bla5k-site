@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: AutoAE - AI Tool Review & Guide 2026
-metaDescription: AutoAE transforms scripts or ideas into motion graphics using AI.
+metaDescription: "AutoAE transforms scripts or ideas into motion graphics using AI. built for, what it costs, and how it compares to the competition."
 simple: AutoAE transforms scripts or ideas into motion graphics using AI.
 example: Give AutoAE one real task — a prompt, a file, or a request — and it returns a usable result for your ai video generation workflow.
 goodFor:

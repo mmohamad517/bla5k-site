@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: LiveSunday - AI Tool Review & Guide 2026
-metaDescription: LiveSunday is a live AI captioning and translation tool for events.
+metaDescription: "LiveSunday is a live AI captioning and translation tool for events. built for AI transcriber, not generic chat."
 simple: LiveSunday is a live AI captioning and translation tool for events.
 example: Give LiveSunday one real task — a prompt, a file, or a request — and it returns a usable result for your ai transcriber workflow.
 goodFor:

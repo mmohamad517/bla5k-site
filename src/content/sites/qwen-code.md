@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Qwen Code - AI Tool Review & Guide 2026
-metaDescription: Qwen-Code is an AI-driven coding assistant designed for developers.
+metaDescription: "Qwen-Code is an AI-driven coding assistant designed for developers."
 simple: Qwen-Code is an AI-driven coding assistant designed for developers.
 example: Give Qwen Code one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: DoodleTale - AI Children Creativity App (2026)
-metaDescription: DoodleTale is an AI tool that turns children’s drawings into stories.
+metaDescription: "DoodleTale is an AI tool that turns children’s drawings into stories."
 simple: DoodleTale is an AI tool that turns children’s drawings into stories.
 example: Give DoodleTale - AI Children Creativity App one real task — a prompt, a file, or a request — and it returns a usable result for your ai parenting assistants workflow.
 goodFor:

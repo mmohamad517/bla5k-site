@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: YTSummary - AI Tool Review & Guide 2026
-metaDescription: YTSummary delivers on‑demand YouTube summaries powered by ChatGPT.
+metaDescription: "YTSummary delivers on‑demand YouTube summaries powered by ChatGPT. built for, what it costs, and how it compares to the competition."
 simple: YTSummary delivers on‑demand YouTube summaries powered by ChatGPT.
 example: Give YTSummary one real task — a prompt, a file, or a request — and it returns a usable result for your ai summarizer workflow.
 goodFor:

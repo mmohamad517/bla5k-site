@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: ChesswithAI - AI Tool Review & Guide 2026
-metaDescription: ChesswithAI is an AI-powered tool for nan.
+metaDescription: "ChesswithAI is an AI-powered tool for nan. AI-powered online chess platform with chatbot"
 simple: ChesswithAI is an AI-powered tool for nan.
 example: Give ChesswithAI one real task — a prompt, a file, or a request — and it returns a usable result for your ai fun workflow.
 goodFor:

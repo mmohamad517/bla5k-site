@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Cloozo - AI Tool Review & Guide 2026
-metaDescription: Cloozo simplifies ChatGPT chatbot creation for websites.
+metaDescription: "Cloozo simplifies ChatGPT chatbot creation for websites."
 simple: Cloozo simplifies ChatGPT chatbot creation for websites.
 example: Give Cloozo one real task — a prompt, a file, or a request — and it returns a usable result for your ai management workflow.
 goodFor:

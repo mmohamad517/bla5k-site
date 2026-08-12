@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: AI Badge - AI Tool Review & Guide 2026
-metaDescription: AI Badge is a free icon marking AI‑generated images.
+metaDescription: "AI Badge is a free icon marking AI‑generated images."
 simple: AI Badge is a free icon marking AI‑generated images.
 example: Give AI Badge one real task — a prompt, a file, or a request — and it returns a usable result for your ai image annotation workflow.
 goodFor:

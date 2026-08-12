@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Geeksight - AI Tool Review & Guide 2026
-metaDescription: AI‑powered notes integrated into Trello, eliminating external tools.
+metaDescription: "AI‑powered notes integrated into Trello, eliminating external tools. Built‑in ChatGPT creates context, summaries, and drafts."
 simple: AI‑powered notes integrated into Trello, eliminating external tools.
 example: Give Geeksight one real task — a prompt, a file, or a request — and it returns a usable result for your ai team collaboration workflow.
 goodFor:

@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Eto news - AI Tool Review & Guide 2026
-metaDescription: News aggregator for politics, international news, and technology.
+metaDescription: "News aggregator for politics, international news, and technology."
 simple: News aggregator for politics, international news, and technology.
 example: Give Eto news one real task — a prompt, a file, or a request — and it returns a usable result for your ai news workflow.
 goodFor:

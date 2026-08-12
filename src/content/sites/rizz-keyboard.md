@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Rizz! Keyboard - AI Tool Review & Guide 2026
-metaDescription: Keyboard is an AI-powered tool for nan.
+metaDescription: "Rizz! Keyboard is an AI-powered tool for nan. Brings GPT text generation to iPhone keyboard"
 simple: Keyboard is an AI-powered tool for nan.
 example: Give Rizz! Keyboard one real task — a prompt, a file, or a request — and it returns a usable result for your ai productivity workflow.
 goodFor:

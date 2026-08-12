@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Simbly - AI Tool Review & Guide 2026
-metaDescription: Generate a 25‑page, bank‑compliant business plan in seconds.
+metaDescription: "Generate a 25‑page, bank‑compliant business plan in seconds."
 simple: Generate a 25‑page, bank‑compliant business plan in seconds.
 example: Give Simbly one real task — a prompt, a file, or a request — and it returns a usable result for your ai planning workflow.
 goodFor:

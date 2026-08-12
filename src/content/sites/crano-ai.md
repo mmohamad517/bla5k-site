@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Crano AI - AI Tool Review & Guide 2026
-metaDescription: Crano AI is an AI tool for generating high-quality videos and images.
+metaDescription: "Crano AI is an AI tool for generating high-quality videos and images. built for, what it costs, and how it compares to the competition."
 simple: Crano AI is an AI tool for generating high-quality videos and images.
 example: Give Crano AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai art generation workflow.
 goodFor:

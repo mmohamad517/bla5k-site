@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: NewsForYou - AI Tool Review & Guide 2026
-metaDescription: NewsForYou is an AI-curated daily news digest for a five-minute read.
+metaDescription: "NewsForYou is an AI-curated daily news digest for a five-minute read."
 simple: NewsForYou is an AI-curated daily news digest for a five-minute read.
 example: Give NewsForYou one real task — a prompt, a file, or a request — and it returns a usable result for your ai news workflow.
 goodFor:

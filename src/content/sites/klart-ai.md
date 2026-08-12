@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Klart AI - AI Tool Review & Guide 2026
-metaDescription: "AI Mail Assistant is a Gmail add‑on that uses GPT‑4o to automate email tasks: it generates concise replies, summarizes long messages, translates 13..."
+metaDescription: "AI Mail Assistant is a Gmail add‑on that uses GPT‑4o to automate email tasks: it generates concise replies, summarizes long messages,"
 simple: "AI Mail Assistant is a Gmail add‑on that uses GPT‑4o to automate email tasks: it generates concise replies, summarizes long messages, translates 13 languages, provides grammar checks, auto‑labels and archives emails, and flags tone issues."
 example: Give Klart AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai email workflow.
 goodFor:

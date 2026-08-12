@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: fatGPT - AI Tool Review & Guide 2026
-metaDescription: "Body AI: Calorie Tracker is an AI-driven app that streamlines meal logging, offers personalized meal suggestions, analyzes recipes for nutritional..."
+metaDescription: "Body AI: Calorie Tracker is an AI-driven app that streamlines meal logging, offers personalized meal suggestions,"
 simple: "Body AI: Calorie Tracker is an AI-driven app that streamlines meal logging, offers personalized meal suggestions, analyzes recipes for nutritional breakdowns, and tracks progress on calorie intake and weight trends to support weight management and healthy living."
 example: Give fatGPT one real task — a prompt, a file, or a request — and it returns a usable result for your ai nutrition assistants workflow.
 goodFor:

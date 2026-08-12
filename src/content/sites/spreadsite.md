@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Spreadsite - AI Tool Review & Guide 2026
-metaDescription: DashGPT turns spreadsheets into interactive dashboards without code.
+metaDescription: "DashGPT turns spreadsheets into interactive dashboards without code."
 simple: DashGPT turns spreadsheets into interactive dashboards without code.
 example: Give Spreadsite one real task — a prompt, a file, or a request — and it returns a usable result for your ai spreadsheets workflow.
 goodFor:

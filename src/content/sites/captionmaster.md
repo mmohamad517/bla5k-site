@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: CaptionMaster - AI Tool Review & Guide 2026
-metaDescription: Generate one‑click captions for photos in any language.
+metaDescription: "Generate one‑click captions for photos in any language."
 simple: Generate one‑click captions for photos in any language.
 example: Give CaptionMaster one real task — a prompt, a file, or a request — and it returns a usable result for your ai image analysis workflow.
 goodFor:

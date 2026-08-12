@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: RecruitCRM - AI Tool Review & Guide 2026
-metaDescription: Recruit CRM is an AI‑powered ATS and CRM for recruiters.
+metaDescription: "Recruit CRM is an AI‑powered ATS and CRM for recruiters."
 simple: Recruit CRM is an AI‑powered ATS and CRM for recruiters.
 example: Give RecruitCRM one real task — a prompt, a file, or a request — and it returns a usable result for your ai research workflow.
 goodFor:

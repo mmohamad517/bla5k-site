@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: Droxy - AI Tool Review & Guide 2026
-metaDescription: Droxy AI is a no-code chatbot builder.
+metaDescription: "Droxy AI is a no-code chatbot builder. Upload content from various sources to create a chatbot's knowledge base."
 simple: Droxy AI is a no-code chatbot builder.
 example: Give Droxy one real task — a prompt, a file, or a request — and it returns a usable result for your no-code building workflow.
 goodFor:

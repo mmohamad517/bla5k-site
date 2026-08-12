@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Chromatic Lens - AI Tool Review & Guide 2026
-metaDescription: Chromatic Lens is an AI tool for enhancing product photography.
+metaDescription: "Chromatic Lens is an AI tool for enhancing product photography."
 simple: Chromatic Lens is an AI tool for enhancing product photography.
 example: Give Chromatic Lens one real task — a prompt, a file, or a request — and it returns a usable result for your ai product image workflow.
 goodFor:

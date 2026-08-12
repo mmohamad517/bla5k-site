@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Surface Labs - AI Tool Review & Guide 2026
-metaDescription: "Surface Labs automates lead operations: multi‑step forms capture more data, AI filters spam and scores leads in real time, routing qualified prospects to..."
+metaDescription: "Surface Labs automates lead operations: multi‑step forms capture more data, AI filters spam and scores leads in real time,"
 simple: "Surface Labs automates lead operations: multi‑step forms capture more data, AI filters spam and scores leads in real time, routing qualified prospects to reps’ calendars."
 example: Give Surface Labs one real task — a prompt, a file, or a request — and it returns a usable result for your ai human resources workflow.
 goodFor:

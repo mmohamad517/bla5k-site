@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: LitGrades - AI Tool Review & Guide 2026
-metaDescription: LitGrades uses AI to produce personalized study aids instantly.
+metaDescription: "LitGrades uses AI to produce personalized study aids instantly. built for, what it costs, and how it compares to the competition."
 simple: LitGrades uses AI to produce personalized study aids instantly.
 example: Give LitGrades one real task — a prompt, a file, or a request — and it returns a usable result for your ai education workflow.
 goodFor:

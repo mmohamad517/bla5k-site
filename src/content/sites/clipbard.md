@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Clipbard - AI Tool Review & Guide 2026
-metaDescription: Clipbard is an AI tool for creating and sharing visual content.
+metaDescription: "Clipbard is an AI tool for creating and sharing visual content."
 simple: Clipbard is an AI tool for creating and sharing visual content.
 example: Give Clipbard one real task — a prompt, a file, or a request — and it returns a usable result for your ai video generation workflow.
 goodFor:

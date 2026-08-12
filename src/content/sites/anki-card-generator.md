@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Anki Card Generator - AI Tool Review & Guide 2026
-metaDescription: Anki Card Generator simplifies card creation with AI technology.
+metaDescription: "Anki Card Generator simplifies card creation with AI technology. built tool rather than patching together generic AI assistants."
 simple: Anki Card Generator simplifies card creation with AI technology.
 example: Give Anki Card Generator one real task — a prompt, a file, or a request — and it returns a usable result for your ai writing assistant workflow.
 goodFor:

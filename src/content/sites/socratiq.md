@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: SocratiQ - AI Tool Review & Guide 2026
-metaDescription: Socratiq is an AI tool utilizing NLP for in-depth sentiment analysis.
+metaDescription: "Socratiq is an AI tool utilizing NLP for in-depth sentiment analysis. built tool to generic AI assistants."
 simple: Socratiq is an AI tool utilizing NLP for in-depth sentiment analysis.
 example: Give SocratiQ one real task — a prompt, a file, or a request — and it returns a usable result for your ai sentiment analysis workflow.
 goodFor:

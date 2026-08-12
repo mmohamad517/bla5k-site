@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: local.ai - AI Tool Review & Guide 2026
-metaDescription: local.ai runs language models locally without GPUs.
+metaDescription: "local.ai runs language models locally without GPUs. built for, what it costs, and how it compares to the competition."
 simple: local.ai runs language models locally without GPUs.
 example: Give local.ai one real task — a prompt, a file, or a request — and it returns a usable result for your ai infrastructure tools workflow.
 goodFor:

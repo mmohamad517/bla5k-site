@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Read Easy.ai - AI Tool Review & Guide 2026
-metaDescription: Read Easy.ai transforms complex text into readable content for users.
+metaDescription: "Read Easy.ai transforms complex text into readable content for users. built for AI grammar checker rather than generic chat Read Easy."
 simple: Read Easy.ai transforms complex text into readable content for users.
 example: Give Read Easy.ai one real task — a prompt, a file, or a request — and it returns a usable result for your ai grammar checker workflow.
 goodFor:

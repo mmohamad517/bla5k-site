@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: We Are Engineer - AI Tool Review & Guide 2026
-metaDescription: "We Are Engineer offers a comprehensive platform: structured courses and projects, AI‑assisted certification, a talent portal linking engineers to employers,..."
+metaDescription: "We Are Engineer offers a comprehensive platform: structured courses and projects, AI‑assisted certification,"
 simple: "We Are Engineer offers a comprehensive platform: structured courses and projects, AI‑assisted certification, a talent portal linking engineers to employers, a hardware store, collaborative networking, and real‑world challenge projects, supporting skill growth and career advancement."
 example: Give We Are Engineer one real task — a prompt, a file, or a request — and it returns a usable result for your ai education workflow.
 goodFor:

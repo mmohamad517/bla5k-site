@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: plai.team - AI Tool Review & Guide 2026
-metaDescription: "Peoplelogic centralizes performance and PeopleOps: AI-guided OKRs, real-time progress dashboards, aligned visual trees, structured 1:1s and reviews with AI..."
+metaDescription: "Peoplelogic centralizes performance and PeopleOps: AI-guided OKRs, real-time progress dashboards, aligned visual trees,"
 simple: "Peoplelogic centralizes performance and PeopleOps: AI-guided OKRs, real-time progress dashboards, aligned visual trees, structured 1:1s and reviews with AI copilot for agendas, sentiment analysis, meeting summaries, integrated feedback, analytics, and Slack alerts."
 example: Give plai.team one real task — a prompt, a file, or a request — and it returns a usable result for your ai human resources workflow.
 goodFor:

@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Autoblocks 2.0 - AI Tool Review & Guide 2026
-metaDescription: "Seeko offers full‑cycle AI integration for mid‑market teams: an audit identifies high‑leverage automation, a sprint‑based program delivers production‑ready..."
+metaDescription: "Seeko offers full‑cycle AI integration for mid‑market teams: an audit identifies high‑leverage automation,"
 simple: "Seeko offers full‑cycle AI integration for mid‑market teams: an audit identifies high‑leverage automation, a sprint‑based program delivers production‑ready AI on the Clutch platform, and managed operations ensure ongoing optimization and compliance."
 example: Give Autoblocks 2.0 one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it.
 goodFor:

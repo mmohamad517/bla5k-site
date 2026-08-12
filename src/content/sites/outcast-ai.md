@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Outcast AI - AI Tool Review & Guide 2026
-metaDescription: "Outcast converts audio and video into repurposed content: studio-grade transcripts with speaker labels, clip editor for short-form social clips and..."
+metaDescription: "Outcast converts audio and video into repurposed content: studio-grade transcripts with speaker labels,"
 simple: "Outcast converts audio and video into repurposed content: studio-grade transcripts with speaker labels, clip editor for short-form social clips and audiograms, AI-driven episode blogs and show notes, searchable episode chatbot, team collaboration, 17-language transcription."
 example: Give Outcast AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai transcriber workflow.
 goodFor:

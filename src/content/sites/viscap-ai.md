@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: VisCap.ai - AI Tool Review & Guide 2026
-metaDescription: "VisCap.ai automates video ad production: generates scripts, storyboards, and final videos, stores assets in a shared library, tracks project progress,..."
+metaDescription: "VisCap.ai automates video ad production: generates scripts, storyboards, and final videos, stores assets in a shared library,"
 simple: "VisCap.ai automates video ad production: generates scripts, storyboards, and final videos, stores assets in a shared library, tracks project progress, facilitates team collaboration, and manages talent through an Actor Hub, enabling efficient, scalable campaigns."
 example: Give VisCap.ai one real task — a prompt, a file, or a request — and it returns a usable result for your ai video generation workflow.
 goodFor:

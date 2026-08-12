@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Tube Memo - AI Tool Review & Guide 2026
-metaDescription: "TubeMemo: AI browser extension that extracts YouTube transcripts, highlights key points, produces summaries, mind maps, flashcards; supports annotations,..."
+metaDescription: "TubeMemo: AI browser extension that extracts YouTube transcripts, highlights key points, produces summaries, mind maps,"
 simple: "TubeMemo: AI browser extension that extracts YouTube transcripts, highlights key points, produces summaries, mind maps, flashcards; supports annotations, multi‑language, library, drafts for blogs, tweets, study guides; useful for professionals, students, creators, educators, journalists."
 example: Give Tube Memo one real task — a prompt, a file, or a request — and it returns a usable result for your ai note taking workflow.
 goodFor:

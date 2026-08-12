@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Studio Neiro AI - AI Tool Review & Guide 2026
-metaDescription: AI Video Maker turns written text into ready‑to‑share videos.
+metaDescription: "AI Video Maker turns written text into ready‑to‑share videos."
 simple: AI Video Maker turns written text into ready‑to‑share videos.
 example: Give Studio Neiro AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai text-to-video workflow.
 goodFor:

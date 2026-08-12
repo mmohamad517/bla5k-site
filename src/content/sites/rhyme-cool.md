@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: rhyme.cool - AI Tool Review & Guide 2026
-metaDescription: Rhyme.cool is an AI-powered tool simplifying rap song lyric creation.
+metaDescription: "Rhyme.cool is an AI-powered tool simplifying rap song lyric creation."
 simple: Rhyme.cool is an AI-powered tool simplifying rap song lyric creation.
 example: Give rhyme.cool one real task — a prompt, a file, or a request — and it returns a usable result for your ai content writing workflow.
 goodFor:

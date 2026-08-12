@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: TypeAI - AI Tool Review & Guide 2026
-metaDescription: Write with AI in any app using the latest deep learning models.
+metaDescription: "Write with AI in any app using the latest deep learning models."
 simple: Write with AI in any app using the latest deep learning models.
 example: Give TypeAI one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

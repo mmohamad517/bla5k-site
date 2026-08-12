@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Narrated Guide - AI Tool Review & Guide 2026
-metaDescription: Narrated Guide delivers self‑guided audio tours for cities worldwide.
+metaDescription: "Narrated Guide delivers self‑guided audio tours for cities worldwide. supports sustainable tourism."
 simple: Narrated Guide delivers self‑guided audio tours for cities worldwide.
 example: Give Narrated Guide one real task — a prompt, a file, or a request — and it returns a usable result for your ai travel workflow.
 goodFor:

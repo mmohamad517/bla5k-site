@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Mailberry - AI Tool Review & Guide 2026
-metaDescription: "Mailberry: AI‑native email marketing platform that links to e‑commerce stores, automatically creating strategies, subject lines, send times, and..."
+metaDescription: "Mailberry: AI‑native email marketing platform that links to e‑commerce stores, automatically creating strategies, subject lines, send times,"
 simple: "Mailberry: AI‑native email marketing platform that links to e‑commerce stores, automatically creating strategies, subject lines, send times, and personalized flows."
 example: Give Mailberry one real task — a prompt, a file, or a request — and it returns a usable result for your ai email workflow.
 goodFor:

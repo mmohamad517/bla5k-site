@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Ogrovision - AI Tool Review & Guide 2026
-metaDescription: "AI Garden Design by Ogrovision generates multiple backyard and landscape visualizations from user photos: select an area, describe layout, then receive..."
+metaDescription: "AI Garden Design by Ogrovision generates multiple backyard and landscape visualizations from user photos: select an area, describe layout,"
 simple: "AI Garden Design by Ogrovision generates multiple backyard and landscape visualizations from user photos: select an area, describe layout, then receive design images, plant identification with care recommendations, and exportable implementation-ready planting plans."
 example: Give Ogrovision one real task — a prompt, a file, or a request — and it returns a usable result for your ai landscape design workflow.
 goodFor:

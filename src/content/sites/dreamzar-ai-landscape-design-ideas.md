@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: DreamzAR AI Landscape Design - AI Tool Review & Guide 2026
-metaDescription: DreamzAR transforms a yard photo into a custom landscape in seconds.
+metaDescription: "DreamzAR transforms a yard photo into a custom landscape in seconds."
 simple: DreamzAR transforms a yard photo into a custom landscape in seconds.
 example: Give DreamzAR AI Landscape Design one real task — a prompt, a file, or a request — and it returns a usable result for your ai landscape design workflow.
 goodFor:

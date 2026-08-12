@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Mulan pro - AI Tool Review & Guide 2026
-metaDescription: "Mulan automates AI-driven media production: short video generation, single-click commercial rendering, storyboard automation, consistent shot/style..."
+metaDescription: "Mulan automates AI-driven media production: short video generation, single-click commercial rendering, storyboard automation,"
 simple: "Mulan automates AI-driven media production: short video generation, single-click commercial rendering, storyboard automation, consistent shot/style replication, character replacement and virtual try-on, plus logo-to-poster and character-to-sticker exports for e‑commerce and marketing assets."
 example: Give Mulan pro one real task — a prompt, a file, or a request — and it returns a usable result for your ai video generation workflow.
 goodFor:

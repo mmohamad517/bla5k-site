@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: SorSor - AI Tool Review & Guide 2026
-metaDescription: Learnity is an AI‑driven educational assistant for math and science.
+metaDescription: "Learnity is an AI‑driven educational assistant for math and science. built for, what it costs, and how it compares to the competition."
 simple: Learnity is an AI‑driven educational assistant for math and science.
 example: Give SorSor one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

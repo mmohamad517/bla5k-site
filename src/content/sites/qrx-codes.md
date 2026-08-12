@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: QRX Codes - AI Tool Review & Guide 2026
-metaDescription: QRX automatically converts URLs into artistic QR codes.
+metaDescription: "QRX automatically converts URLs into artistic QR codes. built for, what it costs, and how it compares to the competition."
 simple: QRX automatically converts URLs into artistic QR codes.
 example: Give QRX Codes one real task — a prompt, a file, or a request — and it returns a usable result for your ai qr code generation workflow.
 goodFor:

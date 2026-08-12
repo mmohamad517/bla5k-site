@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Elyspr - AI Tool Review & Guide 2026
-metaDescription: "Elyspr provides AI-enabled business digitalization for events, hospitality, retail, tailoring, and salons: automated ticketing and QR check-in, GPS..."
+metaDescription: "Elyspr provides AI-enabled business digitalization for events, hospitality, retail, tailoring, and salons: automated ticketing and QR check-in,"
 simple: "Elyspr provides AI-enabled business digitalization for events, hospitality, retail, tailoring, and salons: automated ticketing and QR check-in, GPS attendance and shift tracking, WhatsApp chatbots, QR ordering, inventory barcode tracking, appointments, and centralized analytics."
 example: Give Elyspr one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it.
 goodFor:

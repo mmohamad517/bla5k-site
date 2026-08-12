@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Dinnerfy - AI Tool Review & Guide 2026
-metaDescription: "Dinnerfy is a web‑based meal planner that simplifies dinner prep in three steps: swipe to build a feed, generate an editable grocery list linked to..."
+metaDescription: "Dinnerfy is a web‑based meal planner that simplifies dinner prep in three steps: swipe to build a feed,"
 simple: "Dinnerfy is a web‑based meal planner that simplifies dinner prep in three steps: swipe to build a feed, generate an editable grocery list linked to Instacart, and organize menus via list or calendar view while sharing recipes in a RecipeBox."
 example: Give Dinnerfy one real task — a prompt, a file, or a request — and it returns a usable result for your ai recipe generator workflow.
 goodFor:

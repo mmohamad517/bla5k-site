@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Fundeze.io - AI Tool Review & Guide 2026
-metaDescription: FundEze uses AI scoring to pair startups with matching investors.
+metaDescription: "FundEze uses AI scoring to pair startups with matching investors. built for AI investment rather than generic chat Fundeze."
 simple: FundEze uses AI scoring to pair startups with matching investors.
 example: Give Fundeze.io one real task — a prompt, a file, or a request — and it returns a usable result for your ai investment workflow.
 goodFor:

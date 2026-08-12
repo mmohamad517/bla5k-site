@@ -4,7 +4,7 @@ url: "https://resize.aiai.com/resize-video"
 # No image/screenshot — batch published without images (requested).
 subcategory: ai-video-audio
 pricing: freemium
-tagline: "AI TikTok Video Resizer converts horizontal and square footage to native 9:16 vertical format using AI framing to auto-crop and reframe while preserving..."
+tagline: "AI TikTok Video Resizer converts horizontal and square footage to native 9:16 vertical format using AI framing to auto-crop and reframe while preserving faces and key subjects."
 tags:
   - Video Editing
   - AI
@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Resize Video - AIAI - AI Tool Review & Guide 2026
-metaDescription: "AI TikTok Video Resizer converts horizontal and square footage to native 9:16 vertical format using AI framing to auto-crop and reframe while preserving..."
+metaDescription: "AI TikTok Video Resizer converts horizontal and square footage to native 9:16 vertical format, using AI framing to auto-crop and reframe while preserving key subjects."
 simple: "AI TikTok Video Resizer converts horizontal and square footage to native 9:16 vertical format using AI framing to auto-crop and reframe while preserving faces and key subjects."
 example: Give Resize Video - AIAI one real task — a prompt, a file, or a request — and it returns a usable result for your ai video editing workflow.
 goodFor:

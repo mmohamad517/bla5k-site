@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: UniFab AI - AI Tool Review & Guide 2026
-metaDescription: "UniFab AI enhances video and audio with AI: upscales to 16K 120fps, denoises, colorizes black‑and‑white, sharpens faces, converts formats, upmixes to..."
+metaDescription: "UniFab AI enhances video and audio with AI: upscales to 16K 120fps, denoises, colorizes black‑and‑white, sharpens faces, converts formats,"
 simple: "UniFab AI enhances video and audio with AI: upscales to 16K 120fps, denoises, colorizes black‑and‑white, sharpens faces, converts formats, upmixes to surround sound, removes vocals, and supports batch GPU‑accelerated processing for creators and archivists."
 example: Give UniFab AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai video editing workflow.
 goodFor:

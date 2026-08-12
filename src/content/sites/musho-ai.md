@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Musho.ai - AI Tool Review & Guide 2026
-metaDescription: Musho, an AI design assistant integrated within Figma.
+metaDescription: "Musho, an AI design assistant integrated within Figma. built for, what it costs, and how it compares to the competition."
 simple: Musho, an AI design assistant integrated within Figma.
 example: Give Musho.ai one real task — a prompt, a file, or a request — and it returns a usable result for your ai ui generation workflow.
 goodFor:

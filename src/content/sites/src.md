@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-09
 metaTitle: SRC - AI Tool Review & Guide 2026
-metaDescription: Shared Recruiting Co.
+metaDescription: "Shared Recruiting Co. is an open‑source platform that streamlines candidate‑company communication, offering opt‑in messaging, inbox control,"
 simple: Shared Recruiting Co.
 example: Give SRC one real task — a prompt, a file, or a request — and it returns a usable result for your ai research workflow.
 goodFor:

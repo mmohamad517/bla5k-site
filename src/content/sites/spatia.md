@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: spatia - AI Tool Review & Guide 2026
-metaDescription: Spatia is an AI-powered tool for sales and design businesses.
+metaDescription: "Spatia is an AI-powered tool for sales and design businesses."
 simple: Spatia is an AI-powered tool for sales and design businesses.
 example: Give spatia one real task — a prompt, a file, or a request — and it returns a usable result for your ai interior design workflow.
 goodFor:

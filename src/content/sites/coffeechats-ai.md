@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: CoffeeChats.ai - AI Tool Review & Guide 2026
-metaDescription: "CoffeeChats.ai is a smart AI matching platform that automates recurring 1:1 coffee chats and introductions by pairing members based on goals, skills, and..."
+metaDescription: "CoffeeChats.ai is a smart AI matching platform that automates recurring 1:1 coffee chats and introductions by pairing members based on goals, skills,"
 simple: "CoffeeChats.ai is a smart AI matching platform that automates recurring 1:1 coffee chats and introductions by pairing members based on goals, skills, and interests."
 example: Give CoffeeChats.ai one real task — a prompt, a file, or a request — and it returns a usable result for your ai team collaboration workflow.
 goodFor:

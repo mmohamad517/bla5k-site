@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Sobrief.com - AI Tool Review & Guide 2026
-metaDescription: SoBrief provides 26,000+ book summaries in audio, PDF, and EPUB.
+metaDescription: "SoBrief provides 26,000+ book summaries in audio, PDF, and EPUB. provides 26,000+ , PDF, and EPUB."
 simple: SoBrief provides 26,000+ book summaries in audio, PDF, and EPUB.
 example: Give Sobrief.com one real task — a prompt, a file, or a request — and it returns a usable result for your ai resources workflow.
 goodFor:

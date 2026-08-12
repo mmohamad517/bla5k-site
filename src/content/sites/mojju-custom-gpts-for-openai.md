@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Mojju - 100+ custom GPTs for OpenAI - AI Tool Review & Guide 2026
-metaDescription: Discover a wide range of AI tools provided by Mojju custom GPTs.
+metaDescription: "Discover a wide range of AI tools provided by Mojju custom GPTs. A variety of custom GPTs helping with different business and productivity workflows."
 simple: Discover a wide range of AI tools provided by Mojju custom GPTs.
 example: Give Mojju - 100+ custom GPTs for OpenAI one real task — a prompt, a file, or a request — and it returns a usable result for your ai productivity workflow.
 goodFor:

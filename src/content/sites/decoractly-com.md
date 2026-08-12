@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Decoratly - AI Tool Review & Guide 2026
-metaDescription: Decoratly turns a room photo into design ideas.
+metaDescription: "Decoratly turns a room photo into design ideas."
 simple: Decoratly turns a room photo into design ideas.
 example: Give Decoratly one real task — a prompt, a file, or a request — and it returns a usable result for your ai interior design workflow.
 goodFor:

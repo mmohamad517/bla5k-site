@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-07
 metaTitle: Scout by Asseter.ai - AI 3D Tool Review & Guide 2026
-metaDescription: Discover Asseter.ai, an AI-powered srearch for CG artists.
+metaDescription: "Discover Asseter.ai, an AI-powered srearch for CG artists. features to easily find and assemble assets in 3D."
 simple: "Discover Asseter.ai, an AI-powered srearch for CG artists."
 example: "Give Scout by Asseter.ai your source material — a prompt, an image, or a model file — and it returns a usable 3D result for your workflow."
 goodFor:

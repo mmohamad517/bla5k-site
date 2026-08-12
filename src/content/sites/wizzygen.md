@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: WizzyGen - AI Tool Review & Guide 2026
-metaDescription: Wizzygen is an AI assistant that integrates with Notion.
+metaDescription: "Wizzygen is an AI assistant that integrates with Notion. built tool rather than patching together generic AI assistants."
 simple: Wizzygen is an AI assistant that integrates with Notion.
 example: Give WizzyGen one real task — a prompt, a file, or a request — and it returns a usable result for your ai writing assistant workflow.
 goodFor:

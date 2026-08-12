@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: TENNI - AI Tool Review & Guide 2026
-metaDescription: Tenni is an AI-driven tennis app uniting players globally.
+metaDescription: "Tenni is an AI-driven tennis app uniting players globally."
 simple: Tenni is an AI-driven tennis app uniting players globally.
 example: Give TENNI one real task — a prompt, a file, or a request — and it returns a usable result for your ai sports workflow.
 goodFor:

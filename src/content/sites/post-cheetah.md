@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Post cheetah - AI Tool Review & Guide 2026
-metaDescription: "AI platform streamlines SEO workflows for site owners and agencies: automates keyword research, content idea generation, AI writing, scheduling, publishing,..."
+metaDescription: "AI platform streamlines SEO workflows for site owners and agencies: automates keyword research, content idea generation, AI writing, scheduling,"
 simple: "AI platform streamlines SEO workflows for site owners and agencies: automates keyword research, content idea generation, AI writing, scheduling, publishing, and reporting via Google Search Console."
 example: Give Post cheetah one real task — a prompt, a file, or a request — and it returns a usable result for your ai seo workflow.
 goodFor:

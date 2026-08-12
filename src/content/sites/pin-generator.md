@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Pin Generator - AI Tool Review & Guide 2026
-metaDescription: Automates Pinterest pin creation, scheduling, and management.
+metaDescription: "Automates Pinterest pin creation, scheduling, and management. built for AI social media content rather than a generic assistant."
 simple: Automates Pinterest pin creation, scheduling, and management.
 example: Give Pin Generator one real task — a prompt, a file, or a request — and it returns a usable result for your ai social media content workflow.
 goodFor:

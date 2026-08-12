@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Supermoon - AI Tool Review & Guide 2026
-metaDescription: Supermoon is an AI-first communication and support platform.
+metaDescription: "Supermoon is an AI-first communication and support platform."
 simple: Supermoon is an AI-first communication and support platform.
 example: Give Supermoon one real task — a prompt, a file, or a request — and it returns a usable result for your ai omnichannel inbox workflow.
 goodFor:

@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Shown - AI Tool Review & Guide 2026
-metaDescription: Shown is an AI-powered ad management tool prioritizing user privacy.
+metaDescription: "Shown is an AI-powered ad management tool prioritizing user privacy. provides real time optimization, and monitors performance."
 simple: Shown is an AI-powered ad management tool prioritizing user privacy.
 example: Give Shown one real task — a prompt, a file, or a request — and it returns a usable result for your ai advertising workflow.
 goodFor:

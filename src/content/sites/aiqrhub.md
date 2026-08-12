@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: AIqrhub - AI Tool Review & Guide 2026
-metaDescription: AIQRHub lets users create QR codes with AI‑driven design options.
+metaDescription: "AIQRHub lets users create QR codes with AI‑driven design options. ‑driven design options."
 simple: AIQRHub lets users create QR codes with AI‑driven design options.
 example: Give AIqrhub one real task — a prompt, a file, or a request — and it returns a usable result for your ai qr code generation workflow.
 goodFor:

@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: MyPaste - AI Tool Review & Guide 2026
-metaDescription: mypaste is an AI-powered code pasting tool for Github users.
+metaDescription: "mypaste is an AI-powered code pasting tool for Github users. built for, what it costs, and how it compares to the competition."
 simple: mypaste is an AI-powered code pasting tool for Github users.
 example: Give MyPaste one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

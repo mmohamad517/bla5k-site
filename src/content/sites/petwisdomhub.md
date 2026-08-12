@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: PetWisdomHub - AI Tool Review & Guide 2026
-metaDescription: "Pet Wisdom Hub offers AI tools for owners, shelters, and breeders: a Pet Matchmaker recommending compatible pets, name generator, on-demand veterinary..."
+metaDescription: "Pet Wisdom Hub offers AI tools for owners, shelters, and breeders: a Pet Matchmaker recommending compatible pets, name generator,"
 simple: "Pet Wisdom Hub offers AI tools for owners, shelters, and breeders: a Pet Matchmaker recommending compatible pets, name generator, on-demand veterinary advice, personalized care plans, species-specific guidance, secure chat history, and shareable reports."
 example: Give PetWisdomHub one real task — a prompt, a file, or a request — and it returns a usable result for your ai pets workflow.
 goodFor:

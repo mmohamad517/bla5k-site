@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: DecEptioner - AI Tool Review & Guide 2026
-metaDescription: DecEptioner rewrites machine‑generated text to evade AI detection.
+metaDescription: "DecEptioner rewrites machine‑generated text to evade AI detection."
 simple: DecEptioner rewrites machine‑generated text to evade AI detection.
 example: Give DecEptioner one real task — a prompt, a file, or a request — and it returns a usable result for your ai paraphraser workflow.
 goodFor:

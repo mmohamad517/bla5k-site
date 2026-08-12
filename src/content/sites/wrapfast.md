@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: WrapFast - AI Tool Review & Guide 2026
-metaDescription: WrapFast is a SwiftUI boilerplate that speeds iOS AI app development.
+metaDescription: "WrapFast is a SwiftUI boilerplate that speeds iOS AI app development."
 simple: WrapFast is a SwiftUI boilerplate that speeds iOS AI app development.
 example: Give WrapFast one real task — a prompt, a file, or a request — and it returns a usable result for your ai developer tools workflow.
 goodFor:

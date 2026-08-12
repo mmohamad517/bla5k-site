@@ -4,7 +4,7 @@ url: "https://logically.app"
 # No image/screenshot — batch published without images (requested).
 subcategory: ai-writing
 pricing: free
-tagline: "Logically is an AI research and writing workspace that streamlines citation-backed academic work: inline AI suggestions with automated bibliographies,..."
+tagline: "Logically is an AI research and writing workspace for citation-backed academic work: inline AI suggestions, automated bibliographies, reference management, PDF annotation, and literature reviews."
 tags:
   - Writing assistant
   - AI
@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Logically.app - AI Tool Review & Guide 2026
-metaDescription: "Logically is an AI research and writing workspace that streamlines citation-backed academic work: inline AI suggestions with automated bibliographies,..."
+metaDescription: "Logically is an AI research and writing workspace for citation-backed academic work: inline AI suggestions, automated bibliographies,"
 simple: "Logically is an AI research and writing workspace that streamlines citation-backed academic work: inline AI suggestions with automated bibliographies, reference management for multiple formats, PDF annotation, literature reviews, citation generation, and collaboration tools."
 example: Give Logically.app one real task — a prompt, a file, or a request — and it returns a usable result for your ai writing assistant workflow.
 goodFor:

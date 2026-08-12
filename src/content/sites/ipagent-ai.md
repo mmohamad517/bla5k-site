@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: ipagent.ai - AI Tool Review & Guide 2026
-metaDescription: ipagent.ai is an agentic AI platform for patent and IP workflows.
+metaDescription: "ipagent.ai is an agentic AI platform for patent and IP workflows. built for ai agents rather than generic chat ipagent."
 simple: ipagent.ai is an agentic AI platform for patent and IP workflows.
 example: Give ipagent.ai one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it.
 goodFor:

@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: OpenArt Photo Booth - AI Tool Review & Guide 2026
-metaDescription: The AI Workspace is a tool that generates imaginary images using AI.
+metaDescription: "The AI Workspace is a tool that generates imaginary images using AI. It allows users to train models using photos and supports custom identifiers and prompts."
 simple: The AI Workspace is a tool that generates imaginary images using AI.
 example: Give OpenArt Photo Booth one real task — a prompt, a file, or a request — and it returns a usable result for your ai image generation workflow.
 goodFor:

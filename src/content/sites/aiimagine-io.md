@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: AIimagine.io - AI Tool Review & Guide 2026
-metaDescription: "AI Imagine offers image and video generation and editing: text-to-image creation, enhancement, background/object/watermark removal, upscaling, unblurring,..."
+metaDescription: "AI Imagine offers image and video generation and editing: text-to-image creation, enhancement, background/object/watermark removal, upscaling,"
 simple: "AI Imagine offers image and video generation and editing: text-to-image creation, enhancement, background/object/watermark removal, upscaling, unblurring, style transfer, batch format conversion, portrait retouching and virtual try-ons, plus short-form video with consistent character styling."
 example: Give AIimagine.io one real task — a prompt, a file, or a request — and it returns a usable result for your ai image generation workflow.
 goodFor:

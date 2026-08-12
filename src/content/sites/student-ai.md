@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Student AI - AI Tool Review & Guide 2026
-metaDescription: "StudentAI consolidates academic tools: auto‑generates practice tests, quizzes from PDFs, drafts papers with citations, summarizes documents, converts..."
+metaDescription: "StudentAI consolidates academic tools: auto‑generates practice tests, quizzes from PDFs, drafts papers with citations, summarizes documents,"
 simple: "StudentAI consolidates academic tools: auto‑generates practice tests, quizzes from PDFs, drafts papers with citations, summarizes documents, converts YouTube lectures to timestamped notes, offers mock interviews, APA referencing, 24/7 AI tutors across subjects, study planning, flashcards, and group collaboration."
 example: Give Student AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai homework assistant workflow.
 goodFor:

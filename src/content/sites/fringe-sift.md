@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Fringe sift - AI Tool Review & Guide 2026
-metaDescription: FringeSift uses AI to quickly locate Edinburgh Fringe shows.
+metaDescription: "FringeSift uses AI to quickly locate Edinburgh Fringe shows."
 simple: FringeSift uses AI to quickly locate Edinburgh Fringe shows.
 example: Give Fringe sift one real task — a prompt, a file, or a request — and it returns a usable result for your ai search engine workflow.
 goodFor:

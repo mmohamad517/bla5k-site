@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Coora AI - AI Tool Review & Guide 2026
-metaDescription: Coora AI is a personalized shopping tool fueled by AI algorithms.
+metaDescription: "Coora AI is a personalized shopping tool fueled by AI algorithms."
 simple: Coora AI is a personalized shopping tool fueled by AI algorithms.
 example: Give Coora AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai shopping assistants workflow.
 goodFor:

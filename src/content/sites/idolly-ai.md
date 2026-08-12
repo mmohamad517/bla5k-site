@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Idolly AI - AI Tool Review & Guide 2026
-metaDescription: Idolly creates custom images from text prompts, tags, or photos.
+metaDescription: "Idolly creates custom images from text prompts, tags, or photos. built for, what it costs, and how it compares to the competition."
 simple: Idolly creates custom images from text prompts, tags, or photos.
 example: Give Idolly AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai image generation workflow.
 goodFor:

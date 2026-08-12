@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: MeloHunt - AI Tool Review & Guide 2026
-metaDescription: MeloHunt creates royalty‑free music in minutes.
+metaDescription: "MeloHunt creates royalty‑free music in minutes. lets you choose genre, tempo, mood, and add lyrics."
 simple: MeloHunt creates royalty‑free music in minutes.
 example: Give MeloHunt one real task — a prompt, a file, or a request — and it returns a usable result for your ai music workflow.
 goodFor:

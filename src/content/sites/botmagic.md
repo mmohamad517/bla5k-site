@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: BotMagic - AI Tool Review & Guide 2026
-metaDescription: "BotMagic: AI chatbots for Confluence Reader that provide quick summaries, customized queries for deeper exploration, Jira Assistant for efficient ticket..."
+metaDescription: "BotMagic: AI chatbots for Confluence Reader that provide quick summaries, customized queries for deeper exploration,"
 simple: "BotMagic: AI chatbots for Confluence Reader that provide quick summaries, customized queries for deeper exploration, Jira Assistant for efficient ticket handling, and ChatGPT Plus for advanced conversational experiences in a secure workplace environment."
 example: Give BotMagic one real workflow — a research task, a support query, or a dev job — and it orchestrates the AI agents needed to complete it.
 goodFor:

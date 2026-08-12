@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: pre.dev - AI Tool Review & Guide 2026
-metaDescription: pre.dev automates end‑to‑end software development.
+metaDescription: "pre.dev automates end‑to‑end software development with a full build-test-deploy pipeline."
 simple: pre.dev automates end‑to‑end software development.
 example: Give pre.dev one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

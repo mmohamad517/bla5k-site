@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Styldod - AI Tool Review & Guide 2026
-metaDescription: "AI Marketing Hub automates real‑estate marketing: generates compliant, location‑based property descriptions, personalized email copy, platform‑specific..."
+metaDescription: "AI Marketing Hub automates real‑estate marketing: generates compliant, location‑based property descriptions, personalized email copy,"
 simple: "AI Marketing Hub automates real‑estate marketing: generates compliant, location‑based property descriptions, personalized email copy, platform‑specific social media captions, concise agent bios, and rewrites content."
 example: Give Styldod one real task — a prompt, a file, or a request — and it returns a usable result for your ai real estate workflow.
 goodFor:

@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: CatchThat - AI Tool Review & Guide 2026
-metaDescription: "CatchThat offers a suite of lightweight tools for sports teams and front‑office staff: interactive roster management, shared glossary, contract/salary‑cap..."
+metaDescription: "CatchThat offers a suite of lightweight tools for sports teams and front‑office staff: interactive roster management, shared glossary,"
 simple: "CatchThat offers a suite of lightweight tools for sports teams and front‑office staff: interactive roster management, shared glossary, contract/salary‑cap API, league‑management workflows, and streamlined task handling, all designed for efficient collaboration."
 example: Give CatchThat one real task — a prompt, a file, or a request — and it returns a usable result for your ai sports workflow.
 goodFor:

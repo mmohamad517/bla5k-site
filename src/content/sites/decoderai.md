@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: DecoderAI - AI Tool Review & Guide 2026
-metaDescription: DecoderAI provides an array of AI tools for websites and Discord.
+metaDescription: "DecoderAI provides an array of AI tools for websites and Discord. and Discord."
 simple: DecoderAI provides an array of AI tools for websites and Discord.
 example: Give DecoderAI one real task — a prompt, a file, or a request — and it returns a usable result for your ai productivity workflow.
 goodFor:

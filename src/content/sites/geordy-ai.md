@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Geordy AI - AI Tool Review & Guide 2026
-metaDescription: "Geordy AI optimizes URLs into geo-ready content using a three-step process: automatic content analysis, AI-optimized format generation, and performance..."
+metaDescription: "Geordy AI optimizes URLs into geo-ready content using a three-step process: automatic content analysis, AI-optimized format generation,"
 simple: "Geordy AI optimizes URLs into geo-ready content using a three-step process: automatic content analysis, AI-optimized format generation, and performance measurement, enhancing visibility in AI-driven search environments without manual schema markup."
 example: Give Geordy AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai seo workflow.
 goodFor:

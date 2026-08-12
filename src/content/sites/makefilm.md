@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Makefilm - AI Tool Review & Guide 2026
-metaDescription: "Makefilm is an AI tool for generating 9:16 TikTok and short-form vertical videos from text or images using templates, batch creation, a 16M asset library,..."
+metaDescription: "Makefilm is an AI tool for generating 9:16 TikTok and short-form vertical videos from text or images using templates, batch creation,"
 simple: "Makefilm is an AI tool for generating 9:16 TikTok and short-form vertical videos from text or images using templates, batch creation, a 16M asset library, AI voiceovers in 50+ languages, auto-subtitles, drag-and-drop editing, and export presets."
 example: Give Makefilm one real task — a prompt, a file, or a request — and it returns a usable result for your ai video generation workflow.
 goodFor:

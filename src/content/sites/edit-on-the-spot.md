@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Edit on the Spot - AI Tool Review & Guide 2026
-metaDescription: Streamline your video editing process with Edit Spot AI tool.
+metaDescription: "Streamline your video editing process with Edit Spot AI tool. built for, what it costs, and how it compares to the competition."
 simple: Streamline your video editing process with Edit Spot AI tool.
 example: Give Edit on the Spot one real task — a prompt, a file, or a request — and it returns a usable result for your ai video editing workflow.
 goodFor:

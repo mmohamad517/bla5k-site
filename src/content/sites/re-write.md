@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: "re:write - AI Tool Review & Guide 2026"
-metaDescription: "re:write transforms text using the ChatGPT API, offering single‑click revisions, version comparison, and web or API access for quick clarity and flow..."
+metaDescription: "re:write transforms text using the ChatGPT API, offering single‑click revisions, version comparison,"
 simple: "re:write transforms text using the ChatGPT API, offering single‑click revisions, version comparison, and web or API access for quick clarity and flow improvements across emails, documents, and notes for professionals, students, and content creators."
 example: "Give re:write one real task — a prompt, a file, or a request — and it returns a usable result for your ai writing assistant workflow."
 goodFor:

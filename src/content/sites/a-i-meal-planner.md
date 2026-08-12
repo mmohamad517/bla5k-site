@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: A.I Meal Planner - AI Tool Review & Guide 2026
-metaDescription: The Casa de Sante A.I.
+metaDescription: "The Casa de Sante A.I. provides customized, dietitian created monthly plans, low FODMAP options, diverse recipes, and chatbot assistance."
 simple: The Casa de Sante A.I.
 example: Give A.I Meal Planner one real task — a prompt, a file, or a request — and it returns a usable result for your ai nutrition assistants workflow.
 goodFor:

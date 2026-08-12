@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Eva AI - AI Tool Review & Guide 2026
-metaDescription: Eva AI is a conversational assistant designed for engaging dialogues.
+metaDescription: "Eva AI is a conversational assistant designed for engaging dialogues."
 simple: Eva AI is a conversational assistant designed for engaging dialogues.
 example: Give Eva AI one real task — a prompt, a file, or a request — and it returns a usable result for your ai mental health support workflow.
 goodFor:

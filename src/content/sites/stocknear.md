@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: stocknear - AI Tool Review & Guide 2026
-metaDescription: Stocknear delivers real‑time U.S.
+metaDescription: "Stocknear delivers real‑time U.S. built for AI investment rather than a generic assistant."
 simple: Stocknear delivers real‑time U.S.
 example: Give stocknear one real task — a prompt, a file, or a request — and it returns a usable result for your ai investment workflow.
 goodFor:

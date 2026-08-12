@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Broadn - AI Tool Review & Guide 2026
-metaDescription: "broadn is an AI agent for manufacturing sales that automates RFQ-to-quote and order workflows: parsing emails, RFQs, and POs, generating ERP-ready orders,..."
+metaDescription: "broadn is an AI agent for manufacturing sales that automates RFQ-to-quote and order workflows: parsing emails, RFQs, and POs,"
 simple: "broadn is an AI agent for manufacturing sales that automates RFQ-to-quote and order workflows: parsing emails, RFQs, and POs, generating ERP-ready orders, syncing CRM/ERP, delivering instant BOM-aware quotes with live pricing, approvals, and dashboards."
 example: Give Broadn one real task — a prompt, a file, or a request — and it returns a usable result for your ai sales workflow.
 goodFor:

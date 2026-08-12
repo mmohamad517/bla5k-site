@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Pig latin translator - AI Tool Review & Guide 2026
-metaDescription: Pig Latin Translator converts English text to Pig Latin and back.
+metaDescription: "Pig Latin Translator converts English text to Pig Latin and back. A single input box and two buttons switch direction, showing results instantly."
 simple: Pig Latin Translator converts English text to Pig Latin and back.
 example: Give Pig latin translator one real task — a prompt, a file, or a request — and it returns a usable result for your ai language learning workflow.
 goodFor:

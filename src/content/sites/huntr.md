@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Huntr - AI Tool Review & Guide 2026
-metaDescription: Huntr tracks job applications and boosts resumes.
+metaDescription: "Huntr tracks job applications and boosts resumes. Its AI Builder auto‑generates summaries and bullet points, while the Resume Tailor aligns keywords."
 simple: Huntr tracks job applications and boosts resumes.
 example: Give Huntr one real task — a prompt, a file, or a request — and it returns a usable result for your ai job search workflow.
 goodFor:

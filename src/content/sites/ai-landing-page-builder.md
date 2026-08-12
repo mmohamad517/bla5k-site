@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: AI Landing Page Builder - AI Tool Review & Guide 2026
-metaDescription: Create responsive sites and landing pages in seconds with a click.
+metaDescription: "Create responsive sites and landing pages in seconds with a click."
 simple: Create responsive sites and landing pages in seconds with a click.
 example: Give AI Landing Page Builder one real task — a prompt, a file, or a request — and it returns a usable result for your ai landing page generator workflow.
 goodFor:

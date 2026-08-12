@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: TLDRX - AI Tool Review & Guide 2026
-metaDescription: tldrx turns any web page into a concise summary.
+metaDescription: "tldrx turns any web page into a concise summary. Add tldrx.me to a URL and choose quick, structured, bullet, or deep‑dive outputs."
 simple: tldrx turns any web page into a concise summary.
 example: Give TLDRX one real task — a prompt, a file, or a request — and it returns a usable result for your ai summarizer workflow.
 goodFor:

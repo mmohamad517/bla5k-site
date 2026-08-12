@@ -13,7 +13,7 @@ tags:
 featured: false
 updated: 2026-08-08
 metaTitle: Heartfelt Services - AI Tool Review & Guide 2026
-metaDescription: Heartfelt Services delivers AI‑driven therapeutic conversations.
+metaDescription: "Heartfelt Services delivers AI‑driven therapeutic conversations. Users select from therapists using IFS, spiritual grounding, or mindfulness."
 simple: Heartfelt Services delivers AI‑driven therapeutic conversations.
 example: Give Heartfelt Services one real task — a prompt, a file, or a request — and it returns a usable result for your ai assistance workflow.
 goodFor:

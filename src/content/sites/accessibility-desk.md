@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Accessibility Desk - AI Tool Review & Guide 2026
-metaDescription: "AI Accessibility Toolkit offers AI‑driven tools for building inclusive web experiences: alt text generation, text compliance checking, accessibility..."
+metaDescription: "AI Accessibility Toolkit offers AI‑driven tools for building inclusive web experiences: alt text generation, text compliance checking,"
 simple: "AI Accessibility Toolkit offers AI‑driven tools for building inclusive web experiences: alt text generation, text compliance checking, accessibility statements, WCAG 2.1 AA code validation, self‑assessment, readability simplification, and detailed criterion explanations."
 example: Give Accessibility Desk one real task — a prompt, a file, or a request — and it returns a usable result for your ai software testing workflow.
 goodFor:

@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: ReleaseFlow - AI Tool Review & Guide 2026
-metaDescription: "ReleaseFlow automates short-form music promotion: upload MP3/WAV for AI time‑synced lyric transcriptions, generate 14 customizable lyric videos with synced..."
+metaDescription: "ReleaseFlow automates short-form music promotion: upload MP3/WAV for AI time‑synced lyric transcriptions,"
 simple: "ReleaseFlow automates short-form music promotion: upload MP3/WAV for AI time‑synced lyric transcriptions, generate 14 customizable lyric videos with synced captions, schedule a 14‑day posting campaign and auto-post to TikTok, Instagram Reels/Shorts and YouTube Shorts."
 example: Give ReleaseFlow one real task — a prompt, a file, or a request — and it returns a usable result for your ai music workflow.
 goodFor:

@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: GGPredict - AI Tool Review & Guide 2026
-metaDescription: "GGPredict.io offers AI‑driven post‑match analysis for CS:GO, delivering detailed statistics, real‑time progress tracking, strengths and weaknesses,..."
+metaDescription: "GGPredict.io offers AI‑driven post‑match analysis for CS:GO, delivering detailed statistics, real‑time progress tracking,"
 simple: "GGPredict.io offers AI‑driven post‑match analysis for CS:GO, delivering detailed statistics, real‑time progress tracking, strengths and weaknesses, customizable map training, dynamic leaderboards, daily 30‑minute challenges, and GDPR‑compliant data security in a dedicated server ecosystem."
 example: Give GGPredict one real task — a prompt, a file, or a request — and it returns a usable result for your ai gaming workflow.
 goodFor:

@@ -12,7 +12,7 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: Katteb - AI Tool Review & Guide 2026
-metaDescription: Katteb is an AI tool for content creation with a 4.3/5 rating.
+metaDescription: "Katteb is an AI tool for content creation with a 4.3/5 rating. It offers a free trial, fact-checking, content outlining, and supports multiple languages."
 simple: Katteb is an AI tool for content creation with a 4.3/5 rating.
 example: Give Katteb one real task — a prompt, a file, or a request — and it returns a usable result for your ai writing assistant workflow.
 goodFor:
