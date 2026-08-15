@@ -4,7 +4,7 @@ url: "https://irisradgroup.com"
 # No image/screenshot — batch published without images (requested).
 subcategory: ai-image
 pricing: freemium
-tagline: iris roads automates road inspections with AI cameras, automatically redacts privacy, identifies defects such as potholes and cracks, delivers condition...
+tagline: iris roads automates road inspections with AI cameras, automatically redacts privacy, identifies defects such as potholes and surface damage, delivers condition...
 tags:
   - Image Analysis
   - AI
@@ -12,8 +12,8 @@ tags:
 featured: false
 updated: 2026-08-10
 metaTitle: irisradgroup.com - AI Tool Review & Guide 2026
-metaDescription: iris roads automates road inspections with AI cameras, automatically redacts privacy, identifies defects such as potholes and cracks, delivers condition...
-simple: iris roads automates road inspections with AI cameras, automatically redacts privacy, identifies defects such as potholes and cracks, delivers condition indices and repair priorities to public‑works dashboards, and integrates with CityWorks and Cartegraph for streamlined workflow and cost savings.
+metaDescription: iris roads automates road inspections with AI cameras, automatically redacts privacy, identifies defects such as potholes and surface damage, delivers condition...
+simple: iris roads automates road inspections with AI cameras, automatically redacts privacy, identifies defects such as potholes and surface damage, delivers condition indices and repair priorities to public‑works dashboards, and integrates with CityWorks and Cartegraph for streamlined workflow and cost savings.
 example: Give irisradgroup.com one real task — a prompt, a file, or a request — and it returns a usable result for your ai image analysis workflow.
 goodFor:
   - "People who want a purpose-built tool for ai image analysis"
@@ -25,11 +25,11 @@ notFor:
   - "You prefer one all-in-one assistant over many focused tools"
 faqs:
   - q: What is irisradgroup.com?
-    a: "iris roads automates road inspections with AI cameras, automatically redacts privacy, identifies defects such as potholes and cracks, delivers condition indices and repair priorities to public‑works dashboards, and integrates with CityWorks and Cartegraph for streamlined workflow and cost savings. That is the heart of irisradgroup.com: AI image analysis handled by a purpose-built tool instead of a generic chatbot."
+    a: "iris roads automates road inspections with AI cameras, automatically redacts privacy, identifies defects such as potholes and surface damage, delivers condition indices and repair priorities to public‑works dashboards, and integrates with CityWorks and Cartegraph for streamlined workflow and cost savings. That is the heart of irisradgroup.com: AI image analysis handled by a purpose-built tool instead of a generic chatbot."
   - q: Is irisradgroup.com free?
     a: irisradgroup.com runs a freemium model — a solid free tier plus paid upgrades. For the exact limits and paid plan price, see the official website, since pricing changes often.
   - q: What can you do with irisradgroup.com?
-    a: "You would reach for irisradgroup.com to move faster on AI image analysis: iris roads automates road inspections with AI cameras, automatically redacts privacy, identifies defects such as potholes and cracks, delivers condition indices and repair priorities to public‑works dashboards, and integrates with CityWorks and Cartegraph for streamlined workflow and cost savings.. Confirm the precise feature set with a quick test on the official site."
+    a: "You would reach for irisradgroup.com to move faster on AI image analysis: iris roads automates road inspections with AI cameras, automatically redacts privacy, identifies defects such as potholes and surface damage, delivers condition indices and repair priorities to public‑works dashboards, and integrates with CityWorks and Cartegraph for streamlined workflow and cost savings.. Confirm the precise feature set with a quick test on the official site."
   - q: Who is irisradgroup.com best for?
     a: It suits creators, professionals, and small teams with a recurring AI image analysis need who want a purpose-built tool instead of juggling generic AI assistants. If you only need it occasionally, the free or trial tier is usually enough to judge it.
   - q: How do I start with irisradgroup.com?
@@ -41,7 +41,7 @@ Beyond chat, teams need AI that works in production — and that demo-to-workflo
 
 ## What is irisradgroup.com?
 
-iris roads automates road inspections with AI cameras, automatically redacts privacy, identifies defects such as potholes and cracks, delivers condition indices and repair priorities to public‑works dashboards, and integrates with CityWorks and Cartegraph for streamlined workflow and cost savings.
+iris roads automates road inspections with AI cameras, automatically redacts privacy, identifies defects such as potholes and surface damage, delivers condition indices and repair priorities to public‑works dashboards, and integrates with CityWorks and Cartegraph for streamlined workflow and cost savings.
 
 At its core, irisradgroup.com takes an input and returns a usable output for AI image analysis — for many users, that single strength of irisradgroup.com is the reason they switch, since it replaces whole chunks of manual work.
 
