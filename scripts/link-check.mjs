@@ -10,10 +10,10 @@
  *     build auto-linkifies — are checked live over HTTP.
  *   • Anchors (/#directory) and www/non-www domain variants handled.
  *
- * Read-only: prints a report, never edits. Exit code 1 when any INTERNAL
- * link is broken (blocks publish) or any EXTERNAL link is confirmed dead
- * (404/410/DNS). Soft timeouts (anti-bot 403, TLS handshake failures)
- * are reported but do NOT fail the build.
+ * Read-only: prints a report, never edits. Exit code 1 only when an
+ * INTERNAL link is broken (blocks publish). Dead external links (404/410/DNS)
+ * and soft timeouts (anti-bot 403, TLS failures) are reported but do NOT
+ * fail the build — external sites die often and shouldn't block deploys.
  *
  * Usage:
  *   node scripts/link-check.mjs            — internal + external live check
@@ -263,5 +263,4 @@ console.log(brokenInternal + brokenExternal === 0
   : '- ❌ **روابط مكسورة — أصلحها قبل النشر.**');
 if (report.length) console.log('\n## 📋 التفاصيل\n' + report.join('\n'));
 
-const fail = brokenInternal > 0 || brokenExternal > 0;
-process.exit(fail ? 1 : 0);
+process.exit(brokenInternal > 0 ? 1 : 0);
