@@ -10,8 +10,10 @@ interface Props {
   format?: string; // 'auto' default, or 'horizontal'/'rectangle'
   className?: string;
 }
+import { ADSENSE_CLIENT } from '../lib/adsense';
+
 const { slot, format = 'auto', className = '' } = Astro.props;
-const adsenseClient = import.meta.env.PUBLIC_ADSENSE_CLIENT;
+const adsenseClient = ADSENSE_CLIENT;
 // A slot id of all zeros is the placeholder left in place before a real ad
 // unit was created in AdSense. Rendering it shipped a dashed empty box on
 // every tool and guide page that could never fill, so treat it as "no slot".
@@ -31,28 +33,19 @@ if (adsenseClient && !slotReady) {
       data-full-width-responsive="true"
     />
     <script is:inline>
-      // Only push the slot to AdSense when the visitor accepted cookies.
-      // If consent is rejected, the loader never exists and this slot stays
-      // empty — no ad request is ever made (GDPR/ePrivacy compliance).
-      const KEY = 'bla5k-cookie-consent', VER = '1';
-      const readChoice = () => {
-        try {
-          const o = JSON.parse(localStorage.getItem(KEY) || 'null');
-          return o && o.version === VER ? o.choice : null;
-        } catch { return null; }
-      };
-      // Push unconditionally into the queued array — adsbygoogle.js (injected
-      // by Layout's deferred module gate) processes queued pushes once it
-      // loads. Gating on window.adsbygoogle existence here would break
-      // stored-accept visits, since this classic script runs BEFORE the
-      // deferred module gate executes.
-      const push = () => {
-        if (readChoice() !== 'accept') return;
-        try { (window.adsbygoogle = window.adsbygoogle || []).push({}); } catch {}
-      };
-      if (readChoice() === 'accept') push();
-      // If the visitor accepts AFTER the page rendered, fill the slot too.
-      document.addEventListener('bla5k-consent', (e) => { if (e.detail === 'accept') push(); });
+      // Queue the slot for AdSense. The loader in <head> processes queued
+      // pushes once it arrives, so this runs for every visitor — gating the
+      // push on consent left the slot permanently empty for Google's reviewer.
+      // Whether the ad is personalised is decided by the consent message
+      // configured in AdSense, plus the non-personalised default set in <head>.
+      try { (window.adsbygoogle = window.adsbygoogle || []).push({}); } catch {}
+      // Once a visitor consents, drop the non-personalised default so later
+      // page views can serve personalised ads.
+      document.addEventListener('bla5k-consent', (e) => {
+        if (e.detail === 'accept') {
+          try { delete window.adsbygoogle.requestNonPersonalizedAds; } catch {}
+        }
+      });
     </script>
   </div>
 )}
