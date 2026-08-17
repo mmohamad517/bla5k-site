@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import CookieConsent from '../components/CookieConsent.astro';
+import { getToolCountLabel } from '../lib/collections';
 
 export interface Props {
   image?: string;
@@ -12,9 +13,13 @@ export interface Props {
   noindex?: boolean;
 }
 
+// Derived, not hard-coded: the description claimed "2,500+" while the
+// directory held over three times that. Memoized, so this costs one pass.
+const toolCount = await getToolCountLabel();
+
 const {
   title = 'Best AI Tools Directory 2026 - Curated and Reviewed | bla5k',
-  description = 'Discover the best AI tools in one curated directory - 2,500+ AI tools for coding, design, writing, video, music, and productivity, each reviewed and compared. Updated daily.',
+  description = `Discover the best AI tools in one curated directory - ${toolCount} AI tools for coding, design, writing, video, music, and productivity, each reviewed and compared. Updated daily.`,
   image = '/og-image.png',
   schema = [],
   noindex = false,

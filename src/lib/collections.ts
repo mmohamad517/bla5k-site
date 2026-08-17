@@ -16,3 +16,18 @@ export function getSponsoredSites() {
   sponsoredPromise ??= getCollection('sites').then((all) => all.filter((s) => s.data.sponsored));
   return sponsoredPromise;
 }
+
+let countPromise: Promise<number> | undefined;
+
+/**
+ * How many tools the directory actually holds, rounded down to a round number
+ * for use in copy ("8,000+"). The site description hard-coded "2,500+" long
+ * after the directory had grown past three times that, so derive it instead.
+ */
+export function getToolCountLabel() {
+  countPromise ??= getCollection('sites').then((all) => all.length);
+  return countPromise.then((n) => {
+    const step = n >= 10000 ? 1000 : n >= 1000 ? 500 : 100;
+    return (Math.floor(n / step) * step).toLocaleString('en-US') + '+';
+  });
+}

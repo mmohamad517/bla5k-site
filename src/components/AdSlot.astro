@@ -12,8 +12,15 @@ interface Props {
 }
 const { slot, format = 'auto', className = '' } = Astro.props;
 const adsenseClient = import.meta.env.PUBLIC_ADSENSE_CLIENT;
+// A slot id of all zeros is the placeholder left in place before a real ad
+// unit was created in AdSense. Rendering it shipped a dashed empty box on
+// every tool and guide page that could never fill, so treat it as "no slot".
+const slotReady = /^\d{6,}$/.test(slot) && !/^0+$/.test(slot);
+if (adsenseClient && !slotReady) {
+  console.warn(`[AdSlot] skipping ad: "${slot}" is not a real AdSense slot id — create the ad unit in AdSense and use its data-ad-slot value.`);
+}
 ---
-{adsenseClient && (
+{adsenseClient && slotReady && (
   <div class={`adslot ${className}`} style="margin-block:2rem 0.5rem" aria-hidden="true">
     <ins
       class="adsbygoogle"
