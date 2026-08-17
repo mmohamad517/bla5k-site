@@ -9,6 +9,61 @@ import { readdirSync, readFileSync } from 'node:fs';
  * Fixes "orphan pages", strengthens SEO, and means you never have to hand-write
  * internal links. Runs at build time; never edits your source files.
  */
+/**
+ * Single-word tool names that are ordinary English and must never be
+ * auto-linked. A directory this large inevitably contains tools called
+ * "Output", "Context", "Writer" and "Generate", and those words appear in
+ * normal prose constantly — /tools/output/ was being linked on 1,503 of 3,000
+ * built pages, from sentences like "the model's output". Those links read as
+ * spam to search engines and mislead readers, so a name on this list only ever
+ * links when an author writes the link by hand. Multi-word names ("Claude
+ * Code") are unambiguous and are never filtered.
+ */
+const GENERIC_NAMES = new Set([
+  'output', 'context', 'writer', 'generate', 'guide', 'zero', 'dawn', 'input',
+  'result', 'results', 'prompt', 'prompts', 'answer', 'answers', 'summary',
+  'draft', 'drafts', 'story', 'stories', 'article', 'articles', 'content',
+  'image', 'images', 'video', 'videos', 'audio', 'music', 'photo', 'photos',
+  'text', 'code', 'data', 'model', 'models', 'agent', 'agents', 'assistant',
+  'chat', 'search', 'find', 'build', 'create', 'edit', 'write', 'read',
+  'design', 'designer', 'editor', 'builder', 'creator', 'maker', 'studio',
+  'canvas', 'board', 'sheet', 'sheets', 'page', 'pages', 'site', 'sites',
+  'app', 'apps', 'tool', 'tools', 'platform', 'service', 'system', 'engine',
+  'api', 'apis', 'cloud', 'server', 'client', 'browser', 'terminal', 'shell',
+  'file', 'files', 'folder', 'link', 'links', 'list', 'lists', 'note', 'notes',
+  'task', 'tasks', 'project', 'projects', 'team', 'teams', 'user', 'users',
+  'account', 'profile', 'dashboard', 'report', 'reports', 'chart', 'charts',
+  'graph', 'table', 'form', 'forms', 'field', 'value', 'values', 'key', 'keys',
+  'token', 'tokens', 'credit', 'credits', 'plan', 'plans', 'price', 'pricing',
+  'free', 'trial', 'demo', 'test', 'tests', 'check', 'review', 'reviews',
+  'support', 'help', 'docs', 'reference', 'tutorial', 'course', 'courses',
+  'lesson', 'class', 'school', 'learn', 'teach', 'train', 'training',
+  'today', 'tomorrow', 'week', 'month', 'year', 'time', 'moment', 'level',
+  'levels', 'step', 'steps', 'stage', 'point', 'points', 'score', 'rank',
+  'quality', 'speed', 'scale', 'size', 'shape', 'color', 'colors', 'style',
+  'theme', 'layout', 'view', 'views', 'window', 'screen', 'display', 'panel',
+  'menu', 'button', 'icon', 'icons', 'logo', 'brand', 'name', 'names', 'title',
+  'label', 'tag', 'tags', 'topic', 'topics', 'subject', 'question',
+  'questions', 'problem', 'solution', 'solutions', 'option', 'options',
+  'setting', 'settings', 'config', 'default', 'custom', 'preview', 'export',
+  'import', 'upload', 'download', 'share', 'save', 'load', 'sync', 'backup',
+  'copy', 'paste', 'undo', 'redo', 'start', 'stop', 'pause', 'play', 'record',
+  'stream', 'live', 'draft', 'final', 'version', 'update', 'upgrade', 'change',
+  'changes', 'history', 'log', 'logs', 'event', 'events', 'action', 'actions',
+  'flow', 'flows', 'chain', 'loop', 'branch', 'merge', 'commit', 'push',
+  'pull', 'deploy', 'release', 'launch', 'access', 'permission', 'security',
+  'privacy', 'policy', 'terms', 'license', 'legal', 'contact', 'about', 'home',
+  'work', 'works', 'business', 'company', 'market', 'sales', 'growth', 'reach',
+  'lead', 'leads', 'client', 'clients', 'customer', 'customers', 'people',
+  'person', 'human', 'humans', 'world', 'life', 'idea', 'ideas', 'thought',
+  'mind', 'brain', 'memory', 'focus', 'vision', 'voice', 'sound', 'light',
+  'dark', 'space', 'place', 'area', 'zone', 'region', 'local', 'global',
+  'open', 'close', 'next', 'last', 'first', 'best', 'better', 'good', 'great',
+  'simple', 'smart', 'clever', 'quick', 'fast', 'slow', 'easy', 'hard',
+  'small', 'large', 'long', 'short', 'high', 'low', 'more', 'less', 'much',
+  'many', 'some', 'most', 'each', 'every', 'other', 'same', 'true', 'false',
+]);
+
 function loadToolIndex() {
   const dir = 'src/content/sites';
   const all = [];
@@ -18,7 +73,11 @@ function loadToolIndex() {
       const slug = f.replace(/\.md$/, '');
       const m = readFileSync(dir + '/' + f, 'utf8').match(/^name:\s*(.+)$/m);
       const name = (m ? m[1].replace(/^["']|["']$/g, '') : slug).trim();
-      if (name.length >= 4) all.push({ name, slug });
+      if (name.length < 4) continue;
+      // A one-word name that is ordinary English matches prose, not a mention.
+      const tokens = name.match(/\w+/g) || [];
+      if (tokens.length === 1 && GENERIC_NAMES.has(name.toLowerCase())) continue;
+      all.push({ name, slug });
     }
   } catch {}
   all.sort((a, b) => b.name.length - a.name.length); // longer names win ties

@@ -15,8 +15,9 @@
     "indexnow:dry": "node scripts/indexnow.mjs --dry-run"
   },
   "dependencies": {
-    "astro": "^5.6.1",
-    "@astrojs/sitemap": "^3.3.0"
+    "@astrojs/markdown-remark": "^7.2.2",
+    "@astrojs/sitemap": "^3.7.3",
+    "astro": "^7.2.2"
   },
   "allowScripts": {
     "esbuild@0.27.7": true,

@@ -21,16 +21,21 @@ export async function getStaticPaths() {
     if (list) list.push(s);
     else bySub.set(s.data.subcategory, [s]);
   }
-  return sites.map((entry) => ({
-    params: { slug: entry.id },
-    props: {
-      entry,
-      related: (bySub.get(entry.data.subcategory) ?? [])
-        .filter((s) => s.id !== entry.id)
-        .slice(0, 4)
-        .map((s) => ({ id: s.id, name: s.data.name, tagline: s.data.tagline })),
-    },
-  }));
+  return sites.map((entry) => {
+    // Take the four tools that FOLLOW this one in its bucket, wrapping at the
+    // end. Slicing 0-4 instead handed every page in a subcategory the same four
+    // links, so hundreds of pages pointed at the same alphabetically-first
+    // tools and the rest were never linked to. Rotating spreads internal links
+    // across the whole subcategory and keeps the section useful.
+    const bucket = bySub.get(entry.data.subcategory) ?? [];
+    const start = bucket.indexOf(entry);
+    const related = [];
+    for (let n = 1; n < bucket.length && related.length < 4; n++) {
+      const s = bucket[(start + n) % bucket.length];
+      if (s.id !== entry.id) related.push({ id: s.id, name: s.data.name, tagline: s.data.tagline });
+    }
+    return { params: { slug: entry.id }, props: { entry, related } };
+  });
 }
 
 const { entry, related } = Astro.props;
