@@ -11,10 +11,29 @@ import { outboundRel } from '../../lib/links';
 
 export async function getStaticPaths() {
   const sites = await getCollection('sites');
-  return sites.map((entry) => ({ params: { slug: entry.id }, props: { entry, sites } }));
+  // Bucket by subcategory once, then hand each page ONLY the 4 related tools it
+  // renders. Passing the whole collection through props made every one of the
+  // 10k+ pages carry every other page's frontmatter and markdown body — the
+  // single reason a full build took ~106 minutes instead of a few.
+  const bySub = new Map();
+  for (const s of sites) {
+    const list = bySub.get(s.data.subcategory);
+    if (list) list.push(s);
+    else bySub.set(s.data.subcategory, [s]);
+  }
+  return sites.map((entry) => ({
+    params: { slug: entry.id },
+    props: {
+      entry,
+      related: (bySub.get(entry.data.subcategory) ?? [])
+        .filter((s) => s.id !== entry.id)
+        .slice(0, 4)
+        .map((s) => ({ id: s.id, name: s.data.name, tagline: s.data.tagline })),
+    },
+  }));
 }
 
-const { entry, sites } = Astro.props;
+const { entry, related } = Astro.props;
 const { Content, headings } = await render(entry);
 const d = entry.data;
 
@@ -25,10 +44,6 @@ const site = 'https://bla5k.com';
 const words = entry.body ? entry.body.split(/\s+/).filter(Boolean).length : 0;
 const readingTime = Math.max(1, Math.round(words / 220));
 const toc = headings.filter((h) => h.depth === 2);
-
-const related = sites
-  .filter((s) => s.id !== entry.id && s.data.subcategory === d.subcategory)
-  .slice(0, 4);
 
 const title = d.metaTitle ?? `${d.name} — Review & Guide | bla5k`;
 const description = d.metaDescription ?? d.tagline;
@@ -172,8 +187,8 @@ const schema = [
             <ul role="list">
               {related.map((r) => (
                 <li class="glass">
-                  <a class="r-name" href={`/tools/${r.id}/`}>{r.data.name}</a>
-                  <p class="r-tag">{r.data.tagline}</p>
+                  <a class="r-name" href={`/tools/${r.id}/`}>{r.name}</a>
+                  <p class="r-tag">{r.tagline}</p>
                 </li>
               ))}
             </ul>
