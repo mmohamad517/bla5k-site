@@ -3,6 +3,12 @@ import { categories } from '../data/categories';
 import { WEB3FORMS_KEY, web3FormsReady as emailReady } from '../lib/config';
 const year = new Date().getFullYear();
 const topCats = categories.slice(0, 6);
+// The consent banner only renders when there is analytics to gate, so the
+// link that re-opens it must appear on the same condition — otherwise it is
+// a control that visibly does nothing.
+const hasConsentBanner = Boolean(
+  import.meta.env.PUBLIC_CF_WEB_ANALYTICS_TOKEN || import.meta.env.PUBLIC_GA4_ID
+);
 ---
 <footer class="site-footer">
   <div class="container foot">
@@ -55,7 +61,7 @@ const topCats = categories.slice(0, 6);
 
   <div class="container foot-bottom">
     <span>© {year} bla5k. All rights reserved.</span>
-    <span class="disc">Some links on this site may be affiliate links. · <button type="button" class="cookie-link" id="cookie-settings-btn">Cookie settings</button></span>
+    <span class="disc">Some links on this site may be affiliate links.{hasConsentBanner && <> · <button type="button" class="cookie-link" id="cookie-settings-btn">Cookie settings</button></>}</span>
   </div>
 </footer>
 

@@ -4,14 +4,19 @@
 // this banner itself. Buttons: Accept all / Reject non-essential.
 // A small "Cookie settings" link in the footer re-opens it.
 // Dispatches 'bla5k-consent' (accept|reject) for consumers to gate
-// optional scripts (analytics/advertising) on consent.
+// optional scripts on consent. Scope is ANALYTICS ONLY — advertising
+// consent is handled by the certified consent message configured in
+// AdSense (Privacy & messaging), which shows Google's own prompt where
+// consent is required. The copy below has to stay honest about that:
+// this banner does not control whether ads appear.
 ---
 <div class="cc-wrap" id="cc-wrap" role="dialog" aria-modal="false" aria-label="Cookie consent">
   <div class="cc glass">
     <p class="cc-title">🍪 We value your privacy</p>
     <p class="cc-text">
       We use cookies and similar technologies to make the site work and, with your consent,
-      to understand usage and serve advertising. Read our
+      to understand how the site is used. Advertising cookies are covered by a
+      separate prompt from Google. Read our
       <a href="/cookie-policy/">Cookie Policy</a> and
       <a href="/privacy/">Privacy Policy</a>.
     </p>
