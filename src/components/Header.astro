@@ -1,11 +1,13 @@
 ---
-import { getCollection } from 'astro:content';
+import { getSponsoredSites } from '../lib/collections';
 import { outboundRel } from '../lib/links';
 
 // Paid placements sold via the Advertise page. Only renders when a site has
 // `sponsored: true` in its frontmatter; each card is clearly labeled
 // "Sponsored" and its link carries rel="sponsored" (Google paid-link policy).
-const sponsoredSites = (await getCollection('sites')).filter((s) => s.data.sponsored);
+// Memoized: this header renders on every page, and scanning the full sites
+// collection once per page was the single biggest cost in the build.
+const sponsoredSites = await getSponsoredSites();
 const showCarousel = sponsoredSites.length > 0;
 ---
 <header class="site-header">
