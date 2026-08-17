@@ -35,17 +35,10 @@ if (adsenseClient && !slotReady) {
     <script is:inline>
       // Queue the slot for AdSense. The loader in <head> processes queued
       // pushes once it arrives, so this runs for every visitor — gating the
-      // push on consent left the slot permanently empty for Google's reviewer.
-      // Whether the ad is personalised is decided by the consent message
-      // configured in AdSense, plus the non-personalised default set in <head>.
+      // push on the site's cookie banner left the slot permanently empty for
+      // Google's reviewer. Whether an ad is personalised is decided by the
+      // certified consent message configured in AdSense, not here.
       try { (window.adsbygoogle = window.adsbygoogle || []).push({}); } catch {}
-      // Once a visitor consents, drop the non-personalised default so later
-      // page views can serve personalised ads.
-      document.addEventListener('bla5k-consent', (e) => {
-        if (e.detail === 'accept') {
-          try { delete window.adsbygoogle.requestNonPersonalizedAds; } catch {}
-        }
-      });
     </script>
   </div>
 )}

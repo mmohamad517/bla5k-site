@@ -124,12 +124,15 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': [...baseGraph, ...s
             It used to load only once a visitor accepted cookies, so Google's
             reviewer — which never accepts a banner — saw a site with no ad
             code on it at all, and the account could not be approved.
-            Personalisation consent is handled where Google expects it: the
-            certified consent message configured in AdSense (Privacy & messaging).
-            Until a visitor consents, ads are requested non-personalised. */}
-        <script is:inline>
-          (window.adsbygoogle = window.adsbygoogle || []).requestNonPersonalizedAds = 1;
-        </script>
+
+            Ad consent is handled entirely by the certified consent message
+            configured in AdSense (Privacy & messaging): it shows Google's own
+            prompt where consent is legally required and passes the TCF signal
+            straight to AdSense. Forcing requestNonPersonalizedAds here would
+            fight it — every visitor who needs no consent at all, and every
+            visitor who accepts through Google's prompt, would still be served
+            non-personalised ads and earn less. The banner below governs
+            analytics only. */}
         <script
           async
           src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsenseClient}`}
@@ -182,7 +185,11 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': [...baseGraph, ...s
     )}
   </head>
   <body>
-    <CookieConsent />
+    {/* Only ask when there is something to ask about. This banner governs
+        analytics alone, so with no analytics configured it gated nothing and
+        was pure friction — and alongside Google's own ad-consent prompt it
+        meant a visitor could be asked twice on one page. */}
+    {(cfAnalyticsToken || ga4Id) && <CookieConsent />}
     <slot />
     <script>
       const io = new IntersectionObserver(
