@@ -7,7 +7,7 @@ tagline: "The independent benchmark for AI 3D generators — blind community vot
 tags: [top3d, top3d ai, 3d ai, ai 3d generator, 3d benchmark, tripo, meshy, 3d models]
 featured: false
 affiliate: false
-metaTitle: "Top3D.ai: The AI 3D Generator Benchmark & Arena (2026)"
+metaTitle: "Top3D.ai — Which AI 3D Generator Actually Wins?"
 metaDescription: Top3D.ai ranks 20+ AI 3D generators with blind community voting and live ELO ratings from 190,000+ battles — the unbiased way to pick the best AI 3D tool.
 simple: "Top3D.ai is a free comparison platform for AI 3D generators — it runs the same prompt through every tool, shows you the results without brand names, and you vote for the better one."
 example: "You're choosing between Tripo and Meshy for a game asset. On Top3D.ai you open two unnamed 3D results side by side, inspect the geometry, vote, and only then see which tool made which — so the ranking reflects quality, not marketing."

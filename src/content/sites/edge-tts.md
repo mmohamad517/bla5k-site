@@ -14,7 +14,7 @@ tags:
   - Voice AI
 featured: false
 updated: 2026-07-31
-metaTitle: Edge-TTS - Free Microsoft Text-to-Speech Tool 2026
+metaTitle: "Edge-TTS — Free Microsoft Voices, and the Catch"
 metaDescription: Edge-TTS is a free, open-source tool for Microsoft Edge's neural text-to-speech voices from Python or CLI — no API key, hundreds of voices, a free ElevenLabs alternative.
 simple: "A free tool that turns written text into natural-sounding speech using Microsoft's voices. Give it a sentence and it reads it aloud in a realistic voice you can save as an audio file."
 example: "Making a YouTube narration? Feed your script to Edge-TTS and it produces a clear voiceover file — plus matching subtitles — without paying for a voice actor."

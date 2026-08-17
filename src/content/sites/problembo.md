@@ -12,7 +12,7 @@ tags:
   - API
 featured: false
 updated: 2026-08-10
-metaTitle: "Problembo: Free AI Photo Editor, Upscaler & Video Generator"
+metaTitle: "Problembo — Free vs Paid, and What to Use Instead"
 metaDescription: Problembo offers AI services for images, video and audio — a text-based photo editor, 4K upscaler, object removal, and video generator with a free tier.
 simple: "Problembo is a collection of AI services where you pick a task — edit a photo, upscale an image, remove an object, or make a video — and run it in the browser."
 example: "You upload a blurry photo, pick the upscale service, and Problembo returns a sharper 4K version without watermarks; the same account can then remove an unwanted person from another shot with a text prompt."
