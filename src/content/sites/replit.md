@@ -1,8 +1,6 @@
 ---
 name: Replit
 url: https://replit.com
-image: /logos/replit.png
-screenshot: /screens/replit.webp
 subcategory: dev-code
 pricing: freemium
 tagline: Build, run, and deploy apps in seconds — with an AI agent that codes alongside you.

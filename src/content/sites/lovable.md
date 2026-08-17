@@ -1,8 +1,6 @@
 ---
 name: Lovable
 url: https://lovable.dev
-image: /logos/lovable.png
-screenshot: /screens/lovable.webp
 subcategory: nc-builders
 pricing: freemium
 tagline: Describe an app in plain English and get a working full-stack product you can deploy and share.
