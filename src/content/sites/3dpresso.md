@@ -118,6 +118,6 @@ Start with a simple, well-lit object — the quality of your capture determines 
 
 3DPresso turns your phone into a **3D scanner for everyday use**. If you have a real object that needs to become a digital asset — a product, a piece of furniture, a design — it's the fastest route from physical to digital without expensive hardware or steep learning curves.
 
-For more 3D creation tools, explore [Meshy](/tools/meshy/), [Tripo](/tools/tripo-3d-ai/), and our [AI Tools directory](/category/ai-tools/).
+For more 3D creation tools, explore Meshy, Tripo, and our [AI Tools directory](/category/ai-tools/).
 
 *Official resource: [3DPresso](https://3dpresso.ai/).*

@@ -97,7 +97,7 @@ Character AI is **freemium**. The core experience — chatting with and creating
 
 ## Alternatives and comparisons
 
-Character AI defined the genre, but alternatives exist — **Talkie** and general assistants with persona features. If you want the largest character ecosystem and easiest creation, Character AI is the default. If you need *reliable answers* rather than personalities, a general assistant like [ChatGPT](/tools/chatgpt/) or [Claude](/tools/claude/) is the right tool.
+Character AI defined the genre, but alternatives exist — **Talkie** and general assistants with persona features. If you want the largest character ecosystem and easiest creation, Character AI is the default. If you need *reliable answers* rather than personalities, a general assistant like [ChatGPT](/tools/chatgpt/) or Claude is the right tool.
 
 ## The bottom line
 

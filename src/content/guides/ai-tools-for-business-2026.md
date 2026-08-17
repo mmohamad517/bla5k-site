@@ -31,14 +31,14 @@ If you run a business in 2026, the question is no longer *whether* to use AI —
 
 | Business function | Our pick | Free tier | Starting price |
 | --- | --- | --- | --- |
-| General assistant & research | [ChatGPT](/tools/chatgpt/) / [Claude](/tools/claude/) / [Perplexity](/tools/perplexity/) | ✅ Yes | $0–$20/mo |
+| General assistant & research | [ChatGPT](/tools/chatgpt/) / Claude / [Perplexity](/tools/perplexity/) | ✅ Yes | $0–$20/mo |
 | Marketing & content | [Jasper](/tools/jasper/) | Trial | ~$39/mo |
-| Email & CRM marketing | [Mailchimp](/tools/mailchimp/), [ActiveCampaign AI](/tools/activecampaign-ai/) | ✅ Yes | $0–$15/mo |
+| Email & CRM marketing | Mailchimp, ActiveCampaign AI | ✅ Yes | $0–$15/mo |
 | Social & design | [Canva](/tools/canva/) | ✅ Yes | $0–$15/mo |
 | Writing polish | [Grammarly](/tools/grammarly/), [QuillBot](/tools/quillbot/) | ✅ Yes | $0–$12/mo |
-| Sales outreach | [Outplay AI](/tools/outplay-ai/), [Reply.io](/tools/reply-io/) | ✅ Yes | ~$39/mo |
+| Sales outreach | Outplay AI, Reply.io | ✅ Yes | ~$39/mo |
 | Customer support | [Chatbase](/tools/chatbase/) | ✅ Yes | ~$19/mo |
-| Ops & knowledge | [Notion](/tools/notion/), [Airtable AI](/tools/airtable-ai-assistant/) | ✅ Yes | $0–$10/mo |
+| Ops & knowledge | [Notion](/tools/notion/), Airtable AI | ✅ Yes | $0–$10/mo |
 | Coding & internal tools | [Cursor](/tools/cursor/), [GitHub Copilot](/tools/github-copilot/), [Aider](/tools/aider/) | ✅ Yes | $0–$20/mo |
 | AI agents | [Manus](/tools/manus/), [Pi](/tools/pi/), [Multica](/tools/multica/) | Varies | Varies |
 
@@ -48,7 +48,7 @@ Every row below goes deeper: what the tool actually does for a business, who it 
 
 Content is where most businesses see ROI first, because the volume problem is largest. A single marketer can now produce what a five-person agency did in 2023 — if the toolchain is right.
 
-**[Jasper](/tools/jasper/)** remains the workhorse for long-form marketing content: blog posts, landing pages, ad copy, and email sequences tuned to your brand voice. It's purpose-built for teams that need on-brand output at scale, with workflows and approvals built in. **[ChatGPT](/tools/chatgpt/)** and **[Claude](/tools/claude/)** cover the same ground with more flexibility for research, analysis, and strategy — most teams run one general model plus one specialist.
+**[Jasper](/tools/jasper/)** remains the workhorse for long-form marketing content: blog posts, landing pages, ad copy, and email sequences tuned to your brand voice. It's purpose-built for teams that need on-brand output at scale, with workflows and approvals built in. **[ChatGPT](/tools/chatgpt/)** and **Claude** cover the same ground with more flexibility for research, analysis, and strategy — most teams run one general model plus one specialist.
 
 For polish, **[Grammarly](/tools/grammarly/)** catches tone and clarity across email, Slack, and documents, while **[QuillBot](/tools/quillbot/)** is the fastest way to rephrase a clunky paragraph. Neither is a strategy tool — they're the final-pass layer that makes everything you ship look professional.
 
@@ -58,7 +58,7 @@ For polish, **[Grammarly](/tools/grammarly/)** catches tone and clarity across e
 
 Email remains the highest-ROI channel, and the **AI tools 2026** releases have made it dramatically easier to run.
 
-**[Mailchimp](/tools/mailchimp/)** now bakes AI into segmentation, subject lines, and send-time optimization, with a free tier that covers genuinely small lists. **[ActiveCampaign AI](/tools/activecampaign-ai/)** goes further for B2B: AI-driven customer journeys that score engagement and move contacts between automations automatically — your best leads get followed up within minutes instead of days.
+**Mailchimp** now bakes AI into segmentation, subject lines, and send-time optimization, with a free tier that covers genuinely small lists. **ActiveCampaign AI** goes further for B2B: AI-driven customer journeys that score engagement and move contacts between automations automatically — your best leads get followed up within minutes instead of days.
 
 The pattern that matters: **AI doesn't replace your email program, it replaces the grunt work inside it.** Subject-line variants, list hygiene, A/B test drafts, and performance summaries are all one-click now. What you still own: the offer, the story, and the cadence decisions.
 
@@ -66,7 +66,7 @@ The pattern that matters: **AI doesn't replace your email program, it replaces t
 
 Outbound sales is where AI tools for business earn their keep fastest — outreach is repetitive, measurable, and expensive to do badly.
 
-**[Outplay AI](/tools/outplay-ai/)** and **[Reply.io](/tools/reply-io/)** both handle the full outbound loop: personalization research on every prospect, multi-channel sequences (email + LinkedIn + calls), and automatic reply handling that books meetings while your reps sleep. The free tiers let you run small campaigns to test message-market fit before paying.
+**Outplay AI** and **Reply.io** both handle the full outbound loop: personalization research on every prospect, multi-channel sequences (email + LinkedIn + calls), and automatic reply handling that books meetings while your reps sleep. The free tiers let you run small campaigns to test message-market fit before paying.
 
 The caution: spam filters got smarter in parallel. In 2026, sending 5,000 identical "personalized" emails is a fast track to blacklist. The winning play is *smaller, smarter* — 50 well-researched prospects with genuinely customized first lines beat 5,000 blasts, and AI makes that 50-person effort nearly free.
 
@@ -82,7 +82,7 @@ Support is the most predictable AI investment because the math is visible: every
 
 Back-office work is the quiet win. Most businesses don't realize how many hours leak into documentation, meeting notes, and cross-team coordination — until AI shows them the receipt.
 
-**[Notion](/tools/notion/)** with AI turns your company wiki into a searchable brain: ask it for the onboarding doc, the pricing decision from March, or a summary of who owns what. **[Airtable AI](/tools/airtable-ai-assistant/)** does the same for structured data — "find every deal over $10K stuck in negotiation and draft a follow-up for each." Both are free at small-team scale and pay for themselves in the first week.
+**[Notion](/tools/notion/)** with AI turns your company wiki into a searchable brain: ask it for the onboarding doc, the pricing decision from March, or a summary of who owns what. **Airtable AI** does the same for structured data — "find every deal over $10K stuck in negotiation and draft a follow-up for each." Both are free at small-team scale and pay for themselves in the first week.
 
 For meeting-heavy teams, AI notes and action-item extraction are now table stakes in every calendar tool. The discipline that separates good adopters from bad: **write everything down in a system AI can read.** AI amplifies organized companies; it can't rescue disorganized ones.
 

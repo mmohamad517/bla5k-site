@@ -41,7 +41,7 @@ With that framing, here are the best free AI tools in 2026, by category.
 
 The anchor of any free AI toolkit is a chat assistant — and 2026's free tiers are shockingly good.
 
-**[ChatGPT](/tools/chatgpt/)** remains the default: free access to the flagship model with a generous hourly message cap, plus image generation, voice, and file uploads. **[Claude](/tools/claude/)** is the free-tier pick for long documents and thoughtful writing — its free plan handles big context windows that choke other chatbots. **[Perplexity](/tools/perplexity/)** replaces a search engine: it answers with cited sources, perfect for research where you need to verify claims.
+**[ChatGPT](/tools/chatgpt/)** remains the default: free access to the flagship model with a generous hourly message cap, plus image generation, voice, and file uploads. **Claude** is the free-tier pick for long documents and thoughtful writing — its free plan handles big context windows that choke other chatbots. **[Perplexity](/tools/perplexity/)** replaces a search engine: it answers with cited sources, perfect for research where you need to verify claims.
 
 For specific niches, **[Kimi](/tools/kimi/)** is a standout free tool for digesting massive documents (books, PDFs, long reports) with a very usable free tier, and **[Pi](/tools/pi/)** offers a local-first, open-source agent harness for the privacy-conscious — free, self-hosted, no data leaves your machine.
 
@@ -83,7 +83,7 @@ The honest caveat: video and music are the most expensive AI workloads, so free 
 
 The productivity category is quietly the most valuable free tier of all, because these tools compound daily.
 
-**[Notion](/tools/notion/)** free is a full wiki + docs + database system, and its AI features (ask your workspace anything, summarize pages) have a free allowance on personal plans. **[Airtable AI](/tools/airtable-ai-assistant/)** does the same for structured data on free workspaces. **[Mailchimp](/tools/mailchimp/)** free covers email marketing for genuinely small lists — AI-assisted subject lines and basic automation included.
+**[Notion](/tools/notion/)** free is a full wiki + docs + database system, and its AI features (ask your workspace anything, summarize pages) have a free allowance on personal plans. **Airtable AI** does the same for structured data on free workspaces. **Mailchimp** free covers email marketing for genuinely small lists — AI-assisted subject lines and basic automation included.
 
 **The compounding effect:** every note, doc, and record you put into Notion or Airtable becomes searchable by AI later. The more organized you are, the more the free AI layer returns. Start the habit now; by next year you'll have a knowledge base AI can actually work with.
 
@@ -122,7 +122,7 @@ If you came here with a specific task in mind, this is the fastest route to the 
 | Your task | Best free tool in 2026 | What you get free |
 | --- | --- | --- |
 | Answer a question with sources | [Perplexity](/tools/perplexity/) | Cited answers, unlimited-ish daily searches |
-| Draft an email or article | [ChatGPT](/tools/chatgpt/) / [Claude](/tools/claude/) | Generous hourly message caps, file uploads |
+| Draft an email or article | [ChatGPT](/tools/chatgpt/) / Claude | Generous hourly message caps, file uploads |
 | Summarize a huge PDF or book | [Kimi](/tools/kimi/) | Long-context reading on the free plan |
 | Fix grammar and tone | [Grammarly](/tools/grammarly/) | Browser-wide writing suggestions |
 | Rephrase a paragraph | [QuillBot](/tools/quillbot/) | Paraphrasing, grammar, summarizer |
@@ -134,7 +134,7 @@ If you came here with a specific task in mind, this is the fastest route to the 
 | Make a song | [Suno](/tools/suno-ai/) | Recurring free credits |
 | Prototype AI video | [Runway](/tools/runway/) | Monthly free generation credits |
 | Organize notes & docs | [Notion](/tools/notion/) | Free workspace + AI allowance |
-| Send email marketing | [Mailchimp](/tools/mailchimp/) | Free tier for small lists |
+| Send email marketing | Mailchimp | Free tier for small lists |
 | Train a support bot | [Chatbase](/tools/chatbase/) | Free tier for a starter bot |
 | Run a research agent | [Manus](/tools/manus/) | Limited free agent runs |
 

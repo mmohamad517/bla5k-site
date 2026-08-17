@@ -82,7 +82,7 @@ It does require basic comfort with the command line. If you have never cloned a 
 
 ## Codex Router vs other AI coding tools
 
-[Claude Code](/tools/claude-code/) is a complete agent that runs Anthropic models by default; Codex Router complements it by giving the same agent-style workflow to external models inside Codex. [Aider](/tools/aider/) is a terminal pair-programmer that supports many models out of the box but does not add them to Codex's picker. [OpenCode](/tools/opencode-ai/) is another open-source agent worth comparing if you want a Codex-like experience with broad model support from the start. None of these replace each other — many developers run Codex with Codex Router for one project and Claude Code for another.
+[Claude Code](/tools/claude-code/) is a complete agent that runs Anthropic models by default; Codex Router complements it by giving the same agent-style workflow to external models inside Codex. [Aider](/tools/aider/) is a terminal pair-programmer that supports many models out of the box but does not add them to Codex's picker. OpenCode is another open-source agent worth comparing if you want a Codex-like experience with broad model support from the start. None of these replace each other — many developers run Codex with Codex Router for one project and Claude Code for another.
 
 ## The bottom line
 

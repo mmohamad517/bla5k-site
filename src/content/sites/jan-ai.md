@@ -110,7 +110,7 @@ Jan is **free** — the app is open source under the Apache 2.0 license, and the
 
 ## Alternatives and comparisons
 
-Jan sits alongside other local-AI options like **Ollama** (a command-line-focused local model runner) and **LM Studio**. Cloud assistants — [ChatGPT](/tools/chatgpt/), [Claude](/tools/claude/), [Gemini](/tools/google-gemini/) — offer stronger models but less privacy. A common setup: cloud AI for everyday tasks, Jan for anything sensitive. It's not either-or.
+Jan sits alongside other local-AI options like **Ollama** (a command-line-focused local model runner) and **LM Studio**. Cloud assistants — [ChatGPT](/tools/chatgpt/), Claude, [Gemini](/tools/google-gemini/) — offer stronger models but less privacy. A common setup: cloud AI for everyday tasks, Jan for anything sensitive. It's not either-or.
 
 ## The bottom line
 
