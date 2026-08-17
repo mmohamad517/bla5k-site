@@ -24,7 +24,7 @@ faqs:
 
 Writing a business plan from scratch is one of the slowest parts of starting a company. Founders spend weeks on market research, financial projections, and pitch decks — or pay thousands for a consultant. **ProAI** is an AI-powered platform built to compress that work into hours: it generates structured business plans, 5-year financial projections, pitch decks, investor lists, and market research reports from a rough idea. In 2026 ProAI operates as part of FundingPath.ai, the AI-native platform that takes founders from idea to funded.
 
-This guide covers what ProAI does, who it suits, what it costs, and how it compares to other AI business planning tools like [Upmetrics AI](/tools/ai-business-plan-generator-upmetrics/), [BizPlannerAI](/tools/bizplannerai/), and [Business Plan Factory](/tools/business-plan-factory/).
+This guide covers what ProAI does, who it suits, what it costs, and how it compares to other AI business planning tools like Upmetrics AI, BizPlannerAI, and Business Plan Factory.
 
 ## What is ProAI?
 
@@ -74,7 +74,7 @@ ProAI runs on a freemium model with a free tier and paid upgrades. Plan limits, 
 
 ## ProAI vs other AI business planning tools
 
-The AI business planning category is competitive. [Upmetrics AI](/tools/ai-business-plan-generator-upmetrics/) is a strong all-rounder used by small businesses and consultants, with templates and industry data. [BizPlannerAI](/tools/bizplannerai/) focuses on fast, structured plan generation for entrepreneurs. [Business Plan Factory](/tools/business-plan-factory/) is another popular generator with guided questionnaires. ProAI differentiates itself by packaging the plan together with pitch decks, investor lists, and FundingPath's funding pipeline — useful if your goal is specifically to raise money.
+The AI business planning category is competitive. Upmetrics AI is a strong all-rounder used by small businesses and consultants, with templates and industry data. BizPlannerAI focuses on fast, structured plan generation for entrepreneurs. Business Plan Factory is another popular generator with guided questionnaires. ProAI differentiates itself by packaging the plan together with pitch decks, investor lists, and FundingPath's funding pipeline — useful if your goal is specifically to raise money.
 
 The best way to choose is to run the same business idea through two of these tools and compare structure, financial detail, and speed on your own work.
 

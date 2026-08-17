@@ -116,6 +116,6 @@ Start with a battle — voting is the fastest way to understand why the rankings
 
 Top3D.ai turned AI 3D tool selection from a marketing lottery into a **community-measured science**. If you're choosing a 3D generator, spend ten minutes on the arena before spending a dollar on a subscription.
 
-For more 3D creation tools, explore [Tripo](/tools/tripo-3d-ai/), [Meshy](/tools/meshy/), [3D AI Studio](/tools/3d-ai-studio/), and our [AI Tools directory](/category/ai-tools/).
+For more 3D creation tools, explore Tripo, Meshy, 3D AI Studio, and our [AI Tools directory](/category/ai-tools/).
 
 *Official resource: [Top3D.ai](https://www.top3d.ai/).*

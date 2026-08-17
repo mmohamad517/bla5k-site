@@ -42,7 +42,7 @@ Voiceflow is the leading platform for building conversational AI agents. It offe
 
 Vapi is a telephony platform designed specifically for voice AI agents. It provides the infrastructure for making and receiving phone calls, with built-in speech recognition and synthesis. Vapi handles the audio pipeline, letting developers focus on the conversation logic. It integrates with popular AI models and conversation platforms.
 
-### 3. [Bolna](/tools/bolna/)
+### 3. Bolna
 
 Bolna is a voice agent platform focused on outbound calls — appointment reminders, follow-ups, and notifications. It handles the telephony and conversation flow, making it easy to deploy voice agents for specific use cases without building from scratch.
 

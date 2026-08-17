@@ -65,7 +65,7 @@ For businesses handling sensitive data, developers building AI products, and pri
 
 ComfyUI is the most powerful open source AI image generation interface. It provides a node-based workflow system for Stable Diffusion and other image models, giving you complete control over every step of the generation process. Advanced users can build complex pipelines with custom models, control nets, and post-processing — capabilities that commercial tools cannot match.
 
-### 2. [AutoGPT](/tools/autogpt/)
+### 2. AutoGPT
 
 AutoGPT is the pioneering open source autonomous AI agent. It breaks down complex goals into subtasks, uses tools to complete them, and iterates until the goal is achieved. AutoGPT started the AI agent movement and remains one of the most capable open source agent frameworks.
 
@@ -73,7 +73,7 @@ AutoGPT is the pioneering open source autonomous AI agent. It breaks down comple
 
 CrewAI is a framework for building multi-agent AI systems. You define a team of AI agents with specific roles, and CrewAI orchestrates their collaboration on complex tasks. It is the most popular open source framework for multi-agent workflows, with Python-first design and extensive documentation.
 
-### 4. [Flowise](/tools/flowise/)
+### 4. Flowise
 
 Flowise is a visual, drag-and-drop builder for AI workflows. It connects LLMs, vector databases, and tools into pipelines without writing code. Flowise makes open source AI accessible to non-developers, while still supporting custom code for advanced users.
 
@@ -95,7 +95,7 @@ For the complete picture, browse our curated [open source AI tools directory](/o
 
 ## Getting started with open source AI
 
-1. **Start with an easy tool** — [Flowise](/tools/flowise/) or [ComfyUI](/tools/comfyui/) have the gentlest learning curves.
+1. **Start with an easy tool** — Flowise or [ComfyUI](/tools/comfyui/) have the gentlest learning curves.
 2. **Check hardware requirements** — most image and language models need a GPU. Start with smaller models if your hardware is limited.
 3. **Use the community** — every major open source AI tool has an active Discord or forum. The communities are remarkably helpful.
 4. **Self-host what matters** — you do not need to self-host everything. Start with one tool that solves a real problem, then expand.
@@ -135,6 +135,6 @@ Every major open source AI tool has an active community. The [open source AI too
 
 ## The bottom line
 
-Open source AI tools have reached the point where they match — and in some areas exceed — commercial offerings. Whether you need the unmatched control of [ComfyUI](/tools/comfyui/), the autonomy of [AutoGPT](/tools/autogpt/), or the visual simplicity of [Flowise](/tools/flowise/), the open source AI ecosystem has a tool for you. And with data control, no fees, and full customization, the case for going open source gets stronger every year.
+Open source AI tools have reached the point where they match — and in some areas exceed — commercial offerings. Whether you need the unmatched control of [ComfyUI](/tools/comfyui/), the autonomy of AutoGPT, or the visual simplicity of Flowise, the open source AI ecosystem has a tool for you. And with data control, no fees, and full customization, the case for going open source gets stronger every year.
 
 For more developer tools, explore our [AI Tools directory](/category/ai-tools/) and the [best AI tools in 2026](/guides/best-ai-tools-2026/).
