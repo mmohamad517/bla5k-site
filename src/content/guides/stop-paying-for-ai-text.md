@@ -22,7 +22,7 @@ faqs:
 
 Jasper charges $49/month. Copy.ai wants $36/month. Writesonic asks for $16/month. And here's the uncomfortable truth: **the free tiers of ChatGPT, Claude, and Gemini produce text that's just as good** — sometimes better.
 
-After testing every major AI text generator for 40+ hours, I found seven free alternatives that handle blog posts, emails, ad copy, social media, and more — without costing a cent. If you're paying for AI text generation in 2026, you're probably paying for features you don't need.
+Here are seven free alternatives that handle blog posts, emails, ad copy, social media, and more — without costing a cent. If you're paying for AI text generation in 2026, you're probably paying for features you don't need.
 
 Here's what I actually recommend instead.
 
@@ -32,7 +32,7 @@ The paid AI text generator market had a clear advantage in 2024: better models, 
 
 **What changed:**
 
-- **Free tiers got better models.** ChatGPT's free tier now uses GPT-4o, Claude's free tier uses Claude 3.5 Sonnet, and Gemini's free tier uses Gemini 1.5 Pro. These are flagship models, not watered-down demos.
+- **Free tiers got better models.** ChatGPT, Claude, and Gemini all now give free users access to genuinely current, flagship-tier models rather than an outdated or watered-down demo version — check each provider's site for exactly which model is live on the free tier today, since that changes often.
 - **Specialized features became table stakes.** Templates, brand voice, and long-form generation — once paid-only — are now available in free tools.
 - **The quality gap closed.** In blind tests, most people can't tell the difference between text from ChatGPT Free and Jasper Pro for standard marketing copy.
 
@@ -53,7 +53,7 @@ The paid AI text generator market had a clear advantage in 2024: better models, 
 
 **Why it's better than paying for Jasper:** For standard content creation, ChatGPT's free tier produces comparable quality. Jasper's advantage is brand voice consistency across a team — irrelevant if you're an individual writer.
 
-**Free tier reality:** Generous hourly message cap with GPT-4o access. Enough for several hours of active writing daily.
+**Free tier reality:** Generous hourly message cap with access to a current flagship model. Enough for several hours of active writing daily.
 
 **Watch out for:** The free tier can be slow during peak hours. For time-sensitive work, Claude or Gemini might be faster.
 
@@ -89,7 +89,7 @@ The paid AI text generator market had a clear advantage in 2024: better models, 
 
 **Why it's better than paying for Copy.ai:** Copy.ai's templates are convenient, but Gemini's research capabilities and real-time web access produce more accurate, current content. For blog posts that need facts and data, Gemini wins.
 
-**Free tier reality:** Generous daily usage with Gemini 1.5 Pro access. Web grounding means you get current information, not outdated training data.
+**Free tier reality:** Generous daily usage with access to a current flagship model. Web grounding means you get current information, not outdated training data.
 
 **Watch out for:** Gemini's creative writing can be more formal than ChatGPT's. For casual, conversational tones, ChatGPT or Claude work better.
 
