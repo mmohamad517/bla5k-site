@@ -21,28 +21,54 @@ const MAX = 60;
 
 type Pricing = 'free' | 'freemium' | 'paid' | undefined;
 
-// Several phrasings of the same true claim, so 5,900 freemium pages don't all
-// share one string. Longest first — the first one that fits is used.
+// Several phrasings of the same true claim, so no single hook carries too
+// much of the site. At 12 total phrasings across 8,142 pages, the busiest
+// ones (freemium especially) were landing on 1,400+ pages each — still a
+// unique title per page (the tool name leads every one), but a searcher
+// comparing two bla5k results side by side saw the same hook twice. Longest
+// first — the first one that fits is used.
 const ANGLES: Record<'free' | 'freemium' | 'paid' | 'unknown', string[][]> = {
   free: [
     ['Free: What It Does and Where It Stops', 'Free — and Where It Stops'],
     ["Free, and What You Give Up for It", 'Free: The Trade-offs'],
     ["What the Free Tool Can and Can't Do", 'Free: What You Get'],
+    ["Genuinely Free — Here's the Catch", "Free — Here's the Catch"],
+    ['No Paywall, No Catch? The Real Answer', 'No Paywall — Really?'],
+    ['Free Forever, But Not Unlimited', 'Free, Not Unlimited'],
+    ['What "Free" Actually Means Here', 'What Free Actually Means'],
+    ['Zero Cost, Real Limits — What to Expect', 'Zero Cost, Real Limits'],
+    ['Free to Use — Is That Enough?', 'Free — Is That Enough?'],
+    ['The Free Version, Fully Explained', 'The Free Version Explained'],
   ],
   freemium: [
     ['Free Tier vs Paid: Where the Line Is', 'Free vs Paid'],
     ['Is the Free Plan Enough for You?', 'Is the Free Plan Enough?'],
     ['What the Free Version Leaves Out', 'What Free Leaves Out'],
     ['Free vs Paid, and Who Each Suits', 'Free vs Paid: Who It Suits'],
+    ["Free to Start — Here's When You'll Pay", 'Free to Start, Then What?'],
+    ['The Upgrade Point: When Free Stops Cutting It', 'When Free Stops Cutting It'],
+    ["Free Plan or Paid Plan? The Real Answer", 'Free or Paid? Real Answer'],
+    ['How Far the Free Plan Actually Gets You', 'How Far Free Gets You'],
+    ['Before You Pay: What Free Already Covers', 'What Free Already Covers'],
+    ['Free Tier, Real Limits, Honest Verdict', 'Free Tier, Honest Verdict'],
   ],
   paid: [
     ["What It Costs, and Whether It's Worth It", "Is It Worth the Price?"],
     ['Worth Paying For? Fit, Limits, Price', 'Worth Paying For?'],
     ['The Case For and Against Paying', 'For and Against Paying'],
+    ["No Free Tier — Is It Worth the Money?", 'Worth the Money?'],
+    ['The Price, the Fit, and the Verdict', 'Price, Fit, Verdict'],
+    ["What You're Actually Paying For", "What You're Paying For"],
+    ["Paid Only — Here's What You Actually Get", 'Paid Only — What You Get'],
+    ['Before You Pay: The Honest Breakdown', 'The Honest Breakdown'],
   ],
   unknown: [
     ["What It Does Well, and What It Doesn't", 'Strengths and Limits'],
     ['Strengths, Limits, and Who It Suits', 'Who It Suits'],
+    ['What It Actually Does, Explained', 'What It Actually Does'],
+    ['The Honest Rundown: Strengths and Gaps', 'Strengths and Gaps'],
+    ["Where It Excels, and Where It Doesn't", 'Where It Excels'],
+    ['A Clear-Eyed Look at What It Offers', 'A Clear-Eyed Look'],
   ],
 };
 
