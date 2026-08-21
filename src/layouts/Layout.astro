@@ -92,6 +92,18 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': [...baseGraph, ...s
     <link rel="preload" href="/fonts/outfit-var.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="preload" href="/fonts/inter-var.woff2" as="font" type="font/woff2" crossorigin />
 
+    {/* DNS + TLS for third-party origins we WILL contact, started before the
+        parser reaches the <script> tags that need them. On same-origin
+        localhost testing this connection simply doesn't exist to warm up, so
+        it never shows up in a local before/after — it only pays off on the
+        real network path a visitor's browser actually takes to reach these
+        domains, which is exactly where a cold DNS+TCP+TLS handshake costs the
+        most. Gated on the same conditions as the scripts themselves, so we
+        never warm a connection to a domain nothing on the page will use. */}
+    {adsenseClient && <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin />}
+    {cfAnalyticsToken && <link rel="preconnect" href="https://static.cloudflareinsights.com" crossorigin />}
+    {ga4Id && <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin />}
+
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <link rel="manifest" href="/manifest.webmanifest" />
@@ -191,6 +203,20 @@ const jsonLd = { '@context': 'https://schema.org', '@graph': [...baseGraph, ...s
         meant a visitor could be asked twice on one page. */}
     {(cfAnalyticsToken || ga4Id) && <CookieConsent />}
     <slot />
+    <script is:inline>
+      // The PRO banners (Header's badge, the homepage ProductCard) run several
+      // infinite CSS animations — box-shadow pulses and gradient sweeps, none
+      // of them compositor-only, so they repaint every frame from the moment
+      // the page starts rendering. Starting seven such loops immediately competes
+      // with the browser for the same main-thread time it needs to paint FCP/LCP,
+      // which is pure waste: nobody is looking at a decorative shimmer before the
+      // page has even finished loading. Holding them paused (see `.anim-on` below
+      // in Header.astro / ProductCard.astro) until `load` fires removes that cost
+      // from the critical rendering path with no visible effect once the page is up.
+      const startAnim = () => document.documentElement.classList.add('anim-on');
+      if (document.readyState === 'complete') startAnim();
+      else window.addEventListener('load', startAnim, { once: true });
+    </script>
     <script>
       const io = new IntersectionObserver(
         (entries) => {

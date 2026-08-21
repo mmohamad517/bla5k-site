@@ -39,7 +39,11 @@ const PRODUCT_URL = '/ai-control-pro/';
     padding: clamp(1.6rem, 5vw, 2.8rem);
     transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
     animation: pc-glow 4s ease-in-out infinite;
+    /* Paused until Layout's deferred script flips `anim-on` on <html> after
+       `load` — see the comment there for why. */
+    animation-play-state: paused;
   }
+  :global(html.anim-on) .pc-card { animation-play-state: running; }
   .pc-card:hover {
     transform: translateY(-4px);
     border-color: rgba(140, 255, 90, 0.85);
@@ -52,8 +56,10 @@ const PRODUCT_URL = '/ai-control-pro/';
     background: linear-gradient(105deg, transparent 40%, rgba(255, 255, 255, 0.14) 50%, transparent 60%);
     background-size: 250% 100%;
     animation: pc-shine 4.5s ease-in-out infinite;
+    animation-play-state: paused;
     pointer-events: none;
   }
+  :global(html.anim-on) .pc-glows { animation-play-state: running; }
   @keyframes pc-glow {
     0%, 100% { box-shadow: 0 0 26px rgba(57, 255, 20, 0.22), inset 0 0 18px rgba(57, 255, 20, 0.07); }
     50% { box-shadow: 0 0 44px rgba(57, 255, 20, 0.4), inset 0 0 26px rgba(57, 255, 20, 0.12); }
@@ -78,7 +84,9 @@ const PRODUCT_URL = '/ai-control-pro/';
     -webkit-text-fill-color: transparent;
     color: transparent;
     animation: pc-proflow 2.6s linear infinite;
+    animation-play-state: paused;
   }
+  :global(html.anim-on) .pc-pro { animation-play-state: running; }
   @keyframes pc-proflow { to { background-position: -250% 0; } }
   .pc-chip {
     font-family: var(--font-head);

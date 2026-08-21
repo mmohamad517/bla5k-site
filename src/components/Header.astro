@@ -81,11 +81,15 @@ const showCarousel = sponsoredSites.length > 0;
     border: 1px solid rgba(140, 255, 90, 0.55);
     box-shadow: 0 0 16px rgba(57, 255, 20, 0.35), inset 0 0 12px rgba(57, 255, 20, 0.1);
     animation: pg-float 4s ease-in-out infinite, pg-pulse 3s ease-in-out infinite;
+    /* Paused until Layout's deferred script flips `anim-on` on <html> after
+       `load` — see the comment there for why. */
+    animation-play-state: paused;
     transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
     text-decoration: none;
     position: relative;
     overflow: hidden;
   }
+  :global(html.anim-on) .product-glow { animation-play-state: running; }
   .product-glow:hover {
     /* filter is not animated, so it works despite the float/glow animations */
     filter: brightness(1.35);
@@ -99,8 +103,10 @@ const showCarousel = sponsoredSites.length > 0;
     background: linear-gradient(105deg, transparent 40%, rgba(255, 255, 255, 0.28) 50%, transparent 60%);
     background-size: 250% 100%;
     animation: pg-shine 3.4s ease-in-out infinite;
+    animation-play-state: paused;
     pointer-events: none;
   }
+  :global(html.anim-on) .product-glow::after { animation-play-state: running; }
   @keyframes pg-float {
     0%, 100% { transform: translateY(0); }
     50% { transform: translateY(-3.5px); }
@@ -126,7 +132,9 @@ const showCarousel = sponsoredSites.length > 0;
     -webkit-text-fill-color: transparent;
     color: transparent;
     animation: pg-proflow 2.4s linear infinite;
+    animation-play-state: paused;
   }
+  :global(html.anim-on) .p-pro { animation-play-state: running; }
   @keyframes pg-proflow { to { background-position: -250% 0; } }
   .p-name {
     font-family: var(--font-head);
