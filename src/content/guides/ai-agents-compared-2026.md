@@ -32,6 +32,7 @@ faqs:
 | **GitHub Copilot (coding agent)** | Coding | Hand it an issue, returns a draft PR |
 | **[Manus](/tools/manus/)** | General-purpose automation | Runs async on its own cloud compute |
 | **Lindy AI** | Business workflows | Email, scheduling, CRM — ongoing |
+| **[Code With Us Unlimited](/ai-control-pro/)** | Non-developers, desktop control | Runs on your own machine, plain-English prompts |
 
 ## What actually makes something an "agent"
 
@@ -57,12 +58,16 @@ For general-purpose (non-coding) automation, Manus and Genspark push the furthes
 
 If your bottleneck is administrative rather than technical — email triage, scheduling, CRM updates, internal coordination — [Lindy](/tools/lindy/) is the more relevant comparison than any coding agent here. It's built around ongoing business operations rather than one-off tasks.
 
+## Code With Us Unlimited — desktop control without writing a prompt like a developer
+
+Every agent above assumes some technical comfort — a GitHub issue, a terminal, a CRM setup. [Code With Us Unlimited](/ai-control-pro/) is aimed squarely at the gap: plain-English instructions that drive your actual desktop — opening apps, browsing, organizing files, writing and fixing code — running on your own machine rather than a hosted service. It fits the same "agent, not chatbot" definition above (it plans, executes, and continues without a re-prompt each step), the differentiator is who it's built for: someone who wants that without becoming a developer first.
+
 ## The honest caveat that applies to all of them
 
 Agent reliability in 2026 is genuinely good, not flawless — and every serious deployment, including enterprise ones, still keeps a human in the loop for anything with real consequences. "Autonomous" in practice means "needs less supervision than a chatbot," not "never check its work." Start any of these on something real but low-stakes — a script, a small automation, a first-pass PR — before trusting one with anything customer-facing or financially sensitive.
 
 ## The bottom line
 
-Devin and the async general-purpose agents (Manus, Genspark) sit furthest toward true hands-off execution; Claude Code and Copilot's coding agent are the supervised-but-genuinely-agentic middle ground most teams actually want today; Lindy covers the business-operations side entirely separately from code. None of them are "set and forget" for anything that matters — that's not a limitation to wait out, it's the correct way to use all of them right now.
+Devin and the async general-purpose agents (Manus, Genspark) sit furthest toward true hands-off execution; Claude Code and Copilot's coding agent are the supervised-but-genuinely-agentic middle ground most teams actually want today; Lindy covers the business-operations side entirely separately from code; and Code With Us Unlimited is the pick if you want desktop-level control without a developer's toolkit to start. None of them are "set and forget" for anything that matters — that's not a limitation to wait out, it's the correct way to use all of them right now.
 
 Sources: [minami.ai](https://minami.ai/blog/best-autonomous-ai-agent), [toolcenter.ai](https://www.toolcenter.ai/en/articles/best-ai-agents-2026), [blaxel.ai](https://blaxel.ai/blog/best-ai-agents)

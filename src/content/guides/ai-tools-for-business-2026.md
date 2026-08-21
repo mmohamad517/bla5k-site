@@ -40,7 +40,7 @@ If you run a business in 2026, the question is no longer *whether* to use AI —
 | Customer support | [Chatbase](/tools/chatbase/) | ✅ Yes | ~$19/mo |
 | Ops & knowledge | [Notion](/tools/notion/), Airtable AI | ✅ Yes | $0–$10/mo |
 | Coding & internal tools | [Cursor](/tools/cursor/), [GitHub Copilot](/tools/github-copilot/), [Aider](/tools/aider/) | ✅ Yes | $0–$20/mo |
-| AI agents | [Manus](/tools/manus/), [Pi](/tools/pi/), [Multica](/tools/multica/) | Varies | Varies |
+| AI agents | [Manus](/tools/manus/), [Pi](/tools/pi/), [Multica](/tools/multica/), [Code With Us Unlimited](/ai-control-pro/) | Varies | Varies |
 
 Every row below goes deeper: what the tool actually does for a business, who it fits, and when to skip it.
 
@@ -98,7 +98,7 @@ For non-technical founders, the same tools let you build internal dashboards, au
 
 The biggest shift in the **AI tools 2026** market is agents — AI that doesn't just answer, but *does*: researches, executes, and reports back.
 
-**[Manus](/tools/manus/)** is the general-purpose agent that handles multi-step research and delivery tasks end-to-end. **[Pi](/tools/pi/)** and **[Multica](/tools/multica/)** take the agent harness approach: you wire your own tools and providers into a controllable automation layer, ideal for teams that want agentic workflows without vendor lock-in.
+**[Manus](/tools/manus/)** is the general-purpose agent that handles multi-step research and delivery tasks end-to-end. **[Pi](/tools/pi/)** and **[Multica](/tools/multica/)** take the agent harness approach: you wire your own tools and providers into a controllable automation layer, ideal for teams that want agentic workflows without vendor lock-in. For a small business without a developer on staff, **[Code With Us Unlimited](/ai-control-pro/)** is worth a look specifically because it drives your desktop and browser directly from plain-English instructions — no API keys or harness to configure first.
 
 **Where agents genuinely help businesses today:** competitive research briefs, data gathering across dozens of sources, report drafting, and orchestrating the repetitive parts of a workflow. **Where they don't:** anything with legal, financial, or customer-relationship consequences — yet. Treat agents as a junior analyst with no judgment: fast, thorough, and requiring review on anything that matters.
 
