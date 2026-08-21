@@ -9,6 +9,7 @@ import { getCollection, render } from 'astro:content';
 import { subcategoryBySlug, categoryBySlug } from '../../data/categories';
 import { outboundRel } from '../../lib/links';
 import { toolTitle } from '../../lib/tool-title';
+import { isGenericToolPage } from '../../lib/generic-detect';
 
 export async function getStaticPaths() {
   const sites = await getCollection('sites');
@@ -40,20 +41,48 @@ export async function getStaticPaths() {
 }
 
 const { entry, related } = Astro.props;
-const { Content, headings } = await render(entry);
 const d = entry.data;
+
+// 7,939 of 8,142 tool pages came out of the original bulk-generation pass:
+// identical `notFor` bullets, identical FAQ answers, identical markdown-body
+// prose ("AI has grown past chat for most teams...") with only the tool name
+// swapped in. That's Google's textbook scaled-content-abuse shape, and it's
+// most of the site's remaining page count even after deleting the 2,473
+// worst offenders. Rather than hand-rewrite thousands of pages, these render
+// as an honest, compact directory card instead of a fake long-form review —
+// real tagline, real pricing, real links to comparable tools, nothing invented.
+const isGeneric = isGenericToolPage(d.notFor);
 
 const sub = subcategoryBySlug(d.subcategory);
 const cat = sub ? categoryBySlug(sub.category) : undefined;
 const site = 'https://bla5k.com';
 
-const words = entry.body ? entry.body.split(/\s+/).filter(Boolean).length : 0;
+// Skip parsing markdown nobody will see — it was the majority of build time
+// across 8,000+ pages, and a generic page's body is exactly the filler prose
+// being replaced below.
+const { Content, headings } = isGeneric ? { Content: null, headings: [] } : await render(entry);
+
+const pricingLine = d.pricing === 'free'
+  ? `${d.name} is completely free to use.`
+  : d.pricing === 'freemium'
+  ? `${d.name} has a free tier, with paid plans for more.`
+  : d.pricing === 'paid'
+  ? `${d.name} requires a paid plan — check the official site for current pricing.`
+  : `Pricing for ${d.name} isn't listed here — check the official site for current plans.`;
+
+const words = isGeneric
+  ? pricingLine.split(/\s+/).length
+  : (entry.body ? entry.body.split(/\s+/).filter(Boolean).length : 0);
 const readingTime = Math.max(1, Math.round(words / 220));
 const toc = headings.filter((h) => h.depth === 2);
 
 const title = toolTitle({ name: d.name, slug: entry.id, pricing: d.pricing, metaTitle: d.metaTitle });
 const description = d.metaDescription ?? d.tagline;
 const imageUrl = d.image ? (d.image.startsWith('http') ? d.image : `${site}${d.image}`) : `${site}/og-image.png`;
+
+// A generic page's frontmatter FAQs are the same templated non-answer as its
+// notFor bullets. One genuine, computed question beats five fake ones.
+const faqs = isGeneric ? [{ q: `Is ${d.name} free?`, a: pricingLine }] : (d.faqs ?? []);
 
 const schema = [
   {
@@ -87,10 +116,10 @@ const schema = [
     image: `${site}/og-image.png`,
     wordCount: words,
   },
-  ...(d.faqs && d.faqs.length > 0
+  ...(faqs.length > 0
     ? [{
         '@type': 'FAQPage',
-        mainEntity: d.faqs.map((f) => ({
+        mainEntity: faqs.map((f) => ({
           '@type': 'Question',
           name: f.q,
           acceptedAnswer: { '@type': 'Answer', text: f.a },
@@ -133,7 +162,7 @@ const schema = [
           </a>
         </header>
 
-        {(d.simple || d.example || d.goodFor.length > 0 || d.notFor.length > 0) && (
+        {!isGeneric && (d.simple || d.example || d.goodFor.length > 0 || d.notFor.length > 0) && (
           <section class="explain" aria-label="Quick explainer">
             {d.simple && (
               <div class="ex-card glass">
@@ -175,7 +204,22 @@ const schema = [
         )}
 
         <div class="prose">
-          <Content />
+          {isGeneric ? (
+            <div class="generic-card">
+              <p>{pricingLine}</p>
+              {related.length > 0 && (
+                <p>
+                  Comparing options? bla5k tracks {related.length + 1} tools in {sub?.name ?? cat?.name ?? 'this category'}, including{' '}
+                  {related.map((r, i) => (
+                    <Fragment><a href={`/tools/${r.id}/`}>{r.name}</a>{i < related.length - 1 ? ', ' : '.'}</Fragment>
+                  ))}
+                </p>
+              )}
+              {cat && <p>Browse the full <a href={`/category/${cat.slug}/`}>{cat.name}</a> category for more options.</p>}
+            </div>
+          ) : (
+            <Content />
+          )}
         </div>
 
         <a class="cta-visit btn btn-ghost" href={d.url} target="_blank" rel={outboundRel(d.url, d.affiliate, d.sponsored)}>
