@@ -11,7 +11,7 @@ tags:
   - Tool
 featured: false
 updated: 2026-08-10
-metaTitle: AI Detector - AI Tool Review & Guide 2026
+metaTitle: "AI Essay Detector: How Reliable Is the Score, Really?"
 metaDescription: AI Detector evaluates text for AI authorship likelihood, delivering a percentage score.
 simple: AI Detector evaluates text for AI authorship likelihood, delivering a percentage score.
 example: Give AI Detector one real task — a prompt, a file, or a request — and it returns a usable result for your ai detection workflow.
