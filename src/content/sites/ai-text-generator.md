@@ -11,7 +11,7 @@ tags:
   - Tool
 featured: false
 updated: 2026-08-10
-metaTitle: AI Text Generator - AI Tool Review & Guide 2026
+metaTitle: "AI Text Generator: Free, Multilingual — Any Good?"
 metaDescription: Generates original multilingual text with selectable styles, tone, and structure.
 simple: Generates original multilingual text with selectable styles, tone, and structure.
 example: Give AI Text Generator one real task — a prompt, a file, or a request — and it returns a usable result for your ai content writing workflow.
