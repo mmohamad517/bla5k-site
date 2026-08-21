@@ -33,10 +33,49 @@ const BUY = 'https://whop.com/nirvana-millionaire/unlimited-ai-code/';
           </a>
         </div>
 
-        <!-- STATIC IPHONE FRAME -->
+        <!-- STATIC IPHONE FRAME — an illustrative mockup of task types, not a
+             real screenshot or live data (the product is sold on a separate
+             platform and we don't have a genuine screenshot to show). -->
         <div class="iphone-frame">
           <div class="iphone-screen">
-            <p class="screen-caption">See it running on your own desktop after you get access.</p>
+            <p class="screen-label">Example tasks it can run</p>
+            <div class="task-row">
+              <span class="task-icon" style="background:rgba(255,0,127,.15); color:#ff007f">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>
+              </span>
+              <div class="task-text">
+                <div class="task-title">Writing &amp; fixing code</div>
+                <div class="task-sub">In your own editor, on your machine</div>
+              </div>
+            </div>
+            <div class="task-row">
+              <span class="task-icon" style="background:rgba(0,240,255,.15); color:#00f0ff">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/></svg>
+              </span>
+              <div class="task-text">
+                <div class="task-title">Browsing &amp; reading a page</div>
+                <div class="task-sub">Following links, extracting data</div>
+              </div>
+            </div>
+            <div class="task-row">
+              <span class="task-icon" style="background:rgba(16,185,129,.15); color:#10b981">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect width="20" height="14" x="2" y="3" rx="2"/><line x1="8" x2="16" y1="21" y2="21"/><line x1="12" x2="12" y1="17" y2="21"/></svg>
+              </span>
+              <div class="task-text">
+                <div class="task-title">Opening &amp; controlling an app</div>
+                <div class="task-sub">Clicking, typing, navigating for you</div>
+              </div>
+            </div>
+            <div class="task-row">
+              <span class="task-icon" style="background:rgba(255,0,127,.15); color:#ff007f">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" x2="12" y1="15" y2="3"/></svg>
+              </span>
+              <div class="task-text">
+                <div class="task-title">Organizing downloaded files</div>
+                <div class="task-sub">Sorted into folders automatically</div>
+              </div>
+            </div>
+            <p class="screen-caption">Illustrative — see it running on your own desktop after you get access.</p>
           </div>
         </div>
       </section>
@@ -323,15 +362,44 @@ const BUY = 'https://whop.com/nirvana-millionaire/unlimited-ai-code/';
     height: 100%;
     background: #090a10;
     border-radius: 38px;
-    padding: 55px 20px 15px;
+    padding: 55px 16px 20px;
     display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
+    flex-direction: column;
+    gap: 10px;
     overflow: hidden;
     position: relative;
   }
-  .screen-caption { color: #a1a1aa; font-size: 0.95rem; line-height: 1.5; }
+  .screen-label {
+    font-family: var(--font-head);
+    font-weight: 700;
+    font-size: 0.72rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #71717a;
+    margin-bottom: 4px;
+  }
+  .task-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 14px;
+    padding: 10px 12px;
+  }
+  .task-icon {
+    flex: none;
+    width: 32px;
+    height: 32px;
+    border-radius: 9px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .task-text { min-width: 0; }
+  .task-title { font-size: 0.82rem; font-weight: 700; color: #f4f4f5; }
+  .task-sub { font-size: 0.7rem; color: #71717a; margin-top: 1px; }
+  .screen-caption { color: #52525b; font-size: 0.68rem; line-height: 1.5; margin-top: auto; text-align: center; }
 
   /* Grids */
   .features-grid {
