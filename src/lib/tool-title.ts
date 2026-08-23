@@ -73,7 +73,7 @@ const ANGLES: Record<'free' | 'freemium' | 'paid' | 'unknown', string[][]> = {
 };
 
 /** Stable across builds: the same slug always picks the same angle. */
-function pick(slug: string, n: number) {
+export function pick(slug: string, n: number) {
   let h = 0;
   for (let i = 0; i < slug.length; i++) h = (h * 31 + slug.charCodeAt(i)) >>> 0;
   return h % n;
