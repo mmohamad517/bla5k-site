@@ -9,7 +9,7 @@ import { getCollection, render } from 'astro:content';
 import { subcategoryBySlug, categoryBySlug } from '../../data/categories';
 import { outboundRel } from '../../lib/links';
 import { toolTitle } from '../../lib/tool-title';
-import { isGenericToolPage } from '../../lib/generic-detect';
+import { isGenericToolPage, pricingLine as getPricingLine, compareOpener } from '../../lib/generic-detect';
 
 export async function getStaticPaths() {
   const sites = await getCollection('sites');
@@ -62,13 +62,7 @@ const site = 'https://bla5k.com';
 // being replaced below.
 const { Content, headings } = isGeneric ? { Content: null, headings: [] } : await render(entry);
 
-const pricingLine = d.pricing === 'free'
-  ? `${d.name} is completely free to use.`
-  : d.pricing === 'freemium'
-  ? `${d.name} has a free tier, with paid plans for more.`
-  : d.pricing === 'paid'
-  ? `${d.name} requires a paid plan — check the official site for current pricing.`
-  : `Pricing for ${d.name} isn't listed here — check the official site for current plans.`;
+const pricingLine = getPricingLine(d.name, entry.id, d.pricing);
 
 const words = isGeneric
   ? pricingLine.split(/\s+/).length
@@ -209,7 +203,7 @@ const schema = [
               <p>{pricingLine}</p>
               {related.length > 0 && (
                 <p>
-                  Comparing options? bla5k tracks {related.length + 1} tools in {sub?.name ?? cat?.name ?? 'this category'}, including{' '}
+                  {compareOpener(entry.id, related.length + 1, sub?.name ?? cat?.name ?? 'this category')}{' '}
                   {related.map((r, i) => (
                     <Fragment><a href={`/tools/${r.id}/`}>{r.name}</a>{i < related.length - 1 ? ', ' : '.'}</Fragment>
                   ))}
