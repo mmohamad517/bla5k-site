@@ -105,6 +105,34 @@ function loadToolIndex() {
 const TOOL_INDEX = loadToolIndex();
 
 /**
+ * AdSense's own site review flagged bla5k as "Low value content" (thin
+ * content) — separate from, but caused by the same root issue as, the
+ * scaled-content-abuse hit to organic search. 7,939 of 8,142 tool pages are
+ * short, honest directory cards (see src/pages/tools/[slug].astro), which is
+ * the right call for what they show a visitor, but still reads as thin
+ * content at that volume when every one of them is indexed. Rather than
+ * keep asking Google/AdSense to index ~8k three-sentence pages, only the
+ * hand-written pages (this same marker string, mirrored from
+ * src/lib/generic-detect.ts) go in the sitemap and get an indexable
+ * <meta name="robots">; the rest stay live and linked for visitors and
+ * internal link equity, just noindexed.
+ */
+const GENERIC_NOTFOR_0 = 'You need the absolute best specialist for a highly niche format';
+function loadNoindexToolSlugs() {
+  const dir = 'src/content/sites';
+  const slugs = new Set();
+  try {
+    for (const f of readdirSync(dir)) {
+      if (!f.endsWith('.md')) continue;
+      const text = readFileSync(dir + '/' + f, 'utf8');
+      if (text.includes(GENERIC_NOTFOR_0)) slugs.add(f.replace(/\.md$/, ''));
+    }
+  } catch {}
+  return slugs;
+}
+const NOINDEX_TOOL_SLUGS = loadNoindexToolSlugs();
+
+/**
  * Leftmost tool mention in `text` that `accept(slug)` allows, or null.
  * Walks tokens once and probes the longest candidate name first so
  * "Adobe Firefly" wins over a bare "Adobe".
@@ -237,8 +265,15 @@ export default defineConfig({
       changefreq: 'weekly',
       priority: 0.7,
       customPages: ['https://bla5k.com/llms.txt'],
-      // RSS feeds are machine-readable endpoints, not indexable HTML pages.
-      filter: (page) => !/\/rss(-tools|-guides)?\.xml$/.test(page),
+      filter: (page) => {
+        // RSS feeds are machine-readable endpoints, not indexable HTML pages.
+        if (/\/rss(-tools|-guides)?\.xml$/.test(page)) return false;
+        // Keep noindexed generic tool cards out of the sitemap — listing a
+        // page there while telling Google not to index it is a mixed signal.
+        const m = page.match(/\/tools\/([^/]+)\/?$/);
+        if (m && NOINDEX_TOOL_SLUGS.has(m[1])) return false;
+        return true;
+      },
     }),
   ],
 });
